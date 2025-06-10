@@ -1,0 +1,450 @@
+{
+  "images": [
+    {
+      "startdate": "20250609",
+      "fullstartdate": "202506092200",
+      "enddate": "20250610",
+      "urlbase": "https://www.bing.com/th?id=OHR.AerialEverglades_DE-DE7864298334_UHD.jpg",
+      "copyrighttext": "© Robert DelVecchio - OcuDrone/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Everglades-Nationalpark+Florida&form=BGALM&filters=HpDate:\"20250609_2200\"",
+      "title": "Luftaufnahme des Everglades-Nationalparks, Florida, USA",
+      "description": "Unser heutiges Bild entführt uns in die beeindruckenden Weiten des Everglades-Nationalparks im Süden Floridas. Mit über 6.100 km² ist dieser Park das größte tropische Feuchtgebiet der USA und ein wahres Naturwunder. Die eindrucksvolle Landschaft ist geprägt von Flüssen, Mangrovenwäldern, Süßwassermarschen und endlosen Graslandschaften. Dieses einzigartige Ökosystem, auch „River of Grass“ genannt, beherbergt zahlreiche Tier- und Pflanzenarten, darunter der gefährdete Florida-Panther, das Amerikanische Spitzkrokodil und den majestätischen Weißkopfseeadler. Der Park wird von einem langsam fließenden Fluss gespeist, der sich vom Lake Okeechobee bis zur Florida Bay erstreckt, und bietet Besuchern vielfältige Möglichkeiten zur Erkundung – sei es zu Fuß, mit dem Kajak oder per Airboat. Als UNESCO-Welterbe und Biosphärenreservat spielen die Everglades eine entscheidende Rolle im Erhalt des Klimas und der Artenvielfalt.",
+      "headline": "Ein Fluss aus Gras",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250610_AerialEverglades\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26,-80.7/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=26,-80.7;S9;Everglades-Nationalpark, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Everglades%2C%20Florida%2C%20United%20States&satid=id.sid%3A06368b79-0b63-efcd-976c-d9fddb294bfb&vdpid=5502097671092961281&mb=26.00483~-80.708334~25.995168~-80.691683&cardbg=%23F98745&dt=1744887600000&tt=Everglades%2C%20FL&tsts2=%2526ty%253D30%2526q%253DEverglades%25252C%252520Florida%25252C%252520United%252520States%2526satid%253Did.sid%25253A06368b79-0b63-efcd-976c-d9fddb294bfb%2526vdpid%253D5502097671092961281%2526mb%253D26.00483~-80.708334~25.995168~-80.691683%2526cardbg%253D%252523F98745%2526dt%253D1744887600000&tstt2=Everglades%2C%20FL&cp=23.921202~-93.740144&lvl=4.9098587&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Florida%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Florida, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Florida%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250608",
+      "fullstartdate": "202506082200",
+      "enddate": "20250609",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2019-B17_BW_LakeMoraineBanffAlberta_AdobeStock_103591098",
+      "copyrighttext": "© rabbit75_fot/stock.adobe.com",
+      "copyrightlink": "https://www.bing.com/search?q=Banff NP, Canada&form=BGALM",
+      "title": "Banff NP, Canada",
+      "description": "Moraine Lake boats",
+      "headline": "Banff NP, Canada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=18&q=Banff%20NP%2C%20Canada&ss=ypid.YN1226x225001214461929305&mb=51.183775~-115.579745~51.172139~-115.560755&description=224%20Banff%20Ave%2C%20Banff%20AB%20T1L%201C3&cardbg=%233DB838&dt=1737662400000&tt=Banff%20National%20Park&tsts5=%2526ty%253D18%2526q%253DBanff%252520NP%25252C%252520Canada%2526ss%253Dypid.YN1226x225001214461929305%2526mb%253D51.183775~-115.579745~51.172139~-115.560755%2526description%253D224%252520Banff%252520Ave%25252C%252520Banff%252520AB%252520T1L%2525201C3%2526cardbg%253D%2525233DB838%2526dt%253D1737662400000&tstt5=Banff%20National%20Park&cp=51.177957~-115.580721&lvl=16&pi=0&ftst=5&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=Canada&SID=370ed614-32e1-4326-a356-dc0a7dd56aaa&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Canada"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Canada&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250608",
+      "fullstartdate": "202506082200",
+      "enddate": "20250609",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2019-B17_Landmarks_TajMahalIndia_AdobeStock_71584569",
+      "copyrighttext": "© Rawpixel.com/stock.adobe.com",
+      "copyrightlink": "https://www.bing.com/search?q=India&form=BGALM",
+      "title": "India",
+      "description": "Beautiful Scenery of Taj Mahal ",
+      "headline": "India",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Taj%20Mahal%2C%20India&vdpid=7411463732393410561&mb=27.176147~78.040089~27.173882~78.044109&cardbg=%23F98745&dt=1737662400000&tt=Taj%20Mahal%2C%20Uttar%20Pradesh&tsts4=%2526ty%253D30%2526q%253DTaj%252520Mahal%25252C%252520India%2526vdpid%253D7411463732393410561%2526mb%253D27.176147~78.040089~27.173882~78.044109%2526cardbg%253D%252523F98745%2526dt%253D1737662400000&tstt4=Taj%20Mahal%2C%20Uttar%20Pradesh&cp=27.175015~78.041369&lvl=18.865345&pi=0&ftst=4&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=India&SID=85fa63d3-9596-adb9-b4eb-502273d84f56&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=India&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250607",
+      "fullstartdate": "202506072200",
+      "enddate": "20250608",
+      "urlbase": "https://www.bing.com/th?id=OHR.StellarSeaLions_DE-DE0269577220_UHD.jpg",
+      "copyrighttext": "© Steve Woods Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Welttag+der+Ozeane&form=BGALM&filters=HpDate:\"20250607_2200\"",
+      "title": "Stellersche Seelöwen, Vancouver Island, British Columbia, Kanada",
+      "description": "Wussten Sie, dass heute der Welttag der Ozeane gefeiert wird? Dieser besondere Tag wurde 2008 ins Leben gerufen, um die immense Bedeutung der Ozeane und die Bedrohungen, denen sie ausgesetzt sind, ins Bewusstsein zu rücken. Jedes Jahr steht der Tag unter einem neuen Motto, das dazu einlädt, über unsere Beziehung zu den Meeren nachzudenken und aktiv zu werden. Das diesjährige Motto „WONDER: Sustaining What Sustains Us“ erinnert uns daran, wie wichtig der Erhalt der Ozeane für das Gleichgewicht unseres Planeten ist. Die Meere bedecken mehr als 70 % der Erdoberfläche, regulieren unser Klima, sichern die Ernährung von Milliarden Menschen und bieten Lebensraum für unzählige Arten – darunter die Stellerschen Seelöwen, die auf unserem heutigen Bild zu sehen sind. Doch unsere Ozeane stehen unter Druck: Plastikverschmutzung, Überfischung und Klimawandel gefährden ihre Zukunft.",
+      "headline": "Mitteilungsfreudige Schwimmer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250608_StellarSeaLions\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Welttag+der+Ozeane&form=BGABWCTA7&filters=HpDate:\"20250607_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250606",
+      "fullstartdate": "202506062200",
+      "enddate": "20250607",
+      "urlbase": "https://www.bing.com/th?id=OHR.PacificCrestTrail_DE-DE7215406983_UHD.jpg",
+      "copyrighttext": "© Matthew Kuhns/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Angeles+National+Forest+Kalifornien&form=BGALM&filters=HpDate:\"20250606_2200\"",
+      "title": "Gipfel des Pine Mountain, Angeles National Forest, Kalifornien, USA",
+      "description": "Der sonnenverwöhnte US-Bundesstaat Kalifornien beeindruckt mit einer facettenreichen Landschaft, die weit mehr bietet als hippe Metropolen und Surferparadiese. Abseits des pulsierenden Lebens erstrecken sich wahre Naturparadiese wie der rund 2.700 km² große Angeles National Forest. Ein besonderes Highlight ist der Pine Mountain, der auf unserem heutigen Bild zu sehen ist. Mit seinen über 2.940 Metern Höhe thront dieser Gipfel in den San Gabriel Mountains und begeistert mit uralten Kiefern, dramatischen Felsformationen und beeindruckenden Panoramablicken. Nicht weniger beeindruckend ist der legendäre Pacific Crest Trail (PCT), ein über 4.200 Kilometer langer Fernwanderweg von Mexiko bis Kanada. Jahr für Jahr zieht er Abenteurer aus aller Welt an, die die Herausforderung suchen, Kaliforniens Wüsten, Berge und Wälder zu durchqueren.",
+      "headline": "Auf abgelegenen Pfaden",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250607_PacificCrestTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.147243,-118.032722/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=34.147243,-118.032722;S9;Angeles National Forest, Kalifornien, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Angeles%20National%20Forest&ss=ypid.YN84x162171648&mb=34.151386~-118.035908~34.143093~-118.029556&description=701%20N%20Santa%20Anita%20Ave%2C%20Arcadia%2C%20CA%2091006&cardbg=%23219AB6&dt=1745314200000&tt=Angeles%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DAngeles%252520National%252520Forest%2526ss%253Dypid.YN84x162171648%2526mb%253D34.151386~-118.035908~34.143093~-118.029556%2526description%253D701%252520N%252520Santa%252520Anita%252520Ave%25252C%252520Arcadia%25252C%252520CA%25252091006%2526cardbg%253D%252523219AB6%2526dt%253D1745314200000&tstt0=Angeles%20National%20Forest&cp=34.201455~-121.852966&lvl=5.37&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Angeles+National+Forest%2c+Kalifornien%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Angeles National Forest, Kalifornien, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Angeles+National+Forest%2c+Kalifornien%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250605",
+      "fullstartdate": "202506052200",
+      "enddate": "20250606",
+      "urlbase": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_DE-DE7732789552_UHD.jpg",
+      "copyrighttext": "© bluejayphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dubrovnik&form=BGALM&filters=HpDate:\"20250605_2200\"",
+      "title": "Altstadt von Dubrovnik in Dalmatien, Kroatien",
+      "description": "Auf dem heutigen Bild ist die Altstadt von Dubrovnik in Dalmatien, Kroatien, zu sehen, die auch als die „Perle der Adria“ bekannt ist. Die am Adriatischen Meer gelegene historische Stadt zeichnet sich durch ihre beeindruckende mittelalterliche Architektur aus, zu der die berühmten Stadtmauern, Kirchen und Paläste gehören. Dubrovnik ist auch dafür berühmt, Hauptdrehort der fiktiven Stadt Königsmund in der Serie „Game of Thrones“ zu sein. Dies hat zahlreiche Fans der Serie dazu veranlasst, die Straßen und Denkmäler der Stadt zu erkunden.",
+      "headline": "Mittelalterlicher Charme",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250606_DubrovnikTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.64028,18.10833/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=42.64028,18.10833;S9;Dubrovnik, Kroatien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dubrovnik%20Croatia&satid=id.sid%3A064f225a-89eb-5e8a-3f70-a4c2dfd1385c&vdpid=7217419650970157058&mb=42.780373~17.7517~42.620876~18.172008&cardbg=%23F98745&tt=Dubrovnik%2C%20Dubrovnik-Neretva%20County%2C%20Croatia&tsts0=%2526ty%253D30%2526q%253DDubrovnik%252520Croatia%2526satid%253Did.sid%25253A064f225a-89eb-5e8a-3f70-a4c2dfd1385c%2526vdpid%253D7217419650970157058%2526mb%253D42.780373~17.7517~42.620876~18.172008%2526cardbg%253D%252523F98745&tstt0=Dubrovnik%2C%20Dubrovnik-Neretva%20County%2C%20Croatia&cp=42.420549~11.700348&lvl=6.1814823&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Kroatien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Kroatien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Kroatien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250604",
+      "fullstartdate": "202506042200",
+      "enddate": "20250605",
+      "urlbase": "https://www.bing.com/th?id=OBGA.ChainBridgeBudapest_shutterstock_1153376083",
+      "copyrighttext": "© ZGPhotography/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Budapest, Hungary&form=BGALM",
+      "title": "Budapest, Hungary",
+      "description": "Szechenyi Chain Bridge at sunrise",
+      "headline": "Budapest, Hungary",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Budapest%2C%20Hungary&satid=id.sid%3Acc987de1-03c9-4967-a1a2-ada14f9ee10f&vdpid=7024670108073066497&mb=47.613155~18.822411~47.349678~19.437622&cardbg=%23F98745&tt=Budapest%2C%20Budapest%2C%20Hungary&tsts2=%2526ty%253D30%2526q%253DBudapest%25252C%252520Hungary%2526satid%253Did.sid%25253Acc987de1-03c9-4967-a1a2-ada14f9ee10f%2526vdpid%253D7024670108073066497%2526mb%253D47.613155~18.822411~47.349678~19.437622%2526cardbg%253D%252523F98745&tstt2=Budapest%2C%20Budapest%2C%20Hungary&cp=47.481461~19.018268&lvl=11.607386&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=Budapest&SID=cc987de1-03c9-4967-a1a2-ada14f9ee10f&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Hungary"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Hungary&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250603",
+      "fullstartdate": "202506032200",
+      "enddate": "20250604",
+      "urlbase": "https://www.bing.com/th?id=OHR.CalaLuna_DE-DE8318114983_UHD.jpg",
+      "copyrighttext": "© guenterguni/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sardinien&form=BGALM&filters=HpDate:\"20250603_2200\"",
+      "title": "Strand Cala Luna, Sardinien, Italien",
+      "description": "Auf dem heutigen Bild ist der Strand Cala Luna auf Sardinien, Italien, zu sehen. Sardinien ist eine Insel, die für ihre beeindruckenden Küstenlandschaften und kristallklaren Gewässer bekannt ist. Cala Luna ist besonders berühmt für ihre einzigartigen Felsformationen und ihren weißen Sand, was sie zu einem beliebten Ziel für Touristen und Naturliebhaber macht. Außerdem ist der Strand nur mit dem Boot oder über einen Wanderweg erreichbar, was dem Besuch ein Abenteuergefühl verleiht. Cala Luna war auch Schauplatz mehrerer Filmproduktionen, die ihre natürliche Schönheit auf der Leinwand hervorheben.",
+      "headline": "Lebendige Blautöne, klare Ansichten",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250604_CalaLuna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40,9/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=40,9;S9;Sardinien, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Sardinia&satid=id.sid%3A2ac543b8-3c5f-c1c2-9c26-7153eb61c3d0&vdpid=9870996&mb=45.016281~-5.939096~34.056624~18.102518&cardbg=%23F98745&dt=1745152200000&tt=Sardinia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DSardinia%2526satid%253Did.sid%25253A2ac543b8-3c5f-c1c2-9c26-7153eb61c3d0%2526vdpid%253D9870996%2526mb%253D45.016281~-5.939096~34.056624~18.102518%2526cardbg%253D%252523F98745%2526dt%253D1745152200000&tstt0=Sardinia%2C%20Italy&cp=39.935555~-4.968122&lvl=4.9555116&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "4. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Sardinien%2c+Italien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Sardinien, Italien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Sardinien%2c+Italien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250602",
+      "fullstartdate": "202506022200",
+      "enddate": "20250603",
+      "urlbase": "https://www.bing.com/th?id=OHR.BicyclesUtrecht_DE-DE4256517633_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Weltfahrradtag&form=BGALM&filters=HpDate:\"20250602_2200\"",
+      "title": "Fahrräder auf einer Brücke in Utrecht, Niederlande",
+      "description": "Jedes Jahr am 3. Juni wird dem wohl umweltfreundlichsten und gesündesten Fortbewegungsmittel besondere Aufmerksamkeit gewidmet: dem Fahrrad. Heute feiern wir sowohl den Europäischen Tag des Fahrrads, der 1998 ins Leben gerufen wurde, als auch den Weltfahrradtag, der am 12. April 2018 von den Vereinten Nationen ausgerufen wurde, um auf die vielfältigen Vorteile der Fahrradnutzung aufmerksam zu machen. Das Fahrrad ist nicht nur ein Symbol für nachhaltigen Verkehr, sondern auch ein verlässlicher Begleiter im Alltag – sei es auf dem Weg zur Arbeit, bei sportlichen Ausflügen oder bei entspannten Touren durch die Natur. In den Niederlanden gehört das Radfahren zum Alltag wie der Käse aufs Brot. Besonders die Fahrradstadt Utrecht, die auf unserem heutigen Bild zu sehen ist, beeindruckt mit einem gigantischen Fahrradparkhaus am Hauptbahnhof, das über 12.000 Rädern Platz bietet.",
+      "headline": "Zwischen Grachten und Fahrrädern",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250603_BicyclesUtrecht\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.09083,5.121666/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.09083,5.121666;S9;Utrecht, Niederlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Utrecht&satid=id.sid%3Aa8d8cc1d-91dc-bb11-1cb7-dbf0d0b18369&vdpid=7009561580031442960&mb=52.190717~4.535575~51.875118~5.400321&cardbg=%23F98745&tt=Utrecht%2C%20Utrecht%2C%20Netherlands&tsts0=%2526ty%253D30%2526q%253DUtrecht%2526satid%253Did.sid%25253Aa8d8cc1d-91dc-bb11-1cb7-dbf0d0b18369%2526vdpid%253D7009561580031442960%2526mb%253D52.190717~4.535575~51.875118~5.400321%2526cardbg%253D%252523F98745&tstt0=Utrecht%2C%20Utrecht%2C%20Netherlands&cp=50.585423~-4.550134&lvl=5.533792&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Niederlande&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Niederlande"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Niederlande&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    }
+  ]
+}

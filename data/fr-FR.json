@@ -1,0 +1,400 @@
+{
+  "images": [
+    {
+      "startdate": "20250609",
+      "fullstartdate": "202506092200",
+      "enddate": "20250610",
+      "urlbase": "https://www.bing.com/th?id=OHR.AerialEverglades_FR-FR3171066688_UHD.jpg",
+      "copyrighttext": "© Robert DelVecchio - OcuDrone/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=parc+national+des+Everglades&form=BGALM&filters=HpDate:\"20250609_2200\"",
+      "title": "Vue aérienne du parc national des Everglades, Floride, États-Unis",
+      "description": "Ne serait-il pas fascinant d’apercevoir notre reflet au-dessus de ce dédale d’eau et d’herbes ? Les Everglades, en Floride, forment le plus vaste territoire subtropical protégé des États-Unis, avec environ 6 105 km², soit à peu près la taille de la région Île-de-France. Ce parc national préserve 20 % des zones humides originelles et abrite des espèces rares comme le lamantin des Caraïbes, le crocodile américain et la panthère de Floride.",
+      "headline": "Everglades, un souffle d'eau et de vie",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250610_AerialEverglades\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26,-80.7/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=26,-80.7;S9;Parc national des Everglades, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Everglades%2C%20Florida%2C%20United%20States&satid=id.sid%3A06368b79-0b63-efcd-976c-d9fddb294bfb&vdpid=5502097671092961281&mb=26.00483~-80.708334~25.995168~-80.691683&cardbg=%23F98745&dt=1744887600000&tt=Everglades%2C%20FL&tsts2=%2526ty%253D30%2526q%253DEverglades%25252C%252520Florida%25252C%252520United%252520States%2526satid%253Did.sid%25253A06368b79-0b63-efcd-976c-d9fddb294bfb%2526vdpid%253D5502097671092961281%2526mb%253D26.00483~-80.708334~25.995168~-80.691683%2526cardbg%253D%252523F98745%2526dt%253D1744887600000&tstt2=Everglades%2C%20FL&cp=23.921202~-93.740144&lvl=4.9098587&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Floride%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Floride, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Floride%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250608",
+      "fullstartdate": "202506082200",
+      "enddate": "20250609",
+      "urlbase": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_FR-FR3018802906_UHD.jpg",
+      "copyrighttext": "© bluejayphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dubrovnik&form=BGALM&filters=HpDate:\"20250608_2200\"",
+      "title": "Vieille ville de Dubrovnik, Dalmatie, Croatie",
+      "description": "À l’aube, les pavés polis de la vieille ville de Dubrovnik captent la lumière comme une mer de marbre doré. Classée au patrimoine mondial de l’UNESCO, cette cité croate, ceinturée de remparts médiévaux, semble suspendue entre histoire et légende. De la porte Pile à la tour de l’Horloge, chaque pierre raconte des siècles de diplomatie, de commerce et de résilience.",
+      "headline": "La perle de l'Adriatique",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250609_DubrovnikTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.64028,18.10833/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=42.64028,18.10833;S9;Dubrovnik, Croatie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dubrovnik%20Croatia&satid=id.sid%3A064f225a-89eb-5e8a-3f70-a4c2dfd1385c&vdpid=7217419650970157058&mb=42.780373~17.7517~42.620876~18.172008&cardbg=%23F98745&tt=Dubrovnik%2C%20Dubrovnik-Neretva%20County%2C%20Croatia&tsts0=%2526ty%253D30%2526q%253DDubrovnik%252520Croatia%2526satid%253Did.sid%25253A064f225a-89eb-5e8a-3f70-a4c2dfd1385c%2526vdpid%253D7217419650970157058%2526mb%253D42.780373~17.7517~42.620876~18.172008%2526cardbg%253D%252523F98745&tstt0=Dubrovnik%2C%20Dubrovnik-Neretva%20County%2C%20Croatia&cp=42.420549~11.700348&lvl=6.1814823&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Dalmatie%2c+Croatie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Dalmatie, Croatie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Dalmatie%2c+Croatie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250607",
+      "fullstartdate": "202506072200",
+      "enddate": "20250608",
+      "urlbase": "https://www.bing.com/th?id=OHR.StellarSeaLions_FR-FR2842179483_UHD.jpg",
+      "copyrighttext": "© Steve Woods Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+de+l%27oc%c3%a9an&form=BGALM&filters=HpDate:\"20250607_2200\"",
+      "title": "Lions de mer de Steller, île de Vancouver, Colombie-Britannique, Canada",
+      "description": "Dans les eaux froides de la Colombie-Britannique canadienne, une colonie de lions de mer de Steller glisse entre les algues et les rochers. Les mâles peuvent peser jusqu’à 550 kg et défendent leur territoire par des rugissements sourds. Les femelles, plus petites, reconnaissent leur petit grâce à des appels uniques. Malgré leur taille, ces animaux restent vulnérables : orques, grands requins et pression humaine pèsent sur leur survie. Leur statut est aujourd’hui quasi menacé.",
+      "headline": "Préserver ce qui nous préserve",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250608_StellarSeaLions\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+de+l%27oc%c3%a9an&form=BGABWCTA7&filters=HpDate:\"20250607_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250606",
+      "fullstartdate": "202506062200",
+      "enddate": "20250607",
+      "urlbase": "https://www.bing.com/th?id=OHR.NuitBlancheParis_FR-FR2686890778_UHD.jpg",
+      "copyrighttext": "© Francois Roux/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=nuit+blanche&form=BGALM&filters=HpDate:\"20250606_2200\"",
+      "title": "Vue aérienne de Paris au crépuscule avec le Jardin des Tuileries, le Louvre et le Sacré-Cœur de Montmartre",
+      "description": "Depuis sa création en 2002, la Nuit Blanche invite les habitants et les visiteurs à redécouvrir la ville sous un autre regard. Inspirée d’un concept venu d’Helsinki, cette nuit dédiée à l’art contemporain transforme Paris en un immense musée à ciel ouvert. À l’heure où les toits se teintent d’or et d’indigo, les rues, les monuments et les jardins deviennent les scènes d’une exploration artistique sans frontières.",
+      "headline": "Paris, musée à ciel ouvert pour une nuit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250607_NuitBlancheParis\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=nuit+blanche&form=BGABWCTA7&filters=HpDate:\"20250606_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250605",
+      "fullstartdate": "202506052200",
+      "enddate": "20250606",
+      "urlbase": "https://www.bing.com/th?id=OHR.NormandyBeach_FR-FR1019139404_UHD.jpg",
+      "copyrighttext": "© Horia Merla/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Plages+du+d%c3%a9barquement&form=BGALM&filters=HpDate:\"20250605_2200\"",
+      "title": "Plage du débarquement d’Arromanches-les-Bains, Normandie",
+      "description": "À marée basse, les vestiges du port artificiel d’Arromanches émergent de la mer comme autant de témoins silencieux. Le 6 juin 1944, cette plage de Normandie a vu débarquer les forces alliées venues libérer l’Europe occupée. Aujourd’hui, le site reste l’un des symboles les plus puissants du Débarquement, dont nous commémorons le 81e anniversaire cette année.",
+      "headline": "Des plages chargées d'Histoire",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250606_NormandyBeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.33917,-0.6225/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=49.33917,-0.6225;S9;Arromanches-les-Bains&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Arromanches-les-Bains&satid=id.sid%3Aa61d2835-bf13-0fd2-0a31-7a22e58c64a8&vdpid=5474957058795110401&mb=49.34071~-0.63531~49.330025~-0.608063&cardbg=%23F98745&tt=Arromanches-les-Bains%2C%20Normandy%2C%20France&tsts0=%2526ty%253D30%2526q%253DArromanches-les-Bains%2526satid%253Did.sid%25253Aa61d2835-bf13-0fd2-0a31-7a22e58c64a8%2526vdpid%253D5474957058795110401%2526mb%253D49.34071~-0.63531~49.330025~-0.608063%2526cardbg%253D%252523F98745&tstt0=Arromanches-les-Bains%2C%20Normandy%2C%20France&cp=48.69096~-19.6875&lvl=4&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Normandie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Normandie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Normandie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250604",
+      "fullstartdate": "202506042200",
+      "enddate": "20250605",
+      "urlbase": "https://www.bing.com/th?id=OBGA.BingHP_shutterstock_394633729",
+      "copyrighttext": "© Rusinka/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Madeira, Portugal&form=BGALM",
+      "title": "Madeira, Portugal",
+      "description": "Mountain trail in Madeira above the clouds on a sunny afternoon",
+      "headline": "Madeira, Portugal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Madeira%2C%20Portugal&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.415078~30.0271~-13.707912&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%25252C%252520Portugal%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.415078~30.0271~-13.707912%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=31.5791~-17.598735&lvl=8.393764&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=Madeira&SID=fd1c338d-a716-e095-102a-5ac3106ddd68&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Portugal"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Portugal&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250603",
+      "fullstartdate": "202506032200",
+      "enddate": "20250604",
+      "urlbase": "https://www.bing.com/th?id=OHR.CalaLuna_FR-FR6223009660_UHD.jpg",
+      "copyrighttext": "© guenterguni/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sardaigne&form=BGALM&filters=HpDate:\"20250603_2200\"",
+      "title": "Plage de Cala Luna, Sardaigne, Italie",
+      "description": "Au cœur du golfe italien d’Orosei, sur la côte est de la Sardaigne, Cala Luna s’étend comme une parenthèse de sable blond entre une mer turquoise et des falaises calcaires. Accessible uniquement à pied ou par bateau, cette plage semi-sauvage est bordée de grottes naturelles creusées dans la roche. Son isolement en fait un refuge prisé, loin des foules, où chaque baignade semble suspendre le temps.",
+      "headline": "Une crique au parfum de lune",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250604_CalaLuna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40,9/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=40,9;S9;Sardaigne, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Sardinia&satid=id.sid%3A2ac543b8-3c5f-c1c2-9c26-7153eb61c3d0&vdpid=9870996&mb=45.016281~-5.939096~34.056624~18.102518&cardbg=%23F98745&dt=1745152200000&tt=Sardinia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DSardinia%2526satid%253Did.sid%25253A2ac543b8-3c5f-c1c2-9c26-7153eb61c3d0%2526vdpid%253D9870996%2526mb%253D45.016281~-5.939096~34.056624~18.102518%2526cardbg%253D%252523F98745%2526dt%253D1745152200000&tstt0=Sardinia%2C%20Italy&cp=39.935555~-4.968122&lvl=4.9555116&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "4 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Sardaigne%2c+Italie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Sardaigne, Italie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Sardaigne%2c+Italie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250602",
+      "fullstartdate": "202506022200",
+      "enddate": "20250603",
+      "urlbase": "https://www.bing.com/th?id=OHR.BicyclesUtrecht_FR-FR5996200127_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+de+la+bicyclette&form=BGALM&filters=HpDate:\"20250602_2200\"",
+      "title": "Vélos sur un pont à Utrecht, Pays-Bas",
+      "description": "À Utrecht, aux Pays-Bas, les vélos font partie intégrante du paysage. Sur les ponts, dans les rues, ils témoignent d’un choix urbain fort : celui de privilégier les mobilités douces. Plus de la moitié des trajets y sont effectués à vélo. La Journée mondiale de la bicyclette, célébrée chaque 3 juin, met en lumière les bienfaits de ce mode de transport simple et accessible. Bon pour la santé, peu coûteux et respectueux de l’environnement, le vélo aide aussi à réduire les nuisances liées à la voiture : pollution, bruit, congestion.",
+      "headline": "Rouler vers un avenir durable",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250603_BicyclesUtrecht\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.09083,5.121666/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.09083,5.121666;S9;Utrecht, Pays-Bas&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Utrecht&satid=id.sid%3Aa8d8cc1d-91dc-bb11-1cb7-dbf0d0b18369&vdpid=7009561580031442960&mb=52.190717~4.535575~51.875118~5.400321&cardbg=%23F98745&tt=Utrecht%2C%20Utrecht%2C%20Netherlands&tsts0=%2526ty%253D30%2526q%253DUtrecht%2526satid%253Did.sid%25253Aa8d8cc1d-91dc-bb11-1cb7-dbf0d0b18369%2526vdpid%253D7009561580031442960%2526mb%253D52.190717~4.535575~51.875118~5.400321%2526cardbg%253D%252523F98745&tstt0=Utrecht%2C%20Utrecht%2C%20Netherlands&cp=50.585423~-4.550134&lvl=5.533792&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Pays-Bas&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Pays-Bas"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Pays-Bas&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    }
+  ]
+}

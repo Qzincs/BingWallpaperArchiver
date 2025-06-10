@@ -1,0 +1,404 @@
+{
+  "images": [
+    {
+      "startdate": "20250609",
+      "fullstartdate": "202506091500",
+      "enddate": "20250610",
+      "urlbase": "https://www.bing.com/th?id=OHR.AerialEverglades_JA-JP6124375299_UHD.jpg",
+      "copyrighttext": "© Robert DelVecchio - OcuDrone/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%2c+%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e&form=BGALM&filters=HpDate:\"20250609_1500\"",
+      "title": "エバーグレーズ国立公園, 米国 フロリダ州",
+      "description": "米国南東部、フロリダ半島の南端には、「エバーグレーズ」と呼ばれる米国最大の湿原地帯が広がっています。そのうちの約 20%、総面積にして約 6000km² もの広大なエリアが国立公園として保護され、世界遺産にも登録されています。オキーチョビー湖からフロリダ湾へと静かに流れる川が、この独特の風景を育んできました…",
+      "headline": "水と草が織りなす絶景",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250610_AerialEverglades\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.39529,-80.583092/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=25.39529,-80.583092;S9;エバーグレーズ国立公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Everglades%2C%20Florida%2C%20United%20States&satid=id.sid%3A06368b79-0b63-efcd-976c-d9fddb294bfb&vdpid=5502097671092961281&mb=26.00483~-80.708334~25.995168~-80.691683&cardbg=%23F98745&dt=1744887600000&tt=Everglades%2C%20FL&tsts2=%2526ty%253D30%2526q%253DEverglades%25252C%252520Florida%25252C%252520United%252520States%2526satid%253Did.sid%25253A06368b79-0b63-efcd-976c-d9fddb294bfb%2526vdpid%253D5502097671092961281%2526mb%253D26.00483~-80.708334~25.995168~-80.691683%2526cardbg%253D%252523F98745%2526dt%253D1744887600000&tstt2=Everglades%2C%20FL&cp=23.921202~-93.740144&lvl=4.9098587&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 10 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 フロリダ州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250608",
+      "fullstartdate": "202506081500",
+      "enddate": "20250609",
+      "urlbase": "https://www.bing.com/th?id=OHR.DubrovnikTwilight_JA-JP6048239722_UHD.jpg",
+      "copyrighttext": "© bluejayphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%89%e3%82%a5%e3%83%96%e3%83%ad%e3%83%b4%e3%83%8b%e3%82%af%e6%97%a7%e5%b8%82%e8%a1%97%2c+%e3%82%af%e3%83%ad%e3%82%a2%e3%83%81%e3%82%a2&form=BGALM&filters=HpDate:\"20250608_1500\"",
+      "title": "ドゥブロヴニク旧市街, クロアチア",
+      "description": "アドリア海に面したクロアチアの港町ドゥブロヴニクは、中世には「ラグーサ共和国」として独立し、1358 年から 1808 年までの約 450 年にわたって自由都市国家として栄えました。この時代、アマルフィ、ピサ、ジェノヴァ、ヴェネツィアと並ぶ「五大海洋共和国」の一つに数えられ、巧みな外交と海上貿易によって莫大な富を築きました…",
+      "headline": "時が止まったかのような中世の街",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250609_DubrovnikTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.64028,18.10833/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=42.64028,18.10833;S9;ドゥブロヴニク, クロアチア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dubrovnik%20Croatia&satid=id.sid%3A064f225a-89eb-5e8a-3f70-a4c2dfd1385c&vdpid=7217419650970157058&mb=42.780373~17.7517~42.620876~18.172008&cardbg=%23F98745&tt=Dubrovnik%2C%20Dubrovnik-Neretva%20County%2C%20Croatia&tsts0=%2526ty%253D30%2526q%253DDubrovnik%252520Croatia%2526satid%253Did.sid%25253A064f225a-89eb-5e8a-3f70-a4c2dfd1385c%2526vdpid%253D7217419650970157058%2526mb%253D42.780373~17.7517~42.620876~18.172008%2526cardbg%253D%252523F98745&tstt0=Dubrovnik%2C%20Dubrovnik-Neretva%20County%2C%20Croatia&cp=42.420549~11.700348&lvl=6.1814823&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 9 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%af%e3%83%ad%e3%82%a2%e3%83%81%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " クロアチア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%af%e3%83%ad%e3%82%a2%e3%83%81%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250607",
+      "fullstartdate": "202506071500",
+      "enddate": "20250608",
+      "urlbase": "https://www.bing.com/th?id=OHR.StellarSeaLions_JA-JP5798122573_UHD.jpg",
+      "copyrighttext": "© Steve Woods Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%88%e3%83%89%e3%81%ae%e7%be%a4%e3%82%8c&form=BGALM&filters=HpDate:\"20250607_1500\"",
+      "title": "トドの群れ, カナダ ブリティッシュコロンビア州",
+      "description": "今日 6 月 8 日は、世界海洋デー。私たちを支える海の恵みに感謝し、その保全を考える記念日です。1992 年にカナダが提案し、2009 年に国連が正式に制定しました。今年の主催都市はフランス・ニース。明日、この都市で第 3 回国連海洋会議が開幕し、世界があらためて海の未来に向き合います…",
+      "headline": "今日は世界海洋デー",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250608_StellarSeaLions\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.6,-125.5/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=49.6,-125.5;S9;バンクーバー島, カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC%E5%B3%B6&mb=50.876945~-129.250445~48.308903~-122.447065&dt=1746766800000&tt=%E3%83%90%E3%83%B3%E3%82%AF%E3%83%BC%E3%83%90%E3%83%BC%E5%B3%B6%2C%20%E3%83%96%E3%83%AA%E3%83%86%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%2C%20%E3%82%AB%E3%83%8A%E3%83%80&cp=s3xdf54341z8&lvl=5.4385843&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 8 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80+%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " カナダ ブリティッシュコロンビア州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%ab%e3%83%8a%e3%83%80+%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250606",
+      "fullstartdate": "202506061500",
+      "enddate": "20250607",
+      "urlbase": "https://www.bing.com/th?id=OHR.PacificCrestTrail_JA-JP5723625676_UHD.jpg",
+      "copyrighttext": "© Matthew Kuhns/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%ab%e3%82%b9%e5%9b%bd%e6%9c%89%e6%9e%97%2c+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e&form=BGALM&filters=HpDate:\"20250606_1500\"",
+      "title": "アンジェルス国有林, 米国 カリフォルニア州",
+      "description": "日本は国土の約 7 割が、美しい森林におおわれており、人々の生活と共存しています。トドマツやブナの広がる亜寒帯林から、沖縄のマングローブ林まで、多彩な森がすぐそばで息づいています。そして、遠く離れた米国・カリフォルニア州にも、都市のすぐそばに広がる雄大な森があります。それが、アンジェルス国有林です…",
+      "headline": "大都市のすぐそばに広がる大自然",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250607_PacificCrestTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.147243,-118.032722/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=34.147243,-118.032722;S9;アンジェルス国有林, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Angeles%20National%20Forest&ss=ypid.YN84x162171648&mb=34.151386~-118.035908~34.143093~-118.029556&description=701%20N%20Santa%20Anita%20Ave%2C%20Arcadia%2C%20CA%2091006&cardbg=%23219AB6&dt=1745314200000&tt=Angeles%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DAngeles%252520National%252520Forest%2526ss%253Dypid.YN84x162171648%2526mb%253D34.151386~-118.035908~34.143093~-118.029556%2526description%253D701%252520N%252520Santa%252520Anita%252520Ave%25252C%252520Arcadia%25252C%252520CA%25252091006%2526cardbg%253D%252523219AB6%2526dt%253D1745314200000&tstt0=Angeles%20National%20Forest&cp=34.201455~-121.852966&lvl=5.37&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 7 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 カリフォルニア州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250605",
+      "fullstartdate": "202506051500",
+      "enddate": "20250606",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_JA-JP5652363702_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%aa%e3%82%aa%e3%83%95%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b4&form=BGALM&filters=HpDate:\"20250605_1500\"",
+      "title": "オオフラミンゴ, ナミビア",
+      "description": "優雅な姿と淡いピンクの羽を持つフラミンゴ。その美しい色彩は、カロテノイド色素を豊富に含む藻類や甲殻類を摂取することで生まれます。数千羽、時には百万羽を超える大群が水辺に集う光景は、まるで大自然が描いた絵画のようです…",
+      "headline": "水辺で優雅に舞う鳥たち",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250606_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-26.64778,15.15778/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-26.64778,15.15778;S9;リューデリッツ, ナミビア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Luderitz&satid=id.sid%3A7e57b07b-0550-0b72-3959-ecf1cda363f9&vdpid=8153341018998046721&mb=-26.63458~15.129893~-26.660946~15.185653&cardbg=%23F98745&tt=L%C3%BCderitz%2C%20Karas%2C%20Namibia&tsts0=%2526ty%253D30%2526q%253DLuderitz%2526satid%253Did.sid%25253A7e57b07b-0550-0b72-3959-ecf1cda363f9%2526vdpid%253D8153341018998046721%2526mb%253D-26.63458~15.129893~-26.660946~15.185653%2526cardbg%253D%252523F98745&tstt0=L%C3%BCderitz%2C%20Karas%2C%20Namibia&cp=-25.52912~16.26737&lvl=6.5276856&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 6 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%8a%e3%83%9f%e3%83%93%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ナミビア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%8a%e3%83%9f%e3%83%93%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250604",
+      "fullstartdate": "202506041500",
+      "enddate": "20250605",
+      "urlbase": "https://www.bing.com/th?id=OBGA.BingHP_shutterstock_394633729",
+      "copyrighttext": "© Rusinka/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Madeira, Portugal&form=BGALM",
+      "title": "Madeira, Portugal",
+      "description": "Mountain trail in Madeira above the clouds on a sunny afternoon",
+      "headline": "Madeira, Portugal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Madeira%2C%20Portugal&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.415078~30.0271~-13.707912&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%25252C%252520Portugal%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.415078~30.0271~-13.707912%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=31.5791~-17.598735&lvl=8.393764&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 5 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=Madeira&SID=fd1c338d-a716-e095-102a-5ac3106ddd68&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " Portugal への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+Portugal+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250603",
+      "fullstartdate": "202506031500",
+      "enddate": "20250604",
+      "urlbase": "https://www.bing.com/th?id=OHR.CalaLuna_JA-JP5500735927_UHD.jpg",
+      "copyrighttext": "© guenterguni/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%ab%e3%83%a9%e3%83%ab%e3%83%8a%e3%83%93%e3%83%bc%e3%83%81%2c+%e3%82%b5%e3%83%ab%e3%83%87%e3%83%bc%e3%83%8b%e3%83%a3%2c+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2&form=BGALM&filters=HpDate:\"20250603_1500\"",
+      "title": "カラルナビーチ, イタリア",
+      "description": "サルデーニャ島は、険しい断崖と人里離れたビーチ、どこまでも続く青い海に彩られた地中海の宝石です。およそ 1770km におよぶ海岸線には、変化に富んだ風景が広がります。川は少ないものの、島には 54 の人工湖とダムが築かれており、なかでもオモデオ湖とコギーナス湖は、水と電力を支える大切な存在です…",
+      "headline": "三日月形の美しい砂浜",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250604_CalaLuna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40,9/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40,9;S9;サルデーニャ島, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Sardinia&satid=id.sid%3A2ac543b8-3c5f-c1c2-9c26-7153eb61c3d0&vdpid=9870996&mb=45.016281~-5.939096~34.056624~18.102518&cardbg=%23F98745&dt=1745152200000&tt=Sardinia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DSardinia%2526satid%253Did.sid%25253A2ac543b8-3c5f-c1c2-9c26-7153eb61c3d0%2526vdpid%253D9870996%2526mb%253D45.016281~-5.939096~34.056624~18.102518%2526cardbg%253D%252523F98745%2526dt%253D1745152200000&tstt0=Sardinia%2C%20Italy&cp=39.935555~-4.968122&lvl=4.9555116&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 4 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " イタリア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250602",
+      "fullstartdate": "202506021500",
+      "enddate": "20250603",
+      "urlbase": "https://www.bing.com/th?id=OHR.BicyclesUtrecht_JA-JP5412033265_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a6%e3%83%88%e3%83%ac%e3%83%92%e3%83%88%e3%81%a8%e8%87%aa%e8%bb%a2%e8%bb%8a%2c+%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80&form=BGALM&filters=HpDate:\"20250602_1500\"",
+      "title": "ユトレヒトの橋と自転車, オランダ",
+      "description": "今日 6 月 3 日は、国連が定めた世界自転車デーです。環境に優しい交通手段として、また、心と体にやさしいスポーツとして、自転車は世界中で親しまれてきました。日本の代表交通手段における自転車分担率は 13% で、これは自転車先進国であるヨーロッパなどと肩を並べています…",
+      "headline": "今日は世界自転車デー",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250603_BicyclesUtrecht\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.09083,5.121666/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.09083,5.121666;S9;ユトレヒト, オランダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Utrecht&satid=id.sid%3Aa8d8cc1d-91dc-bb11-1cb7-dbf0d0b18369&vdpid=7009561580031442960&mb=52.190717~4.535575~51.875118~5.400321&cardbg=%23F98745&tt=Utrecht%2C%20Utrecht%2C%20Netherlands&tsts0=%2526ty%253D30%2526q%253DUtrecht%2526satid%253Did.sid%25253Aa8d8cc1d-91dc-bb11-1cb7-dbf0d0b18369%2526vdpid%253D7009561580031442960%2526mb%253D52.190717~4.535575~51.875118~5.400321%2526cardbg%253D%252523F98745&tstt0=Utrecht%2C%20Utrecht%2C%20Netherlands&cp=50.585423~-4.550134&lvl=5.533792&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "cn",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " オランダ への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    }
+  ]
+}
