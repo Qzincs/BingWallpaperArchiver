@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250610",
+      "fullstartdate": "202506102200",
+      "enddate": "20250611",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_DE-DE9012146004_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Flamingo&form=BGALM&filters=HpDate:\"20250610_2200\"",
+      "title": "Rosaflamingos, Lüderitz, Namibia",
+      "description": "Kennen Sie diesen auffälligen Vogel in Rosa? Flamingos, mit ihren langen Beinen, geschwungenen Hälsen und grazilen Bewegungen, gelten als Inbegriff von Eleganz und Exotik. Ihre leuchtende Färbung verdanken sie übrigens einer speziellen Ernährung aus Algen und kleinen Krebsen, die reich an Carotinoiden sind. Diese anpassungsfähigen Tiere leben in salzhaltigen Seen, Lagunen und sogar in extremen vulkanischen Gebieten, in denen kaum andere Tiere überleben könnten. Besonders faszinierend ist ihre Fähigkeit, stundenlang auf einem Bein zu stehen – Wissenschaftler vermuten, dass dies sowohl Energie spart als auch hilft, die Körpertemperatur zu regulieren.",
+      "headline": "Grazile und stolze Tänzer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250611_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-26.64778,15.15778/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-26.64778,15.15778;S9;Lüderitz, Karas, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Luderitz&satid=id.sid%3A7e57b07b-0550-0b72-3959-ecf1cda363f9&vdpid=8153341018998046721&mb=-26.63458~15.129893~-26.660946~15.185653&cardbg=%23F98745&tt=L%C3%BCderitz%2C%20Karas%2C%20Namibia&tsts0=%2526ty%253D30%2526q%253DLuderitz%2526satid%253Did.sid%25253A7e57b07b-0550-0b72-3959-ecf1cda363f9%2526vdpid%253D8153341018998046721%2526mb%253D-26.63458~15.129893~-26.660946~15.185653%2526cardbg%253D%252523F98745&tstt0=L%C3%BCderitz%2C%20Karas%2C%20Namibia&cp=-25.52912~16.26737&lvl=6.5276856&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+L%c3%bcderitz%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Lüderitz, Namibia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++L%c3%bcderitz%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250609",
       "fullstartdate": "202506092200",
       "enddate": "20250610",

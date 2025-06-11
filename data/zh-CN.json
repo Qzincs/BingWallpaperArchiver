@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250610",
+      "fullstartdate": "202506101600",
+      "enddate": "20250611",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_ZH-CN3639748956_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%a7%e7%ba%a2%e9%b9%b3&form=BGALM&filters=HpDate:\"20250610_1600\"",
+      "title": "大红鹳，吕德里茨，纳米比亚",
+      "description": "在纳米比亚吕德里茨，这些鸟类并非过客，而是真正“站稳脚跟”的居民，字面意义上，仅用一条腿支撑。它们便是大红鹳，为南大西洋沿岸狂风席卷的纳米比亚海岸增添了一抹亮丽的粉色。作为所有鹳类中体型最大的一种，大红鹳毫不吝啬地展示自身风采：身高可达59英寸，具有匙状弯曲喙和修长的双腿，极具辨识度。",
+      "headline": "潮汐间的芭蕾",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250611_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 6月 11",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a4%a7%e7%ba%a2%e9%b9%b3&form=BGABWCTA7&filters=HpDate:\"20250610_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250609",
       "fullstartdate": "202506091600",
       "enddate": "20250610",
