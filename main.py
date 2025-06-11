@@ -14,7 +14,9 @@ markets = [
     "pt-BR",  # Brazil
     "it-IT",  # Italy
     "es-ES",  # Spain
-    "en-IN"   # India
+    "en-IN",   # India
+    "en-AU",  # Australia
+    "en-NZ",  # New Zealand
 ]
 
 def get_bing_wallpaper_metadata(market):
