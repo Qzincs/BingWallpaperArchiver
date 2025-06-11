@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250610",
+      "fullstartdate": "202506102200",
+      "enddate": "20250611",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_ES-ES3698280528_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=phoenicopterus+roseus&form=BGALM&filters=HpDate:\"20250610_2200\"",
+      "title": "Flamencos, Lüderitz, Namibia",
+      "description": "En Lüderitz, al sur de Namibia, los flamencos no están de paso: se quedan, firmes… ¡sobre una sola pata! Estas elegantes aves, las más grandes de su especie, dan un toque rosa a la ventosa costa atlántica. Alcanzan hasta 1,5 metros de altura y destacan por sus largos picos en forma de cuchara y patas delgadas como zancos.",
+      "headline": "¡A bailar flamenco!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250611_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=phoenicopterus+roseus&form=BGABWCTA7&filters=HpDate:\"20250610_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250609",
       "fullstartdate": "202506092200",
       "enddate": "20250610",

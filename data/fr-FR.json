@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250610",
+      "fullstartdate": "202506102200",
+      "enddate": "20250611",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_FR-FR3406043223_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=flamant+rose&form=BGALM&filters=HpDate:\"20250610_2200\"",
+      "title": "Flamants roses, Lüderitz, Namibie",
+      "description": "Sur la côte sauvage de Namibie, les flamants roses de Lüderitz avancent d’un pas lent dans l’eau peu profonde. Ils ne sont pas de passage : ici, ils trouvent de quoi se nourrir, se rassembler, se poser. Hauts sur pattes, le cou courbé en point d’interrogation, ces géants gracieux peuvent mesurer jusqu’à 1,50 m. Leur teinte rose n’est pas un caprice : elle vient de ce qu’ils mangent. Algues, crustacés, caroténoïdes… ils sont littéralement la couleur de leur alimentation.",
+      "headline": "La grâce à l'état pur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250611_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-26.64778,15.15778/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-26.64778,15.15778;S9;Lüderitz, Karas, Namibie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Luderitz&satid=id.sid%3A7e57b07b-0550-0b72-3959-ecf1cda363f9&vdpid=8153341018998046721&mb=-26.63458~15.129893~-26.660946~15.185653&cardbg=%23F98745&tt=L%C3%BCderitz%2C%20Karas%2C%20Namibia&tsts0=%2526ty%253D30%2526q%253DLuderitz%2526satid%253Did.sid%25253A7e57b07b-0550-0b72-3959-ecf1cda363f9%2526vdpid%253D8153341018998046721%2526mb%253D-26.63458~15.129893~-26.660946~15.185653%2526cardbg%253D%252523F98745&tstt0=L%C3%BCderitz%2C%20Karas%2C%20Namibia&cp=-25.52912~16.26737&lvl=6.5276856&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+L%c3%bcderitz%2c+Namibie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Lüderitz, Namibie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++L%c3%bcderitz%2c+Namibie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250609",
       "fullstartdate": "202506092200",
       "enddate": "20250610",
