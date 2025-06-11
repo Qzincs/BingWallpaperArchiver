@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250611",
+      "fullstartdate": "202506110300",
+      "enddate": "20250612",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_PT-BR5557739797_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Flamingo-comum&form=BGALM&filters=HpDate:\"20250611_0300\"",
+      "title": "Flamingos-rosados em Lüderitz, Namíbia (© Karine Aigner/TANDEM Stills + Motion)",
+      "description": "Na costa atlântica da Namíbia, eles não estão só de passagem: assumem o território, se equilibrando perfeitamente em uma perna só. Na imagem do dia, flamingos-rosados colorem a paisagem árida de Lüderitz com suas pernas longas, bicos encurvados e quase 1,5 metro de altura. Também conhecidos como flamingos-comuns, são os maiores da espécie — e parecem saber disso.",
+      "headline": "Uma dança sobre as águas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250611_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Flamingo-comum&form=BGABWCTA7&filters=HpDate:\"20250611_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250610",
       "fullstartdate": "202506100300",
       "enddate": "20250611",
