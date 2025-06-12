@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250611",
+      "fullstartdate": "202506112200",
+      "enddate": "20250612",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigBendChisos_ES-ES3904650593_UHD.jpg",
+      "copyrighttext": "© Dean Fikar/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Big+Bend&form=BGALM&filters=HpDate:\"20250611_2200\"",
+      "title": "Montañas Chisos, Parque Nacional Big Bend, Texas, EE. UU.",
+      "description": "Dicen que todo es más grande en Texas, y el Parque Nacional Big Bend lo confirma. Con más de 324.000 hectáreas, fue parte de México hasta 1848 y se convirtió en parque nacional en 1944. Big Bend es uno de los parques más remotos y menos visitados de Estados Unidos, pero ofrece una belleza natural única.",
+      "headline": "Un paraje de postal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250612_BigBendChisos\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Big+Bend&form=BGABWCTA7&filters=HpDate:\"20250611_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250610",
       "fullstartdate": "202506102200",
       "enddate": "20250611",

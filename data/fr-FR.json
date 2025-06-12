@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250611",
+      "fullstartdate": "202506112200",
+      "enddate": "20250612",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigBendChisos_FR-FR3569892339_UHD.jpg",
+      "copyrighttext": "© Dean Fikar/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parc+national+de+Big+Bend&form=BGALM&filters=HpDate:\"20250611_2200\"",
+      "title": "Chisos Mountains, Parc national de Big Bend, Texas, État-Unis",
+      "description": "Au sud de l’Etat américain du Texas, Big Bend déploie son immensité entre désert, montagne et rivière. Autrefois territoire mexicain, ce site a rejoint les États-Unis en 1848, avant d’être protégé dès les années 1930 et classé parc national en 1944. Aujourd’hui encore, il reste l’un des parcs les plus sauvages et confidentiels du pays.",
+      "headline": "Le désert aux trois visages",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250612_BigBendChisos\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/29.327822,-103.205902/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=29.327822,-103.205902;S9;Parc national de Big Bend, Texas, État-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Big%20Bend%20National%20Park&vdpid=5102143165167566849&ss=ypid.YN873x4785188238444147958&mb=29.695068~-103.828428~28.971537~-102.792932&description=1%20Panther%20Dr%2C%20Big%20Bend%20National%20Park%2C%20TX%2079834&cardbg=%233DB838&dt=1745242200000&tt=Big%20Bend%20National%20Park&tsts0=%2526ty%253D30%2526q%253DBig%252520Bend%252520National%252520Park%2526vdpid%253D5102143165167566849%2526ss%253Dypid.YN873x4785188238444147958%2526mb%253D29.695068~-103.828428~28.971537~-102.792932%2526description%253D1%252520Panther%252520Dr%25252C%252520Big%252520Bend%252520National%252520Park%25252C%252520TX%25252079834%2526cardbg%253D%2525233DB838%2526dt%253D1745242200000&tstt0=Big%20Bend%20National%20Park&cp=29.476029~-121.39903&lvl=5.6524234&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "12 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Parc+national+de+Big+Bend%2c+Texas%2c+%c3%89tat-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Parc national de Big Bend, Texas, État-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Parc+national+de+Big+Bend%2c+Texas%2c+%c3%89tat-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250610",
       "fullstartdate": "202506102200",
       "enddate": "20250611",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250611",
+      "fullstartdate": "202506110700",
+      "enddate": "20250612",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamingosNamibia_ROW1962719255_UHD.jpg",
+      "copyrighttext": "© Karine Aigner/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Greater+flamingo&form=BGALM&filters=HpDate:\"20250611_0700\"",
+      "title": "Greater flamingos, Lüderitz, Namibia",
+      "description": "In Lüderitz, Namibia, these birds aren't just passing through—they're standing their ground. Literally. On one leg. These long-legged locals, the greater flamingos, bring a splash of pink to Namibia's windswept Atlantic coast. These birds are the largest of their kind, and they're not shy about showing off. Towering up to 1.5 metres tall with spoon-shaped bills and stilt-like legs, they're easy to spot.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250611_FlamingosNamibia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Greater+flamingo&form=BGABWCTA7&filters=HpDate:\"20250611_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250610",
       "fullstartdate": "202506100700",
       "enddate": "20250611",
