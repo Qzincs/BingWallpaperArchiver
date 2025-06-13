@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250612",
+      "fullstartdate": "202506120300",
+      "enddate": "20250613",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiaDosNamoradosMacaws_PT-BR5812210481_UHD.jpg",
+      "copyrighttext": "© Schafer & Hill/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=o+dia+dos+namorados&form=BGALM&filters=HpDate:\"20250612_0300\"",
+      "title": "Araras-vermelhas no Buraco das Araras, perto de Bonito, Mato Grosso do Sul, Brasil",
+      "description": "No coração do Pantanal, duas aves multicoloridas se destacam contra o fundo verde da paisagem. No Buraco das Araras, em Mato Grosso do Sul, um casal de araras-vermelhas troca um gesto de carinho e nos convida a repensar o amor. Fiéis por toda a vida, elas retornam ao mesmo ninho a cada ciclo, compartilham o voo e silenciam juntos — como quem escolhe, todos os dias, permanecer.",
+      "headline": "O amor está no ar!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250612_DiaDosNamoradosMacaws\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=o+dia+dos+namorados&form=BGABWCTA7&filters=HpDate:\"20250612_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250611",
       "fullstartdate": "202506110300",
       "enddate": "20250612",

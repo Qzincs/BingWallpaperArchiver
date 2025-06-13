@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250612",
+      "fullstartdate": "202506121500",
+      "enddate": "20250613",
+      "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_JA-JP3142066706_UHD.jpg",
+      "copyrighttext": "© ARoxo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a3%e3%83%a9%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%ab%e3%83%bb%e3%83%89%e3%83%bb%e3%82%ab%e3%83%b3%e3%83%9d%e5%b3%b6%2c+%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab&form=BGALM&filters=HpDate:\"20250612_1500\"",
+      "title": "ヴィラ・フランカ・ド・カンポ島, ポルトガル",
+      "description": "ここは、ヴィラ・フランカ・ド・カンポ島。ポルトガル領アゾレス諸島のサンミゲル島沖合に浮かぶ無人島です。火山の噴火によって形成されたこの小島は、中央にほぼ円形のラグーンがあり、「ボケテ」と呼ばれる狭い水路で外海とつながっています…",
+      "headline": "大西洋に浮かぶ楽園",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250613_SanMiguelAzores\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.715519,-25.429861/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.715519,-25.429861;S9;ヴィラ・フランカ・ド・カンポ島, ポルトガル&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Islet%20of%20Vila%20Franca%20do%20Campo&ss=ypid.YN8149x757727029114241551&segment=Attraction&mb=37.72078~-25.43644~37.710256~-25.423265&description=Parque%20Industrial%20De%20Vila%20Franca%20500m%20Offshore%20Vila%20Franca%20Do%20Campo%209680-114&poicount=18&cardbg=%23219AB6&dt=1746091800000&tt=Islet%20of%20Vila%20Franca%20do%20Campo&tsts0=%2526ty%253D18%2526q%253DIslet%252520of%252520Vila%252520Franca%252520do%252520Campo%2526ss%253Dypid.YN8149x757727029114241551%2526segment%253DAttraction%2526mb%253D37.72078~-25.43644~37.710256~-25.423265%2526description%253DParque%252520Industrial%252520De%252520Vila%252520Franca%252520500m%252520Offshore%252520Vila%252520Franca%252520Do%252520Campo%2525209680-114%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1746091800000&tstt0=Islet%20of%20Vila%20Franca%20do%20Campo&cp=33.483112~-39.508753&lvl=4.098984&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 13 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ポルトガル への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250611",
       "fullstartdate": "202506111500",
       "enddate": "20250612",

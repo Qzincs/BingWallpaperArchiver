@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250612",
+      "fullstartdate": "202506121600",
+      "enddate": "20250613",
+      "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_ZH-CN2511982585_UHD.jpg",
+      "copyrighttext": "© ARoxo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%bb%b4%e6%8b%89%e5%bc%97%e5%85%b0%e5%8d%a1%e5%b2%9b&form=BGALM&filters=HpDate:\"20250612_1600\"",
+      "title": "维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙",
+      "description": "位于葡萄牙亚速尔群岛圣米格尔岛附近的维拉弗兰卡岛，是一座无人居住的绿色火山岛，静静地坐落在弗兰卡村镇的南侧。尽管今日宁静怡人，这座小岛却拥有悠久而多变的历史。早在1537年，文献中便有定居者向西扩展至此的记载，使维拉弗兰卡岛正式登上历史舞台。它曾先后作为军事要塞、避风港、葡萄园种植地，乃至观鲸瞭望台。",
+      "headline": "海洋的隐秘心跳",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250613_SanMiguelAzores\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 6月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%bb%b4%e6%8b%89%e5%bc%97%e5%85%b0%e5%8d%a1%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20250612_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250611",
       "fullstartdate": "202506111600",
       "enddate": "20250612",

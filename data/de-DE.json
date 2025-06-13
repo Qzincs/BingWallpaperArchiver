@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250612",
+      "fullstartdate": "202506122200",
+      "enddate": "20250613",
+      "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_DE-DE1015486500_UHD.jpg",
+      "copyrighttext": "© ARoxo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ilh%c3%a9u+Vila+Franca+do+Campo&form=BGALM&filters=HpDate:\"20250612_2200\"",
+      "title": "Insel Vila Franca do Campo, São Miguel, Azoren, Portugal",
+      "description": "Mitten im tiefblauen Atlantik, vor der Küste der Azoreninsel São Miguel, liegt ein verborgenes Naturjuwel: die Insel Vila Franca do Campo, die auf unserem heutigen Bild zu sehen ist. Die kleine, unbewohnte Insel mit ihrer nahezu kreisrunden Lagune entstand aus dem Krater eines unterseeischen Vulkans und ist heute ein geschütztes Naturreservat – ein Geheimtipp für Abenteuerlustige und Erholungssuchende gleichermaßen. Die Insel, auch als „Prinzessinnenring“ bekannt, blickt auf eine bewegte Geschichte zurück: Seit ihrer ersten Erwähnung im Jahr 1537 diente sie als Festung, Hafen, Weinberg und Beobachtungspunkt für Wale. Heute fasziniert sie vor allem durch ihre einzigartige Tierwelt, darunter seltene Seevögel wie den Gelbschnabel-Sturmtaucher. Im Sommer ist die idyllische Insel ein beliebtes Ausflugsziel. Um das empfindliche Ökosystem zu schützen, ist der Zugang jedoch auf 400 Besucher pro Tag begrenzt.",
+      "headline": "Ein natürlicher Pool",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250613_SanMiguelAzores\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.715519,-25.429861/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=37.715519,-25.429861;S9;Insel Vila Franca do Campo, São Miguel, Azoren, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Islet%20of%20Vila%20Franca%20do%20Campo&ss=ypid.YN8149x757727029114241551&segment=Attraction&mb=37.72078~-25.43644~37.710256~-25.423265&description=Parque%20Industrial%20De%20Vila%20Franca%20500m%20Offshore%20Vila%20Franca%20Do%20Campo%209680-114&poicount=18&cardbg=%23219AB6&dt=1746091800000&tt=Islet%20of%20Vila%20Franca%20do%20Campo&tsts0=%2526ty%253D18%2526q%253DIslet%252520of%252520Vila%252520Franca%252520do%252520Campo%2526ss%253Dypid.YN8149x757727029114241551%2526segment%253DAttraction%2526mb%253D37.72078~-25.43644~37.710256~-25.423265%2526description%253DParque%252520Industrial%252520De%252520Vila%252520Franca%252520500m%252520Offshore%252520Vila%252520Franca%252520Do%252520Campo%2525209680-114%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1746091800000&tstt0=Islet%20of%20Vila%20Franca%20do%20Campo&cp=33.483112~-39.508753&lvl=4.098984&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+S%c3%a3o+Miguel%2c+Azoren%2c+Portugal&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  São Miguel, Azoren, Portugal"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++S%c3%a3o+Miguel%2c+Azoren%2c+Portugal&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250611",
       "fullstartdate": "202506112200",
       "enddate": "20250612",

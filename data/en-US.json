@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250612",
+      "fullstartdate": "202506120700",
+      "enddate": "20250613",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg",
+      "copyrighttext": "© Dean Fikar/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Big+Bend+National+Park&form=BGALM&filters=HpDate:\"20250612_0700\"",
+      "title": "Chisos Mountains, Big Bend National Park, Texas",
+      "description": "They say everything's bigger in Texas—and Big Bend National Park has been living up to the slogan since forever. Efforts to preserve this 801,163-acre area of West Texas began in the 1930s and culminated in its official designation as a park on June 12, 1944. Big Bend remains one of the most remote and least-visited national parks in the country. It's not just one landscape, it's three: the Chihuahuan Desert, the Chisos Mountains (pictured here), and the Rio Grande. Big Bend sits on the US–Mexico border, and its history reflects that blend. Indigenous peoples, Spanish explorers, ranchers, miners, and modern travelers have all left their footprints. Petroglyphs, ruins, and old trails show the land's story began long before it became a park.",
+      "headline": "Stars, stone, and solitude",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250612_BigBendChisos\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/29.327822,-103.205902/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=29.327822,-103.205902;S9;Big Bend National Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Big%20Bend%20National%20Park&vdpid=5102143165167566849&ss=ypid.YN873x4785188238444147958&mb=29.695068~-103.828428~28.971537~-102.792932&description=1%20Panther%20Dr%2C%20Big%20Bend%20National%20Park%2C%20TX%2079834&cardbg=%233DB838&dt=1745242200000&tt=Big%20Bend%20National%20Park&tsts0=%2526ty%253D30%2526q%253DBig%252520Bend%252520National%252520Park%2526vdpid%253D5102143165167566849%2526ss%253Dypid.YN873x4785188238444147958%2526mb%253D29.695068~-103.828428~28.971537~-102.792932%2526description%253D1%252520Panther%252520Dr%25252C%252520Big%252520Bend%252520National%252520Park%25252C%252520TX%25252079834%2526cardbg%253D%2525233DB838%2526dt%253D1745242200000&tstt0=Big%20Bend%20National%20Park&cp=29.476029~-121.39903&lvl=5.6524234&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Big+Bend+National+Park%2c+Texas&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Big Bend National Park, Texas"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Big+Bend+National+Park%2c+Texas&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250611",
       "fullstartdate": "202506110700",
       "enddate": "20250612",

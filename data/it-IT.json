@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250612",
+      "fullstartdate": "202506122200",
+      "enddate": "20250613",
+      "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_IT-IT5812547329_UHD.jpg",
+      "copyrighttext": "© ARoxo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Isolotto+di+Vila+Franca&form=BGALM&filters=HpDate:\"20250612_2200\"",
+      "title": "Isolotto di Vila Franca, Isola di São Miguel, Azzorre, Portogallo",
+      "description": "Al largo di São Miguel, nell’arcipelago delle Azzorre, un’isola silenziosa riposa tra le onde: l’isolotto di Vila Franca, un angolo remoto del Portogallo. Verde e selvaggio, è un frammento di natura pressoché intatto, un rifugio segreto che un tempo accoglieva marinai, viandanti e sognatori. Le rocce vulcaniche ne disegnano i contorni, scolpite dalla forza degli elementi. Al centro, un cuore d’acqua calma: una laguna perfettamente rotonda, abbracciata da pareti di pietra e collegata al mare da un varco sottile, detto \"boquete\". Qui, il vento è gentile, il respiro dell’oceano smorzato dalla conformazione dell’isola, mentre la spiaggia accoglie chi cerca pace.",
+      "headline": "Il cuore pulsante dell'oceano",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250613_SanMiguelAzores\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.715519,-25.429861/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.715519,-25.429861;S9;Isolotto di Vila Franca, Isola di São Miguel, Azzorre, Portogallo&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Islet%20of%20Vila%20Franca%20do%20Campo&ss=ypid.YN8149x757727029114241551&segment=Attraction&mb=37.72078~-25.43644~37.710256~-25.423265&description=Parque%20Industrial%20De%20Vila%20Franca%20500m%20Offshore%20Vila%20Franca%20Do%20Campo%209680-114&poicount=18&cardbg=%23219AB6&dt=1746091800000&tt=Islet%20of%20Vila%20Franca%20do%20Campo&tsts0=%2526ty%253D18%2526q%253DIslet%252520of%252520Vila%252520Franca%252520do%252520Campo%2526ss%253Dypid.YN8149x757727029114241551%2526segment%253DAttraction%2526mb%253D37.72078~-25.43644~37.710256~-25.423265%2526description%253DParque%252520Industrial%252520De%252520Vila%252520Franca%252520500m%252520Offshore%252520Vila%252520Franca%252520Do%252520Campo%2525209680-114%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1746091800000&tstt0=Islet%20of%20Vila%20Franca%20do%20Campo&cp=33.483112~-39.508753&lvl=4.098984&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Isola+di+S%c3%a3o+Miguel%2c+Azzorre%2c+Portogallo&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Isola di São Miguel, Azzorre, Portogallo"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Isola+di+S%c3%a3o+Miguel%2c+Azzorre%2c+Portogallo&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250611",
       "fullstartdate": "202506112200",
       "enddate": "20250612",
