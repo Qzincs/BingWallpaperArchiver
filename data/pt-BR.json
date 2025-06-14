@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250613",
+      "fullstartdate": "202506130300",
+      "enddate": "20250614",
+      "urlbase": "https://www.bing.com/th?id=OHR.SanMiguelAzores_PT-BR2658684793_UHD.jpg",
+      "copyrighttext": "© ARoxo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ilh%c3%a9u+de+Vila+Franca&form=BGALM&filters=HpDate:\"20250613_0300\"",
+      "title": "Ilhéu de Vila Franca, Ilha de São Miguel, Açores, Portugal",
+      "description": "Bem pertinho da Ilha de São Miguel, no arquipélago dos Açores, em Portugal, está o Ilhéu de Vila Franca, destaque da nossa imagem do dia. Apesar da aparência tranquila, este pedacinho de terra verdejante e desabitado guarda um passado cheio de histórias.",
+      "headline": "O coração escondido no oceano",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250613_SanMiguelAzores\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ilh%c3%a9u+de+Vila+Franca&form=BGABWCTA7&filters=HpDate:\"20250613_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250612",
       "fullstartdate": "202506120300",
       "enddate": "20250613",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250613",
+      "fullstartdate": "202506132200",
+      "enddate": "20250614",
+      "urlbase": "https://www.bing.com/th?id=OHR.DolomitiEstate_FR-FR4432604258_UHD.jpg",
+      "copyrighttext": "© usabin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cinque+Torri+Dolomites+Italie&form=BGALM&filters=HpDate:\"20250613_2200\"",
+      "title": "Cinque Torri, Dolomites, Italie",
+      "description": "Les Cinque Torri se dressent comme cinq sentinelles minérales au cœur des Dolomites italiennes. Sculptées par des millions d’années d’érosion, ces tours de pierre offrent un décor à couper le souffle, entre prairies alpines et falaises vertigineuses. Mais ce paysage grandiose cache aussi une mémoire plus sombre : pendant la Première Guerre mondiale, ces sommets furent le théâtre de combats acharnés entre soldats italiens et austro-hongrois.",
+      "headline": "Des sentinelles au cœur des Dolomites",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250614_DolomitiEstate\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.518513,12.038445/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.518513,12.038445;S9;Cinque Torri, Dolomites, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?&ty=18&ss=ypid.YN1354x7417338356900479657&mb=46.525811~12.025326~46.511215~12.051556&description=Passo%20Falzarego%20-%2032043%20Cortina%20D%27ampezzo%20%28BL%29&dt=1747648800000&tt=Seggiovia%205%20TORRI&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1354x7417338356900479657%2526mb%253D46.525811~12.025326~46.511215~12.051556%2526description%253DPasso%252520Falzarego%252520-%25252032043%252520Cortina%252520D%252527ampezzo%252520%252528BL%252529%2526dt%253D1747648800000&tstt0=Seggiovia%205%20TORRI&cp=46.518513~12.023066&lvl=15.27&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Dolomites%2c+Italie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Dolomites, Italie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Dolomites%2c+Italie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250612",
       "fullstartdate": "202506122200",
       "enddate": "20250613",

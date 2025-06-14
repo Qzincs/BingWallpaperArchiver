@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250613",
+      "fullstartdate": "202506131830",
+      "enddate": "20250614",
+      "urlbase": "https://www.bing.com/th?id=OHR.DolomitiEstate_EN-IN7937552367_UHD.jpg",
+      "copyrighttext": "© usabin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cinque+Torriform&form=BGALM&filters=HpDate:\"20250613_1830\"",
+      "title": "Cinque Torri, Dolomiti, Cortina d’Ampezzo, Belluno, Veneto, Italy",
+      "description": "The Five Towers, known as 'Fünf Türme' in German and 'Cinc Toires' in Ladin, rise majestically in the heart of the Dolomites in the province of Belluno in the Veneto region of Italy. They offer the perfect refuge from the summer heat and crowded beaches. Each tower has its own story to tell: of ancient civilisations, adventurous hikers, daring climbers and distant battles. Shaped by time and weather, these Dolomite spires played a strategic role during the First World War, and it is still possible today to explore the trenches and remnants of that conflict-scarred past. However, nature is stronger than history: green pastures embrace the towers, the wind carries the scent of pines and a clear sky opens above paths that beckon you to explore. Streams meander through flower-filled meadows while birdsong accompanies every step.",
+      "headline": "The sounds of silence",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250614_DolomitiEstate\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.518513,12.038445/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=46.518513,12.038445;S9;Cinque Torri, Cortina d’Ampezzo, Belluno, Veneto, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN1354x7417338356900479657&mb=46.525811~12.025326~46.511215~12.051556&description=Passo%20Falzarego%20-%2032043%20Cortina%20D%27ampezzo%20%28BL%29&dt=1747648800000&tt=Seggiovia%205%20TORRI&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1354x7417338356900479657%2526mb%253D46.525811~12.025326~46.511215~12.051556%2526description%253DPasso%252520Falzarego%252520-%25252032043%252520Cortina%252520D%252527ampezzo%252520%252528BL%252529%2526dt%253D1747648800000&tstt0=Seggiovia%205%20TORRI&cp=46.518513~12.023066&lvl=15.27&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Dolomiti%2c+Cortina+d%e2%80%99Ampezzo%2c+Belluno%2c+Veneto%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Dolomiti, Cortina d’Ampezzo, Belluno, Veneto, Italy"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Dolomiti%2c+Cortina+d%e2%80%99Ampezzo%2c+Belluno%2c+Veneto%2c+Italy&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250612",
       "fullstartdate": "202506121830",
       "enddate": "20250613",

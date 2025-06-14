@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250613",
+      "fullstartdate": "202506131500",
+      "enddate": "20250614",
+      "urlbase": "https://www.bing.com/th?id=OHR.NikkoToshoguShrine_JA-JP2939521159_UHD.jpg",
+      "copyrighttext": "© Pavel Nesvadba/shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%97%a5%e5%85%89%e6%9d%b1%e7%85%a7%e5%ae%ae%2c+%e6%97%a5%e5%85%89%e5%b8%82%2c+%e6%a0%83%e6%9c%a8%e7%9c%8c+&form=BGALM&filters=HpDate:\"20250613_1500\"",
+      "title": "日光東照宮, 栃木県 日光市",
+      "description": "明日 6 月 15 日は栃木県民の日。1873 年（明治 6 年）に旧宇都宮県と旧栃木県が合併し、現在の栃木県の形が誕生したことを記念したもので、県内の多くの公共施設や観光地で入場料の割引や無料開放が行われます…",
+      "headline": "明日は栃木県民の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250614_NikkoToshoguShrine\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.758038,139.598846/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.758038,139.598846;S9;日光東照宮&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE&ss=ypid.YN5286x7587218927463236569&mb=36.764897~139.583702~36.751178~139.614&dt=1747627200000&tt=%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE&tsts0=%2526ty%253D18%2526q%253D%2525E6%252597%2525A5%2525E5%252585%252589%2525E6%25259D%2525B1%2525E7%252585%2525A7%2525E5%2525AE%2525AE%2526ss%253Dypid.YN5286x7587218927463236569%2526mb%253D36.764897~139.583702~36.751178~139.614%2526dt%253D1747627200000&tstt0=%E6%97%A5%E5%85%89%E6%9D%B1%E7%85%A7%E5%AE%AE&cp=36.758038~139.59353&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e6%a0%83%e6%9c%a8%e7%9c%8c+%e6%97%a5%e5%85%89%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 栃木県 日光市 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e6%a0%83%e6%9c%a8%e7%9c%8c+%e6%97%a5%e5%85%89%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250612",
       "fullstartdate": "202506121500",
       "enddate": "20250613",

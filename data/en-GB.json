@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250613",
+      "fullstartdate": "202506132300",
+      "enddate": "20250614",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2018-B12_ButchartGardensVictoriaCanada_AdobeStock_85074596",
+      "copyrighttext": "© heyengel/stock.adobe.com",
+      "copyrightlink": "https://www.bing.com/search?q=Victoria, British Columbia, Canada&form=BGALM",
+      "title": "Victoria, British Columbia, Canada",
+      "description": "Butchart Gardens in Victoria, Canada",
+      "headline": "Victoria, British Columbia, Canada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Victoria%2C%20British%20Columbia%2C%20Canada&satid=id.sid%3Ae71268bc-25c5-d843-53b9-42a670bbb618&vdpid=4859745080665178114&mb=48.450493~-123.414943~48.402893~-123.301747&cardbg=%23F98745&tt=Victoria%2C%20British%20Columbia%2C%20Canada&tsts2=%2526ty%253D30%2526q%253DVictoria%25252C%252520British%252520Columbia%25252C%252520Canada%2526satid%253Did.sid%25253Ae71268bc-25c5-d843-53b9-42a670bbb618%2526vdpid%253D4859745080665178114%2526mb%253D48.450493~-123.414943~48.402893~-123.301747%2526cardbg%253D%252523F98745&tstt2=Victoria%2C%20British%20Columbia%2C%20Canada&cp=48.426718~-123.378944&lvl=14.049647&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=Victoria&SID=e71268bc-25c5-d843-53b9-42a670bbb618&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  British Columbia, Canada"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++British+Columbia%2c+Canada&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250612",
       "fullstartdate": "202506122300",
       "enddate": "20250613",
