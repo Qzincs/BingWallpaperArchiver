@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250614",
+      "fullstartdate": "202506142200",
+      "enddate": "20250615",
+      "urlbase": "https://www.bing.com/th?id=OHR.RheaDad_FR-FR4814094029_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=F%c3%aate+des+P%c3%a8res&form=BGALM&filters=HpDate:\"20250614_2200\"",
+      "title": "Nandou de Darwin mâle avec ses petits, parc national Torres del Paine, Patagonie, Chili",
+      "description": "Le saviez-vous ? Chez le nandou de Darwin, c’est le mâle qui élève les petits. Après s’être accouplé avec plusieurs femelles, il construit un nid commun, couve jusqu’à 50 œufs, puis élève seul les poussins pendant près de six mois.",
+      "headline": "Un papa hors du commun",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250615_RheaDad\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-50.98306,-72.96639/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-50.98306,-72.96639;S9;Parc national Torres del Paine, Chili&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Torres%20del%20Paine%20National%20Park&satid=id.sid%3A206d89bf-f773-a8b1-2032-4e34b08b3e1d&vdpid=6645079181791068161&mb=-50.569478~-74.566348~-51.746607~-71.402326&cardbg=%23219AB6&dt=1746189000000&tt=Torres%20del%20Paine%20National%20Park%2C%20Magallanes%20and%20Chilean%20Antarctica%20Region%2C%20Chile&tsts0=%2526ty%253D30%2526q%253DTorres%252520del%252520Paine%252520National%252520Park%2526satid%253Did.sid%25253A206d89bf-f773-a8b1-2032-4e34b08b3e1d%2526vdpid%253D6645079181791068161%2526mb%253D-50.569478~-74.566348~-51.746607~-71.402326%2526cardbg%253D%252523219AB6%2526dt%253D1746189000000&tstt0=Torres%20del%20Paine%20National%20Park%2C%20Magallanes%20and%20Chilean%20Antarctica%20Region%2C%20Chile&cp=-49.277106~-65.042544&lvl=3.4380598&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+parc+national+Torres+del+Paine%2c+Patagonie%2c+Chili&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  parc national Torres del Paine, Patagonie, Chili"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++parc+national+Torres+del+Paine%2c+Patagonie%2c+Chili&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250613",
       "fullstartdate": "202506132200",
       "enddate": "20250614",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250614",
+      "fullstartdate": "202506142200",
+      "enddate": "20250615",
+      "urlbase": "https://www.bing.com/th?id=OHR.RheaDad_IT-IT4866399219_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Rhea+pennata&form=BGALM&filters=HpDate:\"20250614_2200\"",
+      "title": "Maschio adulto di Rhea pennata con pulcini, Parco Nazionale Torres del Paine, Patagonia, Cile",
+      "description": "Il nandù è un elegante abitante delle terre selvagge del Sud America, simile a uno struzzo ma più piccolo, noto per il suo straordinario istinto paterno. Dopo aver guidato diverse femmine a un nido comune, il maschio si fa carico delle uova fino alla schiusa. Da quel momento, la sua dedizione è totale: guida i piccoli tra le sterpaglie, li protegge sotto le ali in caso di pericolo e comunica con dolci fischi. Ancor più sorprendente è il fatto che accoglie nel suo gruppo anche pulcini smarriti, creando una famiglia multigenerazionale che, sotto la sua attenta supervisione, cresce per mesi, fino a quando i piccoli diventano autosufficienti.",
+      "headline": "Sotto l'ala del gigante",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250615_RheaDad\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-50.98306,-72.96639/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-50.98306,-72.96639;S9;Parco Nazionale Torres del Paine, Cile&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Torres%20del%20Paine%20National%20Park&satid=id.sid%3A206d89bf-f773-a8b1-2032-4e34b08b3e1d&vdpid=6645079181791068161&mb=-50.569478~-74.566348~-51.746607~-71.402326&cardbg=%23219AB6&dt=1746189000000&tt=Torres%20del%20Paine%20National%20Park%2C%20Magallanes%20and%20Chilean%20Antarctica%20Region%2C%20Chile&tsts0=%2526ty%253D30%2526q%253DTorres%252520del%252520Paine%252520National%252520Park%2526satid%253Did.sid%25253A206d89bf-f773-a8b1-2032-4e34b08b3e1d%2526vdpid%253D6645079181791068161%2526mb%253D-50.569478~-74.566348~-51.746607~-71.402326%2526cardbg%253D%252523219AB6%2526dt%253D1746189000000&tstt0=Torres%20del%20Paine%20National%20Park%2C%20Magallanes%20and%20Chilean%20Antarctica%20Region%2C%20Chile&cp=-49.277106~-65.042544&lvl=3.4380598&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Parco+Nazionale+Torres+del+Paine%2c+Patagonia%2c+Cile&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Parco Nazionale Torres del Paine, Patagonia, Cile"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Parco+Nazionale+Torres+del+Paine%2c+Patagonia%2c+Cile&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250613",
       "fullstartdate": "202506132200",
       "enddate": "20250614",

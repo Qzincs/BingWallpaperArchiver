@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250614",
+      "fullstartdate": "202506140400",
+      "enddate": "20250615",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_89583408",
+      "copyrighttext": "© Don Landwehrle/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bristol, Maine&form=BGALM",
+      "title": "Bristol, Maine",
+      "description": "Pemaquid Point Lighthouse in Maine, USA",
+      "headline": "Bristol, Maine",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Bristol%2C%20Maine&satid=id.sid%3Ab0a31955-a32c-4f4f-40f4-bc47ee59d5ec&vdpid=5488312854505324545&mb=44.008743~-69.634436~43.778622~-69.266&cardbg=%23F98745&dt=1737662400000&tt=Bristol%2C%20Maine%2C%20United%20States&tsts3=%2526ty%253D30%2526q%253DBristol%25252C%252520Maine%2526satid%253Did.sid%25253Ab0a31955-a32c-4f4f-40f4-bc47ee59d5ec%2526vdpid%253D5488312854505324545%2526mb%253D44.008743~-69.634436~43.778622~-69.266%2526cardbg%253D%252523F98745%2526dt%253D1737662400000&tstt3=Bristol%2C%20Maine%2C%20United%20States&cp=43.893843~-69.541623&lvl=11.895264&pi=0&ftst=3&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun. 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Bristol%2c+Maine&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Maine"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Maine&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250613",
       "fullstartdate": "202506130400",
       "enddate": "20250614",

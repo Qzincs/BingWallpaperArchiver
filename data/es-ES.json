@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250614",
+      "fullstartdate": "202506142200",
+      "enddate": "20250615",
+      "urlbase": "https://www.bing.com/th?id=OHR.RheaDad_ES-ES9999398761_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%c3%91and%c3%ba&form=BGALM&filters=HpDate:\"20250614_2200\"",
+      "title": "Macho adulto de ñandú con polluelos, Parque Nacional Torres del Paine, Patagonia, Chile",
+      "description": "En la imagen de hoy vemos a un ñandú macho, también llamado ñandú de Darwin, junto a sus polluelos en el Parque Nacional Torres del Paine, en la Patagonia chilena. Esta ave no voladora, emparentada con los avestruces, es todo un ejemplo de paternidad en la naturaleza.",
+      "headline": "¡Vamos a correr!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250615_RheaDad\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%c3%91and%c3%ba&form=BGABWCTA7&filters=HpDate:\"20250614_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250613",
       "fullstartdate": "202506132200",
       "enddate": "20250614",

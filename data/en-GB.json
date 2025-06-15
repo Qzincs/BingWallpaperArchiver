@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250614",
+      "fullstartdate": "202506142300",
+      "enddate": "20250615",
+      "urlbase": "https://www.bing.com/th?id=OHR.RheaDad_EN-GB7667641809_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Fathers+Day&form=BGALM&filters=HpDate:\"20250614_2300\"",
+      "title": "Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile",
+      "description": "Long before neckties and greeting cards, Father's Day began with a daughter's quiet act of remembrance and steadfast love. In 1907, Grace Clayton, who lost her father in the Monongah mining disaster in West Virginia, United States, suggested a service to honour fathers who died in the incident. Although the idea didn't gain traction initially, it was revived in 1909 by Sonora Smart Dodd of Spokane, Washington, United States. She sought to pay tribute to her father, an American Civil War veteran who raised six children alone. Her determination sparked a movement, laying the foundation for the day we now dedicate to dads.",
+      "headline": "Feathered father figure",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250615_RheaDad\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-50.98306,-72.96639/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-50.98306,-72.96639;S9;Torres del Paine National Park, Patagonia, Chile&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Torres%20del%20Paine%20National%20Park&satid=id.sid%3A206d89bf-f773-a8b1-2032-4e34b08b3e1d&vdpid=6645079181791068161&mb=-50.569478~-74.566348~-51.746607~-71.402326&cardbg=%23219AB6&dt=1746189000000&tt=Torres%20del%20Paine%20National%20Park%2C%20Magallanes%20and%20Chilean%20Antarctica%20Region%2C%20Chile&tsts0=%2526ty%253D30%2526q%253DTorres%252520del%252520Paine%252520National%252520Park%2526satid%253Did.sid%25253A206d89bf-f773-a8b1-2032-4e34b08b3e1d%2526vdpid%253D6645079181791068161%2526mb%253D-50.569478~-74.566348~-51.746607~-71.402326%2526cardbg%253D%252523219AB6%2526dt%253D1746189000000&tstt0=Torres%20del%20Paine%20National%20Park%2C%20Magallanes%20and%20Chilean%20Antarctica%20Region%2C%20Chile&cp=-49.277106~-65.042544&lvl=3.4380598&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Torres+del+Paine+National+Park%2c+Patagonia%2c+Chile&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Torres del Paine National Park, Patagonia, Chile"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Torres+del+Paine+National+Park%2c+Patagonia%2c+Chile&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250613",
       "fullstartdate": "202506132300",
       "enddate": "20250614",
