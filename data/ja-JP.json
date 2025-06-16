@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250615",
+      "fullstartdate": "202506151500",
+      "enddate": "20250616",
+      "urlbase": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_JA-JP7521430958_UHD.jpg",
+      "copyrighttext": "© João Vianna/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e3%82%a6%e3%83%9f%e3%82%ac%e3%83%a1%e3%81%ae%e6%97%a5&form=BGALM&filters=HpDate:\"20250615_1500\"",
+      "title": "碧い海に舞うウミガメ, ブラジル",
+      "description": "今日 6 月 16 日は世界ウミガメの日。ウミガメたちの存在とその保護の大切さについて改めて考える日です。また、ウミガメ研究の第一人者であるアーチー・カー博士の誕生日でもあります。世界には 7 種のウミガメが生息しており、日本の砂浜にはアカウミガメ、アオウミガメ、タイマイの 3 種が産卵に訪れます…",
+      "headline": "今日は世界ウミガメの日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250616_SeaTurtleBrazil\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.855,-32.425/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-3.855,-32.425;S9;フェルナンド・デ・ノローニャ, ブラジル&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fernando%20de%20Noronha%20Brazil&satid=id.sid%3Ad81ba886-dbf2-fd77-b036-7b6029942bbf&vdpid=6495439290258948097&mb=-3.804753~-32.499596~-3.881371~-32.354443&cardbg=%23F98745&dt=1746203400000&tt=Fernando%20de%20Noronha%2C%20Pernambuco%2C%20Brazil&tsts0=%2526ty%253D30%2526q%253DFernando%252520de%252520Noronha%252520Brazil%2526satid%253Did.sid%25253Ad81ba886-dbf2-fd77-b036-7b6029942bbf%2526vdpid%253D6495439290258948097%2526mb%253D-3.804753~-32.499596~-3.881371~-32.354443%2526cardbg%253D%252523F98745%2526dt%253D1746203400000&tstt0=Fernando%20de%20Noronha%2C%20Pernambuco%2C%20Brazil&cp=-9.554264~-51.191646&lvl=5.260437&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 16 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ブラジル への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250614",
       "fullstartdate": "202506141500",
       "enddate": "20250615",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250615",
+      "fullstartdate": "202506152200",
+      "enddate": "20250616",
+      "urlbase": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_FR-FR5032411493_UHD.jpg",
+      "copyrighttext": "© João Vianna/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=tortue+de+mer&form=BGALM&filters=HpDate:\"20250615_2200\"",
+      "title": "Tortue marine, Fernando de Noronha, Brésil",
+      "description": "Casque intégré, allure paisible et zéro stress : la tortue marine, ici photographiée à Fernando de Noronha au Brésil, parcourt nos océans depuis l’époque des dinosaures. Le 16 juin, Journée mondiale des tortues marines, rend hommage à ces navigatrices millénaires et à leur rôle essentiel dans l’équilibre des écosystèmes marins.",
+      "headline": "Protéger les géantes des mers",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250616_SeaTurtleBrazil\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.855,-32.425/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-3.855,-32.425;S9;Fernando de Noronha, Brésil&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fernando%20de%20Noronha%20Brazil&satid=id.sid%3Ad81ba886-dbf2-fd77-b036-7b6029942bbf&vdpid=6495439290258948097&mb=-3.804753~-32.499596~-3.881371~-32.354443&cardbg=%23F98745&dt=1746203400000&tt=Fernando%20de%20Noronha%2C%20Pernambuco%2C%20Brazil&tsts0=%2526ty%253D30%2526q%253DFernando%252520de%252520Noronha%252520Brazil%2526satid%253Did.sid%25253Ad81ba886-dbf2-fd77-b036-7b6029942bbf%2526vdpid%253D6495439290258948097%2526mb%253D-3.804753~-32.499596~-3.881371~-32.354443%2526cardbg%253D%252523F98745%2526dt%253D1746203400000&tstt0=Fernando%20de%20Noronha%2C%20Pernambuco%2C%20Brazil&cp=-9.554264~-51.191646&lvl=5.260437&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "16 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Fernando+de+Noronha%2c+Br%c3%a9sil&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Fernando de Noronha, Brésil"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Fernando+de+Noronha%2c+Br%c3%a9sil&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250614",
       "fullstartdate": "202506142200",
       "enddate": "20250615",

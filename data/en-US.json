@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250615",
+      "fullstartdate": "202506150700",
+      "enddate": "20250616",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_572684305",
+      "copyrighttext": "© ronnybas/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Faroe Islands, Mykines, Denmark&form=BGALM",
+      "title": "Faroe Islands, Mykines, Denmark",
+      "description": "Puffins of the Faroe Islands, Mykines, Denmark, Europe",
+      "headline": "Faroe Islands, Mykines, Denmark",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?cp=62.104491~-7.596352&lvl=13.2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Faroe+Islands%2c+Mykines%2c+Denmark&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Mykines, Denmark"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Mykines%2c+Denmark&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250614",
       "fullstartdate": "202506140700",
       "enddate": "20250615",

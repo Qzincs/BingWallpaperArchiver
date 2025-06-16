@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250615",
+      "fullstartdate": "202506152200",
+      "enddate": "20250616",
+      "urlbase": "https://www.bing.com/th?id=OHR.SeaTurtleBrazil_ES-ES0110277118_UHD.jpg",
+      "copyrighttext": "© João Vianna/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=caretta+caretta&form=BGALM&filters=HpDate:\"20250615_2200\"",
+      "title": "Tortuga marina, Archipiélago de Fernando de Noroña, Brasil",
+      "description": "Con caparazón incorporado y ritmo pausado, las tortugas marinas llevan más de 100 millones de años surcando los océanos, mucho antes de que existiera el Tyrannosaurus rex. Hoy, 16 de junio, celebramos el Día Mundial de las Tortugas Marinas, en honor al nacimiento del conservacionista Archie Carr, considerado el “padre” de su protección.",
+      "headline": "Siglos de sabiduría marina",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250616_SeaTurtleBrazil\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=caretta+caretta&form=BGABWCTA7&filters=HpDate:\"20250615_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250614",
       "fullstartdate": "202506142200",
       "enddate": "20250615",

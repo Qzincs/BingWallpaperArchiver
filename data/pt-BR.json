@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250615",
+      "fullstartdate": "202506150300",
+      "enddate": "20250616",
+      "urlbase": "https://www.bing.com/th?id=OHR.RheaDad_PT-BR0280530641_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=nandu-de-darwin&form=BGALM&filters=HpDate:\"20250615_0300\"",
+      "title": "Macho de nandu-de-darwin com filhotes, Parque Nacional Torres del Paine, Patagônia, Chile",
+      "description": "Na imagem do dia, direto do Parque Nacional Torres del Paine, na Patagônia chilena, vemos um macho de nandu-de-darwin  com seus filhotes. Essa espécie é parente próxima da ema brasileira e compartilha com ela um comportamento fascinante: é o macho quem cuida dos ovos e dos filhotes, guiando-os, protegendo-os e até adotando órfãos de outros ninhos. Curiosamente, um único macho pode cuidar de até 50 filhotes ao mesmo tempo, formando verdadeiras “creches” ambulantes.",
+      "headline": "Asas que não voam, mas protegem",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250615_RheaDad\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=nandu-de-darwin&form=BGABWCTA7&filters=HpDate:\"20250615_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250614",
       "fullstartdate": "202506140300",
       "enddate": "20250615",
