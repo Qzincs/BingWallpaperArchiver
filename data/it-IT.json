@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250616",
+      "fullstartdate": "202506162200",
+      "enddate": "20250617",
+      "urlbase": "https://www.bing.com/th?id=OHR.CumberlandOaks_IT-IT6066692502_UHD.jpg",
+      "copyrighttext": "© Chris Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Le+Sea+Islands&form=BGALM&filters=HpDate:\"20250616_2200\"",
+      "title": "Foresta marittima nel Cumberland Island National Seashore, Georgia, USA",
+      "description": "Prima ancora di vedere il mare, ne sentirete il respiro: il fruscio delle foglie accarezzate dal vento salmastro, il lamento sommesso dei tronchi contorti. Questa è la foresta marittima di Cumberland Island, nello stato americano della Georgia, dove gli alberi sfidano tempeste e sabbia senza mai cedere. Le querce sempreverdi si piegano, ma non si spezzano, mentre le palme seghettate si ergono come sentinelle silenziose, avvolte da veli di muschio spagnolo che ondeggiano nell’aria. È un santuario naturale, uno degli ultimi rifugi di questo raro habitat, protetto dal lento avanzare del cemento che altrove ha rubato spazio alla terra selvaggia.",
+      "headline": "Poesia della Foresta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250617_CumberlandOaks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.720871,-81.550293/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=30.720871,-81.550293;S9;Foresta marittima nel Cumberland Island National Seashore, Georgia, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Maritime%20forest%20Cumberland%20Island&ss=ypid.YN873x692230007638231397&mb=30.727754~-81.56544~30.713974~-81.535141&description=101%20Wheeler%20St%2C%20St.%20Marys%2C%20GA%2031558%C2%B7National%20park&cardbg=%233DB838&dt=1746531000000&tt=Cumberland%20Island%20National%20Seashore&tsts0=%2526ty%253D18%2526q%253DMaritime%252520forest%252520Cumberland%252520Island%2526ss%253Dypid.YN873x692230007638231397%2526mb%253D30.727754~-81.56544~30.713974~-81.535141%2526description%253D101%252520Wheeler%252520St%25252C%252520St.%252520Marys%25252C%252520GA%25252031558%2525C2%2525B7National%252520park%2526cardbg%253D%2525233DB838%2526dt%253D1746531000000&tstt0=Cumberland%20Island%20National%20Seashore&cp=30.76548~-89.363092&lvl=6.438201&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Georgia%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Georgia, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Georgia%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250615",
       "fullstartdate": "202506152200",
       "enddate": "20250616",

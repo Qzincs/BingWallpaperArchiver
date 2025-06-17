@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250616",
+      "fullstartdate": "202506161830",
+      "enddate": "20250617",
+      "urlbase": "https://www.bing.com/th?id=OHR.CumberlandOaks_EN-IN9016883478_UHD.jpg",
+      "copyrighttext": "© Chris Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Cumberland+Island+National+Seashore&form=BGALM&filters=HpDate:\"20250616_1830\"",
+      "title": "Maritime Forest in Cumberland Island National Seashore, Georgia, United States",
+      "description": "Before you hit the beach, you'll hear it—the rustle of leaves in salty air, the creak of twisted trunks, the hush of an old world. Welcome to the maritime forest of Cumberland Island National Seashore on the southernmost stretch of Georgia's Atlantic coast. Salt spray, sandy soil, hurricanes? The trees here stand their ground. Live oaks bend but don't break. Saw palmettos crowd the ground like leafy bodyguards, while Spanish moss hangs from branches like nature's fringe. This maritime forest is one of the best remaining examples of this rare habitat in the United States. Thanks to its national seashore status, the island has been spared from the concrete creep seen on other coastlines.",
+      "headline": "Coastal quiet, untamed life",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250617_CumberlandOaks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.720871,-81.550293/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=30.720871,-81.550293;S9;Cumberland Island National Seashore, Georgia, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?&ty=18&q=Maritime%20forest%20Cumberland%20Island&ss=ypid.YN873x692230007638231397&mb=30.727754~-81.56544~30.713974~-81.535141&description=101%20Wheeler%20St%2C%20St.%20Marys%2C%20GA%2031558%C2%B7National%20park&cardbg=%233DB838&dt=1746531000000&tt=Cumberland%20Island%20National%20Seashore&tsts0=%2526ty%253D18%2526q%253DMaritime%252520forest%252520Cumberland%252520Island%2526ss%253Dypid.YN873x692230007638231397%2526mb%253D30.727754~-81.56544~30.713974~-81.535141%2526description%253D101%252520Wheeler%252520St%25252C%252520St.%252520Marys%25252C%252520GA%25252031558%2525C2%2525B7National%252520park%2526cardbg%253D%2525233DB838%2526dt%253D1746531000000&tstt0=Cumberland%20Island%20National%20Seashore&cp=30.76548~-89.363092&lvl=6.438201&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Georgia%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Georgia, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Georgia%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250615",
       "fullstartdate": "202506151830",
       "enddate": "20250616",

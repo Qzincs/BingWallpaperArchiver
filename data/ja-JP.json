@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250616",
+      "fullstartdate": "202506161500",
+      "enddate": "20250617",
+      "urlbase": "https://www.bing.com/th?id=OHR.CumberlandOaks_JA-JP7607865039_UHD.jpg",
+      "copyrighttext": "© Chris Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%ab%e3%83%b3%e3%83%90%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89%e5%b3%b6%e5%9b%bd%e7%ab%8b%e6%b5%b7%e5%b2%b8%2c+%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8%e3%82%a2%e5%b7%9e&form=BGALM&filters=HpDate:\"20250616_1500\"",
+      "title": "カンバーランド島国立海岸, 米国 ジョージア州",
+      "description": "米国・ジョージア州の沖に広がるカンバーランド島国立海岸。白い砂浜と豊かな海岸林が続き、潮風に揺れるオークの木々と、地を這うように茂るノコギリパルメット（ヤシの一種）が、海の浸食から大地を守っています…",
+      "headline": "潮風に揺れる森",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250617_CumberlandOaks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.720871,-81.550293/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=30.720871,-81.550293;S9;カンバーランド島国立海岸, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Maritime%20forest%20Cumberland%20Island&ss=ypid.YN873x692230007638231397&mb=30.727754~-81.56544~30.713974~-81.535141&description=101%20Wheeler%20St%2C%20St.%20Marys%2C%20GA%2031558%C2%B7National%20park&cardbg=%233DB838&dt=1746531000000&tt=Cumberland%20Island%20National%20Seashore&tsts0=%2526ty%253D18%2526q%253DMaritime%252520forest%252520Cumberland%252520Island%2526ss%253Dypid.YN873x692230007638231397%2526mb%253D30.727754~-81.56544~30.713974~-81.535141%2526description%253D101%252520Wheeler%252520St%25252C%252520St.%252520Marys%25252C%252520GA%25252031558%2525C2%2525B7National%252520park%2526cardbg%253D%2525233DB838%2526dt%253D1746531000000&tstt0=Cumberland%20Island%20National%20Seashore&cp=30.76548~-89.363092&lvl=6.438201&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ジョージア州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250615",
       "fullstartdate": "202506151500",
       "enddate": "20250616",
