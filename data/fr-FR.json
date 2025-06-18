@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250617",
+      "fullstartdate": "202506172200",
+      "enddate": "20250618",
+      "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_FR-FR5577967148_UHD.jpg",
+      "copyrighttext": "© lzh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=papillon+machaon&form=BGALM&filters=HpDate:\"20250617_2200\"",
+      "title": "Papillon machaon asiatique sur un lis araignée rouge",
+      "description": "Avec ses ailes éclatantes et son vol léger, le machaon asiatique semble danser entre les fleurs, tel un messager de la biodiversité. Posé sur un lis araignée rouge, une plante originaire du Japon aujourd’hui bien acclimatée en Europe, ce papillon majestueux incarne à merveille le rôle crucial des pollinisateurs.",
+      "headline": "À vos marques, prêts… butinez !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250618_AsianSwallowtail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=papillon+machaon&form=BGABWCTA7&filters=HpDate:\"20250617_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250616",
       "fullstartdate": "202506162200",
       "enddate": "20250617",

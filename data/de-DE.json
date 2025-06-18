@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250617",
+      "fullstartdate": "202506172200",
+      "enddate": "20250618",
+      "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_DE-DE9625151337_UHD.jpg",
+      "copyrighttext": "© lzh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Best%c3%a4ubung&form=BGALM&filters=HpDate:\"20250617_2200\"",
+      "title": "Japanischer Schwalbenschwanz auf einer Spinnenlilie",
+      "description": "Bestäuber sind wahre Helden der Natur: Ohne sie würden Obst, Gemüse und Blumen kaum in solcher Vielfalt existieren. Bei Bestäubern denken viele sofort an Bienen und Hummeln, doch sie sind längst nicht die einzigen. Auch Schmetterlinge, Käfer, Vögel und sogar Fledermäuse tragen dazu bei, dass Pflanzen Früchte und Samen bilden können, indem sie Pollen von einer Blüte zur nächsten transportieren. Ihre Rolle ist nicht nur ökologisch unverzichtbar, sondern auch wirtschaftlich enorm wertvoll – sie sichern die Grundlagen unserer Ernährung und erhalten die Artenvielfalt.",
+      "headline": "Unermüdliche Helfer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250618_AsianSwallowtail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Best%c3%a4ubung&form=BGABWCTA7&filters=HpDate:\"20250617_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250616",
       "fullstartdate": "202506162200",
       "enddate": "20250617",

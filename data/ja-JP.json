@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250617",
+      "fullstartdate": "202506171500",
+      "enddate": "20250618",
+      "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_JA-JP7699354207_UHD.jpg",
+      "copyrighttext": "© lzh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%bd%bc%e5%b2%b8%e8%8a%b1%e3%81%ab%e3%83%8a%e3%83%9f%e3%82%a2%e3%82%b2%e3%83%8f&form=BGALM&filters=HpDate:\"20250617_1500\"",
+      "title": "彼岸花にナミアゲハ",
+      "description": "今週は全米花粉媒介者週間。鳥、コウモリ、ミツバチ、チョウなど、花粉を運ぶ生き物たちの働きを称える期間です。風や水によって受粉する植物もありますが、世界の種子植物のおよそ 90％ は動物によって受粉しています。私たちが日々口にする農作物や、美しい自然の多様性は、こうした小さな命の営みによって支えられています…",
+      "headline": "今週は全米花粉媒介者週間",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250618_AsianSwallowtail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 18 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%bd%bc%e5%b2%b8%e8%8a%b1%e3%81%ab%e3%83%8a%e3%83%9f%e3%82%a2%e3%82%b2%e3%83%8f&form=BGABWCTA7&filters=HpDate:\"20250617_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250616",
       "fullstartdate": "202506161500",
       "enddate": "20250617",

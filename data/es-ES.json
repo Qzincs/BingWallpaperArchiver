@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250617",
+      "fullstartdate": "202506172200",
+      "enddate": "20250618",
+      "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_ES-ES0291489304_UHD.jpg",
+      "copyrighttext": "© lzh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Papilio+xuthus&form=BGALM&filters=HpDate:\"20250617_2200\"",
+      "title": "Mariposa cola de golondrina asiática en un lirio araña rojo",
+      "description": "¡La naturaleza está en plena floración y los polinizadores hacen su magia! Entre ellos destaca la mariposa conocida como cola de golondrina asiática. Esta especie de vivos colores y elegante cola se deja ver sobre lirios araña rojos, creando un espectáculo digno de admirar.",
+      "headline": "¡De flor en flor!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250618_AsianSwallowtail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Papilio+xuthus&form=BGABWCTA7&filters=HpDate:\"20250617_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250616",
       "fullstartdate": "202506162200",
       "enddate": "20250617",

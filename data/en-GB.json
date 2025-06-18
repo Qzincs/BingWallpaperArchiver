@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250617",
+      "fullstartdate": "202506172300",
+      "enddate": "20250618",
+      "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_EN-GB8497991107_UHD.jpg",
+      "copyrighttext": "© lzh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pollinator+Week&form=BGALM&filters=HpDate:\"20250617_2300\"",
+      "title": "Asian swallowtail butterfly on a red spider lily",
+      "description": "Pollinator Week is in full bloom! This year's celebration takes place from June 16 to 22. It shines a spotlight on the birds, bats, bees, butterflies, beetles and other animals that help pollinate nearly 90% of flowering plants—including many of the fruits, vegetables and nuts we love. Featured here is the Asian swallowtail, beautifully captured on a red spider lily. Found across Northeast Asia and even parts of Hawaii, this striking butterfly uses its keen colour vision to find flowers, especially those from citrus families. While it is common and not currently threatened, its role as a pollinator is no less important.",
+      "headline": "Let the pollinating games begin!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250618_AsianSwallowtail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pollinator+Week&form=BGABWCTA7&filters=HpDate:\"20250617_2300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250616",
       "fullstartdate": "202506162300",
       "enddate": "20250617",
