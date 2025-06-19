@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250618",
+      "fullstartdate": "202506180300",
+      "enddate": "20250619",
+      "urlbase": "https://www.bing.com/th?id=OHR.AsianSwallowtail_PT-BR4054073154_UHD.jpg",
+      "copyrighttext": "© lzh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Poliniza%c3%a7%c3%a3o&form=BGALM&filters=HpDate:\"20250618_0300\"",
+      "title": "Borboleta sobre lírio-da-aranha-vermelha",
+      "description": "Você já parou para pensar no trabalho silencioso que sustenta a vida ao nosso redor? A polinização é um desses processos invisíveis, mas essenciais. Pássaros, morcegos, abelhas, borboletas, besouros e outros animais desempenham um papel vital na reprodução de quase 90% das plantas com flores — incluindo muitas das frutas, legumes e castanhas que fazem parte da nossa alimentação diária.",
+      "headline": "Que comece a dança da polinização!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250618_AsianSwallowtail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Poliniza%c3%a7%c3%a3o&form=BGABWCTA7&filters=HpDate:\"20250618_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250617",
       "fullstartdate": "202506170300",
       "enddate": "20250618",

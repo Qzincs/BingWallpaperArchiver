@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250618",
+      "fullstartdate": "202506181600",
+      "enddate": "20250619",
+      "urlbase": "https://www.bing.com/th?id=OHR.WinterBegins_ZH-CN7638411804_UHD.jpg",
+      "copyrighttext": "© CaioCarvalhoPhotography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e5%b7%9e&form=BGALM&filters=HpDate:\"20250618_1600\"",
+      "title": "圣卡塔琳娜州的海滩, 巴西",
+      "description": "圣卡塔琳娜州位于巴西南部，其海岸线沿大西洋延展超过560公里，是一处汇聚历史演进与人类活动的多元文化地带。在欧洲航海者首次抵达前，图皮瓜拉尼族等原住民族群已在此定居，依赖捕鱼与农业生计，并与自然环境建立了密切联系。1529年，随着航海探险的发展，该地区被绘入地图，“圣卡塔琳娜”一名首次出现在世界地理文献中。",
+      "headline": "潮汐与时间交汇之地",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250619_WinterBegins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 6月 19",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b7%b4%e8%a5%bf%e5%9c%a3%e5%8d%a1%e5%a1%94%e7%90%b3%e5%a8%9c%e5%b7%9e&form=BGABWCTA7&filters=HpDate:\"20250618_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250617",
       "fullstartdate": "202506171600",
       "enddate": "20250618",

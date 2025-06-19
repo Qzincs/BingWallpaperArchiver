@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250618",
+      "fullstartdate": "202506182300",
+      "enddate": "20250619",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_130455024",
+      "copyrighttext": "© robertharding/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bristol, England, United Kingdom&form=BGALM",
+      "title": "Bristol, England, United Kingdom",
+      "description": "Clifton Suspension Bridge with hot air balloons in the Bristol Balloon Fiesta in August, Clifton, Bristol, England, United Kingdom, Europe",
+      "headline": "Bristol, England, United Kingdom",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Bristol%2C%20England%2C%20United%20Kingdom&satid=id.sid%3A3a2b5f36-3aab-be4b-07ef-da515a676e60&vdpid=5471611648789708801&mb=51.651307~-2.965056~51.254623~-2.230599&cardbg=%23F98745&tt=Bristol%2C%20England%2C%20United%20Kingdom&tsts1=%2526ty%253D30%2526q%253DBristol%25252C%252520England%25252C%252520United%252520Kingdom%2526satid%253Did.sid%25253A3a2b5f36-3aab-be4b-07ef-da515a676e60%2526vdpid%253D5471611648789708801%2526mb%253D51.651307~-2.965056~51.254623~-2.230599%2526cardbg%253D%252523F98745&tstt1=Bristol%2C%20England%2C%20United%20Kingdom&cp=51.453396~-2.780338&lvl=10.9&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Taith+i+Bristol%2c+England%2c+United+Kingdom&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  England, United Kingdom"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++England%2c+United+Kingdom&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250617",
       "fullstartdate": "202506172300",
       "enddate": "20250618",

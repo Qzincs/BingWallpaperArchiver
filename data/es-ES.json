@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250618",
+      "fullstartdate": "202506182200",
+      "enddate": "20250619",
+      "urlbase": "https://www.bing.com/th?id=OHR.WinterBegins_ES-ES0401089663_UHD.jpg",
+      "copyrighttext": "© CaioCarvalhoPhotography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=BGALM&filters=HpDate:\"20250618_2200\"",
+      "title": "Playa en Santa Catarina, Brasil",
+      "description": "A lo largo de más de 560 kilómetros en el sur de Brasil, la costa de Santa Catarina guarda siglos de historia y belleza natural. Mucho antes de la llegada europea, los carijós —del grupo tupí-guaraní— habitaban esta región, viviendo en armonía con el mar y la tierra. En 1529, el nombre \"Santa Catarina\" ya figuraba en los mapas del mundo. Durante el siglo XVIII, llegaron colonos azorianos, y pronto el litoral se convirtió en escenario de disputas entre Portugal y España. Más tarde, inmigrantes alemanes e italianos enriquecieron la cultura local. En los siglos XIX y XX, florecieron los puertos y comunidades pesqueras.",
+      "headline": "El mejor lugar para descansar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250619_WinterBegins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Santa+Catarina+Brasil&form=BGABWCTA7&filters=HpDate:\"20250618_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250617",
       "fullstartdate": "202506172200",
       "enddate": "20250618",
