@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250619",
+      "fullstartdate": "202506190300",
+      "enddate": "20250620",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSolstice_PT-BR2763816413_UHD.jpg",
+      "copyrighttext": "© Tom Mackie/AWL/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=cascada+de+seljalandsfoss&form=BGALM&filters=HpDate:\"20250619_0300\"",
+      "title": "Cascata de Seljalandsfoss ao entardecer, na Islândia",
+      "description": "Hoje estamos diante de uma cachoeira onde é possível caminhar por trás da queda-d’água e assistir ao pôr do sol emoldurado por uma caverna. Essa é a experiência única que Seljalandsfoss, na Islândia, oferece. Com 60 metros de altura, esta cascata islandesa é alimentada pelo rio Seljalandsa, que nasce da geleira vulcânica Eyjafjallajökull — famosa por sua erupção em 2010, que impactou o tráfego aéreo europeu. À noite, refletores iluminam a queda-d’água, criando um cenário que atrai fotógrafos e amantes da natureza do mundo todo.",
+      "headline": "Tudo pronto para o pôr do sol",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250619_IcelandSolstice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cascada+de+seljalandsfoss&form=BGABWCTA7&filters=HpDate:\"20250619_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250618",
       "fullstartdate": "202506180300",
       "enddate": "20250619",

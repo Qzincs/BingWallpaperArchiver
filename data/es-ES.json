@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250619",
+      "fullstartdate": "202506192200",
+      "enddate": "20250620",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSolstice_ES-ES0482972208_UHD.jpg",
+      "copyrighttext": "© Tom Mackie/AWL/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Seljalandsfoss&form=BGALM&filters=HpDate:\"20250619_2200\"",
+      "title": "Cascada de Seljalandsfoss al atardecer, Islandia",
+      "description": "Cada año, el hemisferio norte celebra el día más largo: el solsticio de verano. En Islandia, este fenómeno se disfruta de forma especial en Seljalandsfoss, una cascada de 60 metros que cae desde antiguos acantilados marinos en la costa sur del país. El agua proviene del río Seljalandsá, alimentado por el glaciar volcánico Eyjafjallajökull, famoso por su erupción en 2010, que paralizó el tráfico aéreo en Europa, incluida España.",
+      "headline": "Todo listo para la puesta de sol",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250620_IcelandSolstice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Seljalandsfoss&form=BGABWCTA7&filters=HpDate:\"20250619_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250618",
       "fullstartdate": "202506182200",
       "enddate": "20250619",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250619",
+      "fullstartdate": "202506190700",
+      "enddate": "20250620",
+      "urlbase": "https://www.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg",
+      "copyrighttext": "© joe daniel price/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=juneteenth&form=BGALM&filters=HpDate:\"20250619_0700\"",
+      "title": "Texas State Capitol in Austin",
+      "description": "Every year on June 19, the United States marks Juneteenth National Independence Day, a federal holiday commemorating the end of slavery. On this day in 1865—two and a half years after the Emancipation Proclamation was issued—Union Major General Gordon Granger arrived in Galveston, Texas, with news that over 250,000 enslaved people were finally free. Texas was the last Confederate state to enforce freedom, making Juneteenth a powerful symbol of delayed justice and ultimate liberation.",
+      "headline": "Celebrating freedom and resilience",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250619_TexasCapitol\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.274666,-97.740349/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=30.274666,-97.740349;S9;Austin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=texas%20capitol&ss=ypid.YN873x8229707529192155878&mb=30.278999~-97.748666~30.270345~-97.732015&description=1100%20Congress%20Ave%2C%20Austin%2C%20TX%2078701%C2%B7Local%20%26%20state%20government%20offices&cardbg=%2388979C&dt=1746183600000&tt=Texas%20State%20Capitol&tsts0=%2526ty%253D18%2526q%253Dtexas%252520capitol%2526ss%253Dypid.YN873x8229707529192155878%2526mb%253D30.278999~-97.748666~30.270345~-97.732015%2526description%253D1100%252520Congress%252520Ave%25252C%252520Austin%25252C%252520TX%25252078701%2525C2%2525B7Local%252520%252526%252520state%252520government%252520offices%2526cardbg%253D%25252388979C%2526dt%253D1746183600000&tstt0=Texas%20State%20Capitol&cp=30.270781~-97.755634&lvl=14.793429&pi=0&ftst=0&ftics=False&v=2&sV=&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=juneteenth&form=BGABWCTA7&filters=HpDate:\"20250619_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250618",
       "fullstartdate": "202506180700",
       "enddate": "20250619",

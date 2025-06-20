@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250619",
+      "fullstartdate": "202506191500",
+      "enddate": "20250620",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSolstice_JA-JP9258082333_UHD.jpg",
+      "copyrighttext": "© Tom Mackie/AWL/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%bb%e3%83%aa%e3%83%a3%e3%83%a9%e3%83%b3%e3%83%88%e3%82%b9%e3%83%95%e3%82%a9%e3%82%b9%2c+%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89+&form=BGALM&filters=HpDate:\"20250619_1500\"",
+      "title": "セリャラントスフォス, アイスランド",
+      "description": "夕陽に照らされ、金色に輝くセリャラントスフォス。アイスランド南部に位置した滝で、エイヤフィヤトラヨークトル氷河を源とした水が、高さ 60m の断崖から豪快に落下します。2010 年にこの氷河の下にある火山が大噴火を起こし、ヨーロッパの航空網に大きな影響を与えたことでも知られています…",
+      "headline": "夕陽に染まる巨大な滝",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250620_IcelandSolstice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/63.615829,-19.992781/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=63.615829,-19.992781;S9;セリャラントスフォス, アイスランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Seljalandsfoss%2C%20Rang%C3%A1r%C3%BEing%20eystra%2C%20Iceland&ss=ypid.YN8087x16362036975192943681&mb=63.618098~-19.995954~63.613559~-19.989603&description=Rang%C3%A1r%C3%BEing%20Eystra%2C%20Sudhurland&cardbg=%23219AB6&dt=1746025200000&tt=Seljalandsfoss&tsts0=%2526ty%253D18%2526q%253DSeljalandsfoss%25252C%252520Rang%2525C3%2525A1r%2525C3%2525BEing%252520eystra%25252C%252520Iceland%2526ss%253Dypid.YN8087x16362036975192943681%2526mb%253D63.618098~-19.995954~63.613559~-19.989603%2526description%253DRang%2525C3%2525A1r%2525C3%2525BEing%252520Eystra%25252C%252520Sudhurland%2526cardbg%253D%252523219AB6%2526dt%253D1746025200000&tstt0=Seljalandsfoss&cp=64.026793~-37.22582&lvl=3.9924734&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " アイスランド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250618",
       "fullstartdate": "202506181500",
       "enddate": "20250619",
