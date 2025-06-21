@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250620",
+      "fullstartdate": "202506200300",
+      "enddate": "20250621",
+      "urlbase": "https://www.bing.com/th?id=OHR.WinterBegins_PT-BR2647021709_UHD.jpg",
+      "copyrighttext": "© CaioCarvalhoPhotography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Santa+Catarina&form=BGALM&filters=HpDate:\"20250620_0300\"",
+      "title": "Praia em Santa Catarina",
+      "description": "Hoje começa o inverno no Brasil e, em Santa Catarina, ele chega como uma maré baixa: discreto, mas cheio de presença. O ar fica mais fresco, as cores mais suaves e a paisagem, como a registrada na imagem, parece respirar em outro compasso. É também nessa época que as baleias-francas se aproximam da costa, vindas do sul em busca de águas mais calmas para dar à luz e cuidar de seus filhotes. Entre junho e novembro, esses gigantes podem ser avistados perto da areia, lembrando a relevância ambiental do litoral catarinense.",
+      "headline": "Histórias que o frio embala",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250620_WinterBegins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Santa+Catarina&form=BGABWCTA7&filters=HpDate:\"20250620_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250619",
       "fullstartdate": "202506190300",
       "enddate": "20250620",

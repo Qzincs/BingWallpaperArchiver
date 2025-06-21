@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250620",
+      "fullstartdate": "202506201500",
+      "enddate": "20250621",
+      "urlbase": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_JA-JP9470836014_UHD.jpg",
+      "copyrighttext": "© Alberto Cassani/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9e%e3%82%b5%e3%82%a4%e3%82%ad%e3%83%aa%e3%83%b3%2c+%e3%82%bf%e3%83%b3%e3%82%b6%e3%83%8b%e3%82%a2&form=BGALM&filters=HpDate:\"20250620_1500\"",
+      "title": "マサイキリンの母子, タンザニア",
+      "description": "今日 6 月 21 日は夏至。北半球では 1 年のうち、最も昼が長くなる日です。また、動物の中で最も首が長い「キリンの日」でもあります。過去 35 年間で約 30% も個体数が減少したキリンに対する認識を高めるため、キリン保全財団によって制定されました…",
+      "headline": "今日は夏至",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250621_SerengetiGiraffe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-2.332778,34.566666/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-2.332778,34.566666;S9;セレンゲティ国立公園, タンザニア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%82%BB%E3%83%AC%E3%83%B3%E3%82%B2%E3%83%86%E3%82%A3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92&vdpid=8115806096838361089&ss=ypid.YN8187x5965701790611451070&mb=-1.418831~32.928954~-3.323943~36.202489&dt=1747627200000&tt=Serengeti%20National%20Park&tsts0=%2526ty%253D30%2526q%253D%2525E3%252582%2525BB%2525E3%252583%2525AC%2525E3%252583%2525B3%2525E3%252582%2525B2%2525E3%252583%252586%2525E3%252582%2525A3%2525E5%25259B%2525BD%2525E7%2525AB%25258B%2525E5%252585%2525AC%2525E5%25259C%252592%2526vdpid%253D8115806096838361089%2526ss%253Dypid.YN8187x5965701790611451070%2526mb%253D-1.418831~32.928954~-3.323943~36.202489%2526dt%253D1747627200000&tstt0=Serengeti%20National%20Park&cp=-1.739021~32.808878&lvl=7.22878&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 21 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%bf%e3%83%b3%e3%82%b6%e3%83%8b%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " タンザニア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%bf%e3%83%b3%e3%82%b6%e3%83%8b%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250619",
       "fullstartdate": "202506191500",
       "enddate": "20250620",

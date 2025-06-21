@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250620",
+      "fullstartdate": "202506201830",
+      "enddate": "20250621",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_506819660",
+      "copyrighttext": "© den-belitsky/stock.adobe.com",
+      "copyrightlink": "https://www.bing.com/search?q=Istria, Croatia&form=BGALM",
+      "title": "Istria, Croatia",
+      "description": "Aerial view of small island, Kamenjak cape, Adriatic sea, Croatia at sunset in summer",
+      "headline": "Istria, Croatia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Istria%2C%20Croatia&satid=id.sid%3A0ab1de7c-4cb1-cbce-c3eb-ca81244e251f&vdpid=10613481&mb=45.588394~12.484709~44.468918~14.98439&cardbg=%23F98745&tt=Istria%2C%20Croatia&tsts9=%2526ty%253D30%2526q%253DIstria%25252C%252520Croatia%2526satid%253Did.sid%25253A0ab1de7c-4cb1-cbce-c3eb-ca81244e251f%2526vdpid%253D10613481%2526mb%253D45.588394~12.484709~44.468918~14.98439%2526cardbg%253D%252523F98745&tstt9=Istria%2C%20Croatia&cp=45.031829~13.281166&lvl=9.584795&pi=0&ftst=9&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com:443/travel/place-information?q=Croatia&SID=98d53c1a-2e70-ba44-c85e-1e3d4c505723&Form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Croatia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Croatia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250619",
       "fullstartdate": "202506191830",
       "enddate": "20250620",

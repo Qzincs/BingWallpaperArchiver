@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250620",
+      "fullstartdate": "202506200700",
+      "enddate": "20250621",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSolstice_ROW5177555688_UHD.jpg",
+      "copyrighttext": "© Tom Mackie/AWL/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Seljalandsfoss+waterfall&form=BGALM&filters=HpDate:\"20250620_0700\"",
+      "title": "Seljalandsfoss waterfall at sunset, Iceland",
+      "description": "Featured in today's image is the Seljalandsfoss waterfall. Located along Iceland's South Coast, the 60-metre waterfall drops from cliffs that once marked the country's coastline. The cascading water is part of the Seljalandsá River, originating from the volcanic glacier Eyjafjallajökull. The volcano under the icecap last erupted in 2010, causing disruption for locals and air traffic.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250620_IcelandSolstice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Seljalandsfoss+waterfall&form=BGABWCTA7&filters=HpDate:\"20250620_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250619",
       "fullstartdate": "202506190700",
       "enddate": "20250620",
