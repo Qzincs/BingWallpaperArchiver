@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250621",
+      "fullstartdate": "202506212200",
+      "enddate": "20250622",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_ES-ES0820958985_UHD.jpg",
+      "copyrighttext": "© Mark Fox/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=La+Amazonia&form=BGALM&filters=HpDate:\"20250621_2200\"",
+      "title": "Selva amazónica, Ecuador",
+      "description": "El 22 de junio se celebra el Día Mundial de los Bosques Tropicales, una fecha para recordar que proteger la selva es proteger la vida. Esta efeméride fue creada en 2017 por la organización Rainforest Partnership con el objetivo de concienciar sobre el valor de estos ecosistemas y promover su conservación.",
+      "headline": "Jungla hasta donde alcanza la vista",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250622_AmazonEcuador\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Amazonia&form=BGABWCTA7&filters=HpDate:\"20250621_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250620",
       "fullstartdate": "202506202200",
       "enddate": "20250621",

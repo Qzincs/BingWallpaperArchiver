@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250621",
+      "fullstartdate": "202506210400",
+      "enddate": "20250622",
+      "urlbase": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_EN-CA5577558802_UHD.jpg",
+      "copyrighttext": "© Alberto Cassani/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=World+Giraffe+Day&form=BGALM&filters=HpDate:\"20250621_0400\"",
+      "title": "Masai giraffe mother grooming her calf in the Serengeti, Tanzania",
+      "description": "World Giraffe Day, celebrated on June 21, is a perfect opportunity to learn about the Serengeti and its iconic Masai giraffes. This annual event, organised by the Giraffe Conservation Foundation, raises awareness about the declining giraffe population, which has decreased by nearly 30% over the past 35 years. Masai giraffes, known for their distinctive, jagged blotches, are native to East Africa. Besides Kenya and Uganda, they roam the vast plains of Tanzania's Serengeti, a name derived from the Maasai word 'seringit,' meaning 'endless plains.' Today's image captures a tender moment between a Masai giraffe mother and her calf in this stunning landscape. With only approximately 117,000 giraffes remaining in the wild, the time to act is now.",
+      "headline": "Spot the spots",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250621_SerengetiGiraffe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-2,34.83333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-2,34.83333;S9;Serengeti, Tanzania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Serengeti%2C%20Mara%20Region%2C%20Tanzania&satid=id.sid%3A3b4af466-a3c0-e42a-d72e-e3174c1bf52e&vdpid=-7978847732&mb=-1.41949~33.825802~-2.505218~35.657082&cardbg=%23F98745&tt=Serengeti%2C%20Mara%20Region%2C%20Tanzania&tsts0=%2526ty%253D30%2526q%253DSerengeti%25252C%252520Mara%252520Region%25252C%252520Tanzania%2526satid%253Did.sid%25253A3b4af466-a3c0-e42a-d72e-e3174c1bf52e%2526vdpid%253D-7978847732%2526mb%253D-1.41949~33.825802~-2.505218~35.657082%2526cardbg%253D%252523F98745&tstt0=Serengeti%2C%20Mara%20Region%2C%20Tanzania&cp=13.42004~6.534764&lvl=3.5651011&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun. 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Tanzania&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Tanzania"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Tanzania&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250620",
       "fullstartdate": "202506200400",
       "enddate": "20250621",

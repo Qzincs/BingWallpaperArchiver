@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250621",
+      "fullstartdate": "202506210700",
+      "enddate": "20250622",
+      "urlbase": "https://www.bing.com/th?id=OHR.SerengetiGiraffe_ROW5363450229_UHD.jpg",
+      "copyrighttext": "© Alberto Cassani/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Masai+giraffe&form=BGALM&filters=HpDate:\"20250621_0700\"",
+      "title": "Masai giraffe mother grooming her calf in the Serengeti, Tanzania",
+      "description": "Masai giraffes, known for their distinctive jagged blotches, are native to East Africa. Besides Kenya and Uganda, they roam the vast plains of Tanzania's Serengeti, a name derived from the Maasai word 'seringit,' meaning 'endless plains.' Masai giraffes were named after Herr von Tippelskirch, a member of a German scientific expedition who was the first to collect information and specimens of this giraffe subspecies and bring them to Europe.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250621_SerengetiGiraffe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Masai+giraffe&form=BGABWCTA7&filters=HpDate:\"20250621_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250620",
       "fullstartdate": "202506200700",
       "enddate": "20250621",

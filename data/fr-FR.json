@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250621",
+      "fullstartdate": "202506212200",
+      "enddate": "20250622",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_FR-FR0161902785_UHD.jpg",
+      "copyrighttext": "© Mark Fox/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=for%c3%aat+amazonienne&form=BGALM&filters=HpDate:\"20250621_2200\"",
+      "title": "Forêt amazonienne, Équateur",
+      "description": "Le 22 juin, la Journée mondiale des forêts tropicales nous invite à explorer un monde foisonnant de vie : l’Amazonie. En Équateur, ce fragment de forêt, plus modeste que celui du Brésil, est pourtant l’un des plus riches en biodiversité de la planète. Dans cet écosystème fragile cohabitent des jaguars, des aras, des caïmans noirs, des anguilles électriques, ainsi que des plantes médicinales encore inconnues de la science.",
+      "headline": "Un monde vivant en péril",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250622_AmazonEcuador\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=for%c3%aat+amazonienne&form=BGABWCTA7&filters=HpDate:\"20250621_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250620",
       "fullstartdate": "202506202200",
       "enddate": "20250621",

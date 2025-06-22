@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250621",
+      "fullstartdate": "202506211600",
+      "enddate": "20250622",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg",
+      "copyrighttext": "© Mark Fox/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8e%84%e7%93%9c%e5%a4%9a%e5%b0%94%e7%9a%84%e4%ba%9a%e9%a9%ac%e9%80%8a%e9%9b%a8%e6%9e%97&form=BGALM&filters=HpDate:\"20250621_1600\"",
+      "title": "亚马逊雨林，厄瓜多尔",
+      "description": "“世界雨林日”不仅是日历上的一个纪念日，更是一项行动号召。该节日由非营利环保组织“雨林伙伴关系”于2017年设立，旨在提升公众对雨林重要性的认识，并推动全球范围内的保护工作。在美国，人们通过社区植树、学校项目以及社交媒体活动参与纪念，宣传雨林保护的成功案例。许多植物园会举办特别展览，而环保组织则发起筹款挑战，以支持实地保护项目。",
+      "headline": "一路丛林",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250622_AmazonEcuador\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 6月 22",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8e%84%e7%93%9c%e5%a4%9a%e5%b0%94%e7%9a%84%e4%ba%9a%e9%a9%ac%e9%80%8a%e9%9b%a8%e6%9e%97&form=BGABWCTA7&filters=HpDate:\"20250621_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250620",
       "fullstartdate": "202506201600",
       "enddate": "20250621",

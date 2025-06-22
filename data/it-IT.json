@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250621",
+      "fullstartdate": "202506212200",
+      "enddate": "20250622",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_IT-IT6428077520_UHD.jpg",
+      "copyrighttext": "© Mark Fox/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Amazzonia&form=BGALM&filters=HpDate:\"20250621_2200\"",
+      "title": "Foresta Amazzonica, Ecuador",
+      "description": "Oggi celebriamo la \"Giornata Mondiale della Foresta Pluviale\", un'occasione per riflettere sull'importanza di questi ecosistemi straordinari. La foresta amazzonica, il polmone verde del pianeta blu, si estende in nove paesi, tra cui l’Ecuador, ed è una delle zone più ricche di biodiversità al mondo. Qui vivono giaguari furtivi, uccelli ara dai colori sgargianti, caimani neri che scivolano silenziosi nelle acque e anguille elettriche che percorrono i fiumi come spettri. Tra le radici intricate si celano piante medicinali, molte ancora sconosciute alla scienza, testimoni di un equilibrio millenario tra natura e vita. Questo ecosistema pulsante è un rifugio di straordinaria bellezza, ma anche di fragilità.",
+      "headline": "Corrente Pulsante",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250622_AmazonEcuador\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Amazzonia&form=BGABWCTA7&filters=HpDate:\"20250621_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250620",
       "fullstartdate": "202506202200",
       "enddate": "20250621",
