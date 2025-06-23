@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250622",
+      "fullstartdate": "202506220300",
+      "enddate": "20250623",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_PT-BR8954239087_UHD.jpg",
+      "copyrighttext": "© Mark Fox/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Floresta+Amaz%c3%b4nica&form=BGALM&filters=HpDate:\"20250622_0300\"",
+      "title": "Floresta Amazônica, Equador",
+      "description": "O Dia Mundial das Florestas Tropicais chega para nos lembrar que esses ecossistemas exuberantes são muito mais do que cenários: são o coração pulsante do planeta. As florestas tropicais cobrem apenas cerca de 6% da superfície terrestre, mas abrigam metade de todas as espécies de plantas e animais do mundo. Além disso, regulam o clima, mantêm os ciclos da água e sustentam milhões de pessoas, inclusive comunidades indígenas, guardiãs desse patrimônio.",
+      "headline": "O verde que nos sustenta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250622_AmazonEcuador\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Floresta+Amaz%c3%b4nica&form=BGABWCTA7&filters=HpDate:\"20250622_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250621",
       "fullstartdate": "202506210300",
       "enddate": "20250622",

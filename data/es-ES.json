@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250622",
+      "fullstartdate": "202506222200",
+      "enddate": "20250623",
+      "urlbase": "https://www.bing.com/th?id=OHR.CalaIbiza_ES-ES1129716294_UHD.jpg",
+      "copyrighttext": "© Juergen Sack/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=fiesta+de+san+juan&form=BGALM&filters=HpDate:\"20250622_2200\"",
+      "title": "Bahía de Cala D'hort, Ibiza, España",
+      "description": "La Fiesta de San Juan, también llamada Víspera o Noche de San Juan, se celebra cada 23 de junio en toda España con gran tradición y alegría. Esta festividad tiene un origen cristiano, honrando el nacimiento de San Juan Bautista, pero conserva ritos ancestrales vinculados al solsticio de verano.",
+      "headline": "¡Ya tengo mi deseo listo!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250623_CalaIbiza\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=fiesta+de+san+juan&form=BGABWCTA7&filters=HpDate:\"20250622_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250621",
       "fullstartdate": "202506212200",
       "enddate": "20250622",

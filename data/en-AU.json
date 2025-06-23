@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250622",
+      "fullstartdate": "202506220700",
+      "enddate": "20250623",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmazonEcuador_ROW7281571583_UHD.jpg",
+      "copyrighttext": "© Mark Fox/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Amazon+rainforest+Ecuador&form=BGALM&filters=HpDate:\"20250622_0700\"",
+      "title": "Amazon rainforest, Ecuador",
+      "description": "The Amazon Rainforest spreads across much of the Amazon basin in South America. One notable region is in Ecuador. Although smaller than Brazil's share, it's considered one of the most biologically dense areas on Earth. It also shelters an extraordinary range of life—jaguars, macaws, black caimans, electric eels and medicinal plants, many of which are still unknown to science.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250622_AmazonEcuador\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Amazon+rainforest+Ecuador&form=BGABWCTA7&filters=HpDate:\"20250622_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250621",
       "fullstartdate": "202506210700",
       "enddate": "20250622",
