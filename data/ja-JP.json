@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250623",
+      "fullstartdate": "202506231500",
+      "enddate": "20250624",
+      "urlbase": "https://www.bing.com/th?id=OHR.DelicateArch_JA-JP9672362055_UHD.jpg",
+      "copyrighttext": "© mmac72/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%2c+%e3%83%a6%e3%82%bf%e5%b7%9e&form=BGALM&filters=HpDate:\"20250623_1500\"",
+      "title": "アーチーズ国立公園, 米国 ユタ州",
+      "description": "アーチーズ国立公園は、米国ユタ州東部の乾燥した砂漠地帯に広がるまさに自然の彫刻美術館です。風と水が数百万年かけて砂岩を削り出し、2,000 以上の天然アーチを生み出しました。朝日や夕日に照らされると、岩肌は黄金色に輝き、幻想的な光景が広がります…",
+      "headline": "ユタ州の象徴「デリケート・アーチ」",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_DelicateArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.61105,-109.608109/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.61105,-109.608109;S9;アーチーズ国立公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Arches%20National%20Park%20Utah&ss=ypid.YN873x10505882326188883827&mb=38.619662~-109.624929~38.602442~-109.591284&description=PO%20Box%20907%2C%20Moab%2C%20UT%2084532&cardbg=%23333333&dt=1746448200000&tt=Arches%20National%20Park&tsts0=%2526ty%253D18%2526q%253DArches%252520National%252520Park%252520Utah%2526ss%253Dypid.YN873x10505882326188883827%2526mb%253D38.619662~-109.624929~38.602442~-109.591284%2526description%253DPO%252520Box%252520907%25252C%252520Moab%25252C%252520UT%25252084532%2526cardbg%253D%252523333333%2526dt%253D1746448200000&tstt0=Arches%20National%20Park&cp=37.119014~-113.273307&lvl=6.6786985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 24 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%a6%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ユタ州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%a6%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250622",
       "fullstartdate": "202506221500",
       "enddate": "20250623",

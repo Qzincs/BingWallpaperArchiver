@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250623",
+      "fullstartdate": "202506232200",
+      "enddate": "20250624",
+      "urlbase": "https://www.bing.com/th?id=OHR.BolozonViaduct_FR-FR0653638254_UHD.jpg",
+      "copyrighttext": "© Leonid Andronov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=viaduc+Cize-Bolozon&form=BGALM&filters=HpDate:\"20250623_2200\"",
+      "title": "Viaduc de Cize-Bolozon enjambant la rivière d’Ain, Auvergne-Rhône-Alpes",
+      "description": "Imaginez un pont qui relie bien plus que deux rives. Le Viaduc de Cize-Bolozon, niché dans l’Ain, accomplit cette prouesse depuis plus de 70 ans. Construit en 1950 pour remplacer un ouvrage détruit pendant la guerre, il veille depuis sur la vallée avec une élégance discrète.",
+      "headline": "L'élégance d'un géant discret",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_BolozonViaduct\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.215534,5.451228/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.215534,5.451228;S9;Viaduc de Cize-Bolozon&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=viaduc%20Cize-Bolozon&ss=ypid.YN2000x17568482709057503194&mb=46.221675~5.436044~46.209396~5.466428&description=D91A%20Corveissiat%2C%2001250%20Corveissiat%C2%B7Pont&cardbg=%23219AB6&dt=1748250000000&tt=Viaduc%20de%20Cize%20Bolozon&tsts0=%2526ty%253D18%2526q%253Dviaduc%252520Cize-Bolozon%2526ss%253Dypid.YN2000x17568482709057503194%2526mb%253D46.221675~5.436044~46.209396~5.466428%2526description%253DD91A%252520Corveissiat%25252C%25252001250%252520Corveissiat%2525C2%2525B7Pont%2526cardbg%253D%252523219AB6%2526dt%253D1748250000000&tstt0=Viaduc%20de%20Cize%20Bolozon&cp=46.215536~5.445914&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "24 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Auvergne-Rh%c3%b4ne-Alpes&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Auvergne-Rhône-Alpes"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Auvergne-Rh%c3%b4ne-Alpes&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250622",
       "fullstartdate": "202506222200",
       "enddate": "20250623",

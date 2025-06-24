@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250623",
+      "fullstartdate": "202506232200",
+      "enddate": "20250624",
+      "urlbase": "https://www.bing.com/th?id=OHR.DelicateArch_ES-ES1233867011_UHD.jpg",
+      "copyrighttext": "© mmac72/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+los+Arcos&form=BGALM&filters=HpDate:\"20250623_2200\"",
+      "title": "Delicate Arch, Parque nacional de los Arcos, Utah, EE. UU.",
+      "description": "Este lugar no se creó de la noche a la mañana; la naturaleza se tomó su tiempo, en concreto más de 300 millones de años para formar esta maravilla. El Parque Nacional de los Arcos, en Utah (Estados Unidos), muestra más de 2.000 arcos naturales que se formaron cuando antiguos mares dejaron lechos de sal, y las capas de arenisca Entrada y Navajo se agrietaron y desgastaron lentamente.",
+      "headline": "La naturaleza se tomó su tiempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_DelicateArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+nacional+de+los+Arcos&form=BGABWCTA7&filters=HpDate:\"20250623_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250622",
       "fullstartdate": "202506222200",
       "enddate": "20250623",

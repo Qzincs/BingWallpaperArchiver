@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250623",
+      "fullstartdate": "202506232200",
+      "enddate": "20250624",
+      "urlbase": "https://www.bing.com/th?id=OHR.DelicateArch_IT-IT6581270768_UHD.jpg",
+      "copyrighttext": "© mmac72/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+degli+Arches&form=BGALM&filters=HpDate:\"20250623_2200\"",
+      "title": "Delicate Arch, Parco Nazionale degli Arches, Utah, USA",
+      "description": "Le meraviglie naturali non si creano in un giorno, e l'Arches National Park ne è la prova vivente. Nel cuore dello Utah, questo paesaggio unico è il risultato di un lungo processo geologico che ha trasformato la roccia in arte. Oltre 300 milioni di anni fa, antichi mari evaporarono, lasciando vasti depositi di sale. Nel corso dei millenni, strati di arenaria si incrinarono, si spostarono e si consumarono, dando forma a oltre duemila archi naturali. Queste straordinarie formazioni, composte prevalentemente da arenaria di tipo Entrada e Navajo, raccontano la storia di una terra in continua evoluzione. Originariamente riconosciuto come Monumento Nazionale nel 1929, il parco ha ottenuto lo status di Parco Nazionale nel 1971.",
+      "headline": "Arco o Parco Geologico?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_DelicateArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.61105,-109.608109/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.61105,-109.608109;S9;Parco Nazionale degli Arches, Utah, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Arches%20National%20Park%20Utah&ss=ypid.YN873x10505882326188883827&mb=38.619662~-109.624929~38.602442~-109.591284&description=PO%20Box%20907%2C%20Moab%2C%20UT%2084532&cardbg=%23333333&dt=1746448200000&tt=Arches%20National%20Park&tsts0=%2526ty%253D18%2526q%253DArches%252520National%252520Park%252520Utah%2526ss%253Dypid.YN873x10505882326188883827%2526mb%253D38.619662~-109.624929~38.602442~-109.591284%2526description%253DPO%252520Box%252520907%25252C%252520Moab%25252C%252520UT%25252084532%2526cardbg%253D%252523333333%2526dt%253D1746448200000&tstt0=Arches%20National%20Park&cp=37.119014~-113.273307&lvl=6.6786985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "24 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Parco+Nazionale+degli+Arches%2c+Utah%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Parco Nazionale degli Arches, Utah, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Parco+Nazionale+degli+Arches%2c+Utah%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250622",
       "fullstartdate": "202506222200",
       "enddate": "20250623",

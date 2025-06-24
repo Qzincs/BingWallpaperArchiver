@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250623",
+      "fullstartdate": "202506230700",
+      "enddate": "20250624",
+      "urlbase": "https://www.bing.com/th?id=OHR.DresdenElbe_EN-US2259441179_UHD.jpg",
+      "copyrighttext": "© Sean Pavone/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dresden&form=BGALM&filters=HpDate:\"20250623_0700\"",
+      "title": "The Elbe in Dresden, Germany",
+      "description": "Berlin gets the buzz, Munich brings the beer, but what about Dresden, in eastern Germany? Dresden brings the story. The city, once called 'the Florence on the Elbe,' was nearly wiped off the map in 1945 during World War II. Since then, it has rebuilt itself into a place where modern museums, Baroque buildings, and riverside views share the same frame. Much of the city's oldest architecture can be found in the boroughs of Altstadt (Old Town) and Neustadt (New Town).",
+      "headline": "From ruins to resilience",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250623_DresdenElbe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.05,13.74/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=51.05,13.74;S9;Dresden&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dresden&satid=id.sid%3A491f25a2-d7d3-715c-d4ca-3d32d56a7670&vdpid=7018275410639060993&mb=51.177528~13.439958~50.975174~14.105612&cardbg=%23F98745&tt=Dresden%2C%20Saxony%2C%20Germany&tsts0=%2526ty%253D30%2526q%253DDresden%2526satid%253Did.sid%25253A491f25a2-d7d3-715c-d4ca-3d32d56a7670%2526vdpid%253D7018275410639060993%2526mb%253D51.177528~13.439958~50.975174~14.105612%2526cardbg%253D%252523F98745&tstt0=Dresden%2C%20Saxony%2C%20Germany&cp=47.415005~6.536153&lvl=5.2797384&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Germany&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Germany"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Germany&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250622",
       "fullstartdate": "202506220700",
       "enddate": "20250623",

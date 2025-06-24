@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250623",
+      "fullstartdate": "202506232200",
+      "enddate": "20250624",
+      "urlbase": "https://www.bing.com/th?id=OHR.ScenicEibsee_DE-DE0418956156_UHD.jpg",
+      "copyrighttext": "© NejauPhoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Eibsee+Bayern&form=BGALM&filters=HpDate:\"20250623_2200\"",
+      "title": "Eibsee, Bayern",
+      "description": "Kennen Sie diese Bilderbuchkulisse auf unserem heutigen Bild? Der Eibsee, malerisch am Fuße der Zugspitze in Bayern gelegen, gilt zu Recht als einer der schönsten Seen Deutschlands. Mit seinem kristallklaren Wasser, das je nach Lichteinfall von tiefem Blau bis smaragdgrün schimmert, vermittelt er ein wahres Karibikgefühl inmitten der Bayerischen Alpen. Entstanden vor rund 4.000 Jahren durch einen gewaltigen Felssturz, begeistert der See heute Wanderer, Fotografen und Naturliebhaber gleichermaßen mit seinem idyllischen Panorama.",
+      "headline": "Paradiesische Stille",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_ScenicEibsee\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.456758,10.975706/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.456758,10.975706;S9;Eibsee, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Eibsee%20Bayern&satid=id.sid%3Ad7250972-658d-9197-93db-81c5e2c822df&vdpid=7016247769631293441&mb=47.465752~10.957809~47.450572~10.989667&cardbg=%23F98745&dt=1747396800000&tt=Eibsee%2C%20Bayern%2C%20Deutschland&tsts0=%2526ty%253D30%2526q%253DEibsee%252520Bayern%2526satid%253Did.sid%25253Ad7250972-658d-9197-93db-81c5e2c822df%2526vdpid%253D7016247769631293441%2526mb%253D47.465752~10.957809~47.450572~10.989667%2526cardbg%253D%252523F98745%2526dt%253D1747396800000&tstt0=Eibsee%2C%20Bayern%2C%20Deutschland&cp=47.412562~10.715541&lvl=10.873903&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "24. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Bayern&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Bayern"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Bayern&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250622",
       "fullstartdate": "202506222200",
       "enddate": "20250623",
