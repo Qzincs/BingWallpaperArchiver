@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250624",
+      "fullstartdate": "202506240300",
+      "enddate": "20250625",
+      "urlbase": "https://www.bing.com/th?id=OHR.Araraquara_PT-BR8567454542_UHD.jpg",
+      "copyrighttext": "© Dante Laurini Jr. Imagens/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Araraquara%2c+S%c3%a3o+Paulo&form=BGALM&filters=HpDate:\"20250624_0300\"",
+      "title": "Araraquara, São Paulo",
+      "description": "Já pensou em contemplar um pôr do sol que transforma o céu em um grande painel de tons suaves? A imagem do dia mostra Araraquara, no interior de São Paulo, em um desses momentos em que a natureza parece caprichar nos detalhes. O nome da cidade vem do tupi-guarani e, segundo a interpretação mais aceita, significa “morada do sol” — expressão que traduz seus dias claros, o clima acolhedor e a luz que parece durar mais tempo por ali. Seu pôr do sol é um ritual silencioso que colore o céu de laranja, rosa e dourado, pintando os telhados, as árvores e até o ar com uma luz suave e quente. Em fins de tarde assim, tudo ganha contornos mais leves.",
+      "headline": "Entre névoas e pôr do sol",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_Araraquara\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Araraquara%2c+S%c3%a3o+Paulo&form=BGABWCTA7&filters=HpDate:\"20250624_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250623",
       "fullstartdate": "202506230300",
       "enddate": "20250624",

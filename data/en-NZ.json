@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250624",
+      "fullstartdate": "202506240700",
+      "enddate": "20250625",
+      "urlbase": "https://www.bing.com/th?id=OHR.DelicateArch_ROW5553821108_UHD.jpg",
+      "copyrighttext": "© mmac72/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Delicate+Arch+Arches+National+Park+Utah&form=BGALM&filters=HpDate:\"20250624_0700\"",
+      "title": "Delicate Arch, Arches National Park, Utah, United States",
+      "description": "This place wasn't built overnight—nature took its time to craft this masterpiece. What you see at Arches National Park in Utah, United States, is the result of over 300 million years of erosion, uplift and weathering. These arches were formed when salt beds were left behind by ancient seas. Over time, layers of sandstone cracked, shifted and slowly wore away, revealing more than 2,000 natural arches. These formations are made mostly of Entrada and Navajo sandstone. The park was recognised as a national monument in 1929 and was later upgraded to national park status in 1971.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250624_DelicateArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Delicate+Arch+Arches+National+Park+Utah&form=BGABWCTA7&filters=HpDate:\"20250624_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250623",
       "fullstartdate": "202506230700",
       "enddate": "20250624",

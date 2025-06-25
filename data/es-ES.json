@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250624",
+      "fullstartdate": "202506242200",
+      "enddate": "20250625",
+      "urlbase": "https://www.bing.com/th?id=OHR.GlastonburyScenic_ES-ES1318845810_UHD.jpg",
+      "copyrighttext": "© Gavin Hellier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Festival+de+Glastonbury&form=BGALM&filters=HpDate:\"20250624_2200\"",
+      "title": "Torre de la iglesia de San Miguel en Glastonbury Tor, Glastonbury, Somerset, Inglaterra",
+      "description": "Cuando el sol se alza sobre las colinas de Somerset, el Festival de Glastonbury despierta, transformando esta tranquila región del suroeste de Inglaterra en uno de los eventos musicales más icónicos del mundo. Desde su inicio en 1970, con entradas a solo una libra, ha crecido hasta atraer a más de 200.000 personas cada año. Inspirado por el espíritu hippie y la contracultura de los años sesenta, el festival ha acogido a leyendas como David Bowie, Elton John, Metallica o Billie Eilish.",
+      "headline": "Melodías de Glastonbury",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250625_GlastonburyScenic\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Festival+de+Glastonbury&form=BGABWCTA7&filters=HpDate:\"20250624_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250623",
       "fullstartdate": "202506232200",
       "enddate": "20250624",
