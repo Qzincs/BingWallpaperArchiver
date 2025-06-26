@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250625",
+      "fullstartdate": "202506250700",
+      "enddate": "20250626",
+      "urlbase": "https://www.bing.com/th?id=OHR.GlastonburyScenic_ROW5625321891_UHD.jpg",
+      "copyrighttext": "© Gavin Hellier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Glastonbury+Tor&form=BGALM&filters=HpDate:\"20250625_0700\"",
+      "title": "St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England",
+      "description": "Glastonbury Tor, pictured here, is a hill crowned by the 14th-century St Michael's Church Tower—a Grade I listed building. The Tor is steeped in myth and legend, from ties to King Arthur's Avalon to ancient spiritual lore. Sometimes, when the air and ground temperatures are just right, the Tor looks like it's floating above the mist—a trick of the light called a Fata Morgana. The name comes from Morgan le Fay, a sorceress in Arthurian legends. The Tor stands in the heart of the Summerland Meadows, which are part of the Somerset Levels. It rises to an elevation of 158 metres and is clearly visible from far away, making it a striking landmark. Although often described as an island, the Tor actually sits at the western tip of a peninsula, surrounded on three sides by the River Brue.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250625_GlastonburyScenic\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Glastonbury+Tor&form=BGABWCTA7&filters=HpDate:\"20250625_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250624",
       "fullstartdate": "202506240700",
       "enddate": "20250625",

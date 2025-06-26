@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250625",
+      "fullstartdate": "202506252200",
+      "enddate": "20250626",
+      "urlbase": "https://www.bing.com/th?id=OHR.HorseheadRock_ES-ES1398658009_UHD.jpg",
+      "copyrighttext": "© Philip Thurston/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nueva+Gales+del+Sur&form=BGALM&filters=HpDate:\"20250625_2200\"",
+      "title": "La Vía Láctea sobre Horse Head Rock, Nueva Gales del Sur, Australia",
+      "description": "En la costa de Zafiro, cerca de Bermagui, en Nueva Gales del Sur (Australia), se alza la impresionante Horse Head Rock, una formación rocosa con unos 500 millones de años de antigüedad. Su forma recuerda sorprendentemente a un caballo agachado para beber del mar, esculpido por siglos de viento y olas. Es uno de los paisajes más antiguos e icónicos de la región.",
+      "headline": "Paseando por la costa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250626_HorseheadRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nueva+Gales+del+Sur&form=BGABWCTA7&filters=HpDate:\"20250625_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250624",
       "fullstartdate": "202506242200",
       "enddate": "20250625",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250625",
+      "fullstartdate": "202506250700",
+      "enddate": "20250626",
+      "urlbase": "https://www.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg",
+      "copyrighttext": "© Gavin Hellier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Glastonbury+Festival&form=BGALM&filters=HpDate:\"20250625_0700\"",
+      "title": "St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England",
+      "description": "As the sun rises over the hills in Somerset, Glastonbury Festival comes alive, transforming a quiet part of South West England into one of the world's most famous music destinations. Since its humble beginnings in 1970, when tickets cost just one British pound, Glastonbury has grown into a cultural powerhouse, attracting over 200,000 fans each year. The festival is deeply rooted in the ideals of the hippie movement, the 1960s counterculture, and the free festival spirit that sparked its early days. From David Bowie and Elton John to Metallica and Billie Eilish, Glastonbury's stages have hosted performances that have defined generations. This year's festival runs from today through June 29, with The 1975, Neil Young, and Olivia Rodrigo topping the bill. Overlooking the event is Glastonbury Tor, pictured here, a hill crowned by the 14th-century St. Michael's Church Tower. The Tor is steeped in myth and legend, from ties to King Arthur's Avalon to ancient spiritual lore.",
+      "headline": "Tor and tunes: Glastonbury begins",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250625_GlastonburyScenic\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.145199,-2.698767/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=51.145199,-2.698767;S9;Glastonbury Tor&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Glastonbury%20Tor&ss=ypid.YN1029x12947906841307860342&mb=51.14902~-2.703463~51.141387~-2.694086&description=Wellhouse%20Lane%2C%20Glastonbury%20BA6%208JZ&cardbg=%23219AB6&dt=1746178200000&tt=Glastonbury%20Tor%20-%20National%20Trust&tsts0=%2526ty%253D18%2526q%253DGlastonbury%252520Tor%2526ss%253Dypid.YN1029x12947906841307860342%2526mb%253D51.14902~-2.703463~51.141387~-2.694086%2526description%253DWellhouse%252520Lane%25252C%252520Glastonbury%252520BA6%2525208JZ%2526cardbg%253D%252523219AB6%2526dt%253D1746178200000&tstt0=Glastonbury%20Tor%20-%20National%20Trust&cp=50.625073~-22.5&lvl=4&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Glastonbury%2c+Somerset%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Glastonbury, Somerset, England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Glastonbury%2c+Somerset%2c+England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250624",
       "fullstartdate": "202506240700",
       "enddate": "20250625",
