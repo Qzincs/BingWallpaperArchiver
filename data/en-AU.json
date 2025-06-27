@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506260700",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.HorseheadRock_ROW5697614901_UHD.jpg",
+      "copyrighttext": "© Philip Thurston/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Horse+Head+Rock+Bermagui&form=BGALM&filters=HpDate:\"20250626_0700\"",
+      "title": "The Milky Way over Horse Head Rock, New South Wales, Australia",
+      "description": "You can lead a horse to water, but you can't make it drink—unless, of course, you're talking about Horse Head Rock, perched off the Sapphire Coast near Bermagui in New South Wales, Australia. This ancient formation, pictured here, seems as if nature itself has sculpted a mythical creature forever poised to drink from the sea. Estimated to be 500 million years old, the rock's uncanny resemblance to a horse bending its neck is the result of wind and wave erosion. As one of the region's oldest and most iconic landmarks, it attracts hikers, photographers and nature lovers year-round. The best views are from the elevated track between Camel Rock and Murunna Point, while the more daring can scramble around from Camel Rock Surf Beach, though only safely at low tide.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250626_HorseheadRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Horse+Head+Rock+Bermagui&form=BGABWCTA7&filters=HpDate:\"20250626_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506250700",
       "enddate": "20250626",

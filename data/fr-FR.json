@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506262200",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_FR-FR6442943512_UHD.jpg",
+      "copyrighttext": "© Jan Stria/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=amphibiens&form=BGALM&filters=HpDate:\"20250626_2200\"",
+      "title": "Grenouille Cruziohyla calcarifer",
+      "description": "Perchée dans la canopée comme une acrobate de la jungle, la grenouille Cruziohyla calcarifer (ou grenouille feuille splendide) ne manque pas d’impressionner. Originaire des forêts tropicales d’Amérique centrale, elle arbore des couleurs vives, des yeux dorés avec des pupilles verticales et des pattes adhésives dignes d’un superhéros. De nuit, elle devient une chasseuse agile, filant de feuille en feuille à la recherche d’insectes.",
+      "headline": "Splendide par nature",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250627_SplendidFrog\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=amphibiens&form=BGABWCTA7&filters=HpDate:\"20250626_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506252200",
       "enddate": "20250626",

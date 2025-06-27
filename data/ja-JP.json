@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506261500",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShetlandGannets_JA-JP3345232589_UHD.jpg",
+      "copyrighttext": "© Richard Shucksmith/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b7%e3%83%ad%e3%82%ab%e3%83%84%e3%82%aa%e3%83%89%e3%83%aa&form=BGALM&filters=HpDate:\"20250626_1500\"",
+      "title": "魚を狙うシロカツオドリ, スコットランド",
+      "description": "シロカツオドリは、北大西洋に生息する大型の海鳥です。普段はほとんどの時間を海上で過ごしていますが、繁殖期になると人里離れた無人島や岩礁に戻って営巣します。また、集団で繁殖する傾向があり、時には何万羽もの大規模なコロニーを形成することもあります…",
+      "headline": "海へ突き刺さる白い矢",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250627_ShetlandGannets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/60.35667,-1.260556/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=60.35667,-1.260556;S9;シェトランド諸島, スコットランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Shetland&satid=id.sid%3A69917bcc-72c4-054c-7b8b-59e2e6e6d054&vdpid=7392360&mb=60.857218~-3.222683~59.503751~1.366126&cardbg=%23F98745&tt=Shetland%20Islands%2C%20Scotland%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DShetland%2526satid%253Did.sid%25253A69917bcc-72c4-054c-7b8b-59e2e6e6d054%2526vdpid%253D7392360%2526mb%253D60.857218~-3.222683~59.503751~1.366126%2526cardbg%253D%252523F98745&tstt0=Shetland%20Islands%2C%20Scotland%2C%20United%20Kingdom&cp=57.916186~-6.92119&lvl=4.355776&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 27 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " スコットランド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506251500",
       "enddate": "20250626",

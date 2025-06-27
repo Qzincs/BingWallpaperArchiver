@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506262200",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_ES-ES0147065495_UHD.jpg",
+      "copyrighttext": "© Jan Stria/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Rana+de+hoja+espl%c3%a9ndida&form=BGALM&filters=HpDate:\"20250626_2200\"",
+      "title": "Rana de hoja espléndida",
+      "description": "No te dejes engañar por su nombre: la espléndida rana de hoja no está hojeando, ¡está sorprendiendo! También conocida como rana arborícola espléndida, habita en las selvas tropicales de América Central y del Sur, especialmente en Costa Rica, Panamá, Ecuador y Colombia. Es un anfibio nocturno con patas de colores brillantes, ojos dorados y pies pegajosos que le permiten trepar como una experta entre las ramas altas.",
+      "headline": "Una vida espléndida",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250627_SplendidFrog\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rana+de+hoja+espl%c3%a9ndida&form=BGABWCTA7&filters=HpDate:\"20250626_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506252200",
       "enddate": "20250626",

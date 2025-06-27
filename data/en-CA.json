@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506260400",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.HorseheadRock_EN-CA0845252877_UHD.jpg",
+      "copyrighttext": "© Philip Thurston/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Horse+Head+Rock+Bermagui&form=BGALM&filters=HpDate:\"20250626_0400\"",
+      "title": "The Milky Way over Horse Head Rock, New South Wales, Australia",
+      "description": "You can lead a horse to water, but you can't make it drink—unless, of course, you're talking about Horse Head Rock, perched off the Sapphire Coast near Bermagui in New South Wales, Australia. This ancient formation, pictured here, seems as if nature itself has sculpted a mythical creature forever poised to drink from the sea. Estimated to be 500 million years old, the rock's uncanny resemblance to a horse bending its neck is the result of wind and wave erosion. As one of the region's oldest and most iconic landmarks, it attracts hikers, photographers and nature lovers year-round. The best views are from the elevated track between Camel Rock and Murunna Point, while the more daring can scramble around from Camel Rock Surf Beach, though only safely at low tide.",
+      "headline": "Horsing around the coastline",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250626_HorseheadRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-36.375748,150.080414/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-36.375748,150.080414;S9;Horse Head Rock, New South Wales, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=horse%20head%20rock&ss=ypid.YN3724x6892960490292440987&mb=-36.370857~150.070571~-36.380653~150.090247&description=Camel%20Rock%20Road%2C%20Wallaga%20Lake%20New%20South%20Wales%202546%C2%B7Attractions%20%26%20activities&cardbg=%23219AB6&dt=1746523800000&tt=Horse%20Head%20Rock&tsts0=%2526ty%253D18%2526q%253Dhorse%252520head%252520rock%2526ss%253Dypid.YN3724x6892960490292440987%2526mb%253D-36.370857~150.070571~-36.380653~150.090247%2526description%253DCamel%252520Rock%252520Road%25252C%252520Wallaga%252520Lake%252520New%252520South%252520Wales%2525202546%2525C2%2525B7Attractions%252520%252526%252520activities%2526cardbg%253D%252523219AB6%2526dt%253D1746523800000&tstt0=Horse%20Head%20Rock&cp=-28.921631~125.859375&lvl=4&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun. 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+New+South+Wales%2c+Australia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  New South Wales, Australia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++New+South+Wales%2c+Australia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506250400",
       "enddate": "20250626",

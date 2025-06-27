@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506260300",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.HorseheadRock_PT-BR5419648033_UHD.jpg",
+      "copyrighttext": "© Philip Thurston/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nova+Gales+do+Sul+Austr%c3%a1lia&form=BGALM&filters=HpDate:\"20250626_0300\"",
+      "title": "Via Láctea sobre a Horse Head Rock, Nova Gales do Sul, Austrália",
+      "description": "Na costa da Austrália, perto de Bermagui, uma figura silenciosa se curva em direção ao mar: a Horse Head Rock, vista na imagem, parece um cavalo mítico, eternamente prestes a beber das ondas. Com cerca de 500 milhões de anos, essa escultura natural moldada por marés e ventos atrai aventureiros e fotógrafos, especialmente ao amanhecer, quando sua silhueta se destaca contra o céu. O acesso pela areia, possível apenas durante a maré baixa, permite sentir de perto a imponência dessa sentinela ancestral. Ao fundo, ergue-se Gulaga, montanha sagrada para o povo Yuin, habitantes originários da região. Para eles, ela é mais do que um marco geográfico: é uma presença viva, carregada de significado espiritual.",
+      "headline": "A pedra que tem sede do mar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250626_HorseheadRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nova+Gales+do+Sul+Austr%c3%a1lia&form=BGABWCTA7&filters=HpDate:\"20250626_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506250300",
       "enddate": "20250626",

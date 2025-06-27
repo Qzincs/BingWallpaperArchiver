@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250626",
+      "fullstartdate": "202506262200",
+      "enddate": "20250627",
+      "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_DE-DE7801241876_UHD.jpg",
+      "copyrighttext": "© Jan Stria/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Splendid+leaf+frog&form=BGALM&filters=HpDate:\"20250626_2200\"",
+      "title": "Prachtgreiffrosch",
+      "description": "Kennen Sie dieses flinke Tier? Der Prachtgreiffrosch ist vor allem in den tropischen Regenwäldern Mittel- und Südamerikas zu Hause, insbesondere in Ländern wie Costa Rica, Kolumbien und Ecuador. Mit seiner leuchtend grünen Haut, die von gelben und blauen Akzenten durchzogen ist, ähnelt er optisch einem Blatt und zählt zu den beeindruckendsten Amphibien der Welt. Der farbenfrohe Frosch ist ein Meister der Tarnung und Anpassung. Tagsüber ruht er beinahe unsichtbar in den hohen Baumkronen, wo seine Farben perfekt mit der Umgebung verschmelzen. Nachts jedoch wird er aktiv und begibt sich auf Insektenjagd. Besonders faszinierend ist, dass die Weibchen ihre Eier auf Blätter über kleinen Wasserstellen ablegen. Nach dem Schlüpfen fallen die Kaulquappen direkt ins Wasser – eine clevere Anpassung, die Schutz vor Raubtieren bietet.",
+      "headline": "Ein prächtiges Leben",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250627_SplendidFrog\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Splendid+leaf+frog&form=BGABWCTA7&filters=HpDate:\"20250626_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250625",
       "fullstartdate": "202506252200",
       "enddate": "20250626",
