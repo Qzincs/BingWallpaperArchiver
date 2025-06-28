@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250627",
+      "fullstartdate": "202506270300",
+      "enddate": "20250628",
+      "urlbase": "https://www.bing.com/th?id=OHR.SplendidFrog_PT-BR2454660849_UHD.jpg",
+      "copyrighttext": "© Jan Stria/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Cruziohyla&form=BGALM&filters=HpDate:\"20250627_0300\"",
+      "title": "Cruziohyla calcarifer, rã arborícola",
+      "description": "A imagem de hoje mostra a Cruziohyla calcarifer, uma rã arborícola de aparência impressionante, com pernas coloridas, olhos dourados e pés pegajosos que a ajudam a se mover com agilidade pelas copas das árvores. Essa espécie vive em florestas tropicais de terras baixas, geralmente abaixo dos 500 metros de altitude, e é ativa principalmente à noite.",
+      "headline": "Coloridas, noturnas e tropicais",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250627_SplendidFrog\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cruziohyla&form=BGABWCTA7&filters=HpDate:\"20250627_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250626",
       "fullstartdate": "202506260300",
       "enddate": "20250627",

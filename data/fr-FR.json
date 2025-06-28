@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250627",
+      "fullstartdate": "202506272200",
+      "enddate": "20250628",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_FR-FR6694433867_UHD.jpg",
+      "copyrighttext": "© Alan Schein/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=marche+LGBTQIA%2b+Pride&form=BGALM&filters=HpDate:\"20250627_2200\"",
+      "title": "Drapeaux arc-en-ciel à la Marche des Fiertés de New York, États-Unis",
+      "description": "Il y a 56 ans, un cri de liberté a résonné dans la ville américaine de New York. Dans la nuit du 28 juin 1969, au Stonewall Inn, un bar gay de Greenwich Village, une descente policière a déclenché une révolte historique. Excédée par la répression, la communauté LGBTQIA+ s’est levée. Ce refus de l’humiliation a marqué le début d’un mouvement mondial pour la dignité et l’égalité.",
+      "headline": "Une marche pour la liberté",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250628_PrideParade\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.71278,-74.00611/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=40.71278,-74.00611;S9;New York, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=new%20york%20city&satid=id.sid%3A60d5dc2b-c915-460b-b722-c9e3485499ca&vdpid=5487505297524129794&mb=41.05653~-74.776863~40.363766~-73.236282&cardbg=%23F98745&tt=New%20York%2C%20NY&tsts0=%2526ty%253D30%2526q%253Dnew%252520york%252520city%2526satid%253Did.sid%25253A60d5dc2b-c915-460b-b722-c9e3485499ca%2526vdpid%253D5487505297524129794%2526mb%253D41.05653~-74.776863~40.363766~-73.236282%2526cardbg%253D%252523F98745&tstt0=New%20York%2C%20NY&cp=40.747087~-78.476121&lvl=5.8388023&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250626",
       "fullstartdate": "202506262200",
       "enddate": "20250627",

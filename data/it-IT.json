@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250627",
+      "fullstartdate": "202506272200",
+      "enddate": "20250628",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_IT-IT2013687797_UHD.jpg",
+      "copyrighttext": "© Alan Schein/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=I+moti+di+Stonewall&form=BGALM&filters=HpDate:\"20250627_2200\"",
+      "title": "Bandiere Arcobaleno al New York Pride, USA",
+      "description": "Nelle prime ore del 28 giugno 1969, un raid della polizia allo Stonewall Inn, nel Greenwich Village di New York, USA, incontrò una resistenza inaspettata. Stanchi di anni di vessazioni, le persone emarginate per il loro orientamento sessuale o identità di genere reagirono tra le prime al mondo, dando il via a sei giorni di disordini che segnarono l'inizio di un movimento. Guidati in parte da attivisti trans come Marsha P. Johnson e Sylvia Rivera, la rivolta sfidò la brutalità della polizia e il silenzio della società. L’anno successivo nacquero le prime marce del Pride, non come feste, ma come proteste. Migliaia di persone marciarono per commemorare i moti di Stonewall e reclamare diritti e giustizia.",
+      "headline": "Orgoglio e Bandiere!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250628_PrideParade\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.71278,-74.00611/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.71278,-74.00611;S9;New York City, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=new%20york%20city&satid=id.sid%3A60d5dc2b-c915-460b-b722-c9e3485499ca&vdpid=5487505297524129794&mb=41.05653~-74.776863~40.363766~-73.236282&cardbg=%23F98745&tt=New%20York%2C%20NY&tsts0=%2526ty%253D30%2526q%253Dnew%252520york%252520city%2526satid%253Did.sid%25253A60d5dc2b-c915-460b-b722-c9e3485499ca%2526vdpid%253D5487505297524129794%2526mb%253D41.05653~-74.776863~40.363766~-73.236282%2526cardbg%253D%252523F98745&tstt0=New%20York%2C%20NY&cp=40.747087~-78.476121&lvl=5.8388023&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250626",
       "fullstartdate": "202506262200",
       "enddate": "20250627",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250627",
+      "fullstartdate": "202506271500",
+      "enddate": "20250628",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_JA-JP3577767759_UHD.jpg",
+      "copyrighttext": "© Alan Schein/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%97%e3%83%a9%e3%82%a4%e3%83%89%e6%9c%88%e9%96%93&form=BGALM&filters=HpDate:\"20250627_1500\"",
+      "title": "風になびくプライドフラッグ, 米国 ニューヨーク州",
+      "description": "1969 年 6 月 28 日、ニューヨークのマンハッタン、グリニッジ・ビレッジにある「ストーンウォール・イン」というゲイバーで、暴動が起こりました。LGBTQIA+ 当事者たちが、警察による突然の踏み込み捜査に真っ向から抵抗したもので、「ストーンウォールの反乱」などと呼ばれています。翌 1970 年には、ニューヨークで初めてのプライド・パレードが行われました…",
+      "headline": "今月はプライド月間",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250628_PrideParade\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.71278,-74.00611/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.71278,-74.00611;S9;ニューヨーク, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=new%20york%20city&satid=id.sid%3A60d5dc2b-c915-460b-b722-c9e3485499ca&vdpid=5487505297524129794&mb=41.05653~-74.776863~40.363766~-73.236282&cardbg=%23F98745&tt=New%20York%2C%20NY&tsts0=%2526ty%253D30%2526q%253Dnew%252520york%252520city%2526satid%253Did.sid%25253A60d5dc2b-c915-460b-b722-c9e3485499ca%2526vdpid%253D5487505297524129794%2526mb%253D41.05653~-74.776863~40.363766~-73.236282%2526cardbg%253D%252523F98745&tstt0=New%20York%2C%20NY&cp=40.747087~-78.476121&lvl=5.8388023&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 28 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ニューヨーク州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250626",
       "fullstartdate": "202506261500",
       "enddate": "20250627",

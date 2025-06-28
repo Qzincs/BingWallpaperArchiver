@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250627",
+      "fullstartdate": "202506272200",
+      "enddate": "20250628",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrideCatalonia_ES-ES0481311914_UHD.jpg",
+      "copyrighttext": "© Alexander Spatari/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Orgullo+LGBT&form=BGALM&filters=HpDate:\"20250627_2200\"",
+      "title": "Calle con banderas del orgullo LGBTQI+, Sitges, Cataluña, España",
+      "description": "Cada 28 de junio, el mundo celebra el Día Internacional del Orgullo LGBTQI+, una fecha para visibilizar la diversidad y reivindicar la igualdad. En España, uno de los lugares más emblemáticos para vivir esta celebración es Sitges, en Cataluña. Este encantador municipio costero no solo destaca por sus playas y arquitectura modernista, sino también por su historia como destino pionero en la defensa de los derechos del colectivo LGBTQI+.",
+      "headline": "¡El orgullo de lucir colores!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250628_PrideCatalonia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+Internacional+del+Orgullo+LGBT&form=BGABWCTA7&filters=HpDate:\"20250627_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250626",
       "fullstartdate": "202506262200",
       "enddate": "20250627",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250627",
+      "fullstartdate": "202506271830",
+      "enddate": "20250628",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_EN-IN2010815861_UHD.jpg",
+      "copyrighttext": "© Alan Schein/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Stonewall+Uprising&form=BGALM&filters=HpDate:\"20250627_1830\"",
+      "title": "Rainbow flags at New York Pride, United States",
+      "description": "In the early hours of June 28, 1969, a police raid at the Stonewall Inn in New York's Greenwich Village met unexpected resistance. Fed up with years of harassment, LGBTQIA+ patrons fought back. What followed was six days of unrest—and the start of a movement. Led in part by trans activists like Marsha P. Johnson and Sylvia Rivera, the uprising challenged not only police brutality but society's silence. Stonewall wasn't the beginning of queer existence, but it was the moment people said 'no more' loud enough to be heard worldwide. Today, Stonewall stands as a symbol of resilience. It reminds us that Pride began with bricks, not branding. So, as rainbow flags wave each June, remember the power of resistance—and that the first Pride was a riot with a cause.",
+      "headline": "The riot that lit the rainbow",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250628_PrideParade\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.71278,-74.00611/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=40.71278,-74.00611;S9;New York City, New York, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=new%20york%20city&satid=id.sid%3A60d5dc2b-c915-460b-b722-c9e3485499ca&vdpid=5487505297524129794&mb=41.05653~-74.776863~40.363766~-73.236282&cardbg=%23F98745&tt=New%20York%2C%20NY&tsts0=%2526ty%253D30%2526q%253Dnew%252520york%252520city%2526satid%253Did.sid%25253A60d5dc2b-c915-460b-b722-c9e3485499ca%2526vdpid%253D5487505297524129794%2526mb%253D41.05653~-74.776863~40.363766~-73.236282%2526cardbg%253D%252523F98745&tstt0=New%20York%2C%20NY&cp=40.747087~-78.476121&lvl=5.8388023&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 28, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250626",
       "fullstartdate": "202506261830",
       "enddate": "20250627",
