@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250628",
+      "fullstartdate": "202506281600",
+      "enddate": "20250629",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%8f%ad%e8%be%be%e7%be%a4%e5%b2%9b&form=BGALM&filters=HpDate:\"20250628_1600\"",
+      "title": "Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚",
+      "description": "每年6月29日是“国际热带日”，旨在引导人们关注紧贴赤道的热带地区，这些地区全年阳光充足，却也在气候变化议题中尤为脆弱。热带带位于北回归线与南回归线之间，涵盖亚洲、非洲、大洋洲、中美洲及南美洲的部分地区。全球近40%的人口生活于此，这里同时孕育了全球约80%的生物多样性。不仅自然资源丰富、文化多元，这些地区也承载着重要的历史背景；然而它们也面临着气温上升、森林砍伐和快速城市化等挑战。",
+      "headline": "哪里让历史变得“辛辣”",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 6月 29",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%8f%ad%e8%be%be%e7%be%a4%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20250628_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250627",
       "fullstartdate": "202506271600",
       "enddate": "20250628",

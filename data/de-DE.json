@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250628",
+      "fullstartdate": "202506282200",
+      "enddate": "20250629",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_DE-DE7986522169_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Banda-Inseln+Indonesien&form=BGALM&filters=HpDate:\"20250628_2200\"",
+      "title": "Blaue Lagune, Pulau Ai, Banda-Inseln, Indonesien",
+      "description": "Heute richten wir unsere Aufmerksamkeit auf die tropischen Klimazonen. Der Internationale Tag der Tropen, der seit 2016 jährlich am 29. Juni begangen wird, hebt die immense Bedeutung dieser Regionen für unseren Planeten hervor. Die Tropen, bekannt für ihre atemberaubende Artenvielfalt, üppigen Regenwälder und faszinierenden Kulturen, erstrecken sich über Teile Asiens, Afrikas, Ozeaniens sowie Mittel- und Südamerikas. Mit über 40 Prozent der Weltbevölkerung und rund 80 Prozent der globalen Biodiversität sind die Tropen unverzichtbar für das ökologische Gleichgewicht. Doch sie stehen vor großen Herausforderungen: Jedes Jahr gehen etwa neun Millionen Hektar Tropenwald verloren – eine Fläche so groß wie Portugal.",
+      "headline": "Ein Juwel mit würziger Note",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.93762,129.922378/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-3.93762,129.922378;S9;Banda-Inseln, Indonesien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Banda%20Islands%2C%20Indonesia&satid=id.sid%3A3d12ed00-7471-b7da-8d4f-0f219f30aef0&vdpid=8695621733324947457&mb=-4.504292~129.782905~-4.662435~130.050338&cardbg=%23F98745&dt=1748869200000&tt=Banda%20Islands%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253DBanda%252520Islands%25252C%252520Indonesia%2526satid%253Did.sid%25253A3d12ed00-7471-b7da-8d4f-0f219f30aef0%2526vdpid%253D8695621733324947457%2526mb%253D-4.504292~129.782905~-4.662435~130.050338%2526cardbg%253D%252523F98745%2526dt%253D1748869200000&tstt0=Banda%20Islands%2C%20Indonesia&cp=-11.821377~117.404296&lvl=3.9444563&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29. Juni. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Pulau+Ai%2c+Banda-Inseln%2c+Indonesien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Pulau Ai, Banda-Inseln, Indonesien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Pulau+Ai%2c+Banda-Inseln%2c+Indonesien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250627",
       "fullstartdate": "202506272200",
       "enddate": "20250628",

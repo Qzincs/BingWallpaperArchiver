@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250628",
+      "fullstartdate": "202506282200",
+      "enddate": "20250629",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_ES-ES0659509057_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Las+islas+de+Banda&form=BGALM&filters=HpDate:\"20250628_2200\"",
+      "title": "Laguna azul de Pulau Ay, Islas Banda, Indonesia",
+      "description": "Cada 29 de junio se celebra el Día Internacional de los Trópicos, una fecha para conocer mejor la franja del planeta que rodea el ecuador y que concentra el 80 % de la biodiversidad mundial. Esta zona incluye regiones de Asia, África, Oceanía, América Central y del Sur, y en ella vive cerca del 40 % de la población global. Es un área rica en naturaleza, cultura e historia, pero también amenazada por el cambio climático, la deforestación y el crecimiento urbano acelerado.",
+      "headline": "Donde la historia se pone tropical",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 de jun. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Las+islas+de+Banda&form=BGABWCTA7&filters=HpDate:\"20250628_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250627",
       "fullstartdate": "202506272200",
       "enddate": "20250628",

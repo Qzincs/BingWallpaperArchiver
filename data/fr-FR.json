@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250628",
+      "fullstartdate": "202506282200",
+      "enddate": "20250629",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_FR-FR6889157009_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=+%c3%8eles+Banda+Indon%c3%a9sie&form=BGALM&filters=HpDate:\"20250628_2200\"",
+      "title": "Lagon bleu de Pulau Ay, îles Banda, Indonésie",
+      "description": "Sous le soleil permanent des tropiques, la nature s’exprime en grand. Le lagon bleu de Pulau Ay, dans les îles Banda en Indonésie, en est un parfait exemple : un écrin turquoise bordé d’une forêt luxuriante. Le 29 juin de chaque année, la Journée internationale des tropiques, proclamée par l’ONU, nous invite à porter un regard attentif sur cette zone vitale de la planète.",
+      "headline": "Sous le sunlight des tropiques",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.93762,129.922378/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-3.93762,129.922378;S9;Îles Banda, Indonésie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Banda%20Islands%2C%20Indonesia&satid=id.sid%3A3d12ed00-7471-b7da-8d4f-0f219f30aef0&vdpid=8695621733324947457&mb=-4.504292~129.782905~-4.662435~130.050338&cardbg=%23F98745&dt=1748869200000&tt=Banda%20Islands%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253DBanda%252520Islands%25252C%252520Indonesia%2526satid%253Did.sid%25253A3d12ed00-7471-b7da-8d4f-0f219f30aef0%2526vdpid%253D8695621733324947457%2526mb%253D-4.504292~129.782905~-4.662435~130.050338%2526cardbg%253D%252523F98745%2526dt%253D1748869200000&tstt0=Banda%20Islands%2C%20Indonesia&cp=-11.821377~117.404296&lvl=3.9444563&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29 juin 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+%c3%aeles+Banda%2c+Indon%c3%a9sie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  îles Banda, Indonésie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++%c3%aeles+Banda%2c+Indon%c3%a9sie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250627",
       "fullstartdate": "202506272200",
       "enddate": "20250628",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250628",
+      "fullstartdate": "202506280300",
+      "enddate": "20250629",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrideParade_PT-BR2044753051_UHD.jpg",
+      "copyrighttext": "© Alan Schein/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rebeli%c3%a3o+de+Stonewall&form=BGALM&filters=HpDate:\"20250628_0300\"",
+      "title": "Parada do Orgulho LGBTQIA+ em Nova York, EUA",
+      "description": "Foi em Nova York, em 28 de junho de 1969, que a história mudou de rumo. Naquela madrugada, após mais uma batida policial no bar Stonewall Inn, a comunidade LGBTQIA+ decidiu reagir — e deu início a um movimento que ecoaria pelo mundo. Lideradas por figuras como Marsha P. Johnson e Sylvia Rivera, as pessoas ocuparam as ruas por seis dias e transformaram a dor em resistência. Hoje, mais de cinco décadas depois, a imagem do dia mostra a Parada do Orgulho na mesma cidade onde tudo começou.",
+      "headline": "A revolta que acendeu o arco-íris",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250628_PrideParade\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rebeli%c3%a3o+de+Stonewall&form=BGABWCTA7&filters=HpDate:\"20250628_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250627",
       "fullstartdate": "202506270300",
       "enddate": "20250628",

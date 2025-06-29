@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250628",
+      "fullstartdate": "202506281500",
+      "enddate": "20250629",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_JA-JP3779837840_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e7%86%b1%e5%b8%af%e3%83%87%e3%83%bc&form=BGALM&filters=HpDate:\"20250628_1500\"",
+      "title": "緑の森と青い海, インドネシア",
+      "description": "今日 6 月 29 日は国際熱帯デー。熱帯とは、赤道を中心に南北回帰線に挟まれた年中温暖な地域のことで、世界人口の約 40% が暮らし、地球上の生物の約 80% が息づく場所です。しかし、気候変動や森林破壊、都市化の波が熱帯に深刻な影響を与えており、その保全は今や地球規模の課題になっています…",
+      "headline": "今日は国際熱帯デー",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-4.583333,129.9167/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-4.583333,129.9167;S9;バンダ諸島, インドネシア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Banda%20Islands%2C%20Indonesia&satid=id.sid%3A3d12ed00-7471-b7da-8d4f-0f219f30aef0&vdpid=8695621733324947457&mb=-4.504292~129.782905~-4.662435~130.050338&cardbg=%23F98745&dt=1748869200000&tt=Banda%20Islands%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253DBanda%252520Islands%25252C%252520Indonesia%2526satid%253Did.sid%25253A3d12ed00-7471-b7da-8d4f-0f219f30aef0%2526vdpid%253D8695621733324947457%2526mb%253D-4.504292~129.782905~-4.662435~130.050338%2526cardbg%253D%252523F98745%2526dt%253D1748869200000&tstt0=Banda%20Islands%2C%20Indonesia&cp=-11.821377~117.404296&lvl=3.9444563&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 6月 月 29 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " インドネシア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250627",
       "fullstartdate": "202506271500",
       "enddate": "20250628",
