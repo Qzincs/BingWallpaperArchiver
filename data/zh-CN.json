@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250629",
+      "fullstartdate": "202506291600",
+      "enddate": "20250630",
+      "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b0%8f%e8%a1%8c%e6%98%9f%e6%97%a5&form=BGALM&filters=HpDate:\"20250629_1600\"",
+      "title": "沃尔夫溪陨石坑, 澳大利亚",
+      "description": "地球表面每一道因陨石撞击而留下的伤痕，都讲述着一个关于宇宙的故事，从导致恐龙灭绝的小行星，到遍布全球却鲜为人知的陨石坑。小行星日正是为了提醒人类关注这些来自太空的访客，以及它们可能带来的潜在威胁。该纪念日设立于2015年，受到联合国支持，以纪念1908年6月30日发生在西伯利亚通古斯河附近的通古斯大爆炸。这场爆炸摧毁了超过800平方英里的森林，所释放的能量相当于10至15兆吨TNT炸药。自那以后，科学家们通过研究亚利桑那州的巴林杰陨石坑、加拿大魁北克的马尼库阿甘陨石坑等地，深入探索了天体撞击对地球的影响。",
+      "headline": "是谁击中了地面？",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250630_WolfeCrater\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 6月 30",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b0%8f%e8%a1%8c%e6%98%9f%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250629_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250628",
       "fullstartdate": "202506281600",
       "enddate": "20250629",

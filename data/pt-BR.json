@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250629",
+      "fullstartdate": "202506290300",
+      "enddate": "20250630",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_PT-BR1841651609_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Ilhas+Banda&form=BGALM&filters=HpDate:\"20250629_0300\"",
+      "title": "Pulau Ay, Ilhas Banda, Indonésia",
+      "description": "Todo 29 de junho, o Dia Internacional dos Trópicos nos convida a olhar com atenção para essa faixa vibrante da Terra, situada entre os Trópicos de Câncer e de Capricórnio. É nela que vive quase 40% da população mundial e onde se concentra cerca de 80% da biodiversidade global. Rica em culturas, paisagens e histórias, essa região também enfrenta desafios urgentes, como o desmatamento, o aquecimento global e a urbanização acelerada.",
+      "headline": "A riqueza e os desafios dos trópicos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 jun. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ilhas+Banda&form=BGABWCTA7&filters=HpDate:\"20250629_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250628",
       "fullstartdate": "202506280300",
       "enddate": "20250629",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250629",
+      "fullstartdate": "202506290700",
+      "enddate": "20250630",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg",
+      "copyrighttext": "© fabio lamanna/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Banda+Islands&form=BGALM&filters=HpDate:\"20250629_0700\"",
+      "title": "Blue lagoon at Pulau Ay, Banda Islands, Indonesia",
+      "description": "Every June 29, the International Day of the Tropics shines a light on the equator-hugging zone where the sun sticks around, and climate conversations get real. The tropics span a broad region between the Tropic of Cancer and the Tropic of Capricorn, including parts of Asia, Africa, Oceania, Central America, and South America. Nearly 40% of the global population lives in this band, which also hosts 80% of the world's biodiversity. It's rich in culture, nature, and history—but also under pressure from rising temperatures, deforestation, and fast-paced urban growth.",
+      "headline": "Where history gets spicy",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250629_BandaIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-3.93762,129.922378/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-3.93762,129.922378;S9;Banda Islands&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Banda%20Islands&satid=id.sid%3A3d12ed00-7471-b7da-8d4f-0f219f30aef0&vdpid=8695621733324947457&mb=-4.466463~129.722958~-4.700213~130.110675&cardbg=%23F98745&dt=1749078000000&tt=Banda%20Islands%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253DBanda%252520Islands%2526satid%253Did.sid%25253A3d12ed00-7471-b7da-8d4f-0f219f30aef0%2526vdpid%253D8695621733324947457%2526mb%253D-4.466463~129.722958~-4.700213~130.110675%2526cardbg%253D%252523F98745%2526dt%253D1749078000000&tstt0=Banda%20Islands%2C%20Indonesia&cp=-4.583669~129.75715&lvl=11.09&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Banda+Islands%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Banda Islands, Indonesia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Banda+Islands%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250628",
       "fullstartdate": "202506280700",
       "enddate": "20250629",

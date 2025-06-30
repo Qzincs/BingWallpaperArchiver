@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250629",
+      "fullstartdate": "202506292300",
+      "enddate": "20250630",
+      "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-GB1775115242_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Asteroid+Day&form=BGALM&filters=HpDate:\"20250629_2300\"",
+      "title": "Wolfe Creek Crater, Australia",
+      "description": "Each scar on Earth from a meteorite impact tells a story—from the asteroid that wiped out the dinosaurs to the lesser-known craters that dot the planet. Asteroid Day highlights ongoing research into asteroids and the potential threats they pose. Started in 2015 and backed by the United Nations, this day marks the anniversary of the Tunguska event—a massive explosion that occurred in Siberia on June 30, 1908. This explosion flattened over 800 square miles of Siberian forest near the Tunguska River. The blast released energy equal to 10–15 megatons of trinitrotoluene (TNT), a standard measure of explosive force. Since then, craters like Arizona's Barringer, Quebec's Manicouagan and others have helped scientists study what happens when space rocks hit Earth.",
+      "headline": "Rock-solid defense",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250630_WolfeCrater\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-19.1731,127.789299/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-19.1731,127.789299;S9;Wolfe Creek Meteorite Crater, Western Australia, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Wolfe%20Creek%20Meteorite%20Crater%2C%20Western%20Australia&vdpid=8715429198254047233&ss=ypid.YN3724x2869395793350722944&mb=-19.155464~127.773465~-19.189104~127.81779&description=Wolfe%20Creek%20Crater%20Road%2C%20Halls%20Creek%20Western%20Australia%206770&cardbg=%233DB838&dt=1747603800000&tt=Wolfe%20Creek%20Crater%20National%20Park&tsts0=%2526ty%253D30%2526q%253DWolfe%252520Creek%252520Meteorite%252520Crater%25252C%252520Western%252520Australia%2526vdpid%253D8715429198254047233%2526ss%253Dypid.YN3724x2869395793350722944%2526mb%253D-19.155464~127.773465~-19.189104~127.81779%2526description%253DWolfe%252520Creek%252520Crater%252520Road%25252C%252520Halls%252520Creek%252520Western%252520Australia%2525206770%2526cardbg%253D%2525233DB838%2526dt%253D1747603800000&tstt0=Wolfe%20Creek%20Crater%20National%20Park&cp=-22.617073~117.794421&lvl=4.4754977&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jun 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Australia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Australia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Australia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250628",
       "fullstartdate": "202506282300",
       "enddate": "20250629",

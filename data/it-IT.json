@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250629",
+      "fullstartdate": "202506292200",
+      "enddate": "20250630",
+      "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_IT-IT2121882402_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Giornata+mondiale+degli+asteroidi&form=BGALM&filters=HpDate:\"20250629_2200\"",
+      "title": "Cratere di Wolfe Creek, Australia",
+      "description": "Ogni cicatrice sulla superficie terrestre causata dall’impatto di un meteorite racconta una storia, da quella che ha portato all’estinzione dei dinosauri ai crateri meno noti che punteggiano il pianeta. La \"Giornata Mondiale degli Asteroidi\", istituita nel 2015 con il sostegno delle Nazioni Unite, nasce per sensibilizzare sulle ricerche astronomiche e i potenziali rischi legati agli asteroidi. La Giornata cade nell’anniversario del fenomeno di Tunguska, una colossale esplosione avvenuta il 30 giugno 1908 nei cieli della Siberia, che rase al suolo circa 2.000 km² di foresta vicino al fiume Tunguska. Anche di recente, eventi come la meteora di Cavezzo, avvistata il 1° gennaio 2020 e rintracciata grazie alla rete PRISMA, hanno mostrato l’impatto dei corpi celesti sulla Terra.",
+      "headline": "Eco dell'Universo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250630_WolfeCrater\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-19.1731,127.789299/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-19.1731,127.789299;S9;Cratere di Wolfe Creek, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Wolfe%20Creek%20Meteorite%20Crater%2C%20Western%20Australia&vdpid=8715429198254047233&ss=ypid.YN3724x2869395793350722944&mb=-19.155464~127.773465~-19.189104~127.81779&description=Wolfe%20Creek%20Crater%20Road%2C%20Halls%20Creek%20Western%20Australia%206770&cardbg=%233DB838&dt=1747603800000&tt=Wolfe%20Creek%20Crater%20National%20Park&tsts0=%2526ty%253D30%2526q%253DWolfe%252520Creek%252520Meteorite%252520Crater%25252C%252520Western%252520Australia%2526vdpid%253D8715429198254047233%2526ss%253Dypid.YN3724x2869395793350722944%2526mb%253D-19.155464~127.773465~-19.189104~127.81779%2526description%253DWolfe%252520Creek%252520Crater%252520Road%25252C%252520Halls%252520Creek%252520Western%252520Australia%2525206770%2526cardbg%253D%2525233DB838%2526dt%253D1747603800000&tstt0=Wolfe%20Creek%20Crater%20National%20Park&cp=-22.617073~117.794421&lvl=4.4754977&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "30 giugno 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Australia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Australia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Australia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250628",
       "fullstartdate": "202506282200",
       "enddate": "20250629",
