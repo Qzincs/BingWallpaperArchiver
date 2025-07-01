@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250630",
+      "fullstartdate": "202506302200",
+      "enddate": "20250701",
+      "urlbase": "https://www.bing.com/th?id=OHR.ButterflyPurpleFlower_FR-FR7407948243_UHD.jpg",
+      "copyrighttext": "© Viviane Caballero/500px Viviane Caballero/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=papillons&form=BGALM&filters=HpDate:\"20250630_2200\"",
+      "title": "Papillon et abeille butinant délicatement une fleur aster",
+      "description": "Sous la lumière vibrante de l’été, une fleur d’aster accueille un duo fascinant : une abeille et un papillon, butinant en parfaite harmonie. Ces visiteurs discrets sont les piliers de la nature. En transportant le pollen, ils assurent la reproduction de nombreuses plantes, y compris celles de nos potagers et de nos vergers.",
+      "headline": "Les sentinelles de la biodiversité",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250701_ButterflyPurpleFlower\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=papillons&form=BGABWCTA7&filters=HpDate:\"20250630_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250629",
       "fullstartdate": "202506292200",
       "enddate": "20250630",

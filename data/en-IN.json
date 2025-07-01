@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250630",
+      "fullstartdate": "202506301830",
+      "enddate": "20250701",
+      "urlbase": "https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_UHD.jpg",
+      "copyrighttext": "© artherng/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=van+mahotsav&form=BGALM&filters=HpDate:\"20250630_1830\"",
+      "title": "Houseboats on Vembanad lake, Kerala",
+      "description": "Every July, India celebrates its bond with nature through Van Mahotsav. The name comes from Sanskrit: 'Van' meaning forest and 'Mahotsav' meaning grand festival. This green tradition started in July 1947 by an Indian historian and botanist, Mohinder Singh Randhawa. In 1950, Kanaiyalal Maneklal Munshi, then Minister of Food and Agriculture, made it an annual event in the first week of July, officially naming it Van Mahotsav.",
+      "headline": "A green escape",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250701_KeralaHouseboats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.85,76.35/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=9.85,76.35;S9;Vembanad lake, Kerala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Vembanad&satid=id.sid%3A6be53380-27e3-2060-9538-353eef7157e8&vdpid=7479081947772223489&mb=9.870294~76.314652~9.839702~76.366992&cardbg=%23F98745&dt=1748863800000&tt=Vembanad%2C%20India&tsts0=%2526ty%253D30%2526q%253DVembanad%2526satid%253Did.sid%25253A6be53380-27e3-2060-9538-353eef7157e8%2526vdpid%253D7479081947772223489%2526mb%253D9.870294~76.314652~9.839702~76.366992%2526cardbg%253D%252523F98745%2526dt%253D1748863800000&tstt0=Vembanad%2C%20India&cp=9.716862~75.602741&lvl=7.944016&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kerala&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Kerala"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Kerala&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250629",
       "fullstartdate": "202506291830",
       "enddate": "20250630",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250630",
+      "fullstartdate": "202506302300",
+      "enddate": "20250701",
+      "urlbase": "https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-GB1957442949_UHD.jpg",
+      "copyrighttext": "© FedevPhoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Canada+Day&form=BGALM&filters=HpDate:\"20250630_2300\"",
+      "title": "Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada",
+      "description": "Today, Canada turns another year older. Canada Day is a nod to the moment when the country officially came together in 1867. What began as a confederation of Ontario, Quebec, New Brunswick and Nova Scotia has grown into a nation of 10 provinces and 3 territories. Originally called Dominion Day, the name was changed to Canada Day in 1982—the same year the Constitution Act was signed, granting the country full control over its constitution. While Canada Day is not the country's 'Independence Day' in the American sense, it's the closest thing to it. Locals celebrate this holiday with fireworks, parades, concerts and community events. Ottawa, the capital, hosts one of the biggest celebrations, featuring music and speeches on Parliament Hill. Red-and-white flags, maple leaf face paint and singalongs of the national anthem, 'O Canada,' are all part of the day.",
+      "headline": "Canada turns 158",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250701_CanadaDayFogo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.637852,-54.308758/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=49.637852,-54.308758;S9;Fogo Island, Newfoundland and Labrador, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=fogo%20island%2C%20newfoundland%20and%20labrador&vdpid=5327985602409267201&mb=49.964298~-54.604168~49.558594~-53.410686&cardbg=%23F98745&dt=1747290600000&tt=Fogo%20Island%2C%20Newfoundland%20and%20Labrador&tsts0=%2526ty%253D30%2526q%253Dfogo%252520island%25252C%252520newfoundland%252520and%252520labrador%2526vdpid%253D5327985602409267201%2526mb%253D49.964298~-54.604168~49.558594~-53.410686%2526cardbg%253D%252523F98745%2526dt%253D1747290600000&tstt0=Fogo%20Island%2C%20Newfoundland%20and%20Labrador&cp=44.605917~-72.861005&lvl=4.295408&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Fogo+Island%2c+Newfoundland+and+Labrador%2c+Canada&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Fogo Island, Newfoundland and Labrador, Canada"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Fogo+Island%2c+Newfoundland+and+Labrador%2c+Canada&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250629",
       "fullstartdate": "202506292300",
       "enddate": "20250630",

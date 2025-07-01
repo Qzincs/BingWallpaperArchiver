@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250630",
+      "fullstartdate": "202506300700",
+      "enddate": "20250701",
+      "urlbase": "https://www.bing.com/th?id=OHR.WolfeCrater_ROW4478019950_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Wolfe+Creek+Crater&form=BGALM&filters=HpDate:\"20250630_0700\"",
+      "title": "Wolfe Creek Crater, Australia",
+      "description": "Wolfe Creek Crater in Western Australia, pictured here, was created by a meteorite estimated to have weighed over 14,000 tonnes. Known as Kandimalal to the Jaru people, it was officially identified in 1947, though Indigenous knowledge long preceded that. The crater is about 875 metres in diameter and sits within Wolfe Creek Meteorite Crater National Park, a remote protected area. Almost perfectly circular, it's among the world's largest craters. The park's flat plains and desert grasslands make the crater's rim especially visible.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250630_WolfeCrater\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jun 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Wolfe+Creek+Crater&form=BGABWCTA7&filters=HpDate:\"20250630_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250629",
       "fullstartdate": "202506290700",
       "enddate": "20250630",
