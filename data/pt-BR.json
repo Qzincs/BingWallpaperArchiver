@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250701",
+      "fullstartdate": "202507010300",
+      "enddate": "20250702",
+      "urlbase": "https://www.bing.com/th?id=OHR.CanadaDayFogo_PT-BR9552354869_UHD.jpg",
+      "copyrighttext": "© FedevPhoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+do+Canad%c3%a1&form=BGALM&filters=HpDate:\"20250701_0300\"",
+      "title": "Vila de pescadores de Tilting, Fogo Island, Terra Nova e Labrador, Canadá",
+      "description": "Hoje, o Canadá celebra 158 anos desde sua formação oficial, em 1867. O que começou com quatro províncias — Ontário, Quebec, Nova Brunswick e Nova Escócia — evoluiu para uma nação composta por 10 províncias e três territórios. A data passou a se chamar \"Dia do Canadá\" em 1982, quando o país conquistou autonomia sobre sua Constituição.",
+      "headline": "O Canadá completa 158 anos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250701_CanadaDayFogo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+do+Canad%c3%a1&form=BGABWCTA7&filters=HpDate:\"20250701_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250630",
       "fullstartdate": "202506300300",
       "enddate": "20250701",

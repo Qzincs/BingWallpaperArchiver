@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250701",
+      "fullstartdate": "202507012200",
+      "enddate": "20250702",
+      "urlbase": "https://www.bing.com/th?id=OHR.TarragonaFireworks_ES-ES2035632810_UHD.jpg",
+      "copyrighttext": "© Nigel Perrin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Catalu%c3%b1a&form=BGALM&filters=HpDate:\"20250701_2200\"",
+      "title": "Fuegos artificiales en Palamós, Gerona, Cataluña, España",
+      "description": "Del 2 al 5 de julio, el cielo de Tarragona será el gran escenario del 33.º Concurso Internacional de Fuegos Artificiales “Ciutat de Tarragona”, uno de los más destacados del Mediterráneo. Cada noche, a las 22.30 h, desde la Punta del Miracle, el público podrá disfrutar de un espectáculo gratuito lleno de color y emoción.",
+      "headline": "¡Competición de luces y color!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250702_TarragonaFireworks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Catalu%c3%b1a&form=BGABWCTA7&filters=HpDate:\"20250701_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250630",
       "fullstartdate": "202506302200",
       "enddate": "20250701",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250701",
+      "fullstartdate": "202507012200",
+      "enddate": "20250702",
+      "urlbase": "https://www.bing.com/th?id=OHR.CalwMarketsquare_DE-DE9027821635_UHD.jpg",
+      "copyrighttext": "© imageBROKER/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hermann+Hesse+Geburtstag&form=BGALM&filters=HpDate:\"20250701_2200\"",
+      "title": "Historische Fachwerkhäuser am Marktplatz, Calw, Baden-Württemberg",
+      "description": "Heute führt uns der Weg nach Calw, einer kleinen Stadt im Schwarzwald, in der der Nobelpreisträger Hermann Hesse heute vor 148 Jahren geboren wurde. Hesse war ein Wanderer zwischen Welten: zwischen Licht und Schatten, Geist und Sinnlichkeit, Ordnung und Chaos. Seine Worte sind Spiegel und Kompass zugleich, mal fordernd wie „Demian“, der uns in die Tiefen des Selbst führt, mal still wie „Siddhartha“, der nicht Belehrung, sondern Erfahrung sucht, mal zerrissen, wie der „Steppenwolf“, der den Schmerz der Entfremdung in Klang und Bewegung aufzulösen sucht.",
+      "headline": "Die Reise nach Innen...",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250702_CalwMarketsquare\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.715028,8.737822/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.715028,8.737822;S9;Calw, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Calw&vdpid=7015222621805477889&mb=48.761948~8.592106~48.648071~8.871201&cardbg=%23F98745&tt=Calw%2C%20Baden-W%C3%BCrttemberg&tsts1=%2526ty%253D30%2526q%253DCalw%2526vdpid%253D7015222621805477889%2526mb%253D48.761948~8.592106~48.648071~8.871201%2526cardbg%253D%252523F98745&tstt1=Calw%2C%20Baden-W%C3%BCrttemberg&cp=48.598739~8.611575&lvl=9.953646&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Calw%2c+Baden-W%c3%bcrttemberg&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Calw, Baden-Württemberg"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Calw%2c+Baden-W%c3%bcrttemberg&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250630",
       "fullstartdate": "202506302200",
       "enddate": "20250701",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250701",
+      "fullstartdate": "202507010400",
+      "enddate": "20250702",
+      "urlbase": "https://www.bing.com/th?id=OHR.Canada25Day_EN-CA2287928069_UHD.jpg",
+      "copyrighttext": "© f11photo/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Canada+Day&form=BGALM&filters=HpDate:\"20250701_0400\"",
+      "title": "Parliament Hill in Ottawa, Ontario",
+      "description": "Today, Canada turns another year older. Canada Day is a nod to the moment when the country officially came together in 1867. What began as a confederation of Ontario, Quebec, New Brunswick and Nova Scotia has grown into a nation of 10 provinces and 3 territories. Originally called Dominion Day, the name was changed to Canada Day in 1982—the same year the Constitution Act was signed, granting the country full control over its constitution. Citizens celebrate this holiday with fireworks, parades, concerts and community events. Ottawa, the capital, hosts one of the biggest celebrations, featuring music and speeches on Parliament Hill, seen in today's image. Red-and-white flags, maple leaf face paint and singalongs of the national anthem, 'O Canada,' are all part of the day.",
+      "headline": "Canada turns 158",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250701_Canada25Day\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.452587,-75.838983/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=45.452587,-75.838983;S9;Parliament Hill in Ottawa, Ontario&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Parliament%20Hill%20Ottawa&ss=ypid.YN1226x5071814949196747497&mb=45.43289~-75.721786~45.417424~-75.677841&description=111%20Wellington%20St%2C%20Ottawa%20Ontario%20K1A%200A4%C2%B7Landmark%20%26%20historical%20building&cardbg=%23219AB6&dt=1749447000000&tt=Parliament%20Hill&tsts0=%2526ty%253D18%2526q%253DParliament%252520Hill%252520Ottawa%2526ss%253Dypid.YN1226x5071814949196747497%2526mb%253D45.43289~-75.721786~45.417424~-75.677841%2526description%253D111%252520Wellington%252520St%25252C%252520Ottawa%252520Ontario%252520K1A%2525200A4%2525C2%2525B7Landmark%252520%252526%252520historical%252520building%2526cardbg%253D%252523219AB6%2526dt%253D1749447000000&tstt0=Parliament%20Hill&cp=45.421675~-75.70506&lvl=15.008277&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ontario&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Ontario"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Ontario&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250630",
       "fullstartdate": "202506300400",
       "enddate": "20250701",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250701",
+      "fullstartdate": "202507012200",
+      "enddate": "20250702",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalioDiSiena_IT-IT2319808114_UHD.jpg",
+      "copyrighttext": "© Aerial_Views/E+/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palio+di+Siena&form=BGALM&filters=HpDate:\"20250701_2200\"",
+      "title": "Piazza del Campo, Siena, Toscana",
+      "description": "Nel cuore di Siena, in Piazza del Campo, il 2 luglio la città si accende di passione e storia con il Palio di Provenzano, dedicato alla Madonna di Provenzano. Questo straordinario evento, che si ripete anche il 16 agosto in onore della Madonna Assunta, non è solo una corsa di cavalli: è l’anima della città, un battito che riecheggia da secoli tra le pietre di Piazza del Campo. Dieci contrade, con i loro colori, stemmi e il loro fervente orgoglio, si sfidano in un confronto unico, tra le grida dei contradaioli e l’eco delle campane.",
+      "headline": "Veloce come il Vento",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250702_PalioDiSiena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.322574,11.329631/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.322574,11.329631;S9;Piazza del Campo, Siena, Toscana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Siena&satid=id.sid%3A511eeeaa-f08a-ee15-6163-5269664b30e2&vdpid=7215053017505071105&mb=43.366291~11.181077~43.249905~11.477347&cardbg=%23F98745&tt=Siena%2C%2053100%2C%20Siena%2C%20Toscana%2C%20Italia&tsts0=%2526ty%253D30%2526q%253DSiena%2526satid%253Did.sid%25253A511eeeaa-f08a-ee15-6163-5269664b30e2%2526vdpid%253D7215053017505071105%2526mb%253D43.366291~11.181077~43.249905~11.477347%2526cardbg%253D%252523F98745&tstt0=Siena%2C%2053100%2C%20Siena%2C%20Toscana%2C%20Italia&cp=43.308124~11.262542&lvl=12.355394&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Siena%2c+Toscana&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Siena, Toscana"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Siena%2c+Toscana&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250630",
       "fullstartdate": "202506302200",
       "enddate": "20250701",

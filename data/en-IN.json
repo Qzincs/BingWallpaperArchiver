@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250701",
+      "fullstartdate": "202507011830",
+      "enddate": "20250702",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaroonClownfish_EN-IN6113544568_UHD.jpg",
+      "copyrighttext": "© Fred Bavendam/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Spine+cheeked+anemonefish&form=BGALM&filters=HpDate:\"20250701_1830\"",
+      "title": "Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea",
+      "description": "That bright fish hiding in the anemone? That's the spine-cheeked anemonefish, or the maroon clownfish, and it is not just a cute creature. Native to the Indo-Pacific, from western Indonesia to Taiwan and the Great Barrier Reef, this species lives on the edges of coral reefs. This fish is easily distinguished by the spine extending from each cheek—hence the name. Groups of spine-cheeked anemonefish form around a single dominant female, and if she disappears, the top male steps up—literally changing sex to take her place. It thrives in warm, shallow waters and sticks close to its chosen sea anemone. The closest marine companion of a spine-cheeked anemonefish is the bubble-tip anemone, as seen in the image. These anemones don't all look alike—their appearances often vary with age, depth and whether they host anemonefish. This species offers the perfect mix of cover and protection.",
+      "headline": "In the bubble-tip zone",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250702_MaroonClownfish\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-10.25,150/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-10.25,150;S9;Milne Bay, Papua New Guinea&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Milne%20Bay%2C%20Papua%20New%20Guinea&satid=id.sid%3A66e1bdd9-429a-5826-35c5-098ee0ef3a07&vdpid=8806624178183602177&mb=-8.100845~148.900213~-11.855584~156.140467&cardbg=%23F98745&tt=Milne%20Bay%2C%20Papua%20New%20Guinea&tsts0=%2526ty%253D30%2526q%253DMilne%252520Bay%25252C%252520Papua%252520New%252520Guinea%2526satid%253Did.sid%25253A66e1bdd9-429a-5826-35c5-098ee0ef3a07%2526vdpid%253D8806624178183602177%2526mb%253D-8.100845~148.900213~-11.855584~156.140467%2526cardbg%253D%252523F98745&tstt0=Milne%20Bay%2C%20Papua%20New%20Guinea&cp=-17.086343~136.649065&lvl=4.5174284&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Milne+Bay%2c+Papua+New+Guinea&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Milne Bay, Papua New Guinea"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Milne+Bay%2c+Papua+New+Guinea&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250630",
       "fullstartdate": "202506301830",
       "enddate": "20250701",
