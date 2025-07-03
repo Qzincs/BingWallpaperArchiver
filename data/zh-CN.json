@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250702",
+      "fullstartdate": "202507021600",
+      "enddate": "20250703",
+      "urlbase": "https://www.bing.com/th?id=OHR.RainbowRiver_ZH-CN5320095849_UHD.jpg",
+      "copyrighttext": "© Michel Roggo/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%bd%9b%e7%bd%97%e9%87%8c%e8%be%be%e5%b7%9e%e5%bd%a9%e8%99%b9%e6%b2%b3&form=BGALM&filters=HpDate:\"20250702_1600\"",
+      "title": "彩虹泉州立公园的彩虹河，佛罗里达州，美国",
+      "description": "坐落于佛罗里达州北部墨西哥湾沿岸的，是彩虹泉州立公园。数百年来，这片区域一直作为自然资源，为人类与动物所依赖。穿越公园蜿蜒流淌的彩虹河，正是其中的关键生态要素。河水源自佛罗里达州最大型的泉水之一彩虹泉，其水体汇集自770平方英里的广阔集水区，最终流入威特拉库奇河。",
+      "headline": "彩虹河的清澈拥抱",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250703_RainbowRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 3",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%bd%9b%e7%bd%97%e9%87%8c%e8%be%be%e5%b7%9e%e5%bd%a9%e8%99%b9%e6%b2%b3&form=BGABWCTA7&filters=HpDate:\"20250702_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250701",
       "fullstartdate": "202507011600",
       "enddate": "20250702",

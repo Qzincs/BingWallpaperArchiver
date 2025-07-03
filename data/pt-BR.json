@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250702",
+      "fullstartdate": "202507020300",
+      "enddate": "20250703",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaroonClownfish_PT-BR9242833832_UHD.jpg",
+      "copyrighttext": "© Fred Bavendam/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=peixe+palha%c3%a7o+e+an%c3%aamona&form=BGALM&filters=HpDate:\"20250702_0300\"",
+      "title": "Peixe-palhaço cercado por anémona de ponta de bolha, Baía Milne, Papua-Nova Guiné",
+      "description": "Você está vendo um peixe vibrante entre os tentáculos de uma anêmona? É o peixe-palhaço, uma espécie que vai muito além da aparência encantadora. Nativo do Indo-Pacífico — do oeste da Indonésia até Taiwan e a Grande Barreira de Corais — ele vive nas bordas dos recifes. Esses peixes se organizam em torno de uma única fêmea dominante e, se ela desaparecer, o macho dominante muda de sexo para ocupar seu lugar. Habitam águas rasas e quentes e estão sempre próximos às anêmonas-do-mar, com as quais mantêm uma parceria vital.",
+      "headline": "Entre bolhas e tentáculos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250702_MaroonClownfish\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=peixe+palha%c3%a7o+e+an%c3%aamona&form=BGABWCTA7&filters=HpDate:\"20250702_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250701",
       "fullstartdate": "202507010300",
       "enddate": "20250702",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250702",
+      "fullstartdate": "202507020700",
+      "enddate": "20250703",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaroonClownfish_ROW4636021251_UHD.jpg",
+      "copyrighttext": "© Fred Bavendam/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Spine+cheeked+anemonefish&form=BGALM&filters=HpDate:\"20250702_0700\"",
+      "title": "Spine-cheeked anemonefish surrounded by bubble-tip anemone, Milne Bay, Papua New Guinea",
+      "description": "That bright fish hiding in the anemone? That's the spine-cheeked anemonefish, also known as the maroon clownfish and it is not just a cute creature. Native to the Indo-Pacific, from western Indonesia to Taiwan and the Great Barrier Reef, this species lives on the edges of coral reefs. This fish is easily distinguished by the spine extending from each cheek—hence the name. Groups of spine-cheeked anemonefish form around a single dominant female, and if she disappears, the top male steps up—literally changing sex to take her place. It thrives in warm, shallow waters and sticks close to its chosen sea anemone.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250702_MaroonClownfish\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Spine+cheeked+anemonefish&form=BGABWCTA7&filters=HpDate:\"20250702_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250701",
       "fullstartdate": "202507010700",
       "enddate": "20250702",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250702",
+      "fullstartdate": "202507022200",
+      "enddate": "20250703",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaroonClownfish_ES-ES2159485386_UHD.jpg",
+      "copyrighttext": "© Fred Bavendam/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Pez+payaso&form=BGALM&filters=HpDate:\"20250702_2200\"",
+      "title": "Pez payaso marrón rodeado de anémonas, Bahía de Milne, Papúa Nueva Guinea",
+      "description": "¿Has visto ese pez brillante que se oculta entre los tentáculos de una anémona? Es el pez payaso marrón, una especie tan curiosa como entrañable. Originario del Indo-Pacífico —desde Indonesia hasta la Gran Barrera de Coral—, vive en los bordes de los arrecifes y forma comunidades lideradas por una hembra dominante. Si ella desaparece, el macho principal cambia de sexo para ocupar su lugar. ¡Sí, cambia de sexo!",
+      "headline": "Un pez muy gracioso",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250703_MaroonClownfish\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pez+payaso&form=BGABWCTA7&filters=HpDate:\"20250702_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250701",
       "fullstartdate": "202507012200",
       "enddate": "20250702",
