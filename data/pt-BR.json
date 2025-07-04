@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250703",
+      "fullstartdate": "202507030300",
+      "enddate": "20250704",
+      "urlbase": "https://www.bing.com/th?id=OHR.RainbowRiver_PT-BR7721810301_UHD.jpg",
+      "copyrighttext": "© Michel Roggo/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Nascentes+Florida&form=BGALM&filters=HpDate:\"20250703_0300\"",
+      "title": "Rainbow River no Parque Estadual Rainbow Springs, Flórida, EUA",
+      "description": "A imagem de hoje nos leva à Flórida, Estados Unidos, onde está localizado o Parque Estadual Rainbow Springs, cenário do belíssimo Rainbow River — um curso d’água de transparência impressionante, que lembra os rios de Bonito, no Mato Grosso do Sul. Com temperatura constante de 22 °C durante todo o ano, suas águas são ideais para nadar, flutuar ou praticar snorkel.",
+      "headline": "As transparências do Rainbow River",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250703_RainbowRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nascentes+Florida&form=BGABWCTA7&filters=HpDate:\"20250703_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250702",
       "fullstartdate": "202507020300",
       "enddate": "20250703",

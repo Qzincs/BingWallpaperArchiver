@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250703",
+      "fullstartdate": "202507032200",
+      "enddate": "20250704",
+      "urlbase": "https://www.bing.com/th?id=OHR.OroseiSardegna_ES-ES2424357191_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cerde%c3%b1a&form=BGALM&filters=HpDate:\"20250703_2200\"",
+      "title": "Cala Luna, Golfo de Orosei, Cerdeña, Italia",
+      "description": "Estamos en Cala Luna, una joya del golfo de Orosei, en la costa oriental de Cerdeña, Italia, bañado por el mar Tirreno. Aquí, la naturaleza ha esculpido cuevas en la roca que se abren al mar, creando rincones íntimos donde el agua transparente entra suavemente y refleja la luz sobre las paredes de piedra caliza.",
+      "headline": "Tierra, mar y aire",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250704_OroseiSardegna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cerde%c3%b1a&form=BGABWCTA7&filters=HpDate:\"20250703_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250702",
       "fullstartdate": "202507022200",
       "enddate": "20250703",

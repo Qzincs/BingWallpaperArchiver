@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250703",
+      "fullstartdate": "202507030700",
+      "enddate": "20250704",
+      "urlbase": "https://www.bing.com/th?id=OHR.RainbowRiver_ROW4765713461_UHD.jpg",
+      "copyrighttext": "© Michel Roggo/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Rainbow+River+Florida&form=BGALM&filters=HpDate:\"20250703_0700\"",
+      "title": "Rainbow River in Rainbow Springs State Park, Florida, United States",
+      "description": "Nestled in the northern Gulf Coast of Florida in the United States is Rainbow Springs State Park. This area has served as a natural resource for humans and animals for centuries, with the crystal-clear Rainbow River—flowing through the park—playing a major role. The gently winding waterway is fed by Rainbow Springs, one of Florida's largest springs. The water that bubbles up here comes from an almost 200,000-hectare area and eventually flows into the Withlacoochee River.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250703_RainbowRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 3, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rainbow+River+Florida&form=BGABWCTA7&filters=HpDate:\"20250703_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250702",
       "fullstartdate": "202507020700",
       "enddate": "20250703",
