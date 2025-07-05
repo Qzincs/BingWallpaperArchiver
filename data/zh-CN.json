@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250704",
+      "fullstartdate": "202507041600",
+      "enddate": "20250705",
+      "urlbase": "https://www.bing.com/th?id=OHR.BolozonViaduct_ZH-CN6408632524_UHD.jpg",
+      "copyrighttext": "© Leonid Andronov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e9%94%a1%e5%85%b9%e5%8d%9a%e6%b4%9b%e5%ae%97%e9%ab%98%e6%9e%b6%e6%a1%a5&form=BGALM&filters=HpDate:\"20250704_1600\"",
+      "title": "Cize-Bolozon viaduct crossing the Ain gorge, France",
+      "description": "想象一座桥梁，它连接的不仅是两岸，更是时间与记忆的延续。坐落于法国东部安省的锡兹博洛宗高架桥，它建于1950年，这座桥取代了战争中被摧毁的前代桥梁，成为重建与希望的象征。",
+      "headline": "优雅而低调的巨人",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250705_BolozonViaduct\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 5",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e9%94%a1%e5%85%b9%e5%8d%9a%e6%b4%9b%e5%ae%97%e9%ab%98%e6%9e%b6%e6%a1%a5&form=BGABWCTA7&filters=HpDate:\"20250704_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250703",
       "fullstartdate": "202507031600",
       "enddate": "20250704",

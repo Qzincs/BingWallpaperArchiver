@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250704",
+      "fullstartdate": "202507041500",
+      "enddate": "20250705",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2018-B12_SchlossLeopoldskronAustria_AdobeStock_74090152",
+      "copyrighttext": "© JFL Photography/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Salzburg%2c+Austria&form=BGALM",
+      "title": "Salzburg, Austria",
+      "description": "Famous Schloss Leopoldskron with Hohensalzburg Fortress in Salzburg at sunset",
+      "headline": "Salzburg, Austria",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Salzburg%2C%20Austria&satid=id.sid%3A96fc25ab-78ee-eb32-dae7-3dd0a6a1e475&vdpid=7021630710897180674&mb=47.80623~13.030354~47.793762~13.059644&cardbg=%23F98745&tt=Salzburg%2C%20Salzburg%2C%20Austria&tsts7=%2526ty%253D30%2526q%253DSalzburg%25252C%252520Austria%2526satid%253Did.sid%25253A96fc25ab-78ee-eb32-dae7-3dd0a6a1e475%2526vdpid%253D7021630710897180674%2526mb%253D47.80623~13.030354~47.793762~13.059644%2526cardbg%253D%252523F98745&tstt7=Salzburg%2C%20Salzburg%2C%20Austria&cp=47.799997~13.039677&lvl=16&pi=0&ftst=7&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 5 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Salzburg%2c+Austria&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "https://www.bing.com/images/search?view=detailv2&iss=sbi&FORM=BGAVS&q=imgurl:https://www.bing.com/th?id=OBGA.Lock2018-B12_SchlossLeopoldskronAustria_AdobeStock_74090152",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " Austria への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+Austria+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250703",
       "fullstartdate": "202507031500",
       "enddate": "20250704",

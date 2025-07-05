@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250704",
+      "fullstartdate": "202507040700",
+      "enddate": "20250705",
+      "urlbase": "https://www.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg",
+      "copyrighttext": "© Dixin Yan",
+      "copyrightlink": "https://www.bing.com/search?q=US+Independence+Day&form=BGALM&filters=HpDate:\"20250704_0700\"",
+      "title": "Fourth of July fireworks over Lake Union in Seattle",
+      "description": "Every year on July 4, Americans come together to celebrate the birth of our nation. It marks the day in 1776 when the Declaration of Independence was adopted, proclaiming the original 13 colonies' freedom from British rule. From coast to coast, we celebrate with fireworks, BBQs, parades, and patriotic music—and Seattle hosts one of the most dazzling displays in the country.",
+      "headline": "Sparks over Seattle",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250704_SeattleFireworks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.627098,-122.337128/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=47.627098,-122.337128;S9;Lake Union&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=lake%20union%20seattle&vdpid=4860655057701437441&ss=ypid.YN873x14361199609656946557&mb=47.628391~-122.34008~47.62547~-122.335732&description=860%20Terry%20Ave%20N%2C%20Seattle%2C%20WA%2098109&cardbg=%233DB838&dt=1747321200000&tt=Lake%20Union%20Park&tsts0=%2526ty%253D30%2526q%253Dlake%252520union%252520seattle%2526vdpid%253D4860655057701437441%2526ss%253Dypid.YN873x14361199609656946557%2526mb%253D47.628391~-122.34008~47.62547~-122.335732%2526description%253D860%252520Terry%252520Ave%252520N%25252C%252520Seattle%25252C%252520WA%25252098109%2526cardbg%253D%2525233DB838%2526dt%253D1747321200000&tstt0=Lake%20Union%20Park&cp=47.626877~-122.371906&lvl=14.4519615&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=US+Independence+Day&form=BGABWCTA7&filters=HpDate:\"20250704_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250703",
       "fullstartdate": "202507030700",
       "enddate": "20250704",

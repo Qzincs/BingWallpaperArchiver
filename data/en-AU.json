@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250704",
+      "fullstartdate": "202507040700",
+      "enddate": "20250705",
+      "urlbase": "https://www.bing.com/th?id=OHR.OroseiSardegna_ROW4878996208_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Orosei+Sardinia&form=BGALM&filters=HpDate:\"20250704_0700\"",
+      "title": "Orosei, Sardinia, Italy",
+      "description": "We are in Cala Luna, a jewel in the crown of the Gulf of Orosei in eastern Sardinia, Italy, on the Tyrrhenian Sea. This beach is known for its limestone cliffs, where nature has carved out caves that open directly onto the sea. Orosei, a town of about 7,000 residents in the Baronie region, is nestled in the Cedrino Valley just 2.5 kilometres from the sea. Its economy thrives on agriculture, marble quarrying and tourism. This enchanting locale blends mountainous charm with pristine coastal beauty—the nearby Gulf of Orosei and the Gennargentu massif form a protected regional park.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250704_OroseiSardegna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Orosei+Sardinia&form=BGABWCTA7&filters=HpDate:\"20250704_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250703",
       "fullstartdate": "202507030700",
       "enddate": "20250704",
