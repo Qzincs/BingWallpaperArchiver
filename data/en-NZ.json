@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250705",
+      "fullstartdate": "202507050700",
+      "enddate": "20250706",
+      "urlbase": "https://www.bing.com/th?id=OHR.BolozonViaduct_ROW4997285549_UHD.jpg",
+      "copyrighttext": "© Leonid Andronov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cize+Bolozon+viaduct&form=BGALM&filters=HpDate:\"20250705_0700\"",
+      "title": "Cize-Bolozon viaduct crossing the Ain gorge, France",
+      "description": "Imagine a bridge that connects more than just two sides of a river. Nestled in the Ain department, the Cize-Bolozon Viaduct—featured in today's image—has accomplished this feat for over 70 years. Built in 1950 to replace a structure destroyed during World War II, it has watched over the valley with understated elegance ever since.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250705_BolozonViaduct\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cize+Bolozon+viaduct&form=BGABWCTA7&filters=HpDate:\"20250705_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250704",
       "fullstartdate": "202507040700",
       "enddate": "20250705",

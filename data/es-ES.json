@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250705",
+      "fullstartdate": "202507052200",
+      "enddate": "20250706",
+      "urlbase": "https://www.bing.com/th?id=OHR.MesquiteFlats_ES-ES2757827262_UHD.jpg",
+      "copyrighttext": "© Bryan Jolley/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Valle+de+la+Muerte+California&form=BGALM&filters=HpDate:\"20250705_2200\"",
+      "title": "Dunas de arena planas de Mesquite en el Parque Nacional del Valle de la Muerte, California, EE. UU.",
+      "description": "Las dunas planas de Mesquite, situadas cerca de Stovepipe Wells Village en el Parque Nacional del Valle de la Muerte (Estados Unidos), son las más icónicas y accesibles del parque. Se formaron gracias a la arena arrastrada por el viento desde las montañas erosionadas del norte, que queda atrapada por las sierras del sur, dando lugar a un paisaje de suaves colinas doradas. Su nombre proviene de los resistentes árboles de mezquite que crecen en la zona.",
+      "headline": "Las arenas del tiempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250706_MesquiteFlats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Valle+de+la+Muerte+California&form=BGABWCTA7&filters=HpDate:\"20250705_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250704",
       "fullstartdate": "202507042200",
       "enddate": "20250705",

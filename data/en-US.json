@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250705",
+      "fullstartdate": "202507050700",
+      "enddate": "20250706",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2018-B12_PalaceFineArtsSanFrancisco_AdobeStock_194798835",
+      "copyrighttext": "© Svetlana Day/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=San+Franscisco%2c+CA%2c+US&form=BGALM",
+      "title": "San Franscisco, CA, US",
+      "description": "Palace of Fine Arts at sunset in San Francisco California",
+      "headline": "San Franscisco, CA, US",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=San%20Franscisco%2C%20CA%2C%20US&satid=id.sid%3A37181124-e096-403d-a455-576a61b83525&vdpid=5057864695344529409&mb=37.863682~-122.595575~37.703773~-122.276289&cardbg=%23F98745&tt=San%20Francisco%2C%20California%2C%20United%20States&tsts8=%2526ty%253D30%2526q%253DSan%252520Franscisco%25252C%252520CA%25252C%252520US%2526satid%253Did.sid%25253A37181124-e096-403d-a455-576a61b83525%2526vdpid%253D5057864695344529409%2526mb%253D37.863682~-122.595575~37.703773~-122.276289%2526cardbg%253D%252523F98745&tstt8=San%20Francisco%2C%20California%2C%20United%20States&cp=37.783682~-122.493898&lvl=12.5536175&pi=0&ftst=8&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+San+Franscisco%2c+CA%2c+US&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "https://www.bing.com/images/search?view=detailv2&iss=sbi&FORM=BGAVS&q=imgurl:https://www.bing.com/th?id=OBGA.Lock2018-B12_PalaceFineArtsSanFrancisco_AdobeStock_194798835",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  CA, US"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++CA%2c+US&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250704",
       "fullstartdate": "202507040700",
       "enddate": "20250705",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250705",
+      "fullstartdate": "202507051600",
+      "enddate": "20250706",
+      "urlbase": "https://www.bing.com/th?id=OHR.MesquiteFlats_ZH-CN7152959188_UHD.jpg",
+      "copyrighttext": "© Bryan Jolley/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%ad%bb%e4%ba%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20250705_1600\"",
+      "title": "死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国",
+      "description": "梅斯基特平原沙丘位于死亡谷国家公园内的斯托夫派普韦尔斯村附近，是公园内最易到达且最具标志性的沙丘。它们由北侧山脉风化提供的沙源、盛行风的搬运作用，以及南侧山脉的阻挡所共同作用形成，造就了这片波纹起伏的壮美景观。沙丘以在恶劣环境中依旧顽强生长的蜜荆树命名。在日出和日落时分，沙丘的纹理和棱线在光影映照下格外分明，是欣赏日照美景与星空观测的绝佳地点。",
+      "headline": "时光沙丘",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250706_MesquiteFlats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%ad%bb%e4%ba%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20250705_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250704",
       "fullstartdate": "202507041600",
       "enddate": "20250705",
