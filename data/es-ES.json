@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250706",
+      "fullstartdate": "202507062200",
+      "enddate": "20250707",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShetlandGannets_ES-ES2850528780_UHD.jpg",
+      "copyrighttext": "© Richard Shucksmith/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Alcatraz+atl%c3%a1ntico&form=BGALM&filters=HpDate:\"20250706_2200\"",
+      "title": "Alcatraz atlántico buceando en busca de peces, Islas Shetland, Escocia",
+      "description": "Elegante, poderoso e imposible de ignorar, el alcatraz atlántico es el ave marina más grande del Atlántico Norte. Pasa la mayor parte del tiempo planeando sobre el mar y solo regresa a tierra para reproducirse. Sus colonias de cría, llamadas gannetries, son impresionantes por su tamaño y ruido, y suelen encontrarse en acantilados escarpados, islas remotas y formaciones rocosas marinas.",
+      "headline": "¡Camina, vuela y nada!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250707_ShetlandGannets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alcatraz+atl%c3%a1ntico&form=BGABWCTA7&filters=HpDate:\"20250706_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250705",
       "fullstartdate": "202507052200",
       "enddate": "20250706",

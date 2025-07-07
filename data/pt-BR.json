@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250706",
+      "fullstartdate": "202507060300",
+      "enddate": "20250707",
+      "urlbase": "https://www.bing.com/th?id=OHR.LuzTrainStation_PT-BR2740667890_UHD.jpg",
+      "copyrighttext": "© Thiago Leite/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Esta%c3%a7%c3%a3o+da+Luz&form=BGALM&filters=HpDate:\"20250706_0300\"",
+      "title": "Estação da Luz, São Paulo",
+      "description": "A Estação da Luz, no coração de São Paulo, é muito mais que um ponto de transporte: é um símbolo da história e da arquitetura brasileira. Inaugurada em 1901, sua construção foi inspirada nas estações ferroviárias inglesas, com projeto assinado por um arquiteto britânico. Curiosamente, a maioria dos materiais utilizados veio da Inglaterra, o que reforça sua estética europeia. A estação atual é a terceira versão do projeto, erguida para atender à crescente demanda por passageiros e mercadorias no início do século XX.",
+      "headline": "Onde o passado encontra o presente",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250706_LuzTrainStation\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Esta%c3%a7%c3%a3o+da+Luz&form=BGABWCTA7&filters=HpDate:\"20250706_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250705",
       "fullstartdate": "202507050300",
       "enddate": "20250706",
