@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507071600",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.SecedaPeak_ZH-CN7633793128_UHD.jpg",
+      "copyrighttext": "© Kalyakan/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=BGALM&filters=HpDate:\"20250707_1600\"",
+      "title": "塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利",
+      "description": "意大利多洛米蒂山脉不仅雄伟耸立，更如施展魔法般，使每一条山路都变成一个故事。人们亲切地称它们为“苍白山脉”，这一名字源自其主要构成矿物白云石。这片山脉坐落于意大利北部阿尔卑斯山脉，占地超过34.5万英亩，拥有18座海拔超过9,500英尺的高峰。其地貌特征包括陡峭的悬崖、雄伟的岩壁和蜿蜒狭窄的山谷。",
+      "headline": "锋芒毕露的美",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_SecedaPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 8",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=BGABWCTA7&filters=HpDate:\"20250707_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507061600",
       "enddate": "20250707",

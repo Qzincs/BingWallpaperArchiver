@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507072200",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.BaieSomme_FR-FR5529600506_UHD.jpg",
+      "copyrighttext": "© Tuul & Bruno Morandi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Baie+d%27Authie%2c+Somme&form=BGALM&filters=HpDate:\"20250707_2200\"",
+      "title": "Vue aérienne de la Baie d'Authie, Somme, Haut-de-France",
+      "description": "Une mosaïque d’eaux calmes et de verts profonds s’étend à perte de vue, dessinant les contours secrets d’un monde préservé : la baie d’Authie, nichée sur la côte nord de la France, entre la Somme et le Pas-de-Calais. À mi-chemin entre Berck-sur-Mer et Fort-Mahon, ce sanctuaire discret s’ouvre au regard patient. Moins fréquentée que sa voisine, la baie de Somme, elle offre à qui sait ralentir un théâtre vivant, modelé par les marées, le vent et le silence.",
+      "headline": "Une baie à l'écoute du monde sauvage",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_BaieSomme\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.35862,1.571/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.35862,1.571;S9;Baie d'Authie, Somme, Haut-de-France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Baie%20d%27Authie%2C%20Somme&vdpid=7012251576417007118&mb=50.364306~1.55581~50.35293~1.586194&cardbg=%23F98745&dt=1749117600000&tt=Baie%20d%27Authie%2C%20Somme%2C%20Hauts-de-France&tsts0=%2526ty%253D30%2526q%253DBaie%252520d%252527Authie%25252C%252520Somme%2526vdpid%253D7012251576417007118%2526mb%253D50.364306~1.55581~50.35293~1.586194%2526cardbg%253D%252523F98745%2526dt%253D1749117600000&tstt0=Baie%20d%27Authie%2C%20Somme%2C%20Hauts-de-France&cp=50.349125~1.494275&lvl=12.947956&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "8 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Somme%2c+Haut-de-France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Somme, Haut-de-France"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Somme%2c+Haut-de-France&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507062200",
       "enddate": "20250707",

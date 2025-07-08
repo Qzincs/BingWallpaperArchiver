@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507070700",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShetlandGannets_ROW5283114134_UHD.jpg",
+      "copyrighttext": "© Richard Shucksmith/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Northern+gannet&form=BGALM&filters=HpDate:\"20250707_0700\"",
+      "title": "Northern gannets diving for fish, Shetland Islands, Scotland",
+      "description": "Graceful, powerful and impossible to miss—the northern gannet is the largest seabird on the waters of the North Atlantic. It spends most of its time gliding over open seas and returning to land only to breed. These seabirds, known for their vast and noisy breeding colonies, called gannetries, nest on steep cliffs, remote rocky islands and sea stacks that rise from the ocean.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250707_ShetlandGannets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Northern+gannet&form=BGABWCTA7&filters=HpDate:\"20250707_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507060700",
       "enddate": "20250707",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507070300",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShetlandGannets_PT-BR6855447396_UHD.jpg",
+      "copyrighttext": "© Richard Shucksmith/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=ganso-patola&form=BGALM&filters=HpDate:\"20250707_0300\"",
+      "title": "Gansos-patola mergulhando em busca de peixes, Ilhas Shetland, Escócia",
+      "description": "No Atlântico Norte, o ganso-patola transforma o céu em pista de voo e o mar em palco de acrobacias. Com quase um metro de comprimento, ele inicia seu ritual lá em cima: avista um cardume, dobra as asas junto ao corpo e despenca em queda livre. O mergulho é um espetáculo de física e biologia — o ganso atinge a água a cerca de 100 quilômetros por hora, suportando um impacto até 20 vezes maior que a força da gravidade, graças ao crânio reforçado e bolsas de ar que funcionam como amortecedores naturais. O bico corta a água como uma lança e, lá embaixo, a caçada segue: asas e pés palmados impulsionam o mergulhador por até 30 metros de profundidade.",
+      "headline": "Plumas e profundezas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250707_ShetlandGannets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=ganso-patola&form=BGABWCTA7&filters=HpDate:\"20250707_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507060300",
       "enddate": "20250707",

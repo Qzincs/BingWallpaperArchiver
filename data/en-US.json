@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507070700",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg",
+      "copyrighttext": "© Richard Shucksmith/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Northern+gannet&form=BGALM&filters=HpDate:\"20250707_0700\"",
+      "title": "Northern gannets diving for fish, Shetland Islands, Scotland",
+      "description": "Graceful, powerful, and impossible to miss—the northern gannet is the largest seabird on the waters of the North Atlantic. It spends most of its time gliding over open seas and returning to land only to breed. These seabirds, known for their vast and noisy breeding colonies, called gannetries, nest on steep cliffs, remote rocky islands, and sea stacks that rise from the ocean.",
+      "headline": "Flash, splash, then snack",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250707_ShetlandGannets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/60.35667,-1.260556/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=60.35667,-1.260556;S9;Shetland Islands&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Shetland&satid=id.sid%3A69917bcc-72c4-054c-7b8b-59e2e6e6d054&vdpid=7392360&mb=60.857218~-3.222683~59.503751~1.366126&cardbg=%23F98745&tt=Shetland%20Islands%2C%20Scotland%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DShetland%2526satid%253Did.sid%25253A69917bcc-72c4-054c-7b8b-59e2e6e6d054%2526vdpid%253D7392360%2526mb%253D60.857218~-3.222683~59.503751~1.366126%2526cardbg%253D%252523F98745&tstt0=Shetland%20Islands%2C%20Scotland%2C%20United%20Kingdom&cp=57.916186~-6.92119&lvl=4.355776&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Shetland+Islands%2c+Scotland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Shetland Islands, Scotland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Shetland+Islands%2c+Scotland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507060700",
       "enddate": "20250707",

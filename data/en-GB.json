@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507072300",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.SecedaPeak_EN-GB3566713834_UHD.jpg",
+      "copyrighttext": "© Kalyakan/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomites&form=BGALM&filters=HpDate:\"20250707_2300\"",
+      "title": "Seceda, a peak in theDolomites, South Tyrol, Italy",
+      "description": "Italy's Dolomites don't just tower; they enchant, turning every trail into a story. Fondly known as the 'Pale Mountains,' the Dolomites derive their name from dolomite—a carbonate mineral. Set in the northern Italian Alps, the range spans over 345,000 acres (141,903 hectares) and boasts 18 soaring peaks that rise above 3,000 metres. These mountains feature sheer cliffs, lofty walls and a maze of narrow, winding valleys.",
+      "headline": "Beauty with an edge",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_SecedaPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.61306,12.16306/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=46.61306,12.16306;S9;Dolomite Alps, South Tyrol, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dolomites&satid=id.sid%3Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272&vdpid=7022525644709822465&mb=46.968071~11.287977~46.254981~13.03785&cardbg=%23F98745&dt=1747301400000&tt=Dolomites%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DDolomites%2526satid%253Did.sid%25253Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272%2526vdpid%253D7022525644709822465%2526mb%253D46.968071~11.287977~46.254981~13.03785%2526cardbg%253D%252523F98745%2526dt%253D1747301400000&tstt0=Dolomites%2C%20Italy&cp=43.174979~3.991271&lvl=5.194772&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 8, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+a+peak+in+theDolomites%2c+South+Tyrol%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  a peak in theDolomites, South Tyrol, Italy"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++a+peak+in+theDolomites%2c+South+Tyrol%2c+Italy&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507062300",
       "enddate": "20250707",

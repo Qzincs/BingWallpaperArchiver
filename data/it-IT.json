@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507072200",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.SecedaPeak_IT-IT2850226603_UHD.jpg",
+      "copyrighttext": "© Kalyakan/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Il+Seceda+Sec%c3%abda+in+ladino&form=BGALM&filters=HpDate:\"20250707_2200\"",
+      "title": "Seceda, vetta delle Dolomiti, Val Gardena, Trentino-Alto Adige",
+      "description": "Le Dolomiti italiane non si limitano a svettare: incantano, trasformando ogni sentiero in una storia. Affettuosamente chiamate \"Monti Pallidi\", devono il loro nome alla dolomite, un minerale carbonatico. Situate nelle Alpi italiane settentrionali, queste montagne si estendono per oltre 140.000 ettari e vantano diciotto vette imponenti che superano i 2.900 metri di altezza. Le Dolomiti sono caratterizzate da pareti verticali, bastioni maestosi e un intricato labirinto di valli strette e tortuose.",
+      "headline": "Sulla punta del più bello",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_SecedaPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.61306,12.16306/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.61306,12.16306;S9;Seceda, Val Gardena, Trentino-Alto Adige&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dolomites&satid=id.sid%3Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272&vdpid=7022525644709822465&mb=46.968071~11.287977~46.254981~13.03785&cardbg=%23F98745&dt=1747301400000&tt=Dolomites%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DDolomites%2526satid%253Did.sid%25253Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272%2526vdpid%253D7022525644709822465%2526mb%253D46.968071~11.287977~46.254981~13.03785%2526cardbg%253D%252523F98745%2526dt%253D1747301400000&tstt0=Dolomites%2C%20Italy&cp=43.174979~3.991271&lvl=5.194772&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "8 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+vetta+delle+Dolomiti%2c+Val+Gardena%2c+Trentino-Alto+Adige&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  vetta delle Dolomiti, Val Gardena, Trentino-Alto Adige"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++vetta+delle+Dolomiti%2c+Val+Gardena%2c+Trentino-Alto+Adige&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507062200",
       "enddate": "20250707",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507072200",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.SecedaPeak_ES-ES2991611419_UHD.jpg",
+      "copyrighttext": "© Kalyakan/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomitas&form=BGALM&filters=HpDate:\"20250707_2200\"",
+      "title": "Seceda, un pico en los Dolomitas, Tirol del Sur, Italia",
+      "description": "Los Dolomitas, en el norte de Italia, no solo se alzan: fascinan. Estas montañas, conocidas como las Montañas Pálidas, deben su nombre a la dolomita, un mineral que les da su característico color claro. Situadas en los Alpes orientales, abarcan más de 140.000 hectáreas y cuentan con 18 picos que superan los 2.900 metros.",
+      "headline": "Belleza a simple vista",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_SecedaPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dolomitas&form=BGABWCTA7&filters=HpDate:\"20250707_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507062200",
       "enddate": "20250707",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250707",
+      "fullstartdate": "202507071500",
+      "enddate": "20250708",
+      "urlbase": "https://www.bing.com/th?id=OHR.WheatFields2025_JA-JP0694604988_UHD.jpg",
+      "copyrighttext": "© DoctorEgg/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%91%e3%83%83%e3%83%81%e3%83%af%e3%83%bc%e3%82%af%e3%81%ae%e8%b7%af+%e9%bb%84%e9%87%91%e8%89%b2%e3%81%ae%e5%b0%8f%e9%ba%a6%e7%95%91%2c+%e5%8c%97%e6%b5%b7%e9%81%93&form=BGALM&filters=HpDate:\"20250707_1500\"",
+      "title": "パッチワークの路, 北海道 美瑛町",
+      "description": "北海道のほぼ中央に位置する美瑛町は、四季折々の風景が美しいことで知られています。その中でも「パッチワークの路」は、美瑛を代表する絶景スポットのひとつ。なだらかな丘に広がる畑が、まるで色とりどりの布を縫い合わせたパッチワークのように見えることから、その名がつけられました…",
+      "headline": "美しい黄金色の小麦畑",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_WheatFields2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.603451,142.453522/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.603451,142.453522;S9;パッチワークの路&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E3%83%91%E3%83%83%E3%83%81%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AE%E8%B7%AF&ss=ypid.YN5286x9520796751364500959&mb=43.609653~142.443516~43.597254~142.463515&cardbg=%23219AB6&dt=1749204000000&tt=%E3%83%91%E3%83%83%E3%83%81%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AE%E8%B7%AF&tsts0=%2526ty%253D18%2526q%253D%2525E3%252583%252591%2525E3%252583%252583%2525E3%252583%252581%2525E3%252583%2525AF%2525E3%252583%252BC%2525E3%252582%2525AF%2525E3%252581%2525AE%2525E8%2525B7%2525AF%2526ss%253Dypid.YN5286x9520796751364500959%2526mb%253D43.609653~142.443516~43.597254~142.463515%2526cardbg%253D%252523219AB6%2526dt%253D1749204000000&tstt0=%E3%83%91%E3%83%83%E3%83%81%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AE%E8%B7%AF&cp=43.603454~142.443044&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 8 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93+%e7%be%8e%e7%91%9b%e7%94%ba+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 北海道 美瑛町 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e5%8c%97%e6%b5%b7%e9%81%93+%e7%be%8e%e7%91%9b%e7%94%ba+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250706",
       "fullstartdate": "202507061500",
       "enddate": "20250707",
