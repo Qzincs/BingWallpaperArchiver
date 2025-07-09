@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250708",
+      "fullstartdate": "202507081600",
+      "enddate": "20250709",
+      "urlbase": "https://www.bing.com/th?id=OHR.ConstitucionStation_ZH-CN7962568053_UHD.jpg",
+      "copyrighttext": "© Grafissimo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%83%e5%ae%9c%e8%af%ba%e6%96%af%e8%89%be%e5%88%a9%e6%96%af&form=BGALM&filters=HpDate:\"20250708_1600\"",
+      "title": "宪法火车站，布宜诺斯艾利斯，阿根廷",
+      "description": "今天是阿根廷的独立日。这片拥有辽阔潘帕斯草原、丰富文化遗产与鲜明民族认同的南美国家，于1816年在图库曼省圣米格尔市正式宣告独立，摆脱西班牙的殖民统治。通往独立的道路充满挑战，伴随着长期内战与政治动荡；而阿根廷的独立运动也深受美国和法国独立运动的影响。最终，阿根廷人民以坚定不移的意志赢得了国家的自由。",
+      "headline": "具有纪念意义的火车站",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250709_ConstitucionStation\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 9",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%83%e5%ae%9c%e8%af%ba%e6%96%af%e8%89%be%e5%88%a9%e6%96%af&form=BGABWCTA7&filters=HpDate:\"20250708_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250707",
       "fullstartdate": "202507071600",
       "enddate": "20250708",

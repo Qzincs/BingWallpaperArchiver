@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250708",
+      "fullstartdate": "202507080700",
+      "enddate": "20250709",
+      "urlbase": "https://www.bing.com/th?id=OHR.SecedaPeak_ROW5372649409_UHD.jpg",
+      "copyrighttext": "© Kalyakan/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomites&form=BGALM&filters=HpDate:\"20250708_0700\"",
+      "title": "Seceda, a peak in the Dolomites, South Tyrol, Italy",
+      "description": "Italy's Dolomites don't just tower; they enchant, turning every trail into a story. Fondly known as the 'Pale Mountains,' the Dolomites derive their name from dolomite—a carbonate mineral. Set in the northern Italian Alps, the range spans over 139,000 hectares and boasts 18 soaring peaks that rise above 2,800 metres. These mountains feature sheer cliffs, lofty walls and a maze of narrow, winding valleys.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_SecedaPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 8, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dolomites&form=BGABWCTA7&filters=HpDate:\"20250708_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250707",
       "fullstartdate": "202507070700",
       "enddate": "20250708",

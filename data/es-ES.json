@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250708",
+      "fullstartdate": "202507082200",
+      "enddate": "20250709",
+      "urlbase": "https://www.bing.com/th?id=OHR.ConstitucionStation_ES-ES3087797004_UHD.jpg",
+      "copyrighttext": "© Grafissimo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+de+la+Independencia+de+Argentina&form=BGALM&filters=HpDate:\"20250708_2200\"",
+      "title": "Estación de ferrocarril de Constitución, Buenos Aires, Argentina",
+      "description": "Argentina, tierra de inmensas pampas, cultura vibrante y espíritu decidido, celebra hoy su Día de la Independencia. El 9 de julio de 1816, en San Miguel de Tucumán, representantes de distintas provincias declararon su libertad del dominio español. Fue el inicio de una nación forjada por ideales de justicia y autodeterminación, inspirada por las revoluciones francesa y estadounidense.",
+      "headline": "El ascenso de una república",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250709_ConstitucionStation\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+de+la+Independencia+de+Argentina&form=BGABWCTA7&filters=HpDate:\"20250708_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250707",
       "fullstartdate": "202507072200",
       "enddate": "20250708",

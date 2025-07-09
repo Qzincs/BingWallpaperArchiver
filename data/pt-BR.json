@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250708",
+      "fullstartdate": "202507080300",
+      "enddate": "20250709",
+      "urlbase": "https://www.bing.com/th?id=OHR.NationalScienceDay_PT-BR3314898058_UHD.jpg",
+      "copyrighttext": "© MaViLa/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=o+que+%c3%a9+ci%c3%aancia%3f&form=BGALM&filters=HpDate:\"20250708_0300\"",
+      "title": "Preguiça-comum pendurada em árvore no Rio de Janeiro",
+      "description": "Ela se move poucos metros por minuto e desce ao chão uma vez por semana. Mas, no alto de uma árvore no Rio de Janeiro, esta preguiça carrega em seu pelo um universo inteiro. Algas, fungos e bactérias vivem ali, formando um ecossistema microscópico que camufla, protege e pode até ter propriedades medicinais. É uma floresta em miniatura que a ciência desvenda aos poucos, com paciência e curiosidade.",
+      "headline": "No embalo do conhecimento",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250708_NationalScienceDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=o+que+%c3%a9+ci%c3%aancia%3f&form=BGABWCTA7&filters=HpDate:\"20250708_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250707",
       "fullstartdate": "202507070300",
       "enddate": "20250708",
