@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507091500",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_JA-JP9790462699_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b3%e3%82%a4%e3%82%ba%e3%83%96%e3%83%ab%e3%83%bc%e3%81%ae%e6%b5%b7%2c+%e3%83%90%e3%83%8f%e3%83%9e&form=BGALM&filters=HpDate:\"20250709_1500\"",
+      "title": "ターコイズブルーの海, バハマ",
+      "description": "今日 7 月 10 日はバハマの独立記念日。1492 年、クリストファー・コロンブスが新大陸で最初に到達した場所は、現在のバハマとされています。その後、スペインの支配を経て、1783 年からはイギリスの植民地となり、1973 年 7 月 10 日に英連邦王国の一員として独立し、長い植民地時代に終止符を打ちました…",
+      "headline": "今日はバハマの独立記念日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25,-77.4/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=25,-77.4;S9;バハマ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=The%20Bahamas%2C%20Caribbean%20Islands&satid=id.sid%3A27f36c28-9ec9-d220-72cc-2e590b20f82b&mb=30.903265~-94.812079~17.001232~-58.334395&cardbg=%233DB838&dt=1747303200000&tt=%E3%83%90%E3%83%8F%E3%83%9E&tsts0=%2526ty%253D18%2526q%253DThe%252520Bahamas%25252C%252520Caribbean%252520Islands%2526satid%253Did.sid%25253A27f36c28-9ec9-d220-72cc-2e590b20f82b%2526mb%253D30.903265~-94.812079~17.001232~-58.334395%2526cardbg%253D%2525233DB838%2526dt%253D1747303200000&tstt0=%E3%83%90%E3%83%8F%E3%83%9E&cp=24.140848~-76.573237&lvl=6.2&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 10 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%90%e3%83%8f%e3%83%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " バハマ への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%90%e3%83%8f%e3%83%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507081500",
       "enddate": "20250709",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507092200",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_FR-FR8439615037_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Les+Bahamas&form=BGALM&filters=HpDate:\"20250709_2200\"",
+      "title": "Eaux turquoise des Bahamas",
+      "description": "Vue du ciel, l’archipel des Bahamas dévoile un rêve en bleu. Des langues de sable blanc, cernées d’eaux turquoise et émeraude, dessinent un paysage presque irréel. Entre les nuages, la lumière danse sur l’océan, comme un hommage vibrant à la beauté insulaire. C’est ici, au cœur de cette mer de corail et de lumière, que le 10 juillet résonne chaque année comme un chant de liberté.",
+      "headline": "Bahamas, une nation en fête",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Les+Bahamas&form=BGABWCTA7&filters=HpDate:\"20250709_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507082200",
       "enddate": "20250709",

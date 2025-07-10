@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507090300",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.ConstitucionStation_PT-BR4627636298_UHD.jpg",
+      "copyrighttext": "© Grafissimo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Capital+da+Argentina&form=BGALM&filters=HpDate:\"20250709_0300\"",
+      "title": "Estação ferroviária Constitución, Buenos Aires, Argentina",
+      "description": "Hoje é Dia da Independência na Argentina — que aconteceu em 9 de julho de 1816, quando representantes das Províncias Unidas do Rio da Prata se reuniram em San Miguel de Tucumán para encerrar oficialmente o domínio espanhol. Influenciada por revoltas internas e por ideais de revoluções como a francesa e a americana, nossa vizinha iniciava ali sua jornada como nação soberana.",
+      "headline": "O tango da independência",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250709_ConstitucionStation\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capital+da+Argentina&form=BGABWCTA7&filters=HpDate:\"20250709_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507080300",
       "enddate": "20250709",

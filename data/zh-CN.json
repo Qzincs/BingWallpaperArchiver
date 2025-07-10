@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507091600",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_ZH-CN8134624828_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac&form=BGALM&filters=HpDate:\"20250709_1600\"",
+      "title": "巴哈马的绿松石色水域",
+      "description": "今天，巴哈马以缤纷的色彩、音乐与自豪感迎来国家独立日的庆祝。1492年，克里斯托弗·哥伦布首次抵达这些岛屿，自此被欧洲人记录在案。最初，这些岛屿处于西班牙统治之下，之后曾短暂由美国控制，随后成为英国殖民地。经过数十年的法律谈判与日益高涨的自治诉求，巴哈马最终于1973年7月10日实现完全独立。",
+      "headline": "奔向自由之浪",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac&form=BGABWCTA7&filters=HpDate:\"20250709_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507081600",
       "enddate": "20250709",

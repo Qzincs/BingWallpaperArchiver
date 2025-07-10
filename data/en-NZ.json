@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507090700",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.ConstitucionStation_ROW5458871760_UHD.jpg",
+      "copyrighttext": "© Grafissimo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Constituci%c3%b3n+railway+station&form=BGALM&filters=HpDate:\"20250709_0700\"",
+      "title": "Constitución railway station, Buenos Aires, Argentina",
+      "description": "Constitución railway station in Buenos Aires, pictured here, is a historic hub that reflects Argentina's drive for growth, connectivity and the spirit of unity that emerged during a transformative era. On 19 September 1925, the Prince of Wales—later the Duke of Windsor—laid the foundation stone for the present-day terminus during his official visit to Argentina. This marked the beginning of a major transformation, with the station rebuilt to include fourteen roofed platforms, modern buffer stops and a vast main concourse—one of the largest railway halls in the world at the time. Today, Constitución is a busy gateway for all southbound trains on the Roca Line, connecting Buenos Aires to cities like La Plata, Mar del Plata and Bahía Blanca.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250709_ConstitucionStation\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 9, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Constituci%c3%b3n+railway+station&form=BGABWCTA7&filters=HpDate:\"20250709_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507080700",
       "enddate": "20250709",

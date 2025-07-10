@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507092200",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_ES-ES3186595692_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bahamas&form=BGALM&filters=HpDate:\"20250709_2200\"",
+      "title": "Aguas turquesas de las Bahamas",
+      "description": "Las Bahamas celebran hoy su Día de la Independencia con color, música y orgullo. Estas islas fueron registradas por primera vez en 1492, cuando Cristóbal Colón las descubrió para Europa. Inicialmente estuvieron bajo dominio español, luego brevemente bajo control estadounidense y, finalmente, se convirtieron en colonia británica. Tras años de negociaciones y un fuerte deseo de autogobierno, las Bahamas lograron su independencia el 10 de julio de 1973.",
+      "headline": "Las olas de la libertad",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bahamas&form=BGABWCTA7&filters=HpDate:\"20250709_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507082200",
       "enddate": "20250709",

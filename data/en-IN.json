@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507091830",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.LordBuddha_EN-IN7435610826_UHD.jpg",
+      "copyrighttext": "© Amith Nag Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Guru+Purnima&form=BGALM&filters=HpDate:\"20250709_1830\"",
+      "title": "Buddha Statue, Hussain Sagar, Hyderabad, Telangana",
+      "description": "A full moon, a full heart and a timeless tradition—Guru Purnima is a day to celebrate the guiding lights in our lives. Observed across India, Nepal and Bhutan by Hindus, Jains and Buddhists, this sacred festival honours both spiritual and academic mentors. Celebrated on the full moon of Ashadha, it is also known as Vyasa Purnima, commemorating the birth of sage Veda Vyasa, the legendary author of the 'Mahabharata' and compiler of the 'Vedas.'",
+      "headline": "Light that leads",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_LordBuddha\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/17.41556,78.47496/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=17.41556,78.47496;S9;Buddha Statue, Hussain Sagar, Hyderabad, Telangana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Buddha%20Statue&ss=ypid.YN4070x16234867057040872159&segment=Attraction&mb=17.421899~78.468368~17.409206~78.481543&description=Hussain%20Sagar%2C%20Khairtabad%2C%20Hyderabad%2C%20Telangana%20500029&poicount=18&cardbg=%23219AB6&dt=1748874600000&tt=Buddha%20Statue&tsts0=%2526ty%253D18%2526q%253DBuddha%252520Statue%2526ss%253Dypid.YN4070x16234867057040872159%2526segment%253DAttraction%2526mb%253D17.421899~78.468368~17.409206~78.481543%2526description%253DHussain%252520Sagar%25252C%252520Khairtabad%25252C%252520Hyderabad%25252C%252520Telangana%252520500029%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1748874600000&tstt0=Buddha%20Statue&cp=16.201514~72.67588&lvl=6.141886&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Hussain+Sagar%2c+Hyderabad%2c+Telangana&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Hussain Sagar, Hyderabad, Telangana"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Hussain+Sagar%2c+Hyderabad%2c+Telangana&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507081830",
       "enddate": "20250709",

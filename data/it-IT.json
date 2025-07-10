@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507092200",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_IT-IT2994052693_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Stato+delle+Bahamas&form=BGALM&filters=HpDate:\"20250709_2200\"",
+      "title": "Acque turchesi delle Bahamas",
+      "description": "Le Bahamas oggi risplendono di colori, musica e orgoglio nazionale mentre celebrano la loro indipendenza. Questo arcipelago, un tempo dominato dagli spagnoli e poi brevemente dagli statunitensi, divenne una colonia britannica fino al 10 luglio 1973, quando raggiunse la piena autonomia dopo anni di negoziati e aspirazioni di autogoverno. Nei giorni che precedono la ricorrenza, le strade si animano con eventi festosi: la Giornata dell'Orgoglio Nazionale, cerimonie comunitarie e marce che uniscono la popolazione in un sentimento di appartenenza e identità. La cultura bahamiana, vibrante e radicata, si esprime in queste celebrazioni, che raccontano la storia e la resilienza del suo popolo.",
+      "headline": "Onde e Libertà",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Stato+delle+Bahamas&form=BGABWCTA7&filters=HpDate:\"20250709_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507082200",
       "enddate": "20250709",

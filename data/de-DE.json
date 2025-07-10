@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250709",
+      "fullstartdate": "202507092200",
+      "enddate": "20250710",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_DE-DE5750119392_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bahamas&form=BGALM&filters=HpDate:\"20250709_2200\"",
+      "title": "Türkisfarbenes Wasser der Bahamas",
+      "description": "Heute feiern wir den Unabhängigkeitstag der Bahamas, eines Archipels, das am 10. Juli 1973 seine Unabhängigkeit von Großbritannien erlangte. Dieser Tag erinnert an die reiche Geschichte und Kultur der Inseln, die ein Schmelztiegel afrikanischer, europäischer und amerikanischer Einflüsse sind. Die Bahamas sind bekannt für ihre Rolle in der Geschichte der Piraterie in der Karibik und dienten als Zufluchtsort für berühmte Piraten wie Blackbeard. Außerdem ist die Junkanoo-Musik mit ihren lebhaften Paraden und mitreißenden Rhythmen ein wesentlicher Bestandteil der Feierlichkeiten.",
+      "headline": "Die Wellen der Freiheit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bahamas&form=BGABWCTA7&filters=HpDate:\"20250709_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250708",
       "fullstartdate": "202507082200",
       "enddate": "20250709",
