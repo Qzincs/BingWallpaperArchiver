@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250710",
+      "fullstartdate": "202507100300",
+      "enddate": "20250711",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_PT-BR4354630844_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bahamas+Caribe&form=BGALM&filters=HpDate:\"20250710_0300\"",
+      "title": "Águas turquesa das Bahamas",
+      "description": "As Bahamas celebram hoje sua independência, envoltas pelo cenário visto na imagem, onde céu e mar se confundem entre tons suaves. Neste 10 de julho, o arquipélago exalta não só a autonomia conquistada em 1973, mas também a vitalidade de uma identidade moldada por encontros culturais, resistência e ancestralidade.",
+      "headline": "Nas ondas da liberdade",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bahamas+Caribe&form=BGABWCTA7&filters=HpDate:\"20250710_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250709",
       "fullstartdate": "202507090300",
       "enddate": "20250710",

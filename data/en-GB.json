@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250710",
+      "fullstartdate": "202507102300",
+      "enddate": "20250711",
+      "urlbase": "https://www.bing.com/th?id=OHR.TokyoSunrise_EN-GB4800034136_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=World+Population+Day&form=BGALM&filters=HpDate:\"20250710_2300\"",
+      "title": "Tokyo at sunrise, Japan",
+      "description": "We are living in a full house, and it is getting fuller. With 8.2 billion people and counting, World Population Day highlights how that growth affects cities, food and the future. First observed in 1989, the day focuses on how unchecked population growth affects sustainability. The event was inspired by Five Billion Day in 1987, which marked the approximate date when the global population hit that milestone. As cities expand, green spaces shrink and agriculture competes for limited land and water resources. But there is a way forward—investing in education, improving access to healthcare and building smarter cities can balance growth with sustainability.",
+      "headline": "Counting us all in",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250711_TokyoSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.689552,139.691818/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=35.689552,139.691818;S9;Tokyo, Japan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Tokyo&satid=id.sid%3Acb44a92f-6c6f-99c4-2ae3-51601fdc919a&vdpid=7932754762162765825&mb=36.021724~139.079681~35.32867~140.459503&cardbg=%23F98745&tt=Tokyo%2C%20Japan&tsts0=%2526ty%253D30%2526q%253DTokyo%2526satid%253Did.sid%25253Acb44a92f-6c6f-99c4-2ae3-51601fdc919a%2526vdpid%253D7932754762162765825%2526mb%253D36.021724~139.079681~35.32867~140.459503%2526cardbg%253D%252523F98745&tstt0=Tokyo%2C%20Japan&cp=32.2362~110.68412&lvl=3.618021&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Japan&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Japan"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Japan&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250709",
       "fullstartdate": "202507092300",
       "enddate": "20250710",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250710",
+      "fullstartdate": "202507100400",
+      "enddate": "20250711",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-CA4070961234_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=The+Bahamas&form=BGALM&filters=HpDate:\"20250710_0400\"",
+      "title": "Turquoise waters of the Bahamas",
+      "description": "The Bahamas comes alive with colour, music and pride today as the nation marks its Independence Day. First recorded by Europeans in 1492 when Christopher Columbus arrived, the islands were initially under Spanish rule. They later came briefly under American control before becoming a British colony. After decades of legal negotiations and a growing push for self-governance, the Bahamas transitioned to full independence on this day in 1973.",
+      "headline": "To the waves of freedom",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250710_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=The+Bahamas&form=BGABWCTA7&filters=HpDate:\"20250710_0400\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250709",
       "fullstartdate": "202507090400",
       "enddate": "20250710",

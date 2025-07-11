@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250710",
+      "fullstartdate": "202507102200",
+      "enddate": "20250711",
+      "urlbase": "https://www.bing.com/th?id=OHR.TokyoSunrise_ES-ES5285423958_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+Mundial+de+la+Poblaci%c3%b3n&form=BGALM&filters=HpDate:\"20250710_2200\"",
+      "title": "Tokio al amanecer, Japón",
+      "description": "¿Sabías que compartimos el planeta con más de 8.200 millones de personas? Cada 11 de julio se celebra el Día Mundial de la Población, una fecha que nos invita a reflexionar sobre cómo este crecimiento constante impacta en nuestras ciudades, recursos y calidad de vida. Este día fue propuesto por la ONU en 1989, inspirado en el momento en que la población mundial alcanzó los 5.000 millones, en 1987.",
+      "headline": "Contamos todos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250711_TokyoSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+Mundial+de+la+Poblaci%c3%b3n&form=BGABWCTA7&filters=HpDate:\"20250710_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250709",
       "fullstartdate": "202507092200",
       "enddate": "20250710",
