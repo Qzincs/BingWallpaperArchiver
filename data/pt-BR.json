@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250711",
+      "fullstartdate": "202507110300",
+      "enddate": "20250712",
+      "urlbase": "https://www.bing.com/th?id=OHR.TokyoSunrise_PT-BR5890009803_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Popula%c3%a7%c3%a3o&form=BGALM&filters=HpDate:\"20250711_0300\"",
+      "title": "Amanhecer em Tóquio, Japão",
+      "description": "O mundo já abriga mais de 8,2 bilhões de pessoas — e esse número não para de crescer. Diante desse cenário, o Dia Mundial da População, celebrado em 11 de julho, nos convida a refletir sobre os desafios de viver em um planeta com recursos limitados e demandas cada vez maiores.",
+      "headline": "Estamos todos incluídos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250711_TokyoSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Mundial+da+Popula%c3%a7%c3%a3o&form=BGABWCTA7&filters=HpDate:\"20250711_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250710",
       "fullstartdate": "202507100300",
       "enddate": "20250711",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250711",
+      "fullstartdate": "202507111500",
+      "enddate": "20250712",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThomsonGazelle_JA-JP8883266814_UHD.jpg",
+      "copyrighttext": "© Gallo Images/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%88%e3%83%a0%e3%82%bd%e3%83%b3%e3%82%ac%e3%82%bc%e3%83%ab&form=BGALM&filters=HpDate:\"20250711_1500\"",
+      "title": "マサイマラ国立保護区, ケニア",
+      "description": "今日の画像は、ケニアのマサイマラ国立保護区で暮らすトムソンガゼルの母子です。トムソンガゼルは、体長約 1ｍ、肩高約 60cm の小型の偶蹄類です。非常に俊敏で、天敵から逃れるために、時速 80km 以上で走ることができます…",
+      "headline": "トムソンガゼルの母子",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250712_ThomsonGazelle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.044889,35.49511/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-1.044889,35.49511;S9;マサイマラ国立保護区&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?&ty=18&ss=ypid.YN8091x1917038353595328581&mb=2.776032~21.007861~-8.036878~43.723263&description=C13%20Lolgorien%2C%20Maasai%20Mara%20National%20Reserve%2C%20Rift%20Valley%C2%B7Nature%20reserve&dt=1748622600000&tt=Masai%20Mara%20National%20Reserve&tsts0=%2526ty%253D18%2526ss%253Dypid.YN8091x1917038353595328581%2526mb%253D2.776032~21.007861~-8.036878~43.723263%2526description%253DC13%252520Lolgorien%25252C%252520Maasai%252520Mara%252520National%252520Reserve%25252C%252520Rift%252520Valley%2525C2%2525B7Nature%252520reserve%2526dt%253D1748622600000&tstt0=Masai%20Mara%20National%20Reserve&cp=-2.640606~30.296909&lvl=7.0577164&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 12 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b1%e3%83%8b%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ケニア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b1%e3%83%8b%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250710",
       "fullstartdate": "202507101500",
       "enddate": "20250711",

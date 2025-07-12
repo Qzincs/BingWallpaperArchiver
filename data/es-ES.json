@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250711",
+      "fullstartdate": "202507112200",
+      "enddate": "20250712",
+      "urlbase": "https://www.bing.com/th?id=OHR.RibadesellaSummer_ES-ES5366585834_UHD.jpg",
+      "copyrighttext": "© Agnieszka Glowala/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Ribadesella&form=BGALM&filters=HpDate:\"20250711_2200\"",
+      "title": "Ribadesella, Asturias, España",
+      "description": "Este verano, Ribadesella, Asturias, te espera con todo su encanto natural e histórico. Su costa, tan abrupta como hermosa, regala playas como Santa Marina o la de Guadamía, donde el mar y la montaña se funden en paisajes únicos. Muy cerca, la cueva de Tito Bustillo, Patrimonio de la Humanidad, ofrece un viaje al pasado con arte rupestre de más de 14.000 años de antigüedad.",
+      "headline": "¡Un mundo ideal!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250712_RibadesellaSummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ribadesella&form=BGABWCTA7&filters=HpDate:\"20250711_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250710",
       "fullstartdate": "202507102200",
       "enddate": "20250711",

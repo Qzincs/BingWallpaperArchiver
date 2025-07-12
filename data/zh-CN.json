@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250711",
+      "fullstartdate": "202507111600",
+      "enddate": "20250712",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThomsonGazelle_ZH-CN0413171014_UHD.jpg",
+      "copyrighttext": "© Gallo Images/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b1%a4%e6%b0%8f%e7%9e%aa%e7%be%9a&form=BGALM&filters=HpDate:\"20250711_1600\"",
+      "title": "汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚",
+      "description": "在肯尼亚西南部的马赛马拉稀树草原上，金色阳光洒落大地，野生动物穿梭其间，形成一幅动人画面。这片草原上野生动物众多，有在灌木丛中漫步的大象，地平线上搜寻猎物的猎豹等。然而，真正吸引目光的，往往是那些体型较小却灵动可爱的动物，比如今日图片中的汤氏瞪羚。",
+      "headline": "跟随妈妈的脚步",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250712_ThomsonGazelle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 12",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b1%a4%e6%b0%8f%e7%9e%aa%e7%be%9a&form=BGABWCTA7&filters=HpDate:\"20250711_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250710",
       "fullstartdate": "202507101600",
       "enddate": "20250711",

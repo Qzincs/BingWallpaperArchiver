@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250711",
+      "fullstartdate": "202507112200",
+      "enddate": "20250712",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThomsonGazelle_DE-DE6657498392_UHD.jpg",
+      "copyrighttext": "© Gallo Images/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=Thomson-Gazelle&form=BGALM&filters=HpDate:\"20250711_2200\"",
+      "title": "Thomson-Gazelle, Mutter und Kitz, Maasai Mara, Kenia",
+      "description": "Unser heutiges Bild zeigt eine Thomson-Gazelle mit ihrem Kalb im Maasai Mara Reservat in Kenia. Die Thomson-Gazelle gehört zu den schnellsten Antilopenarten und erreicht Geschwindigkeiten von bis zu 80 Kilometern pro Stunde. Dieser kleine und agile Pflanzenfresser ist in den afrikanischen Savannen beheimatet, wo er sich hauptsächlich von Gräsern und jungen Trieben ernährt. Sein Fell ist hellbraun mit einem markanten schwarzen Streifen an den Flanken, was ihm eine effektive Tarnung gegen Raubtiere bietet.",
+      "headline": "Nach dem Vorbild der Mutter",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250712_ThomsonGazelle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.044889,35.49511/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-1.044889,35.49511;S9;Maasai Mara, Kenia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?&ty=18&ss=ypid.YN8091x1917038353595328581&mb=2.776032~21.007861~-8.036878~43.723263&description=C13%20Lolgorien%2C%20Maasai%20Mara%20National%20Reserve%2C%20Rift%20Valley%C2%B7Nature%20reserve&dt=1748622600000&tt=Masai%20Mara%20National%20Reserve&tsts0=%2526ty%253D18%2526ss%253Dypid.YN8091x1917038353595328581%2526mb%253D2.776032~21.007861~-8.036878~43.723263%2526description%253DC13%252520Lolgorien%25252C%252520Maasai%252520Mara%252520National%252520Reserve%25252C%252520Rift%252520Valley%2525C2%2525B7Nature%252520reserve%2526dt%253D1748622600000&tstt0=Masai%20Mara%20National%20Reserve&cp=-2.640606~30.296909&lvl=7.0577164&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "12. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Mutter+und+Kitz%2c+Maasai+Mara%2c+Kenia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Mutter und Kitz, Maasai Mara, Kenia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Mutter+und+Kitz%2c+Maasai+Mara%2c+Kenia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250710",
       "fullstartdate": "202507102200",
       "enddate": "20250711",
