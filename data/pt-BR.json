@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250712",
+      "fullstartdate": "202507120300",
+      "enddate": "20250713",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThomsonGazelle_PT-BR6496352663_UHD.jpg",
+      "copyrighttext": "© Gallo Images/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=Gazela-de-Thomson&form=BGALM&filters=HpDate:\"20250712_0300\"",
+      "title": "Gazela-de-thomson mãe e filhote, Maasai Mara, Quênia",
+      "description": "Há algo na forma como os animais se movem pelas planícies do Maasai Mara, no sudoeste do Quênia, banhados por luz dourada, que nos faz parar e simplesmente observar. Essa savana abriga uma rica vida selvagem — de elefantes a guepardos — mas, às vezes, são os menores que encantam, como as gazelas-de-thomson, destaque da imagem de hoje.",
+      "headline": "Seguindo o exemplo da mãe",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250712_ThomsonGazelle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gazela-de-Thomson&form=BGABWCTA7&filters=HpDate:\"20250712_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250711",
       "fullstartdate": "202507110300",
       "enddate": "20250712",

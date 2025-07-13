@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250712",
+      "fullstartdate": "202507122300",
+      "enddate": "20250713",
+      "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_EN-GB5254717473_UHD.jpg",
+      "copyrighttext": "© Arterra Picture Library/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Rock+geology&form=BGALM&filters=HpDate:\"20250712_2300\"",
+      "title": "Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland",
+      "description": "Do you think rocks are just … well, rocks? These natural mineral combinations have done more than just sit around—they've built the Earth's crust and helped humans shape history. From Stone Age tools to the minerals powering modern civilisation, rocks have been essential throughout our journey. International Rock Day celebrates this enduring impact, inviting us to explore the science of rocks, admire their natural beauty and recognise the rich variety they add to our world.",
+      "headline": "Rockin' those layers",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250713_BasaltColumns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/66.012695,-20.419342/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=66.012695,-20.419342;S9;Kálfshamarsvík, Skagi, Iceland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=K%C3%A1lfshamarsv%C3%ADk&ss=ypid.YN8087x10856603506623584557&segment=Attraction&mb=66.015466~-20.430816~66.009956~-20.4069&description=2H88%2BVRW%2C%20K%C3%A1lfshamarsv%C3%ADk%2C%20%C3%8Dsland&poicount=18&cardbg=%23219AB6&dt=1748442600000&tt=K%C3%A1lfshamarsv%C3%ADk&tsts0=%2526ty%253D18%2526q%253DK%2525C3%2525A1lfshamarsv%2525C3%2525ADk%2526ss%253Dypid.YN8087x10856603506623584557%2526segment%253DAttraction%2526mb%253D66.015466~-20.430816~66.009956~-20.4069%2526description%253D2H88%25252BVRW%25252C%252520K%2525C3%2525A1lfshamarsv%2525C3%2525ADk%25252C%252520%2525C3%25258Dsland%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1748442600000&tstt0=K%C3%A1lfshamarsv%C3%ADk&cp=64.951106~-24.4926&lvl=6.3860955&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Skagi+peninsula%2c+Iceland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Skagi peninsula, Iceland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Skagi+peninsula%2c+Iceland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250711",
       "fullstartdate": "202507112300",
       "enddate": "20250712",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250712",
+      "fullstartdate": "202507122200",
+      "enddate": "20250713",
+      "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_ES-ES5645735099_UHD.jpg",
+      "copyrighttext": "© Arterra Picture Library/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Skagi+Islandia&form=BGALM&filters=HpDate:\"20250712_2200\"",
+      "title": "Columnas de basalto en la cala de Kálfshamarsvík, península de Skagi, Islandia",
+      "description": "¿Crees que las rocas son solo... rocas? En realidad, han sido protagonistas silenciosas de nuestra historia: desde las herramientas de la Edad de Piedra hasta los minerales que hacen posible la tecnología actual. Si te interesa ver cómo la geología cobra vida, Islandia es un destino fascinante.",
+      "headline": "Meciendo esas capas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250713_BasaltColumns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Skagi+Islandia&form=BGABWCTA7&filters=HpDate:\"20250712_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250711",
       "fullstartdate": "202507112200",
       "enddate": "20250712",

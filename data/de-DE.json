@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250712",
+      "fullstartdate": "202507122200",
+      "enddate": "20250713",
+      "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_DE-DE6897663571_UHD.jpg",
+      "copyrighttext": "© Arterra Picture Library/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Gestein+Geologie&form=BGALM&filters=HpDate:\"20250712_2200\"",
+      "title": "Basaltsäulen in der Bucht von Kálfshamarsvík, Halbinsel Skagi, Island",
+      "description": "Gesteine sind nicht nur Teil der Landschaft – sie erzählen Geschichten von Vulkanen, Eiszeiten und menschlicher Entwicklung. Ein faszinierendes Beispiel dafür ist Kálfshamarsvík, eine abgelegene Bucht im Nordwesten Islands, wie das heutige Bild zeigt. Dort formen sechseckige Basaltsäulen eine nahezu surreale Küstenlandschaft. Sie sind vor etwa zwei Millionen Jahren entstanden, als Lava langsam abkühlte und geometrisch aufriss. Besonders beeindruckend ist, dass die Säulen nicht nur senkrecht, sondern auch waagrecht und diagonal verlaufen – ein seltenes Phänomen, das selbst in Island kaum zu finden ist. Die Bucht liegt abseits der Touristenpfade nahe dem Ort Skagaströnd und ist ein Geheimtipp für Natur- und Fotofans.",
+      "headline": "Geometrie der Natur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250713_BasaltColumns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/66.012695,-20.419342/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=66.012695,-20.419342;S9;Kálfshamarsvík, Skagi, Island&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=K%C3%A1lfshamarsv%C3%ADk&ss=ypid.YN8087x10856603506623584557&segment=Attraction&mb=66.015466~-20.430816~66.009956~-20.4069&description=2H88%2BVRW%2C%20K%C3%A1lfshamarsv%C3%ADk%2C%20%C3%8Dsland&poicount=18&cardbg=%23219AB6&dt=1748442600000&tt=K%C3%A1lfshamarsv%C3%ADk&tsts0=%2526ty%253D18%2526q%253DK%2525C3%2525A1lfshamarsv%2525C3%2525ADk%2526ss%253Dypid.YN8087x10856603506623584557%2526segment%253DAttraction%2526mb%253D66.015466~-20.430816~66.009956~-20.4069%2526description%253D2H88%25252BVRW%25252C%252520K%2525C3%2525A1lfshamarsv%2525C3%2525ADk%25252C%252520%2525C3%25258Dsland%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1748442600000&tstt0=K%C3%A1lfshamarsv%C3%ADk&cp=64.951106~-24.4926&lvl=6.3860955&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Halbinsel+Skagi%2c+Island&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Halbinsel Skagi, Island"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Halbinsel+Skagi%2c+Island&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250711",
       "fullstartdate": "202507112200",
       "enddate": "20250712",
