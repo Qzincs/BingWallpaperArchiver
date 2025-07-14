@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250713",
+      "fullstartdate": "202507130700",
+      "enddate": "20250714",
+      "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_ROW8629166407_UHD.jpg",
+      "copyrighttext": "© Arterra Picture Library/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Skagi+peninsula&form=BGALM&filters=HpDate:\"20250713_0700\"",
+      "title": "Basalt columns in Kálfshamarsvík cove, Skagi peninsula, Iceland",
+      "description": "Today's image takes us to Kálfshamarsvík—a secluded cove on the country's remote Skagi peninsula. Unlike Iceland's famous black sand beaches, this cove's shore is strewn with large, smooth pebbles, while its fiery volcanic past still reveals itself in the towering cliffs. Here, evidence of volcanic activity is on full display in the form of rare hexagonal basalt columns. These sea cliffs are shaped into natural sculptures so symmetrical that they look almost man-made. These striking formations were created around 2 million years ago, when thick basalt lava cooled slowly, contracting and cracking into geometric shapes that formed near-perfect hexagons. Though Iceland is full of volcanic marvels, formations like these are rare, making this quiet cove truly remarkable.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250713_BasaltColumns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Skagi+peninsula&form=BGABWCTA7&filters=HpDate:\"20250713_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250712",
       "fullstartdate": "202507120700",
       "enddate": "20250713",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250713",
+      "fullstartdate": "202507132200",
+      "enddate": "20250714",
+      "urlbase": "https://www.bing.com/th?id=OHR.BastilleDayCelebration_FR-FR1452357775_UHD.jpg",
+      "copyrighttext": "© francois-roux/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=f%c3%aate+nationale+fran%c3%a7aise&form=BGALM&filters=HpDate:\"20250713_2200\"",
+      "title": "Feu d'artifice du 14 juillet au-dessus de la citadelle de Sisteron au crépuscule, Provence",
+      "description": "À la tombée du jour, la citadelle de Sisteron s’illumine, fièrement dressée face aux Alpes. Ce soir-là, elle devient le théâtre d’un spectacle unique : le feu d’artifice du 14 juillet. Les fusées éclatent, les couleurs jaillissent, et le ciel s’ouvre comme un livre de lumière. Depuis le XIIIe siècle, la citadelle veille sur le passage stratégique entre Dauphiné et Provence, verrou militaire dressé sur son éperon rocheux.",
+      "headline": "Quand la liberté éclaire le ciel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250714_BastilleDayCelebration\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.198727,5.943258/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=44.198727,5.943258;S9;Citadelle de Sisteron, Provence&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=citadelle%20de%20sisteron&ss=ypid.YN1490x258385585&mb=44.20512~5.933218~44.192336~5.953302&description=1%20All%C3%A9e%20de%20Verdun%2C%2004200%20Sisteron&cardbg=%23219AB6&dt=1750233600000&tt=Citadelle%20de%20Sisteron&tsts0=%2526ty%253D18%2526q%253Dcitadelle%252520de%252520sisteron%2526ss%253Dypid.YN1490x258385585%2526mb%253D44.20512~5.933218~44.192336~5.953302%2526description%253D1%252520All%2525C3%2525A9e%252520de%252520Verdun%25252C%25252004200%252520Sisteron%2526cardbg%253D%252523219AB6%2526dt%253D1750233600000&tstt0=Citadelle%20de%20Sisteron&cp=44.198728~5.932789&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Provence&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Provence"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Provence&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250712",
       "fullstartdate": "202507122200",
       "enddate": "20250713",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250713",
+      "fullstartdate": "202507130300",
+      "enddate": "20250714",
+      "urlbase": "https://www.bing.com/th?id=OHR.BasaltColumns_PT-BR7052531189_UHD.jpg",
+      "copyrighttext": "© Arterra Picture Library/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=Geologia+das+rochas&form=BGALM&filters=HpDate:\"20250713_0300\"",
+      "title": "Colunas de basalto na enseada de Kálfshamarsvík, península de Skagi, Islândia",
+      "description": "Na remota enseada de Kálfshamarsvík, no norte da Islândia, a natureza revela sua habilidade artística. A foto de hoje nos leva a esse cenário impressionante, onde colunas de basalto com formas hexagonais quase perfeitas se erguem como esculturas naturais, formadas há cerca de dois milhões de anos. Essas estruturas surgiram quando a lava vulcânica esfriou lentamente, contraindo-se e rachando em padrões geométricos surpreendentes.",
+      "headline": "Esculturas da Terra",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250713_BasaltColumns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Geologia+das+rochas&form=BGABWCTA7&filters=HpDate:\"20250713_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250712",
       "fullstartdate": "202507120300",
       "enddate": "20250713",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250713",
+      "fullstartdate": "202507132200",
+      "enddate": "20250714",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_ES-ES5981151828_UHD.jpg",
+      "copyrighttext": "© Damocean/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=tibur%c3%b3n+azul&form=BGALM&filters=HpDate:\"20250713_2200\"",
+      "title": "Joven tiburón azul nadando frente a la costa de Galicia, España",
+      "description": "Los tiburones llevan más de 400 millones de años surcando los mares, mucho antes que los dinosaurios. Han sobrevivido a extinciones masivas y cambios climáticos extremos, y hoy son clave para la salud de los océanos. El Día de Concienciación sobre los Tiburones busca destacar la importancia de estos superdepredadores, que mantienen el equilibrio en los ecosistemas marinos.",
+      "headline": "Persiguiendo olas, haciendo mareas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250714_YoungShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=tibur%c3%b3n+azul&form=BGABWCTA7&filters=HpDate:\"20250713_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250712",
       "fullstartdate": "202507122200",
       "enddate": "20250713",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250713",
+      "fullstartdate": "202507131500",
+      "enddate": "20250714",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_JA-JP0204898221_UHD.jpg",
+      "copyrighttext": "© Damocean/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a8%e3%82%b7%e3%82%ad%e3%83%aa%e3%82%b6%e3%83%a1&form=BGALM&filters=HpDate:\"20250713_1500\"",
+      "title": "ガリシア沖を泳ぐヨシキリザメ, スペイン",
+      "description": "今日 7 月 14 日はサメ啓発の日。サメは、約 4 億年以上前から存在している非常に古い生物です。現在では世界中で 500 種以上のサメが確認されており、日本近海にもおよそ 130 種が生息しています。しかし近年、乱獲や環境破壊、ヒレのみを切り落としその他は海に捨てる「フィンニング」などにより、多くのサメが絶滅の危機に瀕しています…",
+      "headline": "今日はサメ啓発の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250714_YoungShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.8,-7.9/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=42.8,-7.9;S9;ガリシア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Galicia%2C%20Spain&satid=id.sid%3A70c91f08-f55c-f98a-047e-aa9228ed4253&vdpid=11674&mb=43.789982~-10.406802~41.801441~-5.624324&cardbg=%23F98745&tt=Galicia%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DGalicia%25252C%252520Spain%2526satid%253Did.sid%25253A70c91f08-f55c-f98a-047e-aa9228ed4253%2526vdpid%253D11674%2526mb%253D43.789982~-10.406802~41.801441~-5.624324%2526cardbg%253D%252523F98745&tstt0=Galicia%2C%20Spain&cp=36.647753~-11.324555&lvl=5.119579&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " スペイン への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250712",
       "fullstartdate": "202507121500",
       "enddate": "20250713",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250713",
+      "fullstartdate": "202507132200",
+      "enddate": "20250714",
+      "urlbase": "https://www.bing.com/th?id=OHR.CattedraleDiPalermo_IT-IT0519609819_UHD.jpg",
+      "copyrighttext": "© Sean Pavone/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Santa+Rosalia+Palermo&form=BGALM&filters=HpDate:\"20250713_2200\"",
+      "title": "Cattedrale di Palermo, Palermo, Sicilia",
+      "description": "La Festa di Santa Rosalia, cuore pulsante della devozione palermitana, trasforma la città in un rituale collettivo che intreccia fede e identità. Ogni 14 luglio, tra luci, musiche e voci, Palermo celebra la sua \"Santuzza\", la giovane eremita che, secondo la leggenda, salvò la città dalla peste nel 1624. Il suo culto è un ponte tra passato e presente, un richiamo ancestrale che avvolge le strade della città e le sue pietre. La Cattedrale di Palermo, maestosa e antica, sembra risuonare di questa devozione. La sua architettura, stratificata nei secoli, racconta di civiltà che si sono avvicendate, proprio come il fervore che ogni anno ravviva la città.",
+      "headline": "Sacro o Profano?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250714_CattedraleDiPalermo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.114082,13.355933/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.114082,13.355933;S9;Cattedrale di Palermo, Palermo, Sicilia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Cattedrale%20di%20Palermo&ss=ypid.YN1354x2802359572769931980&mb=38.119112~13.344097~38.10905~13.367786&description=Via%20dell%27Incoronazione%2C%209%20-%2090134%20Palermo%20%28PA%29%C2%B7Chiesa%2Fcattedrale&cardbg=%2388979C&dt=1750086000000&tt=Cattedrale%20di%20Palermo&tsts0=%2526ty%253D18%2526q%253DCattedrale%252520di%252520Palermo%2526ss%253Dypid.YN1354x2802359572769931980%2526mb%253D38.119112~13.344097~38.10905~13.367786%2526description%253DVia%252520dell%252527Incoronazione%25252C%2525209%252520-%25252090134%252520Palermo%252520%252528PA%252529%2525C2%2525B7Chiesa%25252Fcattedrale%2526cardbg%253D%25252388979C%2526dt%253D1750086000000&tstt0=Cattedrale%20di%20Palermo&cp=38.110367~13.350813&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Palermo%2c+Sicilia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Palermo, Sicilia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Palermo%2c+Sicilia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250712",
       "fullstartdate": "202507122200",
       "enddate": "20250713",
