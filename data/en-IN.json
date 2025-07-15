@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250714",
+      "fullstartdate": "202507141830",
+      "enddate": "20250715",
+      "urlbase": "https://www.bing.com/th?id=OHR.MuchalindaLake_EN-IN3808425098_UHD.jpg",
+      "copyrighttext": "© Alexander Reshnya/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Muchalinda+Sarovar+Bodh+Gaya&form=BGALM&filters=HpDate:\"20250714_1830\"",
+      "title": "Muchalinda Sarovar, Bodh Gaya, Bihar",
+      "description": "Bodh Gaya, in Bihar's Gaya district, is one of the most sacred destinations in the Buddhist world. It is where Prince Siddhartha attained enlightenment beneath the Bodhi Tree and became the Buddha. Marked by the towering Mahabodhi Temple and centuries of devotion, this site draws pilgrims, monks and spiritual seekers from across the globe. Within this spiritually resonant landscape lies a lesser-known, yet deeply, revered corner—Muchalinda Sarovar, or the Lotus Pond. It is believed to be the site where Buddha spent his sixth week in meditation following his enlightenment.",
+      "headline": "Pond of peace",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250715_MuchalindaLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/24.695,84.9925/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=24.695,84.9925;S9;Bodh Gaya, Bihar&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Bodh%20Gaya&satid=id.sid%3A9dffb6f7-b731-f812-d1be-5293ccc4044c&vdpid=7420840115041206273&mb=24.700593~84.983657~24.68944~85.00435&cardbg=%23F98745&dt=1750152600000&tt=Bodh%20Gaya%2C%20Bihar&tsts0=%2526ty%253D30%2526q%253DBodh%252520Gaya%2526satid%253Did.sid%25253A9dffb6f7-b731-f812-d1be-5293ccc4044c%2526vdpid%253D7420840115041206273%2526mb%253D24.700593~84.983657~24.68944~85.00435%2526cardbg%253D%252523F98745%2526dt%253D1750152600000&tstt0=Bodh%20Gaya%2C%20Bihar&cp=24.406667~77.441586&lvl=5.9312224&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Bodh+Gaya%2c+Bihar&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Bodh Gaya, Bihar"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Bodh+Gaya%2c+Bihar&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250713",
       "fullstartdate": "202507131830",
       "enddate": "20250714",

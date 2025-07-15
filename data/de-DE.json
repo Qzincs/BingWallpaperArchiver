@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250714",
+      "fullstartdate": "202507142200",
+      "enddate": "20250715",
+      "urlbase": "https://www.bing.com/th?id=OHR.PerseidsPine_DE-DE7245690852_UHD.jpg",
+      "copyrighttext": "© Wirestock Creators/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Perseiden-Meteorschauer&form=BGALM&filters=HpDate:\"20250714_2200\"",
+      "title": "Perseiden-Meteorschauer und eine alte Borstenkiefer, Great-Basin-Nationalpark, Nevada, USA",
+      "description": "Jedes Jahr im August zieht der Perseiden-Meteorschauer weltweit – auch in Deutschland – viele Menschen in seinen Bann. Dieser jährlich wiederkehrende Meteorstrom erreicht seinen Höhepunkt in den Tagen um den 12. August. In klaren Nächten können dabei bis zu 100 Sternschnuppen pro Stunde beobachtet werden. Das beeindruckende Spektakel entsteht, wenn die Erde die Staubspur des Kometen Swift-Tuttle durchquert, der zuletzt 1992 nahe der Erde vorbeizog. Die Meteore gehen scheinbar vom Sternbild Perseus aus und sind besonders auf der Nordhalbkugel gut sichtbar. Wer dieses faszinierende Schauspiel genießen möchte, sollte einen dunklen Ort fernab von Stadtlichtern aufsuchen. Zwar bietet der Great-Basin-Nationalpark in Nevada, USA, der auf unserem heutigen Bild zu sehen ist, ideale Bedingungen, doch auch in Deutschland gibt es hervorragende Beobachtungsorte. Regionen mit geringer Lichtverschmutzung wie die Eifel, der Harz oder die Rhön bieten eine klare Sicht auf das Himmelsereignis.",
+      "headline": "Ein beeindruckendes Naturschauspiel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250715_PerseidsPine\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.014877,-114.126556/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=39.014877,-114.126556;S9;Great-Basin-Nationalpark, Nevada, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Great%20Basin%20National%20Park&satid=id.sid%3Adcd20f47-bd93-7813-4b45-e3f3bef02700&vdpid=5060400898967076865&mb=39.152668~-114.715734~38.573235~-113.461327&description=100%20Great%20Basin%20National%20Park%2C%20Baker%2C%20NV%2089311&cardbg=%233DB838&dt=1748593800000&tt=Great%20Basin%20National%20Park&tsts0=%2526ty%253D30%2526q%253DGreat%252520Basin%252520National%252520Park%2526satid%253Did.sid%25253Adcd20f47-bd93-7813-4b45-e3f3bef02700%2526vdpid%253D5060400898967076865%2526mb%253D39.152668~-114.715734~38.573235~-113.461327%2526description%253D100%252520Great%252520Basin%252520National%252520Park%25252C%252520Baker%25252C%252520NV%25252089311%2526cardbg%253D%2525233DB838%2526dt%253D1748593800000&tstt0=Great%20Basin%20National%20Park&cp=34.752782~-124.82136&lvl=5.195663&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Great-Basin-Nationalpark%2c+Nevada%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Great-Basin-Nationalpark, Nevada, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Great-Basin-Nationalpark%2c+Nevada%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250713",
       "fullstartdate": "202507132200",
       "enddate": "20250714",

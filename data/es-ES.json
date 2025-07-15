@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250714",
+      "fullstartdate": "202507142200",
+      "enddate": "20250715",
+      "urlbase": "https://www.bing.com/th?id=OHR.FranceLavender_ES-ES8017516672_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Valensole&form=BGALM&filters=HpDate:\"20250714_2200\"",
+      "title": "Campos de lavanda en Plateau de Valensole, Francia",
+      "description": "Si buscas un viaje de verano lleno de aromas y paisajes inolvidables, la meseta de Valensole, en la Provenza francesa, es el destino perfecto. Desde finales de junio hasta mediados de julio, este altiplano se cubre de un intenso manto púrpura: es tiempo de floración de la lavanda.",
+      "headline": "Fragancia la de Francia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250715_FranceLavender\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Valensole&form=BGABWCTA7&filters=HpDate:\"20250714_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250713",
       "fullstartdate": "202507132200",
       "enddate": "20250714",

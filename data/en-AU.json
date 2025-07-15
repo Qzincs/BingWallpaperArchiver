@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250714",
+      "fullstartdate": "202507140700",
+      "enddate": "20250715",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_ROW8712681767_UHD.jpg",
+      "copyrighttext": "© Damocean/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=blue+shark&form=BGALM&filters=HpDate:\"20250714_0700\"",
+      "title": "Young blue shark swimming off the coast of Galicia, Spain",
+      "description": "The blue shark, featured here, is sleek, wide-ranging and undeniably captivating. It's the only member of its genus that prefers the deep waters of temperate and tropical oceans. While typically a laid-back swimmer, it's capable of sudden bursts of speed when needed. Blue sharks are famous for their epic migrations—some travel from New England to South America, guided by seasonal changes, food availability and favourable environmental conditions. They give birth to live young and are known for their large litters—ranging from 25 to over 100 pups. After birth, the young head to special nursery zones, far from adult habitats, where they can grow and learn the ways of the sea.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250714_YoungShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=blue+shark&form=BGABWCTA7&filters=HpDate:\"20250714_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250713",
       "fullstartdate": "202507130700",
       "enddate": "20250714",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250714",
+      "fullstartdate": "202507140300",
+      "enddate": "20250715",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_PT-BR8738658851_UHD.jpg",
+      "copyrighttext": "© Damocean/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+da+Conscientiza%c3%a7%c3%a3o+sobre+Tubar%c3%b5es&form=BGALM&filters=HpDate:\"20250714_0300\"",
+      "title": "Jovem tubarão-azul nadando na costa da Galícia, Espanha",
+      "description": "Hoje é o Dia da Conscientização sobre Tubarões, uma data dedicada a valorizar esses incríveis predadores marinhos e a conscientizar sobre sua importância ecológica. Os tubarões habitam os oceanos há mais de 400 milhões de anos — sobreviveram aos dinossauros, resistiram a eras glaciais e superaram extinções em massa. São verdadeiros indicadores da saúde marinha, e protegê-los é fundamental para manter o equilíbrio dos ecossistemas oceânicos e garantir um futuro sustentável para toda a vida no planeta.",
+      "headline": "Guardião dos mares",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250714_YoungShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+da+Conscientiza%c3%a7%c3%a3o+sobre+Tubar%c3%b5es&form=BGABWCTA7&filters=HpDate:\"20250714_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250713",
       "fullstartdate": "202507130300",
       "enddate": "20250714",
