@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250715",
+      "fullstartdate": "202507152200",
+      "enddate": "20250716",
+      "urlbase": "https://www.bing.com/th?id=OHR.TemplePhilae_DE-DE7883088350_UHD.jpg",
+      "copyrighttext": "© Ratnakorn Piyasirisorost/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Philae+temple+Aswan+Egypt&form=BGALM&filters=HpDate:\"20250715_2200\"",
+      "title": "Tempel von Philae, Assuan, Ägypten",
+      "description": "Der Tempel von Philae zählt zu den faszinierendsten Stätten des Alten Ägyptens. Ursprünglich wurde er auf der Insel Philae erbaut und später auf die nahegelegene Insel Agilkia verlegt, um ihn vor den Fluten des Nils zu schützen. Heute liegt er friedlich am Wasser und lädt zu einer Reise in die Vergangenheit ein. Durch das monumentale Eingangstor gelangt man in einen weitläufigen Hof, der von imposanten Säulen gesäumt ist. Der Haupttempel ist der Göttin Isis gewidmet, die für Magie, Mutterschaft und Schutz steht. Ihr Kult verbreitete sich weit über Ägypten hinaus, sogar die Römer verehrten sie in prächtigen Tempeln.",
+      "headline": "Im Schatten der Götter",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250716_TemplePhilae\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/24.081743,32.89341/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=24.081743,32.89341;S9;Tempel von Philae, Assuan, Ägypten&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Temple%20of%20Philae%2C%20Abd%20El%20Hafeez%20Abo%20Qedees%2C%20Aswan%2C%20Egypt&vdpid=7260015835807219719&ss=filter.local_vdpid%3A%227260015835807219719%22&mb=24.08762~32.886822~24.075866~32.899997&cardbg=rgb%28249%2C135%2C69%29&dt=1748530800000&tt=Temple%20of%20Philae%2C%20Aswan%2C%20Egypt&tsts0=%2526ty%253D30%2526q%253DTemple%252520of%252520Philae%25252C%252520Abd%252520El%252520Hafeez%252520Abo%252520Qedees%25252C%252520Aswan%25252C%252520Egypt%2526vdpid%253D7260015835807219719%2526ss%253Dfilter.local_vdpid%25253A%2525227260015835807219719%252522%2526mb%253D24.08762~32.886822~24.075866~32.899997%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529%2526dt%253D1748530800000&tstt0=Temple%20of%20Philae%2C%20Aswan%2C%20Egypt&cp=28.52225~18.741581&lvl=5&ftst=0&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "16. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Assuan%2c+%c3%84gypten&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Assuan, Ägypten"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Assuan%2c+%c3%84gypten&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250714",
       "fullstartdate": "202507142200",
       "enddate": "20250715",

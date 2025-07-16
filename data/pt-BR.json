@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250715",
+      "fullstartdate": "202507150300",
+      "enddate": "20250716",
+      "urlbase": "https://www.bing.com/th?id=OHR.PerseidsPine_PT-BR0914394834_UHD.jpg",
+      "copyrighttext": "© Wirestock Creators/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Chuva+de+meteoros+Perseidas&form=BGALM&filters=HpDate:\"20250715_0300\"",
+      "title": "Chuva de meteoros Perseidas e um antigo pinheiro bristlecone, Parque Nacional Great Basin, Nevada, EUA",
+      "description": "Na imagem, o céu sobre o Parque Nacional Great Basin, em Nevada, nos EUA, ganha vida com as Perseidas — uma das chuvas de meteoros mais esperadas do ano. É nesse cenário de estrelas e silêncio que antigos pinheiros bristlecone, as árvores mais antigas da Terra, testemunham o espetáculo celeste há milênios.",
+      "headline": "Brilho atemporal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250715_PerseidsPine\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chuva+de+meteoros+Perseidas&form=BGABWCTA7&filters=HpDate:\"20250715_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250714",
       "fullstartdate": "202507140300",
       "enddate": "20250715",

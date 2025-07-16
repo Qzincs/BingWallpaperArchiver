@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250715",
+      "fullstartdate": "202507151600",
+      "enddate": "20250716",
+      "urlbase": "https://www.bing.com/th?id=OHR.TemplePhilae_ZH-CN1232015188_UHD.jpg",
+      "copyrighttext": "© Ratnakorn Piyasirisorost/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9f%83%e5%8f%8a%e9%98%bf%e6%96%af%e6%97%ba%e8%8f%b2%e8%8e%b1%e7%a5%9e%e5%ba%99&form=BGALM&filters=HpDate:\"20250715_1600\"",
+      "title": "菲莱神庙 (aka Temple of Isis), 阿斯旺, 埃及",
+      "description": "菲莱神庙，常被称为伊西斯神庙，是埃及最迷人的古迹之一。它最初建在菲莱岛上，后来为避免被洪水淹没而迁至附近的阿吉勒基亚岛。这项迁移工程是20世纪60年代由联合国教科文组织发起的国际文物拯救项目，历时多年，搬运了逾4万块石块，才得以完整重建并保存这座古老神庙。如今，它坐落在尼罗河环绕的静谧之地，是乘船游览和探寻往昔的绝佳去处。",
+      "headline": "伊西斯女神的光辉照耀下",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250716_TemplePhilae\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 16",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9f%83%e5%8f%8a%e9%98%bf%e6%96%af%e6%97%ba%e8%8f%b2%e8%8e%b1%e7%a5%9e%e5%ba%99&form=BGABWCTA7&filters=HpDate:\"20250715_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250714",
       "fullstartdate": "202507141600",
       "enddate": "20250715",
