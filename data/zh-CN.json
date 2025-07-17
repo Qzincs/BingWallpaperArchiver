@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250716",
+      "fullstartdate": "202507161600",
+      "enddate": "20250717",
+      "urlbase": "https://www.bing.com/th?id=OHR.FranceLavender_ZH-CN1639602547_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%93%a6%e6%9c%97%e7%b4%a2%e5%8b%92%e9%ab%98%e5%8e%9f&form=BGALM&filters=HpDate:\"20250716_1600\"",
+      "title": "瓦朗索勒高原的薰衣草田，法国",
+      "description": "若你正在寻找一场充满芬芳的夏日旅程，法国普罗旺斯的瓦朗索勒高原无疑是理想之选。从六月下旬至七月中旬，这片高原便会被紫色花海覆盖，宛如香气四溢的天然画布。高原坐落于海拔约1,900英尺的地带，面积达约300平方英里，是法国规模最大的薰衣草种植区之一。",
+      "headline": "追随香气的地平线",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250717_FranceLavender\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 17",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%93%a6%e6%9c%97%e7%b4%a2%e5%8b%92%e9%ab%98%e5%8e%9f&form=BGABWCTA7&filters=HpDate:\"20250716_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250715",
       "fullstartdate": "202507151600",
       "enddate": "20250716",

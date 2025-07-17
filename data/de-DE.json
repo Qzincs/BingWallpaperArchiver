@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250716",
+      "fullstartdate": "202507162200",
+      "enddate": "20250717",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_303245665",
+      "copyrighttext": "© Moiz/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Kenya%2c+Africa&form=BGALM",
+      "title": "Kenya, Africa",
+      "description": "Mount Kilimanjaro, the roof of Africa, Kenya (Amboseli National Park from Nairobi)",
+      "headline": "Kenya, Africa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Kenya%2C%20Africa&satid=id.sid%3A8ee43333-b344-289c-d8b1-5abf5e6a5995&vdpid=129&mb=5.023621~30.068873~-4.89953~45.747567&cardbg=%23F98745&tt=Kenya&tsts4=%2526ty%253D30%2526q%253DKenya%25252C%252520Africa%2526satid%253Did.sid%25253A8ee43333-b344-289c-d8b1-5abf5e6a5995%2526vdpid%253D129%2526mb%253D5.023621~30.068873~-4.89953~45.747567%2526cardbg%253D%252523F98745&tstt4=Kenya&cp=0.056835~35.056548&lvl=6.935805&pi=0&ftst=4&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kenya%2c+Africa&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Africa"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Africa&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250715",
       "fullstartdate": "202507152200",
       "enddate": "20250716",

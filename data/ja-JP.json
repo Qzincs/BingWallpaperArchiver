@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250716",
+      "fullstartdate": "202507161500",
+      "enddate": "20250717",
+      "urlbase": "https://www.bing.com/th?id=OHR.FranceLavender_JA-JP2202328070_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%b4%e3%82%a1%e3%83%ac%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%ab%e9%ab%98%e5%8e%9f%e3%81%ae%e3%83%a9%e3%83%99%e3%83%b3%e3%83%80%e3%83%bc%e7%95%91%2c+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=BGALM&filters=HpDate:\"20250716_1500\"",
+      "title": "ヴァレンソール高原のラベンダー畑, フランス",
+      "description": "ラベンダーの季節がやってきました。北海道・富良野の丘に咲き誇る紫の花々は、日本の夏の風物詩として親しまれています。そして、遥か遠くフランス・プロヴァンス地方のヴァレンソール高原でも、ラベンダーで大地が一面紫に染まります…",
+      "headline": "一面に広がる紫の絨毯",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250717_FranceLavender\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.83717,5.98384/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.83717,5.98384;S9;ヴァレンソール高原, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Valensole%2C%20Provence-Alpes-C%C3%B4te%20d%27Azur%2C%20France&satid=id.sid%3A6980930d-980e-3ac8-c735-ea75f6a10751&vdpid=7208109089350483969&mb=43.888321~5.81677~43.788677~6.06053&cardbg=%23F98745&tt=Valensole%2C%2004210%2C%20Provence-Alpes-C%C3%B4te%20d%27Azur%2C%20France&tsts0=%2526ty%253D30%2526q%253DValensole%25252C%252520Provence-Alpes-C%2525C3%2525B4te%252520d%252527Azur%25252C%252520France%2526satid%253Did.sid%25253A6980930d-980e-3ac8-c735-ea75f6a10751%2526vdpid%253D7208109089350483969%2526mb%253D43.888321~5.81677~43.788677~6.06053%2526cardbg%253D%252523F98745&tstt0=Valensole%2C%2004210%2C%20Provence-Alpes-C%C3%B4te%20d%27Azur%2C%20France&cp=41.744121~1.259447&lvl=5.370672&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " フランス への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250715",
       "fullstartdate": "202507151500",
       "enddate": "20250716",
