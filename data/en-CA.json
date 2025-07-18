@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250717",
+      "fullstartdate": "202507170400",
+      "enddate": "20250718",
+      "urlbase": "https://www.bing.com/th?id=OHR.FranceLavender_EN-CA4651592826_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Plateau+de+Valensole&form=BGALM&filters=HpDate:\"20250717_0400\"",
+      "title": "Lavender fields in Plateau de Valensole, France",
+      "description": "If you're looking for a scent-sational summer trip, follow your nose to the Plateau de Valensole in Provence, France. From late June to mid-July, this high plateau transforms into a purple sea of lavender. Situated more than 580 metres above sea level and spanning approximately 780 square kilometres, it is one of the largest areas in France dedicated to lavender cultivation.",
+      "headline": "Fragrant horizons",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250717_FranceLavender\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.83805,5.983889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.83805,5.983889;S9;Valensole, Provence, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Valensole%2C%20Provence-Alpes-C%C3%B4te%20d%27Azur%2C%20France&satid=id.sid%3A6980930d-980e-3ac8-c735-ea75f6a10751&vdpid=7208109089350483969&mb=43.888321~5.81677~43.788677~6.06053&cardbg=%23F98745&tt=Valensole%2C%2004210%2C%20Provence-Alpes-C%C3%B4te%20d%27Azur%2C%20France&tsts0=%2526ty%253D30%2526q%253DValensole%25252C%252520Provence-Alpes-C%2525C3%2525B4te%252520d%252527Azur%25252C%252520France%2526satid%253Did.sid%25253A6980930d-980e-3ac8-c735-ea75f6a10751%2526vdpid%253D7208109089350483969%2526mb%253D43.888321~5.81677~43.788677~6.06053%2526cardbg%253D%252523F98745&tstt0=Valensole%2C%2004210%2C%20Provence-Alpes-C%C3%B4te%20d%27Azur%2C%20France&cp=41.744121~1.259447&lvl=5.370672&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  France"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++France&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250716",
       "fullstartdate": "202507160400",
       "enddate": "20250717",

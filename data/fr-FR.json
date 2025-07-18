@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250717",
+      "fullstartdate": "202507172200",
+      "enddate": "20250718",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungShark_FR-FR2342809860_UHD.jpg",
+      "copyrighttext": "© Damocean/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=requin+bleu&form=BGALM&filters=HpDate:\"20250717_2200\"",
+      "title": "Jeune requin bleu nageant au large des côtes de Galice, Espagne",
+      "description": "Éclairé par les reflets d’un ciel d’été, un jeune requin bleu glisse entre les rochers, curieux, agile, libre. Celui de la photo a été observé au large de la Galice, dans le nord-ouest de l’Espagne. Peu d’animaux évoquent autant de mystère que les requins. Pourtant, ces créatures impressionnantes peuplent les océans depuis des centaines de millions d’années, bien avant l’apparition des dinosaures. Le requin bleu, aussi appelé peau bleue, fréquente l’Atlantique Nord, notamment les eaux profondes au large des côtes françaises.",
+      "headline": "Un petit requin en péril",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250718_YoungShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.8,-7.9/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=42.8,-7.9;S9;Galice, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Galicia%2C%20Spain&satid=id.sid%3A70c91f08-f55c-f98a-047e-aa9228ed4253&vdpid=11674&mb=43.789982~-10.406802~41.801441~-5.624324&cardbg=%23F98745&tt=Galicia%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DGalicia%25252C%252520Spain%2526satid%253Did.sid%25253A70c91f08-f55c-f98a-047e-aa9228ed4253%2526vdpid%253D11674%2526mb%253D43.789982~-10.406802~41.801441~-5.624324%2526cardbg%253D%252523F98745&tstt0=Galicia%2C%20Spain&cp=36.647753~-11.324555&lvl=5.119579&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Espagne&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Espagne"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Espagne&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250716",
       "fullstartdate": "202507162200",
       "enddate": "20250717",

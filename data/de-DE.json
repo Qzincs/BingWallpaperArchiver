@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250717",
+      "fullstartdate": "202507172200",
+      "enddate": "20250718",
+      "urlbase": "https://www.bing.com/th?id=OHR.MiravetSpain_DE-DE1175039382_UHD.jpg",
+      "copyrighttext": "© Eloi_Omella/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Miravet+Spanien&form=BGALM&filters=HpDate:\"20250717_2200\"",
+      "title": "Miravet am Fluss Ebro, Tarragona, Katalonien, Spanien",
+      "description": "Stolz thront die mittelalterliche Burg von Miravet hoch über dem Fluss Ebro – ein Ort, der sowohl geschichtliche als auch architektonische Spuren hinterlassen hat. Das katalanische Dorf Miravet im Süden Kataloniens gilt nicht umsonst als eines der schönsten der Region. Besucher begeben sich hier auf eine Reise in die Vergangenheit: Töpfer drehen ihre Keramik noch wie im 14. Jahrhundert, und die Fähre über den Ebro kommt ganz ohne Motor aus. Spaniens längster Fluss erzählt Geschichten von Römern, Mauren und Tempelrittern. Heute gleiten Kajaks durch dieselben Gewässer, die einst als Handels- und Verteidigungslinie dienten. Malerisch in die Umgebung eingebettet, erhebt sich die ikonische Festung aus dem 12. Jahrhundert über dem Dorf. Errichtet auf den Ruinen einer maurischen Burg, bietet sie beeindruckende Ausblicke auf den Fluss und die Landschaft. Miravet ist ein idealer Ort für alle, die Ursprünglichkeit und Geschichte abseits großer Touristenströme suchen.",
+      "headline": "Eine Reise in die Vergangenheit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250718_MiravetSpain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.03741,0.59781/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=41.03741,0.59781;S9;Miravet, Katalonien, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Miravet%20Spain&satid=id.sid%3A0a26debc-8a55-d137-84fd-998d3fb75fda&vdpid=7206985559644831745&mb=41.069889~0.491965~41.000351~0.661117&cardbg=%23F98745&tt=Miravet%2C%20Catalonia%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DMiravet%252520Spain%2526satid%253Did.sid%25253A0a26debc-8a55-d137-84fd-998d3fb75fda%2526vdpid%253D7206985559644831745%2526mb%253D41.069889~0.491965~41.000351~0.661117%2526cardbg%253D%252523F98745&tstt0=Miravet%2C%20Catalonia%2C%20Spain&cp=40.95344~-5.785414&lvl=6.4316454&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Tarragona%2c+Katalonien%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Tarragona, Katalonien, Spanien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Tarragona%2c+Katalonien%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250716",
       "fullstartdate": "202507162200",
       "enddate": "20250717",

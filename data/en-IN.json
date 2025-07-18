@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250717",
+      "fullstartdate": "202507171830",
+      "enddate": "20250718",
+      "urlbase": "https://www.bing.com/th?id=OHR.BahamaBlues_EN-IN1616548748_UHD.jpg",
+      "copyrighttext": "© BlueOrange Studio/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bahamas&form=BGALM&filters=HpDate:\"20250717_1830\"",
+      "title": "Turquoise waters of the Bahamas",
+      "description": "The Bahamas is an archipelagic island country comprising more than 3,000 islands, cays and islets. Nestled in the Atlantic Ocean, just southeast of Florida and northeast of Cuba, the Bahamas is famous for its beautiful waters, white sandy beaches and vibrant coral reefs. Every corner of the Bahamas is a shade card of blue, but the most captivating of all are the turquoise waters that surround the islands. The shallow, white sandbanks reflect sunlight in a way that gives the ocean its signature electric-blue glow, pictured here. Whether you're snorkelling among coral reefs, watching fireworks from a beachfront or cruising the Exuma Cays under the golden sun, the sea glows with a brilliance that feels almost magical.",
+      "headline": "Pure island joy",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250718_BahamaBlues\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bahamas&form=BGABWCTA7&filters=HpDate:\"20250717_1830\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250716",
       "fullstartdate": "202507161830",
       "enddate": "20250717",

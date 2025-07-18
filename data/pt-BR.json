@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250717",
+      "fullstartdate": "202507170300",
+      "enddate": "20250718",
+      "urlbase": "https://www.bing.com/th?id=OHR.FranceLavender_PT-BR8916363629_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Campos+de+lavanda+no+Planalto+de+Valensole%2c+Fran%c3%a7a+&form=BGALM&filters=HpDate:\"20250717_0300\"",
+      "title": "Campos de lavanda no Planalto de Valensole, França",
+      "description": "Se você está em busca de uma viagem repleta de aromas, siga seu olfato até o Planalto de Valensole, na região da Provença, na França. Do final de junho até meados de julho, esse planalto elevado se transforma em um vasto mar roxo de lavanda. Situado a quase 600 metros de altitude e com mais de 800 quilômetros quadrados de extensão, é uma das maiores áreas da França dedicadas ao cultivo dessa planta aromática.",
+      "headline": "Horizontes perfumados",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250717_FranceLavender\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Campos+de+lavanda+no+Planalto+de+Valensole%2c+Fran%c3%a7a+&form=BGABWCTA7&filters=HpDate:\"20250717_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250716",
       "fullstartdate": "202507160300",
       "enddate": "20250717",

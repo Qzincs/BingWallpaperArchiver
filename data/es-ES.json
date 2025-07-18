@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250717",
+      "fullstartdate": "202507172200",
+      "enddate": "20250718",
+      "urlbase": "https://www.bing.com/th?id=OHR.AshyWoodswallow_ES-ES2269692997_UHD.jpg",
+      "copyrighttext": "© Captain Skyhigh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=artamo+ceniciento&form=BGALM&filters=HpDate:\"20250717_2200\"",
+      "title": "Familia de artamo ceniciento posadas en una rama en Tailandia",
+      "description": "En la naturaleza, pocas aves muestran una vida en grupo tan armoniosa como el artamo ceniciento, protagonista de la imagen. Originario del sur de Asia, rara vez se ve en solitario. Descansa junto a otros en ramas desnudas o cables elevados, desde donde se lanza en vuelos rápidos y elegantes para atrapar insectos al vuelo.",
+      "headline": "Acurrucados para el cotilleo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250718_AshyWoodswallow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=artamo+ceniciento&form=BGABWCTA7&filters=HpDate:\"20250717_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250716",
       "fullstartdate": "202507162200",
       "enddate": "20250717",
