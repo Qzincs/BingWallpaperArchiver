@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250718",
+      "fullstartdate": "202507182200",
+      "enddate": "20250719",
+      "urlbase": "https://www.bing.com/th?id=OHR.MothWeek_ES-ES7594362162_UHD.jpg",
+      "copyrighttext": "© Rolf Nussbaumer/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Polilla+de+la+luna&form=BGALM&filters=HpDate:\"20250718_2200\"",
+      "title": "Polilla de la luna descansando sobre olmo de cedro, New Braunfels, Texas, EE. UU.",
+      "description": "En la imagen de hoy aparece la polilla luna, también conocida como polilla lunar americana. Con sus alas de un verde lima brillante y su cuerpo blanco, este insecto nocturno no tiene nada que envidiar a las mariposas. Habita en distintas regiones de América del Norte, y sus orugas, de gran tamaño, son fácilmente reconocibles. Como defensa, pueden emitir chasquidos y regurgitar su contenido intestinal para ahuyentar a los depredadores.",
+      "headline": "Pasando desapercibida",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250719_MothWeek\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Polilla+de+la+luna&form=BGABWCTA7&filters=HpDate:\"20250718_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250717",
       "fullstartdate": "202507172200",
       "enddate": "20250718",

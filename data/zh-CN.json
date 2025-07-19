@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250718",
+      "fullstartdate": "202507181600",
+      "enddate": "20250719",
+      "urlbase": "https://www.bing.com/th?id=OHR.YohoNP_ZH-CN2349599497_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b9%bd%e9%b9%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20250718_1600\"",
+      "title": "幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大",
+      "description": "“Yoho”听起来就像是人们站在山巅情不自禁发出的欢呼，而来到这里，你或许真的会这样做。幽鹤国家公园建于1886年，位于加拿大不列颠哥伦比亚省，以其峻峭的悬崖、冰川湖泊与雷鸣般的瀑布而闻名。作为加拿大第二古老的国家公园，它也是加拿大落基山国家公园世界遗产地的一部分。整个公园占地1,313 平方公里，其中的伯吉斯页岩化石遗址保存了逾5亿年前的海洋生物，对理解早期生物演化历程具有不可替代的科研价值。",
+      "headline": "化石、瀑布与林间小径",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250719_YohoNP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 19",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b9%bd%e9%b9%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20250718_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250717",
       "fullstartdate": "202507171600",
       "enddate": "20250718",

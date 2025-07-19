@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250718",
+      "fullstartdate": "202507180400",
+      "enddate": "20250719",
+      "urlbase": "https://www.bing.com/th?id=OHR.OroseiSardegna_EN-CA6517988362_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Orosei+Sardinia&form=BGALM&filters=HpDate:\"20250718_0400\"",
+      "title": "Orosei, Sardinia, Italy",
+      "description": "We are in Cala Luna, a jewel in the crown of the Gulf of Orosei in eastern Sardinia, Italy, on the Tyrrhenian Sea. This beach is known for its limestone cliffs, where nature has carved out caves that open directly onto the sea. Orosei, a town of about 7,000 residents in the Baronie region, is nestled in the Cedrino Valley just 2.5 kilometres from the sea. Its economy thrives on agriculture, marble quarrying and tourism. This enchanting locale blends mountainous charm with pristine coastal beauty—the nearby Gulf of Orosei and the Gennargentu massif form a protected regional park. The coastline stretches 20 kilometres, featuring a mix of white sandy beaches and rocky cliffs, vibrant by day and lively on summer nights. Every May, the town celebrates the festivals of Sant'Isidoro and Santa Maria 'e Mare with traditional processions. During the festivities, the local flavours shine—especially in seadas, a special dessert sprinkled with golden strawberry-tree honey.",
+      "headline": "Water, air, rock",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250718_OroseiSardegna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.25,9.7/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=40.25,9.7;S9;Orosei, Sardinia, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN1354x2429951556563555062&mb=40.371079~9.324697~40.07133~10.120375&description=Area%20per%20escursionismo&dt=1748948400000&tt=Golfo%20di%20Orosei&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1354x2429951556563555062%2526mb%253D40.371079~9.324697~40.07133~10.120375%2526description%253DArea%252520per%252520escursionismo%2526dt%253D1748948400000&tstt0=Golfo%20di%20Orosei&cp=40.221302~9.593497&lvl=11.06&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Sardinia%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Sardinia, Italy"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Sardinia%2c+Italy&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250717",
       "fullstartdate": "202507170400",
       "enddate": "20250718",

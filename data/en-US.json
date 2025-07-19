@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250718",
+      "fullstartdate": "202507180700",
+      "enddate": "20250719",
+      "urlbase": "https://www.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg",
+      "copyrighttext": "© Tim Fitzharris/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Gulf+Islands+National+Seashore&form=BGALM&filters=HpDate:\"20250718_0700\"",
+      "title": "Beach at sunrise, Gulf Islands National Seashore, Florida",
+      "description": "Gulf Islands National Seashore spans the northern Gulf of Mexico along the coasts of Florida and Mississippi, offering recreational activities and preserving natural and historic sites. Established in 1971, it boasts miles of white sand beaches, historic fortifications, and rich wildlife habitats. The seashore includes a 4,080-acre wilderness area on Mississippi's Petit Bois and Horn Islands, protecting their unique ecosystems. Besides being a perfect spot for snorkeling, hiking, and swimming, the seashore is home to a wide range of wildlife including armadillos, dolphins, pelicans, and sea turtles.",
+      "headline": "Gulf Islands glow",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250718_FloridaSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.391813,-88.791008/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=30.391813,-88.791008;S9;Gulf Islands National Seashore&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?osid=1446d9e7-9544-4003-a5b0-2b0449b668ed&cp=30.328818~-90.113829&lvl=6.98&pi=0&imgid=f5fa17e6-eb64-49c1-8864-f08b62b02af5&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Gulf+Islands+National+Seashore%2c+Florida&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Gulf Islands National Seashore, Florida"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Gulf+Islands+National+Seashore%2c+Florida&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250717",
       "fullstartdate": "202507170700",
       "enddate": "20250718",

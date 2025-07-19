@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250718",
+      "fullstartdate": "202507182200",
+      "enddate": "20250719",
+      "urlbase": "https://www.bing.com/th?id=OHR.Saumur_FR-FR4957130952_UHD.jpg",
+      "copyrighttext": "© Hiroshi Higuchi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ch%c3%a2teau+de+Saumur&form=BGALM&filters=HpDate:\"20250718_2200\"",
+      "title": "Saumur et son château au crépuscule, Vallée de la Loire",
+      "description": "Au cœur de la Vallée de la Loire, classée au patrimoine mondial de l’UNESCO, Saumur déploie ses charmes au fil de l’eau. Au crépuscule, ses façades blondes et toits d’ardoise se teintent de lumière, tandis que le château de Saumur, perché sur un promontoire, veille sur la ville.",
+      "headline": "Crépuscule royal sur les bords de Loire",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250719_Saumur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.256969,-0.072333/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.256969,-0.072333;S9;Saumur, Vallée de la Loire&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Ch%C3%A2teau%20de%20Saumur&ss=ypid.YN2000x664015174&mb=47.262988~-0.082376~47.250944~-0.062292&description=13%20Esplanade%20du%20Ch%C3%A2teau%2C%2049400%20Saumur&cardbg=%23219AB6&dt=1750255200000&tt=Ch%C3%A2teau%20de%20Saumur&tsts0=%2526ty%253D18%2526q%253DCh%2525C3%2525A2teau%252520de%252520Saumur%2526ss%253Dypid.YN2000x664015174%2526mb%253D47.262988~-0.082376~47.250944~-0.062292%2526description%253D13%252520Esplanade%252520du%252520Ch%2525C3%2525A2teau%25252C%25252049400%252520Saumur%2526cardbg%253D%252523219AB6%2526dt%253D1750255200000&tstt0=Ch%C3%A2teau%20de%20Saumur&cp=47.256966~-0.082805&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "19 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Vall%c3%a9e+de+la+Loire&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Vallée de la Loire"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Vall%c3%a9e+de+la+Loire&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250717",
       "fullstartdate": "202507172200",
       "enddate": "20250718",
