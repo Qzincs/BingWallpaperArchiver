@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507190300",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.NationalSoccerDay_PT-BR3956559362_UHD.jpg",
+      "copyrighttext": "© Clive Mason/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Nacional+do+Futebol&form=BGALM&filters=HpDate:\"20250719_0300\"",
+      "title": "Partida da Copa das Confederações da FIFA Brasil 2013, Estádio Nacional, Brasília",
+      "description": "A imagem de hoje nos coloca em campo no Estádio Nacional em Brasília para celebrar o Dia Nacional do Futebol. Comemorado em 19 de julho, esse dia homenageia a maior paixão esportiva do povo brasileiro. A data foi instituída em 1976 pela Confederação Brasileira de Futebol (CBF), em homenagem ao Sport Club Rio Grande, fundado em 1900 no Rio Grande do Sul, considerado o clube mais antigo em atividade no país.",
+      "headline": "A paixão em campo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250719_NationalSoccerDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Nacional+do+Futebol&form=BGABWCTA7&filters=HpDate:\"20250719_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507180300",
       "enddate": "20250719",

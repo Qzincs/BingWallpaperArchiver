@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507192200",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_IT-IT7283568510_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Luna&form=BGALM&filters=HpDate:\"20250719_2200\"",
+      "title": "Foto della superficie lunare attraverso un telescopio",
+      "description": "Ogni anno, il 20 luglio, ricordiamo un passo che ha superato il confine del possibile: il primo piede umano sulla Luna, e per questo oggi si celebra la \"Giornata Mondiale della Luna\". Era il 1969 quando Neil Armstrong posò la suola sulla polvere lunare e pronunciò parole che riecheggiano ancora nel silenzio dello spazio: \"Un piccolo passo per un uomo, un grande balzo per l’umanità.\" Accanto a lui, Buzz Aldrin, compagno d’audacia e di sogno.",
+      "headline": "Balli di Luna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Luna&form=BGABWCTA7&filters=HpDate:\"20250719_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507182200",
       "enddate": "20250719",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507191500",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_JA-JP3459565714_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%9c%88%e9%9d%a2%e7%9d%80%e9%99%b8%e3%81%ae%e6%97%a5&form=BGALM&filters=HpDate:\"20250719_1500\"",
+      "title": "観測機器で撮影された月",
+      "description": "今日 7 月 20 日は月面着陸の日。1969 年のこの日、アポロ 11 号の乗組員が、世界初の月面着陸に成功しました。人類で初めて月面に降り立ったニール・アームストロング船長は、「これは一人の人間にとっては小さな一歩だが、人類にとっては偉大な一歩である」という有名な言葉を残しました…",
+      "headline": "今日は月面着陸の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%9c%88%e9%9d%a2%e7%9d%80%e9%99%b8%e3%81%ae%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250719_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507181500",
       "enddate": "20250719",

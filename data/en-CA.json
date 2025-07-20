@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507190400",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.SimcoeLighthouse_EN-CA4989806848_UHD.jpg",
+      "copyrighttext": "© AWSeebaran/E+/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Jacksons+Point&form=BGALM&filters=HpDate:\"20250719_0400\"",
+      "title": "Jackson's Point Lighthouse on Lake Simcoe, Ontario",
+      "description": "Lake Simcoe has long shaped the rhythm of life in southern Ontario. It supplied freshwater fish, supported trade and even served as a transport route in the canal-building days of the 1800s. The lake spans roughly 722 square kilometres and is the fourth-largest lake wholly within the province, after Lake Nipigon, Lac Seul and Lake Nipissing. It feeds into Lake Couchiching and, eventually, the Trent–Severn Waterway, which connects Georgian Bay to Lake Ontario. Originally named 'Ouentironk' by the Huron-Wendat people, the lake was later renamed by British surveyor John Graves Simcoe in honour of his father. Its islands—Georgina, Thorah and Strawberry—aren't just scenic spots; they hold community and cultural significance.",
+      "headline": "Silent watcher",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250719_SimcoeLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.3186,-79.3926/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=44.3186,-79.3926;S9;Jackson's Point, Lake Simcoe, Ontario&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Jacksons%20Point&vdpid=5479391406839562241&mb=44.329082~-79.413026~44.306576~-79.350295&cardbg=%23F98745&dt=1750350600000&tt=Jacksons%20Point%2C%20Ontario%2C%20Canada&tsts1=%2526ty%253D30%2526q%253DJacksons%252520Point%2526vdpid%253D5479391406839562241%2526mb%253D44.329082~-79.413026~44.306576~-79.350295%2526cardbg%253D%252523F98745%2526dt%253D1750350600000&tstt1=Jacksons%20Point%2C%20Ontario%2C%20Canada&cp=44.378536~-79.588197&lvl=11.29815&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ontario&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Ontario"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Ontario&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507180400",
       "enddate": "20250719",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507190700",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.MothWeek_ROW9542610307_UHD.jpg",
+      "copyrighttext": "© Rolf Nussbaumer/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Luna+moth&form=BGALM&filters=HpDate:\"20250719_0700\"",
+      "title": "Luna moth resting on cedar elm, New Braunfels, Texas, United States",
+      "description": "Featured in today's image is the luna moth, a species whose charm rivals that of butterflies. Also known as the American moon moth, this striking insect—with its lime-green wings, white body and moon-like eyespots—can be found across North America.  Its caterpillars are also green and are known for their impressive size, as well as their ability to emit clicking sounds and regurgitate intestinal contents as a defence mechanism against predators.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250719_MothWeek\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Luna+moth&form=BGABWCTA7&filters=HpDate:\"20250719_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507180700",
       "enddate": "20250719",

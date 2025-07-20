@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507192200",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_ES-ES7673891948_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=La+Luna&form=BGALM&filters=HpDate:\"20250719_2200\"",
+      "title": "Foto de la superficie de la luna a través de un telescopio",
+      "description": "Cada 20 de julio celebramos el Día de la Luna, en recuerdo de uno de los hitos más importantes de la humanidad: el primer alunizaje en 1969. Ese día, Neil Armstrong se convirtió en el primer ser humano en pisar la superficie lunar, pronunciando la célebre frase: “Es un pequeño paso para el hombre, pero un gran salto para la humanidad”. Poco después, lo siguió Buzz Aldrin.",
+      "headline": "Bailando a la luz de la luna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Luna&form=BGABWCTA7&filters=HpDate:\"20250719_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507182200",
       "enddate": "20250719",

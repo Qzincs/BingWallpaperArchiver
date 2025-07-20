@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507192200",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_FR-FR5081716230_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lune&form=BGALM&filters=HpDate:\"20250719_2200\"",
+      "title": "Photo de la surface de la Lune à travers un télescope",
+      "description": "Chaque 20 juillet, la planète célèbre la Journée internationale de la Lune, en hommage à un moment historique : le premier pas sur la Lune en 1969. Ce jour-là, Neil Armstrong prononçait sa célèbre phrase : « C’est un petit pas pour l’homme, un bond de géant pour l’humanité. » À ses côtés, Buzz Aldrin participait à cet exploit historique, fruit d’une ambition mondiale pour explorer l’espace.",
+      "headline": "De la Terre à la Lune",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lune&form=BGABWCTA7&filters=HpDate:\"20250719_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507182200",
       "enddate": "20250719",

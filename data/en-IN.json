@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250719",
+      "fullstartdate": "202507191830",
+      "enddate": "20250720",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_EN-IN7770430598_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=moon&form=BGALM&filters=HpDate:\"20250719_1830\"",
+      "title": "The moon's surface seen through a telescope",
+      "description": "Every July 20, we celebrate Moon Day, marking the historic moment when Neil Armstrong first stepped onto the moon in 1969. With his iconic words, 'That's one small step for man, one giant leap for mankind,' Armstrong became the first human to walk on the moon, followed by Buzz Aldrin. The moon landing was the result of US President John F. Kennedy's bold 1961 goal to send a man to the moon and return him safely before the decade's end. Apollo 11 launched from Kennedy Space Centre, Florida, on July 16, 1969, reaching lunar orbit by July 19. On July 20, the Eagle lunar module touched down, and the world held its breath as history unfolded.",
+      "headline": "Dancing in the moonlight",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=moon&form=BGABWCTA7&filters=HpDate:\"20250719_1830\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250718",
       "fullstartdate": "202507181830",
       "enddate": "20250719",
