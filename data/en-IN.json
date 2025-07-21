@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507201830",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_EN-IN7935562509_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Staghorn+coral&form=BGALM&filters=HpDate:\"20250720_1830\"",
+      "title": "Staghorn coral in shallow ocean",
+      "description": "Coral reefs—like the staghorn coral pictured here—are home to roughly 25% of all marine species, despite covering less than 1% of the seafloor. These ecosystems not only support ocean biodiversity but also protect coastlines and drive economies through tourism and fishing. But coral reefs are in crisis. Warming oceans, pollution and overfishing have put over 70% of coral reefs at risk—a figure expected to rise in the coming years.",
+      "headline": "Rainforests of the sea",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Staghorn+coral&form=BGABWCTA7&filters=HpDate:\"20250720_1830\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507191830",
       "enddate": "20250720",

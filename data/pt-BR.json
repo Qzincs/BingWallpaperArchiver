@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507200300",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_PT-BR8604757050_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=dia+internacional+da+lua&form=BGALM&filters=HpDate:\"20250720_0300\"",
+      "title": "Superfície da Lua vista por telescópio",
+      "description": "Em julho de 1969, o mundo prendeu a respiração: pela primeira vez, um ser humano deixava pegadas fora da Terra. Com o pouso do Eagle, Neil Armstrong e Buzz Aldrin caminharam na Lua e mostraram que o impossível podia, sim, ser alcançado. A missão Apollo 11, transmitida ao vivo, inaugurou uma nova era — não só para a ciência, mas para o imaginário de toda uma geração.",
+      "headline": "O passo que moveu o mundo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=dia+internacional+da+lua&form=BGABWCTA7&filters=HpDate:\"20250720_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507190300",
       "enddate": "20250720",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507202200",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_IT-IT2371984871_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Barriera+corallina&form=BGALM&filters=HpDate:\"20250720_2200\"",
+      "title": "Corallo Staghorn, Isola di Bonaire, Caraibi olandesi",
+      "description": "Nel profondo blu dell’oceano si cela un mondo tanto fragile quanto straordinario, un intreccio di vita che pulsa tra i rami di corallo, come il corallo Staghorn, con la sua forma ramificata che ricorda le corna di un cervo. Questo corallo si trova prevalentemente nell’Atlantico occidentale, dalle Florida Keys alle acque dei Caraibi, fino alle coste occidentali del Sud America. Pur coprendo meno dell’1% del fondale marino, le barriere coralline ospitano circa un quarto di tutte le specie marine.",
+      "headline": "Meraviglie sottomarine",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Barriera+corallina&form=BGABWCTA7&filters=HpDate:\"20250720_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507192200",
       "enddate": "20250720",

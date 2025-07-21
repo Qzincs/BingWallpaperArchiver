@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507202200",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_ES-ES7878732690_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Coral+cuerno+de+ciervo&form=BGALM&filters=HpDate:\"20250720_2200\"",
+      "title": "Coral cuerno de ciervo en el Caribe Neerlandés",
+      "description": "Bajo la superficie del océano existe un mundo tan diverso como una selva tropical. Los arrecifes de coral, como el coral cuerno de ciervo que vemos aquí, albergan cerca del 25 % de todas las especies marinas, aunque solo cubren menos del 1 % del fondo marino. Estos ecosistemas son esenciales: sostienen la biodiversidad, protegen las costas frente a tormentas y generan ingresos mediante el turismo responsable y la pesca artesanal.",
+      "headline": "Selvas tropicales del mar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Coral+cuerno+de+ciervo&form=BGABWCTA7&filters=HpDate:\"20250720_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507192200",
       "enddate": "20250720",

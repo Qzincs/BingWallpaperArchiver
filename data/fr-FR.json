@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507202200",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_FR-FR5200865280_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=corail+corne+de+cerf&form=BGALM&filters=HpDate:\"20250720_2200\"",
+      "title": "Corail corne de cerf dans une mer peu profonde",
+      "description": "Sous la surface tranquille, une forêt vivante se déploie. Ici, le corail corne de cerf tend ses branches fines vers la lumière, formant un labyrinthe où se cachent poissons, crustacés et autres merveilles invisibles. Ce récif, silencieux en apparence, est l’un des écosystèmes les plus riches de la planète.",
+      "headline": "Un écosystème vital en sursis",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=corail+corne+de+cerf&form=BGABWCTA7&filters=HpDate:\"20250720_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507192200",
       "enddate": "20250720",

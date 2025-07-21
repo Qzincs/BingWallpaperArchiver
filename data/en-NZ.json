@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507200700",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.BigMoon_ROW9629931774_UHD.jpg",
+      "copyrighttext": "© Sergey Kuznetsov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=moon&form=BGALM&filters=HpDate:\"20250720_0700\"",
+      "title": "The moon's surface seen through a telescope",
+      "description": "Glowing like a silent guardian in the night sky, the moon is the fifth-largest satellite in the solar system and orbits Earth at an average distance of approximately 384,399 kilometres. With a diameter of about 3,474 kilometres—roughly one-quarter that of Earth—it exerts only one-sixth of our planet's gravity. This is why astronauts famously bounce when they walk on its surface. The moon's surface is mostly covered with rock and fine lunar dust, created by billions of years of impacts from meteoroids and micrometeorites. This powdery material, called regolith, gives the moon its grey, dusty appearance.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250720_BigMoon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=moon&form=BGABWCTA7&filters=HpDate:\"20250720_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507190700",
       "enddate": "20250720",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507202300",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.BuckinghamPalaceOpening2025_EN-GB0680195600_UHD.jpg",
+      "copyrighttext": "© Leonid Andronov/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Buckingham+Palace+London&form=BGALM&filters=HpDate:\"20250720_2300\"",
+      "title": "Buckingham Palace, London",
+      "description": "Every summer, the royal gates swing open and the red carpets roll out—not for visiting dignitaries, but for the public. Buckingham Palace—the King's official London residence—opens 19 of its State Rooms to visitors, inviting them to explore the spaces where knighthoods are conferred and presidents are welcomed. The walls are lined with masterpieces from the Royal Collection, including works by Rembrandt, Rubens, Canaletto and others. Why summer? Because the monarch is usually away. This year, the gates opened on 10 July and will remain open until 28 September.",
+      "headline": "A peek behind the regal doors",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_BuckinghamPalaceOpening2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.501358,-0.141891/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.501358,-0.141891;S9;Buckingham Palace, London&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Buckingham%20Palace&ss=ypid.YN1029x12645970025929135221&mb=51.505724~-0.149624~51.496988~-0.134175&description=Buckingham%20Palace%20Road%2C%20London%20SW1A%201AA&cardbg=%23219AB6&dt=1750440600000&tt=Buckingham%20Palace&tsts0=%2526ty%253D18%2526q%253DBuckingham%252520Palace%2526ss%253Dypid.YN1029x12645970025929135221%2526mb%253D51.505724~-0.149624~51.496988~-0.134175%2526description%253DBuckingham%252520Palace%252520Road%25252C%252520London%252520SW1A%2525201AA%2526cardbg%253D%252523219AB6%2526dt%253D1750440600000&tstt0=Buckingham%20Palace&cp=53.081301~-17.254923&lvl=5.3137417&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+London&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  London"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++London&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507192300",
       "enddate": "20250720",

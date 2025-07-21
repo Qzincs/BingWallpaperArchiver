@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250720",
+      "fullstartdate": "202507201600",
+      "enddate": "20250721",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_ZH-CN2622120276_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%8f%8a%e7%91%9a%e7%a4%81%e5%ae%a3%e4%bc%a0%e5%91%a8&form=BGALM&filters=HpDate:\"20250720_1600\"",
+      "title": "浅海中的鹿角珊瑚",
+      "description": "每年七月的第三周被定为珊瑚礁意识周，旨在提醒人们：在广袤海洋的表层之下，存在一个生态复杂度堪比热带雨林的系统。尽管珊瑚礁仅覆盖不到1%的海底面积，却孕育了约25%的海洋生物。以今日图片中的鹿角珊瑚为例，这类珊瑚构成了关键的生态基底，为众多海洋物种提供庇护和栖息空间。这些生态系统不仅维系着海洋生物多样性，也在缓冲海岸侵蚀方面发挥重要作用，并通过旅游业与渔业促进沿海地区经济发展。",
+      "headline": "海洋中的热带雨林",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 21",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%8f%8a%e7%91%9a%e7%a4%81%e5%ae%a3%e4%bc%a0%e5%91%a8&form=BGABWCTA7&filters=HpDate:\"20250720_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250719",
       "fullstartdate": "202507191600",
       "enddate": "20250720",
