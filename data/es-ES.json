@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250721",
+      "fullstartdate": "202507212200",
+      "enddate": "20250722",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThomsonGazelle_ES-ES5485485713_UHD.jpg",
+      "copyrighttext": "© Gallo Images/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=gacela+de+Thomson&form=BGALM&filters=HpDate:\"20250721_2200\"",
+      "title": "Madre y gazapillo de gacela de Thomson, Maasai Mara, Kenia",
+      "description": "En las praderas doradas del Masái Mara, al suroeste de Kenia, la vida salvaje se despliega con una belleza que asombra. Elefantes, guepardos y ñus recorren esta sabana sin fronteras, pero a menudo son los animales más pequeños quienes capturan la atención. Es el caso de las gacelas de Thomson, conocidas como tommies, que protagonizan escenas llenas de energía y agilidad.",
+      "headline": "Siguiendo el ejemplo de mamá",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250722_ThomsonGazelle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=gacela+de+Thomson&form=BGABWCTA7&filters=HpDate:\"20250721_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250720",
       "fullstartdate": "202507202200",
       "enddate": "20250721",

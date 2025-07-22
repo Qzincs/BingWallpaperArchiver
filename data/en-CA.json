@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250721",
+      "fullstartdate": "202507210400",
+      "enddate": "20250722",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_EN-CA5414923469_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=BGALM&filters=HpDate:\"20250721_0400\"",
+      "title": "Staghorn coral off the island of Bonaire, Caribbean Netherlands",
+      "description": "Every third week of July, Coral Reef Awareness Week reminds us that beneath the ocean's surface lies a world as rich and complex as any rainforest. Coral reefs—like the staghorn coral pictured here—are home to roughly 25% of all marine species, despite covering less than 1% of the seafloor. These ecosystems not only support ocean biodiversity but also protect coastlines and drive economies through tourism and fishing.",
+      "headline": "Rainforests of the sea",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Coral+Reef+Awareness+Week&form=BGABWCTA7&filters=HpDate:\"20250721_0400\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250720",
       "fullstartdate": "202507200400",
       "enddate": "20250721",

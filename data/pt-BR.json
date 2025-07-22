@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250721",
+      "fullstartdate": "202507210300",
+      "enddate": "20250722",
+      "urlbase": "https://www.bing.com/th?id=OHR.AcroporaReef_PT-BR8456645465_UHD.jpg",
+      "copyrighttext": "© blue-sea.cz/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=recife+de+coral&form=BGALM&filters=HpDate:\"20250721_0300\"",
+      "title": "Coral chifre-de-veado em Bonaire, Caribe Neerlandês",
+      "description": "Na imagem do dia, o coral chifre-de-veado parece dançar sob a luz que atravessa as águas do Caribe Neerlandês, seus ramos em constante movimento. Cada curva abriga peixes coloridos, pequenos crustáceos e uma multidão de criaturas que transformam o recife em uma cidade subaquática cheia de vida. Mais do que beleza, esse coral é estrutura, abrigo e berçário — um verdadeiro engenheiro do oceano.",
+      "headline": "Uma floresta de cor e sal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250721_AcroporaReef\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=recife+de+coral&form=BGABWCTA7&filters=HpDate:\"20250721_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250720",
       "fullstartdate": "202507200300",
       "enddate": "20250721",
