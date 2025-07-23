@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250722",
+      "fullstartdate": "202507220700",
+      "enddate": "20250723",
+      "urlbase": "https://www.bing.com/th?id=OHR.BadlandsSunset_ROW9806016673_UHD.jpg",
+      "copyrighttext": "© Petr Bednarik/Danita Delimont/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=Badlands+National+Park+South+Dakota&form=BGALM&filters=HpDate:\"20250722_0700\"",
+      "title": "Sunset over Badlands National Park, South Dakota, United States",
+      "description": "As the sun sets over Badlands National Park, the landscape transforms into a stunning display of colour. The national park, located in southwestern South Dakota, United States, features a dramatic terrain of eroded buttes, pinnacles and spires carved by millennia of wind and water. Spanning over 98,160 hectares, the park is divided into three main units: the North Unit, home to the visitor centre and scenic Badlands Loop Road; and the Stronghold and Palmer Creek units. The park's dramatic terrain is the result of sedimentary rock layers eroding at a rate of about two centimetres per year, revealing colourful bands of volcanic ash, silt and clay. These formations are not only visually striking but also rich in fossils, including remains from the Oligocene Epoch (about 33.9 to 23 million years ago), such as ancient horses, camels and sabre-toothed cats.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250722_BadlandsSunset\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Badlands+National+Park+South+Dakota&form=BGABWCTA7&filters=HpDate:\"20250722_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250721",
       "fullstartdate": "202507210700",
       "enddate": "20250722",

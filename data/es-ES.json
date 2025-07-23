@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250722",
+      "fullstartdate": "202507222200",
+      "enddate": "20250723",
+      "urlbase": "https://www.bing.com/th?id=OHR.VaticanCity_ES-ES7982947243_UHD.jpg",
+      "copyrighttext": "© RudyBalasko/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ciudad+del+Vaticano&form=BGALM&filters=HpDate:\"20250722_2200\"",
+      "title": "Ciudad del Vaticano con la Basílica de San Pedro y Roma, Italia",
+      "description": "En el corazón de Roma se encuentra un país diminuto pero inmenso en historia: la Ciudad del Vaticano. Con apenas 44 hectáreas, es el Estado independiente más pequeño del mundo, pero su influencia se extiende a millones de fieles en todo el planeta. Es la sede del Papa y el centro espiritual de la Iglesia católica.",
+      "headline": "Un país dentro de una ciudad",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250723_VaticanCity\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ciudad+del+Vaticano&form=BGABWCTA7&filters=HpDate:\"20250722_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250721",
       "fullstartdate": "202507212200",
       "enddate": "20250722",

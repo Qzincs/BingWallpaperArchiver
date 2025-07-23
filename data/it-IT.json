@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250722",
+      "fullstartdate": "202507222200",
+      "enddate": "20250723",
+      "urlbase": "https://www.bing.com/th?id=OHR.AlassioLiguria_IT-IT1114546774_UHD.jpg",
+      "copyrighttext": "© Xantana/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Comune+di+Alassio&form=BGALM&filters=HpDate:\"20250722_2200\"",
+      "title": "Alassio, Savona, Liguria",
+      "description": "Il mare di Alassio ha un modo tutto suo di comunicare. Lo fa con onde gentili, con la luce che rimbalza sulle persiane colorate e con l’odore di sale che si mescola al gelsomino. Incastonata sulla Riviera di Ponente, in provincia di Savona, Alassio è uno di quei luoghi che sembrano fatti apposta per l’estate. Qui, l’estate non è solo una stagione, ma un ritmo lento fatto di passi sulla sabbia, risate in controluce e ombre che si allungano sul lungomare.",
+      "headline": "Silenzi salmastri",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250723_AlassioLiguria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.004471,8.173846/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.004471,8.173846;S9;Alassio, Savona, Liguria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alassio&satid=id.sid%3A0429ba9c-f73a-3523-285c-46d1fe2cc543&vdpid=7208272061498654722&mb=44.037815~8.104434~43.989895~8.227861&cardbg=%23F98745&tt=Alassio%2C%2017021%2C%20Savona%2C%20Liguria%2C%20Italia&tsts0=%2526ty%253D30%2526q%253DAlassio%2526satid%253Did.sid%25253A0429ba9c-f73a-3523-285c-46d1fe2cc543%2526vdpid%253D7208272061498654722%2526mb%253D44.037815~8.104434~43.989895~8.227861%2526cardbg%253D%252523F98745&tstt0=Alassio%2C%2017021%2C%20Savona%2C%20Liguria%2C%20Italia&cp=44.004411~8.163117&lvl=15.865611&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Savona%2c+Liguria&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Savona, Liguria"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Savona%2c+Liguria&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250721",
       "fullstartdate": "202507212200",
       "enddate": "20250722",

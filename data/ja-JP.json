@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250722",
+      "fullstartdate": "202507221500",
+      "enddate": "20250723",
+      "urlbase": "https://www.bing.com/th?id=OHR.GionFestival2025_JA-JP8597633874_UHD.jpg",
+      "copyrighttext": "© Route16/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8d%97%e8%a6%b3%e9%9f%b3%e5%b1%b1%2c+%e4%ba%ac%e9%83%bd%e5%b8%82&form=BGALM&filters=HpDate:\"20250722_1500\"",
+      "title": "提灯の灯りに照らされた南観音山, 京都市",
+      "description": "京都の祇園祭は、後祭の宵山を迎えています。前祭の賑やかさとは対照的に、後祭の宵山には落ち着いた空気が漂います。囃子の心地よい音色に包まれながら、山鉾をゆっくりと眺め、御朱印を集めたり、屏風祭を鑑賞したりと、伝統の美しさに浸ることができます…",
+      "headline": "祇園祭・後祭の宵山期間中",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250723_GionFestival2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.01161,135.7681/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.01161,135.7681;S9;京都市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82&satid=id.sid%3A016f8629-d61d-3045-0068-c8fcefa64237&vdpid=7932286346620567553&mb=35.321201~135.236221~34.874847~136.201538&cardbg=%23F98745&tt=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82&tsts0=%2526ty%253D30%2526q%253D%2525E4%2525BA%2525AC%2525E9%252583%2525BD%2525E5%2525BA%25259C%2525E4%2525BA%2525AC%2525E9%252583%2525BD%2525E5%2525B8%252582%2526satid%253Did.sid%25253A016f8629-d61d-3045-0068-c8fcefa64237%2526vdpid%253D7932286346620567553%2526mb%253D35.321201~135.236221~34.874847~136.201538%2526cardbg%253D%252523F98745&tstt0=%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82&cp=35.09825~135.549326&lvl=11.006303&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e4%ba%ac%e9%83%bd%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 京都市 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e4%ba%ac%e9%83%bd%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250721",
       "fullstartdate": "202507211500",
       "enddate": "20250722",
