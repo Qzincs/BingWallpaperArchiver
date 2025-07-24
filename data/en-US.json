@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250723",
+      "fullstartdate": "202507230700",
+      "enddate": "20250724",
+      "urlbase": "https://www.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg",
+      "copyrighttext": "© RudyBalasko/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Vatican+City&form=BGALM&filters=HpDate:\"20250723_0700\"",
+      "title": "Vatican City with St. Peter's Basilica",
+      "description": "In the middle of Rome, Italy, lies an entire country of its own: Vatican City. At just 121 acres, it's the smallest independent nation in the world, yet its reach spans centuries and continents. Home to the pope and the spiritual center of the Roman Catholic Church, this walled enclave is a blend of art, history, and devotion. At its core stands St. Peter's Basilica. Seen in the distance in today's image, this Renaissance masterpiece is built over what is believed to be the tomb of St. Peter, the first bishop of Rome. With its soaring dome dominating the skyline, the basilica is one of the largest churches in the world. Just beyond the basilica lies St. Peter's Square, where thousands gather for papal blessings. The Vatican Museums and the Sistine Chapel, which houses Michelangelo's famed ceiling, are other must-sees. Despite its size, Vatican City has its own postal service, telephone system, and banking system.",
+      "headline": "A country within a city",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250723_VaticanCity\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.904,12.453/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=41.904,12.453;S9;Vatican City&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Vatican%20city&satid=id.sid%3A391b7067-82be-6f93-f1c1-7a92a0c60507&vdpid=253&mb=41.90921~12.440251~41.89761~12.465459&cardbg=%23F98745&tt=Vatican%20City&tsts0=%2526ty%253D30%2526q%253DVatican%252520city%2526satid%253Did.sid%25253A391b7067-82be-6f93-f1c1-7a92a0c60507%2526vdpid%253D253%2526mb%253D41.90921~12.440251~41.89761~12.465459%2526cardbg%253D%252523F98745&tstt0=Vatican%20City&cp=42.210024~1.259664&lvl=5.1905313&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Vatican+City&form=BGABWCTA7&filters=HpDate:\"20250723_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250722",
       "fullstartdate": "202507220700",
       "enddate": "20250723",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250723",
+      "fullstartdate": "202507231500",
+      "enddate": "20250724",
+      "urlbase": "https://www.bing.com/th?id=OHR.AshyWoodswallow_JA-JP4870541560_UHD.jpg",
+      "copyrighttext": "© Captain Skyhigh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%8f%e3%82%a4%e3%82%a4%e3%83%ad%e3%83%a2%e3%83%aa%e3%83%84%e3%83%90%e3%83%a1&form=BGALM&filters=HpDate:\"20250723_1500\"",
+      "title": "枝にとまるハイイロモリツバメ",
+      "description": "今日の画像は、木の枝で仲良く肩を寄せ合うハイイロモリツバメたち。ハイイロモリツバメは、南アジアに生息するスズメ目モリツバメ科の鳥です。ツバメの特徴である長くて二股に分かれた燕尾は持っていませんが、羽ばたきと滑翔を組み合わせて空中を移動するなど、その行動様式には日本でよく見られるツバメとの共通点も多く見られます…",
+      "headline": "南アジアの可愛い鳥",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250724_AshyWoodswallow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 24 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%8f%e3%82%a4%e3%82%a4%e3%83%ad%e3%83%a2%e3%83%aa%e3%83%84%e3%83%90%e3%83%a1&form=BGABWCTA7&filters=HpDate:\"20250723_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250722",
       "fullstartdate": "202507221500",
       "enddate": "20250723",

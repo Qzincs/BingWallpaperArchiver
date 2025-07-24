@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250723",
+      "fullstartdate": "202507231830",
+      "enddate": "20250724",
+      "urlbase": "https://www.bing.com/th?id=OHR.AdalajStepwell_EN-IN5898657988_UHD.jpg",
+      "copyrighttext": "© krishh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Adalaj+Stepwell&form=BGALM&filters=HpDate:\"20250723_1830\"",
+      "title": "Adalaj Stepwell, Gujarat",
+      "description": "Not everything majestic stands above ground—some wonders lie beneath. Just a short drive from Gandhinagar in Gujarat, the Adalaj Stepwell is one such marvel, steeped in centuries-old stories that make it one of India's most enchanting stepwells. Built in 1498, this five-storey-deep stepwell is more than just a rainwater reservoir. According to legend, in the 15th century, Rana Veer Singh of the Vaghela dynasty began constructing a stepwell to relieve his drought-stricken kingdom. Before its completion, he was killed by Mohammed Begda, a neighbouring ruler, who seized control of the region. The Rana's widow, Rani Roopba, agreed to marry Begda if he completed the stepwell—only to take her own life once it was finished.",
+      "headline": "Built for love, carved in time",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250724_AdalajStepwell\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/23.166584,72.580261/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=23.166584,72.580261;S9;Adalaj Stepwell, Gujarat&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Adalaj%20Stepwell&satid=id.sid%3A5f0e7178-ac3b-19e3-3544-0aeafd894af8&mb=23.172982~72.573667~23.160179~72.586842&description=Adalaj%20District-Gandhinagar%2C%20Ahmedabad%2C%20Gujarat%20382421&cardbg=%23219AB6&dt=1750170600000&tt=Adalaj%20Step-well&tsts0=%2526ty%253D18%2526q%253DAdalaj%252520Stepwell%2526satid%253Did.sid%25253A5f0e7178-ac3b-19e3-3544-0aeafd894af8%2526mb%253D23.172982~72.573667~23.160179~72.586842%2526description%253DAdalaj%252520District-Gandhinagar%25252C%252520Ahmedabad%25252C%252520Gujarat%252520382421%2526cardbg%253D%252523219AB6%2526dt%253D1750170600000&tstt0=Adalaj%20Step-well&cp=18.832145~74.190796&lvl=5.599788&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Gujarat&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Gujarat"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Gujarat&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250722",
       "fullstartdate": "202507221830",
       "enddate": "20250723",
