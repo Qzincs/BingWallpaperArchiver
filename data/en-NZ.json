@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250724",
+      "fullstartdate": "202507240700",
+      "enddate": "20250725",
+      "urlbase": "https://www.bing.com/th?id=OHR.AshyWoodswallow_ROW0000420936_UHD.jpg",
+      "copyrighttext": "© Captain Skyhigh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ashy+woodswallows&form=BGALM&filters=HpDate:\"20250724_0700\"",
+      "title": "Family of ashy woodswallows perched on a branch in Thailand",
+      "description": "The ashy woodswallow, also known as the ashy swallow-shrike, is a sociable bird found across South and Southeast Asia, including India, Nepal, Bangladesh, Sri Lanka, Thailand and parts of China and Malaysia. Though absent from the driest regions of western India, it thrives in diverse habitats—from lowland plains to elevations of about 2,000 metres—often favouring areas with tall palm trees, forest clearings, and cultivated landscapes. These compact birds are easily recognised by their short, curved bills, square tails and long wings. They are usually seen in small groups, huddled closely together on bare branches, power lines or pylons, occasionally preening one another. Agile in flight, they make aerial sallies to catch insects mid-air—sometimes holding the prey in their feet, tearing it apart with their beaks. While they typically feed on the wing, they may also return to a perch—or even land on the ground—to consume their catch or visit birdbaths.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250724_AshyWoodswallow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ashy+woodswallows&form=BGABWCTA7&filters=HpDate:\"20250724_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250723",
       "fullstartdate": "202507230700",
       "enddate": "20250724",

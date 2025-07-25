@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250724",
+      "fullstartdate": "202507242200",
+      "enddate": "20250725",
+      "urlbase": "https://www.bing.com/th?id=OHR.GaliciaDay_ES-ES2507386877_UHD.jpg",
+      "copyrighttext": "© Adrian Abelleira Rodriguez/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+de+Galicia&form=BGALM&filters=HpDate:\"20250724_2200\"",
+      "title": "Faro en Vigo, Galicia, España",
+      "description": "Cada 25 de julio, Galicia celebra con orgullo su fiesta más emblemática: el Día Nacional de Galicia, también conocido como Día da Patria Galega. Esta fecha coincide con la festividad del Apóstol Santiago, patrón de Galicia y de toda España. En Vigo, el ambiente se llena de música tradicional, gaitas y danzas folclóricas que invitan a vivir de cerca la identidad gallega.",
+      "headline": "¡Una gran día para brillar!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250725_GaliciaDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+de+Galicia&form=BGABWCTA7&filters=HpDate:\"20250724_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250723",
       "fullstartdate": "202507232200",
       "enddate": "20250724",

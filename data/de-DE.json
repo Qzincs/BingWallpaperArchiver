@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250724",
+      "fullstartdate": "202507242200",
+      "enddate": "20250725",
+      "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_DE-DE5219971738_UHD.jpg",
+      "copyrighttext": "© Marco Bottigelli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Las+Palmas+de+Gran+Canaria&form=BGALM&filters=HpDate:\"20250724_2200\"",
+      "title": "Luftaufnahme von bunten Häusern, Las Palmas de Gran Canaria, Spanien",
+      "description": "Auf dem heutigen Bild sieht man eine Luftaufnahme der farbenfrohen Häuser auf Las Palmas de Gran Canaria, Spanien. Diese lebendige städtische Landschaft ist charakteristisch für das Viertel Risco de San Juan, wo die Häuser mit den Resten der Farbe gestrichen wurden, die in den Hafenbooten verwendet wurden. Diese Praxis hat zu einer einzigartigen und auffälligen Farbpalette geführt, die Touristen und Fotografen aus aller Welt anzieht. Las Palmas de Gran Canaria ist bekannt für sein angenehmes Klima, seine Strände und seine reiche Geschichte und ist ein beliebtes Ziel sowohl für Kulturliebhaber als auch für Erholungssuchende.",
+      "headline": "Die Leinwand des Lebens",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250725_LasPalmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.12722,-15.43139/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=28.12722,-15.43139;S9;Las Palmas de Gran Canaria, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Las%20Palmas%20de%20Gran%20Canaria%2C%20Las%20Palmas%2C%20Spain&satid=id.sid%3Ad71f7852-324e-5679-b9af-97df23a20cdc&vdpid=5678429345354350594&mb=28.181364~-15.610736~28.024361~-15.310707&cardbg=%23F98745&tt=Las%20Palmas%20de%20Gran%20Canaria%2C%20Canary%20Islands%2C%20Spain&tsts1=%2526ty%253D30%2526q%253DLas%252520Palmas%252520de%252520Gran%252520Canaria%25252C%252520Las%252520Palmas%25252C%252520Spain%2526satid%253Did.sid%25253Ad71f7852-324e-5679-b9af-97df23a20cdc%2526vdpid%253D5678429345354350594%2526mb%253D28.181364~-15.610736~28.024361~-15.310707%2526cardbg%253D%252523F98745&tstt1=Las%20Palmas%20de%20Gran%20Canaria%2C%20Canary%20Islands%2C%20Spain&cp=33.884775~-24.818596&lvl=4.674497&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "25. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Las+Palmas+de+Gran+Canaria%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Las Palmas de Gran Canaria, Spanien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Las+Palmas+de+Gran+Canaria%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250723",
       "fullstartdate": "202507232200",
       "enddate": "20250724",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250724",
+      "fullstartdate": "202507241500",
+      "enddate": "20250725",
+      "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_JA-JP9180112071_UHD.jpg",
+      "copyrighttext": "© Marco Bottigelli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a9%e3%82%b9%e3%83%bb%e3%83%91%e3%83%ab%e3%83%9e%e3%82%b9%e3%83%bb%e3%83%87%e3%83%bb%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%bb%e3%82%ab%e3%83%8a%e3%83%aa%e3%82%a2&form=BGALM&filters=HpDate:\"20250724_1500\"",
+      "title": "ラス・パルマス・デ・グラン・カナリア, スペイン",
+      "description": "ここはラス・パルマス・デ・グラン・カナリア。スペイン領カナリア諸島のひとつ、グラン・カナリア島北東部に位置する都市です。街は活気にあふれ、画像のように色とりどりの家々が立ち並んでいるのが特徴です。年間を通じて温暖で、冬の平均気温は 15 度、夏は 25 度前後と過ごしやすく、ヨーロッパ屈指の都市型ビーチとして知られる「ラス・カンテラス・ビーチ」は、一年中観光客や地元住民で賑わっています…",
+      "headline": "カラフルな家々が並ぶ港湾都市",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250725_LasPalmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.12722,-15.43139/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=28.12722,-15.43139;S9;ラス・パルマス・デ・グラン・カナリア, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Las%20Palmas%20de%20Gran%20Canaria%2C%20Las%20Palmas%2C%20Spain&satid=id.sid%3Ad71f7852-324e-5679-b9af-97df23a20cdc&vdpid=5678429345354350594&mb=28.181364~-15.610736~28.024361~-15.310707&cardbg=%23F98745&tt=Las%20Palmas%20de%20Gran%20Canaria%2C%20Canary%20Islands%2C%20Spain&tsts1=%2526ty%253D30%2526q%253DLas%252520Palmas%252520de%252520Gran%252520Canaria%25252C%252520Las%252520Palmas%25252C%252520Spain%2526satid%253Did.sid%25253Ad71f7852-324e-5679-b9af-97df23a20cdc%2526vdpid%253D5678429345354350594%2526mb%253D28.181364~-15.610736~28.024361~-15.310707%2526cardbg%253D%252523F98745&tstt1=Las%20Palmas%20de%20Gran%20Canaria%2C%20Canary%20Islands%2C%20Spain&cp=33.884775~-24.818596&lvl=4.674497&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 25 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " スペイン への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250723",
       "fullstartdate": "202507231500",
       "enddate": "20250724",

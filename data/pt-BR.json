@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250724",
+      "fullstartdate": "202507240300",
+      "enddate": "20250725",
+      "urlbase": "https://www.bing.com/th?id=OHR.AshyWoodswallow_PT-BR6492437124_UHD.jpg",
+      "copyrighttext": "© Captain Skyhigh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Artamidae&form=BGALM&filters=HpDate:\"20250724_0300\"",
+      "title": "Família de Artamus fuscus empoleirada em um galho na Tailândia",
+      "description": "Na natureza, há encontros que dizem muito sem emitir som. Empoleirados em fileiras justinhas, os Artamus fuscus da imagem — aves típicas do sul da Ásia — parecem costurar o ar com afeto. Nunca estão sozinhos: dormem colados, voam em bando e compartilham galhos expostos como quem encontra no outro o seu pouso. Ao longe, são como pinceladas cinzentas sobre o céu. Mas basta observar de perto para notar a coreografia: decolam juntos, alternando batidas de asas com planadas suaves, até abocanhar insetos em pleno voo.",
+      "headline": "Tão juntos quanto o céu permite",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250724_AshyWoodswallow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Artamidae&form=BGABWCTA7&filters=HpDate:\"20250724_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250723",
       "fullstartdate": "202507230300",
       "enddate": "20250724",
