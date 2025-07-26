@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507252300",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_EN-GB9365511986_UHD.jpg",
+      "copyrighttext": "© Boonchet Ch./Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=International+Day+for+the+Conservation+of+the+Mangrove+Ecosystem&form=BGALM&filters=HpDate:\"20250725_2300\"",
+      "title": "Mangrove trees, Walakiri Beach, island of Sumba, Indonesia",
+      "description": "As twilight descends on Walakiri Beach on the island of Sumba, Indonesia, the silhouettes of mangrove trees stand like sentinels in the tide—graceful, resilient and vital. Today, on International Day for the Conservation of the Mangrove Ecosystem, we honour these extraordinary trees and the critical role they play in sustaining life on our planet.",
+      "headline": "Sentinels of the tide",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_MangroveTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-9.666667,120/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-9.666667,120;S9;Sumba, Indonesia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=island%20of%20Sumba%2C%20Indonesia&satid=id.sid%3A6c565f4f-40c4-a7b3-e1e4-90405883fbaa&vdpid=8691064532354727937&mb=-8.853437~118.49762~-10.477935~121.50238&cardbg=rgb%28249%2C135%2C69%29&dt=1750071600000&tt=Sumba%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253Disland%252520of%252520Sumba%25252C%252520Indonesia%2526satid%253Did.sid%25253A6c565f4f-40c4-a7b3-e1e4-90405883fbaa%2526vdpid%253D8691064532354727937%2526mb%253D-8.853437~118.49762~-10.477935~121.50238%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529%2526dt%253D1750071600000&tstt0=Sumba%2C%20Indonesia&cp=-6.960532~111.069907&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Walakiri+Beach%2c+island+of+Sumba%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Walakiri Beach, island of Sumba, Indonesia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Walakiri+Beach%2c+island+of+Sumba%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507242300",
       "enddate": "20250725",

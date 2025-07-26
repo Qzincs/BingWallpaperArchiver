@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507252200",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_DE-DE5475424156_UHD.jpg",
+      "copyrighttext": "© Boonchet Ch./Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+zur+Erhaltung+des+Mangroven-%c3%96kosystems&form=BGALM&filters=HpDate:\"20250725_2200\"",
+      "title": "Mangrovenbäume bei Dämmerung, Walakiri Beach auf der Insel Sumba, Indonesien",
+      "description": "Heute feiern wir den Internationalen Tag zur Erhaltung des Mangroven-Ökosystems, der 2016 von der UNESCO ins Leben gerufen wurde, um auf die immense Bedeutung dieser artenreichen Lebensräume aufmerksam zu machen. Mangroven, wie jene auf unserem heutigen Bild am Strand der indonesischen Insel Sumba, sind tropische Bäume und Sträucher, die in Küstenregionen wachsen und eine entscheidende Rolle im globalen Klimaschutz spielen. Diese außergewöhnlichen Überlebenskünstler binden große Mengen CO₂, schützen Küsten vor Erosion und Sturmfluten und bieten Lebensraum für zahlreiche Tierarten wie Fische, Krabben und Vögel. Leider sind Mangroven stark bedroht – durch Bebauung, Verschmutzung und steigende Meeresspiegel. Organisationen wie der WWF oder die Deutsche Meeresstiftung engagieren sich aktiv für ihren Erhalt, doch wir alle können zu ihrem Schutz beitragen, indem wir auf nachhaltige Produkte achten oder Aufforstungsprojekte unterstützen.",
+      "headline": "Helden der Tropen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_MangroveTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-9.666667,120/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-9.666667,120;S9;Sumba, Indonesien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=island%20of%20Sumba%2C%20Indonesia&satid=id.sid%3A6c565f4f-40c4-a7b3-e1e4-90405883fbaa&vdpid=8691064532354727937&mb=-8.853437~118.49762~-10.477935~121.50238&cardbg=rgb%28249%2C135%2C69%29&dt=1750071600000&tt=Sumba%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253Disland%252520of%252520Sumba%25252C%252520Indonesia%2526satid%253Did.sid%25253A6c565f4f-40c4-a7b3-e1e4-90405883fbaa%2526vdpid%253D8691064532354727937%2526mb%253D-8.853437~118.49762~-10.477935~121.50238%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529%2526dt%253D1750071600000&tstt0=Sumba%2C%20Indonesia&cp=-6.960532~111.069907&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "26. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Walakiri+Beach+auf+der+Insel+Sumba%2c+Indonesien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Walakiri Beach auf der Insel Sumba, Indonesien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Walakiri+Beach+auf+der+Insel+Sumba%2c+Indonesien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507242200",
       "enddate": "20250725",

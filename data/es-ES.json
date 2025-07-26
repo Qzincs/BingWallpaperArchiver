@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507252200",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_ES-ES3269515440_UHD.jpg",
+      "copyrighttext": "© Marco Bottigelli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Las+Palmas+de+Gran+Canaria&form=BGALM&filters=HpDate:\"20250725_2200\"",
+      "title": "Vista aérea de casas coloridas, Las Palmas de Gran Canaria, España",
+      "description": "Si este verano buscas un destino lleno de historia, color y buen clima, Las Palmas de Gran Canaria te espera. Capital de Gran Canaria y ciudad más poblada del archipiélago, combina el encanto canario con la energía de una ciudad portuaria abierta al mundo.",
+      "headline": "Opciones como colores",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_LasPalmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Las+Palmas+de+Gran+Canaria&form=BGABWCTA7&filters=HpDate:\"20250725_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507242200",
       "enddate": "20250725",

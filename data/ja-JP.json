@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507251500",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_JA-JP9462938836_UHD.jpg",
+      "copyrighttext": "© Boonchet Ch./Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b9%e3%83%b3%e3%83%90%e5%b3%b6%e3%81%ae%e3%83%af%e3%83%a9%e3%82%ad%e3%83%aa%e6%b5%b7%e5%b2%b8&form=BGALM&filters=HpDate:\"20250725_1500\"",
+      "title": "マングローブのシルエットと夕陽, インドネシア",
+      "description": "今日 7 月 26 日は、国際マングローブの日。海水と淡水が交わる沿岸に根を張るマングローブは、天然の防波堤として浸食や高潮を防ぐほか、魚や甲殻類などの隠れ家になるなど、重要な役割を担っています。しかし近年では、都市開発や汚染、海面上昇の影響により、マングローブ林は急速に失われつつあります…",
+      "headline": "今日は国際マングローブの日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_MangroveTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-9.666667,120/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-9.666667,120;S9;スンバ島, インドネシア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=island%20of%20Sumba%2C%20Indonesia&satid=id.sid%3A6c565f4f-40c4-a7b3-e1e4-90405883fbaa&vdpid=8691064532354727937&mb=-8.853437~118.49762~-10.477935~121.50238&cardbg=rgb%28249%2C135%2C69%29&dt=1750071600000&tt=Sumba%2C%20Indonesia&tsts0=%2526ty%253D30%2526q%253Disland%252520of%252520Sumba%25252C%252520Indonesia%2526satid%253Did.sid%25253A6c565f4f-40c4-a7b3-e1e4-90405883fbaa%2526vdpid%253D8691064532354727937%2526mb%253D-8.853437~118.49762~-10.477935~121.50238%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529%2526dt%253D1750071600000&tstt0=Sumba%2C%20Indonesia&cp=-6.960532~111.069907&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 26 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " インドネシア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%83%b3%e3%83%89%e3%83%8d%e3%82%b7%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507241500",
       "enddate": "20250725",

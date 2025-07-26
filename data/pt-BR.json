@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507250300",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_PT-BR7218640401_UHD.jpg",
+      "copyrighttext": "© Marco Bottigelli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palmas+da+Gr%c3%a3-Can%c3%a1ria&form=BGALM&filters=HpDate:\"20250725_0300\"",
+      "title": "Vista aérea das casas coloridas em Palmas da Grã-Canária, Espanha",
+      "description": "Se você deseja explorar paisagens distantes, conheça Palmas da Grã-Canária, destaque da nossa imagem de hoje. Esta cidade vibrante é a mais populosa das Ilhas Canárias, um arquipélago de origem vulcânica pertencente à Espanha. Localizada na costa nordeste da ilha, Palmas abriga mais de 380 mil habitantes e é um importante porto atlântico.",
+      "headline": "Tela da vida",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250725_LasPalmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Palmas+da+Gr%c3%a3-Can%c3%a1ria&form=BGABWCTA7&filters=HpDate:\"20250725_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507240300",
       "enddate": "20250725",

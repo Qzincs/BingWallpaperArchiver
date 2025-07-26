@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507251600",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_ZH-CN3596666263_UHD.jpg",
+      "copyrighttext": "© Boonchet Ch./Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%bf%9d%e6%8a%a4%e7%ba%a2%e6%a0%91%e6%9e%97%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f%e5%9b%bd%e9%99%85%e6%97%a5&form=BGALM&filters=HpDate:\"20250725_1600\"",
+      "title": "黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚",
+      "description": "当暮色降临印度尼西亚松巴岛的瓦拉基里海滩时，红树林的剪影宛如潮汐中的哨兵般矗立，既优雅又坚韧，充满生命力。今天是国际红树林生态系统保护日，让我们向这些在维系地球生命中发挥至关重要作用的非凡树木致以敬意。",
+      "headline": "潮汐的守护者",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_MangroveTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 7月 26",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%bf%9d%e6%8a%a4%e7%ba%a2%e6%a0%91%e6%9e%97%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f%e5%9b%bd%e9%99%85%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250725_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507241600",
       "enddate": "20250725",

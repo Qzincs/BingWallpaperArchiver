@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250725",
+      "fullstartdate": "202507250700",
+      "enddate": "20250726",
+      "urlbase": "https://www.bing.com/th?id=OHR.LasPalmas_ROW4505111661_UHD.jpg",
+      "copyrighttext": "© Marco Bottigelli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Las+Palmas+de+Gran+Canaria&form=BGALM&filters=HpDate:\"20250725_0700\"",
+      "title": "Aerial view of colourful houses, Las Palmas de Gran Canaria, Spain",
+      "description": "If you're eager to explore faraway landscapes this summer, let us take you to Las Palmas de Gran Canaria. This vibrant city is one of the capitals and the most populous city in the Canary Islands, an archipelago belonging to Spain. Located on the northeastern coast of the island of Gran Canaria, Las Palmas is home to over 380,000 people and serves as a major port and commercial hub in the Atlantic. The city's distinctive palette of painted buildings—seen here from above—adds striking colour to neighbourhoods like Risco de San Juan, where homes are built into the hillsides. Founded in 1478, Las Palmas has a layered history shaped by Spanish colonisation, maritime trade and migration. Today, it is known for its subtropical desert climate—with average temperatures ranging from approximately 16°C in winter to 27°C in summer—and for Las Canteras Beach, one of the best urban beaches in Europe.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250725_LasPalmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Las+Palmas+de+Gran+Canaria&form=BGABWCTA7&filters=HpDate:\"20250725_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250724",
       "fullstartdate": "202507240700",
       "enddate": "20250725",
