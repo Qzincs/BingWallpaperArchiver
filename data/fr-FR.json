@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250726",
+      "fullstartdate": "202507262200",
+      "enddate": "20250727",
+      "urlbase": "https://www.bing.com/th?id=OHR.TourFrance_FR-FR5942543577_UHD.jpg",
+      "copyrighttext": "© Kiran Ridley/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Tour+de+France+2025&form=BGALM&filters=HpDate:\"20250726_2200\"",
+      "title": "Le peloton du Tour de France 2019, Arc de Triomphe du Tour de France, Paris",
+      "description": "Aujourd’hui, Paris s’apprête à vivre une arrivée de légende. Cette 21e étape ne marque pas seulement la fin du Tour : elle célèbre aussi les 50 ans de la première arrivée sur les Champs-Élysées, en 1975. Depuis un demi-siècle, le peloton boucle son épopée estivale entre les pavés et les acclamations, dans l’ombre dorée de l’Arc de Triomphe.",
+      "headline": "Paris, point final du Tour",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250727_TourFrance\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.873825,2.295026/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.873825,2.295026;S9;Arc de Triomphe, Paris&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=arc%20de%20triomphe&ss=ypid.YN2000x18174703802019270958&mb=48.879654~2.284985~48.867982~2.305069&description=PL%20Charles%20de%20Gaulle%2C%2075008%20Paris&cardbg=%23219AB6&dt=1751558400000&tt=Arc%20de%20Triomphe&tsts0=%2526ty%253D18%2526q%253Darc%252520de%252520triomphe%2526ss%253Dypid.YN2000x18174703802019270958%2526mb%253D48.879654~2.284985~48.867982~2.305069%2526description%253DPL%252520Charles%252520de%252520Gaulle%25252C%25252075008%252520Paris%2526cardbg%253D%252523219AB6%2526dt%253D1751558400000&tstt0=Arc%20de%20Triomphe&cp=48.873819~2.284555&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Arc+de+Triomphe+du+Tour+de+France%2c+Paris&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Arc de Triomphe du Tour de France, Paris"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Arc+de+Triomphe+du+Tour+de+France%2c+Paris&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250725",
       "fullstartdate": "202507252200",
       "enddate": "20250726",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250726",
+      "fullstartdate": "202507260300",
+      "enddate": "20250727",
+      "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_PT-BR1374948765_UHD.jpg",
+      "copyrighttext": "© Boonchet Ch./Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+de+Prote%c3%a7%c3%a3o+aos+Manguezais&form=BGALM&filters=HpDate:\"20250726_0300\"",
+      "title": "Manguezais ao entardecer, Praia de Walakiri, ilha de Sumba, Indonésia",
+      "description": "À medida que o crepúsculo desce sobre a Praia de Walakiri, na ilha de Sumba, na Indonésia, as silhuetas dos mangues se erguem como sentinelas da maré — graciosas, resilientes e vitais, ilustrando nossa imagem do dia. Hoje, no Dia Mundial de Proteção aos Manguezais, celebramos essas árvores extraordinárias e o papel essencial que desempenham na sustentação da vida no planeta.",
+      "headline": "Sentinelas da maré",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_MangroveTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Mundial+de+Prote%c3%a7%c3%a3o+aos+Manguezais&form=BGABWCTA7&filters=HpDate:\"20250726_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250725",
       "fullstartdate": "202507250300",
       "enddate": "20250726",

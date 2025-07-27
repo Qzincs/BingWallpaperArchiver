@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250726",
+      "fullstartdate": "202507260700",
+      "enddate": "20250727",
+      "urlbase": "https://www.bing.com/th?id=OHR.MangroveTwilight_ROW4626130443_UHD.jpg",
+      "copyrighttext": "© Boonchet Ch./Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mangrove&form=BGALM&filters=HpDate:\"20250726_0700\"",
+      "title": "Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia",
+      "description": "As twilight descends on Walakiri Beach on the island of Sumba, Indonesia, the silhouettes of mangrove trees stand like sentinels in the tide—graceful, resilient and vital. Mangroves are nature's coastal guardians. With their arching and salt-filtering roots, they thrive where few trees can—anchored in brackish water, enduring tides and shifting sands. They protect shorelines from erosion, buffer communities against storms and serve as nurseries for countless marine animals. Their tangled root systems not only stabilise sediment but also provide shelter for juvenile fish, crabs and birds.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250726_MangroveTwilight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mangrove&form=BGABWCTA7&filters=HpDate:\"20250726_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250725",
       "fullstartdate": "202507250700",
       "enddate": "20250726",

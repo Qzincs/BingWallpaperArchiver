@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250726",
+      "fullstartdate": "202507262200",
+      "enddate": "20250727",
+      "urlbase": "https://www.bing.com/th?id=OHR.CaltagironeSicilia_IT-IT1493069823_UHD.jpg",
+      "copyrighttext": "© Javier Cosio/iStock",
+      "copyrightlink": "https://www.bing.com/search?q=Caltagirone+comune+italiano&form=BGALM&filters=HpDate:\"20250726_2200\"",
+      "title": "Cattedrale di San Giuliano, Caltagirone, Catania, Sicilia",
+      "description": "In alto, tra i tetti cotti dal sole e il respiro lento d’agosto, si erge la Cattedrale di San Giuliano. Maestosa e silenziosa, veglia sulla città con lo stesso sguardo di sempre: paziente, eterno, accogliente. Le sue origini risalgono al cuore del XIII secolo, quando la pietra si faceva preghiera e il tempo aveva il passo lento della devozione. Da allora, ha attraversato secoli e stagioni, rinascendo ogni volta con la stessa grazia. Vi trovate lì, sotto il cielo terso, mentre la pietra riflette i bagliori d’ambra e le campane sembrano raccontare storie d’altri tempi. Ogni gradino, ogni cornice, ogni ombra posata sui muri vi parla di fede, di arte, di una Sicilia che non ha fretta. Camminate piano, lasciate che il tempo si dilati come la luce tra le navate. E scoprite, forse senza volerlo, che anche il silenzio ha un suono, ed è quello della meraviglia. A Caltagirone, tra il cielo d’estate e l’anima di pietra, non si passa: si resta.",
+      "headline": "Pietre, Silenzio e Pace",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250727_CaltagironeSicilia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.237301,14.512896/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.237301,14.512896;S9;Cattedrale di San Giuliano, Caltagirone, Sicilia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Cattedrale%20di%20San%20Giuliano%2C%20Caltagirone&ss=ypid.YN1354x2486876578504748761&mb=37.242389~14.501052~37.232208~14.524741&description=Piazza%20Umberto%20I%20-%2095041%20Caltagirone%20%28CT%29%C2%B7Chiesa%2Fcattedrale&cardbg=%2388979C&dt=1751371200000&tt=Cattedrale%20di%20San%20Giuliano&tsts1=%2526ty%253D18%2526q%253DCattedrale%252520di%252520San%252520Giuliano%25252C%252520Caltagirone%2526ss%253Dypid.YN1354x2486876578504748761%2526mb%253D37.242389~14.501052~37.232208~14.524741%2526description%253DPiazza%252520Umberto%252520I%252520-%25252095041%252520Caltagirone%252520%252528CT%252529%2525C2%2525B7Chiesa%25252Fcattedrale%2526cardbg%253D%25252388979C%2526dt%253D1751371200000&tstt1=Cattedrale%20di%20San%20Giuliano&cp=37.23436~14.507682&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 luglio 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Caltagirone%2c+Catania%2c+Sicilia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Caltagirone, Catania, Sicilia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Caltagirone%2c+Catania%2c+Sicilia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250725",
       "fullstartdate": "202507252200",
       "enddate": "20250726",

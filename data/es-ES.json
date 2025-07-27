@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250726",
+      "fullstartdate": "202507262200",
+      "enddate": "20250727",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlackfinBarracuda_ES-ES3397140891_UHD.jpg",
+      "copyrighttext": "© Alex Mustard/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Ras+Mohammed%2c+Pen%c3%adnsula+del+Sina%c3%ad&form=BGALM&filters=HpDate:\"20250726_2200\"",
+      "title": "Cardumen de barracudas, Parque Nacional Ras Mohammed, Península del Sinaí, Egipto",
+      "description": "En el extremo sur del Sinaí, Egipto, se encuentra el Parque Nacional Ras Mohammed, un lugar único donde la vida marina se despliega con asombrosa belleza. Estos peces estilizados giran en espirales perfectamente coordinadas, no por azar, sino como estrategia para protegerse y cazar en grupo.",
+      "headline": "Brilla en sincronía",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250727_BlackfinBarracuda\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Ras+Mohammed%2c+Pen%c3%adnsula+del+Sina%c3%ad&form=BGABWCTA7&filters=HpDate:\"20250726_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250725",
       "fullstartdate": "202507252200",
       "enddate": "20250726",
