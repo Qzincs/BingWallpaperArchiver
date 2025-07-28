@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250727",
+      "fullstartdate": "202507270300",
+      "enddate": "20250728",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlackfinBarracuda_PT-BR7423945711_UHD.jpg",
+      "copyrighttext": "© Alex Mustard/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Ras+Mohammed%2c+Pen%c3%adnsula+do+Sinai%2c+Egito&form=BGALM&filters=HpDate:\"20250727_0300\"",
+      "title": "Cardume de barracudas-de-barbatana-preta, Shark Reef, Parque Nacional Ras Mohammed, Península do Sinai, Egito",
+      "description": "Na imagem de hoje, nos vemos diante de uma espiral prateada e cintilante — um cardume de barracuda-de-barbatana-preta no Parque Nacional Ras Mohammed, no Egito. Esses peixes hidrodinâmicos, marcados por listras em forma de “V”, nadam em sincronia quase perfeita. Seus movimentos lentos e calculados não são aleatórios — são uma estratégia evolutiva que garante proteção em grupo e eficiência na caça.",
+      "headline": "Brilho em sincronia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250727_BlackfinBarracuda\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Ras+Mohammed%2c+Pen%c3%adnsula+do+Sinai%2c+Egito&form=BGABWCTA7&filters=HpDate:\"20250727_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250726",
       "fullstartdate": "202507260300",
       "enddate": "20250727",

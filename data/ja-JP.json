@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250727",
+      "fullstartdate": "202507271500",
+      "enddate": "20250728",
+      "urlbase": "https://www.bing.com/th?id=OHR.MongoliaYurts_JA-JP0052773408_UHD.jpg",
+      "copyrighttext": "© Michel Arnault/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b4%e3%83%ab%e5%9b%bd%e3%81%ae%e8%8d%89%e5%8e%9f&form=BGALM&filters=HpDate:\"20250727_1500\"",
+      "title": "大草原に佇むゲル,  モンゴル国",
+      "description": "今日、7 月 28 日は世界自然保護デー。そして画像は、地球上で最大級の温帯草原のひとつであるモンゴル国の大草原です。100 万 km² 以上にも及ぶこの大地は、約 20 万の遊牧民の暮らしを支えるとともに、モウコガゼルやユキヒョウなど希少な野生動物の棲みかにもなっています…",
+      "headline": "今日は世界自然保護デー",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250728_MongoliaYurts\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46,105/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46,105;S9;モンゴル国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=grassland%20Mongolia&vdpid=154&mb=53.042706~87.734573~40.470797~119.93222&cardbg=%23F98745&dt=1750064400000&tt=Mongolia&tsts0=%2526ty%253D30%2526q%253Dgrassland%252520Mongolia%2526vdpid%253D154%2526mb%253D53.042706~87.734573~40.470797~119.93222%2526cardbg%253D%252523F98745%2526dt%253D1750064400000&tstt0=Mongolia&cp=46.440115~97.082131&lvl=4.839163&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 28 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%a2%e3%83%b3%e3%82%b4%e3%83%ab%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "  モンゴル国 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=++%e3%83%a2%e3%83%b3%e3%82%b4%e3%83%ab%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250726",
       "fullstartdate": "202507261500",
       "enddate": "20250727",

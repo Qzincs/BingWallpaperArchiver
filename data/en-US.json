@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250727",
+      "fullstartdate": "202507270700",
+      "enddate": "20250728",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlackfinBarracuda_EN-US1227116811_UHD.jpg",
+      "copyrighttext": "© Alex Mustard/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Ras+Mohammed+National+Park&form=BGALM&filters=HpDate:\"20250727_0700\"",
+      "title": "School of blackfin barracuda, Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt",
+      "description": "Being surrounded by a shimmering spiral of silver—that's what it feels like to encounter a school of blackfin barracuda at Shark Reef in Ras Mohammed National Park, Egypt. These streamlined fish, marked by sharp V-shaped stripes, move in near-perfect unison. Their slow, deliberate spirals aren't random—they're an evolutionary strategy that offers both safety in numbers and an edge in hunting. Blackfin barracudas are found throughout tropical waters, from the Red Sea to the central Pacific. During the day, they gather in tight, coordinated groups near the reef, scattering at dusk to pursue prey.",
+      "headline": "Shimmer in sync",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250727_BlackfinBarracuda\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/29.5,33.83333/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=29.5,33.83333;S9;Sinai Peninsula&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Sinai%2C%20Egypt&satid=id.sid%3Afc97f6c9-08aa-b46e-2d86-3f2beed2575b&vdpid=7273341633268023297&mb=31.323271~30.149925~27.646036~37.515193&cardbg=%23F98745&dt=1750064400000&tt=Sinai%20Peninsula%2C%20Egypt&tsts0=%2526ty%253D30%2526q%253DSinai%25252C%252520Egypt%2526satid%253Did.sid%25253Afc97f6c9-08aa-b46e-2d86-3f2beed2575b%2526vdpid%253D7273341633268023297%2526mb%253D31.323271~30.149925~27.646036~37.515193%2526cardbg%253D%252523F98745%2526dt%253D1750064400000&tstt0=Sinai%20Peninsula%2C%20Egypt&cp=29.448445~33.032122&lvl=8.109384&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Shark+Reef%2c+Ras+Mohammed+National+Park%2c+Sinai+Peninsula%2c+Egypt&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Shark Reef, Ras Mohammed National Park, Sinai Peninsula, Egypt"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Shark+Reef%2c+Ras+Mohammed+National+Park%2c+Sinai+Peninsula%2c+Egypt&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250726",
       "fullstartdate": "202507260700",
       "enddate": "20250727",

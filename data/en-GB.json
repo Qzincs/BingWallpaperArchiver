@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250727",
+      "fullstartdate": "202507272300",
+      "enddate": "20250728",
+      "urlbase": "https://www.bing.com/th?id=OHR.MongoliaYurts_EN-GB9711987878_UHD.jpg",
+      "copyrighttext": "© Michel Arnault/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=BGALM&filters=HpDate:\"20250727_2300\"",
+      "title": "Yurts in the grassland of Mongolia",
+      "description": "Every July 28, World Nature Conservation Day reminds us that protecting nature isn't optional—it's essential. Mongolia's vast grasslands, featured today, are a powerful example. These ecosystems are among the largest intact temperate grasslands on Earth, stretching across millions of acres of open steppe. They support around 200,000 nomadic herder families and provide habitat for rare species like the Mongolian gazelle and snow leopard.",
+      "headline": "A steppe ahead",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250728_MongoliaYurts\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.393876,102.725472/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=46.393876,102.725472;S9;Mongolia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=grassland%20Mongolia&vdpid=154&mb=53.042706~87.734573~40.470797~119.93222&cardbg=%23F98745&dt=1750064400000&tt=Mongolia&tsts0=%2526ty%253D30%2526q%253Dgrassland%252520Mongolia%2526vdpid%253D154%2526mb%253D53.042706~87.734573~40.470797~119.93222%2526cardbg%253D%252523F98745%2526dt%253D1750064400000&tstt0=Mongolia&cp=46.440115~97.082131&lvl=4.839163&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 28, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=BGABWCTA7&filters=HpDate:\"20250727_2300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250726",
       "fullstartdate": "202507262300",
       "enddate": "20250727",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250727",
+      "fullstartdate": "202507272200",
+      "enddate": "20250728",
+      "urlbase": "https://www.bing.com/th?id=OHR.MongoliaYurts_DE-DE5983216675_UHD.jpg",
+      "copyrighttext": "© Michel Arnault/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Welttag+des+Naturschutzes&form=BGALM&filters=HpDate:\"20250727_2200\"",
+      "title": "Jurten in der mongolischen Steppe",
+      "description": "Jedes Jahr am 28. Juli findet der Welttag des Naturschutzes statt. Dieser Tag steht ganz im Zeichen des aktiven Erhalts unseres natürlichen Lebensraums und seiner wertvollen Ressourcen. Ein eindrucksvolles Beispiel sind die Graslandschaften der Mongolei, die auf unserem heutigen Bild zu sehen sind. Sie gehören zu den letzten großen, intakten Steppenregionen der Erde. Hier leben etwa 200.000 Nomadenfamilien im Einklang mit der Natur, während seltene Tierarten wie die Mongolische Gazelle und der Schneeleopard in dieser weiten Landschaft ein Zuhause finden.",
+      "headline": "Im Einklang mit der Natur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250728_MongoliaYurts\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.393876,102.725472/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=46.393876,102.725472;S9;Mongolei&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=grassland%20Mongolia&vdpid=154&mb=53.042706~87.734573~40.470797~119.93222&cardbg=%23F98745&dt=1750064400000&tt=Mongolia&tsts0=%2526ty%253D30%2526q%253Dgrassland%252520Mongolia%2526vdpid%253D154%2526mb%253D53.042706~87.734573~40.470797~119.93222%2526cardbg%253D%252523F98745%2526dt%253D1750064400000&tstt0=Mongolia&cp=46.440115~97.082131&lvl=4.839163&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Welttag+des+Naturschutzes&form=BGABWCTA7&filters=HpDate:\"20250727_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250726",
       "fullstartdate": "202507262200",
       "enddate": "20250727",
