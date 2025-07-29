@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250728",
+      "fullstartdate": "202507280300",
+      "enddate": "20250729",
+      "urlbase": "https://www.bing.com/th?id=OHR.MongoliaYurts_PT-BR1789497655_UHD.jpg",
+      "copyrighttext": "© Michel Arnault/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Conserva%c3%a7%c3%a3o+da+Natureza&form=BGALM&filters=HpDate:\"20250728_0300\"",
+      "title": "Yurts nas planícies da Mongólia",
+      "description": "Todo dia 28 de julho, o Dia Mundial da Conservação da Natureza nos lembra que proteger o meio ambiente não é uma opção — é essencial. As vastas pastagens da Mongólia, destaque da imagem de hoje, são um exemplo poderoso. Esses ecossistemas estão entre as maiores pradarias temperadas contínuas do planeta, cobrindo milhões de hectares de estepe aberta.",
+      "headline": "Conservar é viver",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250728_MongoliaYurts\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Mundial+da+Conserva%c3%a7%c3%a3o+da+Natureza&form=BGABWCTA7&filters=HpDate:\"20250728_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250727",
       "fullstartdate": "202507270300",
       "enddate": "20250728",

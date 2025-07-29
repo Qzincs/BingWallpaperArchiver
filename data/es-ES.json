@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250728",
+      "fullstartdate": "202507282200",
+      "enddate": "20250729",
+      "urlbase": "https://www.bing.com/th?id=OHR.TigerDay_ES-ES3628698464_UHD.jpg",
+      "copyrighttext": "© Axel Gomille/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Tigre+de+Bengala&form=BGALM&filters=HpDate:\"20250728_2200\"",
+      "title": "Tigre de Bengala hembra, Parque Nacional Kanha, India",
+      "description": "¿Has sentido alguna vez el silencio de la selva? En el Parque Nacional de Kanha, en el corazón de la India, sentarse en un jeep mientras se espera ver al tigre de Bengala es una experiencia inolvidable. Cada 29 de julio, el Día Internacional del Tigre recuerda la importancia de proteger a esta especie en peligro de extinción.",
+      "headline": "La reina de la selva",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250729_TigerDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 de jul. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Tigre+de+Bengala&form=BGABWCTA7&filters=HpDate:\"20250728_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250727",
       "fullstartdate": "202507272200",
       "enddate": "20250728",
