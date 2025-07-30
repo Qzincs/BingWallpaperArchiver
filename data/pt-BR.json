@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250729",
+      "fullstartdate": "202507290300",
+      "enddate": "20250730",
+      "urlbase": "https://www.bing.com/th?id=OHR.TigerDay_PT-BR9994663817_UHD.jpg",
+      "copyrighttext": "© Axel Gomille/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+do+Tigre&form=BGALM&filters=HpDate:\"20250729_0300\"",
+      "title": "Tigre-de-bengala fêmea, Parque Nacional de Kanha, Índia",
+      "description": "No coração da Índia, o Parque Nacional de Kanha guarda um dos maiores tesouros da vida selvagem: o tigre-de-bengala, nossa imagem do dia. Com sua pelagem alaranjada e listras marcantes, ele é mais do que um ícone — é peça-chave no equilíbrio ecológico. O Dia Internacional do Tigre, celebrado em 29 de julho, reforça a urgência de proteger essa espécie. Kanha, criado em 1955 e pioneiro no Projeto Tigre de 1973, é um exemplo de sucesso na conservação. Lá, os tigres regulam populações de presas e ajudam a manter a biodiversidade.",
+      "headline": "A rainha da selva",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250729_TigerDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Internacional+do+Tigre&form=BGABWCTA7&filters=HpDate:\"20250729_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250728",
       "fullstartdate": "202507280300",
       "enddate": "20250729",

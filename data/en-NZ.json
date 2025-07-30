@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250729",
+      "fullstartdate": "202507290700",
+      "enddate": "20250730",
+      "urlbase": "https://www.bing.com/th?id=OHR.TigerDay_ROW4927777950_UHD.jpg",
+      "copyrighttext": "© Axel Gomille/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Bengal+tiger&form=BGALM&filters=HpDate:\"20250729_0700\"",
+      "title": "Female Bengal tiger, Kanha National Park, India",
+      "description": "Think you can hear silence? Try sitting in a jeep in Kanha National Park in the heart of India, waiting for a Bengal tiger to appear. These cats are more than their unmistakable orange coats and black stripes. They are apex predators, essential to the health and balance of the ecosystems they inhabit. By keeping prey populations like deer and wild boar in check, tigers help shape vegetation patterns and support the overall biodiversity of their environments.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250729_TigerDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bengal+tiger&form=BGABWCTA7&filters=HpDate:\"20250729_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250728",
       "fullstartdate": "202507280700",
       "enddate": "20250729",

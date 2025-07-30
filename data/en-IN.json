@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250729",
+      "fullstartdate": "202507291830",
+      "enddate": "20250730",
+      "urlbase": "https://www.bing.com/th?id=OHR.AgraFortInside_EN-IN8393128269_UHD.jpg",
+      "copyrighttext": "© Luke Mackenzie/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Agra+Fort&form=BGALM&filters=HpDate:\"20250729_1830\"",
+      "title": "Inside Agra Fort, Agra, Uttar Pradesh",
+      "description": "Picture yourself stepping into a red sandstone giant that clings to the Yamuna's banks—a world where Mughal majesty unfolds in every arch and courtyard. Spanning less than half a square kilometre in a semi-circular embrace, Agra Fort is a sprawling storybook of Mughal brilliance. It was here in 1530 that Mughal emperor Humayun was crowned, setting the stage for a dynasty that would shape Indian history, architecture and politics. Years later, Akbar began its grand transformation in 1565, and by 1573, the fort had taken on the form we see today. Walk past mammoth gates and into a world where Islamic, Persian and Hindu architecture blend seamlessly in every arch, dome and courtyard. From the public court of Diwan-e-Aam to the elegance of Diwan-e-Khas, from the Musamman Burj to intricately designed palaces and gardens, every corner speaks of power and poetic artistry. A walk here is a time-travel ticket into an empire of red walls, royal whispers and artistic opulence. Ready to step in?",
+      "headline": "Thrones, tales and turrets",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250730_AgraFortInside\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/27.179543,78.021103/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=27.179543,78.021103;S9;Agra Fort, Agra, Uttar Pradesh&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Agra%20Fort&ss=ypid.YN4070x12276987995970608785&segment=Attraction&mb=27.185736~78.013605~27.173348~78.028604&description=Rakabganj%2C%20Agra%2C%20Uttar%20Pradesh%20282003&poicount=18&cardbg=%23219AB6&dt=1751293800000&tt=Agra%20Fort&tsts0=%2526ty%253D18%2526q%253DAgra%252520Fort%2526ss%253Dypid.YN4070x12276987995970608785%2526segment%253DAttraction%2526mb%253D27.185736~78.013605~27.173348~78.028604%2526description%253DRakabganj%25252C%252520Agra%25252C%252520Uttar%252520Pradesh%252520282003%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1751293800000&tstt0=Agra%20Fort&cp=25.808645~70.366717&lvl=5.9201574&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Agra%2c+Uttar+Pradesh&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Agra, Uttar Pradesh"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Agra%2c+Uttar+Pradesh&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250728",
       "fullstartdate": "202507281830",
       "enddate": "20250729",

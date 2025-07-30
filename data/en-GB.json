@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250729",
+      "fullstartdate": "202507292300",
+      "enddate": "20250730",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_105344202",
+      "copyrighttext": "© RooM The Agency/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Magna%2c+Dorset%2c+England%2c+UK&form=BGALM",
+      "title": "Magna, Dorset, England, UK",
+      "description": "Bluebells in the countryside, minterne Magna, Dorset, England, UK",
+      "headline": "Magna, Dorset, England, UK",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Dorset%2C%20England%2C%20UK&satid=id.sid%3A248ebd80-8904-8a43-be23-3cd065a30350&vdpid=39104&mb=51.117444~-2.961605~50.475942~-1.790612&cardbg=%23F98745&dt=1737666000000&tt=Dorset%2C%20England%2C%20United%20Kingdom&tsts5=%2526ty%253D30%2526q%253DDorset%25252C%252520England%25252C%252520UK%2526satid%253Did.sid%25253A248ebd80-8904-8a43-be23-3cd065a30350%2526vdpid%253D39104%2526mb%253D51.117444~-2.961605~50.475942~-1.790612%2526cardbg%253D%252523F98745%2526dt%253D1737666000000&tstt5=Dorset%2C%20England%2C%20United%20Kingdom&cp=50.797448~-2.66733&lvl=10.227016&pi=0&ftst=5&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Magna%2c+Dorset%2c+England%2c+UK&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Dorset, England, UK"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Dorset%2c+England%2c+UK&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250728",
       "fullstartdate": "202507282300",
       "enddate": "20250729",
