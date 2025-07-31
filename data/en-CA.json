@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250730",
+      "fullstartdate": "202507300400",
+      "enddate": "20250731",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_114834800",
+      "copyrighttext": "© feathercollector/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Queen+Elizabeth+National+Park%2c+Uganda&form=BGALM",
+      "title": "Queen Elizabeth National Park, Uganda",
+      "description": "Malachite Kingfisher (Corythornis cristatus) in Queen Elizabeth National Park, Uganda",
+      "headline": "Queen Elizabeth National Park, Uganda",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Queen%20Elizabeth%20National%20Park%2C%20Uganda&satid=id.sid%3A88a71c34-e0ce-050f-c4a6-bf2a79e10eeb&vdpid=7340288187803107329&mb=0.227047~29.426517~-0.728898~30.529469&cardbg=%23F98745&dt=1737666000000&tt=Queen%20Elizabeth%20National%20Park%2C%20Uganda&tsts6=%2526ty%253D30%2526q%253DQueen%252520Elizabeth%252520National%252520Park%25252C%252520Uganda%2526satid%253Did.sid%25253A88a71c34-e0ce-050f-c4a6-bf2a79e10eeb%2526vdpid%253D7340288187803107329%2526mb%253D0.227047~29.426517~-0.728898~30.529469%2526cardbg%253D%252523F98745%2526dt%253D1737666000000&tstt6=Queen%20Elizabeth%20National%20Park%2C%20Uganda&cp=-0.250902~29.703484&lvl=10.313379&pi=0&ftst=6&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jul. 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Queen+Elizabeth+National+Park%2c+Uganda&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Uganda"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Uganda&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250729",
       "fullstartdate": "202507290400",
       "enddate": "20250730",

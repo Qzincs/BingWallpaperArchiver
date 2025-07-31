@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250730",
+      "fullstartdate": "202507302200",
+      "enddate": "20250731",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_DE-DE7014828359_UHD.jpg",
+      "copyrighttext": "© Russ Bishop/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=Der+Kalalau+Beach+Hawaii&form=BGALM&filters=HpDate:\"20250730_2200\"",
+      "title": "Kalalau Beach an der Nā Pali Küste, Kauai, Hawaii, USA",
+      "description": "Ein Paradies am anderen Ende der Welt: Der Kalalau-Strand auf der hawaiianischen Insel Kauai, zu sehen auf unserem heutigen Bild, zählt zu den abgelegensten Stränden der Welt. Er ist ausschließlich per Boot, Kajak oder über den anspruchsvollen Kalalau Trail erreichbar. Dieser Wanderweg führt durch unberührte Regenwälder, vorbei an rauschenden Wasserfällen und eröffnet atemberaubende Ausblicke auf den Pazifik. Eingebettet in die spektakuläre Nā Pali Küste fasziniert der Strand mit seinem goldenen Sand, türkisfarbenem Wasser und den steilen, grünen Klippen. Hier gibt es keine Straßenschilder oder Souvenirstände – nur 18 Kilometer reine, unberührte Natur. Die abgeschiedene Bucht ist ein idealer Ort für Abenteurer und Naturliebhaber, die Ruhe und Ursprünglichkeit suchen. Schon vor Jahrhunderten lebten einheimische Hawaiianer in diesem Tal. Sie bauten auf Steinterrassen Taro an, eine Wurzelpflanze, die auch in tropischen Regionen wie Südostasien oder Afrika verbreitet ist.",
+      "headline": "Ein abgeschiedenes Paradies",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250731_NaPaliKauai\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.1775,-159.658615/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=22.1775,-159.658615;S9;Kalalau Beach, Kauai, Hawaii&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Kalalau%20Beach&ss=ypid.YN873x15112538289437205106&mb=22.184971~-159.673769~22.170009~-159.643471&description=HI%C2%B7Beach&cardbg=%23219AB6&dt=1750141800000&tt=Kalalau%20Beach&tsts0=%2526ty%253D18%2526q%253DKalalau%252520Beach%2526ss%253Dypid.YN873x15112538289437205106%2526mb%253D22.184971~-159.673769~22.170009~-159.643471%2526description%253DHI%2525C2%2525B7Beach%2526cardbg%253D%252523219AB6%2526dt%253D1750141800000&tstt0=Kalalau%20Beach&cp=19.554655~-158.65943&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "31. Juli. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Kauai%2c+Hawaii%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Kauai, Hawaii, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Kauai%2c+Hawaii%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250729",
       "fullstartdate": "202507292200",
       "enddate": "20250730",

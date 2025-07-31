@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250730",
+      "fullstartdate": "202507301500",
+      "enddate": "20250731",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_JA-JP1764842674_UHD.jpg",
+      "copyrighttext": "© Russ Bishop/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%8a%e3%83%bb%e3%83%91%e3%83%aa%e3%83%bb%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88&form=BGALM&filters=HpDate:\"20250730_1500\"",
+      "title": "ナ・パリ・コースト, 米国 ハワイ州",
+      "description": "ハワイ諸島の中でも「ガーデン・アイランド」と称されるカウアイ島。その北西部に広がるナ・パリ・コーストは、全長約 25km、標高差約 1,000m にも及ぶ断崖絶壁の海岸線です。切り立った崖の岩肌は濃い緑に美しく覆われ、荒々しい岩の色と眼下に広がる深い海の青とのコントラストが、訪れる人々を魅了します…",
+      "headline": "断崖絶壁の海岸線",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250731_NaPaliKauai\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.1775,-159.658615/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=22.1775,-159.658615;S9;カララウ・ビーチ, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Kalalau%20Beach&ss=ypid.YN873x15112538289437205106&mb=22.184971~-159.673769~22.170009~-159.643471&description=HI%C2%B7Beach&cardbg=%23219AB6&dt=1750141800000&tt=Kalalau%20Beach&tsts0=%2526ty%253D18%2526q%253DKalalau%252520Beach%2526ss%253Dypid.YN873x15112538289437205106%2526mb%253D22.184971~-159.673769~22.170009~-159.643471%2526description%253DHI%2525C2%2525B7Beach%2526cardbg%253D%252523219AB6%2526dt%253D1750141800000&tstt0=Kalalau%20Beach&cp=19.554655~-158.65943&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 7月 月 31 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%8f%e3%83%af%e3%82%a4%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ハワイ州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%8f%e3%83%af%e3%82%a4%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250729",
       "fullstartdate": "202507291500",
       "enddate": "20250730",

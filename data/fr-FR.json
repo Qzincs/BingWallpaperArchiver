@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250730",
+      "fullstartdate": "202507302200",
+      "enddate": "20250731",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_FR-FR8653157618_UHD.jpg",
+      "copyrighttext": "© Russ Bishop/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=Hawa%c3%af&form=BGALM&filters=HpDate:\"20250730_2200\"",
+      "title": "Plage de Kalalau sur la côte Nā Pali, Kauai, Hawaï, États-Unis",
+      "description": "À plus de 12 000 kilomètres de la France métropolitaine, l’île de Kauai, surnommée « l’île jardin », fait partie de l’archipel d’Hawaï, État américain du Pacifique. Aucune route, aucun kiosque. Juste un sentier de 18 km serpentant les falaises vertigineuses de l’île de Kauai. Au bout : la plage de Kalalau, l’une des plus isolées. Accessible uniquement à pied ou, l’été, en kayak côtier, elle récompense l’effort par un décor époustouflant mêlant forêt tropicale et sable doré.",
+      "headline": "Kalalau, entre terre sacrée et océan",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250731_NaPaliKauai\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.1775,-159.658615/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=22.1775,-159.658615;S9;Plage de Kalalau, Hawaï, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Kalalau%20Beach&ss=ypid.YN873x15112538289437205106&mb=22.184971~-159.673769~22.170009~-159.643471&description=HI%C2%B7Beach&cardbg=%23219AB6&dt=1750141800000&tt=Kalalau%20Beach&tsts0=%2526ty%253D18%2526q%253DKalalau%252520Beach%2526ss%253Dypid.YN873x15112538289437205106%2526mb%253D22.184971~-159.673769~22.170009~-159.643471%2526description%253DHI%2525C2%2525B7Beach%2526cardbg%253D%252523219AB6%2526dt%253D1750141800000&tstt0=Kalalau%20Beach&cp=19.554655~-158.65943&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "31 juil. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Kauai%2c+Hawa%c3%af%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Kauai, Hawaï, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Kauai%2c+Hawa%c3%af%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250729",
       "fullstartdate": "202507292200",
       "enddate": "20250730",
