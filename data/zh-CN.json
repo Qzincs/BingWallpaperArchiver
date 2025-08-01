@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507311600",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.EdinburghFringe_ZH-CN5243292664_UHD.jpg",
+      "copyrighttext": "© MEDITERRANEAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%88%b1%e4%b8%81%e5%a0%a1%e8%89%ba%e7%a9%97%e8%8a%82&form=BGALM&filters=HpDate:\"20250731_1600\"",
+      "title": "皇家英里大道, 爱丁堡, 苏格兰",
+      "description": "每年八月，爱丁堡就不再仅仅是一座城市，而是彻底活跃起来，几乎可以说是字面意义上的活跃。从酒吧地下室到公园长椅，舞台会在最意想不到的地方冒出来，表演也会在宁静的街道上突然出现。欢迎来到爱丁堡艺穗节。这个节日的故事始于1947年，当时有八个剧团在未受邀请的情况下出现在爱丁堡国际艺术节上，但他们依然坚持演出。这种叛逆的精神从此延续下来，艺穗节由此诞生。",
+      "headline": "惊喜随时上演",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250801_EdinburghFringe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 1",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%88%b1%e4%b8%81%e5%a0%a1%e8%89%ba%e7%a9%97%e8%8a%82&form=BGABWCTA7&filters=HpDate:\"20250731_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507301600",
       "enddate": "20250731",

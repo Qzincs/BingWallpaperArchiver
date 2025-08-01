@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507312200",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.EdinburghFringe_IT-IT8835204472_UHD.jpg",
+      "copyrighttext": "© MEDITERRANEAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Edimburgo&form=BGALM&filters=HpDate:\"20250731_2200\"",
+      "title": "Royal Mile, Edimburgo, Scozia",
+      "description": "Ogni agosto, la capitale della Scozia, Edimburgo, diventa un palcoscenico. Dai seminterrati dei pub alle panchine dei parchi, gli spettacoli sbocciano persino nelle strade più silenziose. Benvenuti all’Edinburgh Festival Fringe. Nato da un gesto di ribellione nel 1947, oggi è il più grande festival artistico del mondo: un turbine di migliaia di show concentrati in tre settimane febbrili. La comicità regna sovrana, ma accanto a lei danzano teatro, danza, drag, musical, magia, circo e tutto ciò che sfugge a ogni definizione. Ci sono performance surreali, come monologhi recitati da dentro un frigorifero o adattamenti di Shakespeare in Klingon, momenti che trasformano il palco in pura invenzione.",
+      "headline": "Scena Aperta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250801_EdinburghFringe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.95333,-3.189167/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=55.95333,-3.189167;S9;Royal Mile, Edimburgo, Scozia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Edinburgh%20Scotland&satid=id.sid%3A286af946-edea-5f33-df53-4164821c69da&vdpid=5469806147366027267&mb=56.009747~-3.377998~55.896972~-3.000281&cardbg=%23F98745&tt=Edinburgh%2C%20City%20of%20Edinburgh&tsts0=%2526ty%253D30%2526q%253DEdinburgh%252520Scotland%2526satid%253Did.sid%25253A286af946-edea-5f33-df53-4164821c69da%2526vdpid%253D5469806147366027267%2526mb%253D56.009747~-3.377998~55.896972~-3.000281%2526cardbg%253D%252523F98745&tstt0=Edinburgh%2C%20City%20of%20Edinburgh&cp=53.371115~0.423183&lvl=5.256061&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "1 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Edimburgo%2c+Scozia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Edimburgo, Scozia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Edimburgo%2c+Scozia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507302200",
       "enddate": "20250731",

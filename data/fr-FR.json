@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507312200",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg",
+      "copyrighttext": "© guy-ozenne/Getty images",
+      "copyrightlink": "https://www.bing.com/search?q=+Festival+Celtic+de+Lorient&form=BGALM&filters=HpDate:\"20250731_2200\"",
+      "title": "Costumes folkloriques bretons, Lorient, Finistère",
+      "description": "Chaque été depuis 1971, la ville de Lorient devient le port d’attache du monde celte. Le Festival Interceltique rassemble des artistes venus de Bretagne, d’Écosse, d’Irlande, du Pays de Galles, de Galice, des Asturies, de l’île de Man et de Cornouailles. Ensemble, ils célèbrent une identité plurielle, forgée dans les vents de l’Atlantique. C’est aujourd’hui l’un des plus grands festivals de musiques traditionnelles au monde, avec plus de 800 000 visiteurs chaque année.",
+      "headline": "Lorient, au rythme des peuples celtes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250801_LorientCeltic\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.74583,-3.366389/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.74583,-3.366389;S9;Lorient, Finistère&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lorient%2C%20France&satid=id.sid%3A4799fd12-ea5c-9d6d-cbe0-99e88ca836fc&vdpid=5475428261905301505&mb=47.774525~-3.444198~47.724213~-3.316078&cardbg=%23F98745&tt=Lorient%2C%2056100%2C%20Morbihan&tsts1=%2526ty%253D30%2526q%253DLorient%25252C%252520France%2526satid%253Did.sid%25253A4799fd12-ea5c-9d6d-cbe0-99e88ca836fc%2526vdpid%253D5475428261905301505%2526mb%253D47.774525~-3.444198~47.724213~-3.316078%2526cardbg%253D%252523F98745&tstt1=Lorient%2C%2056100%2C%20Morbihan&cp=47.749394~-3.40262&lvl=13.923887&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "1 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Lorient%2c+Finist%c3%a8re&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Lorient, Finistère"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Lorient%2c+Finist%c3%a8re&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507302200",
       "enddate": "20250731",

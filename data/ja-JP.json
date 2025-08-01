@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507311500",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg",
+      "copyrighttext": "© MEDITERRANEAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a8%e3%83%87%e3%82%a3%e3%83%b3%e3%83%90%e3%83%a9%e3%83%bb%e3%83%95%e3%82%a7%e3%82%b9%e3%83%86%e3%82%a3%e3%83%90%e3%83%ab%e3%83%bb%e3%83%95%e3%83%aa%e3%83%b3%e3%82%b8&form=BGALM&filters=HpDate:\"20250731_1500\"",
+      "title": "エディンバラの旧市街, スコットランド",
+      "description": "本日 8 月 1 日、スコットランドの首都エディンバラで、世界最大級の芸術の祭典であるエディンバラ・フェスティバル・フリンジが開幕します。この芸術祭は、1947 年に公式のエディンバラ国際フェスティバルに招かれなかった 8 つの劇団が街中で自主公演をを行ったことがきっかけとなり、始まりました…",
+      "headline": "今日からエディンバラ・フェスティバル・フリンジ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250801_EdinburghFringe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.95333,-3.189167/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=55.95333,-3.189167;S9;エディンバラ, スコットランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Edinburgh%20Scotland&satid=id.sid%3A286af946-edea-5f33-df53-4164821c69da&vdpid=5469806147366027267&mb=56.009747~-3.377998~55.896972~-3.000281&cardbg=%23F98745&tt=Edinburgh%2C%20City%20of%20Edinburgh&tsts0=%2526ty%253D30%2526q%253DEdinburgh%252520Scotland%2526satid%253Did.sid%25253A286af946-edea-5f33-df53-4164821c69da%2526vdpid%253D5469806147366027267%2526mb%253D56.009747~-3.377998~55.896972~-3.000281%2526cardbg%253D%252523F98745&tstt0=Edinburgh%2C%20City%20of%20Edinburgh&cp=53.371115~0.423183&lvl=5.256061&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 1 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " スコットランド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507301500",
       "enddate": "20250731",

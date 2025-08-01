@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507310300",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_PT-BR1647941765_UHD.jpg",
+      "copyrighttext": "© Russ Bishop/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=Kauai+no+Hava%c3%ad&form=BGALM&filters=HpDate:\"20250731_0300\"",
+      "title": "Praia de Kalalau na Costa Nā Pali, Kauai, Havaí, EUA",
+      "description": "Sem placas, sem barracas de lembrancinhas — apenas 18 quilômetros de lama, penhascos e vistas deslumbrantes rumo a uma das praias mais remotas do Havaí. Na ilha de Kauai, a Praia de Kalalau, que vemos na foto, é onde pés cansados encontram uma recompensa paradisíaca. O único acesso por terra é pela trilha Kalalau, uma caminhada desafiadora por vales e falésias costeiras. Durante o verão, alguns aventureiros chegam de caiaque, mas todos os visitantes precisam de autorização para permanecer no local.",
+      "headline": "Desconectado da rede",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250731_NaPaliKauai\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 jul. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kauai+no+Hava%c3%ad&form=BGABWCTA7&filters=HpDate:\"20250731_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507300300",
       "enddate": "20250731",

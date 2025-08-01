@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507312200",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.EdinburghFringe_ES-ES3946944974_UHD.jpg",
+      "copyrighttext": "© MEDITERRANEAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Festival+Fringe+de+Edimburgo&form=BGALM&filters=HpDate:\"20250731_2200\"",
+      "title": "Royal Mile, Edimburgo, Escocia",
+      "description": "Cada agosto en Escocia, Edimburgo deja de ser solo una ciudad y se convierte en un escenario sin límites. Desde sótanos de pubs hasta bancos de parques, los espectáculos surgen donde menos se espera. Bienvenidos al Festival Fringe de Edimburgo, el mayor festival de artes del mundo.",
+      "headline": "Espera lo inesperado",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250801_EdinburghFringe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Festival+Fringe+de+Edimburgo&form=BGABWCTA7&filters=HpDate:\"20250731_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507302200",
       "enddate": "20250731",

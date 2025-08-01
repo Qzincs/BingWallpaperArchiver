@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250731",
+      "fullstartdate": "202507310700",
+      "enddate": "20250801",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaPaliKauai_ROW5276434924_UHD.jpg",
+      "copyrighttext": "© Russ Bishop/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=Kalalau+Beach&form=BGALM&filters=HpDate:\"20250731_0700\"",
+      "title": "Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii, United States",
+      "description": "No road signs, no souvenir stands—just 18 kilometres of mud, cliffs and sweeping views leading to one of Hawaii's most remote beaches. Kalalau Beach, at the end of Kauai's Kalalau Trail, is where tired feet meet a sandy reward. The only land access is the trail itself, a rugged trek through valleys and along coastal cliffs. During summer, some arrive by kayak, but all visitors need permits to stay.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250731_NaPaliKauai\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 31, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kalalau+Beach&form=BGABWCTA7&filters=HpDate:\"20250731_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250730",
       "fullstartdate": "202507300700",
       "enddate": "20250731",
