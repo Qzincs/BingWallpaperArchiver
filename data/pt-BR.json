@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250801",
+      "fullstartdate": "202508010300",
+      "enddate": "20250802",
+      "urlbase": "https://www.bing.com/th?id=OHR.EdinburghFringe_PT-BR1616898906_UHD.jpg",
+      "copyrighttext": "© MEDITERRANEAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Festival+Fringe+de+Edimburgo&form=BGALM&filters=HpDate:\"20250801_0300\"",
+      "title": "Royal Mile, Edimburgo, Escócia",
+      "description": "Todo mês de agosto, Edimburgo, na Escócia, se transforma em um verdadeiro cenário artístico. De porões de pubs a bancos de praça, palcos surgem nos lugares mais inusitados, e espetáculos aparecem até nas ruas mais silenciosas. Bem-vindo ao Festival Fringe de Edimburgo, ou simplesmente Fringe.",
+      "headline": "Espere o inesperado!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250801_EdinburghFringe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Festival+Fringe+de+Edimburgo&form=BGABWCTA7&filters=HpDate:\"20250801_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250731",
       "fullstartdate": "202507310300",
       "enddate": "20250801",

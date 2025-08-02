@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250801",
+      "fullstartdate": "202508012200",
+      "enddate": "20250802",
+      "urlbase": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_IT-IT1255778593_UHD.jpg",
+      "copyrighttext": "© Nicolas VINCENT/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+Capitol+Reef&form=BGALM&filters=HpDate:\"20250801_2200\"",
+      "title": "Petroglifi vicino a Fruita nel Parco Nazionale di Capitol Reef, Utah, USA",
+      "description": "C’è qualcosa di eterno in Capitol Reef, un luogo dove scogliere di roccia rossa, canyon tortuosi e storie millenarie si intrecciano sotto il cielo limpido del deserto dello Utah, negli Stati Uniti. Divenuto parco nazionale nel 1971, Capitol Reef invita alla contemplazione, non solo della sua geologia spettacolare, ma anche delle narrazioni ancestrali scolpite nel paesaggio. Molto prima che i visitatori ne esplorassero i sentieri, queste terre erano abitate dai popoli della cultura Fremont e dagli Ancestral Puebloans. Tra il 300 e il 1300 d.C., vivevano in rifugi naturali, intrecciando agricoltura, spiritualità e vita quotidiana. Di loro resta un’eredità visiva: petroglifi come quelli di Fruita, con figure umane ornate, animali e simboli astratti che raccontano cerimonie, migrazioni ed eventi celesti. Un archivio silenzioso, inciso nella pietra.",
+      "headline": "Arte Millenaria",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250802_FruitaPetroglyphs\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.291447,-111.262039/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.291447,-111.262039;S9;Parco Nazionale di Capitol Reef, Utah, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Capitol%20Reef%20National%20Park&vdpid=5084680481597816833&ss=ypid.YN882x15300420&segment=Attraction&mb=43.188415~-123.425296~27.62216~-91.031041&description=52%20W%20Headquarters%20Dr%2C%20Torrey%2C%20UT%2084775&poicount=18&cardbg=%233DB838&dt=1749645000000&tt=Capitol%20Reef%20National%20Park&tsts0=%2526ty%253D30%2526q%253DCapitol%252520Reef%252520National%252520Park%2526vdpid%253D5084680481597816833%2526ss%253Dypid.YN882x15300420%2526segment%253DAttraction%2526mb%253D43.188415~-123.425296~27.62216~-91.031041%2526description%253D52%252520W%252520Headquarters%252520Dr%25252C%252520Torrey%25252C%252520UT%25252084775%2526poicount%253D18%2526cardbg%253D%2525233DB838%2526dt%253D1749645000000&tstt0=Capitol%20Reef%20National%20Park&cp=41.187765~-120.207445&lvl=4.3398285&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Utah%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Utah, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Utah%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250731",
       "fullstartdate": "202507312200",
       "enddate": "20250801",

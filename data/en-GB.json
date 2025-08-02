@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250801",
+      "fullstartdate": "202508012300",
+      "enddate": "20250802",
+      "urlbase": "https://www.bing.com/th?id=OHR.CowesWeek2025_EN-GB0990993509_UHD.jpg",
+      "copyrighttext": "© Alan Crowhurst/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cowes+Week&form=BGALM&filters=HpDate:\"20250801_2300\"",
+      "title": "Spectators at Cowes Week 2013 in Cowes, Isle of Wight",
+      "description": "When it comes to making waves, few events do it better than Cowes Week. Each summer, the Isle of Wight's northern shores transform into a sea of sails, strategy and salt-sprayed excitement. Since 1826, this regatta has been reeling in sailors and spectators alike—and it's still going strong. Held annually in early August, this event, scheduled for 2 to 8 August this year, is one of the oldest and largest sailing regattas in the world. Thousands of amateur and professional sailors compete in around 40 daily races, making it as much about precision and patience as it is about power. From sleek modern boats to seasoned classics, it's a floating festival of variety.",
+      "headline": "Sails up, spirits high",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250802_CowesWeek2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.7595,-1.3002/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.7595,-1.3002;S9;Cowes, Isle of Wight&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cowes%20Isle%20of%20Wight&satid=id.sid%3Aeb0e0d53-c094-128f-5fe0-20397a726b23&vdpid=5471826024616427522&mb=50.779904~-1.359394~50.739116~-1.241082&cardbg=%23F98745&tt=Cowes%2C%20Isle%20of%20Wight&tsts0=%2526ty%253D30%2526q%253DCowes%252520Isle%252520of%252520Wight%2526satid%253Did.sid%25253Aeb0e0d53-c094-128f-5fe0-20397a726b23%2526vdpid%253D5471826024616427522%2526mb%253D50.779904~-1.359394~50.739116~-1.241082%2526cardbg%253D%252523F98745&tstt0=Cowes%2C%20Isle%20of%20Wight&cp=51.102746~-9.025951&lvl=5.086495&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Isle+of+Wight&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Isle of Wight"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Isle+of+Wight&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250731",
       "fullstartdate": "202507312300",
       "enddate": "20250801",
