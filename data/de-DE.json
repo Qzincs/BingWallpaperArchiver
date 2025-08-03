@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250802",
+      "fullstartdate": "202508022200",
+      "enddate": "20250803",
+      "urlbase": "https://www.bing.com/th?id=OHR.HappySunflower_DE-DE9238055118_UHD.jpg",
+      "copyrighttext": "© Arsgera/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Sonnenblume&form=BGALM&filters=HpDate:\"20250802_2200\"",
+      "title": "Blühende Sonnenblumen auf einem Feld im Sommer",
+      "description": "Sonnenblumen sind der Inbegriff des Sommers: leuchtend gelb, fröhlich und voller Leben. Ihr Name Helianthus stammt aus dem Griechischen und bedeutet „Sonne“ und „Blume“. Mit einer Wuchshöhe von bis zu drei Metern sind sie nicht zu übersehen – ein echter Blickfang am Wegesrand, perfekt für einen spontanen Fotostopp oder um einen kleinen Naturmoment zu genießen. Ihre Blütezeit liegt meist im Juli und August, wenn ganze Felder goldgelb blühen. Doch Sonnenblumen sind nicht nur schön anzusehen. Ihre Kerne sind wahre Kraftpakete, reich an Vitamin E, Magnesium und gesunden, ungesättigten Fettsäuren.",
+      "headline": "Gelb, so weit das Auge reicht",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250803_HappySunflower\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sonnenblume&form=BGABWCTA7&filters=HpDate:\"20250802_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250801",
       "fullstartdate": "202508012200",
       "enddate": "20250802",

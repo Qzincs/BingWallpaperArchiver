@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250802",
+      "fullstartdate": "202508022200",
+      "enddate": "20250803",
+      "urlbase": "https://www.bing.com/th?id=OHR.HappySunflower_ES-ES4115334134_UHD.jpg",
+      "copyrighttext": "© Arsgera/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Girasol&form=BGALM&filters=HpDate:\"20250802_2200\"",
+      "title": "Girasoles floreciendo en un campo en verano",
+      "description": "Brillantes y audaces, los girasoles son amados por abejas, aves y personas de todas las edades. Su nombre científico, Helianthus, proviene del griego: helios (sol) y anthos (flor). Estas plantas, de crecimiento anual, destacan por sus grandes cabezas florales, parecidas a margaritas, y su intenso color amarillo, aunque también existen variedades en tonos rojos, naranjas y granates.",
+      "headline": "¡El color del verano!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250803_HappySunflower\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Girasol&form=BGABWCTA7&filters=HpDate:\"20250802_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250801",
       "fullstartdate": "202508012200",
       "enddate": "20250802",

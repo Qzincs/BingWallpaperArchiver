@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250802",
+      "fullstartdate": "202508021500",
+      "enddate": "20250803",
+      "urlbase": "https://www.bing.com/th?id=OHR.HirosakiNeputaFestival2025_JA-JP2869487998_UHD.jpg",
+      "copyrighttext": "© John S Lander/寄稿者/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%bc%98%e5%89%8d%e3%81%ad%e3%81%b7%e3%81%9f%e3%81%be%e3%81%a4%e3%82%8a&form=BGALM&filters=HpDate:\"20250802_1500\"",
+      "title": "優美な扇ねぷた, 青森県 弘前市",
+      "description": "夏の夜を彩る灯りと絵の祭典、弘前ねぷたまつりが 8 月 1 日より開催されています。かつて、農民たちが夏の忙しい時期に行っていた「眠り流し」という行事から発展した祭りで、現在では国の重要無形民俗文化財に指定されており、例年 160 万人以上の来場者が訪れます…",
+      "headline": "弘前ねぷたまつり開催中",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250803_HirosakiNeputaFestival2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.60311,140.4638/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.60311,140.4638;S9;青森県弘前市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E5%BC%98%E5%89%8D%E5%B8%82&satid=id.sid%3Afb320300-e001-cba2-4e7f-8e5aa2fd3514&vdpid=7928497111874666497&mb=40.761444~140.049894~40.467136~140.703433&cardbg=%23F98745&tt=%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%BC%98%E5%89%8D%E5%B8%82&tsts0=%2526ty%253D30%2526q%253D%2525E5%2525BC%252598%2525E5%252589%25258D%2525E5%2525B8%252582%2526satid%253Did.sid%25253Afb320300-e001-cba2-4e7f-8e5aa2fd3514%2526vdpid%253D7928497111874666497%2526mb%253D40.761444~140.049894~40.467136~140.703433%2526cardbg%253D%252523F98745&tstt0=%E9%9D%92%E6%A3%AE%E7%9C%8C%E5%BC%98%E5%89%8D%E5%B8%82&cp=40.61453~140.228592&lvl=11.200906&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e9%9d%92%e6%a3%ae%e7%9c%8c+%e5%bc%98%e5%89%8d%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 青森県 弘前市 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e9%9d%92%e6%a3%ae%e7%9c%8c+%e5%bc%98%e5%89%8d%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250801",
       "fullstartdate": "202508011500",
       "enddate": "20250802",

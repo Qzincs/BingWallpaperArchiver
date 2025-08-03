@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250802",
+      "fullstartdate": "202508022200",
+      "enddate": "20250803",
+      "urlbase": "https://www.bing.com/th?id=OHR.HappySunflower_FR-FR0643817668_UHD.jpg",
+      "copyrighttext": "© Arsgera/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=tournesol&form=BGALM&filters=HpDate:\"20250802_2200\"",
+      "title": "Des tournesols en fleurs dans un champ en été",
+      "description": "Symbole de l’été et du sud, le tournesol illumine les paysages de ses pétales dorés. Son nom scientifique, Helianthus annuus, vient du grec helios (soleil) et anthos (fleur). En France, on l’associe volontiers à Van Gogh et à la douceur des étés provençaux.",
+      "headline": "Les petits soleils des champs",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250803_HappySunflower\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=tournesol&form=BGABWCTA7&filters=HpDate:\"20250802_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250801",
       "fullstartdate": "202508012200",
       "enddate": "20250802",

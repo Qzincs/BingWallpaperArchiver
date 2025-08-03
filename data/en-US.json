@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250802",
+      "fullstartdate": "202508020700",
+      "enddate": "20250803",
+      "urlbase": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_EN-US8712481828_UHD.jpg",
+      "copyrighttext": "© Nicolas VINCENT/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=BGALM&filters=HpDate:\"20250802_0700\"",
+      "title": "Petroglyphs near Fruita in Capitol Reef National Park, Utah",
+      "description": "There's something timeless about Capitol Reef National Park—a place where red rock cliffs, winding canyons, and ancient stories come together under Utah's desert sky. Designated a national park in 1971, Capitol Reef invites reflection—not just on its vivid geology, but on the ancient narratives and cultural heritage etched into its landscape.",
+      "headline": "Age-old storyboard",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250802_FruitaPetroglyphs\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.291447,-111.262039/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=38.291447,-111.262039;S9;Capitol Reef National Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Capitol%20Reef%20National%20Park&vdpid=5084680481597816833&ss=ypid.YN882x15300420&segment=Attraction&mb=43.188415~-123.425296~27.62216~-91.031041&description=52%20W%20Headquarters%20Dr%2C%20Torrey%2C%20UT%2084775&poicount=18&cardbg=%233DB838&dt=1749645000000&tt=Capitol%20Reef%20National%20Park&tsts0=%2526ty%253D30%2526q%253DCapitol%252520Reef%252520National%252520Park%2526vdpid%253D5084680481597816833%2526ss%253Dypid.YN882x15300420%2526segment%253DAttraction%2526mb%253D43.188415~-123.425296~27.62216~-91.031041%2526description%253D52%252520W%252520Headquarters%252520Dr%25252C%252520Torrey%25252C%252520UT%25252084775%2526poicount%253D18%2526cardbg%253D%2525233DB838%2526dt%253D1749645000000&tstt0=Capitol%20Reef%20National%20Park&cp=41.187765~-120.207445&lvl=4.3398285&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Utah&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Utah"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Utah&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250801",
       "fullstartdate": "202508010700",
       "enddate": "20250802",

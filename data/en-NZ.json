@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250802",
+      "fullstartdate": "202508020700",
+      "enddate": "20250803",
+      "urlbase": "https://www.bing.com/th?id=OHR.FruitaPetroglyphs_ROW5543812447_UHD.jpg",
+      "copyrighttext": "© Nicolas VINCENT/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=BGALM&filters=HpDate:\"20250802_0700\"",
+      "title": "Petroglyphs near Fruita in Capitol Reef National Park, Utah, United States",
+      "description": "There's something timeless about Capitol Reef National Park—a place where red rock cliffs, winding canyons and ancient stories come together under Utah's desert sky. Designated a national park in 1971, Capitol Reef invites reflection—not just on its vivid geology, but on the ancient narratives and cultural heritage etched into its landscape.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250802_FruitaPetroglyphs\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=BGABWCTA7&filters=HpDate:\"20250802_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250801",
       "fullstartdate": "202508010700",
       "enddate": "20250802",
