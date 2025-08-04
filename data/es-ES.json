@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250803",
+      "fullstartdate": "202508032200",
+      "enddate": "20250804",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_ES-ES4200843569_UHD.jpg",
+      "copyrighttext": "© imageBROKER.com/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=b%c3%baho&form=BGALM&filters=HpDate:\"20250803_2200\"",
+      "title": "Búhos grises en su nido, Finlandia",
+      "description": "Los búhos, cazadores silenciosos del cielo nocturno, son unas de las aves más fascinantes del reino animal. Gracias a su capacidad para girar la cabeza hasta 270 grados, su vuelo casi inaudible y su excepcional visión nocturna, están perfectamente adaptados a la vida en la oscuridad. Existen más de 200 especies repartidas por todo el mundo, y su presencia es clave para mantener el equilibrio ecológico.",
+      "headline": "¡Unos ojos deslumbrantes!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250804_LaplandOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=b%c3%baho&form=BGABWCTA7&filters=HpDate:\"20250803_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250802",
       "fullstartdate": "202508022200",
       "enddate": "20250803",

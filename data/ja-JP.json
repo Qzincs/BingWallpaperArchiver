@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250803",
+      "fullstartdate": "202508031500",
+      "enddate": "20250804",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_JA-JP2701506191_UHD.jpg",
+      "copyrighttext": "© imageBROKER.com/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%83%88%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6%e3%81%ae%e3%83%9a%e3%82%a2&form=BGALM&filters=HpDate:\"20250803_1500\"",
+      "title": "カラフトフクロウのペア, フィンランド",
+      "description": "今日 8 月 4 日は国際フクロウの日。日本では「不苦労」という語呂合わせから、縁起の良い鳥として親しまれているフクロウは、全世界に約 200 種以上が存在しています。首を 270 度も回すという驚くべき能力を持っているほか、静かな飛行と優れた夜間視力も兼ね備えており、「森の忍者」とも呼ばれています…",
+      "headline": "今日は国際フクロウの日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250804_LaplandOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/65,27/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=65,27;S9;フィンランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&satid=id.sid%3Aceea53a9-734c-46c7-a9f7-185e7cf6826e&vdpid=77&mb=70.0923~4.557554~59.472645~47.192721&cardbg=%23F98745&tt=%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&tsts0=%2526ty%253D30%2526q%253D%2525E3%252583%252595%2525E3%252582%2525A3%2525E3%252583%2525B3%2525E3%252583%2525A9%2525E3%252583%2525B3%2525E3%252583%252589%2526satid%253Did.sid%25253Aceea53a9-734c-46c7-a9f7-185e7cf6826e%2526vdpid%253D77%2526mb%253D70.0923~4.557554~59.472645~47.192721%2526cardbg%253D%252523F98745&tstt0=%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&cp=65.31039~16.184124&lvl=5.1732783&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 4 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " フィンランド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%95%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250802",
       "fullstartdate": "202508021500",
       "enddate": "20250803",

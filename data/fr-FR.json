@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250803",
+      "fullstartdate": "202508032200",
+      "enddate": "20250804",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_FR-FR0808851184_UHD.jpg",
+      "copyrighttext": "© imageBROKER.com/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=Chouette+lapone+&form=BGALM&filters=HpDate:\"20250803_2200\"",
+      "title": "Chouettes lapones dans leur nid, Finlande",
+      "description": "Venue des forêts boréales d’Eurasie, la chouette lapone impressionne par son plumage gris strié et par sa taille, jusqu’à 84 cm. C’est la plus grande chouette du monde en longueur. Rare en France, elle fascine les ornithologues par son allure de sage nordique.",
+      "headline": "La sagesse venue du Nord",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250804_LaplandOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chouette+lapone+&form=BGABWCTA7&filters=HpDate:\"20250803_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250802",
       "fullstartdate": "202508022200",
       "enddate": "20250803",

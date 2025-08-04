@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250803",
+      "fullstartdate": "202508031600",
+      "enddate": "20250804",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_ZH-CN6070251232_UHD.jpg",
+      "copyrighttext": "© imageBROKER.com/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%8c%ab%e5%a4%b4%e9%b9%b0&form=BGALM&filters=HpDate:\"20250803_1600\"",
+      "title": "巢中的乌林鸮, 芬兰",
+      "description": "作为夜空中的无声猎手，猫头鹰是动物王国中最迷人的动物之一。它们能够将头部旋转多达270度，再加上无声的飞行和卓越的夜视能力，充分展现了其非凡的适应性。全球已知有200多种猫头鹰，它们在维护生态平衡中发挥着关键作用，并深深融入人类的文化传统。每年的8月4日是国际猫头鹰意识日，这一天不仅是对它们在自然界中重要角色的致敬，也是提醒人们关注它们所面临威胁的重要时刻。",
+      "headline": "这是谁的家？",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250804_LaplandOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 4",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%8c%ab%e5%a4%b4%e9%b9%b0&form=BGABWCTA7&filters=HpDate:\"20250803_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250802",
       "fullstartdate": "202508021600",
       "enddate": "20250803",

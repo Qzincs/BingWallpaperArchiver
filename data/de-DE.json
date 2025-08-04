@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250803",
+      "fullstartdate": "202508032200",
+      "enddate": "20250804",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_DE-DE9006060436_UHD.jpg",
+      "copyrighttext": "© imageBROKER.com/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Eulen&form=BGALM&filters=HpDate:\"20250803_2200\"",
+      "title": "Bartkäuze im Nest, Finnland",
+      "description": "Wussten Sie, dass heute der Internationale Ehrentag der Eulen gefeiert wird? Dieser besondere Tag würdigt die lautlosen Jäger der Nacht, die seit Jahrhunderten als Symbol für Weisheit und Mystik gelten. Eulen, wie die beiden Bartkäuze auf unserem heutigen Bild, sind faszinierende Tiere – sie können ihren Kopf um bis zu 270 Grad drehen, nahezu lautlos fliegen und verfügen über eine beeindruckende Nachtsicht. Darüber hinaus spielen sie eine entscheidende Rolle im Ökosystem, indem sie die Population von Nagetieren und Insekten regulieren. Leider sind viele Eulenarten durch den Verlust ihres Lebensraums und andere menschliche Einflüsse gefährdet.",
+      "headline": "Mystische Jäger der Nacht",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250804_LaplandOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eulen&form=BGABWCTA7&filters=HpDate:\"20250803_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250802",
       "fullstartdate": "202508022200",
       "enddate": "20250803",

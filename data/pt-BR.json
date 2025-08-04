@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250803",
+      "fullstartdate": "202508030300",
+      "enddate": "20250804",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiaCapoeirista_PT-BR1567987361_UHD.jpg",
+      "copyrighttext": "© luoman/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Capoeirista+dia&form=BGALM&filters=HpDate:\"20250803_0300\"",
+      "title": "Pelourinho, Salvador, Bahia",
+      "description": "Hoje, 3 de agosto, celebramos o Dia do Capoeirista, data que homenageia uma das expressões culturais mais marcantes do Brasil. A capoeira surgiu no século XVII, desenvolvida por africanos escravizados como forma de resistência e preservação da identidade. Disfarçada de dança para enganar os senhores de engenho, ela unia movimentos de luta com música e ritmo.",
+      "headline": "História em movimento",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250803_DiaCapoeirista\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capoeirista+dia&form=BGABWCTA7&filters=HpDate:\"20250803_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250802",
       "fullstartdate": "202508020300",
       "enddate": "20250803",
