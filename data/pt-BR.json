@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250804",
+      "fullstartdate": "202508040300",
+      "enddate": "20250805",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaplandOwl_PT-BR9387648835_UHD.jpg",
+      "copyrighttext": "© imageBROKER.com/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Conscientiza%c3%a7%c3%a3o+pelas+Corujas&form=BGALM&filters=HpDate:\"20250804_0300\"",
+      "title": "Corujas-lapónicas em seu ninho, Finlândia",
+      "description": "Caçadoras silenciosas do céu noturno, as corujas estão entre as criaturas mais fascinantes do reino animal. Sua capacidade de girar a cabeça em até 270 graus — combinada com voo silencioso e visão noturna excepcional — revela adaptações impressionantes. Com mais de 200 espécies distribuídas pelo mundo, essas aves contribuem para o equilíbrio ecológico e estão profundamente entrelaçadas às tradições culturais. Celebrado anualmente em 4 de agosto, o Dia Internacional da Conscientização sobre as Corujas homenageia sua presença na natureza e alerta para as ameaças que enfrentam.",
+      "headline": "Quem mora aqui?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250804_LaplandOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Conscientiza%c3%a7%c3%a3o+pelas+Corujas&form=BGABWCTA7&filters=HpDate:\"20250804_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250803",
       "fullstartdate": "202508030300",
       "enddate": "20250804",

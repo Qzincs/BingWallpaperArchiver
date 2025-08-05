@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250804",
+      "fullstartdate": "202508042200",
+      "enddate": "20250805",
+      "urlbase": "https://www.bing.com/th?id=OHR.CaliforniaTidepool_FR-FR1277403036_UHD.jpg",
+      "copyrighttext": "© Andrew Shoemaker/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=La+Jolla+Californie&form=BGALM&filters=HpDate:\"20250804_2200\"",
+      "title": "Bassins de marée à La Jolla, Californie, États-Unis",
+      "description": "Aux États-Unis, sur les rivages sculptés de La Jolla, en Californie, l’océan creuse des cuvettes naturelles dans le grès. À marée basse, ces bassins de marée dévoilent un monde miniature, vibrant et coloré : crabes, étoiles de mer, anémones, algues, limaces de mer… un véritable aquarium sauvage façonné par les vagues.",
+      "headline": "Quand la mer façonne des mondes miniatures",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250805_CaliforniaTidepool\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.84,-117.2769/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=32.84,-117.2769;S9;La Jolla, Californie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=la%20jolla&satid=id.sid%3A8db91b16-c164-c1fa-b549-9394b3e70dfa&vdpid=5073415743396118529&mb=32.872162~-117.334694~32.805561~-117.176621&cardbg=%23F98745&dt=1750167000000&tt=La%20Jolla%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dla%252520jolla%2526satid%253Did.sid%25253A8db91b16-c164-c1fa-b549-9394b3e70dfa%2526vdpid%253D5073415743396118529%2526mb%253D32.872162~-117.334694~32.805561~-117.176621%2526cardbg%253D%252523F98745%2526dt%253D1750167000000&tstt0=La%20Jolla%2C%20California%2C%20United%20States&cp=32.645511~-117.055733&lvl=9.411946&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Californie%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Californie, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Californie%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250803",
       "fullstartdate": "202508032200",
       "enddate": "20250804",

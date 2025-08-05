@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250804",
+      "fullstartdate": "202508041830",
+      "enddate": "20250805",
+      "urlbase": "https://www.bing.com/th?id=OHR.CaliforniaTidepool_EN-IN9579127212_UHD.jpg",
+      "copyrighttext": "© Andrew Shoemaker/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=La+Jolla+California&form=BGALM&filters=HpDate:\"20250804_1830\"",
+      "title": "Tide pools in La Jolla, California, United States",
+      "description": "Not every science lesson requires a classroom. In La Jolla, California, United States, tide pools teach you about ocean life—right at your feet. Along the rocky shoreline of this San Diego coastal neighbourhood, tide pools form during low tide as seawater gets trapped in natural depressions. These shallow pools form naturally along La Jolla's rocky shorelines, especially near Windansea Beach, Shell Beach, South Casa Beach and Hospital Point. The water that remains trapped in sandstone and reef depressions creates habitats for everything from sea hares to brittle stars.",
+      "headline": "Tide and seek",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250805_CaliforniaTidepool\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.84,-117.2769/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=32.84,-117.2769;S9;La Jolla, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=la%20jolla&satid=id.sid%3A8db91b16-c164-c1fa-b549-9394b3e70dfa&vdpid=5073415743396118529&mb=32.872162~-117.334694~32.805561~-117.176621&cardbg=%23F98745&dt=1750167000000&tt=La%20Jolla%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dla%252520jolla%2526satid%253Did.sid%25253A8db91b16-c164-c1fa-b549-9394b3e70dfa%2526vdpid%253D5073415743396118529%2526mb%253D32.872162~-117.334694~32.805561~-117.176621%2526cardbg%253D%252523F98745%2526dt%253D1750167000000&tstt0=La%20Jolla%2C%20California%2C%20United%20States&cp=32.645511~-117.055733&lvl=9.411946&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  California, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250803",
       "fullstartdate": "202508031830",
       "enddate": "20250804",

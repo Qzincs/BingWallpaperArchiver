@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250804",
+      "fullstartdate": "202508041500",
+      "enddate": "20250805",
+      "urlbase": "https://www.bing.com/th?id=OHR.CaliforniaTidepool_JA-JP3202345029_UHD.jpg",
+      "copyrighttext": "© Andrew Shoemaker/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a9%e3%83%9b%e3%83%a4%e3%81%ae%e5%bc%95%e3%81%8d%e6%bd%ae&form=BGALM&filters=HpDate:\"20250804_1500\"",
+      "title": "ラホヤの引き潮, 米国 カリフォルニア州",
+      "description": "米国・カリフォルニア州サンディエゴの北部に位置するラホヤ。海岸と丘陵が織りなす風光明媚なリゾート地で、サーフィンや水泳、ダイビングなどのマリンスポーツが盛んです。また、高級住宅街としても知られ、中心部には洗練されたホテルやレストラン、宝飾店が立ち並んでいます…",
+      "headline": "岩場の小さな潮だまり",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250805_CaliforniaTidepool\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.84,-117.2769/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=32.84,-117.2769;S9;ラホヤ, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=la%20jolla&satid=id.sid%3A8db91b16-c164-c1fa-b549-9394b3e70dfa&vdpid=5073415743396118529&mb=32.872162~-117.334694~32.805561~-117.176621&cardbg=%23F98745&dt=1750167000000&tt=La%20Jolla%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dla%252520jolla%2526satid%253Did.sid%25253A8db91b16-c164-c1fa-b549-9394b3e70dfa%2526vdpid%253D5073415743396118529%2526mb%253D32.872162~-117.334694~32.805561~-117.176621%2526cardbg%253D%252523F98745%2526dt%253D1750167000000&tstt0=La%20Jolla%2C%20California%2C%20United%20States&cp=32.645511~-117.055733&lvl=9.411946&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 5 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 カリフォルニア州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250803",
       "fullstartdate": "202508031500",
       "enddate": "20250804",
