@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250805",
+      "fullstartdate": "202508050300",
+      "enddate": "20250806",
+      "urlbase": "https://www.bing.com/th?id=OHR.CaliforniaTidepool_PT-BR9575263840_UHD.jpg",
+      "copyrighttext": "© Andrew Shoemaker/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=La+Jolla+na+California&form=BGALM&filters=HpDate:\"20250805_0300\"",
+      "title": "Piscinas naturais em La Jolla, Califórnia, EUA",
+      "description": "Nem toda aula de ciências acontece em sala de aula. Em La Jolla, na Califórnia, nos Estados Unidos, as piscinas naturais formadas na maré baixa revelam a vida marinha bem de perto. Ao longo da costa rochosa, a água do mar fica retida nas depressões naturais que vemos na imagem do dia, criando habitats para organismos como as lebres-do-mar e os ofiúros.",
+      "headline": "Brincando com a maré",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250805_CaliforniaTidepool\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Jolla+na+California&form=BGABWCTA7&filters=HpDate:\"20250805_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250804",
       "fullstartdate": "202508040300",
       "enddate": "20250805",

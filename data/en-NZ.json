@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250805",
+      "fullstartdate": "202508050700",
+      "enddate": "20250806",
+      "urlbase": "https://www.bing.com/th?id=OHR.CaliforniaTidepool_ROW5850471362_UHD.jpg",
+      "copyrighttext": "© Andrew Shoemaker/DanitaDelimont.com",
+      "copyrightlink": "https://www.bing.com/search?q=La+Jolla+California&form=BGALM&filters=HpDate:\"20250805_0700\"",
+      "title": "Tide pools in La Jolla, California, United States",
+      "description": "Not every science lesson requires a classroom. In La Jolla, California, tide pools teach you about ocean life—right at your feet. Along the rocky shoreline of this San Diego coastal neighbourhood, tide pools form during low tide as seawater gets trapped in natural depressions. These shallow pools form naturally along La Jolla's rocky shorelines, especially near Windansea Beach, Shell Beach, South Casa Beach and Hospital Point. The water that remains trapped in sandstone and reef depressions creates habitats for everything from sea hares to brittle stars.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250805_CaliforniaTidepool\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Jolla+California&form=BGABWCTA7&filters=HpDate:\"20250805_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250804",
       "fullstartdate": "202508040700",
       "enddate": "20250805",

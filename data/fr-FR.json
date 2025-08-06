@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250805",
+      "fullstartdate": "202508052200",
+      "enddate": "20250806",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_FR-FR2344999545_UHD.jpg",
+      "copyrighttext": "© Andy Rouse/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Lemur+catta&form=BGALM&filters=HpDate:\"20250805_2200\"",
+      "title": "Un jeune Lemur catta qui joue avec sa queue, Madagascar",
+      "description": "Sous le ciel chaud du sud de Madagascar, un petit lémur catta s’amuse avec sa queue. Mais ce jeu n’est pas anodin : il apprend à coordonner ses gestes, à tester son équilibre et à grandir. Les premières semaines, il reste agrippé au ventre de sa mère, puis sur son dos. Ensuite, c’est par le jeu qu’il découvre sa place dans le groupe.",
+      "headline": "Naître, jouer, survivre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250806_BabyLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-19.493328,46.450684/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-19.493328,46.450684;S9;Madagascar&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=madagascar&vdpid=149&mb=-11.732879~31.978467~-25.784031~61.662273&cardbg=%23F98745&dt=1750257000000&tt=Madagascar&tsts0=%2526ty%253D30%2526q%253Dmadagascar%2526vdpid%253D149%2526mb%253D-11.732879~31.978467~-25.784031~61.662273%2526cardbg%253D%252523F98745%2526dt%253D1750257000000&tstt0=Madagascar&cp=-18.897411~43.222804&lvl=6.600249&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Madagascar&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Madagascar"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Madagascar&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250804",
       "fullstartdate": "202508042200",
       "enddate": "20250805",

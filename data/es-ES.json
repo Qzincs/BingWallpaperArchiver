@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250805",
+      "fullstartdate": "202508052200",
+      "enddate": "20250806",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_ES-ES4465039868_UHD.jpg",
+      "copyrighttext": "© Andy Rouse/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=l%c3%a9mur+de+cola+anillada&form=BGALM&filters=HpDate:\"20250805_2200\"",
+      "title": "Bebé de lémur de cola anillada jugando con su propia cola, Madagascar",
+      "description": "Parece que esta pequeña criatura está jugando, ¿verdad? Sin embargo, cuando un lémur de cola anillada bebé envuelve su cola alrededor de otra o le da un tirón, en realidad está desarrollando habilidades esenciales. Durante las primeras semanas, los crías se aferran al vientre o a la espalda de su madre. Al crecer, se separan y el juego con la cola les ayuda a aprender el equilibrio, la coordinación y la convivencia en grupo.",
+      "headline": "Nativo de Madagascar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250806_BabyLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=l%c3%a9mur+de+cola+anillada&form=BGABWCTA7&filters=HpDate:\"20250805_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250804",
       "fullstartdate": "202508042200",
       "enddate": "20250805",

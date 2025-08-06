@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250805",
+      "fullstartdate": "202508051600",
+      "enddate": "20250806",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_ZH-CN6617977758_UHD.jpg",
+      "copyrighttext": "© Andy Rouse/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%8e%af%e5%b0%be%e7%8b%90%e7%8c%b4%e2%80%8c&form=BGALM&filters=HpDate:\"20250805_1600\"",
+      "title": "环尾狐猴幼崽在玩自己的尾巴‌, 马达加斯加",
+      "description": "看起来这只小家伙像是在玩耍，对吗？其实，当一只幼年环尾狐猴缠绕或拉扯自己的尾巴时，它正在练习一些至关重要的技能。环尾狐猴的幼崽在生命最初的几周会紧紧依附在母亲身上，起初趴在母亲的腹部，随后转移到背上。随着它们逐渐长大、开始离开母亲，追逐尾巴成为学习平衡、协调以及融入群体玩耍的重要一环。这些灵长类动物还会利用它们长长的尾巴进行交流。当它们集体移动时，会将尾巴像旗帜一样高高举起，以便在开阔地带保持队形。此外，响亮而有节奏的叫声、气味标记以及雄性之间的“臭味大战”，都让它们的社会生活显得格外丰富有趣。",
+      "headline": "马达加斯加原住民",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250806_BabyLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%8e%af%e5%b0%be%e7%8b%90%e7%8c%b4%e2%80%8c&form=BGABWCTA7&filters=HpDate:\"20250805_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250804",
       "fullstartdate": "202508041600",
       "enddate": "20250805",
