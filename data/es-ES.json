@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250806",
+      "fullstartdate": "202508062200",
+      "enddate": "20250807",
+      "urlbase": "https://www.bing.com/th?id=OHR.GasparillaLight_ES-ES4564834622_UHD.jpg",
+      "copyrighttext": "© Wiltser/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Isla+Gasparilla&form=BGALM&filters=HpDate:\"20250806_2200\"",
+      "title": "Luz de alcance trasero de la isla Gasparilla, Boca Grande, Florida, EE. UU.",
+      "description": "Antes de que el GPS guiara a los barcos, los faros eran la luz que señalaba el camino, cada uno con su patrón único de destellos para que los marineros supieran dónde estaban, incluso en la oscuridad total. Hoy, en el Día Mundial de los Faros, rendimos homenaje a estas antiguas y esenciales guías marítimas.",
+      "headline": "El código de la costa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_GasparillaLight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Isla+Gasparilla&form=BGABWCTA7&filters=HpDate:\"20250806_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250805",
       "fullstartdate": "202508052200",
       "enddate": "20250806",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250806",
+      "fullstartdate": "202508062200",
+      "enddate": "20250807",
+      "urlbase": "https://www.bing.com/th?id=OHR.GasparillaLight_IT-IT1390366319_UHD.jpg",
+      "copyrighttext": "© Wiltser/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Faro+struttura&form=BGALM&filters=HpDate:\"20250806_2200\"",
+      "title": "Faro dell’isola di Gasparilla, Boca Grande, Florida, USA",
+      "description": "Sulla costa di Gasparilla Island, nello stato americano della Florida, il Rear Range Light resiste come una sentinella del tempo. Assemblato in Delaware e giunto qui nel 1927, ha attraversato tempeste e silenzi. Disattivato dalla Guardia Costiera nel 2014, è stato restaurato con cura e ha riacceso la sua luce nel 2018: una pulsazione bianca ogni sei secondi, come il battito lento di una memoria che non vuole svanire. Più che una struttura, è un frammento di storia che veglia sul mare e su chi lo attraversa.",
+      "headline": "Guida Marina",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_GasparillaLight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.74201,-82.263466/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=26.74201,-82.263466;S9;Isola di Gasparilla, Boca Grande, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Gasparilla%20Island%20Lighthouse%20gasparilla%20island%20lights&ss=ypid.YN873x13828111213972440259&mb=26.748322~-82.276332~26.735694~-82.250583&description=220%20Gulf%20Blvd%2C%20Boca%20Grande%2C%20FL%2033921&dt=1750066200000&tt=Gasparilla%20Island%20Lighthouse&tsts0=%2526ty%253D18%2526q%253DGasparilla%252520Island%252520Lighthouse%252520gasparilla%252520island%252520lights%2526ss%253Dypid.YN873x13828111213972440259%2526mb%253D26.748322~-82.276332~26.735694~-82.250583%2526description%253D220%252520Gulf%252520Blvd%25252C%252520Boca%252520Grande%25252C%252520FL%25252033921%2526dt%253D1750066200000&tstt0=Gasparilla%20Island%20Lighthouse&cp=22.408843~-92.405403&lvl=5.37&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Boca+Grande%2c+Florida%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Boca Grande, Florida, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Boca+Grande%2c+Florida%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250805",
       "fullstartdate": "202508052200",
       "enddate": "20250806",

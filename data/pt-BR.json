@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250806",
+      "fullstartdate": "202508060300",
+      "enddate": "20250807",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_PT-BR1048379663_UHD.jpg",
+      "copyrighttext": "© Andy Rouse/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=l%c3%aamure-de-cauda-anelada&form=BGALM&filters=HpDate:\"20250806_0300\"",
+      "title": "Filhote de lêmure-de-cauda-anelada brincando com sua cauda, Madagascar",
+      "description": "Parece que a criaturinha da imagem está brincando, não é? Mas quando um filhote de lêmure-de-cauda-anelada enrola ou puxa a própria cauda, está desenvolvendo habilidades essenciais. Nos primeiros dias, os filhotes ficam grudados na mãe. À medida que crescem, perseguir a própria cauda ajuda a treinar equilíbrio, coordenação e comportamentos sociais.",
+      "headline": "Nativo de Madagascar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250806_BabyLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=l%c3%aamure-de-cauda-anelada&form=BGABWCTA7&filters=HpDate:\"20250806_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250805",
       "fullstartdate": "202508050300",
       "enddate": "20250806",

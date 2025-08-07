@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250806",
+      "fullstartdate": "202508062300",
+      "enddate": "20250807",
+      "urlbase": "https://www.bing.com/th?id=OHR.SweetheartAbbey2025_EN-GB2068922474_UHD.jpg",
+      "copyrighttext": "© Westend61/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sweetheart+Abbey&form=BGALM&filters=HpDate:\"20250806_2300\"",
+      "title": "Sweetheart Abbey, Dumfries and Galloway, Scotland",
+      "description": "If you're wandering through Dumfries and Galloway in Scotland and stumble upon a striking red sandstone ruin, chances are you've just found Sweetheart Abbey. This is a 13th-century tale of devotion that still stands, stone by stone. Founded in 1273 by Lady Dervorguilla of Galloway, this Cistercian abbey wasn't just built for monks and prayers—it was built for love. When her husband, John de Balliol, passed away, Dervorguilla had his heart embalmed and placed in a silver casket. She carried it with her everywhere, like a medieval love letter on repeat. When she died, the heart was buried with her at the abbey she named in his memory—Dulce Cor, or 'Sweet Heart.'",
+      "headline": "Love set in stone",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_SweetheartAbbey2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.98027,-3.619176/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=54.98027,-3.619176;S9;Sweetheart Abbey, Dumfries and Galloway, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Sweetheart%20Abbey&ss=ypid.YN1029x1352539749219127304&mb=54.9843~-3.626904~54.976247~-3.611455&description=North%20Barbeth%20New%20Abbey%2C%20Dumfries%20DG2%208DB&cardbg=%23219AB6&dt=1751639400000&tt=Sweetheart%20Abbey&tsts0=%2526ty%253D18%2526q%253DSweetheart%252520Abbey%2526ss%253Dypid.YN1029x1352539749219127304%2526mb%253D54.9843~-3.626904~54.976247~-3.611455%2526description%253DNorth%252520Barbeth%252520New%252520Abbey%25252C%252520Dumfries%252520DG2%2525208DB%2526cardbg%253D%252523219AB6%2526dt%253D1751639400000&tstt0=Sweetheart%20Abbey&cp=54.348835~-19.631932&lvl=5.082116&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Dumfries+and+Galloway%2c+Scotland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Dumfries and Galloway, Scotland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Dumfries+and+Galloway%2c+Scotland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250805",
       "fullstartdate": "202508052300",
       "enddate": "20250806",

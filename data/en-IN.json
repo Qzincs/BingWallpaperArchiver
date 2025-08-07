@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250806",
+      "fullstartdate": "202508061830",
+      "enddate": "20250807",
+      "urlbase": "https://www.bing.com/th?id=OHR.MalshejGhat_EN-IN3001069579_UHD.jpg",
+      "copyrighttext": "© anand purohit/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=western+ghats&form=BGALM&filters=HpDate:\"20250806_1830\"",
+      "title": "Malshej Ghat, Maharashtra",
+      "description": "If you're craving the thrill of monsoon magic—then Malshej Ghat is calling. Just off the Nagar-Kalyan road, this spot, nestled in the Western Ghats of Maharashtra, is a mountain pass that looks straight out of a dream. With its misty trails, serene lakes, cascading waterfalls and scenic tunnels, it's a haven for nature lovers and trekkers. Its diverse ecosystem bursts with life—leopards, Indian giant squirrels and barking deer roam its dense forests. Birdwatchers especially flock here during the monsoon, when flamingos make their seasonal visit.",
+      "headline": "Misty roads and mountain moods",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_MalshejGhat\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.341433,73.79071/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=19.341433,73.79071;S9;Malshej Ghat, Maharashtra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Malshej%20Ghat&vdpid=6948464987010498561&mb=51.125398~6.34886~-28.856198~165.312571&cardbg=%23F98745&dt=1751452200000&tt=Malshej%20Ghat%2C%20Maharashtra&tsts0=%2526ty%253D30%2526q%253DMalshej%252520Ghat%2526vdpid%253D6948464987010498561%2526mb%253D51.125398~6.34886~-28.856198~165.312571%2526cardbg%253D%252523F98745%2526dt%253D1751452200000&tstt0=Malshej%20Ghat%2C%20Maharashtra&cp=18.771804~73.312056&lvl=6.3831186&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Maharashtra&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Maharashtra"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Maharashtra&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250805",
       "fullstartdate": "202508051830",
       "enddate": "20250806",

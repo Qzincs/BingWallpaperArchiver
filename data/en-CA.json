@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250806",
+      "fullstartdate": "202508060400",
+      "enddate": "20250807",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabyLemur_EN-CA5435344938_UHD.jpg",
+      "copyrighttext": "© Andy Rouse/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Ring+tailed+lemur&form=BGALM&filters=HpDate:\"20250806_0400\"",
+      "title": "Ring-tailed lemur infant playing with its own tail, Madagascar",
+      "description": "It looks like this small creature is playing a game, right? But when a baby ring-tailed lemur wraps its tail around or gives it a tug, it's actually working on crucial skills. The infants spend their early weeks hanging tight to their mom, first clinging to her belly and later to her back. As they grow, they separate from their mom, and tail-chasing becomes part of how they learn balance, coordination and group play. These primates use their long tails for communication as well. Raised like flags during group movement, the tails help them stick together in open terrain. Loud, rhythmic calls, scent markings and 'stink fights' between males add to the social drama.",
+      "headline": "Madagascar native",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250806_BabyLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-19.493328,46.450684/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-19.493328,46.450684;S9;Madagascar&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=madagascar&vdpid=149&mb=-11.732879~31.978467~-25.784031~61.662273&cardbg=%23F98745&dt=1750257000000&tt=Madagascar&tsts0=%2526ty%253D30%2526q%253Dmadagascar%2526vdpid%253D149%2526mb%253D-11.732879~31.978467~-25.784031~61.662273%2526cardbg%253D%252523F98745%2526dt%253D1750257000000&tstt0=Madagascar&cp=-18.897411~43.222804&lvl=6.600249&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug. 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Madagascar&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Madagascar"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Madagascar&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250805",
       "fullstartdate": "202508050400",
       "enddate": "20250806",
