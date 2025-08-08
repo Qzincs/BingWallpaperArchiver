@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508072200",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_DE-DE9260087426_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Iguazu+Wasserf%c3%a4lle+Argentinien+Brasilien&form=BGALM&filters=HpDate:\"20250807_2200\"",
+      "title": "Die Drei-Musketiere-Fälle bei den Iguazú-Wasserfällen, Argentinien",
+      "description": "Manche Naturwunder muss man erst hören, bevor man sie sieht. Die Iguazú-Fälle sind ein solcher Ort: Sie erstrecken sich über fast drei Kilometer und bestehen aus über 270 Wasserfällen, die tosend in die Tiefe rauschen und ein echtes Spektakel an der Grenze zwischen Argentinien und Brasilien darstellen. Besonders eindrucksvoll sind die Drei-Musketiere-Fälle, die auf dem heutigen Bild zu sehen sind. Drei mächtige Wasserströme stürzen nebeneinander in den Iguazú-Fluss und sind eingerahmt vom dichten, subtropischen Regenwald. Obwohl sie sich auf argentinischem Boden befinden, sind sie nur von der brasilianischen Seite aus sichtbar – ein faszinierendes Naturparadoxon.",
+      "headline": "Der große Auftritt der Natur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Iguazu+Wasserf%c3%a4lle+Argentinien+Brasilien&form=BGABWCTA7&filters=HpDate:\"20250807_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508062200",
       "enddate": "20250807",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508070400",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.MinganWonders_EN-CA5648384478_UHD.jpg",
+      "copyrighttext": "© David Boutin Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mingan+Archipelago&form=BGALM&filters=HpDate:\"20250807_0400\"",
+      "title": "Monoliths of the Mingan Archipelago, Quebec",
+      "description": "They may resemble ancient statues, but the monoliths of the Mingan Archipelago weren't carved by human hands. These limestone formations began taking shape over 450 million years ago by the power of sea spray, waves and wind. The result? Towering stone pillars that now rise along Quebec's coastline, standing firm as the tide continues its slow work. The surrounding tide pools come alive at low tide, revealing starfish, sea urchins and other marine life. The Mingan Archipelago National Park Reserve, where these formations are found, is a quiet haven for wildlife established in 1984. The area is a seasonal stop for Atlantic puffins, which arrive between late May and August to breed and raise their chicks on the cliffs and grassy spaces. The park is also known for its seabird colonies, seal sightings and plant life adapted to harsh coastal conditions. It's a landscape that quietly speaks of time, tide and resilience.",
+      "headline": "Carved by sea and time",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_MinganWonders\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.24707,-63.589779/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=50.24707,-63.589779;S9;Mingan Archipelago, Quebec&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Mingan%20islands&ss=ypid.YN1226x5076502407193676348&mb=50.251458~-63.597289~50.242677~-63.582247&description=1340%20De%20La%20Digue%20Street%2C%20Havre%20St.%20Pierre%20Quebec%20G0g%201p0&cardbg=%233DB838&dt=1751607000000&tt=Mingan%20Archipelago%20National%20Park%20Reserve&tsts0=%2526ty%253D18%2526q%253DMingan%252520islands%2526ss%253Dypid.YN1226x5076502407193676348%2526mb%253D50.251458~-63.597289~50.242677~-63.582247%2526description%253D1340%252520De%252520La%252520Digue%252520Street%25252C%252520Havre%252520St.%252520Pierre%252520Quebec%252520G0g%2525201p0%2526cardbg%253D%2525233DB838%2526dt%253D1751607000000&tstt0=Mingan%20Archipelago%20National%20Park%20Reserve&cp=48.706213~-69.976718&lvl=6.0253377&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug. 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Quebec&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Quebec"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Quebec&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508060400",
       "enddate": "20250807",

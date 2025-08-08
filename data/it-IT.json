@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508072200",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_IT-IT2568791763_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cascate+dell%e2%80%99+Iguaz%c3%ba&form=BGALM&filters=HpDate:\"20250807_2200\"",
+      "title": "Salto Tres Mosqueteros, Cascate dell’Iguazú, Argentina",
+      "description": "Nessuna voce riesce a competere con il respiro possente delle Cascate dell'Iguazú. È un canto selvaggio che vibra nell’aria, una sinfonia naturale che rapisce i sensi. Ma non è soltanto il suono: la presenza di questo gigante d'acqua è pura meraviglia, mentre abbraccia il confine tra Argentina e Brasile. Questo immenso sistema di cascate si estende per quasi tre chilometri, con oltre 270 salti d’acqua che danzano e scintillano nel velo della nebbia. L’immagine di oggi ritrae un angolo incantato del versante argentino: le cascate dei Tre Moschettieri, tre torrenti impetuosi che si gettano insieme nel fiume Iguazú, incorniciati dalla lussureggiante foresta pluviale subtropicale. Curiosamente, pur trovandosi sul territorio argentino, queste cascate sono visibili soltanto dal lato brasiliano.",
+      "headline": "Un tuffo rinfrescante?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cascate+dell%e2%80%99+Iguaz%c3%ba&form=BGABWCTA7&filters=HpDate:\"20250807_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508062200",
       "enddate": "20250807",

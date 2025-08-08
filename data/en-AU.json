@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508070700",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.GasparillaLight_ROW6062509878_UHD.jpg",
+      "copyrighttext": "© Wiltser/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Boca+Grande&form=BGALM&filters=HpDate:\"20250807_0700\"",
+      "title": "Gasparilla Island Rear Range Light, Boca Grande, Florida, United States",
+      "description": "Before GPS told ships where to go, lighthouses lit the way—each with its own flash pattern so sailors could figure out where they were, even in total darkness. And like many lighthouses around the world, Florida's Gasparilla Island Lights still hold their ground. The Gasparilla Island Rear Range Light, seen in today's image, has had quite a journey. Originally assembled in Delaware, it found its forever home here in 1927 but was decommissioned by the Coast Guard in 2014. The lighthouse was restored to its former glory in 2017 and was switched on again in 2018. Today, it blinks white every six seconds. The lighthouse grounds and museum are open to visitors seasonally, offering insights into the area's shipping past.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_GasparillaLight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Boca+Grande&form=BGABWCTA7&filters=HpDate:\"20250807_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508060700",
       "enddate": "20250807",

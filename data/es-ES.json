@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508072200",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_ES-ES1410228495_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cataratas+del+iguaz%c3%ba&form=BGALM&filters=HpDate:\"20250807_2200\"",
+      "title": "Saltos Tres Mosqueteros en las Cataratas del Iguazú, Argentina",
+      "description": "Ningún sonido puede opacar el rugido de las Cataratas del Iguazú. Esta maravilla natural, situada entre Argentina y Brasil, impresiona con más de 270 saltos de agua que se extienden a lo largo de casi tres kilómetros. Desde el lado argentino, los Saltos Tres Mosqueteros ofrecen una de las vistas más impactantes: tres potentes caídas rodeadas de una exuberante selva subtropical.",
+      "headline": "¡Un paraíso en cascada!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cataratas+del+iguaz%c3%ba&form=BGABWCTA7&filters=HpDate:\"20250807_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508062200",
       "enddate": "20250807",

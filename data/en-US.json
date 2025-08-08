@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508070700",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.GasparillaLight_EN-US0554204214_UHD.jpg",
+      "copyrighttext": "© Wiltser/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=US+National+Lighthouse+Day&form=BGALM&filters=HpDate:\"20250807_0700\"",
+      "title": "Gasparilla Island Rear Range Light, Boca Grande, Florida",
+      "description": "Before GPS told ships where to go, lighthouses lit the way—each with its own flash pattern so sailors could figure out where they were, even in total darkness. It's National Lighthouse Day, a perfect excuse to give these coastal workhorses some credit. In 1789, Congress passed a law to make sure all lighthouses were taken care of by the federal government. Whether you're a history buff, coastal explorer, or just into old engineering, today is a great day to learn more about lighthouses or visit one with your friends and family.",
+      "headline": "Code of the coastline",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250807_GasparillaLight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.74201,-82.263466/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=26.74201,-82.263466;S9;Boca Grande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Gasparilla%20Island%20Lighthouse%20gasparilla%20island%20lights&ss=ypid.YN873x13828111213972440259&mb=26.748322~-82.276332~26.735694~-82.250583&description=220%20Gulf%20Blvd%2C%20Boca%20Grande%2C%20FL%2033921&dt=1750066200000&tt=Gasparilla%20Island%20Lighthouse&tsts0=%2526ty%253D18%2526q%253DGasparilla%252520Island%252520Lighthouse%252520gasparilla%252520island%252520lights%2526ss%253Dypid.YN873x13828111213972440259%2526mb%253D26.748322~-82.276332~26.735694~-82.250583%2526description%253D220%252520Gulf%252520Blvd%25252C%252520Boca%252520Grande%25252C%252520FL%25252033921%2526dt%253D1750066200000&tstt0=Gasparilla%20Island%20Lighthouse&cp=22.408843~-92.405403&lvl=5.37&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Boca+Grande%2c+Florida&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Boca Grande, Florida"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Boca+Grande%2c+Florida&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508060700",
       "enddate": "20250807",

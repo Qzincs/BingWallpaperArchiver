@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250807",
+      "fullstartdate": "202508071500",
+      "enddate": "20250808",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_JA-JP1040777979_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a4%e3%82%b0%e3%82%a2%e3%82%b9%e3%81%ae%e6%bb%9d&form=BGALM&filters=HpDate:\"20250807_1500\"",
+      "title": "イグアスの滝, アルゼンチン",
+      "description": "南米の大地から流れ落ちる雄大なイグアスの滝。ブラジルとアルゼンチンの国境にまたがる世界最大級の滝群で、大小 270 以上の滝が連なっています。この滝を有しているブラジルのイグアス国立公園とアルゼンチンのイグアス国立公園は、ユネスコの世界遺産にも登録されています…",
+      "headline": "世界最大級の滝群",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-25.695248,-54.436672/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-25.695248,-54.436672;S9;イグアスの滝, アルゼンチン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%82%A4%E3%82%B0%E3%82%A2%E3%82%B9%E3%81%AE%E6%BB%9D&satid=id.sid%3A7e0b5ce6-1ddc-beaf-6dcb-fcacf45aec63&vdpid=6459455130247888897&mb=-25.687557~-54.451826~-25.702987~-54.421527&cardbg=%23219AB6&dt=1752836400000&tt=%E3%82%A4%E3%82%B0%E3%82%A2%E3%82%B9%E3%81%AE%E6%BB%9D%2C%20%E3%83%91%E3%83%A9%E3%83%8A%2C%20%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&tsts0=%2526ty%253D30%2526q%253D%2525E3%252582%2525A4%2525E3%252582%2525B0%2525E3%252582%2525A2%2525E3%252582%2525B9%2525E3%252581%2525AE%2525E6%2525BB%25259D%2526satid%253Did.sid%25253A7e0b5ce6-1ddc-beaf-6dcb-fcacf45aec63%2526vdpid%253D6459455130247888897%2526mb%253D-25.687557~-54.451826~-25.702987~-54.421527%2526cardbg%253D%252523219AB6%2526dt%253D1752836400000&tstt0=%E3%82%A4%E3%82%B0%E3%82%A2%E3%82%B9%E3%81%AE%E6%BB%9D%2C%20%E3%83%91%E3%83%A9%E3%83%8A%2C%20%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB&cp=-25.695273~-54.441998&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 8 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a2%e3%83%ab%e3%82%bc%e3%83%b3%e3%83%81%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " アルゼンチン への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a2%e3%83%ab%e3%82%bc%e3%83%b3%e3%83%81%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250806",
       "fullstartdate": "202508061500",
       "enddate": "20250807",
