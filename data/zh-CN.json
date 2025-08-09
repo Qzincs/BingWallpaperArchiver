@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250808",
+      "fullstartdate": "202508081600",
+      "enddate": "20250809",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg",
+      "copyrighttext": "© Joppi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%9c%9f%e8%91%97%e4%ba%ba%e6%b0%91%e5%9b%bd%e9%99%85%e6%97%a5&form=BGALM&filters=HpDate:\"20250808_1600\"",
+      "title": "陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰",
+      "description": "每年8月9日，联合国都会庆祝“世界土著人民国际日”，这一日是纪念原住民社区坚韧精神、智慧和丰富文化的时刻。在美国，这一天也成为反思美洲原住民部落历史与贡献的契机，同时鼓励人们与全球各地的土著人民携手共进。",
+      "headline": "致敬原住民之声",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250809_MaoriRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 9",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%9c%9f%e8%91%97%e4%ba%ba%e6%b0%91%e5%9b%bd%e9%99%85%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250808_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250807",
       "fullstartdate": "202508071600",
       "enddate": "20250808",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250808",
+      "fullstartdate": "202508082200",
+      "enddate": "20250809",
+      "urlbase": "https://www.bing.com/th?id=OHR.RhineFirework_DE-DE3111105918_UHD.jpg",
+      "copyrighttext": "© EKH-Pictures/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rhein+in+Flammen&form=BGALM&filters=HpDate:\"20250808_2200\"",
+      "title": "Feuerwerk Rhein in Flammen, Spay/Koblenz, Rheinland-Pfalz",
+      "description": "Romantisch und faszinierend – treffender lässt sich die Veranstaltung „Rhein in Flammen“ kaum beschreiben. Jedes Jahr zwischen Mai und September verwandelt sich der Rhein an mehreren Orten in ein spektakuläres Lichtermeer. Entlang des Mittelrheins – etwa bei Bonn, Rüdesheim oder Koblenz – erleben Besucherinnen und Besucher farbenprächtige Feuerwerke, festlich beleuchtete Schiffe und stimmungsvolle Uferfeste, wie auf unserem heutigen Bild zu sehen ist. Die erstmals 1936 gefeierte Veranstaltung hat sich zu einem beliebten Sommerereignis mit überregionaler Strahlkraft entwickelt und zieht jährlich Zehntausende an.",
+      "headline": "Ein sensationelles Feuerwerkspektakel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250809_RhineFirework\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.258335,7.646667/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.258335,7.646667;S9;Spay/Braubach, Rheinland-Pfalz&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Spay%20Braubach&ss=ypid.YN6740x10897558205303530263&mb=50.262111~7.63833~50.254552~7.654982&description=Dinkholder%203%20%C2%B7%2056340%20Osterspai%C2%B7Case%20in%20affitto%20per%20vacanze&cardbg=%23F98745&tt=Spay&tsts0=%2526ty%253D18%2526q%253DSpay%252520Braubach%2526ss%253Dypid.YN6740x10897558205303530263%2526mb%253D50.262111~7.63833~50.254552~7.654982%2526description%253DDinkholder%2525203%252520%2525C2%2525B7%25252056340%252520Osterspai%2525C2%2525B7Case%252520in%252520affitto%252520per%252520vacanze%2526cardbg%253D%252523F98745&tstt0=Spay&cp=50.23697~7.487973&lvl=10.795087&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Spay%2fKoblenz%2c+Rheinland-Pfalz&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Spay/Koblenz, Rheinland-Pfalz"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Spay%2fKoblenz%2c+Rheinland-Pfalz&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250807",
       "fullstartdate": "202508072200",
       "enddate": "20250808",

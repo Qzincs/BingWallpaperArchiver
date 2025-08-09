@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250808",
+      "fullstartdate": "202508080700",
+      "enddate": "20250809",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_ROW3437451352_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Iguazu+waterfalls+Argentina+Brazil&form=BGALM&filters=HpDate:\"20250808_0700\"",
+      "title": "The Three Musketeers Falls at Iguazú Falls, Argentina",
+      "description": "No voice is loud enough to drown out the roar of Iguazú Falls. But it's not just the sound. The sheer presence of this natural wonder is overwhelming as it straddles the border between Argentina and Brazil. This vast waterfall system stretches nearly 3 kilometres and features more than 270 individual cascades, each offering a unique display of tumbling water and shimmering mist.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 8, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Iguazu+waterfalls+Argentina+Brazil&form=BGABWCTA7&filters=HpDate:\"20250808_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250807",
       "fullstartdate": "202508070700",
       "enddate": "20250808",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250808",
+      "fullstartdate": "202508080300",
+      "enddate": "20250809",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_PT-BR7659880739_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cataratas+do+Igua%c3%a7u&form=BGALM&filters=HpDate:\"20250808_0300\"",
+      "title": "Salto Três Mosqueteiros nas Cataratas do Iguaçu, Argentina",
+      "description": "Não há voz que se imponha sobre o rugido das Cataratas do Iguaçu. Mas o impacto vai além do som: é a presença avassaladora dessa força da natureza, na fronteira entre Brasil e Argentina. Com quase três quilômetros de extensão e mais de 270 quedas d’água, esse colosso em movimento esculpe o ar com neblina, luz e vertigem.",
+      "headline": "Águas que domam o silêncio",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250808_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cataratas+do+Igua%c3%a7u&form=BGABWCTA7&filters=HpDate:\"20250808_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250807",
       "fullstartdate": "202508070300",
       "enddate": "20250808",

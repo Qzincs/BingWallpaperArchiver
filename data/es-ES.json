@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250808",
+      "fullstartdate": "202508082200",
+      "enddate": "20250809",
+      "urlbase": "https://www.bing.com/th?id=OHR.SanSebastianBigWeek_ES-ES3382774844_UHD.jpg",
+      "copyrighttext": "© Guido Cozzi/Atlantide Phototravel",
+      "copyrightlink": "https://www.bing.com/search?q=Semana+Grande+de+San+Sebasti%c3%a1n&form=BGALM&filters=HpDate:\"20250808_2200\"",
+      "title": "Semana Grande de San Sebastián, España",
+      "description": "¿Sabías que en San Sebastián se celebra una de las fiestas más emocionantes del norte de España? La Semana Grande, o Aste Nagusia, llena la ciudad de alegría cada agosto, con fuegos artificiales, música, gastronomía y tradiciones que la convierten en un destino único.",
+      "headline": "¡Una gran semana!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250809_SanSebastianBigWeek\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Semana+Grande+de+San+Sebasti%c3%a1n&form=BGABWCTA7&filters=HpDate:\"20250808_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250807",
       "fullstartdate": "202508072200",
       "enddate": "20250808",
