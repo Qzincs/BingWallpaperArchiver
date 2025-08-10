@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250809",
+      "fullstartdate": "202508091600",
+      "enddate": "20250810",
+      "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%8b%ae%e5%ad%90%e6%97%a5&form=BGALM&filters=HpDate:\"20250809_1600\"",
+      "title": "马赛马拉国家保护区的雌狮,肯尼亚",
+      "description": "狮子的怒吼在非洲大草原上回荡，千百年来激发着人类的想象力。每年的8月10日是世界狮子日，这一天邀请我们共同庆祝这些具有象征意义的猛兽，同时唤起人们对它们数量日益减少以及保护工作的紧迫性的关注。",
+      "headline": "为正义怒吼",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250810_LionessKenya\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e7%8b%ae%e5%ad%90%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250809_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250808",
       "fullstartdate": "202508081600",
       "enddate": "20250809",

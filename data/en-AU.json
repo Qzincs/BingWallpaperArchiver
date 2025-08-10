@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250809",
+      "fullstartdate": "202508090700",
+      "enddate": "20250810",
+      "urlbase": "https://www.bing.com/th?id=OHR.RotatoriaLetras_ROW3601160329_UHD.jpg",
+      "copyrighttext": "© Cristian Lourenço/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Letters+Roundabout+Manaus&form=BGALM&filters=HpDate:\"20250809_0700\"",
+      "title": "Letters Square Roundabout, Manaus, Brazil",
+      "description": "Amid the fast-paced traffic of Manaus, in Amazonas, Brazil, there's a point where meaning dissolves. Seen from above, the image appears to show a roundabout like any other. But in its centre rests an unusual sculpture: gigantic steel letters intertwined in a knot. Created by artist Sérgio Cardoso in 2003, the work arrived before the roundabout itself—traffic circled around it before any road planning. Made of stainless steel and about 4 metres tall, its original name, 'Diálogo,' never stuck. For residents, it was always 'Bola das Letras.' And so, it remained: a spontaneous nickname, a reference that slipped out of control and became part of the urban landscape. Today, few remember the official title—or even the name of the roundabout.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250809_RotatoriaLetras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 9, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Letters+Roundabout+Manaus&form=BGABWCTA7&filters=HpDate:\"20250809_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250808",
       "fullstartdate": "202508080700",
       "enddate": "20250809",

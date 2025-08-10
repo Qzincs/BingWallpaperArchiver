@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250809",
+      "fullstartdate": "202508092200",
+      "enddate": "20250810",
+      "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_ES-ES3481015675_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Le%c3%b3n+animal&form=BGALM&filters=HpDate:\"20250809_2200\"",
+      "title": "Leona en la Reserva Nacional Masái Mara, Kenia",
+      "description": "Con su imponente rugido, el león ha fascinado a la humanidad durante siglos. Cada 10 de agosto se celebra el Día Mundial del León, una oportunidad para conocer más sobre este majestuoso felino y recordar la urgencia de protegerlo: su población está en declive.",
+      "headline": "Ruge por una causa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250810_LionessKenya\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Le%c3%b3n+animal&form=BGABWCTA7&filters=HpDate:\"20250809_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250808",
       "fullstartdate": "202508082200",
       "enddate": "20250809",

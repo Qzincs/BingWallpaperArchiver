@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250809",
+      "fullstartdate": "202508090300",
+      "enddate": "20250810",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaoriRock_PT-BR7824460813_UHD.jpg",
+      "copyrighttext": "© Joppi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+Ind%c3%adgenas&form=BGALM&filters=HpDate:\"20250809_0300\"",
+      "title": "Gravuras Maori em pedra na Mine Bay, Lago Taupo, Nova Zelândia",
+      "description": "Na imagem de hoje, vemos as impressionantes esculturas entalhadas nas falésias de Mine Bay, na Nova Zelândia. Feitas pelo artista Matahi Whakataka-Brightwell, só podem ser vistas por quem se aproxima por água — um gesto de reverência às tradições do povo originário Maori e à sua conexão com o território. Neste 9 de agosto, Dia Internacional dos Povos Indígenas, o convite é o mesmo: chegar com respeito, ouvir com atenção.",
+      "headline": "As raízes do amanhã",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250809_MaoriRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Internacional+Ind%c3%adgenas&form=BGABWCTA7&filters=HpDate:\"20250809_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250808",
       "fullstartdate": "202508080300",
       "enddate": "20250809",

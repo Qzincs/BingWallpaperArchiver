@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250809",
+      "fullstartdate": "202508090400",
+      "enddate": "20250810",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaoriRock_EN-CA7654084969_UHD.jpg",
+      "copyrighttext": "© Joppi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=BGALM&filters=HpDate:\"20250809_0400\"",
+      "title": "Ngātoroirangi Mine Bay Māori Rock Carvings on Lake Taupō, New Zealand",
+      "description": "Each year on August 9, the United Nations observes the International Day of the World's Indigenous Peoples—a moment to recognise the resilience, wisdom and cultural richness of Indigenous communities around the globe. In Canada, this day is an opportunity to reflect on the diverse histories and contribsutions of First Nations, Inuit and Métis peoples, while also fostering solidarity with Indigenous communities worldwide.",
+      "headline": "Honouring Indigenous voices",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250809_MaoriRock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-38.693459,176.076706/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-38.693459,176.076706;S9;Māori Rock Carvings, Lake Taupō, New Zealand&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Maori%20Rock%20Carvings%2C%20Lake%20Taupo%2C%20Taupo%2C%20NZ&ss=ypid.YN8138x7844755100487663721&mb=-38.688031~176.070113~-38.6989~176.083288&description=Lake%20Taupo%20Taupo%203377&cardbg=%23219AB6&dt=1751025600000&tt=Maori%20Rock%20Carvings&tsts0=%2526ty%253D18%2526q%253DMaori%252520Rock%252520Carvings%25252C%252520Lake%252520Taupo%25252C%252520Taupo%25252C%252520NZ%2526ss%253Dypid.YN8138x7844755100487663721%2526mb%253D-38.688031~176.070113~-38.6989~176.083288%2526description%253DLake%252520Taupo%252520Taupo%2525203377%2526cardbg%253D%252523219AB6%2526dt%253D1751025600000&tstt0=Maori%20Rock%20Carvings&cp=-37.961523~154.02832&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug. 9, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+New+Zealand&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  New Zealand"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++New+Zealand&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250808",
       "fullstartdate": "202508080400",
       "enddate": "20250809",

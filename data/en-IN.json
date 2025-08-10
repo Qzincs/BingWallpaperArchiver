@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250809",
+      "fullstartdate": "202508091830",
+      "enddate": "20250810",
+      "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_EN-IN3681659136_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=World+Lion+Day&form=BGALM&filters=HpDate:\"20250809_1830\"",
+      "title": "Lioness in Maasai Mara National Reserve, Kenya",
+      "description": "With a roar that echoes across the plains, lions have long captured the human imagination. On August 10, World Lion Day invites us to celebrate these iconic big cats while raising awareness about their declining numbers and the urgent need for conservation. One of the best places to witness lions in the wild is Maasai Mara National Reserve in Kenya, featured here. Nestled in the heart of East Africa, this vast savannah is home to around 850 to 900 lions.",
+      "headline": "Roar for a cause",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250810_LionessKenya\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.482136,35.130062/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-1.482136,35.130062;S9;Maasai Mara National Reserve, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Narok%2000100%C2%B7Nature%20reserve&ss=ypid.YN8091x9813535758002484597&mb=-1.462426~35.097126~-1.501802~35.162976&description=Narok%2000100%C2%B7Nature%20reserve&cardbg=%233DB838&dt=1751032800000&tt=Maasai%20Mara%20National%20Reserve&tsts0=%2526ty%253D18%2526q%253DNarok%25252000100%2525C2%2525B7Nature%252520reserve%2526ss%253Dypid.YN8091x9813535758002484597%2526mb%253D-1.462426~35.097126~-1.501802~35.162976%2526description%253DNarok%25252000100%2525C2%2525B7Nature%252520reserve%2526cardbg%253D%2525233DB838%2526dt%253D1751032800000&tstt0=Maasai%20Mara%20National%20Reserve&cp=0.23866~4.390387&lvl=4.036025&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kenya&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Kenya"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Kenya&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250808",
       "fullstartdate": "202508081830",
       "enddate": "20250809",
