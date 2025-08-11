@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250810",
+      "fullstartdate": "202508102200",
+      "enddate": "20250811",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_ES-ES3834895860_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomitas+Italia&form=BGALM&filters=HpDate:\"20250810_2200\"",
+      "title": "Pueblo de Santa Maddalena, Dolomitas, Italia",
+      "description": "En el norte de Italia, escondido en el valle de Val di Funes, se encuentra Santa Maddalena, un pueblo de postal en pleno Tirol del Sur. Su famoso campanario destaca frente a los Dolomitas, una cadena montañosa declarada Patrimonio de la Humanidad por la UNESCO y que deben su nombre al geólogo francés Déodat de Dolomieu. Al atardecer, estas montañas se tiñen de rosa en un fenómeno natural conocido como enrosadira.",
+      "headline": "La postal de los picos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dolomitas+Italia&form=BGABWCTA7&filters=HpDate:\"20250810_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250809",
       "fullstartdate": "202508092200",
       "enddate": "20250810",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250810",
+      "fullstartdate": "202508100700",
+      "enddate": "20250811",
+      "urlbase": "https://www.bing.com/th?id=OHR.LionessKenya_ROW4235545619_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Maasai+Mara+National+Reserve&form=BGALM&filters=HpDate:\"20250810_0700\"",
+      "title": "Lioness in Maasai Mara National Reserve, Kenya",
+      "description": "Featured in today's image are among the most iconic big cats in the animal kingdom—the lions—known for their powerful roar which can be heard from 8 kilometres. One of the best places to witness lions in the wild is Maasai Mara National Reserve in Kenya. Nestled in the heart of East Africa, this vast savannah is home to around 850 to 900 lions. The reserve's rich ecosystem and seasonal wildebeest migration offer a front-row seat to the drama of lion life—from territorial battles to cooperative hunts. But Maasai Mara is more than a wildlife haven; it's a model for community-led conservation. Local Maasai communities work alongside conservationists to protect both lions and their ancestral lands, showing that coexistence is not only possible but powerful.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250810_LionessKenya\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Maasai+Mara+National+Reserve&form=BGABWCTA7&filters=HpDate:\"20250810_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250809",
       "fullstartdate": "202508090700",
       "enddate": "20250810",

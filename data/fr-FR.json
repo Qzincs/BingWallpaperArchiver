@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250810",
+      "fullstartdate": "202508102200",
+      "enddate": "20250811",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_FR-FR5142947664_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomites+Italie&form=BGALM&filters=HpDate:\"20250810_2200\"",
+      "title": "Village de Santa Maddalena, Dolomites, Italie",
+      "description": "Au creux d’une vallée vert émeraude, sous les cimes abruptes des Dolomites, le village de Santa Maddalena semble figé dans une autre époque. Lorsque le soleil couchant embrase les parois rocheuses de lumière dorée, le hameau tout entier devient un tableau vivant. Un clocher, quelques fermes, des prés paisibles : le silence est ici un patrimoine.",
+      "headline": "Un tableau vivant au cœur des Dolomites",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.61306,12.16306/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.61306,12.16306;S9;Dolomites, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dolomites%2C%20Italy&satid=id.sid%3Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272&vdpid=7022525644709822465&mb=46.968071~11.287977~46.254981~13.03785&cardbg=%23F98745&dt=1751036400000&tt=Dolomites%2C%20Italy&tsts1=%2526ty%253D30%2526q%253DDolomites%25252C%252520Italy%2526satid%253Did.sid%25253Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272%2526vdpid%253D7022525644709822465%2526mb%253D46.968071~11.287977~46.254981~13.03785%2526cardbg%253D%252523F98745%2526dt%253D1751036400000&tstt1=Dolomites%2C%20Italy&cp=45.739959~5.313777&lvl=5.78&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Dolomites%2c+Italie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Dolomites, Italie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Dolomites%2c+Italie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250809",
       "fullstartdate": "202508092200",
       "enddate": "20250810",

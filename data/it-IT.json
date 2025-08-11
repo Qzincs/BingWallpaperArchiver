@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250810",
+      "fullstartdate": "202508102200",
+      "enddate": "20250811",
+      "urlbase": "https://www.bing.com/th?id=OHR.StelleSanLorenzo_IT-IT2737058274_UHD.jpg",
+      "copyrighttext": "© Fabio Massimo Zappulla/500px/500Px Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Meteora+astronomia&form=BGALM&filters=HpDate:\"20250810_2200\"",
+      "title": "Via Lattea vista dalla Val d'Orcia, Toscana",
+      "description": "In Val d’Orcia, dove le colline si piegano lente al passo del tempo, la notte dell’11 agosto si accende di attesa e di desideri. Sotto la Via Lattea, che disegna sentieri luminosi nel cielo, la terra resta immobile, come in ascolto. È la notte di San Lorenzo, martire cristiano, celebrato in questi giorni, che secondo la tradizione fu arso sulla graticola il 10 agosto del 258 d.C. Da allora, le stelle cadenti che solcano i cieli in questo periodo vengono chiamate \"lacrime di San Lorenzo\", scintille di un’antica memoria che incontra ogni anno nuovi desideri.",
+      "headline": "Stelle cadenti, desideri latenti",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_StelleSanLorenzo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.06667,11.55/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.06667,11.55;S9;Val d'Orcia, Toscana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Val%20d%27Orcia&satid=id.sid%3A5c0fa4f6-68b0-8d1a-b17b-04ead58b8f23&vdpid=7331704365234782215&mb=43.071349~11.533533~43.062006~11.567865&cardbg=%23F98745&dt=1752505200000&tt=Val%20d%27Orcia%2C%20Siena%2C%20Toscana%2C%20Italia&tsts0=%2526ty%253D30%2526q%253DVal%252520d%252527Orcia%2526satid%253Did.sid%25253A5c0fa4f6-68b0-8d1a-b17b-04ead58b8f23%2526vdpid%253D7331704365234782215%2526mb%253D43.071349~11.533533~43.062006~11.567865%2526cardbg%253D%252523F98745%2526dt%253D1752505200000&tstt0=Val%20d%27Orcia%2C%20Siena%2C%20Toscana%2C%20Italia&cp=43.066677~11.545365&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Toscana&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Toscana"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Toscana&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250809",
       "fullstartdate": "202508092200",
       "enddate": "20250810",

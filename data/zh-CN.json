@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250810",
+      "fullstartdate": "202508101600",
+      "enddate": "20250811",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1&form=BGALM&filters=HpDate:\"20250810_1600\"",
+      "title": "圣玛格达莱娜, 多洛米蒂山, 意大利",
+      "description": "位于意大利北部阿尔卑斯山的南蒂罗尔州，圣玛格达莱娜村坐落于福内斯山谷中，宛如明信片上描绘的理想村落。村中标志性的尖顶教堂，背后耸立着刀削斧刻般的多洛米蒂山峰，是该地区最常被拍摄的景致之一。多洛米蒂山脉本身被联合国教科文组织列为世界遗产，山体主要由淡色石灰岩构成，日落时泛起柔和的粉红色光芒，当地人称之为“日照粉红”现象。",
+      "headline": "来自山巅的明信片",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 11",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1&form=BGABWCTA7&filters=HpDate:\"20250810_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250809",
       "fullstartdate": "202508091600",
       "enddate": "20250810",
