@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250811",
+      "fullstartdate": "202508111600",
+      "enddate": "20250812",
+      "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_ZH-CN7587207512_UHD.jpg",
+      "copyrighttext": "© Chase Dekker/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%a4%a7%e8%b1%a1%e6%97%a5&form=BGALM&filters=HpDate:\"20250811_1600\"",
+      "title": "非洲象群, 安博塞利国家公园, 肯尼亚",
+      "description": "大耳朵，大心脏，大象不仅是野性的象征，更代表着自然界的智慧。每年8月12日是“世界大象日”，这是一个全球纪念日，旨在提高人们对这些雄伟巨兽的关注。今日图片拍摄于肯尼亚的安博塞利国家公园，这里是它们的重要栖息地之一。大象真正令人敬佩的不只是庞大的体型，更是它们卓越的智慧。年长的母象首领拥有惊人的记忆力，能够记得数十年前的水源位置，并在干旱时期带领族群找到水源。它们的社交关系也极为紧密，生活在稳固的家族群体中，会为同伴的死亡哀悼，甚至在困难时互相安慰。",
+      "headline": "野性、智慧与奇迹",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250812_KenyaElephants\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 12",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%a4%a7%e8%b1%a1%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250811_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250810",
       "fullstartdate": "202508101600",
       "enddate": "20250811",

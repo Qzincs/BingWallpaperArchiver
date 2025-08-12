@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250811",
+      "fullstartdate": "202508112200",
+      "enddate": "20250812",
+      "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_ES-ES4146810031_UHD.jpg",
+      "copyrighttext": "© Chase Dekker/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Elefante+Africano&form=BGALM&filters=HpDate:\"20250811_2200\"",
+      "title": "Manada de elefantes africanos, Parque nacional de Amboseli, Kenia",
+      "description": "Orejas enormes y memoria prodigiosa: los elefantes son mucho más que gigantes de la sabana. Cada 12 de agosto se celebra el Día Mundial del Elefante, una fecha para concienciar sobre la importancia de proteger a estos majestuosos animales.",
+      "headline": "Salvaje, sabio y maravilloso",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250812_KenyaElephants\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Elefante+Africano&form=BGABWCTA7&filters=HpDate:\"20250811_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250810",
       "fullstartdate": "202508102200",
       "enddate": "20250811",

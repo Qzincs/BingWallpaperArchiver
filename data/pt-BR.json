@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250811",
+      "fullstartdate": "202508110300",
+      "enddate": "20250812",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_PT-BR8037703771_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomitas+na+It%c3%a1lia&form=BGALM&filters=HpDate:\"20250811_0300\"",
+      "title": "Vila de Santa Maddalena, Dolomitas, Itália",
+      "description": "Vamos viajar à Itália hoje? A imagem do dia nos leva a Santa Maddalena, um vilarejo encantador no vale de Val di Funes, onde as casas parecem se encolher diante das Dolomitas. Essa cadeia montanhosa, formada por antigos recifes marinhos e esculpida ao longo de milênios pela ação da água e do vento, é composta por dolomita — rocha rica em cálcio e magnésio que, ao pôr do sol, se tinge de rosa no fenômeno local chamado “enrosadira”.",
+      "headline": "O cartão-postal dos picos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dolomitas+na+It%c3%a1lia&form=BGABWCTA7&filters=HpDate:\"20250811_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250810",
       "fullstartdate": "202508100300",
       "enddate": "20250811",

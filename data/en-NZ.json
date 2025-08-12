@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250811",
+      "fullstartdate": "202508110700",
+      "enddate": "20250812",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_ROW4509037757_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomites+Italy&form=BGALM&filters=HpDate:\"20250811_0700\"",
+      "title": "Village of Santa Maddalena, Dolomites, Italy",
+      "description": "Tucked into the northern Italian Alps, the village of Santa Maddalena is a postcard-perfect hamlet in South Tyrol's valley of Val di Funes. With its iconic church steeple set against the jagged peaks of the Dolomites—a mountain range in the Alps—it's one of the most photographed spots in the region. The Dolomites themselves—a UNESCO World Heritage Site—rise dramatically behind the village, their pale limestone faces glowing pink at sunset in a phenomenon locals call 'enrosadira.'",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250811_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dolomites+Italy&form=BGABWCTA7&filters=HpDate:\"20250811_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250810",
       "fullstartdate": "202508100700",
       "enddate": "20250811",

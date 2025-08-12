@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250811",
+      "fullstartdate": "202508112200",
+      "enddate": "20250812",
+      "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_IT-IT2826374695_UHD.jpg",
+      "copyrighttext": "© Chase Dekker/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Elefante&form=BGALM&filters=HpDate:\"20250811_2200\"",
+      "title": "Branco di elefanti africani, Parco Nazionale Amboseli, Kenya",
+      "description": "Giganti buoni, custodi della savana e della memoria, gli elefanti ci ricordano ogni anno la forza gentile della natura. Il 12 agosto celebriamo la \"Giornata Mondiale dell’Elefante\", un movimento globale che vuole ricordarci la grandezza di questi animali straordinari, come quelli che vivono nel Parco Nazionale di Amboseli, in Kenya. Più che per la stazza, gli elefanti sorprendono per la mente: le matriarche ricordano dove si trovano le fonti d’acqua anche dopo decenni e guidano il branco con antica saggezza. I legami che li uniscono sono profondi: vivono in famiglie unite, piangono i loro morti e si confortano nei momenti di difficoltà.",
+      "headline": "Uno per tutti, tutti per uno?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250812_KenyaElephants\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-2.638083,37.242832/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-2.638083,37.242832;S9;Parco Nazionale Amboseli, Kenya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Amboseli%20national%20park&ss=ypid.YN8091x6497079959341137896&mb=-2.632005~37.232999~-2.644159~37.252675&description=Amboseli%C2%B7National%20park&cardbg=%233DB838&dt=1751013000000&tt=Parque%20Nacional%20Amboseli&tsts0=%2526ty%253D18%2526q%253DAmboseli%252520national%252520park%2526ss%253Dypid.YN8091x6497079959341137896%2526mb%253D-2.632005~37.232999~-2.644159~37.252675%2526description%253DAmboseli%2525C2%2525B7National%252520park%2526cardbg%253D%2525233DB838%2526dt%253D1751013000000&tstt0=Parque%20Nacional%20Amboseli&cp=-3.94288~25.066158&lvl=4.57512&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "12 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Parco+Nazionale+Amboseli%2c+Kenya&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Parco Nazionale Amboseli, Kenya"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Parco+Nazionale+Amboseli%2c+Kenya&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250810",
       "fullstartdate": "202508102200",
       "enddate": "20250811",
