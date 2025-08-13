@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250812",
+      "fullstartdate": "202508122200",
+      "enddate": "20250813",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_IT-IT2896067117_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dolomiti&form=BGALM&filters=HpDate:\"20250812_2200\"",
+      "title": "Villaggio di Santa Maddalena, Val di Funes, Dolomiti, Trentino-Alto Adige",
+      "description": "Nel cuore della Val di Funes, in Trentino-Alto Adige, il piccolo borgo di Santa Maddalena si presenta come un angolo incantato, dove la natura alpina e le radici ladine convivono in perfetta armonia. La chiesetta di Santa Maddalena, con il suo campanile aguzzo, è una vera icona, quasi il logo non ufficiale delle Dolomiti, ritratta in innumerevoli fotografie, calendari e copertine. Qui non si viene per il glamour o la movida, ma per il silenzio che profuma di legno e di pascolo.",
+      "headline": "Valli di freschezza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.638451,11.71862/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.638451,11.71862;S9;Villaggio di Santa Maddalena, Val di Funes, Trentino-Alto Adige&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?&ty=18&ss=ypid.YN1354x592177449400709661&mb=46.647488~11.587056~46.573198~11.806247&description=Villn%C3%B6%C3%9F%C2%B7Attractions%20et%20activit%C3%A9s&dt=1752505200000&tt=Santa%20Maddalena&tsts1=%2526ty%253D18%2526ss%253Dypid.YN1354x592177449400709661%2526mb%253D46.647488~11.587056~46.573198~11.806247%2526description%253DVilln%2525C3%2525B6%2525C3%25259F%2525C2%2525B7Attractions%252520et%252520activit%2525C3%2525A9s%2526dt%253D1752505200000&tstt1=Santa%20Maddalena&cp=46.610418~11.661132&lvl=12.92&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Val+di+Funes%2c+Dolomiti%2c+Trentino-Alto+Adige&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Val di Funes, Dolomiti, Trentino-Alto Adige"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Val+di+Funes%2c+Dolomiti%2c+Trentino-Alto+Adige&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250811",
       "fullstartdate": "202508112200",
       "enddate": "20250812",

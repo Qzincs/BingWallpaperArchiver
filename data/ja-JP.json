@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250812",
+      "fullstartdate": "202508121500",
+      "enddate": "20250813",
+      "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_JA-JP2223848865_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b3%e3%83%ad%e3%83%8a%e3%83%bb%e3%82%a2%e3%83%bc%e3%83%81&form=BGALM&filters=HpDate:\"20250812_1500\"",
+      "title": "コロナ・アーチ, 米国 ユタ州",
+      "description": "米国ユタ州に位置するアーチーズ国立公園には、2,000 を超える天然の砂岩のアーチが点在しています。中でも最も有名なのは、ユタ州のシンボルにもなっているデリケート・アーチ。夕陽に照らされ、オレンジに輝く姿が、世界中の写真家を魅了しています…",
+      "headline": "岩のアーチからぶら下がる冒険者",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_CoronaArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.560852,-109.549454/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.560852,-109.549454;S9;コロナ・アーチ, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=corona%20arch%20utah&ss=ypid.YN873x13835430595659141322&mb=38.565608~-109.559301~38.556094~-109.539624&description=82%20E%20Dogwood%2C%20Moab%2C%20Ut%2084532%C2%B7Hiking%20area&cardbg=%23219AB6&dt=1751297400000&tt=Corona%20Arch%20Trail&tsts0=%2526ty%253D18%2526q%253Dcorona%252520arch%252520utah%2526ss%253Dypid.YN873x13835430595659141322%2526mb%253D38.565608~-109.559301~38.556094~-109.539624%2526description%253D82%252520E%252520Dogwood%25252C%252520Moab%25252C%252520Ut%25252084532%2525C2%2525B7Hiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1751297400000&tstt0=Corona%20Arch%20Trail&cp=38.410558~-115.136719&lvl=6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 13 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%a6%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ユタ州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%a6%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250811",
       "fullstartdate": "202508111500",
       "enddate": "20250812",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250812",
+      "fullstartdate": "202508120700",
+      "enddate": "20250813",
+      "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_ROW4632844635_UHD.jpg",
+      "copyrighttext": "© Chase Dekker/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=African+elephant&form=BGALM&filters=HpDate:\"20250812_0700\"",
+      "title": "African elephant herd, Amboseli National Park, Kenya",
+      "description": "Big ears, bigger hearts—elephants are more than just icons of the wild. These majestic giants roam freely across places like Amboseli National Park in Kenya, pictured here. What makes elephants so extraordinary isn't just their size; it's their minds. These animals have incredible memories. Matriarchs, the oldest females, can recall the locations of water sources from decades past, and they use that knowledge to lead their herds through tough times. Their social bonds run just as deep. Elephants live in close-knit families, mourn their dead and have even been observed comforting one another during hard times.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250812_KenyaElephants\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=African+elephant&form=BGABWCTA7&filters=HpDate:\"20250812_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250811",
       "fullstartdate": "202508110700",
       "enddate": "20250812",

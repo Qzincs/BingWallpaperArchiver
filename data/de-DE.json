@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250812",
+      "fullstartdate": "202508122200",
+      "enddate": "20250813",
+      "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_DE-DE6360631129_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Utah+US-Bundesstaat&form=BGALM&filters=HpDate:\"20250812_2200\"",
+      "title": "Ein Mann seilt sich vom Corona Arch nahe Moab ab, Utah, USA",
+      "description": "Der Corona Arch in Utah ist ein beeindruckendes Naturwunder im Südwesten der USA, nur wenige Kilometer vom Arches-Nationalpark entfernt. Der mächtige Sandsteinbogen liegt nahe der Stadt Moab, unweit des Colorado River – und zählt zu den schönsten natürlichen Felsbögen des Landes. Die imposante Formation aus Navajo-Sandstein ragt wie ein steinernes Tor in den Himmel und ist ein echter Geheimtipp für Natur- und Fotografieliebhaber. Mit einer Spannweite von rund 43  Metern und einer Höhe von 32 Metern ist der Bogen größer als ein fünfstöckiges Gebäude. Der rund 2,5 Kilometer lange Wanderweg zum Corona Arch ist gut ausgeschildert und führt durch eine faszinierende Wüstenlandschaft mit roten Felsen, kleinen Canyons, stillgelegten Bahngleisen und weiten Ausblicken. Am Ziel angekommen, wird man mit einem spektakulären Anblick belohnt.",
+      "headline": "Ein Geheimnis der Natur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_CoronaArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.560852,-109.549454/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.560852,-109.549454;S9;Corona Arch Trail, Moab, Utah, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=corona%20arch%20utah&ss=ypid.YN873x13835430595659141322&mb=38.565608~-109.559301~38.556094~-109.539624&description=82%20E%20Dogwood%2C%20Moab%2C%20Ut%2084532%C2%B7Hiking%20area&cardbg=%23219AB6&dt=1751297400000&tt=Corona%20Arch%20Trail&tsts0=%2526ty%253D18%2526q%253Dcorona%252520arch%252520utah%2526ss%253Dypid.YN873x13835430595659141322%2526mb%253D38.565608~-109.559301~38.556094~-109.539624%2526description%253D82%252520E%252520Dogwood%25252C%252520Moab%25252C%252520Ut%25252084532%2525C2%2525B7Hiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1751297400000&tstt0=Corona%20Arch%20Trail&cp=38.410558~-115.136719&lvl=6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Utah%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Utah, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Utah%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250811",
       "fullstartdate": "202508112200",
       "enddate": "20250812",

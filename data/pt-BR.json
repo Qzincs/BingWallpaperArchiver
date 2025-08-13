@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250812",
+      "fullstartdate": "202508120300",
+      "enddate": "20250813",
+      "urlbase": "https://www.bing.com/th?id=OHR.KenyaElephants_PT-BR8192553536_UHD.jpg",
+      "copyrighttext": "© Chase Dekker/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+do+Elefante&form=BGALM&filters=HpDate:\"20250812_0300\"",
+      "title": "Manada de elefantes africanos, Parque Nacional de Amboseli, Quênia",
+      "description": "Orelhas grandes, corações ainda maiores — os elefantes são muito mais do que ícones da vida selvagem. Todos os anos, no dia 12 de agosto, celebramos o Dia Mundial do Elefante — um movimento global para aumentar a conscientização sobre esses gigantes majestosos que percorrem lugares como o Parque Nacional de Amboseli, no Quênia, mostrado na imagem de hoje.",
+      "headline": "Selvagem, sábio e maravilhoso",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250812_KenyaElephants\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Mundial+do+Elefante&form=BGABWCTA7&filters=HpDate:\"20250812_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250811",
       "fullstartdate": "202508110300",
       "enddate": "20250812",

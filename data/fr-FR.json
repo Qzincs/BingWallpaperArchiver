@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250812",
+      "fullstartdate": "202508122200",
+      "enddate": "20250813",
+      "urlbase": "https://www.bing.com/th?id=OHR.Flamingos_FR-FR9616625186_UHD.jpg",
+      "copyrighttext": "© Raimund Linke/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Saintes-Maries-de-la-Mer&form=BGALM&filters=HpDate:\"20250812_2200\"",
+      "title": "Flamant rose, Saintes-Maries-de-la-Mer, Parc naturel régional de Camargue, Languedoc-Roussillon",
+      "description": "Aux portes des Saintes-Maries-de-la-Mer, le parc naturel régional de Camargue déploie ses paysages d’eau, de sel et de lumière. Ici, entre marais, sansouïres et lagunes, le flamant rose règne en majesté. Dans les eaux peu profondes, ces oiseaux gracieux, aux plumes rosées et aux ailes teintées de rouge et de noir, offrent un ballet aérien inoubliable.",
+      "headline": "Le flamant rose, emblème vivant de la Camargue",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_Flamingos\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.45167,4.428056/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.45167,4.428056;S9;Saintes-Maries-de-la-Mer%2C%20France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Saintes-Maries-de-la-Mer%2C%20France&satid=id.sid%3A346e5d24-7c4f-d46a-3c41-ea38f7a9f7cb&vdpid=7206748201817210881&mb=43.458114~4.412856~43.445231~4.44324&cardbg=%23F98745&tt=Saintes-Maries-de-la-Mer%2C%20Bouches-du-Rh%C3%B4ne&tsts0=%2526ty%253D30%2526q%253DSaintes-Maries-de-la-Mer%25252C%252520France%2526satid%253Did.sid%25253A346e5d24-7c4f-d46a-3c41-ea38f7a9f7cb%2526vdpid%253D7206748201817210881%2526mb%253D43.458114~4.412856~43.445231~4.44324%2526cardbg%253D%252523F98745&tstt0=Saintes-Maries-de-la-Mer%2C%20Bouches-du-Rh%C3%B4ne&cp=43.451673~4.422727&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Saintes-Maries-de-la-Mer%2c+Parc+naturel+r%c3%a9gional+de+Camargue%2c+Languedoc-Roussillon&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Saintes-Maries-de-la-Mer, Parc naturel régional de Camargue, Languedoc-Roussillon"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Saintes-Maries-de-la-Mer%2c+Parc+naturel+r%c3%a9gional+de+Camargue%2c+Languedoc-Roussillon&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250811",
       "fullstartdate": "202508112200",
       "enddate": "20250812",
