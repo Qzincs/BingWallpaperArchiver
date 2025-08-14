@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508131500",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_JA-JP2425115607_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%94%e3%83%83%e3%83%84%e3%83%bb%e3%83%8d%e3%82%a4%e3%83%ab&form=BGALM&filters=HpDate:\"20250813_1500\"",
+      "title": "ピッツ・ネイル, スイス",
+      "description": "スイスに位置するアルプスの名峰、ピッツ・ネイル。標高約 3,056m で、ケーブルカーやロープウェイを乗り継いで山頂までアクセスできます。頂上には、アイベックスというアルプスに生息するヤギの彫像が立っており、展望台とレストランも併設されています…",
+      "headline": "アルプスの名峰",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250814_PizNairPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.506248,9.787444/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.506248,9.787444;S9;ピッツ・ネイル, スイス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Piz%20Nair&ss=ypid.YN9003x10240631126679127&mb=46.51181~9.772296~46.500689~9.802594&description=7500%20St.%20Moritz%C2%B7Seilbahnservice&cardbg=%23F98745&tt=Piz%20Nair&tsts0=%2526ty%253D18%2526q%253DPiz%252520Nair%2526ss%253Dypid.YN9003x10240631126679127%2526mb%253D46.51181~9.772296~46.500689~9.802594%2526description%253D7500%252520St.%252520Moritz%2525C2%2525B7Seilbahnservice%2526cardbg%253D%252523F98745&tstt0=Piz%20Nair&cp=45.704096~10.082217&lvl=6.042745&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%82%a4%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " スイス への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b9%e3%82%a4%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508121500",
       "enddate": "20250813",

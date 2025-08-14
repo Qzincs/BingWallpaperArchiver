@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508132200",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_ES-ES4449735655_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=BGALM&filters=HpDate:\"20250813_2200\"",
+      "title": "Estación de teleférico en la montaña Piz Nair, Cantón de los Grisones, Suiza",
+      "description": "En Suiza hay una montaña que parece observarte desde las alturas: el Piz Nair, en los Alpes de Albula, se alza a 3.057 metros sobre el nivel del mar, dominando el valle de la Engadina, en el cantón de los Grisones, Suiza. La aventura comienza en St. Moritz: un funicular lleva hasta Corviglia, y desde allí, un teleférico conduce a la cima. Arriba aguardan un mirador panorámico, la emblemática estatua de la cabra montés y un restaurante acristalado con vistas de 360°.",
+      "headline": "Mirándolo desde arriba",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250814_PizNairPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Piz+Nair&form=BGABWCTA7&filters=HpDate:\"20250813_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508122200",
       "enddate": "20250813",

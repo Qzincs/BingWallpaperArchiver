@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508130700",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_ROW4754489590_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Natural+arch&form=BGALM&filters=HpDate:\"20250813_0700\"",
+      "title": "A man rappels off Corona Arch near Moab, Utah, United States",
+      "description": "Just outside Arches National Park in Utah, United States, lies a natural wonder that rises like a colossal doorway against the sky, drawing photographers, nature lovers and hikers. Welcome to Corona Arch, seen in today's image, a towering Navajo sandstone formation that offers big adventure without the big crowds. The Corona Arch Trail starts off easy but packs a punch of scenery: railroad tracks, slickrock scrambles and even a metal cable assist makes it more than just a walk in the desert. After 2.4 kilometres of walking, the payoff is big: a massive arch that's 43 metres wide and 32 metres high. It's so large that people once swung from it on ropes, until that was banned for safety reasons. Even without the adrenaline stunts, the hike offers beautiful views and unforgettable moments in the heart of Red Rock Country.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_CoronaArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Natural+arch&form=BGABWCTA7&filters=HpDate:\"20250813_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508120700",
       "enddate": "20250813",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508131830",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_EN-IN4426119374_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=BGALM&filters=HpDate:\"20250813_1830\"",
+      "title": "Cable car station on Piz Nair mountain, Graubünden, Switzerland",
+      "description": "There's a mountain in Switzerland that's always looking down on you—but don't take it personally. At over 3,000 metres, Piz Nair of the Albula Alps keeps an eye over the Engadine valley in Graubünden. Start in St. Moritz: hop on the funicular (a type of cable railway system) to Corviglia, then ride the cable car to the summit. This alpine peak hosted the 1948 Winter Olympics and still boasts some of the most famous ski runs in the country. The 'Piz Nair Wall' is known for its challenging downhill skiing and events like the 2003 World Championship downhill race. Come summer, the snow clears but the trails stay hot.",
+      "headline": "Taking it from the top",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250814_PizNairPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.506248,9.787444/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=46.506248,9.787444;S9;Piz Nair, Graubünden, Switzerland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Piz%20Nair&ss=ypid.YN9003x10240631126679127&mb=46.51181~9.772296~46.500689~9.802594&description=7500%20St.%20Moritz%C2%B7Seilbahnservice&cardbg=%23F98745&tt=Piz%20Nair&tsts0=%2526ty%253D18%2526q%253DPiz%252520Nair%2526ss%253Dypid.YN9003x10240631126679127%2526mb%253D46.51181~9.772296~46.500689~9.802594%2526description%253D7500%252520St.%252520Moritz%2525C2%2525B7Seilbahnservice%2526cardbg%253D%252523F98745&tstt0=Piz%20Nair&cp=45.704096~10.082217&lvl=6.042745&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Graub%c3%bcnden%2c+Switzerland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Graubünden, Switzerland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Graub%c3%bcnden%2c+Switzerland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508121830",
       "enddate": "20250813",

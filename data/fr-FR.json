@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508132200",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_FR-FR5851853861_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=mont+Piz+Nair&form=BGALM&filters=HpDate:\"20250813_2200\"",
+      "title": "Station téléphérique du mont Piz Nair, Grisons, Suisse",
+      "description": "À 3 056 mètres d’altitude, le Piz Nair domine la vallée de l’Engadine, dans le canton suisse des Grisons. Depuis Saint-Moritz, un funiculaire mène à Corviglia, puis un téléphérique suspendu entre ciel et roche vous transporte jusqu’à cette citadelle alpine.",
+      "headline": "Le sommet des Grisons",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250814_PizNairPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.506248,9.787444/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46.506248,9.787444;S9;Piz Nair, Grison, Suisse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Piz%20Nair&ss=ypid.YN9003x10240631126679127&mb=46.51181~9.772296~46.500689~9.802594&description=7500%20St.%20Moritz%C2%B7Seilbahnservice&cardbg=%23F98745&tt=Piz%20Nair&tsts0=%2526ty%253D18%2526q%253DPiz%252520Nair%2526ss%253Dypid.YN9003x10240631126679127%2526mb%253D46.51181~9.772296~46.500689~9.802594%2526description%253D7500%252520St.%252520Moritz%2525C2%2525B7Seilbahnservice%2526cardbg%253D%252523F98745&tstt0=Piz%20Nair&cp=45.704096~10.082217&lvl=6.042745&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Grisons%2c+Suisse&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Grisons, Suisse"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Grisons%2c+Suisse&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508122200",
       "enddate": "20250813",

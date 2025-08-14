@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508132200",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_IT-IT2958589125_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=BGALM&filters=HpDate:\"20250813_2200\"",
+      "title": "Stazione della funivia sul monte Piz Nair, Grigioni, Svizzera",
+      "description": "Pensate alla Svizzera e subito immaginate cime innevate, silenzi ovattati e panorami invernali da cartolina. Ma Piz Nair vi aspetta anche d’estate, fiero e vigile, sopra la valle dell’Engadina. Con i suoi 3.056 metri, questa montagna delle Alpi dell'Albula scruta le valli come un guardiano silenzioso. Vi lasciate alle spalle il rumore e vi immergete nel silenzio dei pendii, tra profumi d’erba e cielo limpido. Si cammina, si respira, si sta in pace. E se la fatica comincia a farsi sentire, là in alto vi aspetta una sala tutta di vetro, sospesa nell’azzurro. Il paesaggio non è solo da ammirare: entra con voi, vi circonda e accompagna ogni pausa come un respiro lento.",
+      "headline": "La voce dei giganti",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250814_PizNairPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.506248,9.787444/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.506248,9.787444;S9;Piz Nair, Grigioni, Svizzera&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Piz%20Nair&ss=ypid.YN9003x10240631126679127&mb=46.51181~9.772296~46.500689~9.802594&description=7500%20St.%20Moritz%C2%B7Seilbahnservice&cardbg=%23F98745&tt=Piz%20Nair&tsts0=%2526ty%253D18%2526q%253DPiz%252520Nair%2526ss%253Dypid.YN9003x10240631126679127%2526mb%253D46.51181~9.772296~46.500689~9.802594%2526description%253D7500%252520St.%252520Moritz%2525C2%2525B7Seilbahnservice%2526cardbg%253D%252523F98745&tstt0=Piz%20Nair&cp=45.704096~10.082217&lvl=6.042745&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Grigioni%2c+Svizzera&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Grigioni, Svizzera"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Grigioni%2c+Svizzera&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508122200",
       "enddate": "20250813",

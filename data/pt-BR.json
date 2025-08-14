@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250813",
+      "fullstartdate": "202508130300",
+      "enddate": "20250814",
+      "urlbase": "https://www.bing.com/th?id=OHR.CoronaArch_PT-BR8379386277_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Arco+natural&form=BGALM&filters=HpDate:\"20250813_0300\"",
+      "title": "Escalador fazendo rapel no Corona Arch, perto de Moab, Utah, EUA",
+      "description": "Ao lado do Parque Nacional dos Arcos, em Utah, Estados Unidos, está uma maravilha natural que se ergue como um portal colossal contra o céu, atraindo fotógrafos, amantes da natureza e trilheiros. Bem-vindo ao Corona Arch, destaque da imagem de hoje.",
+      "headline": "Explorando arcos gigantes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250813_CoronaArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Arco+natural&form=BGABWCTA7&filters=HpDate:\"20250813_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250812",
       "fullstartdate": "202508120300",
       "enddate": "20250813",
