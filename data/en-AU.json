@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250814",
+      "fullstartdate": "202508140700",
+      "enddate": "20250815",
+      "urlbase": "https://www.bing.com/th?id=OHR.PizNairPeak_ROW4951213904_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Piz+Nair&form=BGALM&filters=HpDate:\"20250814_0700\"",
+      "title": "Cable car station on Piz Nair mountain, Graubünden, Switzerland",
+      "description": "There's a mountain in Switzerland that's always looking down on you—but don't take it personally. At 3,056 metres, Piz Nair of the Albula Alps keeps an eye over the Engadine valley in Graubünden. Start in St. Moritz: hop on the funicular (a type of cable railway system) to Corviglia, then ride the cable car to the summit. At the top? A viewing platform and that famous ibex (an alpine goat) statue. There's also a restaurant where you can eat inside a glass cube with 360° views.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250814_PizNairPeak\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Piz+Nair&form=BGABWCTA7&filters=HpDate:\"20250814_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250813",
       "fullstartdate": "202508130700",
       "enddate": "20250814",

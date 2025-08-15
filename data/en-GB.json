@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250814",
+      "fullstartdate": "202508142300",
+      "enddate": "20250815",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-GB2531931284_UHD.jpg",
+      "copyrighttext": "© Tui De Roy/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Spotted+eagle+rays&form=BGALM&filters=HpDate:\"20250814_2300\"",
+      "title": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador",
+      "description": "It's a bird, it's a plane, it's … a fish! Gliding through the ocean with flapping fins and polka-dot flair, the spotted eagle ray refuses to blend in. It doesn't crawl along the seabed like its stingray cousins—it flies underwater. The species gets its name from—you guessed it—its protruding snout, which resembles an eagle's beak, and its distinctive spotted back, which is unique to each individual, much like fingerprints. Their wing-like pectoral fins can span up to 3 metres. Near the base of the long tail are venomous spines, in case a predator gets too close. These rays aren't aggressive, but they're not defenceless either.",
+      "headline": "Winging it underwater",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.8,-89.4/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-0.8,-89.4;S9;San Cristóbal Island, Galápagos, Ecuador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=San%20Cristobal%20Island&satid=id.sid%3Ac6f044b8-4af9-fdd6-9c00-80924b35da85&vdpid=6341152786889048065&mb=-0.684968~-89.688521~-0.955951~-89.18033&cardbg=%23F98745&dt=1751362200000&tt=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&tsts0=%2526ty%253D30%2526q%253DSan%252520Cristobal%252520Island%2526satid%253Did.sid%25253Ac6f044b8-4af9-fdd6-9c00-80924b35da85%2526vdpid%253D6341152786889048065%2526mb%253D-0.684968~-89.688521~-0.955951~-89.18033%2526cardbg%253D%252523F98745%2526dt%253D1751362200000&tstt0=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&cp=-5.625093~-83.824365&lvl=5.6448774&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+San+Crist%c3%b3bal+Island%2c+Gal%c3%a1pagos+Islands%2c+Ecuador&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  San Cristóbal Island, Galápagos Islands, Ecuador"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++San+Crist%c3%b3bal+Island%2c+Gal%c3%a1pagos+Islands%2c+Ecuador&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250813",
       "fullstartdate": "202508132300",
       "enddate": "20250814",

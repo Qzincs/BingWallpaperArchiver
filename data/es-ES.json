@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250814",
+      "fullstartdate": "202508142200",
+      "enddate": "20250815",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_ES-ES4665305758_UHD.jpg",
+      "copyrighttext": "© Tui De Roy/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Raya+%c3%81guila+Manchada&form=BGALM&filters=HpDate:\"20250814_2200\"",
+      "title": "Rayas águila moteadas, Isla San Cristóbal, Islas Galápagos, Ecuador",
+      "description": "¿Es un pájaro? ¿Es un avión? ¡No, es una raya! La raya águila moteada surca el océano con elegancia, moviendo sus grandes aletas como si volara bajo el agua. A diferencia de otras rayas que se arrastran por el fondo marino, esta especie se desliza con estilo. Su hocico sobresaliente recuerda al pico de un águila, y su dorso cubierto de manchas blancas es único, como una huella dactilar.",
+      "headline": "Volando bajo el agua",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Raya+%c3%81guila+Manchada&form=BGABWCTA7&filters=HpDate:\"20250814_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250813",
       "fullstartdate": "202508132200",
       "enddate": "20250814",

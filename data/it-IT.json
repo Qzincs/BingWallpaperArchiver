@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250814",
+      "fullstartdate": "202508142200",
+      "enddate": "20250815",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaMaddalenaSardegna_IT-IT3035454950_UHD.jpg",
+      "copyrighttext": "© Travel Wild/iStock",
+      "copyrightlink": "https://www.bing.com/search?q=Parco+Nazionale+dell%e2%80%99+Arcipelago+di+La+Maddalena&form=BGALM&filters=HpDate:\"20250814_2200\"",
+      "title": "Parco Nazionale dell’Arcipelago di La Maddalena, Gallura Nord-Est Sardegna, Sardegna",
+      "description": "Buon Ferragosto dalla Sardegna! Il 15 agosto, l’isola si accende di colori, tradizioni e sorrisi. Nell’Arcipelago di La Maddalena, la festa prende vita tra escursioni in barca, tuffi in acque cristalline e aperitivi al tramonto. È il giorno in cui la natura selvaggia incontra la convivialità, tra picnic in spiaggia, musica sotto le stelle, fuochi d’artificio che illuminano il granito e il mare, e risate che si rincorrono fino a notte fonda. Ferragosto qui non è solo una ricorrenza: è un rituale estivo che celebra la bellezza del Mediterraneo in tutta la sua autenticità.",
+      "headline": "Sapore di Sole",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_LaMaddalenaSardegna\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.237303,9.410936/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.237303,9.410936;S9;Parco Nazionale La Maddalena, Sardegna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Parco%20Nazionale%20dell%E2%80%99Arcipelago%20di%20La%20Maddalena&vdpid=7209813119319670785&ss=ypid.YN1354x12810895087592809221&mb=41.312641~9.295169~41.061008~9.645244&description=Strada%20Provinciale%20SP53%20-%2007024%20La%20Maddalena%20%28OT%29&cardbg=%233DB838&dt=1753095600000&tt=Parco%20Nazionale%20dell%27Arcipelago%20di%20La%20Maddalena&tsts0=%2526ty%253D30%2526q%253DParco%252520Nazionale%252520dell%2525E2%252580%252599Arcipelago%252520di%252520La%252520Maddalena%2526vdpid%253D7209813119319670785%2526ss%253Dypid.YN1354x12810895087592809221%2526mb%253D41.312641~9.295169~41.061008~9.645244%2526description%253DStrada%252520Provinciale%252520SP53%252520-%25252007024%252520La%252520Maddalena%252520%252528OT%252529%2526cardbg%253D%2525233DB838%2526dt%253D1753095600000&tstt0=Parco%20Nazionale%20dell%27Arcipelago%20di%20La%20Maddalena&cp=41.187078~9.196067&lvl=11.291518&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Gallura+Nord-Est+Sardegna%2c+Sardegna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Gallura Nord-Est Sardegna, Sardegna"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Gallura+Nord-Est+Sardegna%2c+Sardegna&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250813",
       "fullstartdate": "202508132200",
       "enddate": "20250814",
