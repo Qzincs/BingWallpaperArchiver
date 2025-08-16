@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250815",
+      "fullstartdate": "202508151500",
+      "enddate": "20250816",
+      "urlbase": "https://www.bing.com/th?id=OHR.Okuribi2025_JA-JP4621795615_UHD.jpg",
+      "copyrighttext": "© kumikomini/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%a7%e3%81%ae%e5%ad%97%e3%81%ae%e4%b8%ad%e5%bf%83%e3%83%bb%e9%87%91%e5%b0%be%e3%81%ae%e7%81%ab%e5%ba%8a&form=BGALM&filters=HpDate:\"20250815_1500\"",
+      "title": "大の字の中心・金尾の火床, 京都府 京都市",
+      "description": "今日 8 月 16 日に、京都五山送り火が開催されます。京都の街を囲む 5 つの山の火床に送り火を焚き、お盆に迎えた精霊を送る伝統行事です。五山それぞれの山に、「大」、「妙・法」、「船形」、「左大文字」、「鳥居形」といった文字や形が、順に炎で浮かび上がります…",
+      "headline": "今日は五山送り火",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_Okuribi2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.019798,135.811584/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.019798,135.811584;S9;大文字山, 京都府&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1&ss=ypid.YN5286x4323092293939326220&tt=%E5%A4%A7%E6%96%87%E5%AD%97%E5%B1%B1&cp=35.019805~135.806272&lvl=16&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 16 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e4%ba%ac%e9%83%bd%e5%ba%9c+%e4%ba%ac%e9%83%bd%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 京都府 京都市 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e4%ba%ac%e9%83%bd%e5%ba%9c+%e4%ba%ac%e9%83%bd%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508141500",
       "enddate": "20250815",

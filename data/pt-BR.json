@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250815",
+      "fullstartdate": "202508150300",
+      "enddate": "20250816",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_PT-BR1035439304_UHD.jpg",
+      "copyrighttext": "© Tui De Roy/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Raia-pintada&form=BGALM&filters=HpDate:\"20250815_0300\"",
+      "title": "Raia-pintada, Ilha San Cristóbal, Galápagos, Equador",
+      "description": "É um pássaro? Um avião? Não… é um peixe! A raia-pintada da foto desliza pelo oceano com nadadeiras que batem como asas e um corpo coberto por manchas únicas, como impressões digitais. Diferente de outras arraias, ela não rasteja no fundo do mar — ela literalmente \"voa\" debaixo d’água.",
+      "headline": "Asas no azul profundo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Raia-pintada&form=BGABWCTA7&filters=HpDate:\"20250815_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508140300",
       "enddate": "20250815",

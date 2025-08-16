@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250815",
+      "fullstartdate": "202508151830",
+      "enddate": "20250816",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_EN-IN5686651222_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Honey+bee&form=BGALM&filters=HpDate:\"20250815_1830\"",
+      "title": "Colourful beehives, Italy",
+      "description": "If you think bees are just out for a sting, think again. These tiny winged workers are running the world's sweetest gig. About 35% of global food crop production relies on animal pollination—and honey bees are among the most important contributors. The value of crops pollinated by bees is estimated at hundreds of billions of dollars each year. But despite their superpowers, bees are in a sticky situation. Today's image shows a row of colourful beehives in Italy. Bees use colour to distinguish between hives, much like humans use house numbers. Blue, yellow, green and red hives help reduce confusion and prevent accidental hive invasions.",
+      "headline": "Bee the change",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 16, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Honey+bee&form=BGABWCTA7&filters=HpDate:\"20250815_1830\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508141830",
       "enddate": "20250815",
