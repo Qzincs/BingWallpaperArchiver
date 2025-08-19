@@ -1,6 +1,156 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_EN-IN2313408086_UHD.jpg",
+      "copyrighttext": "© Tui De Roy/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Spotted+eagle+rays&form=BGALM&filters=HpDate:\"20250818_1830\"",
+      "title": "Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador",
+      "description": "It's a bird, it's a plane, it's … a fish! Gliding through the ocean with flapping fins and polka-dot flair, the spotted eagle ray refuses to blend in. It doesn't crawl along the seabed like its stingray cousins—it flies underwater. The species gets its name from—you guessed it—its protruding snout, which resembles an eagle's beak and its distinctive spotted back, which is unique to each individual, much like fingerprints. Their wing-like pectoral fins can span over 3 metres. Near the base of the long tail are venomous spines, in case a predator gets too close. These rays aren't aggressive, but they're not defenceless either.",
+      "headline": "Winging it underwater",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_SpottedEagleRay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.8,-89.4/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-0.8,-89.4;S9;San Cristóbal Island, Galápagos, Ecuador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=San%20Cristobal%20Island&satid=id.sid%3Ac6f044b8-4af9-fdd6-9c00-80924b35da85&vdpid=6341152786889048065&mb=-0.684968~-89.688521~-0.955951~-89.18033&cardbg=%23F98745&dt=1751362200000&tt=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&tsts0=%2526ty%253D30%2526q%253DSan%252520Cristobal%252520Island%2526satid%253Did.sid%25253Ac6f044b8-4af9-fdd6-9c00-80924b35da85%2526vdpid%253D6341152786889048065%2526mb%253D-0.684968~-89.688521~-0.955951~-89.18033%2526cardbg%253D%252523F98745%2526dt%253D1751362200000&tstt0=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&cp=-5.625093~-83.824365&lvl=5.6448774&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+San+Crist%c3%b3bal+Island%2c+Gal%c3%a1pagos+Islands%2c+Ecuador&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  San Cristóbal Island, Galápagos Islands, Ecuador"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++San+Crist%c3%b3bal+Island%2c+Gal%c3%a1pagos+Islands%2c+Ecuador&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-IN2042962209_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Avalanche+Lake+New+York&form=BGALM&filters=HpDate:\"20250817_1830\"",
+      "title": "Avalanche Lake trail at Adirondack High Peaks, New York, United States",
+      "description": "There's no easing into the wild here—the Avalanche Lake trail carves a bold path through rock scrambles, narrow ledges and alpine serenity. Tucked away in the Adirondack High Peaks in New York, United States, this less-than-a-square-kilometres alpine lake sits at over 800 metres between Mount Colden and Avalanche Mountain. Shaped by ancient glaciers, the lake is framed by dramatic cliffs and rugged terrain that echo its icy origins. Its most striking feature is the Trap Dike—an over 300-metre rock canyon flanked by steep walls, making the lake one of the most awe-inspiring sights in the Adirondacks. Massive avalanches carved these cliffs, leaving behind the dramatic landscape that gave Avalanche Lake its name.",
+      "headline": "Stream a little dream",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.19096,-73.789589/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=44.19096,-73.789589;S9;Avalanche Lake, Keene, New York, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Avalanche%20Lake&ss=ypid.YN873x17388677487537349530&segment=Attraction&mb=44.196336~-73.802462~44.185582~-73.776712&description=Avalanche%20Pass%20Trail%2C%20Keene%2C%20NY%2012943&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Avalanche%20Lake&tsts0=%2526ty%253D18%2526q%253DAvalanche%252520Lake%2526ss%253Dypid.YN873x17388677487537349530%2526segment%253DAttraction%2526mb%253D44.196336~-73.802462~44.185582~-73.776712%2526description%253DAvalanche%252520Pass%252520Trail%25252C%252520Keene%25252C%252520NY%25252012943%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Avalanche%20Lake&cp=40.908568~-85.59177&lvl=4.962369&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+New+York%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  New York, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++New+York%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-IN6166731437_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lyngvig+Lighthouse&form=BGALM&filters=HpDate:\"20250816_1830\"",
+      "title": "Lyngvig Lighthouse, Hvide Sande, Denmark",
+      "description": "Built to brave storms and steer ships to safety, lighthouses now glow as symbols of heritage, wonder and connection. Standing over 30 metres tall, Lyngvig Lighthouse in Denmark was built in 1906 atop a more- than- 15-metre dune along the west coast of Jutland—the country's westernmost region. Made with a concrete foundation and brick walls, and finished with teak-framed windows and doors, the lighthouse originally required a team of three keepers. They maintained its light until 1965. It has been operating automatically ever since. Following a temporary closure in 2024 due to structural concerns, the lighthouse is now open to the public again.",
+      "headline": "One tall way to spot the sea",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=56.049713,8.103892;S9;Lyngvig Lighthouse, Hvide Sande, Denmark&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Hvide+Sande%2c+Denmark&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Hvide Sande, Denmark"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Hvide+Sande%2c+Denmark&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250815",
       "fullstartdate": "202508151830",
       "enddate": "20250816",

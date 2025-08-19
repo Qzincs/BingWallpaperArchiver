@@ -1,6 +1,198 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_ES-ES6183424688_UHD.jpg",
+      "copyrighttext": "© Eloi_Omella/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=BGALM&filters=HpDate:\"20250818_2200\"",
+      "title": "Capas de flysch en Zumaia, Guipúzcoa, País Vasco, España",
+      "description": "En la costa de Zumaia, en Guipúzcoa, se encuentra uno de los paisajes geológicos más impresionantes de España: los flysch. Estas formaciones rocosas, visibles en los acantilados, muestran millones de años de historia de la Tierra en capas perfectamente alineadas. Pasear por la playa de Itzurun o desde el sendero del geoparque de la Costa Vasca permite observar este fenómeno natural único en Europa.",
+      "headline": "¡Rocas que fluyen con el mar!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zumaia&form=BGABWCTA7&filters=HpDate:\"20250818_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_ES-ES4962588895_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monta%c3%b1as+Adirondack&form=BGALM&filters=HpDate:\"20250817_2200\"",
+      "title": "Sendero al lago Avalanche en las montañas de Adirondack, Nueva York, EE. UU.",
+      "description": "En el corazón de las montañas de Adirondack, en Nueva York (Estados Unidos), se esconde una de las rutas de senderismo más impresionantes: el sendero al lago Avalanche. El recorrido atraviesa terreno escarpado, con pasos sobre rocas, estrechas cornisas y un entorno alpino que deja sin palabras.",
+      "headline": "Transmite un pequeño sueño",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monta%c3%b1as+Adirondack&form=BGABWCTA7&filters=HpDate:\"20250817_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_ES-ES4833286329_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hvide+Sande&form=BGALM&filters=HpDate:\"20250816_2200\"",
+      "title": "Faro de Lyngvig, Hvide Sande, Dinamarca",
+      "description": "Construidos para guiar a los barcos entre tormentas y llevarlos a puerto seguro, los faros se han convertido en símbolos de historia, belleza y conexión. Cada año, el tercer fin de semana de agosto se celebra el Fin de Semana Internacional del Faro, una cita global creada en 1998 por los radioaficionados escoceses John Forsyth y Mike Dalrymple. Su objetivo es concienciar sobre la preservación de los faros, fomentar la radioafición y estrechar lazos entre países.",
+      "headline": "Una forma de ver en alta mar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hvide+Sande&form=BGABWCTA7&filters=HpDate:\"20250816_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250815",
+      "fullstartdate": "202508152200",
+      "enddate": "20250816",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_ES-ES4737812847_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Abejas+Mel%c3%adferas&form=BGALM&filters=HpDate:\"20250815_2200\"",
+      "title": "Colmenas de colores, Italia",
+      "description": "Si crees que las abejas solo sirven para picar, piénsalo mejor. Estos pequeños insectos alados realizan una tarea vital: la polinización. De hecho, cerca del 35 % de los cultivos alimentarios del mundo dependen de animales polinizadores, y las abejas melíferas están entre las más importantes. Gracias a ellas, se producen alimentos como frutas, verduras, frutos secos e incluso café. A pesar de su importancia, las abejas enfrentan graves amenazas: pérdida de hábitat, pesticidas, enfermedades y cambio climático.",
+      "headline": "Las reinas dulces",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Abejas+Mel%c3%adferas&form=BGABWCTA7&filters=HpDate:\"20250815_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508142200",
       "enddate": "20250815",

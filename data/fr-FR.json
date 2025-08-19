@@ -1,6 +1,204 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_FR-FR5838334376_UHD.jpg",
+      "copyrighttext": "© Eloi_Omella/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=BGALM&filters=HpDate:\"20250818_2200\"",
+      "title": "Couches de flysch à Zumaia, Pays basque, Espagne",
+      "description": "Sur la côte de Zumaia, au cœur du Pays basque espagnol, se trouve l'un des paysages géologiques les plus saisissants d'Europe : les flysch. Ces falaises rocheuses dévoilent des couches parfaitement alignées qui racontent, telles les pages d'un livre ouvert, des millions d'années d'histoire de notre planète.",
+      "headline": "Voyage au cœur des âges",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.28333,-2.25/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.28333,-2.25;S9;Zumaya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Zumaya&vdpid=5668641172432617473&mb=43.311017~-2.284653~43.263316~-2.209111&cardbg=%23F98745&tt=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&tsts1=%2526ty%253D30%2526q%253DZumaya%2526vdpid%253D5668641172432617473%2526mb%253D43.311017~-2.284653~43.263316~-2.209111%2526cardbg%253D%252523F98745&tstt1=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&cp=39.304432~-4.516357&lvl=5.7157006&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "19 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Pays+basque%2c+Espagne&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Pays basque, Espagne"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Pays+basque%2c+Espagne&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_FR-FR5685260580_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=ruche+et+abeille&form=BGALM&filters=HpDate:\"20250817_2200\"",
+      "title": "Ruches colorées, Italie",
+      "description": "Alignées sous les arbres, leurs façades bleues, jaunes ou rouges comme autant de portes ouvertes vers un monde bourdonnant. Ces ruches colorées, photographiées en Italie, sont bien plus que de jolies cabanes : elles abritent les actrices d’un écosystème entier.",
+      "headline": "Des ruches qui font le buzzzzzz !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=ruche+et+abeille&form=BGABWCTA7&filters=HpDate:\"20250817_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_FR-FR5388600592_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=phare&form=BGALM&filters=HpDate:\"20250816_2200\"",
+      "title": "Phare de Lyngvig, Hvide Sande, Danemark",
+      "description": "Sur les dunes du Jutland, au Danemark, le phare de Lyngvig domine les vents et les vagues depuis 1906. Haut de 38 mètres, il fut bâti après un naufrage tragique, comme tant d’autres sentinelles du littoral. Chaque troisième week-end d’août, cet événement international rend hommage à ces monuments de lumière et aux histoires qu’ils portent.",
+      "headline": "Au rythme des phares, d'un océan à l'autre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=56.049713,8.103892;S9;Lyngvig Lighthouse, Danmark&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Hvide+Sande%2c+Danemark&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Hvide Sande, Danemark"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Hvide+Sande%2c+Danemark&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250816",
+      "fullstartdate": "20250816",
+      "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg",
+      "copyrighttext": "© ICHAUVEL/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cerf-volant&form=BGALM&filters=HpDate:\"20250815_2200\"",
+      "title": "Cerfs-volants dans le ciel de Fréjus, Var, Provence-Alpes-Côte d’Azur",
+      "description": "Chaque 16 août, la Journée mondiale du cerf-volant célèbre l’art ancestral de faire danser le vent. Instaurée pour mettre en lumière cet art venu de Chine, cette journée invite petits et grands à lever les yeux vers le ciel. En France, si les grandes rencontres ont lieu à Dieppe ou Berck-sur-Mer, Fréjus, dans le Var, offre aussi un spectacle aérien inoubliable.",
+      "headline": "Le ciel en fête",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_KiteFrejus\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.43306,6.735556/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.43306,6.735556;S9;Fréjus, Var&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fr%C3%A9jus&satid=id.sid%3A9033facd-54ad-8bcf-a54e-84a394fc417b&vdpid=7208338029797179393&mb=43.533237~6.596572~43.36829~6.985606&cardbg=%23F98745&tt=Fr%C3%A9jus%2C%20Var&tsts0=%2526ty%253D30%2526q%253DFr%2525C3%2525A9jus%2526satid%253Did.sid%25253A9033facd-54ad-8bcf-a54e-84a394fc417b%2526vdpid%253D7208338029797179393%2526mb%253D43.533237~6.596572~43.36829~6.985606%2526cardbg%253D%252523F98745&tstt0=Fr%C3%A9jus%2C%20Var&cp=43.450781~6.72299&lvl=12.321489&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "16 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Var%2c+Provence-Alpes-C%c3%b4te+d%e2%80%99Azur&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Var, Provence-Alpes-Côte d’Azur"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Var%2c+Provence-Alpes-C%c3%b4te+d%e2%80%99Azur&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508142200",
       "enddate": "20250815",

@@ -1,6 +1,204 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_IT-IT3301652373_UHD.jpg",
+      "copyrighttext": "© Eloi_Omella/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=BGALM&filters=HpDate:\"20250818_2200\"",
+      "title": "Strati di flysch a Zumaia, Paesi Baschi, Spagna",
+      "description": "Sulla costa di Zumaia, nella provincia di Guipúzcoa, vi aspetta uno dei paesaggi geologici più affascinanti di tutta la Spagna: i flysch. Si tratta di spettacolari strati rocciosi sedimentari, formatisi milioni di anni fa sul fondo del mare, che si alternano come pagine di una storia antica. Il termine, di origine svizzera, significa \"scivoloso\" e descrive proprio la natura friabile e stratificata di queste rocce, visibili lungo le scogliere come un libro aperto sulla storia della Terra. Camminando sulla spiaggia di Itzurun o lungo il sentiero del geoparco della Costa Basca, potrete osservare questo spettacolo unico in Europa, dove ogni strato racconta un’epoca lontana.",
+      "headline": "Emozioni stratificate",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.28333,-2.25/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.28333,-2.25;S9;Zumaia, Paesi Baschi, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Zumaya&vdpid=5668641172432617473&mb=43.311017~-2.284653~43.263316~-2.209111&cardbg=%23F98745&tt=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&tsts1=%2526ty%253D30%2526q%253DZumaya%2526vdpid%253D5668641172432617473%2526mb%253D43.311017~-2.284653~43.263316~-2.209111%2526cardbg%253D%252523F98745&tstt1=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&cp=39.304432~-4.516357&lvl=5.7157006&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "19 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Paesi+Baschi%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Paesi Baschi, Spagna"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Paesi+Baschi%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_IT-IT9962796758_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monti+Adirondack+massiccio+cristallino&form=BGALM&filters=HpDate:\"20250817_2200\"",
+      "title": "Lago Avalanche sulle Adirondack High Peaks, New York, USA",
+      "description": "Benvenuti al lago di Avalanche, dove la natura non concede introduzioni: vi accoglie di colpo, con il passo incerto tra sassi nudi e sentieri che si stringono, mentre il silenzio alpino si apre come una soglia. Ci troviamo nello stato di New York, tra le High Peaks degli Adirondack. Questo lago riposa in una conca di roccia e vento, nascosto tra pareti severe e boschi che sembrano custodirlo con rispetto. La luce vibra sull’acqua immobile, riflettendo la vertigine di canyon e creste scolpite dal tempo e dal ghiaccio. Nel cuore di questo paesaggio austero c’è il Trap Dike, una fenditura possente tra le rocce, vertiginosa come un respiro trattenuto. Le valanghe che un tempo hanno modellato questi contorni hanno lasciato ferite splendide: visioni che non si dimenticano. Il sentiero parte dal Loj degli Adirondack, e da lì prende corpo, serpeggia, si arrampica e si ritrae nel bosco.",
+      "headline": "Il cuore nella roccia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.19096,-73.789589/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.19096,-73.789589;S9;Lago di Avalanche, New York, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Avalanche%20Lake&ss=ypid.YN873x17388677487537349530&segment=Attraction&mb=44.196336~-73.802462~44.185582~-73.776712&description=Avalanche%20Pass%20Trail%2C%20Keene%2C%20NY%2012943&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Avalanche%20Lake&tsts0=%2526ty%253D18%2526q%253DAvalanche%252520Lake%2526ss%253Dypid.YN873x17388677487537349530%2526segment%253DAttraction%2526mb%253D44.196336~-73.802462~44.185582~-73.776712%2526description%253DAvalanche%252520Pass%252520Trail%25252C%252520Keene%25252C%252520NY%25252012943%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Avalanche%20Lake&cp=40.908568~-85.59177&lvl=4.962369&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+New+York%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  New York, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++New+York%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_IT-IT3166242120_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hvide+Sande+citt%c3%a0+portuale+danese&form=BGALM&filters=HpDate:\"20250816_2200\"",
+      "title": "Faro di Lyngvig, Hvide Sande, Danimarca",
+      "description": "Sulla costa occidentale della Danimarca, nei pressi di Hvide Sande, il faro di Lyngvig si erge tra sabbia, vento e cielo. Costruito nel 1906, dopo una tragedia in mare, è l’ultimo grande faro innalzato lungo la costa del Paese. Ha il volto austero dei luoghi che non chiedono nulla, ma danno tutto: luce, spazio, respiro. I suoi muri di mattoni e le finestre in teak raccontano storie di mare, di solitudine e di rotte ritrovate.",
+      "headline": "Guardiano del Mare",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=56.049713,8.103892;S9;Faro di Lyngvig, Hvide Sande, Danimarca&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Hvide+Sande%2c+Danimarca&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Hvide Sande, Danimarca"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Hvide+Sande%2c+Danimarca&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250816",
+      "fullstartdate": "20250816",
+      "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_IT-IT3102989336_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Apis+mellifera&form=BGALM&filters=HpDate:\"20250815_2200\"",
+      "title": "Alveari colorati, Italia",
+      "description": "Minuscole e instancabili, le api danzano tra i fiori come custodi invisibili dell’equilibrio naturale. Ogni volo è un gesto di cura, ogni ronzio un sussurro che tiene in vita il mondo. Una parte significativa della produzione alimentare globale dipende dal loro lavoro silenzioso: senza impollinatori come le api, interi ecosistemi agricoli perderebbero stabilità e varietà. Sono il cuore pulsante della biodiversità, le tessitrici silenziose di un futuro fertile.",
+      "headline": "Ronzio, Ritmo, Rinascita",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Apis+mellifera&form=BGABWCTA7&filters=HpDate:\"20250815_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508142200",
       "enddate": "20250815",

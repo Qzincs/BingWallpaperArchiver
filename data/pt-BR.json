@@ -1,6 +1,150 @@
 {
   "images": [
     {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_PT-BR3490746058_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Montanhas+Altas+de+Adirondack%2c+Nova+York%2c+EUA&form=BGALM&filters=HpDate:\"20250818_0300\"",
+      "title": "Trilha do Avalanche Lake nas Montanhas Adirondack, Nova York, EUA",
+      "description": "Não há transição suave para a natureza selvagem aqui — a trilha do Avalanche Lake, nossa imagem do dia, traça um caminho ousado por entre rochas, passagens estreitas e a serenidade alpina. Escondido nas Montanhas Adirondack, no estado de Nova York, este lago alpino de cerca de 9 hectares está a quase 884 metros de altitude, entre o Monte Colden e a Montanha Avalanche.",
+      "headline": "Trilhas que conectam",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Montanhas+Altas+de+Adirondack%2c+Nova+York%2c+EUA&form=BGABWCTA7&filters=HpDate:\"20250818_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.Jeribeach_PT-BR3080165878_UHD.jpg",
+      "copyrighttext": "© AmazingAerialAgency/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=praia+de+Jericoacoara&form=BGALM&filters=HpDate:\"20250817_0300\"",
+      "title": "Vista aérea de praia em Jericoacoara, no Ceará",
+      "description": "Vistas do alto, as dunas de Jericoacoara revelam um desenho sempre em transformação. O vento cria e recria as curvas da areia clara, a luz se espalha pelo litoral e o mar ganha tonalidades que mudam ao longo do dia. No oeste do Ceará, essa antiga vila de pescadores parece nascer da própria paisagem, sem quebrar a calma das formas naturais. Ali, o asfalto não chega; as ruas de areia prolongam o contorno das praias e sustentam o ritmo tranquilo do lugar.",
+      "headline": "Um desenho feito de vento e tempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_Jeribeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=praia+de+Jericoacoara&form=BGABWCTA7&filters=HpDate:\"20250817_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250816",
+      "fullstartdate": "20250816",
+      "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_PT-BR1350605096_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=abelha-europeia&form=BGALM&filters=HpDate:\"20250816_0300\"",
+      "title": "Colmeias coloridas, Itália",
+      "description": "Se você acha que as abelhas estão apenas por aí para picar, pense de novo. Essas pequenas trabalhadoras aladas comandam um dos trabalhos mais doces e importantes do planeta. Na imagem, vemos colmeias coloridas na Itália. As abelhas usam as cores para diferenciar suas casas, assim como usamos números nas portas. Isso evita confusões e invasões entre colmeias.",
+      "headline": "Coloridas, trabalhadoras e essenciais",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=abelha-europeia&form=BGABWCTA7&filters=HpDate:\"20250816_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250815",
       "fullstartdate": "202508150300",
       "enddate": "20250816",

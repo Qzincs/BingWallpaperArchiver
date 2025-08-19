@@ -1,6 +1,150 @@
 {
   "images": [
     {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_ROW5439773268_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Avalanche+Lake+New+York&form=BGALM&filters=HpDate:\"20250818_0700\"",
+      "title": "Avalanche Lake Trail at Adirondack High Peaks, New York, United States",
+      "description": "There's no easing into the wild here—the Avalanche Lake Trail carves a bold path through rock scrambles, narrow ledges and alpine serenity. Tucked away in in the Adirondack High Peaks in New York, United States, this 3.6-hectare alpine lake sits at nearly 879 metres between Mount Colden and Avalanche Mountain. Shaped by ancient glaciers, the lake is framed by dramatic cliffs and rugged terrain that echo its icy origins. Its most striking feature is the Trap Dike—a towering 365-metre rock canyon flanked by steep walls, making the lake one of the most awe-inspiring sights in the Adirondacks. Massive avalanches carved these cliffs, leaving behind the dramatic landscape that gave Avalanche Lake its name.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Avalanche+Lake+New+York&form=BGABWCTA7&filters=HpDate:\"20250818_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_ROW5324860565_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lyngvig+Lighthouse&form=BGALM&filters=HpDate:\"20250817_0700\"",
+      "title": "Lyngvig Lighthouse, Hvide Sande, Denmark",
+      "description": "Built to brave storms and steer ships to safety, lighthouses now glow as symbols of heritage, wonder and connection. Among the many lighthouses, one of the most iconic in Denmark is the Lyngvig Lighthouse, featured here. Standing over 36-metre tall, this tower was built in 1906 atop a 16-metre dune along the west coast of Jutland—the country's westernmost region. Made with a concrete foundation and brick walls and finished with teak-framed windows and doors, the lighthouse originally required a team of three keepers. They maintained its light until 1965. It has been operating automatically ever since. Following a temporary closure in 2024 due to structural concerns, the lighthouse is now open to the public again.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lyngvig+Lighthouse&form=BGABWCTA7&filters=HpDate:\"20250817_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250816",
+      "fullstartdate": "20250816",
+      "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_ROW5187644040_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Beehives&form=BGALM&filters=HpDate:\"20250816_0700\"",
+      "title": "Colourful beehives, Italy",
+      "description": "About 35% of global food crop production relies on animal pollination, including honeybees. The value of crops pollinated by bees is estimated at hundreds of billions of dollars. Despite their superpowers, bees are in a sticky situation. Habitat loss, pesticides, disease and climate change are making life in the hive less than ideal. To protect them, humans created man-made beehives—structures designed to house a honeybee nest, allowing them to live safely. Within these hives, honeybees carry out their seasonal cycle—raising their young and producing honey.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 16, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Beehives&form=BGABWCTA7&filters=HpDate:\"20250816_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250815",
       "fullstartdate": "202508150700",
       "enddate": "20250816",

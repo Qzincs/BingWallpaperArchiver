@@ -1,6 +1,156 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaMaddalena_JA-JP3939499195_UHD.jpg",
+      "copyrighttext": "© Sakrapee Nopparat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%9e%e3%83%83%e3%83%80%e3%83%ac%e3%83%bc%e3%83%8a&form=BGALM&filters=HpDate:\"20250818_1500\"",
+      "title": "サンタ・マッダレーナ, イタリア",
+      "description": "ユネスコ世界遺産に登録されているイタリア北東部の山地、ドロミーティ。その麓には、サンタ・マッダレーナという小さな村がひっそりと佇んでいます。なだらかな緑の丘に素朴な木造の家々が点在し、童話の世界のような、のどかで美しい風景が広がっています…",
+      "headline": "絵本のような村",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_SantaMaddalena\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.61306,12.16306/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.61306,12.16306;S9;ドロミーティ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dolomites%2C%20Italy&satid=id.sid%3Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272&vdpid=7022525644709822465&mb=46.968071~11.287977~46.254981~13.03785&cardbg=%23F98745&dt=1751036400000&tt=Dolomites%2C%20Italy&tsts1=%2526ty%253D30%2526q%253DDolomites%25252C%252520Italy%2526satid%253Did.sid%25253Aee5cbaea-a18a-d3a3-6c41-e7139ffbf272%2526vdpid%253D7022525644709822465%2526mb%253D46.968071~11.287977~46.254981~13.03785%2526cardbg%253D%252523F98745%2526dt%253D1751036400000&tstt1=Dolomites%2C%20Italy&cp=45.739959~5.313777&lvl=5.78&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 19 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " イタリア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_JA-JP3739900372_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3%e3%83%81%e6%b9%96%2c+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e&form=BGALM&filters=HpDate:\"20250817_1500\"",
+      "title": "アヴァランチ湖, 米国 ニューヨーク州",
+      "description": "アディロンダック山地は、米国・ニューヨーク州北東部に広がる雄大な自然の宝庫です。標高 1200ｍ を超える 46 の峰が連なり、四季折々に表情を変える山々は多くの登山者を魅了します。そして写真は、その山地に抱かれた美しい高山湖、アヴァランチ湖です…",
+      "headline": "緑に包まれた高山湖",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.19096,-73.789589/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.19096,-73.789589;S9;アヴァランチ湖, ニューヨーク州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Avalanche%20Lake&ss=ypid.YN873x17388677487537349530&segment=Attraction&mb=44.196336~-73.802462~44.185582~-73.776712&description=Avalanche%20Pass%20Trail%2C%20Keene%2C%20NY%2012943&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Avalanche%20Lake&tsts0=%2526ty%253D18%2526q%253DAvalanche%252520Lake%2526ss%253Dypid.YN873x17388677487537349530%2526segment%253DAttraction%2526mb%253D44.196336~-73.802462~44.185582~-73.776712%2526description%253DAvalanche%252520Pass%252520Trail%25252C%252520Keene%25252C%252520NY%25252012943%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Avalanche%20Lake&cp=40.908568~-85.59177&lvl=4.962369&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 18 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ニューヨーク州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_JA-JP3502925142_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%b4%e3%82%a3%e3%82%b0%e7%81%af%e5%8f%b0&form=BGALM&filters=HpDate:\"20250816_1500\"",
+      "title": "リングヴィグ灯台, デンマーク",
+      "description": "デンマーク西部のユトランド半島に位置するヴィデ・サンデは、北海とリングコビング・フィヨルドに挟まれた美しい港町です。漁業と造船業で発展してきましたが、現在はリゾート地としても人気があり、訪れる人々に穏やかな時間を提供しています…",
+      "headline": "砂丘に立つ白亜の灯台",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=56.049713,8.103892;S9;リングヴィグ灯台, デンマーク&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%87%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%af+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " デンマーク への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%87%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%af+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250815",
       "fullstartdate": "202508151500",
       "enddate": "20250816",

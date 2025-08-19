@@ -1,6 +1,204 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.IguazuArgentina_EN-GB3342065594_UHD.jpg",
+      "copyrighttext": "© Mark Meredith/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Iguazu+waterfalls+Argentina+Brazil&form=BGALM&filters=HpDate:\"20250818_2300\"",
+      "title": "The Three Musketeers Falls at Iguazú Falls, Argentina",
+      "description": "No voice is loud enough to drown out the roar of Iguazú Falls. But it's not just the sound. The sheer presence of this natural wonder is overwhelming as it straddles the border between Argentina and Brazil. This vast waterfall system stretches nearly two miles and features more than 270 individual cascades, each offering a unique display of tumbling water and shimmering mist.",
+      "headline": "All for falls and falls for all",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_IguazuArgentina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Iguazu+waterfalls+Argentina+Brazil&form=BGABWCTA7&filters=HpDate:\"20250818_2300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250818",
+      "fullstartdate": "20250818",
+      "enddate": "20250819",
+      "urlbase": "https://www.bing.com/th?id=OHR.AvalancheLake_EN-GB3210830707_UHD.jpg",
+      "copyrighttext": "© Posnov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Avalanche+Lake+New+York&form=BGALM&filters=HpDate:\"20250817_2300\"",
+      "title": "Avalanche Lake Trail at Adirondack High Peaks, New York, United States",
+      "description": "There's no easing into the wild here—the Avalanche Lake Trail carves a bold path through rock scrambles, narrow ledges and alpine serenity. Tucked away in New York's Adirondack High Peaks, this 9-acre (3.6 hectares) alpine lake sits at over 850 metres between Mount Colden and Avalanche Mountain. Shaped by ancient glaciers, the lake is framed by dramatic cliffs and rugged terrain that echo its icy origins. Its most striking feature is the Trap Dike—an over 300-metre rock canyon flanked by steep walls, making the lake one of the most awe-inspiring sights in the Adirondacks. Massive avalanches carved these cliffs, leaving behind the dramatic landscape that gave Avalanche Lake its name. The Avalanche Lake Trail begins at the Adirondack Loj, a well-known launch point for adventures in the High Peaks. Spanning about 9.6 miles round trip with a more than 400-metre elevation, the hike may seem manageable on paper—but it's the uneven terrain that truly tests your mettle.",
+      "headline": "Stream a little dream",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250818_AvalancheLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.19096,-73.789589/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=44.19096,-73.789589;S9;Avalanche Lake, Keene, New York, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Avalanche%20Lake&ss=ypid.YN873x17388677487537349530&segment=Attraction&mb=44.196336~-73.802462~44.185582~-73.776712&description=Avalanche%20Pass%20Trail%2C%20Keene%2C%20NY%2012943&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Avalanche%20Lake&tsts0=%2526ty%253D18%2526q%253DAvalanche%252520Lake%2526ss%253Dypid.YN873x17388677487537349530%2526segment%253DAttraction%2526mb%253D44.196336~-73.802462~44.185582~-73.776712%2526description%253DAvalanche%252520Pass%252520Trail%25252C%252520Keene%25252C%252520NY%25252012943%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Avalanche%20Lake&cp=40.908568~-85.59177&lvl=4.962369&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+New+York%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  New York, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++New+York%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250817",
+      "fullstartdate": "20250817",
+      "enddate": "20250818",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyngvigLighthouse_EN-GB3070055068_UHD.jpg",
+      "copyrighttext": "© Caroline Brundle Bugge/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=International+Lighthouse+Lightship+Weekend&form=BGALM&filters=HpDate:\"20250816_2300\"",
+      "title": "Lyngvig Lighthouse, Hvide Sande, Denmark",
+      "description": "Built to brave storms and steer ships to safety, lighthouses now glow as symbols of heritage, wonder and connection. Each year on the third weekend of August, the International Lighthouse Lightship Weekend brings together people from around the globe to celebrate these coastal icons. The event was launched in 1998 by John Forsyth and Mike Dalrymple of Scotland's Ayr Amateur Radio Group. It aims to raise awareness about preserving lighthouses and lightships while also promoting amateur radio and encouraging international goodwill.",
+      "headline": "One tall way to spot the sea",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250817_LyngvigLighthouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/56.049713,8.103892/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=56.049713,8.103892;S9;Lyngvig Lighthouse, Hvide Sande, Denmark&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lyngvig%20Fyr&ss=ypid.YN8048x1235030552&segment=Attraction&mb=56.053905~8.091023~56.045528~8.116772&description=Holmsland%20Klitvej%20109%206960%20Hvide%20Sande&poicount=18&cardbg=%23219AB6&dt=1750930200000&tt=Lyngvig%20Fyr&tsts0=%2526ty%253D18%2526q%253DLyngvig%252520Fyr%2526ss%253Dypid.YN8048x1235030552%2526segment%253DAttraction%2526mb%253D56.053905~8.091023~56.045528~8.116772%2526description%253DHolmsland%252520Klitvej%252520109%2525206960%252520Hvide%252520Sande%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1750930200000&tstt0=Lyngvig%20Fyr&cp=53.787877~2.953181&lvl=6.2801604&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Hvide+Sande%2c+Denmark&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Hvide Sande, Denmark"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Hvide+Sande%2c+Denmark&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250816",
+      "fullstartdate": "20250816",
+      "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.GarlicFestival2025_EN-GB2919536930_UHD.jpg",
+      "copyrighttext": "© Available Light Photography/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=The+Isle+of+Wight+Garlic+Festival&form=BGALM&filters=HpDate:\"20250815_2300\"",
+      "title": "Wild garlic, Greatwood Copse, Isle of Wight, England",
+      "description": "Every August, the Isle of Wight breathes garlic. Not metaphorically—literally. The island's air fills with the unmistakable aroma of this plant species as thousands of visitors gather for a festival that's anything but bland. Welcome to The Isle of Wight Garlic Festival, where this humble bulb receives star treatment. What began in the 1980s as a fundraising event has grown into a two-day garlic gala celebrating local produce, food innovation and community spirit. At the heart of it all is the Isle of Wight Garlic Farm, famous for its black garlic, elephant garlic and just about every variety in between. Their garlic is so good, it doesn't just ward off vampires—it attracts fans from across the globe.",
+      "headline": "A 'clove' affair to remember",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_GarlicFestival2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.66667,-1.266667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.66667,-1.266667;S9;Isle of Wight, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Isle%20of%20Wight&satid=id.sid%3A95d8ced0-437b-28ff-5329-8fbf91940733&vdpid=7400381&mb=50.767578~-1.606691~50.574711~-1.04831&cardbg=%23F98745&dt=1752852600000&tt=Isle%20of%20Wight%2C%20England&tsts0=%2526ty%253D30%2526q%253DIsle%252520of%252520Wight%2526satid%253Did.sid%25253A95d8ced0-437b-28ff-5329-8fbf91940733%2526vdpid%253D7400381%2526mb%253D50.767578~-1.606691~50.574711~-1.04831%2526cardbg%253D%252523F98745%2526dt%253D1752852600000&tstt0=Isle%20of%20Wight%2C%20England&cp=52.787762~0.265909&lvl=5.211886&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 16, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Greatwood+Copse%2c+Isle+of+Wight%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Greatwood Copse, Isle of Wight, England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Greatwood+Copse%2c+Isle+of+Wight%2c+England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250814",
       "fullstartdate": "202508142300",
       "enddate": "20250815",
