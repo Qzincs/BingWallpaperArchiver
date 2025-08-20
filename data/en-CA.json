@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.VanIsland_EN-CA8465545166_UHD.jpg",
+      "copyrighttext": "© edb3_16/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Vancouver+Island&form=BGALM&filters=HpDate:\"20250819_0400\"",
+      "title": "Aerial view of Vancouver Island, British Columbia",
+      "description": "This is not your usual coastal holiday spot, unless your idea of a getaway includes hiking through rainforests and spotting black bears from the trail. On Vancouver Island, the Pacific crashes into cliffs and the fog rolls in covering the long-standing trees. This rugged landmass off British Columbia's southwest coast has long been home to Indigenous communities, including the Nuu-chah-nulth, Coast Salish and Kwakwaka'wakw peoples. The island's colonial past began in the mid-1800s with the Hudson's Bay Company and the British Crown establishing settlements like Fort Victoria.",
+      "headline": "The edge of the Pacific",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_VanIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.6,-125.5/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=49.6,-125.5;S9;Vancouver Island&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Vancouver%20Island&satid=id.sid%3Ac87fec52-8ab3-2696-19de-d73eeafdd3ae&vdpid=4859684741575606273&mb=50.876945~-129.45692~48.308903~-122.240589&cardbg=%23F98745&dt=1752838200000&tt=Vancouver%20Island%2C%20British%20Columbia&tsts0=%2526ty%253D30%2526q%253DVancouver%252520Island%2526satid%253Did.sid%25253Ac87fec52-8ab3-2696-19de-d73eeafdd3ae%2526vdpid%253D4859684741575606273%2526mb%253D50.876945~-129.45692~48.308903~-122.240589%2526cardbg%253D%252523F98745%2526dt%253D1752838200000&tstt0=Vancouver%20Island%2C%20British%20Columbia&cp=45.305376~-143.966823&lvl=4.373167&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug. 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+British+Columbia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  British Columbia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++British+Columbia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250818",
       "fullstartdate": "20250818",
       "enddate": "20250819",

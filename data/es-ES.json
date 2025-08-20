@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250820",
+      "fullstartdate": "20250820",
+      "enddate": "20250821",
+      "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_ES-ES5188387736_UHD.jpg",
+      "copyrighttext": "© Marc Dozier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bonifacio+C%c3%b3rcega+del+Sur&form=BGALM&filters=HpDate:\"20250819_2200\"",
+      "title": "La ciudadela en Bonifacio, Córcega del sur, Francia",
+      "description": "En el extremo sur de Córcega se alza Bonifacio, una ciudad espectacular que mira hacia Cerdeña desde lo alto de sus acantilados de piedra caliza. Fundada en el año 828 por Bonifacio II de Toscana como fortaleza costera, ha protegido durante siglos una de las rutas marítimas más transitadas del Mediterráneo.",
+      "headline": "Ciudad de la tranquilidad",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bonifacio+C%c3%b3rcega+del+Sur&form=BGABWCTA7&filters=HpDate:\"20250819_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250819",
       "fullstartdate": "20250819",
       "enddate": "20250820",
@@ -131,6 +179,54 @@
         "OverrideMarket": "",
         "SearchUrls": [
           "https://www.bing.com/search?q=Hvide+Sande&form=BGABWCTA7&filters=HpDate:\"20250816_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250816",
+      "fullstartdate": "20250816",
+      "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColorfulBeehives_ES-ES4737812847_UHD.jpg",
+      "copyrighttext": "© Roberto Caucino/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Abejas+Mel%c3%adferas&form=BGALM&filters=HpDate:\"20250815_2200\"",
+      "title": "Colmenas de colores, Italia",
+      "description": "Si crees que las abejas solo sirven para picar, piénsalo mejor. Estos pequeños insectos alados realizan una tarea vital: la polinización. De hecho, cerca del 35 % de los cultivos alimentarios del mundo dependen de animales polinizadores, y las abejas melíferas están entre las más importantes. Gracias a ellas, se producen alimentos como frutas, verduras, frutos secos e incluso café. A pesar de su importancia, las abejas enfrentan graves amenazas: pérdida de hábitat, pesticidas, enfermedades y cambio climático.",
+      "headline": "Las reinas dulces",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_ColorfulBeehives\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Abejas+Mel%c3%adferas&form=BGABWCTA7&filters=HpDate:\"20250815_2200\""
         ],
         "CTAType": 5,
         "CTALocation": 0,

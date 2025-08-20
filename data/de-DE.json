@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250820",
+      "fullstartdate": "20250820",
+      "enddate": "20250821",
+      "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_DE-DE9194010566_UHD.jpg",
+      "copyrighttext": "© Marc Dozier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bonifacio&form=BGALM&filters=HpDate:\"20250819_2200\"",
+      "title": "Die Zitadelle von Bonifacio, Südkorsika, Frankreich",
+      "description": "Weiße Kalkfelsen, kristallklares Wasser und eine beeindruckende Kulisse – so lässt sich die Stadt Bonifacio wohl am treffendsten beschreiben. Die südlichste Stadt Korsikas wurde im Jahr 828 vom toskanischen Markgrafen Bonifatius II. als Küstenfestung gegründet und gilt heute als einer der faszinierendsten Orte der Insel. Über Jahrhunderte diente sie als strategischer Stützpunkt an den wichtigsten Seerouten des Mittelmeers. Die mittelalterliche Altstadt, die Haute Ville, erzählt mit ihren engen Gassen, alten Wohnhäusern und der imposanten Zitadelle, die auf unserem heutigen Bild zu sehen ist, eindrucksvoll von ihrer wechselvollen Geschichte.",
+      "headline": "Mächtige Mauern hoch über dem Meer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.67461,9.117152/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=41.67461,9.117152;S9;Bonifacio Zitadelle, Südkorsika, Frankreich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Citadel%20in%20Bonifacio&ss=ypid.YN2000x10421764216980575599&mb=41.39628~9.138565~41.379747~9.18251&description=Bastion%20de%20l%E2%80%99Etendard%2C%20Rue%20de%20la%20Torricella%2C%2020169%20Bonifacio%C2%B7Ch%C3%A2teau&cardbg=%23219AB6&dt=1751272200000&tt=Bonifacio%20Citadel&tsts0=%2526ty%253D18%2526q%253DCitadel%252520in%252520Bonifacio%2526ss%253Dypid.YN2000x10421764216980575599%2526mb%253D41.39628~9.138565~41.379747~9.18251%2526description%253DBastion%252520de%252520l%2525E2%252580%252599Etendard%25252C%252520Rue%252520de%252520la%252520Torricella%25252C%25252020169%252520Bonifacio%2525C2%2525B7Ch%2525C3%2525A2teau%2526cardbg%253D%252523219AB6%2526dt%253D1751272200000&tstt0=Bonifacio%20Citadel&cp=41.348782~8.901151&lvl=7.147566&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "20. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+S%c3%bcdkorsika%2c+Frankreich&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Südkorsika, Frankreich"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++S%c3%bcdkorsika%2c+Frankreich&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250819",
       "fullstartdate": "20250819",
       "enddate": "20250820",
@@ -191,6 +241,56 @@
         "DefaultsSet": 0,
         "ButtonTextList": [
           "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250815",
+      "fullstartdate": "20250815",
+      "enddate": "20250816",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpottedEagleRay_DE-DE1512505039_UHD.jpg",
+      "copyrighttext": "© Tui De Roy/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=+Gefleckte+Adlerrochen&form=BGALM&filters=HpDate:\"20250814_2200\"",
+      "title": "Gefleckte Adlerrochen, Insel San Cristóbal, Galapagosinseln, Ecuador",
+      "description": "Auf dem heutigen Bild sehen wir Gefleckte Adlerrochen vor der Insel San Cristóbal auf den Galapagosinseln in Ecuador. Diese majestätischen Tiere zeichnen sich durch ihren rautenförmigen Körper, ihren langen, dünnen Schwanz mit giftigen Stacheln und das charakteristische Muster aus weißen Flecken auf dunklem Grund aus. Sie schwimmen mit eleganten Bewegungen ihrer Brustflossen, die an das Flattern eines Vogels erinnern, was ihnen ein fast ätherisches Aussehen verleiht, während sie durch das kristallklare Wasser der Galápagos gleiten.",
+      "headline": "Unter Wasser fliegen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250815_SpottedEagleRay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-0.8,-89.4/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-0.8,-89.4;S9;Insel San Cristóbal, Galapagosinseln, Ecuador&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=San%20Cristobal%20Island&satid=id.sid%3Ac6f044b8-4af9-fdd6-9c00-80924b35da85&vdpid=6341152786889048065&mb=-0.684968~-89.688521~-0.955951~-89.18033&cardbg=%23F98745&dt=1751362200000&tt=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&tsts0=%2526ty%253D30%2526q%253DSan%252520Cristobal%252520Island%2526satid%253Did.sid%25253Ac6f044b8-4af9-fdd6-9c00-80924b35da85%2526vdpid%253D6341152786889048065%2526mb%253D-0.684968~-89.688521~-0.955951~-89.18033%2526cardbg%253D%252523F98745%2526dt%253D1751362200000&tstt0=Isla%20San%20Crist%C3%B3bal%2C%20Gal%C3%A1pagos%2C%20Ecuador&cp=-5.625093~-83.824365&lvl=5.6448774&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Insel+San+Crist%c3%b3bal%2c+Galapagosinseln%2c+Ecuador&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Insel San Cristóbal, Galapagosinseln, Ecuador"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Insel+San+Crist%c3%b3bal%2c+Galapagosinseln%2c+Ecuador&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
         ]
       },
       "imageHotspots": null,

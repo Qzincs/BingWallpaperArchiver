@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2017-B10_SunsetWeligamaSriLanka_AdobeStock_173786293",
+      "copyrighttext": "© Jino Lee/Stocksy/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Weligama%2C%20Sri%20Lanka&form=BGALM",
+      "title": "Weligama, Sri Lanka",
+      "description": "Sunset stilt fishing in Sri Lanka",
+      "headline": "Weligama, Sri Lanka",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Weligama%2C%20Sri%20Lanka&satid=id.sid%3A111e2c11-7562-42f0-2648-86626381b8eb&vdpid=7486621436157624321&mb=5.981623~80.41998~5.969092~80.438869&cardbg=%23F98745&tt=Weligama%2C%20Southern%20Province%2C%20Sri%20Lanka&tsts5=%2526ty%253D30%2526q%253DWeligama%25252C%252520Sri%252520Lanka%2526satid%253Did.sid%25253A111e2c11-7562-42f0-2648-86626381b8eb%2526vdpid%253D7486621436157624321%2526mb%253D5.981623~80.41998~5.969092~80.438869%2526cardbg%253D%252523F98745&tstt5=Weligama%2C%20Southern%20Province%2C%20Sri%20Lanka&cp=5.975362~80.424286&lvl=16.047924&pi=0&ftst=5&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Weligama%2c+Sri+Lanka&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Sri Lanka"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Sri+Lanka&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250818",
       "fullstartdate": "20250818",
       "enddate": "20250819",

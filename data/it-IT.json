@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250820",
+      "fullstartdate": "20250820",
+      "enddate": "20250821",
+      "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_IT-IT3373229957_UHD.jpg",
+      "copyrighttext": "© Marc Dozier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bonifacio&form=BGALM&filters=HpDate:\"20250819_2200\"",
+      "title": "La Cittadella di Bonifacio, Corsica, Francia",
+      "description": "Sospesa tra mare e cielo, Bonifacio, all’estremo sud della Corsica, si affaccia con fierezza sull’orizzonte. Le sue falesie calcaree, scolpite dal vento, dominano le acque come sentinelle antiche. Un luogo nato per proteggere, che oggi conquista lo sguardo. Non è nata come meta da cartolina: Bonifacio fu fondata come fortificazione costiera e, per secoli, ha sorvegliato una delle rotte marittime più trafficate del Mediterraneo. Fu Bonifacio II di Toscana a istituirla nel lontano 828, e da allora la città è diventata crocevia di mercanti, soldati e marinai, ognuno dei quali ha contribuito alla sua forma e alla sua identità.",
+      "headline": "Costruita per l'eternità",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.67461,9.117152/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.67461,9.117152;S9;La Cittadella di Bonifacio, Corsica, Francia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Citadel%20in%20Bonifacio&ss=ypid.YN2000x10421764216980575599&mb=41.39628~9.138565~41.379747~9.18251&description=Bastion%20de%20l%E2%80%99Etendard%2C%20Rue%20de%20la%20Torricella%2C%2020169%20Bonifacio%C2%B7Ch%C3%A2teau&cardbg=%23219AB6&dt=1751272200000&tt=Bonifacio%20Citadel&tsts0=%2526ty%253D18%2526q%253DCitadel%252520in%252520Bonifacio%2526ss%253Dypid.YN2000x10421764216980575599%2526mb%253D41.39628~9.138565~41.379747~9.18251%2526description%253DBastion%252520de%252520l%2525E2%252580%252599Etendard%25252C%252520Rue%252520de%252520la%252520Torricella%25252C%25252020169%252520Bonifacio%2525C2%2525B7Ch%2525C3%2525A2teau%2526cardbg%253D%252523219AB6%2526dt%253D1751272200000&tstt0=Bonifacio%20Citadel&cp=41.348782~8.901151&lvl=7.147566&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "20 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Corsica%2c+Francia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Corsica, Francia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Corsica%2c+Francia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250819",
       "fullstartdate": "20250819",
       "enddate": "20250820",

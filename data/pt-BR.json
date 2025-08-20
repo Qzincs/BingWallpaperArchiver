@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250819",
+      "fullstartdate": "20250819",
+      "enddate": "20250820",
+      "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_PT-BR3784755779_UHD.jpg",
+      "copyrighttext": "© Eloi_Omella/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=BGALM&filters=HpDate:\"20250819_0300\"",
+      "title": "Camadas de flysch em Zumaia, País Basco, Espanha",
+      "description": "Zumaia, no País Basco, Espanha, é um daqueles lugares em que a Terra parece ter feito questão de deixar um rastro. Na imagem do dia, a falésia se dobra em linhas diagonais que lembram páginas de um livro aberto — mas aqui, o enredo é geológico. O flysch, formação rara à beira-mar, registra milhões de anos em camadas sucessivas de rocha, revelando eventos como extinções em massa e mudanças climáticas profundas. É o passado inteiro, exposto ao sol e à rebentação.",
+      "headline": "As rochas que dançam com o mar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250819_GipuzcoaSummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zumaia&form=BGABWCTA7&filters=HpDate:\"20250819_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250818",
       "fullstartdate": "20250818",
       "enddate": "20250819",

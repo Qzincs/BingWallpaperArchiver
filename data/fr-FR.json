@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250820",
+      "fullstartdate": "20250820",
+      "enddate": "20250821",
+      "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_FR-FR5988147766_UHD.jpg",
+      "copyrighttext": "© Marc Dozier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bonifacio&form=BGALM&filters=HpDate:\"20250819_2200\"",
+      "title": "Citadelle de Bonifacio, Corse-du-Sud, France",
+      "description": "Dominant majestueusement les falaises de calcaire blanc de Corse-du-Sud, la citadelle de Bonifacio semble suspendue entre ciel et mer. Fondée en 828 par Boniface II de Toscane, cette forteresse spectaculaire a été conçue pour protéger l'un des passages maritimes les plus actifs de Méditerranée.",
+      "headline": "Entre ciel et mer, Bonifacio suspendue",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.67461,9.117152/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=41.67461,9.117152;S9;Citadelle de Bonifacio, Corse-du-Sud&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Citadel%20in%20Bonifacio&ss=ypid.YN2000x10421764216980575599&mb=41.39628~9.138565~41.379747~9.18251&description=Bastion%20de%20l%E2%80%99Etendard%2C%20Rue%20de%20la%20Torricella%2C%2020169%20Bonifacio%C2%B7Ch%C3%A2teau&cardbg=%23219AB6&dt=1751272200000&tt=Bonifacio%20Citadel&tsts0=%2526ty%253D18%2526q%253DCitadel%252520in%252520Bonifacio%2526ss%253Dypid.YN2000x10421764216980575599%2526mb%253D41.39628~9.138565~41.379747~9.18251%2526description%253DBastion%252520de%252520l%2525E2%252580%252599Etendard%25252C%252520Rue%252520de%252520la%252520Torricella%25252C%25252020169%252520Bonifacio%2525C2%2525B7Ch%2525C3%2525A2teau%2526cardbg%253D%252523219AB6%2526dt%253D1751272200000&tstt0=Bonifacio%20Citadel&cp=41.348782~8.901151&lvl=7.147566&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "20 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Corse-du-Sud%2c+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Corse-du-Sud, France"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Corse-du-Sud%2c+France&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250819",
       "fullstartdate": "20250819",
       "enddate": "20250820",
@@ -152,6 +202,56 @@
       "startdate": "20250816",
       "fullstartdate": "20250816",
       "enddate": "20250817",
+      "urlbase": "https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg",
+      "copyrighttext": "© ICHAUVEL/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cerf-volant&form=BGALM&filters=HpDate:\"20250815_2200\"",
+      "title": "Cerfs-volants dans le ciel de Fréjus, Var, Provence-Alpes-Côte d’Azur",
+      "description": "Chaque 16 août, la Journée mondiale du cerf-volant célèbre l’art ancestral de faire danser le vent. Instaurée pour mettre en lumière cet art venu de Chine, cette journée invite petits et grands à lever les yeux vers le ciel. En France, si les grandes rencontres ont lieu à Dieppe ou Berck-sur-Mer, Fréjus, dans le Var, offre aussi un spectacle aérien inoubliable.",
+      "headline": "Le ciel en fête",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250816_KiteFrejus\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.43306,6.735556/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.43306,6.735556;S9;Fréjus, Var&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fr%C3%A9jus&satid=id.sid%3A9033facd-54ad-8bcf-a54e-84a394fc417b&vdpid=7208338029797179393&mb=43.533237~6.596572~43.36829~6.985606&cardbg=%23F98745&tt=Fr%C3%A9jus%2C%20Var&tsts0=%2526ty%253D30%2526q%253DFr%2525C3%2525A9jus%2526satid%253Did.sid%25253A9033facd-54ad-8bcf-a54e-84a394fc417b%2526vdpid%253D7208338029797179393%2526mb%253D43.533237~6.596572~43.36829~6.985606%2526cardbg%253D%252523F98745&tstt0=Fr%C3%A9jus%2C%20Var&cp=43.450781~6.72299&lvl=12.321489&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "16 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Var%2c+Provence-Alpes-C%c3%b4te+d%e2%80%99Azur&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Var, Provence-Alpes-Côte d’Azur"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Var%2c+Provence-Alpes-C%c3%b4te+d%e2%80%99Azur&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250815",
+      "fullstartdate": "202508152200",
+      "enddate": "20250816",
       "urlbase": "https://www.bing.com/th?id=OHR.KiteFrejus_FR-FR4833953629_UHD.jpg",
       "copyrighttext": "© ICHAUVEL/Getty Images",
       "copyrightlink": "https://www.bing.com/search?q=cerf-volant&form=BGALM&filters=HpDate:\"20250815_2200\"",

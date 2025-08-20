@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250820",
+      "fullstartdate": "20250820",
+      "enddate": "20250821",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.CitadelBonifacio_ZH-CN2130899430_UHD.jpg",
+      "copyrighttext": "© Marc Dozier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8d%9a%e5%b0%bc%e6%b3%95%e4%b9%94&form=BGALM&filters=HpDate:\"20250819_1600\"",
+      "title": "博尼法乔城堡，科西嘉岛南部，法国",
+      "description": "位于科西嘉岛南端边缘的博尼法乔，隔着狭窄的海峡遥望撒丁岛，石灰岩峭壁高耸于海浪之上。最初，这里并非风景如画的旅游胜地，而是作为沿海防御工事而建立，在数百年间守护着地中海最繁忙的航道之一。公元828年，托斯卡纳的博尼法斯二世创建了博尼法乔公社，这里逐渐成为商人、士兵与水手聚集的地方，各方人群共同推动了城镇的发展。博尼法乔分为两部分：老城区（又称上城）位于高耸的悬崖之上，坐落在最初的城堡围墙内；而下方的滨海区则沿着狭长的海湾分布，拥有港口、海边住宅和日益发展的山谷社区。",
+      "headline": "永恒的建筑",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 20",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8d%9a%e5%b0%bc%e6%b3%95%e4%b9%94&form=BGABWCTA7&filters=HpDate:\"20250819_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250819",
       "fullstartdate": "20250819",
       "enddate": "20250820",
