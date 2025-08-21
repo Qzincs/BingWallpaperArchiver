@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250821",
+      "fullstartdate": "20250821",
+      "enddate": "20250822",
+      "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_DE-DE8545255513_UHD.jpg",
+      "copyrighttext": "© Ben Hall/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Steinschm%c3%a4tzer&form=BGALM&filters=HpDate:\"20250820_2200\"",
+      "title": "Steinschmätzer, Peak-District-Nationalpark, England",
+      "description": "Der auffällige kleine Singvogel auf unserem heutigen Bild ist ein Steinschmätzer – ein faszinierender Zugvogel, der vor allem in offenen, steinigen Landschaften wie Gebirgen, Heiden oder Strandwiesen zu Hause ist. Mit seiner aufrechten Haltung, dem charakteristischen schwarz-weißen Schwanzmuster und der hellen Unterseite ist er leicht zu erkennen. Im Frühjahr trägt das Männchen ein besonders kontrastreiches Gefieder mit grauem Rücken und schwarzer Gesichtsmaske. Auch sein Zugverhalten ist bemerkenswert: Der nur etwa 25 Gramm leichte Vogel legt jährlich über 10.000 Kilometer zurück – von Europa bis ins südliche Afrika. Diese Strecke zählt zu den längsten bekannten Zugrouten eines Vogels seiner Größe.",
+      "headline": "Kleine Flugkünstler",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250821_WheatearBird\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.199345,-1.979117/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.199345,-1.979117;S9;Peak-District-Nationalpark, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Peak%20District%20National%20Park&vdpid=5470596076643811329&ss=ypid.YN1029x576662774073335430&mb=53.597855~-2.532569~53.03381~-1.09102&description=Baslow%20Road%2C%20Bakewell%20DE45%201AE&cardbg=%233DB838&dt=1751016600000&tt=Peak%20District%20National%20Park&tsts0=%2526ty%253D30%2526q%253DPeak%252520District%252520National%252520Park%2526vdpid%253D5470596076643811329%2526ss%253Dypid.YN1029x576662774073335430%2526mb%253D53.597855~-2.532569~53.03381~-1.09102%2526description%253DBaslow%252520Road%25252C%252520Bakewell%252520DE45%2525201AE%2526cardbg%253D%2525233DB838%2526dt%253D1751016600000&tstt0=Peak%20District%20National%20Park&cp=53.309527~-2.391069&lvl=11.578942&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "21. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Peak-District-Nationalpark%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Peak-District-Nationalpark, England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Peak-District-Nationalpark%2c+England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250820",
       "fullstartdate": "20250820",
       "enddate": "20250821",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250820",
+      "fullstartdate": "20250820",
+      "enddate": "20250821",
+      "urlbase": "https://www.bing.com/th?id=OHR.CitadelBonifacio_PT-BR4689124587_UHD.jpg",
+      "copyrighttext": "© Marc Dozier/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bonifacio+em+C%c3%b3rsega+Fran%c3%a7a&form=BGALM&filters=HpDate:\"20250820_0300\"",
+      "title": "Cidadela de Bonifácio no sul da Córsega, França",
+      "description": "Erguida sobre falésias de calcário no extremo sul da Córsega, a cidadela de Bonifácio — nossa imagem do dia — contempla o estreito que a separa da Sardenha. Fundada em 828 d.C. por Bonifácio II de Toscana, a cidade começou como uma fortificação estratégica, protegendo uma das rotas marítimas mais movimentadas do Mediterrâneo. Com o tempo, tornou-se um ponto de encontro para comerciantes, soldados e marinheiros, que moldaram sua estrutura urbana. Divide-se entre a cidade velha, no alto do penhasco, e a área marítima, que acompanha a enseada com portos e casas à beira-mar.",
+      "headline": "Construída para durar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250820_CitadelBonifacio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bonifacio+em+C%c3%b3rsega+Fran%c3%a7a&form=BGABWCTA7&filters=HpDate:\"20250820_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250819",
       "fullstartdate": "20250819",
       "enddate": "20250820",
