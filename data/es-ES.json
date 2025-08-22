@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_ES-ES8103118141_UHD.jpg",
+      "copyrighttext": "© svetlana57/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palouse+Washington&form=BGALM&filters=HpDate:\"20250821_2200\"",
+      "title": "Colinas onduladas de Palouse, Washington, EE. UU.",
+      "description": "Palouse es una región de suaves colinas que se extiende por el sureste del estado de Washington, en Estados Unidos, hasta las fronteras de Idaho y Oregón. Este paisaje agrícola cambia de color con las estaciones: en primavera, el trigo y la cebada pintan las laderas de verde intenso; en verano, se tornan doradas, listas para la cosecha.",
+      "headline": "Edredón verde de la naturaleza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_PalouseWA\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Palouse+Washington&form=BGABWCTA7&filters=HpDate:\"20250821_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250821",
+      "fullstartdate": "20250821",
+      "enddate": "20250822",
+      "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_ROW5756773054_UHD.jpg",
+      "copyrighttext": "© Ben Hall/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Wheatear+bird&form=BGALM&filters=HpDate:\"20250821_0700\"",
+      "title": "Wheatear and flowering heather, Peak District National Park, England",
+      "description": "You don't need to be a bird expert to notice the wheatear darting across open ground. These ground-dwelling songbirds belong to the Oenanthe genus and are known for their upright posture and habit of hopping or sprinting between perches. Despite the name, wheatears have nothing to do with wheat or ears—the name is a twist on the old phrase 'white arse,', pointing to the bird's distinctive white rump found in most species.  Globally, there are around 20 species of wheatears. Today's image features the northern wheatear. It weighs less than a kilogram, but travels thousands of kilometres between its summer homes in Alaska and northern Canada to its wintering grounds in Africa. Its migration route is one of the longest for a bird its size, crossing oceans and continents.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250821_WheatearBird\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Wheatear+bird&form=BGABWCTA7&filters=HpDate:\"20250821_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250820",
       "fullstartdate": "20250820",
       "enddate": "20250821",

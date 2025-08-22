@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_IT-IT0107533820_UHD.jpg",
+      "copyrighttext": "© svetlana57/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palouse&form=BGALM&filters=HpDate:\"20250821_2200\"",
+      "title": "Praterie ondulate del Palouse, Washington, USA",
+      "description": "Ondata dopo ondata, le colline della Palouse, nello stato americano di Washington, si distendono come pieghe morbide di un drappo silenzioso, vellutate e leggere, immerse in un equilibrio che sembra sospeso nel tempo. La regione si allunga fino ai confini dell’Idaho e dell’Oregon, dove le coltivazioni di grano seguono, quasi danzando, il ritmo delle stagioni. In primavera, il verde tenero riveste ogni pendio, quando grano e orzo appena nati affiorano come promesse; in estate, le colline si ammantano di dorati chiaroscuri, maturi e quieti, pronti a offrire i frutti alla terra.",
+      "headline": "Panismo e Poesia?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_PalouseWA\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.5891,-117.07/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.5891,-117.07;S9;Palouse, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Palouse&satid=id.sid%3Ab8e6553e-223e-fada-2ca5-557972236ae2&vdpid=4862887303703429121&mb=46.598251~-117.094531~46.57901~-117.044989&cardbg=%23F98745&dt=1752132600000&tt=Palouse%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DPalouse%2526satid%253Did.sid%25253Ab8e6553e-223e-fada-2ca5-557972236ae2%2526vdpid%253D4862887303703429121%2526mb%253D46.598251~-117.094531~46.57901~-117.044989%2526cardbg%253D%252523F98745%2526dt%253D1752132600000&tstt0=Palouse%2C%20United%20States&cp=36.108921~-140.571742&lvl=4.6190553&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Washington%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Washington, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Washington%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

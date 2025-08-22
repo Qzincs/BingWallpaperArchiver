@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250821",
+      "fullstartdate": "20250821",
+      "enddate": "20250822",
+      "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_PT-BR5430723539_UHD.jpg",
+      "copyrighttext": "© Ben Hall/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Chasco&form=BGALM&filters=HpDate:\"20250821_0300\"",
+      "title": "Chasco em meio a flores de urze no Parque Nacional de Peak District, Inglaterra",
+      "description": "Não é preciso ser um especialista em aves para notar o chasco, estrela da nossa imagem de hoje. Essas aves canoras — ou seja, que produzem cantos melodiosos usados para comunicação e marcação de território — vivem no chão e são conhecidas por sua postura ereta e pelo hábito de correr ou saltar.",
+      "headline": "Empoleirado e alerta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250821_WheatearBird\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chasco&form=BGABWCTA7&filters=HpDate:\"20250821_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250820",
       "fullstartdate": "20250820",
       "enddate": "20250821",

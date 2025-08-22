@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.PalouseWA_ZH-CN2552273820_UHD.jpg",
+      "copyrighttext": "© svetlana57/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%95%e5%8d%a2%e6%96%af%e5%9c%b0%e5%8c%ba&form=BGALM&filters=HpDate:\"20250821_1600\"",
+      "title": "帕卢斯连绵起伏的丘陵，华盛顿州，美国",
+      "description": "一波又一波的柔软丘陵绵延于帕卢斯地区。这片宁静的区域位于华盛顿州东南部，向爱达荷州和俄勒冈州的边界延伸。覆盖着小麦的坡地随着季节更迭而变换色彩。春季，丘陵呈现出郁郁葱葱的绿色，年轻的小麦和大麦开始生长；夏季则转变为干燥的金黄色，作物即将收割。",
+      "headline": "大自然的绿色地毯",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_PalouseWA\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 22",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%95%e5%8d%a2%e6%96%af%e5%9c%b0%e5%8c%ba&form=BGABWCTA7&filters=HpDate:\"20250821_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

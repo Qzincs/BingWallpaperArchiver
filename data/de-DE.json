@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_DE-DE8624743800_UHD.jpg",
+      "copyrighttext": "© EyeEM Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Kaiserstuhl&form=BGALM&filters=HpDate:\"20250821_2200\"",
+      "title": "Ansicht eines landwirtschaftlichen Feldes, Kaiserstuhl, Baden-Württemberg",
+      "description": "Der Kaiserstuhl ist ein kleines Mittelgebirge im Süden Baden-Württembergs, nahe Freiburg im Breisgau, und zählt zu den sonnenreichsten Orten Deutschlands. Seinen Namen verdankt der Kaiserstuhl übrigens Kaiser Otto III., der hier im Jahr 994 Gericht hielt. Die malerische Gegend ist ein wahres Paradies für Naturliebhaber, Erholungssuchende und Weinliebhaber gleichermaßen. Dank der fruchtbaren Böden und des milden Klimas gedeihen hier Rebsorten wie Grauburgunder und Spätburgunder besonders gut. Die vulkanische Vergangenheit hat einen mineralstoffreichen Boden hinterlassen, der den Weinen der Region ihren einzigartigen Charakter verleiht. Die sanften Hügel, idyllischen Dörfer und eine artenreiche Tierwelt – darunter die seltene Smaragdeidechse – machen den Kaiserstuhl auch für Naturfreunde zu einem faszinierenden Ziel.",
+      "headline": "Inmitten unendlicher Weinterrassen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_FieldKaiserstuhl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.08333,7.666667/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.08333,7.666667;S9;Kaiserstuhl, Baden-Württemberg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=kaiserstuhl&satid=id.sid%3A65a727f2-4513-bc48-fcbf-16bf63c0fdc6&vdpid=7014878547831422977&mb=48.089425~7.651784~48.077226~7.681568&cardbg=%23F98745&dt=1753700400000&tt=Kaiserstuhl&tsts0=%2526ty%253D30%2526q%253Dkaiserstuhl%2526satid%253Did.sid%25253A65a727f2-4513-bc48-fcbf-16bf63c0fdc6%2526vdpid%253D7014878547831422977%2526mb%253D48.089425~7.651784~48.077226~7.681568%2526cardbg%253D%252523F98745%2526dt%253D1753700400000&tstt0=Kaiserstuhl&cp=48.044772~7.375686&lvl=10.519411&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Kaiserstuhl%2c+Baden-W%c3%bcrttemberg&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Kaiserstuhl, Baden-Württemberg"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Kaiserstuhl%2c+Baden-W%c3%bcrttemberg&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

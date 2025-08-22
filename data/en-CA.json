@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250821",
+      "fullstartdate": "20250821",
+      "enddate": "20250822",
+      "urlbase": "https://www.bing.com/th?id=OHR.WheatearBird_EN-CA8907713777_UHD.jpg",
+      "copyrighttext": "© Ben Hall/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Wheatear+bird&form=BGALM&filters=HpDate:\"20250821_0400\"",
+      "title": "Wheatear and flowering heather, Peak District National Park, England",
+      "description": "You don't need to be a bird expert to notice the wheatear darting across open ground. These ground-dwelling songbirds belong to the Oenanthe genus and are known for their upright posture and habit of hopping or sprinting between perches. Despite the name, wheatears have nothing to do with wheat or ears—the name is a twist on the old phrase 'white arse,' pointing to the bird's distinctive white rump found in most species.",
+      "headline": "Perched and poised",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250821_WheatearBird\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.199345,-1.979117/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=53.199345,-1.979117;S9;Peak District National Park, United Kingdom&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Peak%20District%20National%20Park&vdpid=5470596076643811329&ss=ypid.YN1029x576662774073335430&mb=53.597855~-2.532569~53.03381~-1.09102&description=Baslow%20Road%2C%20Bakewell%20DE45%201AE&cardbg=%233DB838&dt=1751016600000&tt=Peak%20District%20National%20Park&tsts0=%2526ty%253D30%2526q%253DPeak%252520District%252520National%252520Park%2526vdpid%253D5470596076643811329%2526ss%253Dypid.YN1029x576662774073335430%2526mb%253D53.597855~-2.532569~53.03381~-1.09102%2526description%253DBaslow%252520Road%25252C%252520Bakewell%252520DE45%2525201AE%2526cardbg%253D%2525233DB838%2526dt%253D1751016600000&tstt0=Peak%20District%20National%20Park&cp=53.309527~-2.391069&lvl=11.578942&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug. 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Peak+District+National+Park%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Peak District National Park, England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Peak+District+National+Park%2c+England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250820",
       "fullstartdate": "20250820",
       "enddate": "20250821",

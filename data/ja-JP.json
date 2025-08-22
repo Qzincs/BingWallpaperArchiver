@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_JA-JP5363056424_UHD.jpg",
+      "copyrighttext": "© svetlana57/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%91%e3%83%ab%e3%83%bc%e3%82%b9%e4%b8%98%e9%99%b5&form=BGALM&filters=HpDate:\"20250821_1500\"",
+      "title": "パルース丘陵, 米国 ワシントン州",
+      "description": "ここは米国ワシントン州南東部に広がる丘陵地帯、パルース。氷河期に発生した洪水による堆積物と、その後の強風によって吹き寄せられた黄土が幾重にも重なり、長い年月をかけて波のような丘陵を形づくりました…",
+      "headline": "緑と金の畑に覆われた丘陵",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_PalouseWA\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.5891,-117.07/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.5891,-117.07;S9;パルース丘陵, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Palouse&satid=id.sid%3Ab8e6553e-223e-fada-2ca5-557972236ae2&vdpid=4862887303703429121&mb=46.598251~-117.094531~46.57901~-117.044989&cardbg=%23F98745&dt=1752132600000&tt=Palouse%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DPalouse%2526satid%253Did.sid%25253Ab8e6553e-223e-fada-2ca5-557972236ae2%2526vdpid%253D4862887303703429121%2526mb%253D46.598251~-117.094531~46.57901~-117.044989%2526cardbg%253D%252523F98745%2526dt%253D1752132600000&tstt0=Palouse%2C%20United%20States&cp=36.108921~-140.571742&lvl=4.6190553&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 22 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%b7%e3%83%b3%e3%83%88%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ワシントン州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%b7%e3%83%b3%e3%83%88%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

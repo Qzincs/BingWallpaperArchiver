@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.RockSeine_FR-FR5220728990_UHD.jpg",
+      "copyrighttext": "© GUIZIOU Franck/hemis.fr",
+      "copyrightlink": "https://www.bing.com/search?q=Festival+Rock+en+Seine&form=BGALM&filters=HpDate:\"20250821_2200\"",
+      "title": "Domaine national de Saint-Cloud, Grande Cascade, Île de France",
+      "description": "Sous les frondaisons du Domaine national de Saint-Cloud, classé monument historique, la musique s’invite là où jadis résonnaient les fêtes royales. Chaque été, Rock en Seine transforme ce parc dessiné par Le Nôtre en un écrin vibrant : fontaines, sculptures et allées à la française deviennent le décor d’un festival où l’histoire rencontre l’électricité du rock.",
+      "headline": "Rock et patrimoine, même tempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_RockSeine\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.837723,2.216719/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.837723,2.216719;S9;Domaine national de Saint-Cloud, Île de France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=domaine%20de%20saint-cloud&vdpid=7012580254174674954&ss=ypid.YN2000x18234320164194456883&mb=48.849623~2.168913~48.817742~2.22373&description=1%20AV%20de%20la%20Grille%20d%27Honneur%2C%2092210%20Saint-Cloud&cardbg=%233DB838&dt=1752843600000&tt=Domaine%20national%20de%20Saint-Cloud&tsts0=%2526ty%253D30%2526q%253Ddomaine%252520de%252520saint-cloud%2526vdpid%253D7012580254174674954%2526ss%253Dypid.YN2000x18234320164194456883%2526mb%253D48.849623~2.168913~48.817742~2.22373%2526description%253D1%252520AV%252520de%252520la%252520Grille%252520d%252527Honneur%25252C%25252092210%252520Saint-Cloud%2526cardbg%253D%2525233DB838%2526dt%253D1752843600000&tstt0=Domaine%20national%20de%20Saint-Cloud&cp=48.87197~2.029925&lvl=10.8133955&pi=0&ftst=0&ftics=False&v=2&sV =&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Grande+Cascade%2c+%c3%8ele+de+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Grande Cascade, Île de France"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Grande+Cascade%2c+%c3%8ele+de+France&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",
