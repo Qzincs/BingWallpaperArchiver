@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.Morningglory2025_JA-JP5429610056_UHD.jpg",
+      "copyrighttext": "© borchee/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%82%b5%e3%82%ac%e3%82%aa&form=BGALM&filters=HpDate:\"20250822_1500\"",
+      "title": "早朝に開花する美しいアサガオ",
+      "description": "今日 8 月 23 日は二十四節気の一つ、「処暑」です。暦の上では、厳しい夏の暑さが峠を越え、少しずつ秋の気配が感じられる頃とされています。地域によっては、日中はまだまだ厳しい暑さが残るものの、朝夕には涼しい風が吹き始め、季節の変化が静かに訪れています…",
+      "headline": "今日は処暑",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_Morningglory2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%82%b5%e3%82%ac%e3%82%aa&form=BGABWCTA7&filters=HpDate:\"20250822_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",

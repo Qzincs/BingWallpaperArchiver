@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_ROW5952867460_UHD.jpg",
+      "copyrighttext": "© svetlana57/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palouse+region&form=BGALM&filters=HpDate:\"20250822_0700\"",
+      "title": "Rolling hills of the Palouse, Washington, United States",
+      "description": "Wave after wave of velvety hills stretch across the Palouse. This tranquil region lies in southeastern Washington in United States, extending to the borders of Idaho and Oregon. The wheat-covered slopes shift in colour with every passing season. In spring, the hills turn lush shades of green as young wheat and barley begin to grow, while summer transforms them into dry, golden browns as the crops near harvest.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_PalouseWA\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Palouse+region&form=BGABWCTA7&filters=HpDate:\"20250822_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

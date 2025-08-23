@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_FR-FR4490815569_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cath%c3%a9drale+Sainte-Barbe&form=BGALM&filters=HpDate:\"20250822_2200\"",
+      "title": "Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie",
+      "description": "Au sommet d’un promontoire dominant Kutná Hora, en République tchèque, à 70 km à l’est de Prague, la cathédrale Sainte-Barbe déploie ses arcs gothiques comme des ailes prêtes à s’envoler. Dédiée à la patronne des mineurs, elle raconte l’âge d’or d’une ville façonnée par l’argent. Commencée en 1388, son chantier s’étira sur des siècles, au gré des fortunes minières. D’abord rêvée gigantesque, elle dut se contenter d’un plan réduit lorsque les filons s’épuisèrent.",
+      "headline": "Une cathédrale en hommage aux mineurs",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.944893,15.263266/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=49.944893,15.263266;S9;Cathédrale Sainte-Barbe, Kutná Hora, Tchéquie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=St%20Barbara%27s%20Cathedral&ss=ypid.YN8046x7434223566493806923&segment=Local&mb=49.947537~15.255686~49.942255~15.270835&description=Barborska%20Street%20284%2001%20Kutna%20Hora&cardbg=%2388979C&dt=1752143400000&tt=St%20Barbara%27s%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSt%252520Barbara%252527s%252520Cathedral%2526ss%253Dypid.YN8046x7434223566493806923%2526segment%253DLocal%2526mb%253D49.947537~15.255686~49.942255~15.270835%2526description%253DBarborska%252520Street%252520284%25252001%252520Kutna%252520Hora%2526cardbg%253D%25252388979C%2526dt%253D1752143400000&tstt0=St%20Barbara%27s%20Cathedral&cp=52.876501~14.693196&lvl=5.51159&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Kutn%c3%a1+Hora%2c+Tch%c3%a9quie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Kutná Hora, Tchéquie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Kutn%c3%a1+Hora%2c+Tch%c3%a9quie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",

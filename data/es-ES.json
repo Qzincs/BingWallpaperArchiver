@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_ES-ES8198258908_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Catedral+de+Santa+B%c3%a1rbara%2c+Kutn%c3%a1+Hora%2c+Chequia&form=BGALM&filters=HpDate:\"20250822_2200\"",
+      "title": "Catedral de Santa Bárbara, Kutná Hora, Chequia",
+      "description": "En el corazón de Kutná Hora, una ciudad histórica de Chequia, se alza la majestuosa Catedral de Santa Bárbara, joya del gótico europeo y símbolo del esplendor medieval. Dedicada a Santa Bárbara, patrona de los mineros, refleja la importancia de la minería de plata en la región. Fueron precisamente los mineros quienes impulsaron su construcción, que comenzó en el siglo XIV y no concluyó hasta bien entrado el siglo XX.",
+      "headline": "Majestuosidad gótica",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Catedral+de+Santa+B%c3%a1rbara%2c+Kutn%c3%a1+Hora%2c+Chequia&form=BGABWCTA7&filters=HpDate:\"20250822_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",

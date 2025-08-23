@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_IT-IT0267106236_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cattedrale+di+Santa+Barbara+Kutn%c3%a1+Hora+Cechia&form=BGALM&filters=HpDate:\"20250822_2200\"",
+      "title": "Cattedrale di Santa Barbara, Kutná Hora, Repubblica Ceca",
+      "description": "Nel cuore di Kutná Hora, storica cittadina della Repubblica Ceca, si erge come un canto di pietra la Cattedrale di Santa Barbara: monumento alla grandezza medievale e alla devozione operaia. Dedicata alla santa protettrice di minatori, architetti, moribondi e altri ancora, la costruzione riflette la profonda connessione tra fede e lavoro. Furono proprio i minatori, animati dalla speranza e dalla fatica, a contribuire alla sua edificazione. I lavori, iniziati nel Medioevo, si estesero fino al XX secolo, attraversando diverse fasi stilistiche. Originariamente concepita su scala monumentale, l’opera fu ridimensionata a causa del declino delle miniere d’argento.",
+      "headline": "Cuspidi e Mistica",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.944893,15.263266/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=49.944893,15.263266;S9;Cattedrale di Santa Barbara, Kutná Hora, Repubblica Ceca&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=St%20Barbara%27s%20Cathedral&ss=ypid.YN8046x7434223566493806923&segment=Local&mb=49.947537~15.255686~49.942255~15.270835&description=Barborska%20Street%20284%2001%20Kutna%20Hora&cardbg=%2388979C&dt=1752143400000&tt=St%20Barbara%27s%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSt%252520Barbara%252527s%252520Cathedral%2526ss%253Dypid.YN8046x7434223566493806923%2526segment%253DLocal%2526mb%253D49.947537~15.255686~49.942255~15.270835%2526description%253DBarborska%252520Street%252520284%25252001%252520Kutna%252520Hora%2526cardbg%253D%25252388979C%2526dt%253D1752143400000&tstt0=St%20Barbara%27s%20Cathedral&cp=52.876501~14.693196&lvl=5.51159&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Kutn%c3%a1+Hora%2c+Repubblica+Ceca&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Kutná Hora, Repubblica Ceca"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Kutn%c3%a1+Hora%2c+Repubblica+Ceca&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",

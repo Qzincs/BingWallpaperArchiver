@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250822",
+      "fullstartdate": "20250822",
+      "enddate": "20250823",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiaFolk_PT-BR5591184698_UHD.jpg",
+      "copyrighttext": "© Paula Montenegro/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=dia+do+folclore&form=BGALM&filters=HpDate:\"20250822_0300\"",
+      "title": "Mamulengos em Olinda, Pernambuco",
+      "description": "Em um piscar de olhos, o calendário anuncia: é 22 de agosto, Dia do Folclore! Hoje, celebramos o Brasil feito das histórias que se escondem nos cantos da alma, cantigas viajando de boca em boca e gestos que atravessam gerações como fios invisíveis de memória. Na imagem, os mamulengos tomam conta das ruas de Olinda, Pernambuco, esbanjando graça e irreverência. Com humor afiado, improviso e muito carisma, esses personagens de pano e madeira encenam dramas do cotidiano que misturam fantasia, crítica social e sabedoria popular.",
+      "headline": "Cada canto conta um conto",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250822_DiaFolk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=dia+do+folclore&form=BGABWCTA7&filters=HpDate:\"20250822_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250821",
       "fullstartdate": "20250821",
       "enddate": "20250822",

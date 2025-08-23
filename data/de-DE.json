@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_DE-DE2329773530_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Barbaradom&form=BGALM&filters=HpDate:\"20250822_2200\"",
+      "title": "Barbaradom, Kuttenberg, Tschechien",
+      "description": "Nur rund 70 Kilometer von der tschechischen Hauptstadt Prag entfernt liegt die charmante Stadt Kuttenberg – einst ein Zentrum des mittelalterlichen Silberbergbaus und heute eine der schönsten Städte des Landes. Wegen ihrer reichen Bodenschätze wird sie auch als „silberne Schatztruhe“ bezeichnet. Der frühere Reichtum spiegelt sich noch heute in prachtvollen Herrenhäusern, einem beeindruckenden Kloster und architektonischen Meisterwerken wie dem Barbaradom wider. Diese gotische Kirche ist der Schutzpatronin der Bergleute geweiht – ein Verweis auf die Geschichte der Stadt als eines der wichtigsten Silberabbaugebiete Europas. Seit 1995 gehört sie gemeinsam mit dem historischen Stadtkern zum UNESCO-Welterbe. Besonders bemerkenswert sind die filigranen Strebebögen, reich verzierten Gewölbe und einzigartigen Wandmalereien, die das Leben der Bergleute darstellen. Auffällig ist auch das seltene dreigeteilte Zeltdach.",
+      "headline": "Ein Juwel der Spätgotik",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.944893,15.263266/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=49.944893,15.263266;S9;Barbaradom, Kuttenberg, Tschechien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=St%20Barbara%27s%20Cathedral&ss=ypid.YN8046x7434223566493806923&segment=Local&mb=49.947537~15.255686~49.942255~15.270835&description=Barborska%20Street%20284%2001%20Kutna%20Hora&cardbg=%2388979C&dt=1752143400000&tt=St%20Barbara%27s%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSt%252520Barbara%252527s%252520Cathedral%2526ss%253Dypid.YN8046x7434223566493806923%2526segment%253DLocal%2526mb%253D49.947537~15.255686~49.942255~15.270835%2526description%253DBarborska%252520Street%252520284%25252001%252520Kutna%252520Hora%2526cardbg%253D%25252388979C%2526dt%253D1752143400000&tstt0=St%20Barbara%27s%20Cathedral&cp=52.876501~14.693196&lvl=5.51159&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Kuttenberg%2c+Tschechien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Kuttenberg, Tschechien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Kuttenberg%2c+Tschechien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",
