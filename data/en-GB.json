@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2019-B17_OverOwlerTorEngland_AdobeStock_169847039",
+      "copyrighttext": "© Helen Hotson/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Over%20Owler%20Tor%2C%20Great%20Britain&form=BGALM",
+      "title": "Over Owler Tor, Great Britain",
+      "description": "Sunrise at Over Owler Tor",
+      "headline": "Over Owler Tor, Great Britain",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=18&q=OVer%20Owker%20Tor%2C%20Great%20Britain%2C%20United%20Kingdom&ss=ypid.YN1029x3461366020833387663&mb=53.329162~-1.64928~53.321383~-1.640053&description=A6187%2C%20Hathersage%20S32%201DA&cardbg=%23219AB6&dt=1737669600000&tt=Over%20Owler%20Tor&tsts3=%2526ty%253D18%2526q%253DOVer%252520Owker%252520Tor%25252C%252520Great%252520Britain%25252C%252520United%252520Kingdom%2526ss%253Dypid.YN1029x3461366020833387663%2526mb%253D53.329162~-1.64928~53.321383~-1.640053%2526description%253DA6187%25252C%252520Hathersage%252520S32%2525201DA%2526cardbg%253D%252523219AB6%2526dt%253D1737669600000&tstt3=Over%20Owler%20Tor&cp=53.325273~-1.655138&lvl=16&pi=0&ftst=3&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Over+Owler+Tor%2c+Great+Britain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Great Britain"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Great+Britain&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

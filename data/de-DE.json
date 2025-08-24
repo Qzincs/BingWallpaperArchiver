@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_DE-DE7228900180_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Europ%c3%a4ischer+Damhirsch&form=BGALM&filters=HpDate:\"20250823_2200\"",
+      "title": "Europäischer Damhirsch, England",
+      "description": "Auf dem heutigen Bild ist ein Europäischer Damhirsch in England zu sehen – eine Hirschart, die durch ihr geflecktes Fell und das schaufelförmige Geweih auffällt. Ursprünglich aus dem östlichen Mittelmeerraum stammend, wurde der Damhirsch von den Römern nach England gebracht und später zum Statussymbol in höfischen Jagdparks. Anders als andere Hirscharten behält der Damhirsch seine Flecken auch im Erwachsenenalter. Sein ruhiges Wesen macht ihn besonders beliebt in Wildparks und Naturreservaten.",
+      "headline": "Natur mit Noblesse",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250824_CervusDama\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.50722,-0.1275/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=51.50722,-0.1275;S9;England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=London%20England&satid=id.sid%3A8e0ba7b6-4225-fa8a-6369-1b5294e602a5&vdpid=5471798185326280713&mb=51.709293~-0.737207~51.304767~0.481522&cardbg=%23F98745&tt=London%2C%20Greater%20London&tsts0=%2526ty%253D30%2526q%253DLondon%252520England%2526satid%253Did.sid%25253A8e0ba7b6-4225-fa8a-6369-1b5294e602a5%2526vdpid%253D5471798185326280713%2526mb%253D51.709293~-0.737207~51.304767~0.481522%2526cardbg%253D%252523F98745&tstt0=London%2C%20Greater%20London&cp=52.263393~-5.433274&lvl=5.468647&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "24. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

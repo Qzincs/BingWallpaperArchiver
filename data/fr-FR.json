@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_FR-FR7245916785_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=daim+animal&form=BGALM&filters=HpDate:\"20250823_2200\"",
+      "title": "Daim européen, Angleterre",
+      "description": "Dans les vastes parcs boisés d’Europe, ici en Angleterre, des silhouettes fauves glissent entre les chênes et les fougères : ce sont des daims européens. Avec leurs pelages tachetés et leurs regards vifs, ils incarnent l’élégance discrète de la faune sauvage. Introduits par les Romains puis acclimatés par la noblesse anglaise, les daims vivent aujourd’hui en semi-liberté dans des domaines historiques, comme Richmond Park ou le parc de Knole. Leur présence évoque un autre temps, où nature et aristocratie cohabitaient dans un équilibre fragile.",
+      "headline": "Silence, on broute !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250824_CervusDama\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=daim+animal&form=BGABWCTA7&filters=HpDate:\"20250823_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

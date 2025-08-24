@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_PT-BR9908756704_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Santa+B%c3%a1rbara+em+Kutn%c3%a1+Hora&form=BGALM&filters=HpDate:\"20250823_0300\"",
+      "title": "Catedral de Santa Bárbara, Kutná Hora, Tchéquia",
+      "description": "A Catedral de Santa Bárbara, vista na imagem, parece brotar da terra como os veios de prata que um dia fizeram Kutná Hora, na Tchéquia, brilhar. Erguida por mineiros que trocavam o fundo da terra pelas alturas góticas, esta igreja homenageia a padroeira daqueles que vivem entre pedras, labirintos e riscos — não por acaso, a mesma santa tão celebrada em Minas Gerais.",
+      "headline": "Majestade gótica",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Santa+B%c3%a1rbara+em+Kutn%c3%a1+Hora&form=BGABWCTA7&filters=HpDate:\"20250823_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",

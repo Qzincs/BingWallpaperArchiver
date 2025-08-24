@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_ES-ES8412556845_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Gamo+europeo&form=BGALM&filters=HpDate:\"20250823_2200\"",
+      "title": "Gamo europeo, Inglaterra",
+      "description": "¿Astas planas? Comprobado. ¿Pelaje con manchas? También. ¿Una mirada discreta entre los arbustos? Has visto a un gamo europeo. Este ciervo de tamaño mediano lleva siglos habitando bosques y parques del Reino Unido, aunque no es originario de allí: fueron los romanos quienes lo introdujeron, y los normandos lo hicieron común en los parques de caza. Hoy es fácil verlo desde Sussex hasta Escocia.",
+      "headline": "Una dama vestida de amarillo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250824_CervusDama\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gamo+europeo&form=BGABWCTA7&filters=HpDate:\"20250823_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.CervusDama_ZH-CN3603505811_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%ac%a7%e6%b4%b2%e9%bb%87%e9%b9%bf%e2%80%8c&form=BGALM&filters=HpDate:\"20250823_1600\"",
+      "title": "欧洲黇鹿‌，英格兰",
+      "description": "扁平的鹿角？没错。斑点的皮毛？没错。灌木丛里的斜眼？也没错。跟欧洲黇鹿打个招呼吧。几个世纪以来，这些中等体型的鹿一直昂首阔步地穿梭于英国的林地和公园之中。虽然它们看起来很像家，但它们并非土生土长的。罗马人很可能把它们带到了这里，后来诺曼人又使它们在狩猎公园里变得常见。如今，它们已成为从苏塞克斯郡到苏格兰各地风景的常客。",
+      "headline": "“跟我来”",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250824_CervusDama\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 24",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%ac%a7%e6%b4%b2%e9%bb%87%e9%b9%bf%e2%80%8c&form=BGABWCTA7&filters=HpDate:\"20250823_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

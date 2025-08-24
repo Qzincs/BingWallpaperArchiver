@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250823",
+      "fullstartdate": "20250823",
+      "enddate": "20250824",
+      "urlbase": "https://www.bing.com/th?id=OHR.Flamingos_ROW6320249671_UHD.jpg",
+      "copyrighttext": "© Raimund Linke/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Greater+flamingo&form=BGALM&filters=HpDate:\"20250823_0700\"",
+      "title": "Greater flamingos, Saintes-Maries-de-la-Mer, Camargue Regional Nature Park, France",
+      "description": "At the gateway to Saintes-Maries-de-la-Mer, the Camargue Regional Natural Park unfolds its landscapes of water, salt and light. Here, amidst marshes, salt marshes and lagoons, the greater flamingo reigns supreme. In the shallow waters, these graceful birds, with their pink feathers and wings tinged with red and black, perform an unforgettable aerial ballet.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250823_Flamingos\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Greater+flamingo&form=BGABWCTA7&filters=HpDate:\"20250823_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250822",
       "fullstartdate": "20250822",
       "enddate": "20250823",
