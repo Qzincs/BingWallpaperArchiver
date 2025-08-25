@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "https://www.bing.com/th?id=OHR.Pepalantus_PT-BR6960217232_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=pepalantus+planta&form=BGALM&filters=HpDate:\"20250824_0300\"",
+      "title": "Chuveirinhos ao nascer do sol na Chapada dos Veadeiros, Goiás",
+      "description": "Na Chapada dos Veadeiros, em Goiás, nossa imagem captura um momento em que o sol ainda hesita, mas o cerrado já despertou. Do chão seco brotam centenas de chuveirinhos, plantas do gênero Paepalanthus que se erguem como fios de luz, coroados por uma esfera branca e delicada. O vale se ilumina entre essas plantas que nascem onde quase nada mais ousa crescer. Enfrentam solos pobres, clima rigoroso e queimadas frequentes.",
+      "headline": "A força da delicadeza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250824_Pepalantus\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=pepalantus+planta&form=BGABWCTA7&filters=HpDate:\"20250824_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250825",
+      "fullstartdate": "20250825",
+      "enddate": "20250826",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_DE-DE2550082704_UHD.jpg",
+      "copyrighttext": "© Rebecca L. Latson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=+Yellowstone-Nationalpark+USA&form=BGALM&filters=HpDate:\"20250824_2200\"",
+      "title": "Aussichtspunkt Calcite Springs und Yellowstone River, Yellowstone-Nationalpark, Wyoming, USA",
+      "description": "Mit einer Fläche von fast 9.000 km² ist der Yellowstone-Nationalpark größer als Korsika und zugleich ein Ort voller geologischer Wunder und spektakulärer Landschaften. Er liegt im Nordwesten der USA, hauptsächlich in Wyoming, und ist berühmt für seine Geysire, heißen Quellen und die riesige Caldera eines Supervulkans. Das heutige Bild zeigt den Calcite Springs Overlook, einen ganz besonderen Aussichtspunkt. Hier trifft thermische Aktivität auf eine dramatische Canyonlandschaft. Dabei offenbart sich ein faszinierendes Zusammenspiel aus Naturgewalten: Der Yellowstone River schlängelt sich durch einen von Lava geformten Canyon mit schwarzen Basaltklippen und weißen Mineralablagerungen, die von heißen Quellen stammen.",
+      "headline": "Naturgewalten im Wandel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250825_YellowstoneRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.902538,-110.392708/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=44.902538,-110.392708;S9;Yellowstone-Nationalpark, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Calcite%20Springs%20overlook&ss=ypid.YN873x4645145190670723051&mb=44.908254~-110.402706~44.89681~-110.382707&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%23219AB6&dt=1752579000000&tt=Calcite%20Springs%20Overlook&tsts0=%2526ty%253D18%2526q%253DCalcite%252520Springs%252520overlook%2526ss%253Dypid.YN873x4645145190670723051%2526mb%253D44.908254~-110.402706~44.89681~-110.382707%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%252523219AB6%2526dt%253D1752579000000&tstt0=Calcite%20Springs%20Overlook&cp=37.89384~-117.133853&lvl=5.2258635&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "25. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Yellowstone-Nationalpark%2c+Wyoming%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Yellowstone-Nationalpark, Wyoming, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Yellowstone-Nationalpark%2c+Wyoming%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250824",
       "fullstartdate": "20250824",
       "enddate": "20250825",

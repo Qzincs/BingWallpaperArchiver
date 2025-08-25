@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250824",
+      "fullstartdate": "20250824",
+      "enddate": "20250825",
+      "urlbase": "https://www.bing.com/th?id=OHR.CervusDama_EN-CA1743001514_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=European+fallow+deer&form=BGALM&filters=HpDate:\"20250824_0400\"",
+      "title": "European fallow deer, England",
+      "description": "Flat antlers? Check. Spotted coat? Check. Side-eye from the bushes? Also check. Say hello to the European fallow deer. These medium-sized deer have been strutting through British woodlands and parklands for centuries. Though they look right at home, they weren't born here. The Romans likely brought them over, and the Normans later made them common in hunting parks. Now, they're regulars in landscapes from Sussex to Scotland.",
+      "headline": "'Fallow' me",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250824_CervusDama\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.50722,-0.1275/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=51.50722,-0.1275;S9;England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=London%20England&satid=id.sid%3A8e0ba7b6-4225-fa8a-6369-1b5294e602a5&vdpid=5471798185326280713&mb=51.709293~-0.737207~51.304767~0.481522&cardbg=%23F98745&tt=London%2C%20Greater%20London&tsts0=%2526ty%253D30%2526q%253DLondon%252520England%2526satid%253Did.sid%25253A8e0ba7b6-4225-fa8a-6369-1b5294e602a5%2526vdpid%253D5471798185326280713%2526mb%253D51.709293~-0.737207~51.304767~0.481522%2526cardbg%253D%252523F98745&tstt0=London%2C%20Greater%20London&cp=52.263393~-5.433274&lvl=5.468647&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug. 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250823",
       "fullstartdate": "20250823",
       "enddate": "20250824",

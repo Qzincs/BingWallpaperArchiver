@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250825",
+      "fullstartdate": "20250825",
+      "enddate": "20250826",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_EN-GB9172526741_UHD.jpg",
+      "copyrighttext": "© Rebecca L. Latson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Yellowstone+National+Park&form=BGALM&filters=HpDate:\"20250824_2300\"",
+      "title": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States",
+      "description": "If you're looking for a view that really rises to the occasion, head to the Calcite Springs Overlook in Yellowstone National Park in Wyoming, United States. This thermal-meets-canyon overlook offers front-row views of the Yellowstone River carving its way through a lava-forged canyon. Along the basalt cliffs, white mineral deposits that gave Calcite Springs its name are visible, formed by mineral-rich waters still steaming from underground. You might spot a bald eagle gliding overhead or bison lounging nearby. Yellowstone is more than just a park—it's a supervolcano with a visitor centre.",
+      "headline": "From volcanic roots to river routes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250825_YellowstoneRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.902538,-110.392708/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=44.902538,-110.392708;S9;Calcite Springs Overlook, Yellowstone National Park, Wyoming, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Calcite%20Springs%20overlook&ss=ypid.YN873x4645145190670723051&mb=44.908254~-110.402706~44.89681~-110.382707&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%23219AB6&dt=1752579000000&tt=Calcite%20Springs%20Overlook&tsts0=%2526ty%253D18%2526q%253DCalcite%252520Springs%252520overlook%2526ss%253Dypid.YN873x4645145190670723051%2526mb%253D44.908254~-110.402706~44.89681~-110.382707%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%252523219AB6%2526dt%253D1752579000000&tstt0=Calcite%20Springs%20Overlook&cp=37.89384~-117.133853&lvl=5.2258635&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Yellowstone+National+Park%2c+Wyoming%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Yellowstone National Park, Wyoming, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Yellowstone+National+Park%2c+Wyoming%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250824",
       "fullstartdate": "20250824",
       "enddate": "20250825",

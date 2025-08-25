@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250825",
+      "fullstartdate": "20250825",
+      "enddate": "20250826",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ES-ES8502138865_UHD.jpg",
+      "copyrighttext": "© Rebecca L. Latson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=BGALM&filters=HpDate:\"20250824_2200\"",
+      "title": "Mirador de Calcite Springs y río Yellowstone, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "description": "Desde géiseres que brotan como botellas agitadas hasta antiguas viviendas excavadas en los acantilados, Yellowstone invita a caminar entre maravillas naturales e históricas. Uno de los mejores lugares para contemplar su belleza es el mirador de Calcite Springs, en el Parque Nacional de Yellowstone, en Wyoming (Estados Unidos). Este punto ofrece vistas espectaculares del río Yellowstone, que serpentea a través de un cañón formado por antiguas erupciones volcánicas. En sus paredes de basalto, destacan los depósitos blancos que dan nombre al lugar, creados por aguas termales ricas en minerales que aún emanan del subsuelo.",
+      "headline": "De rutas volcánicas y fluviales",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250825_YellowstoneRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Yellowstone&form=BGABWCTA7&filters=HpDate:\"20250824_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250824",
       "fullstartdate": "20250824",
       "enddate": "20250825",
