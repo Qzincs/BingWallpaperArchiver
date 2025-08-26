@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250826",
+      "fullstartdate": "20250826",
+      "enddate": "20250827",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_IT-IT9674052822_UHD.jpg",
+      "copyrighttext": "© Anton Petrus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+S%c3%b8rv%c3%a1gsvatn&form=BGALM&filters=HpDate:\"20250825_2200\"",
+      "title": "Lago Sørvágsvatn, Isola di Vágar, Fær Øer",
+      "description": "Dove l’acqua sembra sfidare la gravità e il cielo si specchia nel blu profondo, sorge un mistero liquido: Sørvágsvatn. Nascosto tra le scogliere dell’isola di Vágar, questo lago delle Fær Øer, che fanno parte del Regno di Danimarca, galleggia nell’immaginario, apparendo sospeso sopra l’oceano, quando in realtà riposa appena 30 metri più in alto. Con un’ampiezza di oltre 3 km², è il più grande lago dell’arcipelago e alimenta la cascata Bøsdalafossur, che si tuffa nel mare con uno slancio fragoroso e teatrale. Un gioco di prospettive, vento e luce lo trasforma in un’illusione: un lago che sfida i sensi e abbraccia il mistero.",
+      "headline": "Lago sull'Oceano?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_FaroeLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/62.049999,-7.233333/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=62.049999,-7.233333;S9;Lago Sørvágsvatn, Isola di Vágar, Fær Øer&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Sorvagsvatn&ss=ypid.YN8059x9270391433864833771&mb=62.052115~-7.240419~62.047891~-7.226257&description=S%C3%B8rv%C3%A1gs%20Municipality%2C%20Vaga%C2%B7Sehensw%C3%BCrdigkeiten%20und%20Aktivit%C3%A4ten&cardbg=%23219AB6&dt=1752057000000&tt=S%C3%B8rv%C3%A1gsvatn&tsts0=%2526ty%253D18%2526q%253DSorvagsvatn%2526ss%253Dypid.YN8059x9270391433864833771%2526mb%253D62.052115~-7.240419~62.047891~-7.226257%2526description%253DS%2525C3%2525B8rv%2525C3%2525A1gs%252520Municipality%25252C%252520Vaga%2525C2%2525B7Sehensw%2525C3%2525BCrdigkeiten%252520und%252520Aktivit%2525C3%2525A4ten%2526cardbg%253D%252523219AB6%2526dt%253D1752057000000&tstt0=S%C3%B8rv%C3%A1gsvatn&cp=58.557268~-35.553008&lvl=3.6280696&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "26 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Isola+di+V%c3%a1gar%2c+F%c3%a6r+%c3%98er&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Isola di Vágar, Fær Øer"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Isola+di+V%c3%a1gar%2c+F%c3%a6r+%c3%98er&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250825",
       "fullstartdate": "20250825",
       "enddate": "20250826",

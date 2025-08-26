@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250825",
+      "fullstartdate": "20250825",
+      "enddate": "20250826",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_ROW6734170781_UHD.jpg",
+      "copyrighttext": "© Rebecca L. Latson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Calcite+Springs&form=BGALM&filters=HpDate:\"20250825_0700\"",
+      "title": "Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming, United States",
+      "description": "Calcite Springs Overlook in Yellowstone National Park, Wyoming—featured in today's image—is located just off the Grand Loop Road. This thermal-meets-canyon overlook offers front-row views of the Yellowstone River carving its way through a lava-forged canyon. The canyon walls formed about 1.3 million years ago, when lava flowed from the Yellowstone Plateau. As it cooled and cracked, it created the striking basalt formations seen today. Along the basalt cliffs, white mineral deposits that gave Calcite Springs its name are visible, formed by mineral-rich waters still steaming from underground. You might spot a bald eagle gliding overhead or bison lounging nearby. Yellowstone is more than just a park—it's a supervolcano with a visitor centre.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250825_YellowstoneRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Calcite+Springs&form=BGABWCTA7&filters=HpDate:\"20250825_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250824",
       "fullstartdate": "20250824",
       "enddate": "20250825",

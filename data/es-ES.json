@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250826",
+      "fullstartdate": "20250826",
+      "enddate": "20250827",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_ES-ES8633260965_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alberobello&form=BGALM&filters=HpDate:\"20250825_2200\"",
+      "title": "Los trulli de Alberobello, Apulia, Italia",
+      "description": "Si los cuentos de hadas tuvieran arquitectos, quizás habrían diseñado un lugar como Alberobello, en el sur de Italia. Pero en vez de magia, fueron la piedra caliza, la técnica tradicional y, según algunas teorías, el ingenio para evitar impuestos lo que dio forma a sus famosas casas: los trullos. Estas viviendas, encaladas y coronadas con techos cónicos de piedra apilada en seco, surgieron en el siglo XIV. Los vecinos las construían sin mortero para poder desmontarlas rápidamente cuando llegaba el recaudador de impuestos. Ingenioso, ¿verdad?",
+      "headline": "Una construcción icónica",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alberobello&form=BGABWCTA7&filters=HpDate:\"20250825_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250825",
       "fullstartdate": "20250825",
       "enddate": "20250826",

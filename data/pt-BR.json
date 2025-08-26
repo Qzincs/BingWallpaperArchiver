@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250825",
+      "fullstartdate": "20250825",
+      "enddate": "20250826",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneRiver_PT-BR9693937277_UHD.jpg",
+      "copyrighttext": "© Rebecca L. Latson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Yellowstone+Parque+Nacional&form=BGALM&filters=HpDate:\"20250825_0300\"",
+      "title": "Mirante de Calcite Springs e Rio Yellowstone, Parque Nacional de Yellowstone, Wyoming, EUA",
+      "description": "No noroeste dos Estados Unidos, o mirante de Calcite Springs, em Yellowstone, vai além da bela vista da nossa imagem do dia: expõe as cicatrizes de um planeta em constante transformação. Ali, o rio que batiza o parque corta um vale profundo, ladeado por encostas riscadas de branco, onde águas termais ainda sussurram entre rochas moldadas ao longo de milênios. É como se a Terra abrisse as cortinas para os bastidores de um espetáculo geológico ativo — legado da colossal erupção que, há cerca de 640 mil anos, deu origem à vasta caldeira vulcânica no coração do parque.",
+      "headline": "Quando o passado vem à tona",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250825_YellowstoneRiver\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Yellowstone+Parque+Nacional&form=BGABWCTA7&filters=HpDate:\"20250825_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250824",
       "fullstartdate": "20250824",
       "enddate": "20250825",

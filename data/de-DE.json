@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250826",
+      "fullstartdate": "20250826",
+      "enddate": "20250827",
+      "urlbase": "https://www.bing.com/th?id=OHR.KitesurferGermany_DE-DE6337370430_UHD.jpg",
+      "copyrighttext": "© Jens Breuer/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Defender+GKA+Kite+World+Cup+auf+Sylt&form=BGALM&filters=HpDate:\"20250825_2200\"",
+      "title": "Silhouette eines springenden Kitesurfers bei Sonnenuntergang im baltischen Meer",
+      "description": "Dieser besondere Moment, wenn das Board abhebt und der Wind den Kite trägt – ein Gefühl, das dem Fliegen gleicht. Kitesurfen ist weit mehr als ein Sport: Es verbindet Balance, Kraft und Geschick mit einem unvergleichlichen Gefühl von Freiheit. Der Sportler gleitet auf einem Surfbrett über das Wasser, gezogen von einem Lenkdrachen, dem sogenannten Kite. Ob an exotischen Küsten, niederländischen Seen oder deutschen Binnengewässern wie dem Brombachsee – Kitesurfen ist ein Erlebnis für Abenteurer und Naturfreunde. Besonders die Nord- und Ostsee bieten ideale Bedingungen, um diese Trendsportart auszuprobieren.",
+      "headline": "Wind, Wellen und Adrenalin",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_KitesurferGermany\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Defender+GKA+Kite+World+Cup+auf+Sylt&form=BGABWCTA7&filters=HpDate:\"20250825_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250825",
       "fullstartdate": "20250825",
       "enddate": "20250826",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250826",
+      "fullstartdate": "20250826",
+      "enddate": "20250827",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_JA-JP5521004094_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%ab%e3%83%99%e3%83%ad%e3%83%99%e3%83%83%e3%83%ad&form=BGALM&filters=HpDate:\"20250825_1500\"",
+      "title": "アルベロベッロ, イタリア",
+      "description": "南イタリアのプーリア州にある小さな町、アルベロベッロ。トゥルッリと呼ばれる独特の建物が密集しており、白い壁と円錐形の灰色の屋根が連なる様子は、まるでおとぎ話の世界のようです。1996 年にはユネスコの世界文化遺産に登録されました…",
+      "headline": "とんがり屋根が並ぶ小さな町",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.78406,17.23746/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.78406,17.23746;S9;アルベロベッロ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alberobello&satid=id.sid%3A1a4741bd-af44-01b9-226f-69d471844aa5&vdpid=7218434605160857601&mb=40.826256~17.161562~40.756973~17.333161&cardbg=%23F98745&tt=Alberobello%2C%20Apulia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DAlberobello%2526satid%253Did.sid%25253A1a4741bd-af44-01b9-226f-69d471844aa5%2526vdpid%253D7218434605160857601%2526mb%253D40.826256~17.161562~40.756973~17.333161%2526cardbg%253D%252523F98745&tstt0=Alberobello%2C%20Apulia%2C%20Italy&cp=39.839177~9.461211&lvl=5.029382&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 26 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " イタリア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250825",
       "fullstartdate": "20250825",
       "enddate": "20250826",
