@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250827",
+      "fullstartdate": "20250827",
+      "enddate": "20250828",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_JA-JP5563873968_UHD.jpg",
+      "copyrighttext": "© Anton Petrus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%bd%e3%83%bc%e3%83%ab%e3%83%b4%e3%82%a1%e3%82%b0%e3%82%b9%e3%83%b4%e3%82%a1%e3%83%88%e3%83%b3%e6%b9%96&form=BGALM&filters=HpDate:\"20250826_1500\"",
+      "title": "ソールヴァグスヴァトン湖, デンマーク",
+      "description": "今日 8 月 27 日は「世界湖沼の日」。1984 年の今日、琵琶湖の水質悪化を背景に、湖沼の未来を守るため、滋賀県大津市で第 1 回「世界湖沼会議」が開催されました。そして 2024 年 12 月、その開催日 8 月 27 日が、国連総会により「世界湖沼の日」として正式に制定されました…",
+      "headline": "今日は世界湖沼の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_FaroeLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/62.049999,-7.233333/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=62.049999,-7.233333;S9;ソールヴァグスヴァトン湖, デンマーク&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Sorvagsvatn&ss=ypid.YN8059x9270391433864833771&mb=62.052115~-7.240419~62.047891~-7.226257&description=S%C3%B8rv%C3%A1gs%20Municipality%2C%20Vaga%C2%B7Sehensw%C3%BCrdigkeiten%20und%20Aktivit%C3%A4ten&cardbg=%23219AB6&dt=1752057000000&tt=S%C3%B8rv%C3%A1gsvatn&tsts0=%2526ty%253D18%2526q%253DSorvagsvatn%2526ss%253Dypid.YN8059x9270391433864833771%2526mb%253D62.052115~-7.240419~62.047891~-7.226257%2526description%253DS%2525C3%2525B8rv%2525C3%2525A1gs%252520Municipality%25252C%252520Vaga%2525C2%2525B7Sehensw%2525C3%2525BCrdigkeiten%252520und%252520Aktivit%2525C3%2525A4ten%2526cardbg%253D%252523219AB6%2526dt%253D1752057000000&tstt0=S%C3%B8rv%C3%A1gsvatn&cp=58.557268~-35.553008&lvl=3.6280696&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 27 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%87%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%af+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " デンマーク への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%87%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%af+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250826",
       "fullstartdate": "20250826",
       "enddate": "20250827",

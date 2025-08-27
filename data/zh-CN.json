@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250827",
+      "fullstartdate": "20250827",
+      "enddate": "20250828",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.FaroeLake_ZH-CN3977660997_UHD.jpg",
+      "copyrighttext": "© Anton Petrus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%91%9f%e6%b2%83%e6%a0%bc%e6%b9%96&form=BGALM&filters=HpDate:\"20250826_1600\"",
+      "title": "瑟沃格湖，瓦加尔岛，法罗群岛",
+      "description": "大自然自有其奇妙之处，瑟沃格湖（Sørvágsvatn）便是其中最精彩的之一。世界湖泊日是探索法罗群岛（丹麦王国的一个自治行政区）这片视错觉的绝佳时机。这座位于沃格岛上的湖泊也被称为莱蒂斯湖（Leitisvatn），看似漂浮在海平面之上。实际上，它的海拔不到100英尺。索尔瓦格斯湖是法罗群岛最大的湖泊，面积约1.3平方英里，为Bøsdalafossur瀑布Bøsdalafossur提供水源，瀑布的湖水在那里奔腾而下，最终倾泻而入大海。",
+      "headline": "海洋上方的湖泊",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_FaroeLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 27",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%91%9f%e6%b2%83%e6%a0%bc%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20250826_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250826",
       "fullstartdate": "20250826",
       "enddate": "20250827",

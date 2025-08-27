@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250827",
+      "fullstartdate": "20250827",
+      "enddate": "20250828",
+      "urlbase": "https://www.bing.com/th?id=OHR.FestivalVenezia_IT-IT9738242817_UHD.jpg",
+      "copyrighttext": "© Pol Albarrán/Moment",
+      "copyrightlink": "https://www.bing.com/search?q=festival+cinematografico+che+si+svolge+annualmente+in+Italia+a+Venezia&form=BGALM&filters=HpDate:\"20250826_2200\"",
+      "title": "Vista aerea delle case colorate dell'isola di Burano, Laguna di Venezia, Veneto",
+      "description": "Pronti per il Red Carpet? Dal 27 agosto al 6 settembre 2025, il Lido di Venezia torna a pulsare al ritmo del grande cinema. Con l’82ª Mostra Internazionale d’Arte Cinematografica, lo sguardo diventa protagonista: quello dei registi, che scandagliano l’animo umano, e quello degli spettatori, pronti a lasciarsi stupire. Alexander Payne guida la giuria, mentre Paolo Sorrentino inaugura con \"La Grazia\", accendendo il festival come un faro nelle acque lagunari.",
+      "headline": "È qui il festival?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_FestivalVenezia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.405499,12.3673/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.405499,12.3673;S9;Lido di Venezia, Veneto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Festival%20del%20Cinema%20di%20Venezia&ss=ypid.YN1354x2434078114056501210&mb=45.40999~12.355456~45.401011~12.379146&description=Lungomare%20Guglielmo%20Marconi%201861%20-%2030126%20Venezia%20%28VE%29%C2%B7Attrazioni%20ed%20edifici%20storici&cardbg=%23219AB6&dt=1754308800000&tt=Mostra%20del%20Cinema&tsts0=%2526ty%253D18%2526q%253DFestival%252520del%252520Cinema%252520di%252520Venezia%2526ss%253Dypid.YN1354x2434078114056501210%2526mb%253D45.40999~12.355456~45.401011~12.379146%2526description%253DLungomare%252520Guglielmo%252520Marconi%2525201861%252520-%25252030126%252520Venezia%252520%252528VE%252529%2525C2%2525B7Attrazioni%252520ed%252520edifici%252520storici%2526cardbg%253D%252523219AB6%2526dt%253D1754308800000&tstt0=Mostra%20del%20Cinema&cp=45.405501~12.361979&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Laguna+di+Venezia%2c+Veneto&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Laguna di Venezia, Veneto"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Laguna+di+Venezia%2c+Veneto&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250826",
       "fullstartdate": "20250826",
       "enddate": "20250827",

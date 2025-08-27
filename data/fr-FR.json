@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250827",
+      "fullstartdate": "20250827",
+      "enddate": "20250828",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_FR-FR9783963301_UHD.jpg",
+      "copyrighttext": "© Anton Petrus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lac+S%c3%b8rv%c3%a1gsvatn&form=BGALM&filters=HpDate:\"20250826_2200\"",
+      "title": "Lac Sørvágsvatn, île de Vágar, Îles Féroé",
+      "description": "Au sommet des falaises des Îles Féroé, au Danemark, un lac semble flotter dans le vide. Cet effet d’optique est créé par la topographie des falaises et l’angle du regard. Une illusion ? Oui, mais surtout un chef-d’œuvre de la nature. À peine à 30 mètres au-dessus de la mer, ce miroir d’eau s’écoule en cascade par la Bøsdalafossur, précipitant ses eaux douces dans l’océan.",
+      "headline": "Vers l'infini… et l'eau de là",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_FaroeLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/62.049999,-7.233333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=62.049999,-7.233333;S9;Lac Sørvágsvatn, Îles Féroé&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Sorvagsvatn&ss=ypid.YN8059x9270391433864833771&mb=62.052115~-7.240419~62.047891~-7.226257&description=S%C3%B8rv%C3%A1gs%20Municipality%2C%20Vaga%C2%B7Sehensw%C3%BCrdigkeiten%20und%20Aktivit%C3%A4ten&cardbg=%23219AB6&dt=1752057000000&tt=S%C3%B8rv%C3%A1gsvatn&tsts0=%2526ty%253D18%2526q%253DSorvagsvatn%2526ss%253Dypid.YN8059x9270391433864833771%2526mb%253D62.052115~-7.240419~62.047891~-7.226257%2526description%253DS%2525C3%2525B8rv%2525C3%2525A1gs%252520Municipality%25252C%252520Vaga%2525C2%2525B7Sehensw%2525C3%2525BCrdigkeiten%252520und%252520Aktivit%2525C3%2525A4ten%2526cardbg%253D%252523219AB6%2526dt%253D1752057000000&tstt0=S%C3%B8rv%C3%A1gsvatn&cp=58.557268~-35.553008&lvl=3.6280696&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+%c3%aele+de+V%c3%a1gar%2c+%c3%8eles+F%c3%a9ro%c3%a9&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  île de Vágar, Îles Féroé"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++%c3%aele+de+V%c3%a1gar%2c+%c3%8eles+F%c3%a9ro%c3%a9&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250826",
       "fullstartdate": "20250826",
       "enddate": "20250827",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250827",
+      "fullstartdate": "20250827",
+      "enddate": "20250828",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_ES-ES8719950614_UHD.jpg",
+      "copyrighttext": "© Anton Petrus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=S%c3%b8rv%c3%a1gsvatn&form=BGALM&filters=HpDate:\"20250826_2200\"",
+      "title": "Lago Sørvágsvatn, Isla de Vágar, Islas Feroe, Reino de Dinamarca",
+      "description": "La naturaleza tiene sus trucos, y el lago Sørvágsvatn, en las Islas Feroe (territorio autónomo de Dinamarca), es uno de los más sorprendentes. También conocido como Leitisvatn, este lago parece flotar sobre el océano, pero en realidad está a menos de 30 metros sobre el nivel del mar. Es el lago más grande del archipiélago, con una superficie de más de 3,5 kilómetros cuadrados, y da origen a la cascada Bøsdalafossur, cuyas aguas caen directamente al mar desde un acantilado.",
+      "headline": "Un lago sobre el océano",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_FaroeLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=S%c3%b8rv%c3%a1gsvatn&form=BGABWCTA7&filters=HpDate:\"20250826_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250826",
       "fullstartdate": "20250826",
       "enddate": "20250827",

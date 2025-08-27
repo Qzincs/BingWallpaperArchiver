@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250826",
+      "fullstartdate": "20250826",
+      "enddate": "20250827",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_ROW6850250684_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alberobello&form=BGALM&filters=HpDate:\"20250826_0700\"",
+      "title": "Trullo buildings in Alberobello, Apulia, Italy",
+      "description": "If fairy tales had architects, they might've come up with something like Alberobello in Italy. But instead of magic wands, it was limestone, mortar-free masonry and—according to some theories—a bit of tax evasion that built this town's signature homes: the trulli. These are whitewashed stone houses topped with dry-stacked limestone roofs shaped like upside-down ice cream cones. It's an ancient building technique and in this case, a clever one. Back in the 14th century, locals were reportedly trying to avoid property taxes by constructing homes that could be quickly dismantled when the king's tax collector came around.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alberobello&form=BGABWCTA7&filters=HpDate:\"20250826_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250825",
       "fullstartdate": "20250825",
       "enddate": "20250826",

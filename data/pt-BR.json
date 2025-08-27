@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250826",
+      "fullstartdate": "20250826",
+      "enddate": "20250827",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_PT-BR9475692206_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alberobello%2c+Ap%c3%balia%2c+It%c3%a1lia&form=BGALM&filters=HpDate:\"20250826_0300\"",
+      "title": "Casas trulli em Alberobello, Apúlia, Itália",
+      "description": "Se contos de fadas tivessem arquitetos, eles talvez criassem algo como Alberobello, na Itália. Mas em vez de varinhas mágicas, foram o calcário, a alvenaria sem argamassa e — segundo algumas teorias — um pouco de evasão fiscal que ergueram as casas emblemáticas da cidade: os trulli, nossa imagem de hoje. São estruturas de pedra caiada com coberturas de calcário empilhado sem cimento, em forma de cone invertido, como sorvetes ao contrário. Trata-se de uma técnica ancestral de construção — e, neste caso, engenhosa. No século XIV, os moradores, aparentemente, construíam casas que podiam ser desmontadas rapidamente sempre que chegava o coletor de impostos, para evitar tributos.",
+      "headline": "Trulli encantado",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250826_TrulliHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alberobello%2c+Ap%c3%balia%2c+It%c3%a1lia&form=BGABWCTA7&filters=HpDate:\"20250826_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250825",
       "fullstartdate": "20250825",
       "enddate": "20250826",
