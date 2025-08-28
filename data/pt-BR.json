@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250827",
+      "fullstartdate": "20250827",
+      "enddate": "20250828",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaroeLake_PT-BR9196671345_UHD.jpg",
+      "copyrighttext": "© Anton Petrus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=o+que+%c3%a9+um+lago&form=BGALM&filters=HpDate:\"20250827_0300\"",
+      "title": "Lago Sørvágsvatn, ilha de Vágar, Ilhas Faroe, Dinamarca",
+      "description": "Hoje é Dia Mundial dos Lagos — e alguns estão longe de ser espelhos serenos. Sørvágsvatn, nas Ilhas Faroe, Dinamarca, parece levitar sobre o Atlântico. Relevo e ângulo criam a estranha ilusão, vista na imagem, de que o lago despenca de um penhasco flutuante.",
+      "headline": "Arte em estado líquido",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250827_FaroeLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=o+que+%c3%a9+um+lago&form=BGABWCTA7&filters=HpDate:\"20250827_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250826",
       "fullstartdate": "20250826",
       "enddate": "20250827",

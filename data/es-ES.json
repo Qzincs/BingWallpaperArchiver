@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250828",
+      "fullstartdate": "20250828",
+      "enddate": "20250829",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_ES-ES8814073965_UHD.jpg",
+      "copyrighttext": "© Markus Varesvuo/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Garza+blanca&form=BGALM&filters=HpDate:\"20250827_2200\"",
+      "title": "Garza blanca, Hungría",
+      "description": "Visten de blanco todo el año y sin vergüenza. Conozca a la garza grande, también llamada garza blanca, un ave elegante y silenciosa que habita humedales, marismas y riberas tranquilas de América, Asia, África y partes de Europa. Pueden permanecer inmóviles durante minutos, esperando el momento justo para lanzar su ataque relámpago. Su dieta se basa en peces, aunque también cazan ranas, reptiles e incluso pequeños mamíferos.",
+      "headline": "Un plumaje impoluto",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250828_WhiteEgret\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Garza+blanca&form=BGABWCTA7&filters=HpDate:\"20250827_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250827",
       "fullstartdate": "20250827",
       "enddate": "20250828",

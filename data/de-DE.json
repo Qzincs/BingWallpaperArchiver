@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250828",
+      "fullstartdate": "20250828",
+      "enddate": "20250829",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_DE-DE4529883456_UHD.jpg",
+      "copyrighttext": "© Markus Varesvuo/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Silberreiher&form=BGALM&filters=HpDate:\"20250827_2200\"",
+      "title": "Silberreiher, Ungarn",
+      "description": "Auf dem heutigen Bild sehen wir einen Silberreiher in Ungarn, einen eleganten weißen Vogel, der in Feuchtgebieten und ruhigen Seen lebt. Sein schneeweißes Gefieder und der langsame Flug machen ihn zu einem Symbol für natürliche Gelassenheit. Besonders faszinierend ist seine Fähigkeit, lange Zeit regungslos zu verharren, während er auf Beute lauert. In Ungarn, vor allem im Nationalpark Hortobágy, kann man ihn während der Zugzeit in großen Gruppen beobachten – ein beeindruckendes Naturschauspiel.",
+      "headline": "Majestät in Weiß",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250828_WhiteEgret\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47,19/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47,19;S9;Ungarn&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=hungary&satid=id.sid%3A3dd659a3-ba3c-d100-7fb4-69db91e7837f&vdpid=109&mb=48.613573~16.113876~45.707235~22.89772&cardbg=%23F98745&tt=Hungary&tsts0=%2526ty%253D30%2526q%253Dhungary%2526satid%253Did.sid%25253A3dd659a3-ba3c-d100-7fb4-69db91e7837f%2526vdpid%253D109%2526mb%253D48.613573~16.113876~45.707235~22.89772%2526cardbg%253D%252523F98745&tstt0=Hungary&cp=47.040182~-2.285156&lvl=4&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Ungarn&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Ungarn"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Ungarn&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250827",
       "fullstartdate": "20250827",
       "enddate": "20250828",
