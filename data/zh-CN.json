@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.PlazaMayor_ZH-CN4576498488_UHD.jpg",
+      "copyrighttext": "© AirPano LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%a9%ac%e5%be%b7%e9%87%8c%e9%a9%ac%e7%ba%a6%e5%b0%94%e5%b9%bf%e5%9c%ba&form=BGALM&filters=HpDate:\"20250828_1600\"",
+      "title": "马约尔广场鸟瞰图, 马德里, 西班牙",
+      "description": "从高处俯瞰，马德里（西班牙首都）的马约尔广场（Plaza Mayor）上，整齐的拱廊与瓦片屋顶交织成一幅令人着迷的建筑和谐画卷。这片历史悠久的空间曾是热闹的集市广场“阿拉巴尔广场”（Plaza del Arrabal）的所在地，见证了这座城市数百年来的变迁。这一转变始于1561年，当时皇家法院从托莱多迁至马德里，广场随之归入马德里管辖。受秩序与宏伟愿景的启发，菲利普二世重新构想了这片广场——尽管实际施工直至菲利普三世统治时期的1617年才正式展开。",
+      "headline": "网格的心脏",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 29",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%a9%ac%e5%be%b7%e9%87%8c%e9%a9%ac%e7%ba%a6%e5%b0%94%e5%b9%bf%e5%9c%ba&form=BGABWCTA7&filters=HpDate:\"20250828_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",

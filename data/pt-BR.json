@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250828",
+      "fullstartdate": "20250828",
+      "enddate": "20250829",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhiteEgret_PT-BR8998981600_UHD.jpg",
+      "copyrighttext": "© Markus Varesvuo/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Gar%c3%a7a-branca-grande&form=BGALM&filters=HpDate:\"20250828_0300\"",
+      "title": "Garça-branca-grande, Hungria",
+      "description": "Ela não segue tendências: tem estilo próprio. Está sempre vestida de branco, impecável em qualquer estação. A garça-branca-grande — ou simplesmente garça-branca, como a que vemos na imagem, fotografada na Hungria — habita pântanos, estuários e rios calmos nas Américas, na África, Ásia e Europa. No Brasil, é figura carimbada em manguezais, áreas alagadas e no vasto Pantanal, onde sua figura esguia indica que a natureza está em equilíbrio. Pode ficar imóvel por longos minutos, à espera do momento exato para lançar seu ataque relâmpago. Prefere peixes, mas não recusa sapos, pequenos répteis e até mamíferos.",
+      "headline": "Resistência é o novo branco",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250828_WhiteEgret\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gar%c3%a7a-branca-grande&form=BGABWCTA7&filters=HpDate:\"20250828_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250827",
       "fullstartdate": "20250827",
       "enddate": "20250828",

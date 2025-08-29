@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_JA-JP5661212297_UHD.jpg",
+      "copyrighttext": "© AirPano LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9e%e3%83%a8%e3%83%bc%e3%83%ab%e5%ba%83%e5%a0%b4&form=BGALM&filters=HpDate:\"20250828_1500\"",
+      "title": "マヨール広場, スペイン",
+      "description": "スペインの首都、マドリードにあるマヨール広場。この場所にはかつて「アラバル広場」と呼ばれる市場があり、商業の中心地として栄えていました。スペイン国王フェリペ 2 世がバリャドリッドから宮廷を移し、マドリードを事実上の首都と定めた後、その息子フェリペ 3 世の治世下で、広場の建設が始まりました…",
+      "headline": "歴史的な長方形の広場",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.41545,-3.707381/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.41545,-3.707381;S9;マヨール広場, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Plaza%20Mayor%2C%20Madrid&satid=id.sid%3A015f6e88-0db8-dc56-fad9-c0506950253e&mb=40.421975~-3.72252~40.408938~-3.692222&cardbg=%23219AB6&dt=1752247800000&tt=Plaza%20Mayor%2C%20Community%20of%20Madrid%2C%20Spain&tsts0=%2526ty%253D18%2526q%253DPlaza%252520Mayor%25252C%252520Madrid%2526satid%253Did.sid%25253A015f6e88-0db8-dc56-fad9-c0506950253e%2526mb%253D40.421975~-3.72252~40.408938~-3.692222%2526cardbg%253D%252523219AB6%2526dt%253D1752247800000&tstt0=Plaza%20Mayor%2C%20Community%20of%20Madrid%2C%20Spain&cp=38.996504~-12.447684&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 29 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " スペイン への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",

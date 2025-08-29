@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_IT-IT9894137686_UHD.jpg",
+      "copyrighttext": "© AirPano LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Madrid+capitale+spagnola&form=BGALM&filters=HpDate:\"20250828_2200\"",
+      "title": "Vista aerea di Plaza Mayor, Madrid, Spagna",
+      "description": "Vista dall’alto, la geometria armoniosa delle arcate uniformi e dei tetti in tegole della Plaza Mayor di Madrid, capitale della Spagna, crea una sinfonia architettonica affascinante. In origine sede del vivace mercato noto come Plaza del Arrabal, questo spazio storico ha accompagnato la metamorfosi della città attraverso i secoli. Il cambiamento iniziò nel 1561, quando la piazza passò sotto la giurisdizione madrilena dopo il trasferimento della corte reale da Toledo. Mosso da un’idea di ordine e grandiosità, Filippo II ne ridefinì il progetto, anche se la costruzione vera e propria ebbe inizio solo nel 1617, durante il regno di Filippo III.",
+      "headline": "Geometria del potere",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.41545,-3.707381/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.41545,-3.707381;S9;Plaza Mayor, Madrid, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Plaza%20Mayor%2C%20Madrid&satid=id.sid%3A015f6e88-0db8-dc56-fad9-c0506950253e&mb=40.421975~-3.72252~40.408938~-3.692222&cardbg=%23219AB6&dt=1752247800000&tt=Plaza%20Mayor%2C%20Community%20of%20Madrid%2C%20Spain&tsts0=%2526ty%253D18%2526q%253DPlaza%252520Mayor%25252C%252520Madrid%2526satid%253Did.sid%25253A015f6e88-0db8-dc56-fad9-c0506950253e%2526mb%253D40.421975~-3.72252~40.408938~-3.692222%2526cardbg%253D%252523219AB6%2526dt%253D1752247800000&tstt0=Plaza%20Mayor%2C%20Community%20of%20Madrid%2C%20Spain&cp=38.996504~-12.447684&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Madrid%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Madrid, Spagna"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Madrid%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_DE-DE2952299555_UHD.jpg",
+      "copyrighttext": "© AirPano LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Madrid+Hauptstadt+Spanien&form=BGALM&filters=HpDate:\"20250828_2200\"",
+      "title": "Luftaufnahme der Plaza Mayor, Madrid, Spanien",
+      "description": "Mitten im Herzen von Madrid liegt die Plaza Mayor – einer der eindrucksvollsten Plätze Spaniens. Umgeben von eleganten, dreigeschossigen Gebäuden mit Arkadengängen, beeindruckt der rechteckige Platz mit seiner harmonischen Architektur und lebendigen Atmosphäre. Ursprünglich befand sich hier der Plaza del Arrabal, ein belebter Marktplatz. Nachdem der spanische Hof 1561 von Toledo nach Madrid verlegt worden war, plante König Philipp II. eine Neugestaltung. Der Bau begann jedoch erst 1617 unter Philipp III., dessen Reiterstatue heute das Zentrum des Platzes schmückt. Die Plaza ist von Gebäuden mit insgesamt 237 Balkonen umgeben, die alle zum Platz hin ausgerichtet sind. Zehn Eingänge führen hinein, neun davon sind durch Torbögen gekennzeichnet. Über Jahrhunderte war der Platz Schauplatz von Märkten, Festen, Stierkämpfen und königlichen Zeremonien.",
+      "headline": "Das Wahrzeichen der Stadt",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.41545,-3.707381/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=40.41545,-3.707381;S9;Plaza Mayor, Madrid, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Plaza%20Mayor%2C%20Madrid&satid=id.sid%3A015f6e88-0db8-dc56-fad9-c0506950253e&mb=40.421975~-3.72252~40.408938~-3.692222&cardbg=%23219AB6&dt=1752247800000&tt=Plaza%20Mayor%2C%20Community%20of%20Madrid%2C%20Spain&tsts0=%2526ty%253D18%2526q%253DPlaza%252520Mayor%25252C%252520Madrid%2526satid%253Did.sid%25253A015f6e88-0db8-dc56-fad9-c0506950253e%2526mb%253D40.421975~-3.72252~40.408938~-3.692222%2526cardbg%253D%252523219AB6%2526dt%253D1752247800000&tstt0=Plaza%20Mayor%2C%20Community%20of%20Madrid%2C%20Spain&cp=38.996504~-12.447684&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29. Aug.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Madrid%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Madrid, Spanien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Madrid%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",

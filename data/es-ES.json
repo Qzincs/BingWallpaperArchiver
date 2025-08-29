@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_ES-ES8897104707_UHD.jpg",
+      "copyrighttext": "© AirPano LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Plaza+Mayor+Madrid&form=BGALM&filters=HpDate:\"20250828_2200\"",
+      "title": "Vista aérea de la Plaza Mayor, Madrid, España",
+      "description": "Vista desde lo alto, la Plaza Mayor de Madrid forma una imagen perfecta con sus tejados de tejas y arcos simétricos. En sus orígenes fue la Plaza del Arrabal, un bullicioso mercado que comenzó a transformarse tras la llegada de la corte real desde Toledo en 1561. Felipe II impulsó su reforma, aunque las obras comenzaron en 1617, ya bajo el reinado de Felipe III.",
+      "headline": "El corazón de la red",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Plaza+Mayor+Madrid&form=BGABWCTA7&filters=HpDate:\"20250828_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",
