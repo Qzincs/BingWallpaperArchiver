@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_PT-BR7717335564_UHD.jpg",
+      "copyrighttext": "© AirPano  LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=a+Plaza+Mayor+em+Madrid&form=BGALM&filters=HpDate:\"20250829_0300\"",
+      "title": "Vista aérea da Plaza Mayor, Madrid, Espanha",
+      "description": "A praça que vemos na foto é a Plaza Mayor de Madrid, vista de cima, onde os pórticos uniformes e os telhados de azulejos criam uma harmonia arquitetônica impressionante. Originalmente chamada Plaza del Arrabal, foi o centro de um movimentado mercado e acompanhou a evolução da cidade por séculos.",
+      "headline": "O coração de Madrid",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=a+Plaza+Mayor+em+Madrid&form=BGABWCTA7&filters=HpDate:\"20250829_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",

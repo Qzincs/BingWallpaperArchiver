@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250830",
+      "fullstartdate": "20250830",
+      "enddate": "20250831",
+      "urlbase": "https://www.bing.com/th?id=OHR.OmagariFireworks2025_JA-JP5692415884_UHD.jpg",
+      "copyrighttext": "© Toru Hanai/寄稿者/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%85%a8%e5%9b%bd%e8%8a%b1%e7%81%ab%e7%ab%b6%e6%8a%80%e5%a4%a7%e4%bc%9a&form=BGALM&filters=HpDate:\"20250829_1500\"",
+      "title": "全国花火競技大会, 秋田県, 大仙市",
+      "description": "今日 8 月 30 日は、全国花火競技大会の開催日。秋田県大仙市で行われるこの大会は、「大曲の花火」とも呼ばれ、1910 年から開催されている歴史ある大会です。全国から選りすぐられた 28 の花火業者が、昼花火と夜花火、創造花火の三部門に出場し、最優秀賞である「内閣総理大臣賞」を懸けて競い合います…",
+      "headline": "今日は全国花火競技大会の開催日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250830_OmagariFireworks2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.45306,140.4754/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=39.45306,140.4754;S9;秋田県, 大仙市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps? ty=30&q=%E5%A4%A7%E4%BB%99%E5%B8%82&satid=id.sid%3Acc67c299-ade5-baee-9f8d-914ff350ddbd&vdpid=7928586098446434305&mb=39.723831~140.072871~39.365185~140.895818&cardbg=%23F98745&tt=%E7%A7%8B%E7%94%B0%E7%9C%8C%E5%A4%A7%E4%BB%99%E5%B8%82&tsts0=%2526ty%253D30%2526q%253D%2525E5%2525A4%2525A7%2525E4%2525BB%252599%2525E5%2525B8%252582%2526satid%253Did.sid%25253Acc67c299-ade5-baee-9f8d-914ff350ddbd%2526vdpid%253D7928586098446434305%2526mb%253D39.723831~140.072871~39.365185~140.895818%2526cardbg%253D%252523F98745&tstt0=%E7%A7%8B%E7%94%B0%E7%9C%8C%E5%A4%A7%E4%BB%99%E5%B8%82&cp=39.367827~139.534139&lvl=7.9481516&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 8月 月 30 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%a7%8b%e7%94%b0%e7%9c%8c%2c+%e5%a4%a7%e4%bb%99%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 秋田県, 大仙市 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%a7%8b%e7%94%b0%e7%9c%8c%2c+%e5%a4%a7%e4%bb%99%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250829",
       "fullstartdate": "20250829",
       "enddate": "20250830",

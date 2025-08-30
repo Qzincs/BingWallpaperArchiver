@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250830",
+      "fullstartdate": "20250830",
+      "enddate": "20250831",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_ES-ES8989429655_UHD.jpg",
+      "copyrighttext": "© Bachir Moukarzel/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Tibur%c3%b3n+Ballena&form=BGALM&filters=HpDate:\"20250829_2200\"",
+      "title": "Tiburón ballena frente a la costa del Atolón Alif Dhaal, Maldivas",
+      "description": "Si nunca has visto un pez con lunares que mide más de 12 metros deslizándose entre arrecifes, te estás perdiendo uno de los espectáculos más asombrosos del mar. Hoy se celebra el Día Internacional del Tiburón Ballena, el pez más grande del mundo y un verdadero gigante pacífico. A pesar de su nombre, no representa peligro para los humanos: se alimenta de plancton, filtrando el agua con su enorme boca, que puede superar el metro de ancho.",
+      "headline": "Ese tiburón está ba-lleno",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250830_MaldivesWhaleShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Tibur%c3%b3n+Ballena&form=BGABWCTA7&filters=HpDate:\"20250829_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250829",
       "fullstartdate": "20250829",
       "enddate": "20250830",

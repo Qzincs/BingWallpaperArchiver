@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250829",
+      "fullstartdate": "20250829",
+      "enddate": "20250830",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlazaMayor_ROW7184279069_UHD.jpg",
+      "copyrighttext": "© AirPano LLC/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Plaza+Mayor+Madrid&form=BGALM&filters=HpDate:\"20250829_0700\"",
+      "title": "Aerial view of Plaza Mayor, Madrid, Spain",
+      "description": "Seen from above, the uniform arcades and tiled rooftops of Plaza Mayor in Madrid—the capital of Spain—create a captivating architectural harmony. Once the site of a bustling market square known as the Plaza del Arrabal, this historic space has witnessed the city's transformation over the centuries. The shift began in 1561, when the plaza came under Madrid's jurisdiction after the royal court moved from Toledo. Inspired by a vision of order and grandeur, King Philip II reimagined the square—though construction did not actually begin until 1617, under the reign of Philip III.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250829_PlazaMayor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Plaza+Mayor+Madrid&form=BGABWCTA7&filters=HpDate:\"20250829_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250828",
       "fullstartdate": "20250828",
       "enddate": "20250829",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250830",
+      "fullstartdate": "20250830",
+      "enddate": "20250831",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_IT-IT0005084391_UHD.jpg",
+      "copyrighttext": "© Bachir Moukarzel/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Squalo+balena&form=BGALM&filters=HpDate:\"20250829_2200\"",
+      "title": "Squalo balena, Atollo di Alifu Dhaalu, Maldive",
+      "description": "Avete mai visto un gigante a pois danzare tra i coralli? Se no, vi siete persi uno spettacolo che il mare regala solo a chi sa aspettare. Oggi è la \"Giornata Internazionale dello Squalo Balena\", e questi colossi gentili meritano il nostro sguardo attento. Sono i pesci più grandi del mondo, ma non temeteli: si nutrono di plancton, non di paura. Nuotano in acque calde e tranquille, dalle Maldive alla penisola messicana dello Yucatán, con bocche larghe come finestre sul blu, e si nutrono con grazia, aspirando la vita microscopica che li sostiene.",
+      "headline": "Gigante a Pois?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250830_MaldivesWhaleShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/2.9,72.9/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=2.9,72.9;S9;Atollo di Alifu Dhaalu, Maldive&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alifu%20Dhaalu%20Atoll&satid=id.sid%3Af2dcaf50-896c-bcc9-f58d-9015ac40bc34&vdpid=-7973960208&mb=3.069109~72.411147~2.539788~73.376169&cardbg=%23F98745&tt=South%20Nilandhe%20Atoll%2C%20Maldives&tsts0=%2526ty%253D30%2526q%253DAlifu%252520Dhaalu%252520Atoll%2526satid%253Did.sid%25253Af2dcaf50-896c-bcc9-f58d-9015ac40bc34%2526vdpid%253D-7973960208%2526mb%253D3.069109~72.411147~2.539788~73.376169%2526cardbg%253D%252523F98745&tstt0=South%20Nilandhe%20Atoll%2C%20Maldives&cp=5.898634~73.176384&lvl=5.6206193&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "30 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Atollo+di+Alifu+Dhaalu%2c+Maldive&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Atollo di Alifu Dhaalu, Maldive"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Atollo+di+Alifu+Dhaalu%2c+Maldive&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250829",
       "fullstartdate": "20250829",
       "enddate": "20250830",

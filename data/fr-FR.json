@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250830",
+      "fullstartdate": "20250830",
+      "enddate": "20250831",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_FR-FR6621180531_UHD.jpg",
+      "copyrighttext": "© Bachir Moukarzel/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Requin-baleine&form=BGALM&filters=HpDate:\"20250829_2200\"",
+      "title": "Requin-baleine au large de l’atoll Alifu Dhaalu, Maldives",
+      "description": "Au large de l’atoll Alifu Dhaalu, aux Maldives, un requin-baleine surgit du bleu profond, suspendu comme un rêve dans un ciel d’eau. Immense, paisible, il avance avec la lenteur d’un monde qui respire autrement. Sa peau constellée de pois blancs évoque une voie lactée sous-marine. Ce colosse, le plus grand poisson du monde, ne chasse pas : il aspire le plancton avec une grâce lente, presque méditative.",
+      "headline": "Glisse silencieuse en eaux cristallines",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250830_MaldivesWhaleShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/2.9,72.9/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=2.9,72.9;S9;Atoll Alifu Dhaalu, Maldives&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alifu%20Dhaalu%20Atoll&satid=id.sid%3Af2dcaf50-896c-bcc9-f58d-9015ac40bc34&vdpid=-7973960208&mb=3.069109~72.411147~2.539788~73.376169&cardbg=%23F98745&tt=South%20Nilandhe%20Atoll%2C%20Maldives&tsts0=%2526ty%253D30%2526q%253DAlifu%252520Dhaalu%252520Atoll%2526satid%253Did.sid%25253Af2dcaf50-896c-bcc9-f58d-9015ac40bc34%2526vdpid%253D-7973960208%2526mb%253D3.069109~72.411147~2.539788~73.376169%2526cardbg%253D%252523F98745&tstt0=South%20Nilandhe%20Atoll%2C%20Maldives&cp=5.898634~73.176384&lvl=5.6206193&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "30 août 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Maldives&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Maldives"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Maldives&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250829",
       "fullstartdate": "20250829",
       "enddate": "20250830",

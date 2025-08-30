@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250830",
+      "fullstartdate": "20250830",
+      "enddate": "20250831",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-IN3643535243_UHD.jpg",
+      "copyrighttext": "© Bachir Moukarzel/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=International+Whale+Shark+Day&form=BGALM&filters=HpDate:\"20250829_1830\"",
+      "title": "Whale shark off the coast of Alifu Dhaalu Atoll, Maldives",
+      "description": "If you've never seen an over- 10-metre, polka-dotted fish gliding past coral reefs, you are missing out. Today is International Whale Shark Day, a reminder that these slow-motion giants need our attention. First observed in 2008, the day is used by researchers and marine advocates to spotlight conservation efforts and threats like vessel strikes, plastic pollution and unregulated tourism. Whale sharks are the biggest fish in the sea, but don't let the word 'shark' fool you. They're plankton-eating giants with no interest in humans. Found in warm waters from the Maldives and Mozambique to Mexico's Yucatán coast, they often show up in food-rich, calm waters. Their mouths can stretch over a metre wide, but they feed by suction, not biting.",
+      "headline": "Finned and fabulous",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250830_MaldivesWhaleShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/2.9,72.9/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=2.9,72.9;S9;Alifu Dhaalu Atoll, Maldives&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alifu%20Dhaalu%20Atoll&satid=id.sid%3Af2dcaf50-896c-bcc9-f58d-9015ac40bc34&vdpid=-7973960208&mb=3.069109~72.411147~2.539788~73.376169&cardbg=%23F98745&tt=South%20Nilandhe%20Atoll%2C%20Maldives&tsts0=%2526ty%253D30%2526q%253DAlifu%252520Dhaalu%252520Atoll%2526satid%253Did.sid%25253Af2dcaf50-896c-bcc9-f58d-9015ac40bc34%2526vdpid%253D-7973960208%2526mb%253D3.069109~72.411147~2.539788~73.376169%2526cardbg%253D%252523F98745&tstt0=South%20Nilandhe%20Atoll%2C%20Maldives&cp=5.898634~73.176384&lvl=5.6206193&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Maldives&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Maldives"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Maldives&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250829",
       "fullstartdate": "20250829",
       "enddate": "20250830",
