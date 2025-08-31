@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250831",
+      "fullstartdate": "20250831",
+      "enddate": "20250901",
+      "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_IT-IT0073144913_UHD.jpg",
+      "copyrighttext": "© Hawk Buckman/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Gering+citt%c3%a0+in+Nebraska&form=BGALM&filters=HpDate:\"20250830_2200\"",
+      "title": "Monumento Nazionale di Scotts Bluff a Gering, Nebraska, USA",
+      "description": "Molto prima dell’era del GPS, i viaggiatori solcavano la prateria orientandosi con lo sguardo verso punti di riferimento naturali che si innalzavano solenni, come Scotts Bluff, negli USA: messaggeri silenziosi di un cammino verso Ovest. Prima ancora che Gering diventasse città nel 1887, e decenni prima che il Nebraska fosse proclamato stato nel 1867, queste maestose formazioni di arenaria e limo erano già guida per migliaia di anime lungo i sentieri dell’Oregon, della California e dei Mormoni. Il monumento prende il nome da Hiram Scott, commerciante di pellicce della Rocky Mountain Fur Company, scomparso in circostanze misteriose nei dintorni negli anni Venti dell’Ottocento.",
+      "headline": "Tracce invisibili?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_ScottsBluff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.834339,-103.707214/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.834339,-103.707214;S9;Monumento Nazionale di Scotts Bluff a Gering, Nebraska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Scotts%20Bluff%20National%20Monument&ss=ypid.YN560x9642577&mb=41.839602~-103.714929~41.829066~-103.699479&description=190276%20Old%20Oregon%20Trl%2C%20Gering%2C%20NE%2069341&cardbg=%23219AB6&dt=1752244200000&tt=Scotts%20Bluff%20National%20Monument&tsts0=%2526ty%253D18%2526q%253DScotts%252520Bluff%252520National%252520Monument%2526ss%253Dypid.YN560x9642577%2526mb%253D41.839602~-103.714929~41.829066~-103.699479%2526description%253D190276%252520Old%252520Oregon%252520Trl%25252C%252520Gering%25252C%252520NE%25252069341%2526cardbg%253D%252523219AB6%2526dt%253D1752244200000&tstt0=Scotts%20Bluff%20National%20Monument&cp=38.6565~-111.773076&lvl=5.816909&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "31 agosto 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Nebraska%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Nebraska, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Nebraska%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250830",
       "fullstartdate": "20250830",
       "enddate": "20250831",

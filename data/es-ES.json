@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250831",
+      "fullstartdate": "20250831",
+      "enddate": "20250901",
+      "urlbase": "https://www.bing.com/th?id=OHR.Palafrugell_ES-ES9170936933_UHD.jpg",
+      "copyrighttext": "© AlexKazachok2/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=portb%c3%b2&form=BGALM&filters=HpDate:\"20250830_2200\"",
+      "title": "Vista aérea de Port Bo de Calella en la costa de Palafrugell, Gerona, Cataluña, España",
+      "description": "Cuando el verano se despide, aún hay rincones en España que invitan a saborear los últimos días de sol. Port Bo, en Calella de Palafrugell (Gerona), es uno de ellos. Este antiguo barrio de pescadores, con sus casas blancas junto al mar y sus barcas varadas en la arena, conserva intacto el encanto mediterráneo.",
+      "headline": "¡Qué aguas tan cristalinas!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_Palafrugell\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 de ago. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=portb%c3%b2&form=BGABWCTA7&filters=HpDate:\"20250830_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250830",
       "fullstartdate": "20250830",
       "enddate": "20250831",

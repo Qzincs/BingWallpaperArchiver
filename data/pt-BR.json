@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250830",
+      "fullstartdate": "20250830",
+      "enddate": "20250831",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_PT-BR7655648447_UHD.jpg",
+      "copyrighttext": "© Bachir  Moukarzel/Amazing Aerial Agency",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+do+Tubar%c3%a3o-Baleia&form=BGALM&filters=HpDate:\"20250830_0300\"",
+      "title": "Tubarão-baleia na costa do Atol Alifu Dhaalu, Maldivas",
+      "description": "Hoje, 30 de agosto, é celebrado o Dia Internacional do Tubarão-Baleia, criado em 2008 durante a Conferência Internacional em Isla Holbox, no México. A data tem como objetivo conscientizar sobre a importância ecológica do maior peixe do mundo, que pode atingir até 18 metros de comprimento e pesar cerca de 15 toneladas. Apesar do tamanho, é um animal dócil, que se alimenta de plâncton e pequenos organismos marinhos.",
+      "headline": "Monumento em movimento",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250830_MaldivesWhaleShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Internacional+do+Tubar%c3%a3o-Baleia&form=BGABWCTA7&filters=HpDate:\"20250830_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250829",
       "fullstartdate": "20250829",
       "enddate": "20250830",

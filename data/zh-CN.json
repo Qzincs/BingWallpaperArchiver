@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250831",
+      "fullstartdate": "20250831",
+      "enddate": "20250901",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.ScottsBluff_ZH-CN0292735112_UHD.jpg",
+      "copyrighttext": "© Hawk Buckman/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%96%af%e7%a7%91%e8%8c%a8%e5%b8%83%e6%8b%89%e5%a4%ab%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=BGALM&filters=HpDate:\"20250830_1600\"",
+      "title": "杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国",
+      "description": "在GPS问世之前，像斯科茨布卢夫（Scotts Bluff）这样的自然地标就已高耸于大草原之上，为西行的旅人指明方向。在1887年杰林镇（Gering）建镇之前，以及内布拉斯加州于1867年成为美国州份的数十年之前，这些砂岩和泥岩地貌已然引导着成千上万的旅人沿着俄勒冈小径、加利福尼亚小径和摩门教徒小径前行。斯科茨布卢夫国家纪念碑（Scotts Bluff National Monument）以皮毛商人希拉姆·斯科特（Hiram Scott）命名，他曾是落基山皮毛公司（Rocky Mountain Fur Company）的成员，于19世纪20年代在附近地区因神秘原因去世。",
+      "headline": "彩绘的云，静默的悬崖",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_ScottsBluff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 8月 31",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%96%af%e7%a7%91%e8%8c%a8%e5%b8%83%e6%8b%89%e5%a4%ab%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=BGABWCTA7&filters=HpDate:\"20250830_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250830",
       "fullstartdate": "20250830",
       "enddate": "20250831",
