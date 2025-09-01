@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250831",
+      "fullstartdate": "20250831",
+      "enddate": "20250901",
+      "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_PT-BR7461504826_UHD.jpg",
+      "copyrighttext": "© Hawk Buckman/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+Scotts+Bluff+em+Gering%2c+Nebraska%2c+EUA&form=BGALM&filters=HpDate:\"20250831_0300\"",
+      "title": "Monumento Nacional Scotts Bluff em Gering, Nebraska, EUA",
+      "description": "Muito antes da criação do GPS, quem cruzava as vastas pradarias do atual Nebraska, nos Estados Unidos, seguia as pistas da própria terra. Nossa imagem do dia mostra o Scotts Bluff, um paredão de arenito e siltito que, por séculos, guiou viajantes por trilhas próximas. Seu nome homenageia Hiram Scott, comerciante de peles que morreu ali nos anos 1820, em circunstâncias que ainda alimentam o folclore local. Hoje, veados-mula, carneiros-selvagens e cães-da-pradaria circulam entre seus 1.214 hectares de encostas e gramíneas douradas.",
+      "headline": "Faróis de pedra",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_ScottsBluff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 ago. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monumento+Nacional+Scotts+Bluff+em+Gering%2c+Nebraska%2c+EUA&form=BGABWCTA7&filters=HpDate:\"20250831_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250830",
       "fullstartdate": "20250830",
       "enddate": "20250831",

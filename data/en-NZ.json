@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250831",
+      "fullstartdate": "20250831",
+      "enddate": "20250901",
+      "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_ROW7379733057_UHD.jpg",
+      "copyrighttext": "© Hawk Buckman/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Scotts+Bluff+National+Monument&form=BGALM&filters=HpDate:\"20250831_0700\"",
+      "title": "Scotts Bluff National Monument in Gering, Nebraska, United States",
+      "description": "Long before GPS, natural landmarks like Scotts Bluff rose high above the prairie, signalling to travellers that they were on the right path heading west. Before Gering became a town in 1887 and decades before Nebraska achieved statehood in 1867, these sandstone and siltstone formations were already guiding thousands along the Oregon, California and Mormon Trails. Scotts Bluff National Monument is named after Hiram Scott, a fur trader with the Rocky Mountain Fur Company who died under mysterious circumstances nearby in the 1820s.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250831_ScottsBluff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 31, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Scotts+Bluff+National+Monument&form=BGABWCTA7&filters=HpDate:\"20250831_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250830",
       "fullstartdate": "20250830",
       "enddate": "20250831",

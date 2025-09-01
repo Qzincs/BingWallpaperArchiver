@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.ScottsBluff_ES-ES9472248274_UHD.jpg",
+      "copyrighttext": "© Hawk Buckman/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monumento+nacional+de+Scotts+Bluff&form=BGALM&filters=HpDate:\"20250831_2200\"",
+      "title": "Monumento Nacional Scotts Bluff en Gering, Nebraska, EE. UU.",
+      "description": "Antes de existir el GPS, formaciones como Scotts Bluff, en Nebraska (Estados Unidos), servían de guía para los pioneros que cruzaban el país rumbo al oeste. Este monumento natural tiene unos 12 kilómetros cuadrados de superficie y destaca por sus altos acantilados, formados hace millones de años por capas de ceniza volcánica, arenisca y limolita. Alberga formaciones como Dome Rock, Eagle Rock y Saddle Rock, a las que se puede acceder por senderos panorámicos.",
+      "headline": "Nubes pintadas y praderas áridas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_ScottsBluff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monumento+nacional+de+Scotts+Bluff&form=BGABWCTA7&filters=HpDate:\"20250831_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg",
+      "copyrighttext": "© Eloi_Omella/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Zumaia&form=BGALM&filters=HpDate:\"20250831_2300\"",
+      "title": "Rock layers in Zumaia, Basque Country, Spain",
+      "description": "On the coast of Zumaia, in the Basque Country, lies one of the most stunning geological landscapes in Spain: the flysch. These rock formations, visible along the cliffs, reveal millions of years of Earth's history in perfectly aligned layers. Walking along Itzurun Beach or following the trail through the Basque Coast Geopark offers a chance to witness this unique natural phenomenon.",
+      "headline": "Rocks that flow with the sea!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_GipuzcoaSummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.28333,-2.25/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=43.28333,-2.25;S9;Zumaya&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Zumaya&vdpid=5668641172432617473&mb=43.311017~-2.284653~43.263316~-2.209111&cardbg=%23F98745&tt=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&tsts1=%2526ty%253D30%2526q%253DZumaya%2526vdpid%253D5668641172432617473%2526mb%253D43.311017~-2.284653~43.263316~-2.209111%2526cardbg%253D%252523F98745&tstt1=Zumaya%2C%20Pa%C3%ADs%20Vasco%20%2F%20Euskadi%2C%20Espa%C3%B1a&cp=39.304432~-4.516357&lvl=5.7157006&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Basque+Country%2c+Spain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Basque Country, Spain"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Basque+Country%2c+Spain&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

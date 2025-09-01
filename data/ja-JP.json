@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%81%96%e3%83%90%e3%83%ab%e3%83%9c%e3%83%a9%e6%95%99%e4%bc%9a&form=BGALM&filters=HpDate:\"20250831_1500\"",
+      "title": "聖バルボラ教会, チェコ共和国",
+      "description": "チェコ共和国のクトゥナ・ホラにある聖バルボラ教会。鉱夫の守護聖人であるバルボラを祀るため、1388 年に建設が始まったものの、戦争などの影響で中断や遅延を繰り返しました。1588 年にいったんの完成となるも、不完全な状態であり、その後、イエズス会がバロック様式の要素を追加し、1905 年に現在の姿で完成しました…",
+      "headline": "尖頭アーチと肋骨ヴォールト",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.944893,15.263266/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=49.944893,15.263266;S9;聖バルバラ教会, チェコ共和国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=St%20Barbara%27s%20Cathedral&ss=ypid.YN8046x7434223566493806923&segment=Local&mb=49.947537~15.255686~49.942255~15.270835&description=Barborska%20Street%20284%2001%20Kutna%20Hora&cardbg=%2388979C&dt=1752143400000&tt=St%20Barbara%27s%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSt%252520Barbara%252527s%252520Cathedral%2526ss%253Dypid.YN8046x7434223566493806923%2526segment%253DLocal%2526mb%253D49.947537~15.255686~49.942255~15.270835%2526description%253DBarborska%252520Street%252520284%25252001%252520Kutna%252520Hora%2526cardbg%253D%25252388979C%2526dt%253D1752143400000&tstt0=St%20Barbara%27s%20Cathedral&cp=52.876501~14.693196&lvl=5.51159&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 1 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%81%e3%82%a7%e3%82%b3%e5%85%b1%e5%92%8c%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " チェコ共和国 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%81%e3%82%a7%e3%82%b3%e5%85%b1%e5%92%8c%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

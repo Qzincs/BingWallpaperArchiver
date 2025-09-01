@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alberobello&form=BGALM&filters=HpDate:\"20250831_2200\"",
+      "title": "Trulli in Alberobello, Apulien, Italien",
+      "description": "Haben Sie schon von Alberobello in Italien gehört? Die Stadt ist berühmt für ihre Trulli – weiß getünchte Steinhäuser mit kegelartigen Dächern, die ohne Mörtel gebaut wurden. Ihre Dächer bestehen aus trocken aufgeschichteten Kalksteinplatten, die wie umgedrehte Eistüten wirken. Der Legende nach nutzten die Bewohner im 14. Jahrhundert eine clevere Taktik: Da sich die Häuser ohne Mörtel schnell abbauen ließen, konnten sie bei Steuerkontrollen einfach zerlegt und später wieder aufgebaut werden – so entgingen sie den königlichen Abgaben. Heute prägen Stadtteile wie Rione Monti mit diesen einzigartigen Bauten das Stadtbild. Einige Trulli sind noch bewohnt, andere wurden zu kleinen Museen oder Cafés umgestaltet. Seit 1996 stehen die Trulli auf der UNESCO-Welterbeliste.",
+      "headline": "Einzigartiger Charme",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_TrulliHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.78406,17.23746/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=40.78406,17.23746;S9;Alberobello, Apulien, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alberobello&satid=id.sid%3A1a4741bd-af44-01b9-226f-69d471844aa5&vdpid=7218434605160857601&mb=40.826256~17.161562~40.756973~17.333161&cardbg=%23F98745&tt=Alberobello%2C%20Apulia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DAlberobello%2526satid%253Did.sid%25253A1a4741bd-af44-01b9-226f-69d471844aa5%2526vdpid%253D7218434605160857601%2526mb%253D40.826256~17.161562~40.756973~17.333161%2526cardbg%253D%252523F98745&tstt0=Alberobello%2C%20Apulia%2C%20Italy&cp=39.839177~9.461211&lvl=5.029382&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "1. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Apulien%2c+Italien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Apulien, Italien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Apulien%2c+Italien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

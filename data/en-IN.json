@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg",
+      "copyrighttext": "© Wirestock Creators/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Great+Basin+National+Park+USA&form=BGALM&filters=HpDate:\"20250831_1830\"",
+      "title": "An ancient bristlecone pine, Great Basin National Park, Nevada, United States",
+      "description": "Featured in today's image is Great Basin National Park in Nevada, United States, where ancient bristlecone pines stand beneath a sky ablaze with shooting stars. These remarkable trees are the oldest non-clonal species on Earth. Shaped by relentless wind, snow and rain, they've endured for millennia—witnessing ice ages, volcanic eruptions and the rise and fall of civilisations. Their incredibly slow growth results in wood that's dense and highly resistant to insects, fungi, decay and erosion. Against all odds, the Great Basin bristlecones cling to life on barren limestone ridges, twisting into forms that appear almost sculpted by time. Their scattered presence across isolated mountain ranges may be due to wind dispersal, the help of birds like the Clark's nutcracker, or even now-extinct species that once carried their seeds across the highlands.",
+      "headline": "Timeless glow",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_PerseidsPine\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.014877,-114.126556/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=39.014877,-114.126556;S9;Great Basin National Park, Nevada, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Great%20Basin%20National%20Park&satid=id.sid%3Adcd20f47-bd93-7813-4b45-e3f3bef02700&vdpid=5060400898967076865&mb=39.152668~-114.715734~38.573235~-113.461327&description=100%20Great%20Basin%20National%20Park%2C%20Baker%2C%20NV%2089311&cardbg=%233DB838&dt=1748593800000&tt=Great%20Basin%20National%20Park&tsts0=%2526ty%253D30%2526q%253DGreat%252520Basin%252520National%252520Park%2526satid%253Did.sid%25253Adcd20f47-bd93-7813-4b45-e3f3bef02700%2526vdpid%253D5060400898967076865%2526mb%253D39.152668~-114.715734~38.573235~-113.461327%2526description%253D100%252520Great%252520Basin%252520National%252520Park%25252C%252520Baker%25252C%252520NV%25252089311%2526cardbg%253D%2525233DB838%2526dt%253D1748593800000&tstt0=Great%20Basin%20National%20Park&cp=34.752782~-124.82136&lvl=5.195663&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Great+Basin+National+Park%2c+Nevada%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Great Basin National Park, Nevada, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Great+Basin+National+Park%2c+Nevada%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",
