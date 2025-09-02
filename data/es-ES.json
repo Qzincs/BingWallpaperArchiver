@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_ES-ES0322345638_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+Namib-Naukluft&form=BGALM&filters=HpDate:\"20250901_2200\"",
+      "title": "Árboles espina de camello, Deadvlei, Parque Namib-Naukluft, Namibia",
+      "description": "A simple vista, Deadvlei parece una obra surrealista: árboles oscuros inmóviles sobre una superficie blanca, rodeados de dunas rojizas y un cielo azul intenso. Pero esta escena del Parque Namib-Naukluft, en Namibia, es completamente natural. Su nombre significa “pantano muerto” y es lo que queda de un antiguo humedal que desapareció hace siglos.",
+      "headline": "¡Narradores de historias!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+nacional+de+Namib-Naukluft&form=BGABWCTA7&filters=HpDate:\"20250901_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",

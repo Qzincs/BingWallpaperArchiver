@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_EN-IN4217239314_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=Namib+Naukluft+Park+in+Namibia&form=BGALM&filters=HpDate:\"20250901_1830\"",
+      "title": "Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia",
+      "description": "At first glance, it looks like a surreal art installation: dark trees frozen on a clay pan, backed by sand dunes and a glowing sky. But this scene from Deadvlei, in Namibia's Namib-Naukluft Park, is entirely natural. The name 'Deadvlei' means 'dead marsh'—a remnant of the wetland that once filled this basin.",
+      "headline": "Ghosts of Deadvlei",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-24.216471,15.938733;S9;Namib-Naukluft Park, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Namib-Naukluft%20Park%2C%20Namibia&ss=ypid.YN8131x4389843755792910065&mb=-24.210491~15.93215~-24.222467~15.945325&description=C27%2C%20Sesriem&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft%20National%20Park&tsts0=%2526ty%253D18%2526q%253DNamib-Naukluft%252520Park%25252C%252520Namibia%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491~15.93215~-24.222467~15.945325%2526description%253DC27%25252C%252520Sesriem%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft%20National%20Park&cp=-24.254271~15.199049&lvl=9.851223&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Deadvlei%2c+Namib-Naukluft+Park%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Deadvlei, Namib-Naukluft Park, Namibia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Deadvlei%2c+Namib-Naukluft+Park%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",

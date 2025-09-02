@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalouseWA_PT-BR8269290462_UHD.jpg",
+      "copyrighttext": "© svetlana57/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palouse&form=BGALM&filters=HpDate:\"20250901_0300\"",
+      "title": "Colinas onduladas de Palouse, Washington, EUA",
+      "description": "Em Palouse, no estado de Washington, Estados Unidos, as colinas que vemos na imagem se estendem como ondas imóveis até o horizonte. No verão, são campos de trigo dourado; na primavera, uma tapeçaria verde que se move ao sabor do vento. Por trás dessa suavidade, uma história antiga e paciente: durante as Eras do Gelo, glaciares avançaram sobre o Canadá, triturando rochas até transformá-las em fina “farinha glacial”. Essa poeira foi carregada por inundações e, ao longo de milênios, redistribuída pelo vento. O resultado são os “loess” de Palouse: camadas que chegam a 75 metros de espessura e cobrem mais de 50 mil quilômetros quadrados.",
+      "headline": "O trigo que nasceu do gelo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_PalouseWA\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Palouse&form=BGABWCTA7&filters=HpDate:\"20250901_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

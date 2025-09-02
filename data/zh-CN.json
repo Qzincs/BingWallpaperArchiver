@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.DeadvleiTrees_ZH-CN0967414858_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%ba%b3%e7%b1%b3%e6%af%94%e4%ba%9a%e7%ba%b3%e7%b1%b3%e5%b8%83%e8%af%ba%e5%85%8b%e8%b7%af%e7%a6%8f%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20250901_1600\"",
+      "title": "骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚",
+      "description": "乍一看，这仿佛是一件超现实的艺术装置：黑暗的树木凝固在黏土平原上，背后是沙丘和闪烁的天空。但这幅来自纳米比亚纳米布-诺克卢夫国家公园的德阿夫莱（Deadvlei）的景象，完全是自然形成的。德阿夫莱（Deadvlei）这个名字意为“死沼泽”——这是曾经填满这个盆地的湿地的遗迹。",
+      "headline": "死谷的幽灵",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 2",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%ba%b3%e7%b1%b3%e6%af%94%e4%ba%9a%e7%ba%b3%e7%b1%b3%e5%b8%83%e8%af%ba%e5%85%8b%e8%b7%af%e7%a6%8f%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20250901_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",

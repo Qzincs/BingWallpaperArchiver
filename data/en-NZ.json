@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ROW2652237582_UHD.jpg",
+      "copyrighttext": "© EyeEM Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Kaiserstuhl&form=BGALM&filters=HpDate:\"20250901_0700\"",
+      "title": "Kaiserstuhl, Baden-Württemberg, Germany",
+      "description": "The Kaiserstuhl is a small mountain range in the south of Baden-Württemberg, near Freiburg im Breisgau, and is one of the sunniest places in Germany. The Kaiserstuhl owes its name to Emperor Otto III, who held court here in 994. This picturesque region is a true paradise for nature lovers, those seeking relaxation and wine connoisseurs alike. Thanks to the fertile soils and mild climate, grape varieties such as Pinot Gris and Pinot Noir thrive here. The volcanic past has left behind mineral-rich soil that gives the region's wines their unique character. The rolling hills, idyllic villages and diverse wildlife—including the rare green lizard—make the Kaiserstuhl a fascinating destination for nature lovers.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250901_FieldKaiserstuhl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kaiserstuhl&form=BGABWCTA7&filters=HpDate:\"20250901_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

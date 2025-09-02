@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_JA-JP5847596989_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%8a%e3%83%9f%e3%83%96%ef%bc%9d%e3%83%8a%e3%82%a6%e3%82%af%e3%83%ab%e3%83%95%e3%83%88%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20250901_1500\"",
+      "title": "ナミブ＝ナウクルフト国立公園, ナミビア",
+      "description": "ナミビアのナミブ＝ナウクルフト国立公園。ナミブ砂漠とナウクルフト山にまたがり、総面積は 49768㎢ とアフリカでは最大、世界でも 4 番目の面積を誇ります。ナミブとは「開けた土地」を意味し、国名であるナミビアの由来でもあります…",
+      "headline": "デッドフレイにあるキャメルソーン",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-24.216471,15.938733;S9;ナミブ＝ナウクルフト国立公園, ナミビア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Namib-Naukluft+Park%2C+Namibia&ss=ypid.YN8131x4389843755792910065&mb=-24.210491%7E15.93215%7E-24.222467%7E15.945325&description=C27%2C+Sesriem&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft+National+Park&tsts0=%2526ty%253D18%2526q%253DNamib-Naukluft%252520Park%25252C%252520Namibia%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491%7E15.93215%7E-24.222467%7E15.945325%2526description%253DC27%25252C%252520Sesriem%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft+National+Park&cp=-24.254371%7E15.576349&lvl=9.9&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 2 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%8a%e3%83%9f%e3%83%93%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ナミビア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%8a%e3%83%9f%e3%83%93%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",

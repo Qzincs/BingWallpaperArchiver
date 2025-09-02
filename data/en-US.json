@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250901",
+      "fullstartdate": "20250901",
+      "enddate": "20250902",
+      "urlbase": "https://www.bing.com/th?id=OBGA.shutterstock_1369394978",
+      "copyrighttext": "© nikjvt/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Bukit%20Peninsula%2C%20Bali%2C%20Indonesia&form=BGALM",
+      "title": "Bukit Peninsula, Bali, Indonesia",
+      "description": "Aerial image of Nusa Dua Beach in Bali Indonesia with two surrounding peninsulas",
+      "headline": "Bukit Peninsula, Bali, Indonesia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Bali%2C%20Indonesia&satid=id.sid%3Ac4f6d9fa-e141-4316-1f4b-6dff75b71985&vdpid=10127097&mb=-8.034231~114.431755~-8.877289~115.709549&cardbg=%23F98745&tt=Bali%2C%20Indonesia&tsts4=%2526ty%253D30%2526q%253DBali%25252C%252520Indonesia%2526satid%253Did.sid%25253Ac4f6d9fa-e141-4316-1f4b-6dff75b71985%2526vdpid%253D10127097%2526mb%253D-8.034231~114.431755~-8.877289~115.709549%2526cardbg%253D%252523F98745&tstt4=Bali%2C%20Indonesia&cp=-8.456366~114.722457&lvl=9.96792&pi=0&ftst=4&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 1, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Bukit+Peninsula%2c+Bali%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Bali, Indonesia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Bali%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250831",
       "fullstartdate": "20250831",
       "enddate": "20250901",

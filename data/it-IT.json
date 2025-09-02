@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_IT-IT9675346789_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=Repubblica+della+Namibia&form=BGALM&filters=HpDate:\"20250901_2200\"",
+      "title": "Acacie delle giraffe, Deadvlei, Parco Namib-Naukluft, Namibia",
+      "description": "A prima vista, Deadvlei sembra uscito da un altro mondo: alberi scuri, immobili su un suolo d’argilla screpolato, circondati da alte dune e da un cielo che cambia colore con la luce. Eppure, è tutto naturale. Questa zona del Parco Namib-Naukluft, in Namibia, porta il nome di una \"palude morta\": eco di un tempo in cui l’acqua riempiva la conca. Secoli fa, un fiume alimentava la vita in questo angolo di deserto. Poi le dune si sono spostate e l’acqua ha smesso di arrivare. Gli alberi, privati delle loro radici vitali, non sono marciti né scomparsi. Il clima arido e la salinità del terreno hanno bloccato ogni processo di decomposizione. Oggi, quei tronchi rimangono lì, essiccati dal sole, fermi da quasi novecento anni. Non vivono più, ma non sono andati via: sono testimoni silenziosi di un paesaggio che ha scelto di rimanere immobile.",
+      "headline": "Alberi fantasma?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-24.216471,15.938733;S9;Parco Namib-Naukluft, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Namib-Naukluft%20Park%2C%20Namibia&ss=ypid.YN8131x4389843755792910065&mb=-24.210491~15.93215~-24.222467~15.945325&description=C27%2C%20Sesriem&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft%20National%20Park&tsts0=%2526ty%253D18%2526q%253DNamib-Naukluft%252520Park%25252C%252520Namibia%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491~15.93215~-24.222467~15.945325%2526description%253DC27%25252C%252520Sesriem%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft%20National%20Park&cp=-24.254271~15.199049&lvl=9.851223&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Deadvlei%2c+Parco+Namib-Naukluft%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Deadvlei, Parco Namib-Naukluft, Namibia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Deadvlei%2c+Parco+Namib-Naukluft%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",

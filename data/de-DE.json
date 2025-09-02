@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_DE-DE6613331232_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Namib-Naukluft-Park+in+Namibia&form=BGALM&filters=HpDate:\"20250901_2200\"",
+      "title": "Kameldornbäume, Deadvlei, Namib-Naukluft-Park, Namibia",
+      "description": "Mitten in der ältesten Wüste der Welt, der Namib, liegt eine der faszinierendsten Landschaften Afrikas: Deadvlei, auch bekannt als „weiße Tonpfanne“ im Namib-Naukluft-Nationalpark. Umgeben von bis zu 300 Meter hohen, rot leuchtenden Sanddünen, wirkt dieser Ort wie von einem anderen Planeten und zählt zu den bekanntesten Fotomotiven Namibias. Inmitten der höchsten Dünen der Welt ragen geheimnisvolle schwarze Silhouetten empor, die an eine surrealistische Kunstinstallation erinnern. Diese jahrhundertealten, abgestorbenen Kameldornbäume, wie auf unserem heutigen Bild zu sehen, sind längst zu zeitlosen Ikonen dieser alten Landschaft geworden und locken Fotografen aus aller Welt an. Seit über 900 Jahren trotzen sie der Verrottung – bewahrt durch die Trockenheit der Wüste und den salzhaltigen Boden. Als stille Zeugen vergangener Jahrhunderte tragen sie eine besondere kulturelle Bedeutung in sich. Die Region ist ein beeindruckendes Reiseziel für Abenteurer, Wanderer und Naturfreunde.",
+      "headline": "Stumme Zeugen der Vergangenheit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.216471,15.938733/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-24.216471,15.938733;S9;Namib-Naukluft-Park, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=C27%2C%20Sesriem&ss=ypid.YN8131x4389843755792910065&mb=-24.210491~15.93215~-24.222467~15.945325&description=C27%2C%20Sesriem%2C%20Hardap&cardbg=%233DB838&dt=1752073200000&tt=Namib-Naukluft%20National%20Park&tsts0=%2526ty%253D18%2526q%253DC27%25252C%252520Sesriem%2526ss%253Dypid.YN8131x4389843755792910065%2526mb%253D-24.210491~15.93215~-24.222467~15.945325%2526description%253DC27%25252C%252520Sesriem%25252C%252520Hardap%2526cardbg%253D%2525233DB838%2526dt%253D1752073200000&tstt0=Namib-Naukluft%20National%20Park&cp=-24.254371~15.198456&lvl=9.85&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Deadvlei%2c+Namib-Naukluft-Park%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Deadvlei, Namib-Naukluft-Park, Namibia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Deadvlei%2c+Namib-Naukluft-Park%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",
