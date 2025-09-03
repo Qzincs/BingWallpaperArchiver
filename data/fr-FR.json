@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.MontSaintMichel_FR-FR8463268794_UHD.jpg",
+      "copyrighttext": "© Ilhan Eroglu/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Le+Mont-Saint-Michel+commune&form=BGALM&filters=HpDate:\"20250902_2200\"",
+      "title": "Abbaye du Mont Saint-Michel au crépuscule, Manche, Normandie",
+      "description": "À marée haute, il devient île. À marée basse, il semble flotter sur un miroir d’eau… Le Mont Saint-Michel, joyau normand classé au patrimoine mondial de l’UNESCO, fascine autant qu’il inspire. Sur cette photo, sa silhouette se découpe dans la lumière dorée du soir, reflet parfait d’un lieu hors du temps.",
+      "headline": "Là où le ciel touche la mer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_MontSaintMichel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.636585,-1.51152/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.636585,-1.51152;S9;Mont-Saint-Michel&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Mont-Saint-Michel&satid=id.sid%3A77f56895-15a1-2e46-a245-83ad95883658&vdpid=5475038411649712129&mb=48.637039~-1.561931~48.611965~-1.49698&cardbg=%23F98745&tt=Le%20Mont-Saint-Michel%2C%2050170%2C%20Manche&tsts0=%2526ty%253D30%2526q%253DMont-Saint-Michel%2526satid%253Did.sid%25253A77f56895-15a1-2e46-a245-83ad95883658%2526vdpid%253D5475038411649712129%2526mb%253D48.637039~-1.561931~48.611965~-1.49698%2526cardbg%253D%252523F98745&tstt0=Le%20Mont-Saint-Michel%2C%2050170%2C%20Manche&cp=48.624514~-1.540818&lvl=14.903963&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Manche%2c+Normandie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Manche, Normandie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Manche%2c+Normandie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

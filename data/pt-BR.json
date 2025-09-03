@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250902",
+      "fullstartdate": "20250902",
+      "enddate": "20250903",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeadvleiTrees_PT-BR2241595565_UHD.jpg",
+      "copyrighttext": "© Inge Johnsson/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=o+Parque+Namib-Naukluft&form=BGALM&filters=HpDate:\"20250902_0300\"",
+      "title": "Árvores espinho-de-camelo, Deadvlei, Parque Namib-Naukluft, Namíbia",
+      "description": "Pode parecer, mas o que vemos aqui não é uma miragem. O vale de Deadvlei, na Namíbia, parece feito de contrastes: troncos retorcidos e escurecidos brotam de um chão claro como giz, cercado por dunas vermelhas e um céu em brasa. Essas árvores são vestígios de um pântano que um dia existiu ali, alimentado pelo rio Tsauchab. Mas as dunas mudaram de lugar, barraram a água e selaram o destino da vegetação. As árvores secaram sob o sol impiedoso — e ficaram. Sem umidade, sem fungos, sem decomposição: há quase mil anos, os troncos permanecem de pé, como sombras fossilizadas que o tempo se esqueceu de levar.",
+      "headline": "Os fantasmas de Deadvlei",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250902_DeadvleiTrees\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=o+Parque+Namib-Naukluft&form=BGABWCTA7&filters=HpDate:\"20250902_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250901",
       "fullstartdate": "20250901",
       "enddate": "20250902",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_DE-DE6807349928_UHD.jpg",
+      "copyrighttext": "© s.tomas/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Minnesota+Bundesstaat+USA&form=BGALM&filters=HpDate:\"20250902_2200\"",
+      "title": "Boundary Waters Canoe Area Wilderness, Minnesota, USA",
+      "description": "Mitten in der unberührten Wildnis im Nordosten des US-Bundesstaates Minnesota liegt das Boundary Waters Canoe Area Wilderness, ein echtes Paradies für Naturliebhaber. Das streng geschützte Gebiet erstreckt sich über mehr als 4000 Quadratkilometer entlang der kanadischen Grenze und umfasst über 1000 kristallklare Seen, dichte Wälder und ein weit verzweigtes Netz an Wasserwegen, das nur per Kanu oder zu Fuß erkundet werden kann. Hier leben Elche, Wölfe, Fischadler und Biber – mit etwas Glück lässt sich sogar einer der seltenen Luchse beobachten. Ein Abenteuer für Wanderer, Angler, Vogelbeobachter und alle, die die Ruhe der Natur suchen. Das Gebiet steht für nachhaltigen Tourismus und den Erhalt ursprünglicher Wildnis – ganz ohne Straßen, Lärm oder Mobilfunkempfang. Wer Natur in ihrer reinsten Form fernab des Massentourismus erleben möchte, findet hier einen Ort der Stille und Weite.",
+      "headline": "Unberührte Wildnis",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_MinnesotaWaters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.903481,-91.865646/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.903481,-91.865646;S9;Boundary Waters Canoe Area Wilderness, Minnesota, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Boundary%20Waters%20Canoe%20Area%20Wilderness%2C%20Minnesota%2C%20United%20States&ss=ypid.YN873x17137512910626953146&mb=47.908151~-91.872225~47.898816~-91.85905&description=N%201st%20Ave%20E%2C%20Ely%2C%20MN%2055731&cardbg=%23219AB6&dt=1752156000000&tt=Boundary%20Waters%20Canoe%20Area%20Wilderness&tsts0=%2526ty%253D18%2526q%253DBoundary%252520Waters%252520Canoe%252520Area%252520Wilderness%25252C%252520Minnesota%25252C%252520United%252520States%2526ss%253Dypid.YN873x17137512910626953146%2526mb%253D47.908151~-91.872225~47.898816~-91.85905%2526description%253DN%2525201st%252520Ave%252520E%25252C%252520Ely%25252C%252520MN%25252055731%2526cardbg%253D%252523219AB6%2526dt%253D1752156000000&tstt0=Boundary%20Waters%20Canoe%20Area%20Wilderness&cp=45.935871~-96.28418&lvl=6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Minnesota%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Minnesota, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Minnesota%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

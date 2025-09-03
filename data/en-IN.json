@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrulliHouses_EN-IN4494179096_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alberobello&form=BGALM&filters=HpDate:\"20250902_1830\"",
+      "title": "Trullo buildings in Alberobello, Apulia, Italy",
+      "description": "If fairy tales had architects, they might've come up with something like Alberobello in Italy. But instead of magic wands, it was limestone, mortar-free masonry and—according to some theories—a bit of tax evasion that built this town's signature homes: the trulli. These are whitewashed stone houses topped with dry-stacked limestone roofs shaped like upside-down ice cream cones. It's an ancient building technique, and in this case, a clever one. Alberobello's trulli aren't hidden one-offs. Entire districts—like Rione Monti and Aia Piccola—are packed with these quirky structures. Some are still lived in, while others have been transformed into cafés, souvenir shops and pint-sized museums. You'll even find a church built in trullo style.",
+      "headline": "A 'trulli' remarkable town",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_TrulliHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.78406,17.23746/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=40.78406,17.23746;S9;Alberobello, Apulia, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alberobello&satid=id.sid%3A1a4741bd-af44-01b9-226f-69d471844aa5&vdpid=7218434605160857601&mb=40.826256~17.161562~40.756973~17.333161&cardbg=%23F98745&tt=Alberobello%2C%20Apulia%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DAlberobello%2526satid%253Did.sid%25253A1a4741bd-af44-01b9-226f-69d471844aa5%2526vdpid%253D7218434605160857601%2526mb%253D40.826256~17.161562~40.756973~17.333161%2526cardbg%253D%252523F98745&tstt0=Alberobello%2C%20Apulia%2C%20Italy&cp=39.839177~9.461211&lvl=5.029382&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 3, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Apulia%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Apulia, Italy"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Apulia%2c+Italy&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

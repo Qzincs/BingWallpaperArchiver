@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.MinnesotaWaters_ZH-CN6078521418_UHD.jpg",
+      "copyrighttext": "© s.tomas/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=+%e6%98%8e%e5%b0%bc%e8%8b%8f%e8%be%be%e5%b7%9e%e8%be%b9%e7%95%8c%e6%b0%b4%e5%9f%9f&form=BGALM&filters=HpDate:\"20250902_1600\"",
+      "title": "边界水域独木舟区荒野区, 明尼苏达州, 美国",
+      "description": "这里是位于明尼苏达州东北部的边界水域独木舟荒野区。该区域跨越超过100万英亩，由相互连接的湖泊、河流和针叶林组成。这里的地貌由冰川雕琢的水道、岩石露头和茂密林地交织而成，为驼鹿、狼、鸥鸟及无数其他物种提供了理想栖息地。该地区拥有超过1200英里的皮划艇航线和2000多个露营地，为人们提供了难得的与自然亲密接触、享受宁静的机会。",
+      "headline": "享受宁静",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_MinnesotaWaters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 3",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e6%98%8e%e5%b0%bc%e8%8b%8f%e8%be%be%e5%b7%9e%e8%be%b9%e7%95%8c%e6%b0%b4%e5%9f%9f&form=BGABWCTA7&filters=HpDate:\"20250902_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

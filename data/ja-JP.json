@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_JA-JP5876109313_UHD.jpg",
+      "copyrighttext": "© s.tomas/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%90%e3%82%a6%e3%83%b3%e3%83%80%e3%83%aa%e3%83%bc%e3%83%bb%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba%e3%83%bb%e3%82%ab%e3%83%8c%e3%83%bc%e3%83%bb%e3%82%a8%e3%83%aa%e3%82%a2%e3%83%bb%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%80%e3%83%8d%e3%82%b9&form=BGALM&filters=HpDate:\"20250902_1500\"",
+      "title": "バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス, 米国 ミネソタ州",
+      "description": "1964 年の今日、米国で原生自然法が制定されました。この法律の目的は、「人の手によって破壊されていない大地とその生命の共同体」を保護することです。これにより、米国では原生自然保護制度（NWPS）が創設され、多くの土地が開発、道路、そして機械化から守られています…",
+      "headline": "今日は米国原生自然法制定の記念日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_MinnesotaWaters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.902813,-91.866058/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.902813,-91.866058;S9;バウンダリー・ウォーターズ・カヌー・エリア・ウィルダネス, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Boundary+Waters+Canoe+Area+Wilderness%2C+Minnesota%2C+United+States&ss=ypid.YN873x17137512910626953146&mb=47.908151%7E-91.872225%7E47.898816%7E-91.85905&description=N+1st+Ave+E%2C+Ely%2C+MN+55731&cardbg=%23219AB6&dt=1752156000000&tt=Boundary+Waters+Canoe+Area+Wilderness&tsts0=%2526ty%253D18%2526q%253DBoundary%252520Waters%252520Canoe%252520Area%252520Wilderness%25252C%252520Minnesota%25252C%252520United%252520States%2526ss%253Dypid.YN873x17137512910626953146%2526mb%253D47.908151%7E-91.872225%7E47.898816%7E-91.85905%2526description%253DN%2525201st%252520Ave%252520E%25252C%252520Ely%25252C%252520MN%25252055731%2526cardbg%253D%252523219AB6%2526dt%253D1752156000000&tstt0=Boundary+Waters+Canoe+Area+Wilderness&cp=47.902808%7E-91.866066&lvl=16.0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%9f%e3%83%8d%e3%82%bd%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ミネソタ州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%9f%e3%83%8d%e3%82%bd%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

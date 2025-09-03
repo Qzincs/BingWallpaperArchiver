@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaVueltaBilbao_ES-ES0567019335_UHD.jpg",
+      "copyrighttext": "© Tim de Waele/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=La+vuelta+a+Espa%c3%b1a&form=BGALM&filters=HpDate:\"20250902_2200\"",
+      "title": "66.ª Vuelta a España 2011, Etapa 19, Noja - Bilbao, España",
+      "description": "Este verano, España vuelve a ser escenario de uno de los eventos deportivos más esperados: la Vuelta Ciclista a España, que celebra en 2025 su 80.ª edición y 90 años de historia. Lo hace con una novedad que marca un antes y un después: por primera vez arranca en Italia, concretamente desde Venaria Reale, una ciudad llena de historia junto a Turín.",
+      "headline": "¡Vamos a abrir hueco!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_LaVueltaBilbao\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+vuelta+a+Espa%c3%b1a&form=BGABWCTA7&filters=HpDate:\"20250902_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

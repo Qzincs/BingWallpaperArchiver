@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaintBarbaras_EN-GB0842695883_UHD.jpg",
+      "copyrighttext": "© Castka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=St+Barbaras+Cathedral&form=BGALM&filters=HpDate:\"20250902_2300\"",
+      "title": "St Barbara's Cathedral, Kutná Hora, Czechia",
+      "description": "Rising like a stone hymn in the heart of Kutná Hora, a town in Czechia, the Cathedral of St Barbara is an example of medieval grandeur. The cathedral was dedicated to St Barbara, the patron saint of miners—an enduring symbol for a community whose lifeblood was silver. The miners themselves played a key role in building the cathedral that still bears her name.",
+      "headline": "Gothic majesty",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_SaintBarbaras\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.944893,15.263266/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=49.944893,15.263266;S9;The Cathedral of St Barbara, Kutná Hora, Czechia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=St%20Barbara%27s%20Cathedral&ss=ypid.YN8046x7434223566493806923&segment=Local&mb=49.947537~15.255686~49.942255~15.270835&description=Barborska%20Street%20284%2001%20Kutna%20Hora&cardbg=%2388979C&dt=1752143400000&tt=St%20Barbara%27s%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSt%252520Barbara%252527s%252520Cathedral%2526ss%253Dypid.YN8046x7434223566493806923%2526segment%253DLocal%2526mb%253D49.947537~15.255686~49.942255~15.270835%2526description%253DBarborska%252520Street%252520284%25252001%252520Kutna%252520Hora%2526cardbg%253D%25252388979C%2526dt%253D1752143400000&tstt0=St%20Barbara%27s%20Cathedral&cp=52.876501~14.693196&lvl=5.51159&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 3, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kutn%c3%a1+Hora%2c+Czechia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Kutná Hora, Czechia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Kutn%c3%a1+Hora%2c+Czechia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",
