@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_FR-FR0316323134_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Ours+grizzli&form=BGALM&filters=HpDate:\"20250903_2200\"",
+      "title": "Bagarre amicale de grizzlis, parc national Katmai, Alaska, États-Unis",
+      "description": "Dans les replis silencieux du parc national de Katmai, en Alaska, deux jeunes grizzlis se chamaillent, museaux levés, pattes tendues, dans une chorégraphie brute et joyeuse. Ce n’est pas un duel, mais un rituel d’apprentissage. Force, agilité et complicité s’y forgent dans l’élan de la jeunesse. Ces colosses peuvent atteindre 400 kg et filer à plus de 50 km/h.",
+      "headline": "Les grizzlis... aussi !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ours+grizzli&form=BGABWCTA7&filters=HpDate:\"20250903_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",

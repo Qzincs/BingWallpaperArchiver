@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_DE-DE4535845239_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Grizzlyb%c3%a4ren&form=BGALM&filters=HpDate:\"20250903_2200\"",
+      "title": "Raufende Grizzlybären, Katmai-Nationalpark, Alaska, USA",
+      "description": "Grizzlybären zählen zu den eindrucksvollsten Wildtieren Nordamerikas. Mit einer Schulterhöhe von bis zu 1,50 Metern und einem Gewicht von über 400 Kilogramm wirken sie durchaus respekteinflößend – und doch sind sie zugleich anmutige und faszinierend sanfte Wesen. Besonders junge Grizzlys zeigen ein lebhaftes, neugieriges Verhalten: Sie tollen herum, ringen spielerisch und trainieren dabei wichtige Fähigkeiten für ihr späteres Leben. Dieses Spielverhalten stärkt Muskeln, Reflexe und das soziale Miteinander. Die pelzigen Zeitgenossen sind nicht nur geschickte Kletterer, sondern auch überraschend schnelle Sprinter: Auf kurzen Strecken erreichen sie Geschwindigkeiten vergleichbar mit einem galoppierenden Pferd. Ihr dichtes Fell schützt sie vor Kälte, und ihre feine Nase kann Beute über Kilometer hinweg erschnüffeln.",
+      "headline": "Verspielte Giganten",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grizzlyb%c3%a4ren&form=BGABWCTA7&filters=HpDate:\"20250903_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",

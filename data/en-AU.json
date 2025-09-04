@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250903",
+      "fullstartdate": "20250903",
+      "enddate": "20250904",
+      "urlbase": "https://www.bing.com/th?id=OHR.MinnesotaWaters_ROW7698043966_UHD.jpg",
+      "copyrighttext": "© s.tomas/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Boundary+Waters+Canoe+Area+Wilderness&form=BGALM&filters=HpDate:\"20250903_0700\"",
+      "title": "Boundary Waters Canoe Area Wilderness, Minnesota, United States",
+      "description": "Featured in today's image, Boundary Waters Canoe Area Wilderness is a stunning and expansive wilderness area in northeastern Minnesota, United States. It's one of the largest designated wilderness areas in the country, forming part of the internationally significant Quetico–Superior country. Spanning over 440,000 hectares, it is a vast expanse of interconnected lakes, rivers and boreal forests. The landscape is a mosaic of glacially carved waterways, rocky outcrops and dense woodlands, offering a haven for moose, wolves, loons and countless other species. With over 1,900 kilometres of canoe routes and more than 2,000 campsites, it provides a rare opportunity for solitude and immersion in nature. Protected under the Wilderness Act of 1964, the Boundary Waters remains one of the most pristine natural areas in the US—preserved for future generations to experience and cherish.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250903_MinnesotaWaters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 3, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250903",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P7"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Boundary+Waters+Canoe+Area+Wilderness&form=BGABWCTA7&filters=HpDate:\"20250903_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250902",
       "fullstartdate": "20250902",
       "enddate": "20250903",

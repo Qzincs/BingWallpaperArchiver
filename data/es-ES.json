@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_ES-ES0873710105_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+y+reserva+Katmai&form=BGALM&filters=HpDate:\"20250903_2200\"",
+      "title": "Lucha de osos pardos, Parque Nacional y Reserva Katmai, Alaska, EE. UU.",
+      "description": "El oso pardo es uno de los grandes símbolos de la naturaleza salvaje. En Alaska (Estados Unidos), especialmente en el Parque Nacional y Reserva Katmai, es común ver a estos imponentes animales en libertad. Los más jóvenes suelen “jugar a pelear” para ganar fuerza, aprender habilidades de supervivencia y estrechar lazos con otros osos. A pesar de su tamaño —pueden llegar a pesar más de 400 kilos—, corren a más de 55 km/h, superando con facilidad a cualquier persona.",
+      "headline": "¡Qué graci-oso!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+nacional+y+reserva+Katmai&form=BGABWCTA7&filters=HpDate:\"20250903_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",

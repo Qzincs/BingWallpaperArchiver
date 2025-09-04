@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_IT-IT9855887848_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Grizzly&form=BGALM&filters=HpDate:\"20250903_2200\"",
+      "title": "Orsi grizzly, Parco Nazionale e Riserva di Katmai, Alaska, USA",
+      "description": "Gli orsi grizzly dell’Alaska, tra i mammiferi più maestosi e potenti del Nord America, possono raggiungere i 400 kg di peso e correre fino a 56 km/h, nonostante la loro mole imponente. I giovani grizzly spesso si cimentano in combattimenti giocosi per sviluppare forza, affinare le abilità e stabilire legami sociali. Questi orsi sono eccellenti pescatori e si nutrono principalmente di salmoni, bacche, radici e piccoli mammiferi. Un tempo diffusi in gran parte degli Stati Uniti occidentali, oggi vivono soprattutto in Alaska e nelle Montagne Rocciose settentrionali, dove trovano ancora ampi spazi selvaggi e incontaminati.",
+      "headline": "Giganti dal cuore selvaggio",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grizzly&form=BGABWCTA7&filters=HpDate:\"20250903_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",
