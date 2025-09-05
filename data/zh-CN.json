@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250905",
+      "fullstartdate": "20250905",
+      "enddate": "20250906",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.SunsetPier_ZH-CN1202083395_UHD.jpg",
+      "copyrighttext": "© EXTREME-PHOTOGRAPHER/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9c%a3%e8%8e%ab%e5%a6%ae%e5%8d%a1%e5%b7%9e%e7%ab%8b%e6%b5%b7%e6%bb%a9&form=BGALM&filters=HpDate:\"20250904_1600\"",
+      "title": "太平洋公园，圣莫妮卡州立海滩，加利福尼亚州，美国",
+      "description": "当夕阳西下，洒下橙色、粉色和紫色的光芒时，圣莫尼卡从悠闲的氛围中转为灯火通明。真的！这片海滩拥有超过3英里的沙滩、一座历史悠久的码头，以及风景如画的太平洋海岸公路，不仅仅是一条美丽的海岸线。让我们先从沙滩说起。宽阔、洁净，无论是打排球还是悠闲地读一本好书，这里都是日光浴爱好者和沙堡建造者的理想之地。",
+      "headline": "完美的夜晚",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_SunsetPier\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 5",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9c%a3%e8%8e%ab%e5%a6%ae%e5%8d%a1%e5%b7%9e%e7%ab%8b%e6%b5%b7%e6%bb%a9&form=BGABWCTA7&filters=HpDate:\"20250904_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250904",
       "fullstartdate": "20250904",
       "enddate": "20250905",

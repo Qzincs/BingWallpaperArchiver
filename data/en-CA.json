@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.TiFF25_EN-CA4935162806_UHD.jpg",
+      "copyrighttext": "© R.M. Nunes/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Toronto+International+Film+Festival&form=BGALM&filters=HpDate:\"20250904_0400\"",
+      "title": "CN Tower illuminated at night in Toronto, Ontario",
+      "description": "Big screens, bigger stories—TIFF 2025 is rolling out film reels and flashing bulbs again. Today marks the 50th edition of the Toronto International Film Festival, a milestone for a festival that has helped shape global cinema for decades. Since 1976, films like 'La La Land,' 'Belfast,' 'Jojo Rabbit' and '12 Years a Slave' have made waves here first. But TIFF has never been only about Hollywood. It has also helped shine a spotlight on films from across Asia, Africa, Europe and Latin America, and made space for voices that don't always get big prominent exposure.",
+      "headline": "TIFF turns 50",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_TiFF25\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.646839,-79.390221/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.646839,-79.390221;S9;TIFF Bell Lightbox, Toronto, Ontario&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=TIFF%20Bell%20Lightbox&ss=ypid.YN1226x777741185&mb=43.651913~-79.397936~43.641759~-79.382486&description=350%20King%20St%20W%2C%20Toronto%20ON%20M5V%203X5&cardbg=%23219AB6&dt=1754026200000&tt=TIFF%20Bell%20Lightbox&tsts0=%2526ty%253D18%2526q%253DTIFF%252520Bell%252520Lightbox%2526ss%253Dypid.YN1226x777741185%2526mb%253D43.651913~-79.397936~43.641759~-79.382486%2526description%253D350%252520King%252520St%252520W%25252C%252520Toronto%252520ON%252520M5V%2525203X5%2526cardbg%253D%252523219AB6%2526dt%253D1754026200000&tstt0=TIFF%20Bell%20Lightbox&cp=43.612797~-79.467445&lvl=11.232995&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ontario&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250904",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P8"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Ontario"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Ontario&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",

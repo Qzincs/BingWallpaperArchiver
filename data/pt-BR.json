@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_PT-BR2169243821_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=urso-pardo&form=BGALM&filters=HpDate:\"20250904_0300\"",
+      "title": "Ursos-pardos lutando no Parque Nacional e Reserva de Katmai, Alasca, EUA",
+      "description": "Os jovens ursos-pardos vistos na imagem não estão em guerra — estão em treinamento. Esses embates simulados são uma espécie de escola da vida selvagem: neles, filhotes aprendem a se defender, a caçar e a viver em equilíbrio com o território que habitam. Apesar da aparência robusta, esses gigantes fotografados no Alasca, Estados Unidos, mal começaram a explorar seu papel na cadeia natural.",
+      "headline": "A resistência é selvagem",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=urso-pardo&form=BGABWCTA7&filters=HpDate:\"20250904_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",

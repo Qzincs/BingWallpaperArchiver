@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250904",
+      "fullstartdate": "20250904",
+      "enddate": "20250905",
+      "urlbase": "https://www.bing.com/th?id=OHR.WrestlingBears_EN-US4338158114_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Grizzly+bears&form=BGALM&filters=HpDate:\"20250904_0700\"",
+      "title": "Grizzly bears wrestling, Katmai National Park and Preserve, Alaska",
+      "description": "It's time to go wild—responsibly! Today is National Wildlife Day. Let's celebrate the incredible animals that roam, fly, swim, and slither across our planet. It's also a day to honor the work of wildlife sanctuaries, conservationists, and endangered species programs that protect our most vulnerable creatures.",
+      "headline": "Bear with us—it's National Wildlife Day",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250904_WrestlingBears\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250904",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P8"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grizzly+bears&form=BGABWCTA7&filters=HpDate:\"20250904_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250903",
       "fullstartdate": "20250903",
       "enddate": "20250904",

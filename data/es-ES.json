@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250905",
+      "fullstartdate": "20250905",
+      "enddate": "20250906",
+      "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_ES-ES7586673768_UHD.jpg",
+      "copyrighttext": "© EXTREME-PHOTOGRAPHER/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Muelle+de+Santa+M%c3%b3nica&form=BGALM&filters=HpDate:\"20250904_2200\"",
+      "title": "Pacific Park, Muelle de Santa Monica, California, EE. UU.",
+      "description": "Cuando el sol se despide con tonos de naranja, rosa y violeta, Santa Mónica, en Estados Unidos, se transforma: de tranquila a vibrante. Esta ciudad californiana ofrece más que una playa bonita. Su costa, de más de 4,8 kilómetros, es perfecta para tomar el sol, leer un buen libro o jugar al vóley. ¿Un dato curioso? Algunas escenas de Los vigilantes de la playa (Baywatch) se grabaron aquí. Sí, puedes correr en cámara lenta si te apetece.",
+      "headline": "¡Una noria de película!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_SunsetPier\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Muelle+de+Santa+M%c3%b3nica&form=BGABWCTA7&filters=HpDate:\"20250904_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250904",
       "fullstartdate": "20250904",
       "enddate": "20250905",

@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250905",
+      "fullstartdate": "20250905",
+      "enddate": "20250906",
+      "urlbase": "https://www.bing.com/th?id=OHR.BoatraceOnam_EN-IN9170886628_UHD.jpg",
+      "copyrighttext": "© Rajesh Narayanan/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Onam&form=BGALM&filters=HpDate:\"20250904_1830\"",
+      "title": "Oarsmen rowing in snake boats at Aranmula, Kerala",
+      "description": "The river moves to the power of a hundred oars, each stroke beating in time with Onam's song. Crowds gather along the banks to watch serpentine boats slice through the tide. It is Chingam, the first month of the Malayalam calendar, a season that ushers in Onam each year, corresponding to August–September in the Gregorian calendar. This festival unfolds over four to ten days, with Atham marking the start and Thiruonam the last day. The festivities include boat races, cultural performances, sports, dances, martial arts, vibrant pookkalam (floral rangoli), prayers, shopping, acts of charity and lavish feasts shared with loved ones.",
+      "headline": "Racing the harvest tides",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_BoatraceOnam\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.33,76.68/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=9.33,76.68;S9;Aranmula, Tiruvalla, Kerala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Aranmula&satid=id.sid%3A958c0825-5638-cd5d-402a-c4c89cccbbac&vdpid=7479125883576385537&mb=9.335808~76.652245~9.303109~76.710876&cardbg=%23F98745&dt=1754926200000&tt=Aranmula%2C%20Tiruvalla%2C%20Kerala%2C%20India&tsts0=%2526ty%253D30%2526q%253DAranmula%2526satid%253Did.sid%25253A958c0825-5638-cd5d-402a-c4c89cccbbac%2526vdpid%253D7479125883576385537%2526mb%253D9.335808~76.652245~9.303109~76.710876%2526cardbg%253D%252523F98745%2526dt%253D1754926200000&tstt0=Aranmula%2C%20Tiruvalla%2C%20Kerala%2C%20India&cp=8.618535~74.519525&lvl=6.745253&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kerala&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250905",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P9"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Kerala"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Kerala&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250904",
       "fullstartdate": "20250904",
       "enddate": "20250905",
