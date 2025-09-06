@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250905",
+      "fullstartdate": "20250905",
+      "enddate": "20250906",
+      "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_ROW6836711117_UHD.jpg",
+      "copyrighttext": "© EXTREME-PHOTOGRAPHER/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Santa+Monica+State+Beach&form=BGALM&filters=HpDate:\"20250905_0700\"",
+      "title": "Pacific Park, Santa Monica State Beach, California, United States",
+      "description": "When the sun clocks out in streaks of orange, pink and purple, Santa Monica, in the United States, goes from laid-back to lit up. Literally. With over 5 kilometres of sand, a historic pier and the Pacific Coast Highway keeping things scenic, this Californian beach is more than just a pretty shoreline. Let's start with the sand. Wide, clean and ready for volleyball or just flopping down with a good book, it's ideal for sunbathers and sandcastle architects alike. And yes, 'Baywatch' was filmed along Santa Monica Bay. Feel free to run in slow motion.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_SunsetPier\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250905",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P9"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Santa+Monica+State+Beach&form=BGABWCTA7&filters=HpDate:\"20250905_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250904",
       "fullstartdate": "20250904",
       "enddate": "20250905",

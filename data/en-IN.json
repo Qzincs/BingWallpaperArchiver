@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250906",
+      "fullstartdate": "20250906",
+      "enddate": "20250907",
+      "urlbase": "https://www.bing.com/th?id=OHR.SunsetPier_EN-IN9369889790_UHD.jpg",
+      "copyrighttext": "© EXTREME-PHOTOGRAPHER/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Santa+Monica+State+Beach&form=BGALM&filters=HpDate:\"20250905_1830\"",
+      "title": "Pacific Park, Santa Monica State Beach, California, United States",
+      "description": "When the sun clocks out in streaks of orange, pink and purple, Santa Monica State Beach in California, United States, goes from laid-back to lit up. Literally. With over 4 kilometres of sand, a historic pier and the Pacific Coast Highway keeping things scenic, this beach is more than just a pretty shoreline. Let's start with the sand. Wide, clean and ready for volleyball or just flopping down with a good book, it's ideal for sunbathers and sandcastle architects alike. Then there's the Santa Monica Pier. Built in 1909 and still standing tall on wooden legs, it's got an amusement park called Pacific Park, arcade, restaurants and that famous solar-powered Ferris wheel.",
+      "headline": "A pier-fect evening",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_SunsetPier\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.014874,-118.500481/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=34.014874,-118.500481;S9;Santa Monica State Beach, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Santa%20Monica%20State%20Beach&ss=ypid.YN873x7478753434614707302&mb=34.021382~-118.510262~34.008362~-118.490714&description=Pacific%20Coast%20Hwy%2C%20Santa%20Monica%2C%20CA%2090402&cardbg=%23219AB6&dt=1753795800000&tt=Santa%20Monica%20State%20Beach&tsts0=%2526ty%253D18%2526q%253DSanta%252520Monica%252520State%252520Beach%2526ss%253Dypid.YN873x7478753434614707302%2526mb%253D34.021382~-118.510262~34.008362~-118.490714%2526description%253DPacific%252520Coast%252520Hwy%25252C%252520Santa%252520Monica%25252C%252520CA%25252090402%2526cardbg%253D%252523219AB6%2526dt%253D1753795800000&tstt0=Santa%20Monica%20State%20Beach&cp=32.997227~-134.27371&lvl=4.957041&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Santa+Monica+State+Beach%2c+California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250906",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P10"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Santa Monica State Beach, California, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Santa+Monica+State+Beach%2c+California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250905",
       "fullstartdate": "20250905",
       "enddate": "20250906",

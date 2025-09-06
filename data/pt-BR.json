@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250905",
+      "fullstartdate": "20250905",
+      "enddate": "20250906",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiaAmazonia_PT-BR5240863340_UHD.jpg",
+      "copyrighttext": "© Ignacio Palacios/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+da+Amaz%c3%b4nia&form=BGALM&filters=HpDate:\"20250905_0300\"",
+      "title": "Névoa sobre a copa da Floresta Amazônica",
+      "description": "Vista do alto, a névoa que repousa sobre as árvores não esconde: revela. Ali embaixo pulsa um mundo vertical, feito de camadas vivas. Hoje, 5 de setembro, Dia da Amazônia, somos chamados a enxergar além do verde — e proteger até o que ainda não sabemos nomear.",
+      "headline": "O que os olhos não veem",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250905_DiaAmazonia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+da+Amaz%c3%b4nia&form=BGABWCTA7&filters=HpDate:\"20250905_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250904",
       "fullstartdate": "20250904",
       "enddate": "20250905",

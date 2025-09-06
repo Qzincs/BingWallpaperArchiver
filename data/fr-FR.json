@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250906",
+      "fullstartdate": "20250906",
+      "enddate": "20250907",
+      "urlbase": "https://www.bing.com/th?id=OHR.LilleMarket_FR-FR3271144048_UHD.jpg",
+      "copyrighttext": "© Wirestock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Braderie+de+Lille&form=BGALM&filters=HpDate:\"20250905_2200\"",
+      "title": "Le beffroi de la Chambre de Commerce, Lille, Hauts-de-France",
+      "description": "Chaque année, au premier week-end de septembre, Lille devient le théâtre d’un événement aussi populaire que légendaire : la Braderie. Pendant deux jours et deux nuits, la ville se transforme en immense marché à ciel ouvert, l’un des plus grands d’Europe, où professionnels, brocanteurs et habitants déballent des trésors sur les trottoirs.",
+      "headline": "Lille en fête !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_LilleMarket\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.6371,3.06356/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.6371,3.06356;S9;Braderie, Lille&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Braderie%20de%20Lille&ss=ypid.YN2000x7762342577947613913&mb=50.642759~3.048363~50.63145~3.078747&description=pl%20G%C3%A9n%20de%20Gaulle%2C%2059000%20Lille%C2%B7March%C3%A9%20aux%20puces&cardbg=%23F98745&dt=1755000000000&tt=Braderie%20de%20Lille&tsts0=%2526ty%253D18%2526q%253DBraderie%252520de%252520Lille%2526ss%253Dypid.YN2000x7762342577947613913%2526mb%253D50.642759~3.048363~50.63145~3.078747%2526description%253Dpl%252520G%2525C3%2525A9n%252520de%252520Gaulle%25252C%25252059000%252520Lille%2525C2%2525B7March%2525C3%2525A9%252520aux%252520puces%2526cardbg%253D%252523F98745%2526dt%253D1755000000000&tstt0=Braderie%20de%20Lille&cp=50.637105~3.058233&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Lille%2c+Hauts-de-France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Braderie+de+Lille&form=BGABWCTA6&filters=HpDate:\"20250905_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Lille, Hauts-de-France"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Lille%2c+Hauts-de-France&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250905",
       "fullstartdate": "20250905",
       "enddate": "20250906",

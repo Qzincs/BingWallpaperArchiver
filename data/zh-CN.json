@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250906",
+      "fullstartdate": "20250906",
+      "enddate": "20250907",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.RufousHummer_ZH-CN1777072350_UHD.jpg",
+      "copyrighttext": "© jeremyborkat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%a3%95%e7%85%8c%e8%9c%82%e9%b8%9f&form=BGALM&filters=HpDate:\"20250905_1600\"",
+      "title": "棕煌蜂鸟，旧金山金门公园，加利福尼亚州，美国",
+      "description": "它们飞向后方，俯冲轰炸对手，飞行距离比大多数公路旅行者更远。让我们来认识一下这只棕红蜂鸟——这张照片拍摄于加州旧金山的金门公园。棕红蜂鸟是塞拉斯福鲁斯属（Selasphorus）九个物种之一，因其锈红色的红橙色羽毛而得名。雄蜂鸟背部泛着铜色光泽，喉部红色斑块在阳光下闪闪发光。雌蜂鸟则较为温顺，但身体两侧和尾部仍带有棕红条纹。",
+      "headline": "忙碌的一天",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_RufousHummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%a3%95%e7%85%8c%e8%9c%82%e9%b8%9f&form=BGABWCTA7&filters=HpDate:\"20250905_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250905",
       "fullstartdate": "20250905",
       "enddate": "20250906",

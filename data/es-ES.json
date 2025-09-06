@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250906",
+      "fullstartdate": "20250906",
+      "enddate": "20250907",
+      "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_ES-ES7667920526_UHD.jpg",
+      "copyrighttext": "© jeremyborkat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Colibr%c3%ad+rufo&form=BGALM&filters=HpDate:\"20250905_2200\"",
+      "title": "Colibrí rufo, Golden Gate Park, San Francisco, California, EE. UU.",
+      "description": "Descubra al colibrí rufo, avistado en el Golden Gate Park de San Francisco, California, Estados Unidos. Este pequeño pájaro, de apenas 7 centímetros, destaca por su colorido plumaje: los machos lucen tonos rojizos y cobrizos que brillan con el sol; las hembras son más discretas, pero también muestran franjas anaranjadas en los costados. Aunque parecen frágiles, estos colibríes son sorprendentemente territoriales: no dudan en espantar a otros colibríes, mariposas o abejas para proteger su fuente de néctar. Además, protagonizan una de las migraciones más largas del mundo en relación con su tamaño: viajan cada año desde México hasta Alaska, recorriendo unos 13.000 kilómetros ida y vuelta.",
+      "headline": "¡Intenta ver su aleteo!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_RufousHummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Colibr%c3%ad+rufo&form=BGABWCTA7&filters=HpDate:\"20250905_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250905",
       "fullstartdate": "20250905",
       "enddate": "20250906",
