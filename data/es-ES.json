@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250907",
+      "fullstartdate": "20250907",
+      "enddate": "20250908",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_ES-ES7748880751_UHD.jpg",
+      "copyrighttext": "© Oscar Dominguez/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Gdansk+Polonia&form=BGALM&filters=HpDate:\"20250906_2200\"",
+      "title": "Gdansk a orillas del río Motława, Polonia",
+      "description": "Donde el encanto de las calles adoquinadas se une a la brisa del mar Báltico, Gdansk brilla como una ciudad vibrante del norte de Polonia. Situada en la región de Pomerania, forma parte del área metropolitana Tricity, junto con las ciudades costeras de Sopot y Gdynia.",
+      "headline": "Un cauce solidario",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_BlueGdansk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gdansk+Polonia&form=BGABWCTA7&filters=HpDate:\"20250906_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250906",
       "fullstartdate": "20250906",
       "enddate": "20250907",

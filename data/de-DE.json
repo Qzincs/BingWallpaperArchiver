@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250907",
+      "fullstartdate": "20250907",
+      "enddate": "20250908",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_DE-DE2028955580_UHD.jpg",
+      "copyrighttext": "© Oscar Dominguez/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Danzig&form=BGALM&filters=HpDate:\"20250906_2200\"",
+      "title": "Danzig am Ufer der Mottlau, Polen",
+      "description": "Die an der Ostseeküste Polens gelegene Stadt Danzig bezaubert mit ihren historischen Gebäuden und ihrem unverwechselbaren Charme. Die Hafenstadt liegt an der Mottlau, einem Nebenarm der Weichsel, und blickt auf eine lange, bewegte Geschichte zurück. Die prächtigen Fassaden der Rechtstadt, allen voran das berühmte Krantor – eines der bekanntesten Wahrzeichen –, erinnern an die Hansezeit, als Danzig auch für deutsche Kaufleute ein wichtiger Handelspartner war. Über Jahrhunderte stand die Stadt unter wechselndem Einfluss – preußisch, deutsch und polnisch – und bewahrt bis heute eine faszinierende Mischung aus Kulturen. Ein Spaziergang durch die malerische Altstadt gleicht einer Reise in die Vergangenheit: Historische Wahrzeichen und prachtvolle Bauwerke erzählen von einer reichen Vergangenheit. Besonders sehenswert sind die Lange Gasse mit dem prächtigen Artushof und der Neptunbrunnen.",
+      "headline": "Eine Perle an der Ostsee",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_BlueGdansk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.34829,18.65402/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=54.34829,18.65402;S9;Danzig, Woiwodschaft Pommern, Polen&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&satid=id.sid%3A1c7b7430-4313-286a-eb42-b51f26cd8729&vdpid=7019310712790974465&mb=54.773866~17.690464~54.0007~20.141291&cardbg=%23F98745&tt=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&tsts0=%2526ty%253D30%2526q%253DGdansk%25252C%252520Pomeranian%252520Voivodeship%25252C%252520Poland%2526satid%253Did.sid%25253A1c7b7430-4313-286a-eb42-b51f26cd8729%2526vdpid%253D7019310712790974465%2526mb%253D54.773866~17.690464~54.0007~20.141291%2526cardbg%253D%252523F98745&tstt0=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&cp=53.714625~14.842355&lvl=5.2929573&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Polen&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Danzig&form=BGABWCTA6&filters=HpDate:\"20250906_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Polen"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Polen&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250906",
       "fullstartdate": "20250906",
       "enddate": "20250907",

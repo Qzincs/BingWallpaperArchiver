@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250907",
+      "fullstartdate": "20250907",
+      "enddate": "20250908",
+      "urlbase": "https://www.bing.com/th?id=OHR.GreatNorthRun2025_EN-GB8681982473_UHD.jpg",
+      "copyrighttext": "© ChrisHepburn/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Great+North+Run&form=BGALM&filters=HpDate:\"20250906_2300\"",
+      "title": "The Glasshouse International Centre for Music, Gateshead, England",
+      "description": "You could say the Great North Run is where the North really goes the distance. Every September, thousands lace up in Newcastle upon Tyne, ready to pound the pavement from city streets to seaside views. Founded in 1981 by former Olympic bronze medallist Brendan Foster, the half marathon has grown into the world's largest of its kind, regularly attracting over 60,000 runners. The 13.1-mile route starts on the central motorway and finishes along the South Shields seafront. It takes runners past landmarks like The Glasshouse International Centre for Music, pictured here, and across the Tyne Bridge—often cheered on by a passing Red Arrows flyover.",
+      "headline": "One step at a Tyne",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_GreatNorthRun2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.9674,-1.602877/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=54.9674,-1.602877;S9;The Glasshouse International Centre for Music, Gateshead, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=The%20Glasshouse%20International%20Centre%20for%20Music&ss=ypid.YN1029x4378429975625568970&mb=54.971462~-1.615741~54.963345~-1.589992&description=St%20Mary%27s%20Square%2C%20Gateshead%20NE8%202JR%C2%B7Music%20venue&cardbg=%23219AB6&dt=1755163800000&tt=The%20Glasshouse%20International%20Centre%20for%20Music&tsts0=%2526ty%253D18%2526q%253DThe%252520Glasshouse%252520International%252520Centre%252520for%252520Music%2526ss%253Dypid.YN1029x4378429975625568970%2526mb%253D54.971462~-1.615741~54.963345~-1.589992%2526description%253DSt%252520Mary%252527s%252520Square%25252C%252520Gateshead%252520NE8%2525202JR%2525C2%2525B7Music%252520venue%2526cardbg%253D%252523219AB6%2526dt%253D1755163800000&tstt0=The%20Glasshouse%20International%20Centre%20for%20Music&cp=51.780346~-8.008049&lvl=5.082116&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Gateshead%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250907",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P11"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Gateshead, England"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Gateshead%2c+England&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250906",
       "fullstartdate": "20250906",
       "enddate": "20250907",

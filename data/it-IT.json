@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250907",
+      "fullstartdate": "20250907",
+      "enddate": "20250908",
+      "urlbase": "https://www.bing.com/th?id=OHR.GaribaldiNapoli_IT-IT9017622092_UHD.jpg",
+      "copyrighttext": "© florin1961/iStock",
+      "copyrightlink": "https://www.bing.com/search?q=Ingresso+di+Garibaldi+a+Napoli&form=BGALM&filters=HpDate:\"20250906_2200\"",
+      "title": "Castel dell’Ovo, Baia di Napoli, Napoli, Campania",
+      "description": "Dal Castel dell’Ovo, il panorama abbraccia Napoli come un racconto aperto sul mare. Le sue mura, antiche e salmastre, hanno visto secoli di storia, ma il 7 settembre 1860 fu un giorno diverso: oggi ricorre il 165º anniversario. Da qui, si immagina la città in fermento, mentre Giuseppe Garibaldi entra senza spargimento di sangue, accolto da una folla che lo acclama come liberatore. Il Regno delle Due Sicilie vacilla, e Napoli diventa il cuore pulsante del Risorgimento. Garibaldi, con il suo cappello e la camicia rossa, attraversa Chiaia tra volti emozionati e finestre spalancate, diretto verso il cuore della città, dove la storia attende di essere scritta. Non è solo un ingresso: è un gesto simbolico, una rivoluzione che cammina tra la gente. Il Castel dell’Ovo osserva, silenzioso, mentre la città cambia volto. Quel giorno, Napoli non fu conquistata: fu scelta. E da questa terrazza sul tempo, si sente ancora l’eco di quel passo deciso che avvicinò un po’ di più l’Italia unita.",
+      "headline": "Rivol-Unione",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_GaribaldiNapoli\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.828316,14.247604/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=40.828316,14.247604;S9;Castel dell’Ovo, Napoli, Campania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Castel%20dell%27Ovo%2C%20Napoli&ss=ypid.YN1354x7007992320667307900&mb=40.833148~14.240899~40.823471~14.254289&description=Via%20Eldorado%203%20-%2080132%20Napoli%20%28NA%29&cardbg=%23219AB6&dt=1754920800000&tt=Castel%20dell%27Ovo&tsts0=%2526ty%253D18%2526q%253DCastel%252520dell%252527Ovo%25252C%252520Napoli%2526ss%253Dypid.YN1354x7007992320667307900%2526mb%253D40.833148~14.240899~40.823471~14.254289%2526description%253DVia%252520Eldorado%2525203%252520-%25252080132%252520Napoli%252520%252528NA%252529%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Castel%20dell%27Ovo&cp=40.82831~14.237123&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Baia+di+Napoli%2c+Napoli%2c+Campania&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ingresso+di+Garibaldi+a+Napoli&form=BGABWCTA6&filters=HpDate:\"20250906_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Baia di Napoli, Napoli, Campania"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Baia+di+Napoli%2c+Napoli%2c+Campania&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250906",
       "fullstartdate": "20250906",
       "enddate": "20250907",

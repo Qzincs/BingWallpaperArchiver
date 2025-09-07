@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250906",
+      "fullstartdate": "20250906",
+      "enddate": "20250907",
+      "urlbase": "https://www.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg",
+      "copyrighttext": "© jeremyborkat/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=National+Hummingbird+Day&form=BGALM&filters=HpDate:\"20250906_0700\"",
+      "title": "Rufous hummingbird, Golden Gate Park, San Francisco, California",
+      "description": "They fly backward, dive-bomb rivals, and travel farther than most road trippers. On National Hummingbird Day, meet the rufous hummingbird—photographed in Golden Gate Park, San Francisco, California. The bird, one of nine species in the genus Selasphorus, gets its name from its rusty, reddish-orange feathers. Males flash copper backs and red throat patches that shimmer in the sun. Females are more subdued but still carry streaks of rufous on their sides and tails.",
+      "headline": "A hum-dinger of a day",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250906_RufousHummer\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.771893,-122.454659/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=37.771893,-122.454659;S9;San Francisco&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Golden%20Gate%20Park%20San%20Francisco&ss=ypid.YN873x128209879&mb=37.778271~-122.464664~37.765499~-122.444665&description=501%20Stanyan%20St%2C%20San%20Francisco%2C%20CA%2094117&cardbg=%233DB838&dt=1753457400000&tt=Golden%20Gate%20Park&tsts0=%2526ty%253D18%2526q%253DGolden%252520Gate%252520Park%252520San%252520Francisco%2526ss%253Dypid.YN873x128209879%2526mb%253D37.778271~-122.464664~37.765499~-122.444665%2526description%253D501%252520Stanyan%252520St%25252C%252520San%252520Francisco%25252C%252520CA%25252094117%2526cardbg%253D%2525233DB838%2526dt%253D1753457400000&tstt0=Golden%20Gate%20Park&cp=39.142972~-132.135584&lvl=5.236277&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Golden+Gate+Park%2c+San+Francisco%2c+California&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250906",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P10"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Golden Gate Park, San Francisco, California"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Golden+Gate+Park%2c+San+Francisco%2c+California&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250905",
       "fullstartdate": "20250905",
       "enddate": "20250906",

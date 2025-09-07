@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250907",
+      "fullstartdate": "20250907",
+      "enddate": "20250908",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_JA-JP0907344323_UHD.jpg",
+      "copyrighttext": "© Oscar Dominguez/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b0%e3%83%80%e3%83%8b%e3%82%b9%e3%82%af&form=BGALM&filters=HpDate:\"20250906_1500\"",
+      "title": "グダニスク, ポーランド",
+      "description": "ポーランドのバルト海沿岸にある港町、グダニスク。色とりどりの建物が並ぶその旧市街には、ネプチューンの噴水や黄金の門などの歴史的建造物が点在しています。また、「琥珀の都」とも呼ばれ、美しい琥珀製品を扱う店が軒を連ねています。琥珀の歴史や文化を紹介する琥珀博物館もあり、観光客に人気のスポットとなっています…",
+      "headline": "バルト海に輝く色とりどりの港町",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_BlueGdansk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.34829,18.65402/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=54.34829,18.65402;S9;グダニスク, ポーランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&satid=id.sid%3A1c7b7430-4313-286a-eb42-b51f26cd8729&vdpid=7019310712790974465&mb=54.773866~17.690464~54.0007~20.141291&cardbg=%23F98745&tt=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&tsts0=%2526ty%253D30%2526q%253DGdansk%25252C%252520Pomeranian%252520Voivodeship%25252C%252520Poland%2526satid%253Did.sid%25253A1c7b7430-4313-286a-eb42-b51f26cd8729%2526vdpid%253D7019310712790974465%2526mb%253D54.773866~17.690464~54.0007~20.141291%2526cardbg%253D%252523F98745&tstt0=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&cp=53.714625~14.842355&lvl=5.2929573&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 7 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%9d%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b0%e3%83%80%e3%83%8b%e3%82%b9%e3%82%af&form=BGABWCTA6&filters=HpDate:\"20250906_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ポーランド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%9d%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250906",
       "fullstartdate": "20250906",
       "enddate": "20250907",

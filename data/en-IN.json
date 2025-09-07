@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250907",
+      "fullstartdate": "20250907",
+      "enddate": "20250908",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueGdansk_EN-IN9703793186_UHD.jpg",
+      "copyrighttext": "© Oscar Dominguez/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Gdansk+poland&form=BGALM&filters=HpDate:\"20250906_1830\"",
+      "title": "Gdańsk on the banks of the Motława river, Poland",
+      "description": "Where cobbled charm meets coastal cool, Gdańsk is a dynamic city in Poland's Pomorskie province. It is part of Tricity—a metropolitan area along the Gdańsk Bay that includes the neighbouring coastal cities of Sopot and Gdynia, along with nearby towns. The city likely takes its name from 'Gdania,' an earlier name for the Motława river that runs through it.",
+      "headline": "Pastel dreams and still waters",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250907_BlueGdansk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.34829,18.65402/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=54.34829,18.65402;S9;Gdańsk, Pomorskie province, Poland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&satid=id.sid%3A1c7b7430-4313-286a-eb42-b51f26cd8729&vdpid=7019310712790974465&mb=54.773866~17.690464~54.0007~20.141291&cardbg=%23F98745&tt=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&tsts0=%2526ty%253D30%2526q%253DGdansk%25252C%252520Pomeranian%252520Voivodeship%25252C%252520Poland%2526satid%253Did.sid%25253A1c7b7430-4313-286a-eb42-b51f26cd8729%2526vdpid%253D7019310712790974465%2526mb%253D54.773866~17.690464~54.0007~20.141291%2526cardbg%253D%252523F98745&tstt0=Gdansk%2C%20Pomeranian%20Voivodeship%2C%20Poland&cp=53.714625~14.842355&lvl=5.2929573&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Poland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250907",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P11"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Poland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Poland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250906",
       "fullstartdate": "20250906",
       "enddate": "20250907",
