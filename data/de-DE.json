@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250908",
+      "fullstartdate": "20250908",
+      "enddate": "20250909",
+      "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_DE-DE1336292524_UHD.jpg",
+      "copyrighttext": "© Darwin Fan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Weltalphabetisierungstag&form=BGALM&filters=HpDate:\"20250907_2200\"",
+      "title": "library@orchard, Singapur",
+      "description": "Am 8. September wird weltweit der Weltalphabetisierungstag gefeiert – ein Aktionstag, der seit 1966 von der UNESCO ins Leben gerufen wurde, um auf den globalen Zugang zu Lesen und Schreiben aufmerksam zu machen. Auf dem heutigen Bild ist die library@orchard in Singapur zu sehen – eine außergewöhnliche Bibliothek mitten in einem Einkaufszentrum. Sie war die erste öffentliche Bibliothek mit zwei Ebenen in einem Einkaufszentrum und ist auf Design, Lifestyle und angewandte Kunst spezialisiert. Die Bibliothek fördert Programme mit ansässigen Künstler:innen und gemeinschaftliches Lernen ohne Lehrpersonen – ein echtes Vorbild für moderne Bibliothekskonzepte.",
+      "headline": "Lesen bringt Wesen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/1.300509,103.839539/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=1.300509,103.839539;S9;library@orchard, Singapur&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=library%40orchard&satid=id.sid%3A9ab04bf6-35cb-96fe-154b-6ad34ac3afd1&mb=1.309062~103.824384~1.291943~103.854682&description=277%20Orchard%20Road%20Orchard%20Gateway%20Singapore%20238858%C2%B7Library&cardbg=%2388979C&dt=1753353000000&tt=Library%20%40%20Orchard&tsts0=%2526ty%253D18%2526q%253Dlibrary%252540orchard%2526satid%253Did.sid%25253A9ab04bf6-35cb-96fe-154b-6ad34ac3afd1%2526mb%253D1.309062~103.824384~1.291943~103.854682%2526description%253D277%252520Orchard%252520Road%252520Orchard%252520Gateway%252520Singapore%252520238858%2525C2%2525B7Library%2526cardbg%253D%25252388979C%2526dt%253D1753353000000&tstt0=Library%20%40%20Orchard&cp=1.053365~102.08152&lvl=6.983062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "8. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Singapur&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Weltalphabetisierungstag&form=BGABWCTA6&filters=HpDate:\"20250907_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Singapur"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Singapur&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250907",
       "fullstartdate": "20250907",
       "enddate": "20250908",

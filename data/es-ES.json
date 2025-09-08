@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250908",
+      "fullstartdate": "20250908",
+      "enddate": "20250909",
+      "urlbase": "https://www.bing.com/th?id=OHR.LaJayaAsturiasDay_ES-ES0574508384_UHD.jpg",
+      "copyrighttext": "© Joana Kruse/Alamy Images",
+      "copyrightlink": "https://www.bing.com/search?q=Aturias&form=BGALM&filters=HpDate:\"20250907_2200\"",
+      "title": "Puente de la Jaya, Rio Cares, Picos de Europa, Asturias, España",
+      "description": "Cada 8 de septiembre, Asturias celebra su día grande: el Día de Asturias, que coincide con la Natividad de la Virgen de Covadonga, patrona del Principado. Es una ocasión perfecta para descubrir esta tierra única, rica en tradición, paisajes y carácter.",
+      "headline": "¡Un gran día para pasear!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_LaJayaAsturiasDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Aturias&form=BGABWCTA7&filters=HpDate:\"20250907_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250907",
       "fullstartdate": "20250907",
       "enddate": "20250908",
