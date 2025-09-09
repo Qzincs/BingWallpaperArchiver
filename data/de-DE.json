@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250909",
+      "fullstartdate": "20250909",
+      "enddate": "20250910",
+      "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_DE-DE3902212654_UHD.jpg",
+      "copyrighttext": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGALM&filters=HpDate:\"20250908_2200\"",
+      "title": "Ein Eurasisches Eichhörnchen trägt Moos, Schweiz",
+      "description": "Das Eurasische Eichhörnchen ist ein heimisches Nagetier Europas und Asiens, bekannt für seine flinke Beweglichkeit, den buschigen Schwanz und seine Kletterkünste. Auf dem heutigen Bild sehen wir ein Eurasisches Eichhörnchen in der Schweiz, das Moos trägt – eine faszinierende Szene, denn das Moos wird verwendet, um das Nest, den sogenannten Kobel, weich auszupolstern. Diese Eichhörnchen halten keinen Winterschlaf, sondern legen im Herbst Vorräte an, um die kalte Jahreszeit zu überstehen. Ihr Fell kann von rot bis schwarz variieren, und die charakteristischen Ohrbüschel sind besonders im Winter deutlich sichtbar.",
+      "headline": "Ein Meister des Kletterns",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGABWCTA7&filters=HpDate:\"20250908_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250908",
       "fullstartdate": "20250908",
       "enddate": "20250909",

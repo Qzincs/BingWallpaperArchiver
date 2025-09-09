@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250909",
+      "fullstartdate": "20250909",
+      "enddate": "20250910",
+      "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_ES-ES7836274977_UHD.jpg",
+      "copyrighttext": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Ardilla+roja+euroasi%c3%a1tica&form=BGALM&filters=HpDate:\"20250908_2200\"",
+      "title": "Una ardilla roja euroasiática hembra que lleva musgo, Suiza",
+      "description": "Ágil, curiosa y siempre en movimiento, la ardilla roja euroasiática es una habitante habitual de bosques, parques y jardines en gran parte de Europa y Asia. En España, todavía puede verse en áreas arboladas de la península y en muchas zonas rurales. Construye su nido en lo alto de las ramas, usando ramitas para formar una cúpula de unos 25 a 30 centímetros de ancho. La hembra que observamos recolecta musgo, corteza, hojas y hierba para recubrirlo, creando así un refugio cálido y bien aislado.",
+      "headline": "Ramita a ramita, ella prepara",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ardilla+roja+euroasi%c3%a1tica&form=BGABWCTA7&filters=HpDate:\"20250908_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250908",
       "fullstartdate": "20250908",
       "enddate": "20250909",

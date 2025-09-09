@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250908",
+      "fullstartdate": "20250908",
+      "enddate": "20250909",
+      "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_PT-BR6559924297_UHD.jpg",
+      "copyrighttext": "© Darwin Fan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+da+Alfabetiza%c3%a7%c3%a3o&form=BGALM&filters=HpDate:\"20250908_0300\"",
+      "title": "Library@orchard, Singapura",
+      "description": "Ler transforma. Abre fendas no concreto do mundo e deixa passar a luz. No Dia Internacional da Alfabetização, celebrado em 8 de setembro, vale lembrar que cada palavra lida é uma conquista — individual e coletiva.",
+      "headline": "Ler para crer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Internacional+da+Alfabetiza%c3%a7%c3%a3o&form=BGABWCTA7&filters=HpDate:\"20250908_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250907",
       "fullstartdate": "20250907",
       "enddate": "20250908",

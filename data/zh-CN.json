@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250909",
+      "fullstartdate": "20250909",
+      "enddate": "20250910",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.SwissSquirrel_ZH-CN1499344455_UHD.jpg",
+      "copyrighttext": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=BGALM&filters=HpDate:\"20250908_1600\"",
+      "title": "一只雌性欧亚红松鼠正在搬运苔藓，瑞士",
+      "description": "敏捷、聪明、总是四处奔波——来认识一下欧亚红松鼠吧。这种栖息于树梢的绿叶动物遍布欧洲和亚洲的大部分地区。虽然它们更喜欢森林的庇护，但这种敏捷的生物也能轻松适应花园和公园的环境。它们用树枝在高高的树杈上筑巢，称为“drey”（巢穴），形成一个约25到30厘米宽的圆顶结构。图中的雌性欧亚红松鼠正在采集苔藓——苔藓是几种柔软材料中的一种，它们与树皮、树叶和草一起构成巢穴，使巢穴成为一个舒适、隔热的避难所。这些啮齿动物也可能占据树洞或啄木鸟遗弃的洞穴（如果有的话）。",
+      "headline": "她一根一根地准备着",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 9",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%ba%a2%e6%9d%be%e9%bc%a0&form=BGABWCTA7&filters=HpDate:\"20250908_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250908",
       "fullstartdate": "20250908",
       "enddate": "20250909",

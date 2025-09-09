@@ -1,6 +1,75 @@
 {
   "images": [
     {
+      "startdate": "20250908",
+      "fullstartdate": "20250908",
+      "enddate": "20250909",
+      "urlbase": "https://www.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg",
+      "copyrighttext": "© Darwin Fan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=International+Literacy+Day&form=BGALM&filters=HpDate:\"20250908_0700\"",
+      "title": "Library@orchard, Singapore",
+      "description": "Read it and believe it—literacy changes everything. As a basic human right, literacy is a powerful tool that opens the door to greater freedoms and active global citizenship. Recognizing its far-reaching impact, International Literacy Day—observed each year on September 8 since 1967—serves as a reminder of how vital literacy is in building a better, more sustainable future for all. This year, the theme explores literacy in a digital age, where technology continues to reshape how people learn, communicate, and participate in society. As a result, digital engagement has become both a challenge and an opportunity.",
+      "headline": "Booked for the day",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250908_OrchardLibrary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/1.300509,103.839539/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=1.300509,103.839539;S9;Singapore&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=library%40orchard&satid=id.sid%3A9ab04bf6-35cb-96fe-154b-6ad34ac3afd1&mb=1.309062~103.824384~1.291943~103.854682&description=277%20Orchard%20Road%20Orchard%20Gateway%20Singapore%20238858%C2%B7Library&cardbg=%2388979C&dt=1753353000000&tt=Library%20%40%20Orchard&tsts0=%2526ty%253D18%2526q%253Dlibrary%252540orchard%2526satid%253Did.sid%25253A9ab04bf6-35cb-96fe-154b-6ad34ac3afd1%2526mb%253D1.309062~103.824384~1.291943~103.854682%2526description%253D277%252520Orchard%252520Road%252520Orchard%252520Gateway%252520Singapore%252520238858%2525C2%2525B7Library%2526cardbg%253D%25252388979C%2526dt%253D1753353000000&tstt0=Library%20%40%20Orchard&cp=1.053365~102.08152&lvl=6.983062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 8, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Singapore&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250908",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P12"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Singapore"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Singapore&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250907",
       "fullstartdate": "20250907",
       "enddate": "20250908",
