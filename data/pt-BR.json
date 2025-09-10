@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250909",
+      "fullstartdate": "20250909",
+      "enddate": "20250910",
+      "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_PT-BR6801984629_UHD.jpg",
+      "copyrighttext": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Esquilo-vermelho&form=BGALM&filters=HpDate:\"20250909_0300\"",
+      "title": "Fêmea de esquilo-vermelho-eurasiático carregando musgo, Suíça",
+      "description": "Rápido, esperto e sempre em movimento, o esquilo-vermelho-eurasiano é encontrado em grande parte da Europa e Ásia. Pequeno e leve — não ultrapassa 350 gramas nem 25 centímetros —, ele vive intensamente o ciclo das estações, enterrando sementes que brotarão novas árvores, renovando a paisagem a cada ano.",
+      "headline": "Um semeador involuntário",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Esquilo-vermelho&form=BGABWCTA7&filters=HpDate:\"20250909_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250908",
       "fullstartdate": "20250908",
       "enddate": "20250909",

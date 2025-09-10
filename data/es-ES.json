@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250910",
+      "fullstartdate": "20250910",
+      "enddate": "20250911",
+      "urlbase": "https://www.bing.com/th?id=OHR.YorkshireHay_ES-ES7917729802_UHD.jpg",
+      "copyrighttext": "© Nick Brundle Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Yorkshire+del+Norte&form=BGALM&filters=HpDate:\"20250909_2200\"",
+      "title": "Pacas de heno, Yorkshire del Norte, Inglaterra",
+      "description": "“Hacer heno mientras brilla el sol” no es solo un refrán: en el campo es una necesidad. Empacar heno consiste en cortar, secar y prensar pastos para alimentar al ganado en los meses fríos. El clima es clave: la hierba debe estar seca antes de empacarla, o podría enmohecerse. Por eso, cuando llega un periodo de sol, los agricultores trabajan contra reloj.",
+      "headline": "Vamos a tejer la naturaleza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250910_YorkshireHay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Yorkshire+del+Norte&form=BGABWCTA7&filters=HpDate:\"20250909_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250909",
       "fullstartdate": "20250909",
       "enddate": "20250910",

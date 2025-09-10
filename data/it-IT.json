@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250910",
+      "fullstartdate": "20250910",
+      "enddate": "20250911",
+      "urlbase": "https://www.bing.com/th?id=OHR.YorkshireHay_IT-IT9160860790_UHD.jpg",
+      "copyrighttext": "© Nick Brundle Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Yorkshire+contea+inglese&form=BGALM&filters=HpDate:\"20250909_2200\"",
+      "title": "Balle di fieno, North Yorkshire, Inghilterra",
+      "description": "\"Fare fieno mentre il sole splende\" non è solo un antico proverbio inglese, ma una verità concreta per chi vive la terra. La raccolta del fieno — taglio, essiccazione e imballaggio — è una corsa contro l’umidità, un rituale che nutre il bestiame nei mesi freddi e scandisce il ritmo delle stagioni. Il tempo è tutto: l’erba deve essere asciutta, altrimenti marcisce, e quando il cielo si apre, gli agricoltori agiscono con precisione e urgenza. Dalle imballatrici trainate da cavalli dell’Ottocento alle macchine moderne che avvolgono rotoli in pochi minuti, la fienagione ha attraversato epoche.",
+      "headline": "Il tempo del fieno",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250910_YorkshireHay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.95,-1.083333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=53.95,-1.083333;S9;York, North Yorkshire, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=York&satid=id.sid%3Aa60ce14b-6919-f15c-15bd-5d5494ff8598&vdpid=5470680575394185217&mb=54.250182~-1.889142~53.646771~-0.277898&cardbg=%23F98745&tt=York%2C%20England%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DYork%2526satid%253Did.sid%25253Aa60ce14b-6919-f15c-15bd-5d5494ff8598%2526vdpid%253D5470680575394185217%2526mb%253D54.250182~-1.889142~53.646771~-0.277898%2526cardbg%253D%252523F98745&tstt0=York%2C%20England%2C%20United%20Kingdom&cp=52.771024~-19.070866&lvl=4.17&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+North+Yorkshire%2c+Inghilterra&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Yorkshire+contea+inglese&form=BGABWCTA6&filters=HpDate:\"20250909_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  North Yorkshire, Inghilterra"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++North+Yorkshire%2c+Inghilterra&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250909",
       "fullstartdate": "20250909",
       "enddate": "20250910",

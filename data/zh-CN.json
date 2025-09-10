@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250910",
+      "fullstartdate": "20250910",
+      "enddate": "20250911",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.YorkshireHay_ZH-CN9097986997_UHD.jpg",
+      "copyrighttext": "© Nick Brundle Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e7%ba%a6%e5%85%8b%e9%83%a1&form=BGALM&filters=HpDate:\"20250909_1600\"",
+      "title": "干草捆，北约克郡，英格兰",
+      "description": "“趁着阳光明媚，赶紧打草”这句谚语听起来可能有些陈旧，但在农业领域，它却是实实在在的真理。打草捆在全球农业中扮演着至关重要的角色。这一过程包括割草、晾干和包装草料，以便在寒冷季节喂养牲畜。整个流程高度依赖天气条件：草料必须在打捆前完全干燥，否则容易发霉。农民必须在干旱天气来临时迅速行动，因此这成为了一场季节性的赛跑。",
+      "headline": "阳光明媚，赶紧打草",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250910_YorkshireHay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e7%ba%a6%e5%85%8b%e9%83%a1&form=BGABWCTA7&filters=HpDate:\"20250909_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250909",
       "fullstartdate": "20250909",
       "enddate": "20250910",

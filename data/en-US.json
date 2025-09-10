@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250909",
+      "fullstartdate": "20250909",
+      "enddate": "20250910",
+      "urlbase": "https://www.bing.com/th?id=OHR.SwissSquirrel_EN-US8185093853_UHD.jpg",
+      "copyrighttext": "© Jean-Luc and Francoise Ziegler/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Eurasian+red+squirrel&form=BGALM&filters=HpDate:\"20250909_0700\"",
+      "title": "A female Eurasian red squirrel carrying moss, Switzerland",
+      "description": "Quick, clever, and always on the move—meet the Eurasian red squirrel, a leafy treetop resident found across much of Europe and Asia. While it prefers the shelter of forests, this agile creature easily adapts to gardens and parks. It builds its nest, called a drey, high in the fork of a tree using twigs to form a domed structure about 10 to 12 inches wide. The female featured here is gathering moss—one of several soft materials, along with bark, leaves, and grass, that line the nest and turn it into a snug, well-insulated retreat. These rodents may also take over tree hollows or abandoned woodpecker holes when available.",
+      "headline": "Twig by twig, she prepares",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250909_SwissSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 9, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "20250909",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "A chance to win $1,000,000 USD",
+        "ButtonText": "Microsoft Rewards Ultimate Giveaway",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://rewards.bing.com/sweepstakes/million/about?form=MY02P5&OCID=MY02P5&PUBL=BINGIP&CREA=MY02P13"
+        ],
+        "CTAType": 1,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Microsoft Rewards Ultimate Giveaway"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eurasian+red+squirrel&form=BGABWCTA7&filters=HpDate:\"20250909_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250908",
       "fullstartdate": "20250908",
       "enddate": "20250909",
