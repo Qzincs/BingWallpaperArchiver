@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_DE-DE4354679644_UHD.jpg",
+      "copyrighttext": "© Daniel Viñé Garcia/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nationalpark+Monfrag%c3%bce&form=BGALM&filters=HpDate:\"20250910_2200\"",
+      "title": "Geierfelsen (Peña Falcon) am Fluss Tajo im Nationalpark Monfragüe, Spanien",
+      "description": "Im Herzen der spanischen Region Extremadura, im Norden der Provinz Cáceres, liegt der Nationalpark Monfragüe – eines der letzten unberührten Ökosysteme Europas. Er ist der einzige Nationalpark der Region und ein wahres Paradies für Natur- und Vogelliebhaber. Der Zusammenfluss der Flüsse Tajo und Tiétar hat hier eine Landschaft aus Steineichen, Korkeichen, sanften Hügeln und mächtigen Felsen geschaffen, die Lebensraum für die größte Mönchsgeierkolonie der Welt bietet. Besonders bekannt ist der Peña Falcón, der imposante „Geierfelsen“. Der weithin als „Salto del Gitano“ bezeichnete Aussichtspunkt liegt rund 300 Meter über dem Tal und gilt als das meistfotografierte Motiv von Monfragüe. Hier kreisen majestätische Gänsegeier, Mönchsgeier und sogar seltene Kaiseradler über den Köpfen der Besucher. Mit etwas Glück lassen sich die Vögel aus nächster Nähe beim Brüten oder Jagen beobachten.",
+      "headline": "Ein Blick in den Himmel lohnt sich!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.810879,-5.908372/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=39.810879,-5.908372;S9;Nationalpark Monfragüe, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Parque%20Nacional%20de%20Monfrag%C3%BCe&vdpid=5667773593585451009&ss=ypid.YN6306x14061639284600350946&mb=39.916349~-6.109929~39.677279~-5.751226&description=10695%2C%20Villareal%20de%20San%20Carlos%20%28C%C3%A1ceres%29%C2%B7Parque%20nacional&cardbg=%233DB838&dt=1754564400000&tt=Parque%20Nacional%20de%20Monfrag%C3%BCe&tsts0=%2526ty%253D30%2526q%253DParque%252520Nacional%252520de%252520Monfrag%2525C3%2525BCe%2526vdpid%253D5667773593585451009%2526ss%253Dypid.YN6306x14061639284600350946%2526mb%253D39.916349~-6.109929~39.677279~-5.751226%2526description%253D10695%25252C%252520Villareal%252520de%252520San%252520Carlos%252520%252528C%2525C3%2525A1ceres%252529%2525C2%2525B7Parque%252520nacional%2526cardbg%253D%2525233DB838%2526dt%253D1754564400000&tstt0=Parque%20Nacional%20de%20Monfrag%C3%BCe&cp=39.852036~-6.049324&lvl=9.496789&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Spanien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nationalpark+Monfrag%c3%bce&form=BGABWCTA6&filters=HpDate:\"20250910_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Spanien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Spanien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",

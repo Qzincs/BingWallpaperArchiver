@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.ButterflyBeach_EN-IN0695823552_UHD.jpg",
+      "copyrighttext": "© Puneet Vikram Singh, Nature and Concept photographer/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Butterfly+Beach+Goa&form=BGALM&filters=HpDate:\"20250910_1830\"",
+      "title": "Butterfly Beach in Canacona, South Goa",
+      "description": "Only 6 kilometres north of Palolem Beach in South Goa's Canacona region, Butterfly Beach is a secluded cove where turquoise waters meet soft white sand. What truly sets this beach apart is its unique butterfly shape. While this distinctive form draws many curious tourists, it is the tranquil, uncrowded shoreline that has quietly made it one of South Goa's most cherished destinations. It is also said that, now and then, butterflies can be spotted fluttering among the surrounding plants and trees. Dolphins are also known to make playful appearances just off the shore. Unlike busier beaches like Anjuna and Calangute, this peaceful cove offers a more intimate encounter. The beach is also renowned for its vibrant marine life; at low tide, colourful crabs and starfish appear along the shore. Adding to its charm, the lush green forests that embrace the cove create a stunning natural backdrop, making every visit a picture-perfect experience.",
+      "headline": "Jewel beyond the tides",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ButterflyBeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/15.01953,74.001892/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=15.01953,74.001892;S9;Butterfly Beach in Canacona, South Goa&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Butterfly%20Beach&ss=ypid.YN4070x15592396827124755257&segment=Attraction&mb=15.02483~73.995203~15.014224~74.008582&description=South%20Goa%20District%2C%20Palolem%2C%20Goa%20403702&poicount=18&cardbg=%23219AB6&dt=1754991000000&tt=Butterfly%20Beach&tsts0=%2526ty%253D18%2526q%253DButterfly%252520Beach%2526ss%253Dypid.YN4070x15592396827124755257%2526segment%253DAttraction%2526mb%253D15.02483~73.995203~15.014224~74.008582%2526description%253DSouth%252520Goa%252520District%25252C%252520Palolem%25252C%252520Goa%252520403702%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1754991000000&tstt0=Butterfly%20Beach&cp=13.745096~72.622404&lvl=6.68929&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+South+Goa&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Butterfly+Beach+Goa&form=BGABWCTA6&filters=HpDate:\"20250910_1830\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  South Goa"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++South+Goa&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",

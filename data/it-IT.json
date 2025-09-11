@@ -1,6 +1,73 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_IT-IT9213887969_UHD.jpg",
+      "copyrighttext": "© Daniel Viñé Garcia/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Il+parco+nazionale+di+Monfrag%c3%bce+un+parco+in+Estremadura+in+Spagna&form=BGALM&filters=HpDate:\"20250910_2200\"",
+      "title": "Peña Falcon sul fiume Tago nel Parco Nazionale di Monfragüe, Spagna",
+      "description": "Scoprite il Parco Nazionale di Monfragüe, un gioiello naturale nel cuore dell’Estremadura, in Spagna. Dal belvedere del Salto del Gitano, a Cáceres, si ammira uno dei tramonti più suggestivi della penisola iberica, tra speroni rocciosi e cieli infuocati. I fiumi Tago e Tiétar scolpiscono il paesaggio e nutrono una biodiversità mediterranea straordinaria. Grifoni, aquile imperiali e capovaccai sorvolano liberi questo paradiso, che di notte si trasforma in un teatro di stelle grazie alla purezza del cielo.",
+      "headline": "Ombre, creste e stelle",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.810879,-5.908372/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=39.810879,-5.908372;S9;Parco Nazionale di Monfragüe, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Parque%20Nacional%20de%20Monfrag%C3%BCe&vdpid=5667773593585451009&ss=ypid.YN6306x14061639284600350946&mb=39.916349~-6.109929~39.677279~-5.751226&description=10695%2C%20Villareal%20de%20San%20Carlos%20%28C%C3%A1ceres%29%C2%B7Parque%20nacional&cardbg=%233DB838&dt=1754564400000&tt=Parque%20Nacional%20de%20Monfrag%C3%BCe&tsts0=%2526ty%253D30%2526q%253DParque%252520Nacional%252520de%252520Monfrag%2525C3%2525BCe%2526vdpid%253D5667773593585451009%2526ss%253Dypid.YN6306x14061639284600350946%2526mb%253D39.916349~-6.109929~39.677279~-5.751226%2526description%253D10695%25252C%252520Villareal%252520de%252520San%252520Carlos%252520%252528C%2525C3%2525A1ceres%252529%2525C2%2525B7Parque%252520nacional%2526cardbg%253D%2525233DB838%2526dt%253D1754564400000&tstt0=Parque%20Nacional%20de%20Monfrag%C3%BCe&cp=39.852036~-6.049324&lvl=9.496789&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Spagna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Il+parco+nazionale+di+Monfrag%c3%bce+un+parco+in+Estremadura+in+Spagna&form=BGABWCTA6&filters=HpDate:\"20250910_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 1,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Spagna"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Spagna&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",

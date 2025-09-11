@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_ES-ES8041175238_UHD.jpg",
+      "copyrighttext": "© Daniel Viñé Garcia/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=BGALM&filters=HpDate:\"20250910_2200\"",
+      "title": "Vista desde el Salto del Gitano, Parque Nacional de Monfragüe, Cáceres, Extremadura, España",
+      "description": "Descubre el Parque Nacional de Monfragüe, un tesoro natural en el corazón de Extremadura. Desde el mirador del Salto del Gitano, en Cáceres, se contempla uno de los atardeceres más bellos de España, entre riscos de piedra y cielos teñidos de fuego. Dos ríos atraviesan el parque —el Tajo y el Tiétar—, modelando su paisaje escarpado y alimentando una gran diversidad de fauna y vegetación mediterránea. Este paraíso es ideal para los amantes de la naturaleza y las aves. En libertad, sobrevuelan el parque el buitre leonado —con la mayor colonia de Europa—, el águila imperial ibérica y el alimoche, entre otras especies que lo convierten en un referente de la biodiversidad.",
+      "headline": "¡Prepárate para mirar al cielo!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=BGABWCTA7&filters=HpDate:\"20250910_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",
