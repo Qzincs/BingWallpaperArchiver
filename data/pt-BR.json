@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_PT-BR7599252573_UHD.jpg",
+      "copyrighttext": "© Daniel Viñé Garcia/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=BGALM&filters=HpDate:\"20250911_0300\"",
+      "title": "Vista do Salto del Gitano, Parque Nacional de Monfragüe, Cáceres, Extremadura, Espanha",
+      "description": "A luz suave que envolve o Salto del Gitano, no Parque Nacional de Monfragüe, na Espanha, anuncia o fim do dia — e prepara o palco para um espetáculo que se prolonga para além do visível. Ao cair da noite, o céu se revela em sua plenitude: estrelas e planetas surgem como centelhas, e a Via Láctea se estende como um rio de luz no tecido escuro do universo.",
+      "headline": "Ao infinito e além",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Monfrag%c3%bce&form=BGABWCTA7&filters=HpDate:\"20250911_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",

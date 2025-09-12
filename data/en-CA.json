@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExtremaduraJamon_EN-CA6493942250_UHD.jpg",
+      "copyrighttext": "© Daniel Viñé Garcia/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monfrag%c3%bce+National+Park&form=BGALM&filters=HpDate:\"20250911_0400\"",
+      "title": "View from Salto del Gitano, Monfragüe National Park, Cáceres, Extremadura, Spain",
+      "description": "Discover Monfragüe National Park, a natural treasure in the heart of Extremadura, Spain. From the viewpoint of Salto del Gitano, in Cáceres, you can enjoy one of the most stunning sunsets in the country, surrounded by rocky cliffs and skies painted in gold. Two rivers cross the park—the Tagus and the Tiétar—shaping its rugged landscape and nourishing a rich variety of wildlife and Mediterranean vegetation. This paradise is perfect for nature and bird lovers. Soaring freely over the park are griffon vultures—Spain is home to the largest colony in Europe—along with Spanish imperial eagles and Egyptian vultures, making it a true biodiversity hotspot.",
+      "headline": "Get ready to look up at the sky!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_ExtremaduraJamon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.810879,-5.908372/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=39.810879,-5.908372;S9;Monfragüe National Park, Cáceres, Extremadura, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Monfrag%C3%BCe%20National%20Park&vdpid=5667773593585451009&ss=ypid.YN6306x14061639284600350946&mb=39.884857~-6.13913~39.708866~-5.722025&description=Villareal%20de%20San%20Carlos%2C%2010695%2C%20Villareal%20de%20San%20Carlos%20%28C%C3%A1ceres%29%C2%B7Parque%20nacional&cardbg=%233DB838&dt=1755505800000&tt=Monfrague%20National%20Park&tsts0=%2526ty%253D30%2526q%253DMonfrag%2525C3%2525BCe%252520National%252520Park%2526vdpid%253D5667773593585451009%2526ss%253Dypid.YN6306x14061639284600350946%2526mb%253D39.884857~-6.13913~39.708866~-5.722025%2526description%253DVillareal%252520de%252520San%252520Carlos%25252C%25252010695%25252C%252520Villareal%252520de%252520San%252520Carlos%252520%252528C%2525C3%2525A1ceres%252529%2525C2%2525B7Parque%252520nacional%2526cardbg%253D%2525233DB838%2526dt%253D1755505800000&tstt0=Monfrague%20National%20Park&cp=38.363776~-9.005735&lvl=5.98&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Monfrag%c3%bce+National+Park%2c+C%c3%a1ceres%2c+Extremadura%2c+Spain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Monfragüe National Park, Cáceres, Extremadura, Spain"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Monfrag%c3%bce+National+Park%2c+C%c3%a1ceres%2c+Extremadura%2c+Spain&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",

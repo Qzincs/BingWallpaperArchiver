@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250912",
+      "fullstartdate": "20250912",
+      "enddate": "20250913",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_EN-IN0873508505_UHD.jpg",
+      "copyrighttext": "© Franco Banfi/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=World+Dolphin+Day&form=BGALM&filters=HpDate:\"20250911_1830\"",
+      "title": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt",
+      "description": "With lifelong bonds, signature whistles and echolocation, dolphins are more than just smart swimmers. First observed in 2022, World Dolphin Day shines a light on these intelligent marine mammals and the oceans they rely on. Over 40 dolphin species swim our seas, from the Māui dolphin to the Irrawaddy dolphin. They're expert navigators, problem-solvers and team players. Some even form superpods—temporary gatherings of hundreds or thousands of dolphins moving together offshore.",
+      "headline": "Swim wild, swim free",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.068251,34.889881/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=25.068251,34.889881;S9;Marsa Alam, Egypt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN8054x16224521654296925791&mb=41.374814~9.803022~6.316143~59.963449&description=M65%2C%20Qesm%20Marsa%20Alem%2C%20Red%20Sea%20Governorate%2084712%C2%B7Stadt%2FDorf&dt=1753439400000&tt=Marsa%20Alam&tsts0=%2526ty%253D18%2526ss%253Dypid.YN8054x16224521654296925791%2526mb%253D41.374814~9.803022~6.316143~59.963449%2526description%253DM65%25252C%252520Qesm%252520Marsa%252520Alem%25252C%252520Red%252520Sea%252520Governorate%25252084712%2525C2%2525B7Stadt%25252FDorf%2526dt%253D1753439400000&tstt0=Marsa%20Alam&cp=25.08478~7.09335&lvl=4.48&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Marsa+Alam%2c+Egypt&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Marsa Alam, Egypt"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Marsa+Alam%2c+Egypt&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250911",
       "fullstartdate": "20250911",
       "enddate": "20250912",

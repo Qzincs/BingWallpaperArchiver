@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250912",
+      "fullstartdate": "20250912",
+      "enddate": "20250913",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpaceDay2025_JA-JP8112086826_UHD.jpg",
+      "copyrighttext": "© norinori303/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%a8%ae%e5%ad%90%e5%b3%b6%e5%ae%87%e5%ae%99%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc&form=BGALM&filters=HpDate:\"20250911_1500\"",
+      "title": "種子島宇宙センター, 鹿児島県",
+      "description": "今日 9 月 12 日は「宇宙の日」。1992 年は、宇宙や地球環境について世界中が考える年として「国際宇宙年」に定められ、これを記念して「宇宙の日」が制定されました。9 月 12 日という日付は、同年に宇宙飛行士・毛利衛さんがスペースシャトル「エンデバー」で宇宙へ飛び立った日であり、一般公募によって記念日として選ばれました…",
+      "headline": "今日は宇宙の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpaceDay2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.374819,130.957611/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=30.374819,130.957611;S9;種子島宇宙センター&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E7%A8%AE%E5%AD%90%E5%B3%B6%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&ss=ypid.YN5286x10633979996502174727&tt=%E7%A8%AE%E5%AD%90%E5%B3%B6%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%20%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E6%8A%80%E8%A1%93%E9%A4%A8&cp=30.362494~130.862092&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 12 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e9%b9%bf%e5%85%90%e5%b3%b6%e7%9c%8c+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 鹿児島県 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e9%b9%bf%e5%85%90%e5%b3%b6%e7%9c%8c+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250911",
       "fullstartdate": "20250911",
       "enddate": "20250912",

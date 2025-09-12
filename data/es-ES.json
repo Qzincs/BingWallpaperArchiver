@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250912",
+      "fullstartdate": "20250912",
+      "enddate": "20250913",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_ES-ES8128013547_UHD.jpg",
+      "copyrighttext": "© Franco Banfi/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=delf%c3%adn+girador&form=BGALM&filters=HpDate:\"20250911_2200\"",
+      "title": "Manada de delfines giradores en el Mar Rojo, Marsa Alam, Egipto",
+      "description": "Con vínculos de por vida, silbidos únicos y ecolocalización, los delfines son mucho más que nadadores expertos. Desde 2022, el Día Mundial del Delfín busca dar a conocer su asombroso comportamiento y las amenazas que enfrentan, recordándonos que dependen de mares saludables. Más de 40 especies surcan los océanos, desde el delfín de Māui hasta el Irrawaddy. Son navegantes precisos, resolutivos y cooperativos; algunos incluso forman grandes agrupaciones temporales que reúnen a cientos o miles de ejemplares viajando juntos en alta mar.",
+      "headline": "Nada salvaje, nada libre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=delf%c3%adn+girador&form=BGABWCTA7&filters=HpDate:\"20250911_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250911",
       "fullstartdate": "20250911",
       "enddate": "20250912",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250911",
+      "fullstartdate": "20250911",
+      "enddate": "20250912",
+      "urlbase": "https://www.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg",
+      "copyrighttext": "© Tetra Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Patriot+Day&form=BGALM&filters=HpDate:\"20250911_0700\"",
+      "title": "Statue of Liberty and Lower Manhattan, New York City",
+      "description": "September 11, 2001, began like any other day—until history changed in an instant. Nearly 3,000 innocent lives were lost in the terrorist attacks on the World Trade Center, the Pentagon, and aboard United Airlines Flight 93. Today, on Patriot Day, we honor the fallen and the countless acts of courage that emerged in the face of tragedy, from firefighters and first responders to ordinary citizens who became heroes. At 8:46 AM Eastern Time—the moment the first plane struck the North Tower—Americans observe a moment of silence. Permanent memorials now stand at each of the three sites. Visiting one or volunteering in your community is a meaningful way to participate in the National Day of Service and honor those who continue to serve.",
+      "headline": "In unity and remembrance",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250911_LibertyManhattan\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.71278,-74.00611/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=40.71278,-74.00611;S9;New York City&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=new%20york%20city&satid=id.sid%3A60d5dc2b-c915-460b-b722-c9e3485499ca&vdpid=5487505297524129794&mb=41.066734~-74.745926~40.353453~-73.26722&cardbg=%23F98745&tt=New%20York%2C%20New%20York%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dnew%252520york%252520city%2526satid%253Did.sid%25253A60d5dc2b-c915-460b-b722-c9e3485499ca%2526vdpid%253D5487505297524129794%2526mb%253D41.066734~-74.745926~40.353453~-73.26722%2526cardbg%253D%252523F98745&tstt0=New%20York%2C%20New%20York%2C%20United%20States&cp=40.65214~-82.810232&lvl=5.29&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+New+York+City&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  New York City"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++New+York+City&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250910",
       "fullstartdate": "20250910",
       "enddate": "20250911",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250912",
+      "fullstartdate": "20250912",
+      "enddate": "20250913",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.SpinnerDolphins_ZH-CN9731341241_UHD.jpg",
+      "copyrighttext": "© Franco Banfi/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e8%b1%9a%e6%97%a5&form=BGALM&filters=HpDate:\"20250911_1600\"",
+      "title": "红海中的飞旋海豚群, 阿拉姆港, 埃及",
+      "description": "凭借终身伴侣关系、独特的鸣叫声和回声定位能力，海豚远不止是聪明的游泳者。自2022年首次被观察到以来，世界海豚日旨在关注这些聪明的海洋哺乳动物及其赖以生存的海洋环境。这一天鼓励人们了解它们的行为以及所面临的威胁。超过40种海豚在我们的海洋中游弋，从毛伊海豚到伊洛瓦底海豚。它们是卓越的导航者、问题解决者和团队合作者。有些甚至会形成超级群落——数百或数千只海豚在近海共同迁徙的临时聚集。",
+      "headline": "野性畅游，自在徜徉",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 12",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e6%b5%b7%e8%b1%9a%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20250911_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250911",
       "fullstartdate": "20250911",
       "enddate": "20250912",
