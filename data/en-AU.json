@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250912",
+      "fullstartdate": "20250912",
+      "enddate": "20250913",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_ROW7589569967_UHD.jpg",
+      "copyrighttext": "© Franco Banfi/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Spinner+dolphin&form=BGALM&filters=HpDate:\"20250912_0700\"",
+      "title": "Spinner dolphin pod in the Red Sea, Marsa Alam, Egypt",
+      "description": "With lifelong bonds, signature whistles and echolocation, dolphins are more than just smart swimmers. Over 40 dolphin species swim our seas, from the Māui dolphin to the Irrawaddy dolphin. They're expert navigators, problem-solvers and team players. Some even form super pods—temporary gatherings of hundreds or thousands of dolphins moving together offshore.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Spinner+dolphin&form=BGABWCTA7&filters=HpDate:\"20250912_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250911",
       "fullstartdate": "20250911",
       "enddate": "20250912",

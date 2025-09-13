@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_JA-JP7685899201_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88%e3%83%bb%e3%83%ac%e3%82%a4%e3%82%ba%e5%9b%bd%e5%ae%9a%e6%b5%b7%e5%b2%b8&form=BGALM&filters=HpDate:\"20250912_1500\"",
+      "title": "ポイント・レイズ国定海岸, 米国 カリフォルニア州",
+      "description": "米国・サンフランシスコから北へ約 50km に位置するポイント・レイズ国定海岸。1962 年、自然保護を目的に設立されました。広さは約 260km² で、ヘラジカや野ウサギなどの動物が生息しており、荒々しい地形と美しい海岸線が特徴的です…",
+      "headline": "チムニー・ロックの美しい海岸",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.043972,-122.798416/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.043972,-122.798416;S9;チムニー・ロック, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&ss=ypid.YN873x15731574389794398308&mb=38.05033~-122.813566~38.037605~-122.783267&description=1%20Bear%20Valley%20Rd%2C%20Point%20Reyes%20Station%2C%20Ca%2094956%C2%B7Hiking%20area&cardbg=%23219AB6&dt=1753446600000&tt=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&tsts0=%2526ty%253D18%2526q%253DChimney%252520Rock%252520Point%252520Reyes%252520National%252520Seashore%2526ss%253Dypid.YN873x15731574389794398308%2526mb%253D38.05033~-122.813566~38.037605~-122.783267%2526description%253D1%252520Bear%252520Valley%252520Rd%25252C%252520Point%252520Reyes%252520Station%25252C%252520Ca%25252094956%2525C2%2525B7Hiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1753446600000&tstt0=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&cp=37.341737~-128.936347&lvl=5.644177&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 13 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 カリフォルニア州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_ES-ES8209669177_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Costa+Nacional+de+Point+Reyes&form=BGALM&filters=HpDate:\"20250912_2200\"",
+      "title": "Chimney Rock, Costa Nacional de Point Reyes, California, EE. UU.",
+      "description": "No está pulido ni domesticado, y ese es su encanto. Si viajas a Estados Unidos, a poco más de una hora al norte de San Francisco encontrarás la Costa Nacional de Point Reyes, donde la niebla avanza lentamente, los alces tule deambulan libres y el tiempo parece detenerse. Creado por el Congreso en 1962, este parque protege más de 260 kilómetros cuadrados de praderas costeras, acantilados ventosos, playas y bosques de abetos Douglas.",
+      "headline": "Escarpado y salvaje",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Costa+Nacional+de+Point+Reyes&form=BGABWCTA7&filters=HpDate:\"20250912_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",

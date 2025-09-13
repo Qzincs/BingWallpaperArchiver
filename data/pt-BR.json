@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250912",
+      "fullstartdate": "20250912",
+      "enddate": "20250913",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpinnerDolphins_PT-BR7075724083_UHD.jpg",
+      "copyrighttext": "© Franco Banfi/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+do+Golfinho&form=BGALM&filters=HpDate:\"20250912_0300\"",
+      "title": "Grupo de golfinhos-rotadores no Mar Vermelho, Marsa Alam, Egito",
+      "description": "Eles são os queridinhos dos oceanos, saltando e girando entre as ondas com uma inteligência que intriga cientistas há décadas. Navegadores habilidosos, solucionadores de problemas e verdadeiros jogadores de equipe, alguns formam superbandos temporários nas águas abertas — centenas ou milhares de golfinhos nadando em uma coreografia de socialização e sobrevivência.",
+      "headline": "Cada mergulho é um splash!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250912_SpinnerDolphins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Mundial+do+Golfinho&form=BGABWCTA7&filters=HpDate:\"20250912_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250911",
       "fullstartdate": "20250911",
       "enddate": "20250912",

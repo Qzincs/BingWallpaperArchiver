@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "https://www.bing.com/th?id=OHR.PromsNight2025_EN-GB2154998430_UHD.jpg",
+      "copyrighttext": "© Gonzalo Azumendi/Stone/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=BBC+Proms&form=BGALM&filters=HpDate:\"20250912_2300\"",
+      "title": "Royal Albert Hall, South Kensington, London",
+      "description": "It starts with a baton and ends with a bang. The Last Night of the Proms is where one of the world's biggest classical festivals signs off in style. For eight weeks, the BBC Proms fills London's Royal Albert Hall, pictured here, with world-class orchestras and soloists. But the final night? That's the one everyone talks about. It's part concert, part singalong, part flag-waving party.",
+      "headline": "Ending on a high note",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PromsNight2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.50098,-0.177389/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.50098,-0.177389;S9;Royal Albert Hall, London&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Royal%20Albert%20Hall&ss=ypid.YN1098x260904710&mb=51.505384~-0.185115~51.496581~-0.169666&description=Kensington%20Gore%2C%20London%20SW7%202AP&cardbg=%23219AB6&dt=1755171000000&tt=Royal%20Albert%20Hall&tsts0=%2526ty%253D18%2526q%253DRoyal%252520Albert%252520Hall%2526ss%253Dypid.YN1098x260904710%2526mb%253D51.505384~-0.185115~51.496581~-0.169666%2526description%253DKensington%252520Gore%25252C%252520London%252520SW7%2525202AP%2526cardbg%253D%252523219AB6%2526dt%253D1755171000000&tstt0=Royal%20Albert%20Hall&cp=51.967211~-18.888751&lvl=5.058919&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+South+Kensington%2c+London&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  South Kensington, London"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++South+Kensington%2c+London&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",

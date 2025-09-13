@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.PointReyesSeashore_ZH-CN0076789582_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%9b%b7%e6%96%af%e5%b2%ac%e5%9b%bd%e5%ae%b6%e6%b5%b7%e5%b2%b8&form=BGALM&filters=HpDate:\"20250912_1600\"",
+      "title": "烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国",
+      "description": "这里没有经过精心打磨或精心策划——而这正是它的精髓所在。从旧金山向北驱车仅需一个多小时，便可抵达点雷斯岬国家海岸公园——一个雾气缓缓飘荡、 tule 鹿自由漫步、时间仿佛停滞的地方。该公园于1962年的今天由国会设立，旨在保护这片海岸线，供公众游览和环境保护之用。公园面积超过100平方英里，拥有令人惊叹的景观，从沿海草原和风吹雨打的岬角，到沙滩和道格拉斯冷杉林。",
+      "headline": "崎岖而狂野",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%9b%b7%e6%96%af%e5%b2%ac%e5%9b%bd%e5%ae%b6%e6%b5%b7%e5%b2%b8&form=BGABWCTA7&filters=HpDate:\"20250912_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",

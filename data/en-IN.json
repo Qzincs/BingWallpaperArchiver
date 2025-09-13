@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_EN-IN1229615007_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore&form=BGALM&filters=HpDate:\"20250912_1830\"",
+      "title": "Chimney Rock, Point Reyes National Seashore, California, United States",
+      "description": "It's not polished or curated—and that's exactly the point. Drive just over an hour north of San Francisco, United States, and you'll reach Point Reyes National Seashore—a place where fog drifts slowly, tule elk roam freely and time seems to pause. It covers over 200 square kilometres and features an impressive array of landscapes, from coastal prairie and blustery headlands to sandy shores and Douglas fir woodlands.",
+      "headline": "Rugged and wild",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.043972,-122.798416/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=38.043972,-122.798416;S9;Chimney Rock, Point Reyes National Seashore, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&ss=ypid.YN873x15731574389794398308&mb=38.05033~-122.813566~38.037605~-122.783267&description=1%20Bear%20Valley%20Rd%2C%20Point%20Reyes%20Station%2C%20Ca%2094956%C2%B7Hiking%20area&cardbg=%23219AB6&dt=1753446600000&tt=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&tsts0=%2526ty%253D18%2526q%253DChimney%252520Rock%252520Point%252520Reyes%252520National%252520Seashore%2526ss%253Dypid.YN873x15731574389794398308%2526mb%253D38.05033~-122.813566~38.037605~-122.783267%2526description%253D1%252520Bear%252520Valley%252520Rd%25252C%252520Point%252520Reyes%252520Station%25252C%252520Ca%25252094956%2525C2%2525B7Hiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1753446600000&tstt0=Chimney%20Rock%20Point%20Reyes%20National%20Seashore&cp=37.341737~-128.936347&lvl=5.644177&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Point+Reyes+National+Seashore%2c+California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Point Reyes National Seashore, California, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Point+Reyes+National+Seashore%2c+California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",
