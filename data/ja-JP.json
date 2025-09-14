@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250914",
+      "fullstartdate": "20250914",
+      "enddate": "20250915",
+      "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_JA-JP8707934931_UHD.jpg",
+      "copyrighttext": "© Chris Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%94%e3%83%83%e3%82%af%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20250913_1500\"",
+      "title": "オリンピック国立公園, 米国 ワシントン州",
+      "description": "米国ワシントン州に位置するオリンピック国立公園。約 3,700km² の広大な面積を誇るオリンピック国立公園は、毎年 300 万人前後が訪れる人気観光地で、2024 年には 370 万人以上が来園しました。1909 年にセオドア・ルーズベルト大統領によって国定公園として設立され、1938 年に国立公園に指定、1981 年にはユネスコ世界遺産に登録されました…",
+      "headline": "苔と水が織りなす風景",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.870138,-123.96049/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.870138,-123.96049;S9;オリンピック国立公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Olympic%20National%20Park%2C%20Washington&vdpid=4854493766288932865&ss=ypid.YN928x15864942&mb=48.390381~-124.733223~47.401441~-123.121651&description=600%20E%20Park%20Ave%2C%20Port%20Angeles%2C%20WA%2098362&cardbg=%233DB838&dt=1753698600000&tt=Olympic%20National%20Park&tsts0=%2526ty%253D30%2526q%253DOlympic%252520National%252520Park%25252C%252520Washington%2526vdpid%253D4854493766288932865%2526ss%253Dypid.YN928x15864942%2526mb%253D48.390381~-124.733223~47.401441~-123.121651%2526description%253D600%252520E%252520Park%252520Ave%25252C%252520Port%252520Angeles%25252C%252520WA%25252098362%2526cardbg%253D%2525233DB838%2526dt%253D1753698600000&tstt0=Olympic%20National%20Park&cp=43.088359~-123.191643&lvl=4.9584427&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%b7%e3%83%b3%e3%83%88%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ワシントン州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%b7%e3%83%b3%e3%83%88%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250913",
       "fullstartdate": "20250913",
       "enddate": "20250914",

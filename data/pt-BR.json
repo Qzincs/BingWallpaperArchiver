@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_PT-BR6646395434_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore+na+Calif%c3%b3rnia&form=BGALM&filters=HpDate:\"20250913_0300\"",
+      "title": "Chimney Rock, Point Reyes National Seashore, Califórnia, EUA",
+      "description": "Na imagem do dia, a Chimney Rock, uma imponente formação rochosa na costa da Califórnia, Estados Unidos, se ergue sobre o Pacífico. Ela faz parte do Point Reyes National Seashore, um parque nacional que protege mais de 28 mil hectares de litoral intocado, penhascos dramáticos, pradarias, dunas e florestas costeiras. Aqui, a vegetação se move com o vento frio e úmido: abetos, gramíneas, líquens, arbustos e flores resistentes ao ar salgado formam um tapete verde que cobre boa parte dos 240 quilômetros de trilhas do parque.",
+      "headline": "Esculpida pelo Pacífico",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Point+Reyes+National+Seashore+na+Calif%c3%b3rnia&form=BGABWCTA7&filters=HpDate:\"20250913_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250913",
+      "fullstartdate": "20250913",
+      "enddate": "20250914",
+      "urlbase": "https://www.bing.com/th?id=OHR.PointReyesSeashore_ROW7684376877_UHD.jpg",
+      "copyrighttext": "© Enrique Aguirre Aves/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Point+Reyes+National+Seashore&form=BGALM&filters=HpDate:\"20250913_0700\"",
+      "title": "Chimney Rock, Point Reyes National Seashore, California, United States",
+      "description": "It's not polished or curated—and that's exactly the point. Drive just over an hour north of San Francisco, in the United States, and you'll reach Point Reyes National Seashore—a place where fog drifts slowly, tule elk roam freely and time seems to pause. Established by the US Congress in 1962, the park was set aside to protect this piece of coastline for public enjoyment and environmental conservation. It covers over 28,700 hectares and features an impressive array of landscapes, from coastal prairie and blustery headlands to sandy shores and Douglas fir woodlands.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250913_PointReyesSeashore\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Point+Reyes+National+Seashore&form=BGABWCTA7&filters=HpDate:\"20250913_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250912",
       "fullstartdate": "20250912",
       "enddate": "20250913",

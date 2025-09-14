@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250914",
+      "fullstartdate": "20250914",
+      "enddate": "20250915",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.HohWaterfall_ZH-CN0297269806_UHD.jpg",
+      "copyrighttext": "© Chris Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a5%a5%e6%9e%97%e5%8c%b9%e5%85%8b%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad+%e5%8d%8e%e7%9b%9b%e9%a1%bf&form=BGALM&filters=HpDate:\"20250913_1600\"",
+      "title": "奥林匹克国家公园的瀑布, 华盛顿, 美国",
+      "description": "奥林匹克国家公园拥有罕见的多元地形——这正是其独特魅力所在。这里汇聚了高山脊岭、宁静的森林，以及美国本土48州中最长的未开发海岸线之一。这片占地近1400平方英里的华盛顿州区域，作为联合国教科文组织世界遗产地，在2024年吸引了超过370万名游客。该地区最初于1909年由西奥多·罗斯福总统以“奥林匹斯山国家纪念碑”之名设立为保护区，并于1938年正式成为国家公园。",
+      "headline": "苔藓与薄雾",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 14",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a5%a5%e6%9e%97%e5%8c%b9%e5%85%8b%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad+%e5%8d%8e%e7%9b%9b%e9%a1%bf&form=BGABWCTA7&filters=HpDate:\"20250913_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250913",
       "fullstartdate": "20250913",
       "enddate": "20250914",
