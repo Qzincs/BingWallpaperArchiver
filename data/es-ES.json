@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.Echasse_ES-ES8443490175_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cig%c3%bce%c3%b1uelas+de+alas+negras&form=BGALM&filters=HpDate:\"20250914_2200\"",
+      "title": "Cigüeñuelas de alas negras, Francia",
+      "description": "Entre lagunas africanas, deltas asiáticos y marismas saladas del sur de Europa aparece una silueta elegante, suspendida entre el agua y el cielo: la cigüeñuela de alas negras. Con sus patas rojas, largas y finas, avanza con calma por aguas poco profundas, a veces en pareja, dibujando movimientos que parecen una coreografía secreta propia de los humedales.",
+      "headline": "Romance sobre el agua",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cig%c3%bce%c3%b1uelas+de+alas+negras&form=BGABWCTA7&filters=HpDate:\"20250914_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

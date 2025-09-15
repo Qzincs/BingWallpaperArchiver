@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.Echasse_IT-IT5616266756_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cavalieri+d%e2%80%99+Italia+uccello&form=BGALM&filters=HpDate:\"20250914_2200\"",
+      "title": "Cavalieri d’Italia, Francia",
+      "description": "Il cavaliere d’Italia, elegante e slanciato, incarna la grazia in volo e la poesia nel passo. Le sue zampe, le più lunghe in proporzione al corpo tra tutti gli uccelli, gli permettono di cercare cibo anche dove l’acqua si fa profonda. Con movimenti precisi e aggraziati, cattura insetti, larve e piccoli crostacei dalla superficie, sfiorando appena il mondo che lo nutre. Il suo nome evoca nobiltà: ricorda l’eleganza di un cavaliere in parata, slanciato e fiero, vestito di bianco e nero come in un’antica cerimonia. Il contrasto tra le piume candide e le ali scure lo rende inconfondibile, quasi come un simbolo araldico in volo. La sua presenza è segno di equilibrio: dove vola il cavaliere d’Italia, la natura respira, dove scompare, qualcosa si spezza.",
+      "headline": "L'amore cammina leggero",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cavalieri+d%e2%80%99+Italia+uccello&form=BGABWCTA7&filters=HpDate:\"20250914_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

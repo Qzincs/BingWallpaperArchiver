@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.Echasse_ZH-CN0670369582_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%bb%91%e7%bf%85%e9%95%bf%e8%84%9a%e9%b9%ac&form=BGALM&filters=HpDate:\"20250914_1600\"",
+      "title": "黑翅长脚鹬, 法国",
+      "description": "在非洲闪烁的泻湖、亚洲蜿蜒的三角洲以及南欧的盐沼之间，一个优雅的身影悄然浮现，轻盈地徘徊于水天之间。黑翅长脚鹬以其修长纤细的红色双腿，在浅滩间悄然移动，举止间透着宁静的优雅。它们的存在有时会带来一种宁静的亲密感——两只鸟儿贴近漂浮，动作如同一场 delicate 的舞蹈，仿佛在分享一个只有湿地才能听到的秘密。它们以安静的精准度狩猎，轻轻地从水面拾取昆虫、幼虫和小型甲壳类动物。每一个动作都展现出对环境的微妙掌控，这种掌控力源于耐心与本能的结合。",
+      "headline": "涉水寻迹",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 15",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%bb%91%e7%bf%85%e9%95%bf%e8%84%9a%e9%b9%ac&form=BGABWCTA7&filters=HpDate:\"20250914_1600\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.Echasse_EN-IN1542383073_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Black-winged+stilt&form=BGALM&filters=HpDate:\"20250914_1830\"",
+      "title": "Black-winged stilts, France",
+      "description": "Across the shimmering lagoons of Africa, the winding deltas of Asia and the salt marshes of southern Europe, a graceful figure emerges—poised delicately between water and sky. The black-winged stilt, with its long slender red legs, moves with quiet elegance through the shallows. At times their presence carries a sense of intimacy—two birds drifting close, their movements mirroring each other in a delicate choreography as if sharing a secret only the wetlands can hear. They hunt with patient precision, gently picking insects, larvae and tiny crustaceans from the water's surface. Every movement reflects a subtle mastery of their environment, shaped by patience and instinct.",
+      "headline": "Wading for a sign",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47,2/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=47,2;S9;France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=France&satid=id.sid%3Ac7bfe2de-4f82-e23c-ae42-8544b5b5c0ea&vdpid=84&mb=50.961682~-10.240019~41.241693~14.658891&cardbg=%23F98745&tt=France&tsts0=%2526ty%253D30%2526q%253DFrance%2526satid%253Did.sid%25253Ac7bfe2de-4f82-e23c-ae42-8544b5b5c0ea%2526vdpid%253D84%2526mb%253D50.961682~-10.240019~41.241693~14.658891%2526cardbg%253D%252523F98745&tstt0=France&cp=45.862261~-15.877268&lvl=3.0961177&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  France"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++France&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

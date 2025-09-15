@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250914",
+      "fullstartdate": "20250914",
+      "enddate": "20250915",
+      "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_ROW7820858130_UHD.jpg",
+      "copyrighttext": "© Chris Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Olympic+National+Park+Washington&form=BGALM&filters=HpDate:\"20250914_0700\"",
+      "title": "A waterfall in Olympic National Park, Washington, United States",
+      "description": "Olympic National Park covers a rare mix of terrain—and that's part of its unique appeal. Alpine ridges, quiet forests and one of the longest stretches of undeveloped coastline in the lower 48 of the United States all meet here. Spanning nearly 373,500 hectares in Washington State, this UNESCO World Heritage Site drew over 3.7 million visitors in 2024. Originally protected in 1909 as Mount Olympus National Monument by President Theodore Roosevelt, the area became a national park in 1938.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Olympic+National+Park+Washington&form=BGABWCTA7&filters=HpDate:\"20250914_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250913",
       "fullstartdate": "20250913",
       "enddate": "20250914",

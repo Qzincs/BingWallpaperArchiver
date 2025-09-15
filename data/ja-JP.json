@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.AgedDay2025_JA-JP9424136979_UHD.jpg",
+      "copyrighttext": "© Scott Suriano/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%af%e3%82%b7%e3%83%9f%e3%83%9f%e3%82%ba%e3%82%af&form=BGALM&filters=HpDate:\"20250914_1500\"",
+      "title": "アメリカワシミミズク",
+      "description": "今日は「敬老の日」であり、また「老人の日」でもあります。敬老の日は、高齢者を敬い、その長寿を祝福することを目的としている一方、老人の日は老人福祉への理解や関心を高めることを目的としています。また、今日から一週間は「老人週間」とされ、高齢者の社会参加・ボランティア活動の促進、高齢者の人権の尊重等に関連したさまざまな取り組みが行われます…",
+      "headline": "今日は敬老の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_AgedDay2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 15 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%af%e3%82%b7%e3%83%9f%e3%83%9f%e3%82%ba%e3%82%af&form=BGABWCTA7&filters=HpDate:\"20250914_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.Echasse_DE-DE5356832083_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Stelzenl%c3%a4ufer&form=BGALM&filters=HpDate:\"20250914_2200\"",
+      "title": "Stelzenläufer, Frankreich",
+      "description": "Mit seinen langen, roten Beinen und dem schwarz-weißen Gefieder schreitet der Stelzenläufer anmutig durch flache Gewässer. Oft sieht man Paare, die sich synchron bewegen – fast wie ein stiller Tanz, der nur diesen Watvögeln gehört. Dank seiner langen Beine kann er auch in tieferem Wasser nach Nahrung suchen. Im Verhältnis zum Körper sind seine Beine übrigens die längsten aller Vogelarten. Der Stelzenläufer ernährt sich von Insekten, Larven und kleinen Krebstieren, die er mit präzisen Bewegungen von der Wasseroberfläche pickt. Seine Anwesenheit gilt als Zeichen für ein intaktes Ökosystem – sein Verschwinden dagegen als Warnsignal. Der wärmeliebende Zugvogel lebt vor allem im Mittelmeerraum, wo er an Lagunen, Küstensümpfen, Teichen oder Salinen zu finden ist. Die Wintermonate verbringt er überwiegend in Afrika, nur selten bleibt er in Südeuropa.",
+      "headline": "Anmutig und stimmfreudig",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Stelzenl%c3%a4ufer&form=BGABWCTA7&filters=HpDate:\"20250914_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

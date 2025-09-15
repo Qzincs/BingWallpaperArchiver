@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250914",
+      "fullstartdate": "20250914",
+      "enddate": "20250915",
+      "urlbase": "https://www.bing.com/th?id=OHR.HohWaterfall_PT-BR6671892401_UHD.jpg",
+      "copyrighttext": "© Chris  Moore/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Olympic+nos+EUA&form=BGALM&filters=HpDate:\"20250914_0300\"",
+      "title": "Cachoeira no Parque Nacional Olympic, Washington, EUA",
+      "description": "Cumes alpinos, florestas tropicais, rios serpenteantes e litoral intocado — tudo em um só lugar. Bem-vindo ao Parque Nacional Olympic, em Washington, um mosaico improvável de ecossistemas, como mostra nossa imagem do dia. Criado em 1909 e elevado à categoria de parque nacional em 1938, seus mais de 3.500 km² abrigam uma das maiores faixas de costa selvagem dos Estados Unidos.",
+      "headline": "Natureza em alta definição",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250914_HohWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Olympic+nos+EUA&form=BGABWCTA7&filters=HpDate:\"20250914_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250913",
       "fullstartdate": "20250913",
       "enddate": "20250914",
