@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_JA-JP1432094253_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%aa%e3%82%be%e3%83%b3%e5%b1%a4%e4%bf%9d%e8%ad%b7%e3%83%87%e3%83%bc&form=BGALM&filters=HpDate:\"20250915_1500\"",
+      "title": "高度約 360km から撮影したガルフコースト",
+      "description": "今日 9 月 16 日は国際オゾン層保護デー。1987 年の今日、オゾン層保護のための議定書「モントリオール議定書」がカナダで採択されたことを記念し、国連総会で定められた国際記念日です。日本では、9 月を「オゾン層保護対策推進月間」とし、毎年様々な普及啓発活動を行っています…",
+      "headline": "今日は国際オゾン層保護デー",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 16 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9b%bd%e9%9a%9b%e3%82%aa%e3%82%be%e3%83%b3%e5%b1%a4%e4%bf%9d%e8%ad%b7%e3%83%87%e3%83%bc&form=BGABWCTA7&filters=HpDate:\"20250915_1500\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

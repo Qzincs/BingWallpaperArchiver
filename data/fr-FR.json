@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_FR-FR6213796059_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Protection+de+la+couche+d%27ozone&form=BGALM&filters=HpDate:\"20250915_2200\"",
+      "title": "Vue nocturne des États américains bordant le golfe du Mexique, depuis 360 kilomètres au-dessus de la Terre",
+      "description": "À 360 kilomètres au-dessus de la Terre, la côte américaine du golfe du Mexique scintille comme une constellation. Mais ce spectacle lumineux n’existerait pas sans une force invisible : la couche d’ozone, un bouclier silencieux qui filtre les rayons ultraviolets du soleil.",
+      "headline": "La couche d'ozone, un succès environnemental",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Protection+de+la+couche+d%27ozone&form=BGABWCTA7&filters=HpDate:\"20250915_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

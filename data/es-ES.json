@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_ES-ES8514798418_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Capa+de+Ozono&form=BGALM&filters=HpDate:\"20250915_2200\"",
+      "title": "Vista nocturna del sur de Estados Unidos a unos 360 kilómetros sobre la Tierra",
+      "description": "¿Qué tienen en común los gases invisibles, la laca vintage y los satélites? Todos jugaron un papel clave en uno de los mayores éxitos ambientales de la historia. Vista desde unos 362 kilómetros de altura, la costa sur de Estados Unidos brilla como una constelación: grupos de luces que iluminan la oscuridad. Pero lo que realmente hace posible esta imagen es invisible: la capa de ozono, que protege la vida de los rayos ultravioleta del sol.",
+      "headline": "La verdadera cúpula protectora",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capa+de+Ozono&form=BGABWCTA7&filters=HpDate:\"20250915_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.Echasse_ROW7944797323_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Black-winged+stilt&form=BGALM&filters=HpDate:\"20250915_0700\"",
+      "title": "Black-winged stilts, France",
+      "description": "Across the shimmering lagoons of Africa, the winding deltas of Asia and the salt marshes of southern Europe, a graceful figure emerges, poised delicately between water and sky. The black-winged stilt, with its long, slender red legs, moves with quiet elegance through the shallows. Their presence sometimes evokes a quiet intimacy—two birds drifting close, their movements mirroring one another in a delicate choreography, as if sharing a secret only the wetlands can hear. They hunt with quiet precision, gently picking insects, larvae and tiny crustaceans from the water's surface. Each movement reveals a subtle mastery of their environment, shaped by patience and instinct.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Black-winged+stilt&form=BGABWCTA7&filters=HpDate:\"20250915_0700\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

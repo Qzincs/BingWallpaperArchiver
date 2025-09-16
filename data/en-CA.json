@@ -1,6 +1,106 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA7280821074_UHD.jpg",
+      "copyrighttext": "© Tiago_Fernandez/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cape+Breton+Highlands+National+Park+Nova+Scotia&form=BGALM&filters=HpDate:\"20250915_0400\"",
+      "title": "Coastline at Cape Breton Highlands National Park, Nova Scotia",
+      "description": "Follow the curve of the Cabot Trail, and you will find yourself in Cape Breton Highlands National Park in Nova Scotia, where the highlands meet the sea. Established in 1936, the park stretches across almost 950 square kilometres of northern Cape Breton Island. It's where the Gulf of St. Lawrence meets the Atlantic, shaping rugged cliffs, highland plateaus and sheltered valleys, as seen in today's image.",
+      "headline": "Cape Brenton views",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_BrentonHighlandsNP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.7167,-60.6597/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.7167,-60.6597;S9;Cape Breton Highlands National Park, Nova Scotia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cape%20Breton%20Highlands%20National%20Park%20in%20Nova%20Scotia&satid=id.sid%3A2cbb18ea-21e6-0fd2-4ca8-acca564c4366&vdpid=5322250826146643969&mb=46.864525~-61.02932~46.595665~-60.31506&cardbg=%23F98745&dt=1755509400000&tt=Cape%20Breton%20Highlands%20National%20Park%2C%20Nova%20Scotia&tsts0=%2526ty%253D30%2526q%253DCape%252520Breton%252520Highlands%252520National%252520Park%252520in%252520Nova%252520Scotia%2526satid%253Did.sid%25253A2cbb18ea-21e6-0fd2-4ca8-acca564c4366%2526vdpid%253D5322250826146643969%2526mb%253D46.864525~-61.02932~46.595665~-60.31506%2526cardbg%253D%252523F98745%2526dt%253D1755509400000&tstt0=Cape%20Breton%20Highlands%20National%20Park%2C%20Nova%20Scotia&cp=46.592001~-66.763775&lvl=6.21&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Nova+Scotia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Nova Scotia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Nova+Scotia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrentonHighlandsNP_EN-CA6938321042_UHD.jpg",
+      "copyrighttext": "© Tiago_Fernandez/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cape+Breton+Highlands+National+Park+Nova+Scotia&form=BGALM&filters=HpDate:\"20250915_0400\"",
+      "title": "Coastline at Cape Breton Highlands National Park, Nova Scotia",
+      "description": "Follow the curve of the Cabot Trail, and you will find yourself in Cape Breton Highlands National Park in Nova Scotia, where the highlands meet the sea. Established in 1936, the park stretches across almost 950 square kilometres of northern Cape Breton Island. It's where the Gulf of St. Lawrence meets the Atlantic, shaping rugged cliffs, highland plateaus and sheltered valleys, as seen in today's image.",
+      "headline": "Cape Brenton views",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_BrentonHighlandsNP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.7167,-60.6597/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.7167,-60.6597;S9;Cape Breton Highlands National Park, Nova Scotia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cape%20Breton%20Highlands%20National%20Park%20in%20Nova%20Scotia&satid=id.sid%3A2cbb18ea-21e6-0fd2-4ca8-acca564c4366&vdpid=5322250826146643969&mb=46.864525~-61.02932~46.595665~-60.31506&cardbg=%23F98745&dt=1755509400000&tt=Cape%20Breton%20Highlands%20National%20Park%2C%20Nova%20Scotia&tsts0=%2526ty%253D30%2526q%253DCape%252520Breton%252520Highlands%252520National%252520Park%252520in%252520Nova%252520Scotia%2526satid%253Did.sid%25253A2cbb18ea-21e6-0fd2-4ca8-acca564c4366%2526vdpid%253D5322250826146643969%2526mb%253D46.864525~-61.02932~46.595665~-60.31506%2526cardbg%253D%252523F98745%2526dt%253D1755509400000&tstt0=Cape%20Breton%20Highlands%20National%20Park%2C%20Nova%20Scotia&cp=46.592001~-66.763775&lvl=6.21&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Nova+Scotia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Nova Scotia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Nova+Scotia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",

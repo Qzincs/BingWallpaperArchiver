@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_IT-IT9452054464_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Giornata+internazionale+per+la+preservazione+dello+strato+di+ozono&form=BGALM&filters=HpDate:\"20250915_2200\"",
+      "title": "Vista notturna degli Stati della costa del Golfo dallo Spazio",
+      "description": "Oggi, 16 settembre, si celebra la \"Giornata Internazionale per la Preservazione dello Strato di Ozono\". È il giorno in cui ricordiamo che anche ciò che non si vede può proteggere, ferire… e guarire. A oltre 360 chilometri dalla Terra, i satelliti osservano il mondo come se fosse una mappa di luci: il Golfo del Messico brilla come una costellazione, frammenti luminosi nel buio. Ma ciò che rende possibile questa visione non è la luce: è l’ombra silenziosa dello strato di ozono, che ci difende dai raggi invisibili del sole.",
+      "headline": "Un successo stratosferico",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Giornata+internazionale+per+la+preservazione+dello+strato+di+ozono&form=BGABWCTA7&filters=HpDate:\"20250915_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

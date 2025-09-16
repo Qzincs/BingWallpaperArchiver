@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_DE-DE2800551844_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=BGALM&filters=HpDate:\"20250915_2200\"",
+      "title": "Nachtansicht der Golfküstenstaaten aus 362 Kilometern Höhe über der Erde",
+      "description": "Am 16. September wird der Internationale Tag zum Schutz der Ozonschicht begangen – ein Datum, das an die Unterzeichnung des Montrealer Protokolls im Jahr 1987 erinnert. Dieses historische Abkommen erzielte etwas Einzigartiges: Es wurde von allen 197 Mitgliedstaaten der Vereinten Nationen ratifiziert und ist damit das erste Abkommen in der Geschichte der UNO mit universeller Zustimmung. Dank dieser globalen Zusammenarbeit konnte der Einsatz ozonschädlicher Stoffe wie FCKW drastisch reduziert werden.",
+      "headline": "Ein stratosphärischer Erfolg",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Internationaler+Tag+zum+Schutz+der+Ozonschicht&form=BGABWCTA7&filters=HpDate:\"20250915_2200\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

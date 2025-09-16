@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250915",
+      "fullstartdate": "20250915",
+      "enddate": "20250916",
+      "urlbase": "https://www.bing.com/th?id=OHR.Echasse_PT-BR5689846497_UHD.jpg",
+      "copyrighttext": "© Antonio Sementa/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=ave+pernilongo&form=BGALM&filters=HpDate:\"20250915_0300\"",
+      "title": "Dupla de aves pernilongo na França",
+      "description": "O nome é o mesmo, mas este não é o inseto tão temido nas noites de calor. Na imagem do dia, duas aves pernilongo parecem tocar os bicos sobre as águas rasas francesas, como se selassem um pacto silencioso. Com pernas avermelhadas quase translúcidas, que podem chegar a 16 centímetros, caminham com precisão para capturar larvas, crustáceos e pequenos insetos — uma destreza fruto de milhões de anos de adaptação aos ambientes alagados.",
+      "headline": "Termômetros alados",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250915_Echasse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=ave+pernilongo&form=BGABWCTA7&filters=HpDate:\"20250915_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250914",
       "fullstartdate": "20250914",
       "enddate": "20250915",
