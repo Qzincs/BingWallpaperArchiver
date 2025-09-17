@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_EN-CA7588653763_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ozone+Day&form=BGALM&filters=HpDate:\"20250916_0400\"",
+      "title": "A nighttime view of the Gulf Coast states from 362 kilometres above Earth",
+      "description": "What do invisible gases, vintage hairspray and satellites have in common? They all played a role in one of the greatest environmental comebacks in history. Seen from 362 kilometres above, the Gulf Coast glows like a constellation—clusters of light scattered across the dark. But what truly makes this view possible can't be seen: the ozone layer, silently shielding everything below from the sun's ultraviolet rays. By the 1980s, that shield was thinning fast—damaged by chemicals once used in refrigeration and aerosol products. The solution? A global pact. The Montreal Protocol, signed in 1987, led to a swift phase-out of ozone-depleting substances. Today, satellites show that the hole over Antarctica is shrinking. Scientists believe it could be fully healed by mid-century.",
+      "headline": "A stratospheric success",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 16, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ozone+Day&form=BGABWCTA7&filters=HpDate:\"20250916_0400\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 670,
+            "Width": 3833,
+            "Height": 1486,
+            "Label": "globe",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ozone+Day&form=BGABWCTA11&filters=HpDate:\"20250916_0400\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

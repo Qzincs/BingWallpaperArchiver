@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250917",
+      "fullstartdate": "20250917",
+      "enddate": "20250918",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_ES-ES6683972972_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=alce&form=BGALM&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Un joven alce macho en el Parque Nacional Denali, Alaska, EE. UU.",
+      "description": "Puede que sea joven, pero estas astas ya hablan de futuras batallas. En el Parque Nacional Denali, Alaska (Estados Unidos), un alce macho joven levanta la cabeza por encima de los arbustos. En esta etapa, sus astas son más una corona que un arma, todavía cubiertas de terciopelo. Sin embargo, anuncian una vida marcada por el instinto, el combate y la lucha por el dominio. Aunque este joven aún no está listo para luchar por territorio o pareja, ya entrena con otros alces, aprendiendo a moverse y a imponerse en la naturaleza.",
+      "headline": "Que el alce se alce con esplendor",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=alce&form=BGABWCTA7&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 493,
+            "Y": 63,
+            "Width": 2845,
+            "Height": 2093,
+            "Label": "deer",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=alce&form=BGABWCTA11&filters=HpDate:\"20250916_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250916",
       "fullstartdate": "20250916",
       "enddate": "20250917",

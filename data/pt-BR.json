@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250916",
+      "fullstartdate": "20250916",
+      "enddate": "20250917",
+      "urlbase": "https://www.bing.com/th?id=OHR.OzoneEarth_PT-BR3466489488_UHD.jpg",
+      "copyrighttext": "© Stocktrek Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+para+a+Preserva%c3%a7%c3%a3o+da+Camada+de+Oz%c3%b4nio&form=BGALM&filters=HpDate:\"20250916_0300\"",
+      "title": "Vista noturna da Golfo do México, 362 quilômetros acima da Terra",
+      "description": "O que gases invisíveis, aerossóis antigos e satélites têm em comum? Todos participaram de uma das maiores recuperações ambientais da história. Na imagem de hoje, o Golfo do México, visto do espaço, brilha como um céu estrelado. Mas a verdadeira heroína dessa cena é invisível: a camada de ozônio, um escudo que protege tudo abaixo de si da perigosa radiação ultravioleta do sol.",
+      "headline": "Um sucesso estratosférico",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250916_OzoneEarth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Internacional+para+a+Preserva%c3%a7%c3%a3o+da+Camada+de+Oz%c3%b4nio&form=BGABWCTA7&filters=HpDate:\"20250916_0300\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 670,
+            "Width": 3833,
+            "Height": 1486,
+            "Label": "globe",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+Internacional+para+a+Preserva%c3%a7%c3%a3o+da+Camada+de+Oz%c3%b4nio&form=BGABWCTA11&filters=HpDate:\"20250916_0300\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250915",
       "fullstartdate": "20250915",
       "enddate": "20250916",

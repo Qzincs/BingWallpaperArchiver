@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250917",
+      "fullstartdate": "20250917",
+      "enddate": "20250918",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_FR-FR2257077158_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%c3%a9lan+d%27Alaska&form=BGALM&filters=HpDate:\"20250916_2200\"",
+      "title": "Jeune élan mâle, parc national de Denali, Alaska, États-Unis",
+      "description": "Dans le parc national de Denali, en Alaska, un jeune élan mâle dresse la tête au-dessus des herbes dorées. Ses bois encore tendres, couverts de velours, ressemblent plus à une couronne qu’à une arme. Et pourtant, tout est là : la promesse d’un futur combat, l’instinct, la tension silencieuse d’un monde régi par la force tranquille.",
+      "headline": "Le souffle calme de la force",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/63.73802,-148.887697/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=63.73802,-148.887697;S9;Parc national de Denali, Alaska, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Denali%20National%20Park&satid=id.sid%3Abda0d437-5f32-48a4-53d2-c9a0d581aa01&vdpid=4721671633587142657&mb=64.110603~-154.690803~62.103882~-146.620232&cardbg=%23F98745&dt=1753380000000&tt=P.%20N.%20e%20Reserva%20Denali%2C%20AK&tsts1=%2526ty%253D30%2526q%253DDenali%252520National%252520Park%2526satid%253Did.sid%25253Abda0d437-5f32-48a4-53d2-c9a0d581aa01%2526vdpid%253D4721671633587142657%2526mb%253D64.110603~-154.690803~62.103882~-146.620232%2526cardbg%253D%252523F98745%2526dt%253D1753380000000&tstt1=P.%20N.%20e%20Reserva%20Denali%2C%20AK&cp=62.689259~-156.414967&lvl=6.211664&pi=0&ftst=1&ftics=True&v=2&sV=2form=hpbal1&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+parc+national+de+Denali%2c+Alaska%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  parc national de Denali, Alaska, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++parc+national+de+Denali%2c+Alaska%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250916",
       "fullstartdate": "20250916",
       "enddate": "20250917",
