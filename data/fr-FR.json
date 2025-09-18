@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250918",
+      "fullstartdate": "20250918",
+      "enddate": "20250919",
+      "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_FR-FR6571793587_UHD.jpg",
+      "copyrighttext": "© Hugh O'Connor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dunquin+Pier+Irlande&form=BGALM&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Escalier sinueux de Dunquin Pier, comté de Kerry, Irlande",
+      "description": "Sur la côte ouest de l’Irlande, dans le comté de Kerry, Dunquin Pier semble suspendu entre falaise et océan. Un chemin sinueux en lacets dévale la pente abrupte jusqu’à l’eau. C’est le seul accès au petit port d’embarquement pour les îles Blasket, joyaux sauvages du large.",
+      "headline": "Un ruban de pierre vers la mer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.13349,-10.45452/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.13349,-10.45452;S9;Dunquin Pier, Irlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dunquin%2C%20County%20Kerry%2C%20Ireland&satid=id.sid%3Aed169e2d-97d9-61eb-8ab1-128f48d9a46a&vdpid=5468623927200710657&mb=52.137762~-10.466259~52.129214~-10.442784&cardbg=%23F98745&dt=1753452000000&tt=Dunquin%2C%20County%20Kerry%2C%20Ireland&tsts0=%2526ty%253D30%2526q%253DDunquin%25252C%252520County%252520Kerry%25252C%252520Ireland%2526satid%253Did.sid%25253Aed169e2d-97d9-61eb-8ab1-128f48d9a46a%2526vdpid%253D5468623927200710657%2526mb%253D52.137762~-10.466259~52.129214~-10.442784%2526cardbg%253D%252523F98745%2526dt%253D1753452000000&tstt0=Dunquin%2C%20County%20Kerry%2C%20Ireland&cp=53.175959~-11.398033&lvl=6.9123583&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+comt%c3%a9+de+Kerry%2c+Irlande&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  comté de Kerry, Irlande"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++comt%c3%a9+de+Kerry%2c+Irlande&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250917",
       "fullstartdate": "20250917",
       "enddate": "20250918",

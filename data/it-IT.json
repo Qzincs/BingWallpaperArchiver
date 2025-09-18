@@ -1,6 +1,106 @@
 {
   "images": [
     {
+      "startdate": "20250918",
+      "fullstartdate": "20250918",
+      "enddate": "20250919",
+      "urlbase": "https://www.bing.com/th?id=OHR.GenovaPorto_IT-IT9490275029_UHD.jpg",
+      "copyrighttext": "© Luca Reina Mafaraci/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Citt%c3%a0+di+Genova&form=BGALM&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vista sul Porto di Genova, Genova, Liguria",
+      "description": "Dal Porto di Genova, dove il vento sa di sale e di storie, lo sguardo si apre su uno degli eventi più attesi del Mediterraneo: il Salone nautico internazionale. Da oggi, 18 settembre fino al 23 settembre 2025, la città celebra la sua vocazione marittima con la 65ª edizione di questa fiera iconica. Camminando lungo le banchine, tra yacht, barche a vela, gommoni e multiscafi, si respira innovazione e tradizione. Il Waterfront di Levante, rinnovato e scenografico, ospita oltre 200.000 m² di esposizione, dove si incontrano cantieri navali, designer, appassionati e professionisti da tutto il mondo.",
+      "headline": "Ve-la aspettavate?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_GenovaPorto\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.398308,8.95754/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.398308,8.95754;S9;Genova, Liguria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN1354x12396159607291026779&mb=44.404462~8.947421~44.392152~8.967686&description=Via%20San%20Nazaro%2011%20-%2016145%20Genova%20%28GE%29%C2%B7Centro%20espositivo%20e%20commerciale&dt=1755180000000&tt=I%20Saloni%20Nautici&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1354x12396159607291026779%2526mb%253D44.404462~8.947421~44.392152~8.967686%2526description%253DVia%252520San%252520Nazaro%25252011%252520-%25252016145%252520Genova%252520%252528GE%252529%2525C2%2525B7Centro%252520espositivo%252520e%252520commerciale%2526dt%253D1755180000000&tstt0=I%20Saloni%20Nautici&cp=44.398307~8.944834&lvl=15.57&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Genova%2c+Liguria&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Genova, Liguria"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Genova%2c+Liguria&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20250917",
+      "fullstartdate": "20250917",
+      "enddate": "20250918",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_IT-IT1966102379_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Alce+Alaska&form=BGALM&filters=HpDate:\"20250916_2200\"",
+      "title": "Giovane alce maschio nel Parco Nazionale di Denali, Alaska, USA",
+      "description": "Non è ancora un re, ma già porta la corona. Nel cuore selvaggio del Parco Nazionale del Denali, in Alaska, negli Stati Uniti, un giovane alce maschio solleva il capo tra gli arbusti. Le sue corna, ancora avvolte nel velluto, non sono armi: sono promesse. A questo stadio sembrano più un ornamento che uno strumento di lotta, ma già raccontano una storia fatta di istinto, di prove silenziose e del lento cammino verso il dominio. Gli alci sono i più imponenti tra i cervidi del Nord America: i maschi adulti possono superare i 680 chilogrammi e sfiorare i 2,10 metri di altezza alla spalla. Le loro corna crescono a ritmo vertiginoso, fino a 2,5 centimetri al giorno in estate, per poi cadere ogni inverno e rinascere ogni primavera.",
+      "headline": "Ho visto un re?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/63.73802,-148.887697/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=63.73802,-148.887697;S9;Parco Nazionale di Denali, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Denali%20National%20Park&satid=id.sid%3Abda0d437-5f32-48a4-53d2-c9a0d581aa01&vdpid=4721671633587142657&mb=64.110603~-154.690803~62.103882~-146.620232&cardbg=%23F98745&dt=1753380000000&tt=P.%20N.%20e%20Reserva%20Denali%2C%20AK&tsts1=%2526ty%253D30%2526q%253DDenali%252520National%252520Park%2526satid%253Did.sid%25253Abda0d437-5f32-48a4-53d2-c9a0d581aa01%2526vdpid%253D4721671633587142657%2526mb%253D64.110603~-154.690803~62.103882~-146.620232%2526cardbg%253D%252523F98745%2526dt%253D1753380000000&tstt1=P.%20N.%20e%20Reserva%20Denali%2C%20AK&cp=62.689259~-156.414967&lvl=6.211664&pi=0&ftst=1&ftics=True&v=2&sV=2form=hpbal1&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Alaska%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Alaska, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Alaska%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250916",
       "fullstartdate": "20250916",
       "enddate": "20250917",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250918",
+      "fullstartdate": "20250918",
+      "enddate": "20250919",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.DunquinIreland_ZH-CN1418844818_UHD.jpg",
+      "copyrighttext": "© Hugh O'Connor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%81%e6%a0%bc%e5%b0%94%e5%8d%8a%e5%b2%9b&form=BGALM&filters=HpDate:\"20250917_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "邓金码头的蛇形楼梯, 凯里郡, 爱尔兰",
+      "description": "这片令人惊叹的景色——天空与大西洋的浩瀚水域相接之处——只能徒步抵达。位于爱尔兰荒野而美丽的丁格尔半岛上，邓金码头是凯里郡最适合拍照的景点之一。这座小型码头以蜿蜒曲折的盘山小径闻名，小径如丝带般在悬崖边剧烈蜿蜒而下。这些陡峭的弯道不仅带来刺激感，更是通往下方码头的唯一路径，从这里出发的船只将驶向偏远的布拉斯凯特群岛。",
+      "headline": "爱尔兰岛的西端",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 18",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%81%e6%a0%bc%e5%b0%94%e5%8d%8a%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20250917_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250917",
       "fullstartdate": "20250917",
       "enddate": "20250918",

@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250917",
+      "fullstartdate": "20250917",
+      "enddate": "20250918",
+      "urlbase": "https://www.bing.com/th?id=OHR.ArpoadorRJ_PT-BR5341950627_UHD.jpg",
+      "copyrighttext": "© marchello74/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Arpoador&form=BGALM&filters=HpDate:\"20250917_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Praia do Arpoador, Rio de Janeiro",
+      "description": "No coração do Rio de Janeiro, entre Ipanema e Copacabana, existe um pedaço de magia chamado Arpoador. Mais do que uma praia, nossa imagem de hoje é um palco natural onde o pôr do sol é a estrela principal — e sim, ele é aplaudido! Todos os dias, cariocas e turistas se reúnem nas pedras para assistir ao espetáculo do sol mergulhando no oceano, uma raridade na costa brasileira voltada para o leste.",
+      "headline": "Surf, história e pôr do sol",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_ArpoadorRJ\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Arpoador&form=BGABWCTA7&filters=HpDate:\"20250917_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250916",
       "fullstartdate": "20250916",
       "enddate": "20250917",

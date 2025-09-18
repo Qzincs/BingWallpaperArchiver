@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20250918",
+      "fullstartdate": "20250918",
+      "enddate": "20250919",
+      "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_DE-DE4797885512_UHD.jpg",
+      "copyrighttext": "© Hugh O'Connor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ban+Chaoin&form=BGALM&filters=HpDate:\"20250917_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Serpentinenartiger Pfad, Dunquin Pier, County Kerry, Irland",
+      "description": "Endlos lange Strände, schroffe Berglandschaften und steil abfallende Küsten – für eine solche Traumkulisse muss man nicht ans andere Ende der Welt reisen. Diese landschaftliche Vielfalt findet sich auch in Irland, besonders eindrucksvoll an der windumtosten Atlantikküste der Dingle-Halbinsel. Dort liegt das kleine Dorf Dunquin (irisch: Dún Chaoin), bekannt für seine dramatische Küste, seine lebendige Tradition und den berühmten Dunquin Pier – ein Ort, der wirkt, als sei er einem Film entsprungen. Der kleine Anleger ist nur zu Fuß erreichbar und berühmt für seinen serpentinenartigen Pfad, der sich spektakulär die Klippen hinabwindet. Heute zählt er zu den meistfotografierten Motiven Irlands. Von hier aus fahren Boote zu den abgelegenen Blasket Islands, die einst Heimat von Fischern und Schriftstellern waren. Dunquin ist die westlichste Siedlung Irlands und Teil der Gaeltacht, in der bis heute Irisch gesprochen wird.",
+      "headline": "Der westlichste Punkt Irlands",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.13349,-10.45452/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.13349,-10.45452;S9;Dunquin%2C%20County%20Kerry%2C%20Ireland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Dunquin%2C%20County%20Kerry%2C%20Ireland&satid=id.sid%3Aed169e2d-97d9-61eb-8ab1-128f48d9a46a&vdpid=5468623927200710657&mb=52.137762~-10.466259~52.129214~-10.442784&cardbg=%23F98745&dt=1753452000000&tt=Dunquin%2C%20County%20Kerry%2C%20Ireland&tsts0=%2526ty%253D30%2526q%253DDunquin%25252C%252520County%252520Kerry%25252C%252520Ireland%2526satid%253Did.sid%25253Aed169e2d-97d9-61eb-8ab1-128f48d9a46a%2526vdpid%253D5468623927200710657%2526mb%253D52.137762~-10.466259~52.129214~-10.442784%2526cardbg%253D%252523F98745%2526dt%253D1753452000000&tstt0=Dunquin%2C%20County%20Kerry%2C%20Ireland&cp=53.175959~-11.398033&lvl=6.9123583&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Dunquin+Pier%2c+County+Kerry%2c+Irland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Dunquin Pier, County Kerry, Irland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Dunquin+Pier%2c+County+Kerry%2c+Irland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250917",
       "fullstartdate": "20250917",
       "enddate": "20250918",

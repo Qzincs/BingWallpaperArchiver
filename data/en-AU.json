@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20250917",
+      "fullstartdate": "20250917",
+      "enddate": "20250918",
+      "urlbase": "https://www.bing.com/th?id=OHR.YoungMoose_ROW0217187286_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Alaska+moose&form=BGALM&filters=HpDate:\"20250917_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "A young bull moose in Denali National Park, Alaska, United States",
+      "description": "He may be young, but these antlers speak of future battles. In Denali National Park, in Alaska, United States, a young bull moose lifts his head above the shrubs. At this stage, his antlers are more crown than weapon—still covered in velvet. But even now, they hint at a life shaped by instinct, sparring and the quiet pull of dominance.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250917_YoungMoose\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alaska+moose&form=BGABWCTA7&filters=HpDate:\"20250917_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250916",
       "fullstartdate": "20250916",
       "enddate": "20250917",
