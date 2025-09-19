@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250919",
+      "fullstartdate": "20250919",
+      "enddate": "20250920",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_JA-JP7633482914_UHD.jpg",
+      "copyrighttext": "© benedek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b6%e3%83%b3%e3%83%89%e8%ab%b8%e5%b3%b6&form=BGALM&filters=HpDate:\"20250918_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "サウザンド諸島",
+      "description": "セントローレンス川に浮かぶ群島、サウザンド諸島。米国・ニューヨーク州とカナダ・オンタリオ州にまたがるこの地域には、100km² を超える広大な島から、家一軒分ほどの小さな島まで、大小 1,800 以上の島々が点在しています。それら緑豊かな島々が水面に映る風景が、訪れる人々を魅了します。…",
+      "headline": "川に浮かぶ 1,800 の島々",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.33333,-76/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.33333,-76;S9;サウザンド諸島&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Thousand%20Islands%20region&satid=id.sid%3Add7de3ce-fcfd-4daf-2a9a-b6fdd0f999dd&vdpid=5485639875854073857&mb=44.52508~-76.422746~44.140141~-75.577071&cardbg=%23F98745&dt=1754569800000&tt=Thousand%20Islands&tsts0=%2526ty%253D30%2526q%253DThousand%252520Islands%252520region%2526satid%253Did.sid%25253Add7de3ce-fcfd-4daf-2a9a-b6fdd0f999dd%2526vdpid%253D5485639875854073857%2526mb%253D44.52508~-76.422746~44.140141~-75.577071%2526cardbg%253D%252523F98745%2526dt%253D1754569800000&tstt0=Thousand%20Islands&cp=44.310926~-86.186448&lvl=5.1&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 19 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b6%e3%83%b3%e3%83%89%e8%ab%b8%e5%b3%b6&form=BGABWCTA7&filters=HpDate:\"20250918_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b6%e3%83%b3%e3%83%89%e8%ab%b8%e5%b3%b6&form=BGABWCTA11&filters=HpDate:\"20250918_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250918",
       "fullstartdate": "20250918",
       "enddate": "20250919",

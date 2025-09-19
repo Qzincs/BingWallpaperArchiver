@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250919",
+      "fullstartdate": "20250919",
+      "enddate": "20250920",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.ThousandIslands_ZH-CN3197750437_UHD.jpg",
+      "copyrighttext": "© benedek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8d%83%e5%b2%9b%e7%be%a4%e5%b2%9b+%e5%8c%97%e7%be%8e%e6%b4%b2&form=BGALM&filters=HpDate:\"20250918_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "千岛群岛地区，圣劳伦斯河，美加边境",
+      "description": "听到“千岛”这个词，你可能会想到一罐沙拉酱，但在这浓郁的酱汁背后，是北美最迷人的地区之一。千岛群岛是圣劳伦斯河上的一个群岛，横跨美国纽约州和加拿大安大略省。它由1800多个岛屿组成。有些岛屿上矗立着童话般的城堡，有些岛屿则狭小得几乎容不下一张吊床。此外，还有一座名为“刚好够住的岛”（Just Room Enough Island），岛上只有一栋房子和一棵孤树，名副其实。",
+      "headline": "千般理由，邀您探索",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 19",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8d%83%e5%b2%9b%e7%be%a4%e5%b2%9b+%e5%8c%97%e7%be%8e%e6%b4%b2&form=BGABWCTA7&filters=HpDate:\"20250918_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8d%83%e5%b2%9b%e7%be%a4%e5%b2%9b+%e5%8c%97%e7%be%8e%e6%b4%b2&form=BGABWCTA11&filters=HpDate:\"20250918_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250918",
       "fullstartdate": "20250918",
       "enddate": "20250919",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250918",
+      "fullstartdate": "20250918",
+      "enddate": "20250919",
+      "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_ROW8248282029_UHD.jpg",
+      "copyrighttext": "© Hugh O'Connor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dunquin+Pier&form=BGALM&filters=HpDate:\"20250918_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Serpentine stairs of Dunquin Pier, County Kerry, Ireland",
+      "description": "This stunning view—where the sky meets the open waters of the Atlantic—is accessible only by foot. Tucked away on Ireland's wild and beautiful Dingle Peninsula, Dunquin Pier is one of the most photogenic spots in County Kerry. The small pier is famous for its winding, serpentine path that zigzags dramatically down the cliffside like a ribbon. These steep curves aren't just for the thrill—they're the only way to reach the pier below, where boats depart for the remote Blasket Islands.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dunquin+Pier&form=BGABWCTA7&filters=HpDate:\"20250918_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dunquin+Pier&form=BGABWCTA11&filters=HpDate:\"20250918_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250917",
       "fullstartdate": "20250917",
       "enddate": "20250918",

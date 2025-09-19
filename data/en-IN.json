@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250919",
+      "fullstartdate": "20250919",
+      "enddate": "20250920",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_EN-IN6967814594_UHD.jpg",
+      "copyrighttext": "© benedek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Thousand+Islands+region&form=BGALM&filters=HpDate:\"20250918_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Thousand Islands region, St. Lawrence River, USA-Canada border",
+      "description": "When you hear 'Thousand Islands,' you might think of a jar of salad dressing, but behind that creamy condiment is one of North America's most enchanting regions. The Thousand Islands is an archipelago in the St. Lawrence River, spanning the state of New York in the United States and the province of Ontario in Canada. It is made up of more than 1,800 islands. Some of these islands have fairytale castles; others are barely big enough for a hammock. There's also Just Room Enough Island, which lives up to its name with a single house and a lone tree.",
+      "headline": "A thousand reasons to visit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.33333,-76/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=44.33333,-76;S9;Thousand Islands, USA-Canada border&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Thousand%20Islands%20region&satid=id.sid%3Add7de3ce-fcfd-4daf-2a9a-b6fdd0f999dd&vdpid=5485639875854073857&mb=44.52508~-76.422746~44.140141~-75.577071&cardbg=%23F98745&dt=1754569800000&tt=Thousand%20Islands&tsts0=%2526ty%253D30%2526q%253DThousand%252520Islands%252520region%2526satid%253Did.sid%25253Add7de3ce-fcfd-4daf-2a9a-b6fdd0f999dd%2526vdpid%253D5485639875854073857%2526mb%253D44.52508~-76.422746~44.140141~-75.577071%2526cardbg%253D%252523F98745%2526dt%253D1754569800000&tstt0=Thousand%20Islands&cp=44.310926~-86.186448&lvl=5.1&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+St.+Lawrence+River%2c+USA-Canada+border&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  St. Lawrence River, USA-Canada border"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++St.+Lawrence+River%2c+USA-Canada+border&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Thousand+Islands+region&form=BGABWCTA11&filters=HpDate:\"20250918_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250918",
       "fullstartdate": "20250918",
       "enddate": "20250919",

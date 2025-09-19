@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250919",
+      "fullstartdate": "20250919",
+      "enddate": "20250920",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_ES-ES0457398976_UHD.jpg",
+      "copyrighttext": "© benedek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Islas+Thousand&form=BGALM&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Región de las Mil Islas, río San Lorenzo, frontera entre EE. UU. y Canadá",
+      "description": "Las Mil Islas es un archipiélago en el río San Lorenzo, entre el estado de Nueva York (Estados Unidos) y la provincia de Ontario (Canadá). Está formado por más de 1.800 islas, algunas con castillos de cuento y otras tan pequeñas que apenas caben una hamaca. La más curiosa es la isla Just Room Enough: solo tiene espacio para una casa y un árbol.",
+      "headline": "Mil razones para visitar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Islas+Thousand&form=BGABWCTA7&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Islas+Thousand&form=BGABWCTA11&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250918",
       "fullstartdate": "20250918",
       "enddate": "20250919",

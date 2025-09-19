@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250918",
+      "fullstartdate": "20250918",
+      "enddate": "20250919",
+      "urlbase": "https://www.bing.com/th?id=OHR.DunquinIreland_PT-BR6766126699_UHD.jpg",
+      "copyrighttext": "© Hugh O'Connor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dunquin%2c+Condado+de+Kerry%2c+Irlanda&form=BGALM&filters=HpDate:\"20250918_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Escadaria serpenteante do Cais de Dunquin, Condado de Kerry, Irlanda",
+      "description": "Esta vista deslumbrante que vemos na imagem de hoje — onde o céu encontra as águas abertas do Atlântico — só pode ser acessada a pé. Escondido na selvagem e bela Península de Dingle, o Cais de Dunquin é um dos locais mais fotogênicos do Condado de Kerry, na Irlanda. O lugar é famoso por seu caminho sinuoso que desce dramaticamente pela encosta. Essas curvas íngremes não são apenas emocionantes — são o único caminho para chegar ao cais abaixo, de onde partem barcos rumo às remotas Ilhas Blasket. Com uma população de pouco mais de 100 pessoas, a vila de Dunquin, situada nas proximidades, é o assentamento mais ocidental da Irlanda.",
+      "headline": "Escadas para o horizonte",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250918_DunquinIreland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dunquin%2c+Condado+de+Kerry%2c+Irlanda&form=BGABWCTA7&filters=HpDate:\"20250918_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dunquin%2c+Condado+de+Kerry%2c+Irlanda&form=BGABWCTA11&filters=HpDate:\"20250918_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250917",
       "fullstartdate": "20250917",
       "enddate": "20250918",

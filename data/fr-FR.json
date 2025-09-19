@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250919",
+      "fullstartdate": "20250919",
+      "enddate": "20250920",
+      "urlbase": "https://www.bing.com/th?id=OHR.BolDor_FR-FR4058003205_UHD.jpg",
+      "copyrighttext": "© Sami Sarkis/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Circuit+Paul-Ricard&form=BGALM&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vue aérienne du circuit Paul Ricard, Le Castellet",
+      "description": "Sous le soleil de Provence, le rugissement des moteurs résonne dans le massif du Castellet. Le mythique Circuit Paul-Ricard s’éveille pour accueillir le Bol d’Or 2025, ultime épreuve de la saison du Championnat du monde d’endurance moto.",
+      "headline": "Place à 24 heures de légende",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_BolDor\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.251518,5.793034/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.251518,5.793034;S9;Circuit Paul-Ricard, Le Castellet&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Circuit%20Paul-Ricard&ss=ypid.YN2000x17941261766179907052&mb=43.25801~5.782993~43.245023~5.803077&description=2760%20RTE%20des%20Hauts%20du%20Camp%2C%2083330%20Le%20Castellet&cardbg=%23219AB6&dt=1755770400000&tt=Circuit%20Paul%20Ricard&tsts0=%2526ty%253D18%2526q%253DCircuit%252520Paul-Ricard%2526ss%253Dypid.YN2000x17941261766179907052%2526mb%253D43.25801~5.782993~43.245023~5.803077%2526description%253D2760%252520RTE%252520des%252520Hauts%252520du%252520Camp%25252C%25252083330%252520Le%252520Castellet%2526cardbg%253D%252523219AB6%2526dt%253D1755770400000&tstt0=Circuit%20Paul%20Ricard&cp=43.251517~5.782564&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "19 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Le+Castellet&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Le Castellet"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Le+Castellet&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Circuit+Paul-Ricard&form=BGABWCTA11&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250918",
       "fullstartdate": "20250918",
       "enddate": "20250919",

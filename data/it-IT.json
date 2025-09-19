@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250919",
+      "fullstartdate": "20250919",
+      "enddate": "20250920",
+      "urlbase": "https://www.bing.com/th?id=OHR.ThousandIslands_IT-IT3559325500_UHD.jpg",
+      "copyrighttext": "© benedek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Arcipelagodi+1864+isole+Thousand+islands&form=BGALM&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Thousand Islands, fiume San Lorenzo, confine tra Canada e USA",
+      "description": "Tra le acque incantate del fiume San Lorenzo, dove la nebbia del mattino accarezza le rive e il silenzio è punteggiato dal richiamo degli uccelli, si estende un arcipelago da sogno: le Mille Isole. Più di 1.800 isole, grandi e minuscole, si rincorrono tra lo Stato di New York (USA) e la provincia dell’Ontario (Canada). Alcune ospitano castelli fiabeschi, altre sono poco più che scogli con un solo albero. Navigando tra queste gemme verdi, vi sembrerà di entrare in un mondo sospeso, dove il tempo rallenta e la natura racconta storie antiche.",
+      "headline": "Mille motivi",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250919_ThousandIslands\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.33333,-76/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.33333,-76;S9;Thousand Islands, confine tra Canada e USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Thousand%20Islands%20region&satid=id.sid%3Add7de3ce-fcfd-4daf-2a9a-b6fdd0f999dd&vdpid=5485639875854073857&mb=44.52508~-76.422746~44.140141~-75.577071&cardbg=%23F98745&dt=1754569800000&tt=Thousand%20Islands&tsts0=%2526ty%253D30%2526q%253DThousand%252520Islands%252520region%2526satid%253Did.sid%25253Add7de3ce-fcfd-4daf-2a9a-b6fdd0f999dd%2526vdpid%253D5485639875854073857%2526mb%253D44.52508~-76.422746~44.140141~-75.577071%2526cardbg%253D%252523F98745%2526dt%253D1754569800000&tstt0=Thousand%20Islands&cp=44.310926~-86.186448&lvl=5.1&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "19 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+fiume+San+Lorenzo%2c+confine+tra+Canada+e+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  fiume San Lorenzo, confine tra Canada e USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++fiume+San+Lorenzo%2c+confine+tra+Canada+e+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Arcipelagodi+1864+isole+Thousand+islands&form=BGABWCTA11&filters=HpDate:\"20250918_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250918",
       "fullstartdate": "20250918",
       "enddate": "20250919",
