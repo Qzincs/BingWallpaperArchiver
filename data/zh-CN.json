@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.OktoberfestSwing_ZH-CN5270146600_UHD.jpg",
+      "copyrighttext": "© LOOK-foto/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=BGALM&filters=HpDate:\"20250919_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国",
+      "description": "每年秋天，德国慕尼黑的特蕾莎草地都会摇身一变，成为全球最大的节日之一——慕尼黑啤酒节。啤酒节最初于1810年为庆祝一场皇室婚礼而举办，如今已发展成为一个持续16至18天的传统节日，吸引着来自世界各地的600多万人参加。啤酒节的规模令人叹为观止：场地占地约450万平方英尺，设有14个主帐篷，每个帐篷可容纳数千人。每年，游客们会喝掉约700万升啤酒，以及堆积如山的椒盐脆饼、香肠和姜饼心。慕尼黑啤酒节上供应的所有啤酒均来自慕尼黑啤酒厂，并符合德国啤酒纯度法（Reinheitsgebot）的严格标准。",
+      "headline": "关于啤酒和风景的故事",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 20",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=BGABWCTA7&filters=HpDate:\"20250919_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 965,
+            "Y": 117,
+            "Width": 1786,
+            "Height": 1244,
+            "Label": "wheel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%85%95%e5%b0%bc%e9%bb%91%e5%95%a4%e9%85%92%e8%8a%82&form=BGABWCTA11&filters=HpDate:\"20250919_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",

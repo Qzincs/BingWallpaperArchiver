@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_JA-JP7932270954_UHD.jpg",
+      "copyrighttext": "© LOOK-foto/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9f%e3%83%a5%e3%83%b3%e3%83%98%e3%83%b3%e3%81%ae%e3%82%aa%e3%82%af%e3%83%88%e3%83%bc%e3%83%90%e3%83%bc%e3%83%95%e3%82%a7%e3%82%b9%e3%83%88&form=BGALM&filters=HpDate:\"20250919_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "テレーゼンヴィーゼの回転ブランコ, ドイツ",
+      "description": "今日 9 月 20 日は、オクトーバーフェストの開幕日。ドイツ・ミュンヘンのテレージエンヴィーゼ公園で、世界最大のビールの祭典が幕を開けました。1810 年に行われた王室の婚礼を祝うための祭りが起源とされており、現在では毎年 600 万人以上が訪れ、約 700 万リットルのビールが楽しまれています…",
+      "headline": "今日はオクトーバーフェストの開幕日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.1375,11.575/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.1375,11.575;S9;ミュンヘン, ドイツ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=munich&satid=id.sid%3A7f38f401-452d-d25b-059c-487e14b70a85&vdpid=7021484408976703489&mb=48.496331~10.735726~47.783054~12.415421&cardbg=%23F98745&tt=Munich%2C%20Bavaria%2C%20Germany&tsts0=%2526ty%253D30%2526q%253Dmunich%2526satid%253Did.sid%25253A7f38f401-452d-d25b-059c-487e14b70a85%2526vdpid%253D7021484408976703489%2526mb%253D48.496331~10.735726~47.783054~12.415421%2526cardbg%253D%252523F98745&tstt0=Munich%2C%20Bavaria%2C%20Germany&cp=48.143448~-8.653598&lvl=4.11&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%89%e3%82%a4%e3%83%84+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " ドイツ への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%89%e3%82%a4%e3%83%84+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 965,
+            "Y": 117,
+            "Width": 1786,
+            "Height": 1244,
+            "Label": "wheel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9f%e3%83%a5%e3%83%b3%e3%83%98%e3%83%b3%e3%81%ae%e3%82%aa%e3%82%af%e3%83%88%e3%83%bc%e3%83%90%e3%83%bc%e3%83%95%e3%82%a7%e3%82%b9%e3%83%88&form=BGABWCTA11&filters=HpDate:\"20250919_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",

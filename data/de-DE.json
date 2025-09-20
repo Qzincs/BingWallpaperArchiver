@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestHackerFestzelt_DE-DE2583035265_UHD.jpg",
+      "copyrighttext": "© Westend61/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Oktoberfest+M%c3%bcnchen&form=BGALM&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Hacker-Festzelt auf dem Oktoberfest, München, Bayern",
+      "description": "Heute ist der Tag, den Millionen Menschen sehnlichst erwartet haben: Das größte Volksfest der Welt beginnt wieder. Bis zum 5. Oktober findet das 190. Oktoberfest auf der Theresienwiese in München statt und verwandelt die berühmte „Wiesn“ in ein Meer aus bunten Festzelten, Fahrgeschäften und Ständen mit traditionellen Spezialitäten. Das traditionsreiche Fest geht auf das Jahr 1810 zurück, als Kronprinz Ludwig und Prinzessin Therese ihre Hochzeit mit einem großen Pferderennen feierten.",
+      "headline": "O'zapft is!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestHackerFestzelt\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.133888,11.550333/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.133888,11.550333;S9;munich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=munich&satid=id.sid%3A7f38f401-452d-d25b-059c-487e14b70a85&vdpid=7021484408976703489&mb=48.496331~10.735726~47.783054~12.415421&cardbg=%23F98745&tt=Munich%2C%20Bavaria%2C%20Germany&tsts0=%2526ty%253D30%2526q%253Dmunich%2526satid%253Did.sid%25253A7f38f401-452d-d25b-059c-487e14b70a85%2526vdpid%253D7021484408976703489%2526mb%253D48.496331~10.735726~47.783054~12.415421%2526cardbg%253D%252523F98745&tstt0=Munich%2C%20Bavaria%2C%20Germany&cp=48.143448~-8.653598&lvl=4.11&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "20. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+M%c3%bcnchen%2c+Bayern&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  München, Bayern"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++M%c3%bcnchen%2c+Bayern&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oktoberfest+M%c3%bcnchen&form=BGABWCTA11&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",

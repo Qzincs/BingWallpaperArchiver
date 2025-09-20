@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "https://www.bing.com/th?id=OHR.PaellaDay_ES-ES0490054669_UHD.jpg",
+      "copyrighttext": "© Pablo Escuder Cano/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Albufera+Valencia&form=BGALM&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Campo de arroz en el parque natural de la Albufera, Valencia, España",
+      "description": "Cada 20 de septiembre se celebra el Día Mundial de la Paella, un homenaje internacional al plato que nació en los arrozales de la Albufera de Valencia y que hoy es símbolo de cultura y convivencia. La paella fue reconocida en 2021 como Bien de Interés Cultural, y su receta, con variantes como la marinera, la mixta o la de montaña, refleja la riqueza de la gastronomía española.",
+      "headline": "¡No es pa' ella, es pa' mí!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_PaellaDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Albufera+Valencia&form=BGABWCTA7&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Albufera+Valencia&form=BGABWCTA11&filters=HpDate:\"20250919_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",
