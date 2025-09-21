@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.TenutaPiemonte_IT-IT3634009863_UHD.jpg",
+      "copyrighttext": "© Diana Robinson Photography/Moment",
+      "copyrightlink": "https://www.bing.com/search?q=Pinerolo+%c3%a8+un+comune+italiano&form=BGALM&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Viale alberato, Pinerolo, Torino, Piemonte",
+      "description": "L’autunno comincia piano, come un pensiero che si fa strada senza far rumore. Sul viale piemontese, gli alberi ancora verdi lasciano cadere le prime foglie, leggere come sospiri. È quel momento sospeso in cui l’estate non ha del tutto ceduto, ma l’autunno già s’insinua tra i rami, con la sua malinconia gentile. C’è una luce diversa, più obliqua, che accarezza le cose come se volesse trattenerle un po’ più a lungo. I passi si fanno più lenti, come se il paesaggio chiedesse silenzio. Cesare Pavese, che di queste terre conosceva ogni piega, scriveva: \"Ogni nuovo mattino, uscirò per le strade cercando i colori.\" E qui, i colori si fanno più tenui, più veri. Il verde si arrende al giallo, al rame, al silenzio. Camminare su questo viale è come sfogliare una poesia che non ha bisogno di parole. Il Piemonte in autunno non grida, sussurra. E in quel sussurro c’è tutta la bellezza di ciò che cambia, di ciò che finisce per ricominciare.",
+      "headline": "Visioni nei viali del vento",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_TenutaPiemonte\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.884917,7.330801/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.884917,7.330801;S9;Pinerolo, Torino, Piemonte&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Pinerolo%20Piemonte&satid=id.sid%3A93f60743-e9f9-8508-b7eb-372be661f193&vdpid=7208161901509869569&mb=44.898875~7.28893~44.872555~7.35774&cardbg=%23F98745&tt=Pinerolo%2C%2010064%2C%20Torino%2C%20Piemonte%2C%20Italia&tsts0=%2526ty%253D30%2526q%253DPinerolo%252520Piemonte%2526satid%253Did.sid%25253A93f60743-e9f9-8508-b7eb-372be661f193%2526vdpid%253D7208161901509869569%2526mb%253D44.898875~7.28893~44.872555~7.35774%2526cardbg%253D%252523F98745&tstt0=Pinerolo%2C%2010064%2C%20Torino%2C%20Piemonte%2C%20Italia&cp=44.885736~7.307888&lvl=14.461616&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "21 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Pinerolo%2c+Torino%2c+Piemonte&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Pinerolo, Torino, Piemonte"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Pinerolo%2c+Torino%2c+Piemonte&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pinerolo+%c3%a8+un+comune+italiano&form=BGABWCTA11&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",

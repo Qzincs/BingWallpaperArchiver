@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_PT-BR6824532260_UHD.jpg",
+      "copyrighttext": "© LOOK-foto/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=a+Oktoberfest+na+Alemanha&form=BGALM&filters=HpDate:\"20250920_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Carrossel de balanço na Oktoberfest, Munique, Baviera, Alemanha",
+      "description": "Hoje, Munique está a mil com a Oktoberfest — a maior celebração do gênero no mundo. O festival segue até 5 de outubro, três dias antes da abertura da nossa própria versão em Blumenau, considerada a segunda maior do planeta. Na Alemanha, são 16 dias em que mais de seis milhões de pessoas se encontram para brindar com quase sete milhões de litros da famosa cerveja bávara e consumir montanhas de salsichas, pretzels crocantes e muitas horas ao som da música típica que faz todo mundo se levantar, dançar e cantar junto.",
+      "headline": "No balanço de Munique",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=a+Oktoberfest+na+Alemanha&form=BGABWCTA7&filters=HpDate:\"20250920_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 965,
+            "Y": 117,
+            "Width": 1786,
+            "Height": 1244,
+            "Label": "wheel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=a+Oktoberfest+na+Alemanha&form=BGABWCTA11&filters=HpDate:\"20250920_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",

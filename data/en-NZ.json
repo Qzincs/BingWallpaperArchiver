@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_ROW4294317377_UHD.jpg",
+      "copyrighttext": "© LOOK-foto/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=BGALM&filters=HpDate:\"20250920_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany",
+      "description": "Every year, between late September and early October, Theresienwiese, a square in Munich, Germany, transforms into one of the world's largest festivals—Oktoberfest. First held in 1810 to celebrate a royal wedding, it has grown into a 16- to 18-day tradition attracting more than six million people from around the globe. The scale is staggering: the festival grounds span about 42 hectares and host 14 main tents, each seating thousands. Each year, visitors consume around seven million litres of beer, along with mountains of pretzels, sausages and gingerbread hearts. All beer served at Oktoberfest comes from Munich breweries and meets the strict standards of the Reinheitsgebot, the German Beer Purity Law.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Oktoberfest&form=BGABWCTA7&filters=HpDate:\"20250920_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 965,
+            "Y": 117,
+            "Width": 1786,
+            "Height": 1244,
+            "Label": "wheel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oktoberfest&form=BGABWCTA11&filters=HpDate:\"20250920_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",

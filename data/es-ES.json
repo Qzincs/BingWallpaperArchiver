@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_ES-ES0527606822_UHD.jpg",
+      "copyrighttext": "© Gerald Corsi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nutrias+marinas&form=BGALM&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nutrias marinas, Prince William Sound, Alaska, EE. UU.",
+      "description": "¿Sabías que las nutrias marinas no solo flotan plácidamente sobre el agua? Detrás de esos ojos brillantes se esconde un papel esencial para la naturaleza. Cada año, desde 2003, la Semana de Concienciación sobre la Nutria Marina, impulsada por la organización Defenders of Wildlife, recuerda la importancia de este animal en los ecosistemas costeros.",
+      "headline": "¡Ya tengo mi piedra favorita!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nutrias+marinas&form=BGABWCTA7&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 1050,
+            "Width": 995,
+            "Height": 726,
+            "Label": "harbor seal",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nutrias+marinas&form=BGABWCTA11&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",

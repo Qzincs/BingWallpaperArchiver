@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250920",
+      "fullstartdate": "20250920",
+      "enddate": "20250921",
+      "urlbase": "https://www.bing.com/th?id=OHR.OktoberfestSwing_EN-CA4280103942_UHD.jpg",
+      "copyrighttext": "© LOOK-foto/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Oktoberfest&form=BGALM&filters=HpDate:\"20250920_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Swing carousel at Oktoberfest, Munich, Bavaria, Germany",
+      "description": "Every fall, Munich's Theresienwiese transforms into one of the world's largest folk festivals—Oktoberfest. First held in 1810 as a royal wedding celebration, it now draws some 6 million revellers over the span of over two weeks. The scale is astonishing: around 420,000 square metres packed with 14 grand beer tents, vast quantities of pretzels, sausages and ginger-bread hearts. Beyond the brews and brats, the fairground is a carnival in its own, teeming with roller coasters, games and thrill rides like the Wellenflug swing carousel, offering sweeping views of the festivities and Munich skyline. This year, the Munich celebration starts today and runs through 5 October.",
+      "headline": "A tale of brews and views",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250920_OktoberfestSwing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.1375,11.575/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.1375,11.575;S9;Munich, Bavaria, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=munich&satid=id.sid%3A7f38f401-452d-d25b-059c-487e14b70a85&vdpid=7021484408976703489&mb=48.496331~10.735726~47.783054~12.415421&cardbg=%23F98745&tt=Munich%2C%20Bavaria%2C%20Germany&tsts0=%2526ty%253D30%2526q%253Dmunich%2526satid%253Did.sid%25253A7f38f401-452d-d25b-059c-487e14b70a85%2526vdpid%253D7021484408976703489%2526mb%253D48.496331~10.735726~47.783054~12.415421%2526cardbg%253D%252523F98745&tstt0=Munich%2C%20Bavaria%2C%20Germany&cp=48.143448~-8.653598&lvl=4.11&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Munich%2c+Bavaria%2c+Germany&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Munich, Bavaria, Germany"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Munich%2c+Bavaria%2c+Germany&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 965,
+            "Y": 117,
+            "Width": 1786,
+            "Height": 1244,
+            "Label": "wheel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oktoberfest&form=BGABWCTA11&filters=HpDate:\"20250920_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250919",
       "fullstartdate": "20250919",
       "enddate": "20250920",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.EtretatBeach_FR-FR4685460454_UHD.jpg",
+      "copyrighttext": "© Luis Henrique Boucault/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Falaises+d%e2%80%99%c3%89tretat&form=BGALM&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "L’aiguille et la Porte d’Aval, falaises d’Étretat, Normandie",
+      "description": "Face à l’immensité bleue de la Manche, les falaises d’Étretat dressent leurs arches et leur aiguille comme une cathédrale minérale façonnée par le temps. Depuis des millénaires, la mer y sculpte une œuvre que nul architecte n’aurait pu imaginer : falaises de craie blanche, percées de portails gothiques et ponctuées de colonnes naturelles dialoguant avec la lumière changeante du ciel normand. Quel meilleur décor pour célébrer les Journées Européennes du Patrimoine ce week-end ?",
+      "headline": "Une cathédrale de pierre et de mer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_EtretatBeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.706882,0.193857/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=49.706882,0.193857;S9;Falaises d’Étretat, Normandie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Falaises%20d%27%C3%89tretat&ss=ypid.2000x1823563312382645785&mb=49.71517~0.171965~49.692639~0.207503&description=Falaise%20D%27etretat%2076790%20Etretat%2C%2076790%20Etretat&cardbg=%23219AB6&dt=1755777600000&tt=Falaises%20d%27%C3%89tretat&tsts0=%2526ty%253D18%2526q%253DFalaises%252520d%252527%2525C3%252589tretat%2526ss%253Dypid.2000x1823563312382645785%2526mb%253D49.71517~0.171965~49.692639~0.207503%2526description%253DFalaise%252520D%252527etretat%25252076790%252520Etretat%25252C%25252076790%252520Etretat%2526cardbg%253D%252523219AB6%2526dt%253D1755777600000&tstt0=Falaises%20d%27%C3%89tretat&cp=49.703906~0.166975&lvl=14.88&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "21 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+falaises+d%e2%80%99%c3%89tretat%2c+Normandie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  falaises d’Étretat, Normandie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++falaises+d%e2%80%99%c3%89tretat%2c+Normandie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Falaises+d%e2%80%99%c3%89tretat&form=BGABWCTA11&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",

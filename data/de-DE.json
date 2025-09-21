@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_DE-DE0331090947_UHD.jpg",
+      "copyrighttext": "© Gerald Corsi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Seeotter&form=BGALM&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Seeotter, Prinz-William-Sund, Alaska, USA",
+      "description": "Auf dem heutigen Bild sind Seeotter im Prinz-William-Sund in Alaska, USA, zu sehen. Seeotter sind wahre Meister des Komforts in kaltem Wasser. Sie besitzen das dichteste Fell im gesamten Tierreich mit bis zu 150.000 Haaren pro Quadratzentimeter. Dieses natürliche „Pelzkleid“ ermöglicht es ihnen, stundenlang in eiskaltem Wasser zu treiben, ohne Wärme zu verlieren. Seeotter sind soziale, verspielte und sehr intelligente Tiere: Sie benutzen Steine als Werkzeuge, um Muscheln zu öffnen, und ruhen oft auf dem Rücken, eingewickelt in Algen, damit sie nicht abtreiben. Beim Schlafen halten sie sich an den Pfoten – ein Verhalten, das weltweit Herzen erobert hat.",
+      "headline": "Warmes Herz in eisigen Küsten",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.35995,-147.166448/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=61.35995,-147.166448;S9;Prinz-William-Sund, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Prince%20William%20Sound&satid=id.sid%3A29941807-b5a6-9c10-9422-404393ee040d&vdpid=4727439778876751873&mb=61.432823~-150.262591~59.776555~-144.069448&cardbg=%23F98745&dt=1754555400000&tt=Prince%20William%20Sound%2C%20Alaska%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DPrince%252520William%252520Sound%2526satid%253Did.sid%25253A29941807-b5a6-9c10-9422-404393ee040d%2526vdpid%253D4727439778876751873%2526mb%253D61.432823~-150.262591~59.776555~-144.069448%2526cardbg%253D%252523F98745%2526dt%253D1754555400000&tstt0=Prince%20William%20Sound%2C%20Alaska%2C%20United%20States&cp=59.292475~-157.08537&lvl=5.09&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "21. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Prinz-William-Sund%2c+Alaska%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Prinz-William-Sund, Alaska, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Prinz-William-Sund%2c+Alaska%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 1050,
+            "Width": 995,
+            "Height": 726,
+            "Label": "harbor seal",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Seeotter&form=BGABWCTA11&filters=HpDate:\"20250920_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",
