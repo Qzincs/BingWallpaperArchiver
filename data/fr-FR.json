@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250922",
+      "fullstartdate": "20250922",
+      "enddate": "20250923",
+      "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_FR-FR4843698159_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%c3%a9quinoxe+automne+2025&form=BGALM&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Peupliers faux-trembles en automne, forêt nationale de Fishlake, Utah, États-Unis",
+      "description": "Dans l’Utah, aux États-Unis, la forêt nationale de Fishlake s’embrase d’or à l’équinoxe d’automne. Ses peupliers faux-trembles, reliés par un réseau invisible de racines, vibrent comme un seul organisme : l’un des plus vastes êtres vivants de la planète. Sous la lumière qui équilibre le jour et la nuit, c’est-à-dire lorsque leur durée devient presque identique, leurs troncs blancs scintillent, rappelant les anciens rites où l’équinoxe marquait un seuil sacré.",
+      "headline": "Peupliers faux-trembles… mais pas de peur !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.766464,-112.087761/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.766464,-112.087761;S9;Forêt nationale de Fishlake, Utah, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Fishlake%20National%20Forest%2C%20Utah&ss=ypid.YN882x15286524&mb=38.771936~-112.09548~38.760994~-112.08003&description=115%20E%20900%20N%2C%20Richfield%2C%20UT%2084701&cardbg=%23219AB6&dt=1754559000000&tt=Fishlake%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DFishlake%252520National%252520Forest%25252C%252520Utah%2526ss%253Dypid.YN882x15286524%2526mb%253D38.771936~-112.09548~38.760994~-112.08003%2526description%253D115%252520E%252520900%252520N%25252C%252520Richfield%25252C%252520UT%25252084701%2526cardbg%253D%252523219AB6%2526dt%253D1754559000000&tstt0=Fishlake%20National%20Forest&cp=32.590986~-123.690728&lvl=4.8301044&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+for%c3%aat+nationale+de+Fishlake%2c+Utah%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  forêt nationale de Fishlake, Utah, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++for%c3%aat+nationale+de+Fishlake%2c+Utah%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%c3%a9quinoxe+automne+2025&form=BGABWCTA11&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250921",
       "fullstartdate": "20250921",
       "enddate": "20250922",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250922",
+      "fullstartdate": "20250922",
+      "enddate": "20250923",
+      "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_EN-IN2120497410_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Autumn+equinox&form=BGALM&filters=HpDate:\"20250921_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Aspen trees during autumn Fishlake National Forest, Utah, United States",
+      "description": "Autumn isn't just marked by the calendar. Each September, Earth's subtle tilt brings the autumn equinox—one of two times a year when day and night are nearly equal in length. It marks the beginning of autumn in the Northern Hemisphere. From solar alignments to changing leaves, nature offers its own quiet signals that the season has shifted. While for most of us it may seem like just another day, ancient cultures paid close attention to this change. Sites like Chichén Itzá in Mexico and England's Stonehenge were designed to align with the rising or setting sun during equinox days.",
+      "headline": "Midway to winter",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.766464,-112.087761/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=38.766464,-112.087761;S9;Fishlake National Forest, Utah, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Fishlake%20National%20Forest%2C%20Utah&ss=ypid.YN882x15286524&mb=38.771936~-112.09548~38.760994~-112.08003&description=115%20E%20900%20N%2C%20Richfield%2C%20UT%2084701&cardbg=%23219AB6&dt=1754559000000&tt=Fishlake%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DFishlake%252520National%252520Forest%25252C%252520Utah%2526ss%253Dypid.YN882x15286524%2526mb%253D38.771936~-112.09548~38.760994~-112.08003%2526description%253D115%252520E%252520900%252520N%25252C%252520Richfield%25252C%252520UT%25252084701%2526cardbg%253D%252523219AB6%2526dt%253D1754559000000&tstt0=Fishlake%20National%20Forest&cp=32.590986~-123.690728&lvl=4.8301044&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Utah%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Utah, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Utah%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Autumn+equinox&form=BGABWCTA11&filters=HpDate:\"20250921_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250921",
       "fullstartdate": "20250921",
       "enddate": "20250922",

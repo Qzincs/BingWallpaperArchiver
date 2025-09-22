@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_ROW4423609000_UHD.jpg",
+      "copyrighttext": "© Gerald Corsi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sea+Otter&form=BGALM&filters=HpDate:\"20250921_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sea otters, Prince William Sound, Alaska, United States",
+      "description": "Think sea otters are just about whiskers and floating naps? There's more going on behind those button eyes. In Prince William Sound, in Alaska, United States, sea otters drift on ice or crack shellfish on their bellies using their favourite rock, as seen in today's image. Less visible is how their appetite for sea urchins helps protect kelp forests.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sea+Otter&form=BGABWCTA7&filters=HpDate:\"20250921_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 1050,
+            "Width": 995,
+            "Height": 726,
+            "Label": "harbor seal",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Sea+Otter&form=BGABWCTA11&filters=HpDate:\"20250921_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250922",
+      "fullstartdate": "20250922",
+      "enddate": "20250923",
+      "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_ES-ES0554126679_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=equinoccio+de+oto%c3%b1o&form=BGALM&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Álamos durante el otoño, Bosque Nacional Fishlake, Utah, EE. UU.",
+      "description": "El otoño no solo llega marcado en el calendario. Cada septiembre, el equinoccio anuncia el cambio de estación en el hemisferio norte: un día en el que la luz y la oscuridad duran casi lo mismo. Para las culturas antiguas, este momento era sagrado, y construcciones como Stonehenge, en Inglaterra, o Chichén Itzá, en México, se alinearon con el sol para celebrarlo.",
+      "headline": "El color del otoño",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=equinoccio+de+oto%c3%b1o&form=BGABWCTA7&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=equinoccio+de+oto%c3%b1o&form=BGABWCTA11&filters=HpDate:\"20250921_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250921",
       "fullstartdate": "20250921",
       "enddate": "20250922",

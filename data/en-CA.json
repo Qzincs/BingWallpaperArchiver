@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_EN-CA4744258157_UHD.jpg",
+      "copyrighttext": "© Gerald Corsi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=BGALM&filters=HpDate:\"20250921_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sea otters, Prince William Sound, Alaska, United States",
+      "description": "Think sea otters are just about whiskers and floating naps? There's more going on behind those button eyes. Every year, Sea Otter Awareness Week highlights their role in maintaining coastal ecosystems. Launched in 2003 by Defenders of Wildlife—a nonprofit conservation organisation—this week promotes education and action. In Prince William Sound, in Alaska, United States, sea otters drift on ice or crack shellfish on their bellies using their favourite rock, as seen in today's image. Less visible is how their appetite for sea urchins helps protect kelp forests.",
+      "headline": "Otterly cool",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.35995,-147.166448/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=61.35995,-147.166448;S9;Prince William Sound, Alaska, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Prince%20William%20Sound&satid=id.sid%3A29941807-b5a6-9c10-9422-404393ee040d&vdpid=4727439778876751873&mb=61.432823~-150.262591~59.776555~-144.069448&cardbg=%23F98745&dt=1754555400000&tt=Prince%20William%20Sound%2C%20Alaska%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DPrince%252520William%252520Sound%2526satid%253Did.sid%25253A29941807-b5a6-9c10-9422-404393ee040d%2526vdpid%253D4727439778876751873%2526mb%253D61.432823~-150.262591~59.776555~-144.069448%2526cardbg%253D%252523F98745%2526dt%253D1754555400000&tstt0=Prince%20William%20Sound%2C%20Alaska%2C%20United%20States&cp=59.292475~-157.08537&lvl=5.09&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Prince+William+Sound%2c+Alaska%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Prince William Sound, Alaska, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Prince+William+Sound%2c+Alaska%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 1050,
+            "Width": 995,
+            "Height": 726,
+            "Label": "harbor seal",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Sea+Otter+Awareness+Week&form=BGABWCTA11&filters=HpDate:\"20250921_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250922",
+      "fullstartdate": "20250922",
+      "enddate": "20250923",
+      "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_JA-JP8804759807_UHD.jpg",
+      "copyrighttext": "© Juan Carlos Vindas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%b7%e3%83%a7%e3%82%af%e3%82%ad%e3%83%a0%e3%83%8d%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=BGALM&filters=HpDate:\"20250921_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "サンショクキムネオオハシ, コスタリカ",
+      "description": "今日の画像は、虹のような色合いのくちばしが特徴的なサンショクキムネオオハシ。メキシコ南部からコロンビア北部にかけての熱帯雨林に分布するオオハシ科の鳥です。そのくちばしは体長の約 3 分の 1 を占めており、クチバシ内の血管を通して体内の余分な熱を外に逃がしているといわれています…",
+      "headline": "色とりどりのくちばしを持つオオハシ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_ToucanForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/10,-84/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=10,-84;S9;コスタリカ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=costa%20rica&vdpid=54&mb=11.232286~-87.260425~8.009672~-81.307691&cardbg=%23F98745&dt=1754893800000&tt=Costa%20Rica&tsts0=%2526ty%253D30%2526q%253Dcosta%252520rica%2526vdpid%253D54%2526mb%253D11.232286~-87.260425~8.009672~-81.307691%2526cardbg%253D%252523F98745%2526dt%253D1754893800000&tstt0=Costa%20Rica&cp=9.626826~-85.515233&lvl=8.1471195&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 22 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b3%e3%82%b9%e3%82%bf%e3%83%aa%e3%82%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " コスタリカ への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b3%e3%82%b9%e3%82%bf%e3%83%aa%e3%82%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2701,
+            "Y": 1169,
+            "Width": 818,
+            "Height": 644,
+            "Label": "wild bird",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%b7%e3%83%a7%e3%82%af%e3%82%ad%e3%83%a0%e3%83%8d%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%b7&form=BGABWCTA11&filters=HpDate:\"20250921_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250921",
       "fullstartdate": "20250921",
       "enddate": "20250922",

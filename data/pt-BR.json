@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250921",
+      "fullstartdate": "20250921",
+      "enddate": "20250922",
+      "urlbase": "https://www.bing.com/th?id=OHR.IceOtters_PT-BR7598435461_UHD.jpg",
+      "copyrighttext": "© Gerald Corsi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=lontra+marinha&form=BGALM&filters=HpDate:\"20250921_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lontras-marinhas em Prince William Sound, Alasca, EUA",
+      "description": "Engana-se quem pensa que lontras-marinhas se resumem a bigodes simpáticos e sonecas flutuantes. Por trás dos olhos curiosos, escondem-se grandes responsabilidades e desafios ainda maiores. Entre 1741 e 1911, a caça por suas peles quase as levou à extinção. A conservação lhes deu uma segunda chance, mas derramamentos de óleo, redes de pesca, doenças e oceanos cada vez mais quentes continuam a ameaçar seu futuro.",
+      "headline": "As jardineiras do gelo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250921_IceOtters\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=lontra+marinha&form=BGABWCTA7&filters=HpDate:\"20250921_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 1050,
+            "Width": 995,
+            "Height": 726,
+            "Label": "harbor seal",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=lontra+marinha&form=BGABWCTA11&filters=HpDate:\"20250921_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250920",
       "fullstartdate": "20250920",
       "enddate": "20250921",
