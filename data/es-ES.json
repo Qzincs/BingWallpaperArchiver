@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250923",
+      "fullstartdate": "20250923",
+      "enddate": "20250924",
+      "urlbase": "https://www.bing.com/th?id=OHR.SportWeekTeide_ES-ES0590010437_UHD.jpg",
+      "copyrighttext": "© Rafal Michal Gadomski/ShutterStock",
+      "copyrightlink": "https://www.bing.com/search?q=parque+nacional+del+teide&form=BGALM&filters=HpDate:\"20250922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parapente sobre el Parque Nacional del Teide, Tenerife, Islas Canarias, España",
+      "description": "Del 23 al 30 de septiembre, Europa entera se mueve con la Semana Europea del Deporte, una iniciativa que promueve la Comisión Europea y que en España lidera el Consejo Superior de Deportes. El objetivo es sencillo y poderoso: dejar a un lado el sedentarismo y redescubrir la alegría de la actividad física, sea cual sea tu edad o condición. Nuestro país es uno de los grandes motores de este movimiento. No es casualidad que varias ciudades españolas hayan sido reconocidas como Capital Europea del Deporte. Aquí el deporte no se entiende solo como competición, sino también como salud, convivencia y conexión con la naturaleza.",
+      "headline": "¡Deporte al aire libre!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_SportWeekTeide\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=parque+nacional+del+teide&form=BGABWCTA7&filters=HpDate:\"20250922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=parque+nacional+del+teide&form=BGABWCTA11&filters=HpDate:\"20250922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250922",
       "fullstartdate": "20250922",
       "enddate": "20250923",

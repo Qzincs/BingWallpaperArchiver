@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250922",
+      "fullstartdate": "20250922",
+      "enddate": "20250923",
+      "urlbase": "https://www.bing.com/th?id=OHR.AspenEquinox_ROW4592504146_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Aspen+trees&form=BGALM&filters=HpDate:\"20250922_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Aspen trees during autumn, Fishlake National Forest, Utah, United States",
+      "description": "Nature is full of wonders, and one of its most magical creations is the aspen trees, featured in today's image. Unlike ordinary trees, these aspens don't grow from separate seeds; instead, new trees sprout from the roots of existing ones, forming large groups of connected trees where all the trees belong to the same organism. The largest and oldest colony of aspen trees, named Pando, is located in Fishlake National Forest, in Utah, United States, covering an area of about 43 hectares.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_AspenEquinox\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Aspen+trees&form=BGABWCTA7&filters=HpDate:\"20250922_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Aspen+trees&form=BGABWCTA11&filters=HpDate:\"20250922_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250921",
       "fullstartdate": "20250921",
       "enddate": "20250922",

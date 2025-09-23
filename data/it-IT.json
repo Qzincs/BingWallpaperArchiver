@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250923",
+      "fullstartdate": "20250923",
+      "enddate": "20250924",
+      "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_IT-IT3771106703_UHD.jpg",
+      "copyrighttext": "© Juan Carlos Vindas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Tucano+carenato&form=BGALM&filters=HpDate:\"20250922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Tucano carenato, Costa Rica",
+      "description": "Nel cuore pulsante della foresta tropicale, dove la luce filtra come oro liquido tra le foglie, appare una creatura che sembra uscita da un sogno: il tucano dal becco carenato. Tra l’umidità che avvolge ogni cosa e il profumo dolce della frutta matura, il suo arrivo è come un lampo di meraviglia che interrompe la quiete. Con il suo piumaggio nero vellutato, il petto giallo acceso e quel becco che sfida ogni regola della discrezione, il tucano non vola: danza tra i rami, come una pennellata viva nel verde.",
+      "headline": "Ritmo tropicale",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_ToucanForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.979021,-84.195129/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=9.979021,-84.195129;S9;Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=costa%20rica&vdpid=54&mb=11.232286~-87.260425~8.009672~-81.307691&cardbg=%23F98745&dt=1754893800000&tt=Costa%20Rica&tsts0=%2526ty%253D30%2526q%253Dcosta%252520rica%2526vdpid%253D54%2526mb%253D11.232286~-87.260425~8.009672~-81.307691%2526cardbg%253D%252523F98745%2526dt%253D1754893800000&tstt0=Costa%20Rica&cp=9.626826~-85.515233&lvl=8.1471195&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Costa+Rica&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Costa Rica"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Costa+Rica&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2701,
+            "Y": 1169,
+            "Width": 818,
+            "Height": 644,
+            "Label": "wild bird",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Tucano+carenato&form=BGABWCTA11&filters=HpDate:\"20250922_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250922",
       "fullstartdate": "20250922",
       "enddate": "20250923",

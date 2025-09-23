@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250923",
+      "fullstartdate": "20250923",
+      "enddate": "20250924",
+      "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_EN-GB8333466039_UHD.jpg",
+      "copyrighttext": "© Juan Carlos Vindas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Keel+billed+toucan&form=BGALM&filters=HpDate:\"20250922_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Keel-billed toucan in Costa Rica",
+      "description": "Spot a flash of yellow on its chest and a bill that looks painted by an artist—that's the keel-billed toucan. A member of the Ramphastidae family, which includes toucan barbets, it is one of more than 40 toucan species. Found from southern Mexico to northern Colombia, it spends much of its day plucking fruit with a rainbow-coloured bill about one-third of its total length. It also eats insects, eggs and small reptiles when available. The bill not only helps it eat but also keeps the toucan cool by radiating excess heat—thanks to the blood vessels running through it. This social bird often moves in small groups, chattering and gliding between treetops. With each wing measuring around 18–20 centimetres, the keel-billed toucan molts, or sheds its feathers, just once a year.",
+      "headline": "Beak-side story",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_ToucanForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.979021,-84.195129/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=9.979021,-84.195129;S9;Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=costa%20rica&vdpid=54&mb=11.232286~-87.260425~8.009672~-81.307691&cardbg=%23F98745&dt=1754893800000&tt=Costa%20Rica&tsts0=%2526ty%253D30%2526q%253Dcosta%252520rica%2526vdpid%253D54%2526mb%253D11.232286~-87.260425~8.009672~-81.307691%2526cardbg%253D%252523F98745%2526dt%253D1754893800000&tstt0=Costa%20Rica&cp=9.626826~-85.515233&lvl=8.1471195&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Keel+billed+toucan&form=BGABWCTA7&filters=HpDate:\"20250922_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2701,
+            "Y": 1169,
+            "Width": 818,
+            "Height": 644,
+            "Label": "wild bird",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Keel+billed+toucan&form=BGABWCTA11&filters=HpDate:\"20250922_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250922",
       "fullstartdate": "20250922",
       "enddate": "20250923",

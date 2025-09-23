@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250923",
+      "fullstartdate": "20250923",
+      "enddate": "20250924",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnEquinox2025_JA-JP9152081751_UHD.jpg",
+      "copyrighttext": "© kororokerokero/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%a7%8b%e3%81%ae%e4%b8%83%e8%8d%89+%e3%83%8f%e3%82%ae&form=BGALM&filters=HpDate:\"20250922_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "秋の七草 ハギ",
+      "description": "今日 9 月 23 日は秋分の日。昼と夜の長さがほぼ同じになる「秋分点」を迎える日であり、国民の祝日の一つでもあります。また、お彼岸の中日とも重なり、多くの人がお墓参りをし、故人を偲びます…",
+      "headline": "今日は秋分の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_AutumnEquinox2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%a7%8b%e3%81%ae%e4%b8%83%e8%8d%89+%e3%83%8f%e3%82%ae&form=BGABWCTA7&filters=HpDate:\"20250922_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%a7%8b%e3%81%ae%e4%b8%83%e8%8d%89+%e3%83%8f%e3%82%ae&form=BGABWCTA11&filters=HpDate:\"20250922_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250922",
       "fullstartdate": "20250922",
       "enddate": "20250923",

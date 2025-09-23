@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250922",
+      "fullstartdate": "20250922",
+      "enddate": "20250923",
+      "urlbase": "https://www.bing.com/th?id=OHR.Primavera25_PT-BR8233875845_UHD.jpg",
+      "copyrighttext": "© Wilton mitsuo miwa/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=primavera&form=BGALM&filters=HpDate:\"20250922_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Árvore de ipê-amarelo em floração",
+      "description": "Quando setembro se despede, o clima ainda é seco e nada mais ousa crescer, eles decidem florescer em uníssono. Hoje, no primeiro dia da primavera, quem melhor que o ipê-amarelo para iluminar nossa imagem? Ele floresce nos rastros do inverno, de julho a setembro, e colore a vida brasileira com precisão e delicadeza.",
+      "headline": "Seja bem-vinda, primavera!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250922_Primavera25\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=primavera&form=BGABWCTA7&filters=HpDate:\"20250922_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=primavera&form=BGABWCTA11&filters=HpDate:\"20250922_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250921",
       "fullstartdate": "20250921",
       "enddate": "20250922",
