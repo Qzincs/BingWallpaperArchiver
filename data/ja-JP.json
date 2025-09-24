@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250924",
+      "fullstartdate": "20250924",
+      "enddate": "20250925",
+      "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_JA-JP0426816004_UHD.jpg",
+      "copyrighttext": "© Laura Hedien/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%87%e3%83%93%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%af%e3%83%bc&form=BGALM&filters=HpDate:\"20250923_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "デビルスタワー, 米国 ワイオミング州",
+      "description": "雷光に照らされるデビルスタワー。米国ワイオミング州北東部に位置する標高 1,558ｍ の巨大な岩山であり、1906 年に、同国初の国定記念物に指定されています。火山活動によって地下に侵入したマグマが冷えて凝固した後、長い年月をかけて周囲を浸食し、地表に現れた岩頸と呼ばれる地形をしています…",
+      "headline": "空を切り裂く稲妻と巨大な岩山",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.590206,-104.714645/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.590206,-104.714645;S9;デビルスタワー, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Devils%20Tower%20National%20Monument&ss=ypid.YN873x12606429545070815035&segment=Attraction&mb=44.596052~-104.724641~44.584362~-104.704642&description=Hwy%20110%20Bldg%20170%2C%20Devils%20Tower%2C%20WY%2082714&poicount=18&cardbg=%23219AB6&dt=1754494200000&tt=Devils%20Tower%20National%20Monument&tsts0=%2526ty%253D18%2526q%253DDevils%252520Tower%252520National%252520Monument%2526ss%253Dypid.YN873x12606429545070815035%2526segment%253DAttraction%2526mb%253D44.596052~-104.724641~44.584362~-104.704642%2526description%253DHwy%252520110%252520Bldg%252520170%25252C%252520Devils%252520Tower%25252C%252520WY%25252082714%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1754494200000&tstt0=Devils%20Tower%20National%20Monument&cp=40.490276~-114.306269&lvl=5.059649&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 24 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%a4%e3%82%aa%e3%83%9f%e3%83%b3%e3%82%b0%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ワイオミング州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%a4%e3%82%aa%e3%83%9f%e3%83%b3%e3%82%b0%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 712,
+            "Y": 657,
+            "Width": 1102,
+            "Height": 832,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%87%e3%83%93%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%af%e3%83%bc&form=BGABWCTA11&filters=HpDate:\"20250923_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250923",
       "fullstartdate": "20250923",
       "enddate": "20250924",

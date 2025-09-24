@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250924",
+      "fullstartdate": "20250924",
+      "enddate": "20250925",
+      "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_ES-ES0617575565_UHD.jpg",
+      "copyrighttext": "© Laura Hedien/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+Devils+Tower&form=BGALM&filters=HpDate:\"20250923_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monumento Nacional Devils Tower, Wyoming, EE. UU.",
+      "description": "En el noreste de Wyoming (Estados Unidos) se alza la majestuosa Torre del Diablo (Devils Tower), una formación rocosa que irrumpe en las praderas como un enorme pilar natural. Declarada en 1906 el primer monumento nacional de Estados Unidos por el presidente Theodore Roosevelt, es hoy un símbolo del poder de la naturaleza.",
+      "headline": "El gigante solitario",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monumento+Nacional+Devils+Tower&form=BGABWCTA7&filters=HpDate:\"20250923_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 712,
+            "Y": 657,
+            "Width": 1102,
+            "Height": 832,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Monumento+Nacional+Devils+Tower&form=BGABWCTA11&filters=HpDate:\"20250923_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250923",
       "fullstartdate": "20250923",
       "enddate": "20250924",

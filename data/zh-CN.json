@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250924",
+      "fullstartdate": "20250924",
+      "enddate": "20250925",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.BearLodge_ZH-CN5880511888_UHD.jpg",
+      "copyrighttext": "© Laura Hedien/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%ad%94%e9%ac%bc%e5%a1%94%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=BGALM&filters=HpDate:\"20250923_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "魔鬼塔国家纪念碑, 怀俄明州，美国",
+      "description": "在怀俄明州东北部辽阔的草原上，矗立着魔鬼塔——一座从开阔平原拔地而起的岩石地貌。这座山丘原名熊屋，在1875年理查德·欧文·道奇上校率领的探险队中获得现名，据推测可能源于一名翻译将原住民的表述误译为“恶神之塔”。其官方名称省略的撇号符合标准地理命名惯例——因此路标均标注为“魔鬼塔”。1906年，西奥多·罗斯福总统将其指定为美国首个国家纪念碑，这一里程碑事件的周年纪念日正值今日。",
+      "headline": "孤独的巨人",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 24",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%ad%94%e9%ac%bc%e5%a1%94%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=BGABWCTA7&filters=HpDate:\"20250923_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 712,
+            "Y": 657,
+            "Width": 1102,
+            "Height": 832,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%ad%94%e9%ac%bc%e5%a1%94%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e7%a2%91&form=BGABWCTA11&filters=HpDate:\"20250923_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250923",
       "fullstartdate": "20250923",
       "enddate": "20250924",

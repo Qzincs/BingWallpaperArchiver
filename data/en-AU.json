@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250923",
+      "fullstartdate": "20250923",
+      "enddate": "20250924",
+      "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_ROW4747613727_UHD.jpg",
+      "copyrighttext": "© Juan Carlos Vindas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Keel+billed+toucan&form=BGALM&filters=HpDate:\"20250923_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Keel-billed toucan in Costa Rica",
+      "description": "Spot a flash of yellow on its chest and a bill that looks painted by an artist—that's the keel-billed toucan. A member of the Ramphastidae family, which includes toucan barbets, it is one of more than 40 toucan species. Found from southern Mexico to northern Colombia, it spends much of its day plucking fruit with a rainbow-coloured bill about one-third of its total length. It also eats insects, eggs and small reptiles when available. The bill not only helps it eat but also keeps the toucan cool by radiating excess heat—thanks to the blood vessels running through it. This social bird often moves in small groups, chattering and gliding between treetops. With each wing measuring around 18-20 centimetres, the keel-billed toucan moults, or sheds its feathers, just once a year.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_ToucanForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Keel+billed+toucan&form=BGABWCTA7&filters=HpDate:\"20250923_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2701,
+            "Y": 1169,
+            "Width": 818,
+            "Height": 644,
+            "Label": "wild bird",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Keel+billed+toucan&form=BGABWCTA11&filters=HpDate:\"20250923_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250922",
       "fullstartdate": "20250922",
       "enddate": "20250923",

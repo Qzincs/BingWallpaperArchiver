@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250923",
+      "fullstartdate": "20250923",
+      "enddate": "20250924",
+      "urlbase": "https://www.bing.com/th?id=OHR.ToucanForest_PT-BR8747698753_UHD.jpg",
+      "copyrighttext": "© Juan Carlos Vindas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Tucano+de+peito+amarelo&form=BGALM&filters=HpDate:\"20250923_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Tucano-de-peito-amarelo na Costa Rica",
+      "description": "Entre os galhos altos da mata, um lampejo de cor salta aos olhos. Com corpo ágil, bico multicolorido e olhar atento, esta é uma das mais de 40 espécies de tucano espalhadas pelo continente americano. Mas o protagonista da nossa imagem está entre as 22 espécies que encontramos no Brasil: trata-se do tucano-de-peito-amarelo, fotografado na Costa Rica. Seu bico, que chega a um terço do tamanho do corpo, ajuda tanto a alcançar frutas nos galhos mais altos quanto a regular a temperatura, funcionando como um radiador natural.",
+      "headline": "O arco-íris que decidiu voar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250923_ToucanForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Tucano+de+peito+amarelo&form=BGABWCTA7&filters=HpDate:\"20250923_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2701,
+            "Y": 1169,
+            "Width": 818,
+            "Height": 644,
+            "Label": "wild bird",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Tucano+de+peito+amarelo&form=BGABWCTA11&filters=HpDate:\"20250923_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250922",
       "fullstartdate": "20250922",
       "enddate": "20250923",
