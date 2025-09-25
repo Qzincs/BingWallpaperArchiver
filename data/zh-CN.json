@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250925",
+      "fullstartdate": "20250925",
+      "enddate": "20250926",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.FortChittorgarh_ZH-CN5999553283_UHD.jpg",
+      "copyrighttext": "© chetansoni/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a5%87%e9%99%b6%e5%b0%94%e5%8a%a0%e5%b0%94%e5%a0%a1%e5%8d%b0%e5%ba%a6&form=BGALM&filters=HpDate:\"20250924_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "奇陶尔加尔堡, 拉贾斯坦邦, 印度",
+      "description": "奇陶尔加尔堡坐落在印度拉贾斯坦邦一座海拔超过590英尺的山丘上，占地约690英亩。它骄傲地见证着著名武士家族——拉杰普特人的英勇事迹。拉杰普特人的名字源自梵语“rajaputra”，意为“国王之子”，他们以其高贵的血统和尚武传统而闻名于整个印度北部。这座堡垒的石墙见证了几个世纪以来拉贾斯坦邦吟游诗人的歌谣中流传的勇气、骄傲和浪漫。据传说，印度史诗《摩诃婆罗多》中的英雄比姆是这座堡垒的奠基者。",
+      "headline": "忠勇的雕刻石",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250925_FortChittorgarh\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 25",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a5%87%e9%99%b6%e5%b0%94%e5%8a%a0%e5%b0%94%e5%a0%a1%e5%8d%b0%e5%ba%a6&form=BGABWCTA7&filters=HpDate:\"20250924_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1687,
+            "Y": 960,
+            "Width": 503,
+            "Height": 674,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a5%87%e9%99%b6%e5%b0%94%e5%8a%a0%e5%b0%94%e5%a0%a1%e5%8d%b0%e5%ba%a6&form=BGABWCTA11&filters=HpDate:\"20250924_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250924",
       "fullstartdate": "20250924",
       "enddate": "20250925",

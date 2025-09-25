@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250924",
+      "fullstartdate": "20250924",
+      "enddate": "20250925",
+      "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_EN-CA5941138960_UHD.jpg",
+      "copyrighttext": "© Laura Hedien/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=BGALM&filters=HpDate:\"20250924_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Devils Tower National Monument, Wyoming, United States",
+      "description": "Somewhere in the wide prairies of northeastern Wyoming, United States, stands Devils Tower, a stone formation that rises from the open plains. Once called Bear Lodge, the butte gained its current name during an 1875 expedition led by Colonel Richard Irving Dodge, possibly after an interpreter mistranslated a Native phrase as 'Bad God's Tower.' The missing apostrophe in its official title follows standard geographic naming conventions—hence, the signs read 'Devils Tower.'",
+      "headline": "The lonely giant",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.590206,-104.714645/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=44.590206,-104.714645;S9;Devils Tower National Monument, Wyoming, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Devils%20Tower%20National%20Monument&ss=ypid.YN873x12606429545070815035&segment=Attraction&mb=44.596052~-104.724641~44.584362~-104.704642&description=Hwy%20110%20Bldg%20170%2C%20Devils%20Tower%2C%20WY%2082714&poicount=18&cardbg=%23219AB6&dt=1754494200000&tt=Devils%20Tower%20National%20Monument&tsts0=%2526ty%253D18%2526q%253DDevils%252520Tower%252520National%252520Monument%2526ss%253Dypid.YN873x12606429545070815035%2526segment%253DAttraction%2526mb%253D44.596052~-104.724641~44.584362~-104.704642%2526description%253DHwy%252520110%252520Bldg%252520170%25252C%252520Devils%252520Tower%25252C%252520WY%25252082714%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1754494200000&tstt0=Devils%20Tower%20National%20Monument&cp=40.490276~-114.306269&lvl=5.059649&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Wyoming%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Wyoming, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Wyoming%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 712,
+            "Y": 657,
+            "Width": 1102,
+            "Height": 832,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=BGABWCTA11&filters=HpDate:\"20250924_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250923",
       "fullstartdate": "20250923",
       "enddate": "20250924",

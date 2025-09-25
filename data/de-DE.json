@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250925",
+      "fullstartdate": "20250925",
+      "enddate": "20250926",
+      "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_DE-DE0795662857_UHD.jpg",
+      "copyrighttext": "© chetansoni/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Chittorgarh+Fort+Indien&form=BGALM&filters=HpDate:\"20250924_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chittorgarh Fort, Rajasthan, Indien",
+      "description": "Auf dem heutigen Bild ist das majestätische Fort von Chittorgarh zu sehen, eine der größten und bedeutendsten Festungen Indiens. Hoch oben auf einem Hügel im Bundesstaat Rajasthan gelegen, erstreckt sich dieser historische Komplex über ca. 280 Hektar und umfasst Paläste, Tempel, Türme und Wasserbecken. Es war einst die Hauptstadt des Königreichs Mewar und ein Symbol für die Tapferkeit der Rajputen, insbesondere während der Belagerungen, die seine Geschichte prägten.",
+      "headline": "Gedenksteine des Mutes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250925_FortChittorgarh\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/24.886299,74.647003/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=24.886299,74.647003;S9;Chittorgarh Fort, Rajasthan, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Chittorgarh%20Fort&ss=ypid.YN4070x16045907878156679098&segment=Attraction&mb=24.894067~74.631844~24.878533~74.662142&description=Chittor%20Fort%20Road%2C%20Chittorgarh%2C%20Rajasthan%20312001&poicount=18&cardbg=%23219AB6&dt=1754587800000&tt=Chittorgarh%20Fort&tsts0=%2526ty%253D18%2526q%253DChittorgarh%252520Fort%2526ss%253Dypid.YN4070x16045907878156679098%2526segment%253DAttraction%2526mb%253D24.894067~74.631844~24.878533~74.662142%2526description%253DChittor%252520Fort%252520Road%25252C%252520Chittorgarh%25252C%252520Rajasthan%252520312001%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1754587800000&tstt0=Chittorgarh%20Fort&cp=23.873431~69.731895&lvl=5.337385&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "25. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Rajasthan%2c+Indien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Rajasthan, Indien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Rajasthan%2c+Indien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1687,
+            "Y": 960,
+            "Width": 503,
+            "Height": 674,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chittorgarh+Fort+Indien&form=BGABWCTA11&filters=HpDate:\"20250924_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250924",
       "fullstartdate": "20250924",
       "enddate": "20250925",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250924",
+      "fullstartdate": "20250924",
+      "enddate": "20250925",
+      "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_ROW5124769347_UHD.jpg",
+      "copyrighttext": "© Laura Hedien/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=BGALM&filters=HpDate:\"20250924_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Devils Tower National Monument, Wyoming, United States",
+      "description": "Somewhere in the wide prairies of northeastern Wyoming in the United States, stands Devils Tower, a stone formation that rises from the open plains. Once called Bear Lodge, the butte gained its current name during an 1875 expedition led by Colonel Richard Irving Dodge, possibly after an interpreter mistranslated a Native phrase as 'Bad God's Tower.' The missing apostrophe in its official title follows standard geographic naming conventions—hence, the signs read 'Devils Tower.' In 1906, President Theodore Roosevelt proclaimed it as the nation's first national monument.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=BGABWCTA7&filters=HpDate:\"20250924_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 712,
+            "Y": 657,
+            "Width": 1102,
+            "Height": 832,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Devils+Tower+National+Monument&form=BGABWCTA11&filters=HpDate:\"20250924_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250923",
       "fullstartdate": "20250923",
       "enddate": "20250924",

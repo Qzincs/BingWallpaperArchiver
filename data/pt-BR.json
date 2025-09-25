@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250924",
+      "fullstartdate": "20250924",
+      "enddate": "20250925",
+      "urlbase": "https://www.bing.com/th?id=OHR.BearLodge_PT-BR9369560385_UHD.jpg",
+      "copyrighttext": "© Laura Hedien/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+Torre+do+Diabo&form=BGALM&filters=HpDate:\"20250924_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monumento Nacional da Torre do Diabo, Wyoming, EUA",
+      "description": "Na imagem, a Torre do Diabo se ergue sobre as planícies de Wyoming. Sua origem foi cerca de 50 milhões de anos atrás, quando o magma quente ficou preso sob a terra, esfriando lentamente até solidificar. Declarada o primeiro Monumento Nacional dos Estados Unidos em 1906, ela sempre foi mais que isso para os povos nativos das Grandes Planícies. Eles a chamam de “Morada do Urso”: a lenda narra que sete meninas fugiam de ursos gigantes e foram protegidas pelo Grande Espírito, que fez a torre crescer rapidamente ao redor delas; dizem que as marcas das garras ainda são visíveis em suas paredes.",
+      "headline": "O gigante solitário",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250924_BearLodge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monumento+Nacional+Torre+do+Diabo&form=BGABWCTA7&filters=HpDate:\"20250924_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 712,
+            "Y": 657,
+            "Width": 1102,
+            "Height": 832,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Monumento+Nacional+Torre+do+Diabo&form=BGABWCTA11&filters=HpDate:\"20250924_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250923",
       "fullstartdate": "20250923",
       "enddate": "20250924",
