@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250925",
+      "fullstartdate": "20250925",
+      "enddate": "20250926",
+      "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg",
+      "copyrighttext": "© chetansoni/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Chittorgarh+Fort&form=BGALM&filters=HpDate:\"20250925_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chittorgarh Fort, Rajasthan, India",
+      "description": "High on a hill rising over 590 feet in Rajasthan, India, Chittorgarh Fort spans approximately 690 acres. It stands as a proud witness to the valor of the famed warrior clans—the Rajputs. Their name comes from the Sanskrit 'rajaputra,' meaning 'son of a king,' and they are celebrated for their noble lineage and martial traditions across northern India. The fort's stone walls have witnessed centuries of courage, pride, and romance, remembered in the songs of Rajasthan's bards. According to legend, Bhim, a hero from the Hindu epic 'Mahabharata,' first laid its foundations.",
+      "headline": "Carved stones of courage",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250925_FortChittorgarh\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/24.886299,74.647003/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=24.886299,74.647003;S9;Chittorgarh Fort&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Chittorgarh%20Fort&ss=ypid.YN4070x16045907878156679098&segment=Attraction&mb=24.894067~74.631844~24.878533~74.662142&description=Chittor%20Fort%20Road%2C%20Chittorgarh%2C%20Rajasthan%20312001&poicount=18&cardbg=%23219AB6&dt=1754587800000&tt=Chittorgarh%20Fort&tsts0=%2526ty%253D18%2526q%253DChittorgarh%252520Fort%2526ss%253Dypid.YN4070x16045907878156679098%2526segment%253DAttraction%2526mb%253D24.894067~74.631844~24.878533~74.662142%2526description%253DChittor%252520Fort%252520Road%25252C%252520Chittorgarh%25252C%252520Rajasthan%252520312001%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1754587800000&tstt0=Chittorgarh%20Fort&cp=23.873431~69.731895&lvl=5.337385&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Rajasthan%2c+India&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Rajasthan, India"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Rajasthan%2c+India&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1687,
+            "Y": 960,
+            "Width": 503,
+            "Height": 674,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chittorgarh+Fort&form=BGABWCTA11&filters=HpDate:\"20250925_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250924",
       "fullstartdate": "20250924",
       "enddate": "20250925",

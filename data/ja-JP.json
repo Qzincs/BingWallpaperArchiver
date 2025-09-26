@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250926",
+      "fullstartdate": "20250926",
+      "enddate": "20250927",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_JA-JP1455684810_UHD.jpg",
+      "copyrighttext": "© Donald M. Jones/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%81%e3%83%93%e3%82%b7%e3%83%9e%e3%83%aa%e3%82%b9&form=BGALM&filters=HpDate:\"20250925_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "チビシマリス, 米国 モンタナ州",
+      "description": "今日の画像は、北米に生息するチビシマリス。体重はわずか 45g 未満、体長は 25cm 以下と、とても小さいですが、機敏で、時速約 7km で走ったという記録もあります。チビシマリスを含むシマリス属の多くが北米大陸に分布しています。一方、日本では亜種であるエゾシマリスが北海道に生息しています…",
+      "headline": "頬を膨らませる姿",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.554089,-115.548149/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.554089,-115.548149;S9;クートニー国立公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Kootenai%20National%20Forest%20Montana&ss=ypid.YN873x15682518830766056339&mb=48.559433~-115.558147~48.548738~-115.538149&description=1101%20US%20Highway%202%20W%2C%20Libby%2C%20MT%2059923&cardbg=%23219AB6&dt=1754659800000&tt=Kootenai%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DKootenai%252520National%252520Forest%252520Montana%2526ss%253Dypid.YN873x15682518830766056339%2526mb%253D48.559433~-115.558147~48.548738~-115.538149%2526description%253D1101%252520US%252520Highway%2525202%252520W%25252C%252520Libby%25252C%252520MT%25252059923%2526cardbg%253D%252523219AB6%2526dt%253D1754659800000&tstt0=Kootenai%20National%20Forest&cp=50.00175~-125.975644&lvl=5.1232553&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 26 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%a2%e3%83%b3%e3%82%bf%e3%83%8a%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 モンタナ州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%a2%e3%83%b3%e3%82%bf%e3%83%8a%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 666,
+            "Y": 595,
+            "Width": 1179,
+            "Height": 1561,
+            "Label": "squirrel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%81%e3%83%93%e3%82%b7%e3%83%9e%e3%83%aa%e3%82%b9&form=BGABWCTA11&filters=HpDate:\"20250925_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250925",
       "fullstartdate": "20250925",
       "enddate": "20250926",

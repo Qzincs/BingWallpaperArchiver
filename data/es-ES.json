@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250926",
+      "fullstartdate": "20250926",
+      "enddate": "20250927",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_ES-ES0673938292_UHD.jpg",
+      "copyrighttext": "© Donald M. Jones/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=La+ardilla+rayada&form=BGALM&filters=HpDate:\"20250925_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "La ardilla rayada, Parque Nacional Kootenai, Montana, EE. UU.",
+      "description": "En los bosques, la ardilla rayada puede ser la más pequeña, pero no por ello menos sorprendente. Con inteligencia y patas veloces, este diminuto roedor demuestra un gran ingenio. Pesa menos que una baraja de cartas y mide menos de 25 cm desde la nariz hasta la cola, siendo la ardilla rayada más pequeña de América del Norte.",
+      "headline": "Pequeña y adorable",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+ardilla+rayada&form=BGABWCTA7&filters=HpDate:\"20250925_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 666,
+            "Y": 595,
+            "Width": 1179,
+            "Height": 1561,
+            "Label": "squirrel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=La+ardilla+rayada&form=BGABWCTA11&filters=HpDate:\"20250925_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250925",
       "fullstartdate": "20250925",
       "enddate": "20250926",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250925",
+      "fullstartdate": "20250925",
+      "enddate": "20250926",
+      "urlbase": "https://www.bing.com/th?id=OHR.FortChittorgarh_PT-BR4240075767_UHD.jpg",
+      "copyrighttext": "© chetansoni/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Rajast%c3%a3o+%c3%8dndia&form=BGALM&filters=HpDate:\"20250925_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Forte de Chittorgarh, Rajastão, Índia",
+      "description": "Elevando-se cerca de 180 metros sobre uma colina no Rajastão, na Índia, o Forte de Chittorgarh se descortina diante de nós como um vasto mar de pedra. São 2,8 km² cercados por muralhas que já ouviram o clangor de espadas, o lamento de romances impossíveis e o canto dos bardos. Reza a lenda que o herói Bhim ergueu as primeiras fundações do forte, iniciando uma trajetória de resistência que ainda ecoa na imaginação.",
+      "headline": "No zigue-zague da história",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250925_FortChittorgarh\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rajast%c3%a3o+%c3%8dndia&form=BGABWCTA7&filters=HpDate:\"20250925_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1687,
+            "Y": 960,
+            "Width": 503,
+            "Height": 674,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rajast%c3%a3o+%c3%8dndia&form=BGABWCTA11&filters=HpDate:\"20250925_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250924",
       "fullstartdate": "20250924",
       "enddate": "20250925",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250926",
+      "fullstartdate": "20250926",
+      "enddate": "20250927",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.AutumnChipmunk_ZH-CN6224482683_UHD.jpg",
+      "copyrighttext": "© Donald M. Jones/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%9c%80%e5%b0%8f%e8%8a%b1%e6%a0%97%e9%bc%a0&form=BGALM&filters=HpDate:\"20250925_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "最小花栗鼠, 库特奈国家公园, 蒙大拿州, 美国",
+      "description": "在林地动物的世界里，体型最小的花栗鼠或许看起来像是“小松鼠”——但别小看它。凭借着敏锐的生存智慧和迅捷的双足，这种小型啮齿动物证明了“体型最小”并不意味着放弃你的潜力。它的体重还不到一副扑克牌，从鼻子到尾巴的长度不到10英寸（约25厘米），是北美体型最小的花栗鼠。",
+      "headline": "速度与毛茸茸",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 26",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%9c%80%e5%b0%8f%e8%8a%b1%e6%a0%97%e9%bc%a0&form=BGABWCTA7&filters=HpDate:\"20250925_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 666,
+            "Y": 595,
+            "Width": 1179,
+            "Height": 1561,
+            "Label": "squirrel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%9c%80%e5%b0%8f%e8%8a%b1%e6%a0%97%e9%bc%a0&form=BGABWCTA11&filters=HpDate:\"20250925_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250925",
       "fullstartdate": "20250925",
       "enddate": "20250926",
