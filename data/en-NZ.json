@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250926",
+      "fullstartdate": "20250926",
+      "enddate": "20250927",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_ROW5358598702_UHD.jpg",
+      "copyrighttext": "© Donald M. Jones/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Least+chipmunk&form=BGALM&filters=HpDate:\"20250926_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Least chipmunk, Kootenai National Forest, Montana, United States",
+      "description": "In the world of woodland critters, the least chipmunk might seem like the 'under squirrel'—but don't count it out. With survival smarts and turbo-charged feet, this tiny rodent proves that being 'least' is no reason to squirrel away your potential. Weighing less than a deck of cards and measuring under 25 centimetres from nose to tail, this species is North America's smallest chipmunk.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Least+chipmunk&form=BGABWCTA7&filters=HpDate:\"20250926_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 666,
+            "Y": 595,
+            "Width": 1179,
+            "Height": 1561,
+            "Label": "squirrel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Least+chipmunk&form=BGABWCTA11&filters=HpDate:\"20250926_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250925",
       "fullstartdate": "20250925",
       "enddate": "20250926",

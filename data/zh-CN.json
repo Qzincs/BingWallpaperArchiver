@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.TankLakes_ZH-CN6402368934_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b7%9e%e9%ab%98%e5%b1%b1%e6%b9%96%e6%b3%8a%e8%8d%92%e9%87%8e%e5%8c%ba&form=BGALM&filters=HpDate:\"20250926_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国",
+      "description": "今天图片中璀璨的星空来自于坦克湖，它位于高山湖泊荒野区。高山湖泊荒野占地超过40万英亩，位于风景如画的华盛顿州中部喀斯喀特山脉。荒野位于喀斯喀特山脉北段的斯诺夸米山口和史蒂文斯山口之间，其中包括被称为韦纳奇山脉的子山脉，该山脉构成了韦纳奇-雅基马分水岭。",
+      "headline": "美丽的星空",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 9月 27",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b7%9e%e9%ab%98%e5%b1%b1%e6%b9%96%e6%b3%8a%e8%8d%92%e9%87%8e%e5%8c%ba&form=BGABWCTA7&filters=HpDate:\"20250926_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8d%8e%e7%9b%9b%e9%a1%bf%e5%b7%9e%e9%ab%98%e5%b1%b1%e6%b9%96%e6%b3%8a%e8%8d%92%e9%87%8e%e5%8c%ba&form=BGABWCTA11&filters=HpDate:\"20250926_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

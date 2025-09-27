@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_FR-FR1812673020_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Cha%c3%aene+des+Cascades&form=BGALM&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lacs Tank, Alpine Lakes Wilderness, chaîne des Cascades, Washington, États-Unis",
+      "description": "Aux confins de l’État américain de Washington, dans la zone sauvage des Alpine Lakes, les Lacs Tank miroitent comme des joyaux d’altitude, enchâssés entre granit et forêts de conifères. Leurs eaux reflètent l’azur du ciel et le vert profond des pins, dessinant un paysage où la nature se fait miroir.",
+      "headline": "Faites un vœu !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.565102,-121.159897/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.565102,-121.159897;S9;Zone sauvage Alpine Lakes Wilderness, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Alpine%20Lakes%20Wilderness%20Washington&ss=ypid.YN873x7919753465390178134&mb=47.570554~-121.175036~47.559652~-121.144738&description=Hiking%20area&cardbg=%23219AB6&dt=1754920800000&tt=Alpine%20Lakes%20Wilderness&tsts0=%2526ty%253D18%2526q%253DAlpine%252520Lakes%252520Wilderness%252520Washington%2526ss%253Dypid.YN873x7919753465390178134%2526mb%253D47.570554~-121.175036~47.559652~-121.144738%2526description%253DHiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Alpine%20Lakes%20Wilderness&cp=47.156433~-123.668752&lvl=5.3492985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Alpine+Lakes+Wilderness%2c+cha%c3%aene+des+Cascades%2c+Washington%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Alpine Lakes Wilderness, chaîne des Cascades, Washington, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Alpine+Lakes+Wilderness%2c+cha%c3%aene+des+Cascades%2c+Washington%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cha%c3%aene+des+Cascades&form=BGABWCTA11&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

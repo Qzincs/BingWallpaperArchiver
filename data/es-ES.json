@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_ES-ES1860818071_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Alpine+Lakes+Wilderness&form=BGALM&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Tank Lakes, Área silvestre de los lagos alpinos, Washington, EE. UU.",
+      "description": "Los lagos alpinos de Tank Lakes, situados en el corazón del Área Silvestre de los Lagos Alpinos en Washington, Estados Unidos, ofrecen una experiencia única para los amantes de la naturaleza. Este remoto enclave se alcanza tras una exigente caminata de aproximadamente 39 kilómetros que asciende 1.600 metros, atravesando bosques frondosos y valles glaciares hasta alcanzar los 1.770 metros de altitud en Tank Lakes, un impresionante lago donde contemplar las estrellas y respirar aire fresco.",
+      "headline": "Despejado y tranquilo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alpine+Lakes+Wilderness&form=BGABWCTA7&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Alpine+Lakes+Wilderness&form=BGABWCTA11&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

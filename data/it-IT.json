@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_IT-IT8921224847_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Stato+di+Washington&form=BGALM&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Laghi Tank, Alpine Lakes Wilderness, Washington, USA",
+      "description": "Nel silenzio profondo dell’Alpine Lakes Wilderness, nello stato di Washington, USA, la notte si stende come un velo di velluto sopra i Tank Lakes. L’acqua, immobile, riflette frammenti di cielo, mentre le montagne si fanno ombre discrete sullo sfondo. In questo angolo remoto, la Wilderness Area si presenta come un santuario naturale, dove la quiete amplifica ogni sussurro del vento e ogni scintilla nel cielo. Lontano da ogni luce artificiale, il cielo si apre in tutta la sua vastità. Chi alza lo sguardo potrebbe scorgere la curva elegante di Cassiopea o la figura fiera di Orione, forse anche un lampo fugace di una stella cadente. Le costellazioni non si impongono, ma si rivelano pian piano a chi sa aspettare.",
+      "headline": "Cieli immensi...",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.565102,-121.159897/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=47.565102,-121.159897;S9;Laghi Tank, Alpine Lakes Wilderness, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Alpine%20Lakes%20Wilderness%20Washington&ss=ypid.YN873x7919753465390178134&mb=47.570554~-121.175036~47.559652~-121.144738&description=Hiking%20area&cardbg=%23219AB6&dt=1754920800000&tt=Alpine%20Lakes%20Wilderness&tsts0=%2526ty%253D18%2526q%253DAlpine%252520Lakes%252520Wilderness%252520Washington%2526ss%253Dypid.YN873x7919753465390178134%2526mb%253D47.570554~-121.175036~47.559652~-121.144738%2526description%253DHiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Alpine%20Lakes%20Wilderness&cp=47.156433~-123.668752&lvl=5.3492985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 settembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Alpine+Lakes+Wilderness%2c+Washington%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Alpine Lakes Wilderness, Washington, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Alpine+Lakes+Wilderness%2c+Washington%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Stato+di+Washington&form=BGABWCTA11&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

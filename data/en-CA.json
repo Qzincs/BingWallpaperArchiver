@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250926",
+      "fullstartdate": "20250926",
+      "enddate": "20250927",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChipmunk_EN-CA7669023856_UHD.jpg",
+      "copyrighttext": "© Donald M. Jones/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Least+chipmunk&form=BGALM&filters=HpDate:\"20250926_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Least chipmunk, Kootenai National Forest, Montana, United States",
+      "description": "In the world of woodland critters, the least chipmunk might seem like the 'undersquirrel'—but don't count it out. With survival smarts and turbo-charged feet, this tiny rodent proves that being 'least' is no reason to squirrel away your potential. Weighing less than a deck of cards and measuring under 25 centimetres from nose to tail, this species is North America's smallest chipmunk.",
+      "headline": "The fast and the furriest",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250926_AutumnChipmunk\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.554089,-115.548149/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=48.554089,-115.548149;S9;Kootenai National Forest, Montana, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Kootenai%20National%20Forest%20Montana&ss=ypid.YN873x15682518830766056339&mb=48.559433~-115.558147~48.548738~-115.538149&description=1101%20US%20Highway%202%20W%2C%20Libby%2C%20MT%2059923&cardbg=%23219AB6&dt=1754659800000&tt=Kootenai%20National%20Forest&tsts0=%2526ty%253D18%2526q%253DKootenai%252520National%252520Forest%252520Montana%2526ss%253Dypid.YN873x15682518830766056339%2526mb%253D48.559433~-115.558147~48.548738~-115.538149%2526description%253D1101%252520US%252520Highway%2525202%252520W%25252C%252520Libby%25252C%252520MT%25252059923%2526cardbg%253D%252523219AB6%2526dt%253D1754659800000&tstt0=Kootenai%20National%20Forest&cp=50.00175~-125.975644&lvl=5.1232553&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep. 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kootenai+National+Forest%2c+Montana%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Kootenai National Forest, Montana, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Kootenai+National+Forest%2c+Montana%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 666,
+            "Y": 595,
+            "Width": 1179,
+            "Height": 1561,
+            "Label": "squirrel",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Least+chipmunk&form=BGABWCTA11&filters=HpDate:\"20250926_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250925",
       "fullstartdate": "20250925",
       "enddate": "20250926",

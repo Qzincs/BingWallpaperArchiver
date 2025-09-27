@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_JA-JP1667519475_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Tanks+Lake&form=BGALM&filters=HpDate:\"20250926_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "タンク・レイクス, 米国 ワシントン州",
+      "description": "今日は、「天文の日(Astronomy Day)」。1973 年に、米国カリフォルニア州で始まったイベントで、都市部の人通りの多い場所に望遠鏡を設置し、通行人に気軽に天体観測を体験してもらうという取り組みから始まりました。「天文学を人々に届ける」というこの記念日の趣旨は現在も受け継がれており、世界各地で様々な関連イベントが開催されています…",
+      "headline": "星降る夜の水鏡",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.565102,-121.159897/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.565102,-121.159897;S9;アルパイン・レイクス, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Alpine%20Lakes%20Wilderness%20Washington&ss=ypid.YN873x7919753465390178134&mb=47.570554~-121.175036~47.559652~-121.144738&description=Hiking%20area&cardbg=%23219AB6&dt=1754920800000&tt=Alpine%20Lakes%20Wilderness&tsts0=%2526ty%253D18%2526q%253DAlpine%252520Lakes%252520Wilderness%252520Washington%2526ss%253Dypid.YN873x7919753465390178134%2526mb%253D47.570554~-121.175036~47.559652~-121.144738%2526description%253DHiking%252520area%2526cardbg%253D%252523219AB6%2526dt%253D1754920800000&tstt0=Alpine%20Lakes%20Wilderness&cp=47.156433~-123.668752&lvl=5.3492985&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 27 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%b7%e3%83%b3%e3%83%88%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ワシントン州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%b7%e3%83%b3%e3%83%88%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Tanks+Lake&form=BGABWCTA11&filters=HpDate:\"20250926_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

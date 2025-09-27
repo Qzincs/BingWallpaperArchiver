@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.BerlinAutumn_DE-DE0881465418_UHD.jpg",
+      "copyrighttext": "© Sergio Saavedra Ruiz/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Berlin&form=BGALM&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Herbstliche Farben in Berlin",
+      "description": "Wenn die Tage kürzer werden und die Luft nach feuchter Erde und Laub duftet, beginnt der Herbst – eine Zeit des Wandels und der besonderen Stille. Der Abschied von leichter Kleidung des Sommers fällt nicht jedem leicht. Doch hat der Herbst nicht auch einen ganz eigenen Zauber? Wenn sich die Natur in leuchtendes Gold, Rot und Orange kleidet und die Erntezeit beginnt, zeigt sich das Jahr von seiner stimmungsvollsten Seite. Viele Regionen in Deutschland feiern den Herbst mit Festen, bei denen saisonale Spezialitäten, Handwerk und Traditionen im Mittelpunkt stehen. Kulinarisch hat diese Jahreszeit viel zu bieten: Kürbisse, Pilze, Äpfel und Nüsse bringen frische Vielfalt auf den Teller. Die klare, kühle Luft lädt dazu ein, innezuhalten und das Tempo zu drosseln – besonders, wenn Städte wie Berlin – auf unserem heutigen Bild – in sanften Nebel getaucht sind.",
+      "headline": "Mystische Atmosphäre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_BerlinAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.524655,13.409106/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.524655,13.409106;S9;Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=berlin&vdpid=7017957146650214401&mb=52.913626~12.463552~52.117758~14.305487&cardbg=%23F98745&dt=1755702000000&tt=Berlin%2C%20Berlin&tsts0=%2526ty%253D30%2526q%253Dberlin%2526vdpid%253D7017957146650214401%2526mb%253D52.913626~12.463552~52.117758~14.305487%2526cardbg%253D%252523F98745%2526dt%253D1755702000000&tstt0=Berlin%2C%20Berlin&cp=52.526044~12.089593&lvl=8.14589&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Berlin&form=BGABWCTA7&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Berlin&form=BGABWCTA11&filters=HpDate:\"20250926_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",
