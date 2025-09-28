@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_ROW5456053450_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Alpine+Lakes+Wilderness&form=BGALM&filters=HpDate:\"20250927_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Tank Lakes, Alpine Lakes Wilderness, Washington, United States",
+      "description": "Tank Lakes in Alpine Lakes Wilderness, in Washington, United States, is a hidden treasure for nature lovers. The hike begins at the Necklace Valley Trailhead along the forested East Foss River before climbing steeply through rocky terrain and passing several alpine lakes. It covers about 38 kilometres round trip with an elevation gain of more than 1600 metres. The major attractions of the trails are snow-capped peaks, pristine alpine lakes and plenty backcountry exploring in a stunning section of Washington's Cascade Range. The journey to Tank Lakes is challenging but rewarding, offering panoramic views, pristine waters and an immersive wilderness experience. So, if you are adventurous, Tank Lakes could be your next destination.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alpine+Lakes+Wilderness&form=BGABWCTA7&filters=HpDate:\"20250927_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Alpine+Lakes+Wilderness&form=BGABWCTA11&filters=HpDate:\"20250927_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250928",
+      "fullstartdate": "20250928",
+      "enddate": "20250929",
+      "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_JA-JP1964382138_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%94%e3%82%a8%e3%83%b3%e3%83%84%e3%82%a1&form=BGALM&filters=HpDate:\"20250927_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ピエンツァ, イタリア",
+      "description": "イタリア ・トスカーナ州のピエンツァ。人口約 2,000 人 の小さなこの町は、世界遺産であるオルチャ渓谷の上に位置しています。14 世紀、教皇ピウス 2 世は、自身の故郷であるこの町を理想都市として再建しました。その都市計画にはピッコロミニ家の理念が反映されており、後世に高く評価され、市街の歴史地区は世界遺産に登録されました…",
+      "headline": "トスカーナの小さな町",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.07861,11.67889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.07861,11.67889;S9;ピエンツァ, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Pienza&satid=id.sid%3Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0&vdpid=7215076101343674369&mb=43.137527~11.442309~42.949272~11.925331&cardbg=%23F98745&tt=Pienza%2C%20Tuscany%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DPienza%2526satid%253Did.sid%25253Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0%2526vdpid%253D7215076101343674369%2526mb%253D43.137527~11.442309~42.949272~11.925331%2526cardbg%253D%252523F98745&tstt0=Pienza%2C%20Tuscany%2C%20Italy&cp=42.884267~13.204464&lvl=5.4493365&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 28 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " イタリア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 789,
+            "Width": 3833,
+            "Height": 797,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%94%e3%82%a8%e3%83%b3%e3%83%84%e3%82%a1&form=BGABWCTA11&filters=HpDate:\"20250927_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250927",
       "fullstartdate": "20250927",
       "enddate": "20250928",

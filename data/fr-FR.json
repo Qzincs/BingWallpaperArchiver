@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250928",
+      "fullstartdate": "20250928",
+      "enddate": "20250929",
+      "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_FR-FR1953145437_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pienza&form=BGALM&filters=HpDate:\"20250927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ville de Pienza, Toscane, Italie",
+      "description": "Accrochée au-dessus du Val d’Orcia, en Toscane, en Italie, Pienza déploie ses murs clairs face à un paysage digne d’un maître : cyprès élancés, collines ondulantes, routes de terre serpentant vers l’horizon. Jadis simple village médiéval nommé Corsignano, elle fut métamorphosée au XVe siècle par l’un de ses fils, devenu le pape Pie II. Avec l’architecte Bernardo Rossellino, il voulut offrir au monde un modèle de ville idéale, où ordre et harmonie guideraient les rues.",
+      "headline": "Pienza et son pecorino, c'est fort de fromage !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.07861,11.67889/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.07861,11.67889;S9;Pienza, Toscane, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Pienza&satid=id.sid%3Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0&vdpid=7215076101343674369&mb=43.137527~11.442309~42.949272~11.925331&cardbg=%23F98745&tt=Pienza%2C%20Tuscany%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DPienza%2526satid%253Did.sid%25253Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0%2526vdpid%253D7215076101343674369%2526mb%253D43.137527~11.442309~42.949272~11.925331%2526cardbg%253D%252523F98745&tstt0=Pienza%2C%20Tuscany%2C%20Italy&cp=42.884267~13.204464&lvl=5.4493365&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Toscane%2c+Italie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Toscane, Italie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Toscane%2c+Italie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 789,
+            "Width": 3833,
+            "Height": 797,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pienza&form=BGABWCTA11&filters=HpDate:\"20250927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250927",
       "fullstartdate": "20250927",
       "enddate": "20250928",

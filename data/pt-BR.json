@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250927",
+      "fullstartdate": "20250927",
+      "enddate": "20250928",
+      "urlbase": "https://www.bing.com/th?id=OHR.TankLakes_PT-BR9433679717_UHD.jpg",
+      "copyrighttext": "© Austin Trigg/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Lagos+Alpinos%2c+Washington%2c+EUA&form=BGALM&filters=HpDate:\"20250927_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lagos Tank, Região Selvagem dos Lagos Alpinos, Washington, EUA",
+      "description": "A imagem que hoje nos inspira vem da Região Selvagem dos Lagos Alpinos, em Washington, nos Estados Unidos — um exemplo de como a natureza e o cosmos se encontram em harmonia. Regiões remotas como essa nos convidam a olhar para cima e redescobrir o infinito.",
+      "headline": "Olhares brilhantes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250927_TankLakes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lagos+Alpinos%2c+Washington%2c+EUA&form=BGABWCTA7&filters=HpDate:\"20250927_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lagos+Alpinos%2c+Washington%2c+EUA&form=BGABWCTA11&filters=HpDate:\"20250927_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250926",
       "fullstartdate": "20250926",
       "enddate": "20250927",

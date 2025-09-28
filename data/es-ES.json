@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250928",
+      "fullstartdate": "20250928",
+      "enddate": "20250929",
+      "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_ES-ES1965715400_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pienza+en+Siena&form=BGALM&filters=HpDate:\"20250927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pienza en Siena, Toscana, Italia",
+      "description": "Algunas ciudades evolucionan lentamente a lo largo de los siglos. ¿Y Pienza? Esta pequeña ciudad italiana recibió un cambio completo en el siglo XV gracias a un papa que quería demostrar su visión y, quizá, presumir un poco. Pienza se alza sobre el Val d’Orcia, rodeada de colinas onduladas que parecen la Toscana que todos imaginamos: cipreses, caminos de tierra serpenteantes y ovejas dispersas. Es un lugar pacífico.",
+      "headline": "Pienza en el arte",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pienza+en+Siena&form=BGABWCTA7&filters=HpDate:\"20250927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 789,
+            "Width": 3833,
+            "Height": 797,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pienza+en+Siena&form=BGABWCTA11&filters=HpDate:\"20250927_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250927",
       "fullstartdate": "20250927",
       "enddate": "20250928",
