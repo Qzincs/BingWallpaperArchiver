@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250929",
+      "fullstartdate": "20250929",
+      "enddate": "20250930",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_ES-ES0772668707_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Houten+Pa%c3%adses+Bajos&form=BGALM&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Casas arcoíris en la ciudad de Houten, Países Bajos",
+      "description": "No encontrará tiendas de recuerdos ni mapas turísticos que indiquen el camino, pero si sigue la orilla del lago Rietplas en Houten, descubrirá uno de los rincones más fotogénicos de los Países Bajos. Mientras muchos turistas acuden en masa a los canales de Ámsterdam o a las casas cubo de Róterdam, esta tranquila ciudad cercana ofrece su propio toque arquitectónico.",
+      "headline": "Paseos coloridos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 de sept. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Houten+Pa%c3%adses+Bajos&form=BGABWCTA7&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 843,
+            "Width": 3833,
+            "Height": 445,
+            "Label": "house",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Houten+Pa%c3%adses+Bajos&form=BGABWCTA11&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250928",
       "fullstartdate": "20250928",
       "enddate": "20250929",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250928",
+      "fullstartdate": "20250928",
+      "enddate": "20250929",
+      "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pienza&form=BGALM&filters=HpDate:\"20250928_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Town of Pienza in Tuscany, Italy",
+      "description": "Some towns evolve slowly over centuries. Pienza? It received a full rebrand in the 1400s from a pope who wanted to prove a point—and maybe show off a little. This tiny Italian town is perched above the Val d'Orcia, surrounded by rolling hills that look exactly like you think Tuscany should: cypress trees, winding dirt roads, the occasional sheep. It's peaceful. And then you step inside the town walls, and it gets clever.",
+      "headline": "A taste of Pienza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.07861,11.67889/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=43.07861,11.67889;S9;Pienza&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Pienza&satid=id.sid%3Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0&vdpid=7215076101343674369&mb=43.137527~11.442309~42.949272~11.925331&cardbg=%23F98745&tt=Pienza%2C%20Tuscany%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DPienza%2526satid%253Did.sid%25253Ac9c3ea4e-0e53-cfb7-7311-7c74972694c0%2526vdpid%253D7215076101343674369%2526mb%253D43.137527~11.442309~42.949272~11.925331%2526cardbg%253D%252523F98745&tstt0=Pienza%2C%20Tuscany%2C%20Italy&cp=42.884267~13.204464&lvl=5.4493365&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Sep 28, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Italy"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Italy&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 789,
+            "Width": 3833,
+            "Height": 797,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pienza&form=BGABWCTA11&filters=HpDate:\"20250928_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250927",
       "fullstartdate": "20250927",
       "enddate": "20250928",

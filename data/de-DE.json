@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250929",
+      "fullstartdate": "20250929",
+      "enddate": "20250930",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_DE-DE0958725859_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Houten+Niederlande&form=BGALM&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Regenbogenhäuser in der Stadt Houten, Niederlande",
+      "description": "Auf dem heutigen Bild sind die Regenbogenhäuser in der Stadt Houten, Niederlande, zu sehen. Diese farbenfrohen Holzhäuser liegen direkt am Rietplas-See und stehen für modernes, nachhaltiges Stadtdesign. Mit ihren lebendigen Farben verschönern sie nicht nur die Umgebung, sondern spiegeln auch den ökologischen Geist von Houten wider – einer Stadt, die für Fahrräder und Fußgänger konzipiert wurde. Besonders bei Sonnenuntergang, wenn sich die Farben im Wasser spiegeln, wird dieser Ort zu einem beliebten Ziel für Fotografen und Architekturbegeisterte.",
+      "headline": "Farben am Wasser",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.0261,5.1728/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.0261,5.1728;S9;Houten, Niederlande&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Houten%2C%20Utreque%2C%20Pa%C3%ADses%20Baixos&satid=id.sid%3A3c0902bb-78b1-b678-04ce-c6d2e4960ded&vdpid=-7989722467&mb=52.030502~5.159808~52.021709~5.185794&cardbg=%23F98745&tt=Houten&tsts1=%2526ty%253D30%2526q%253DHouten%25252C%252520Utreque%25252C%252520Pa%2525C3%2525ADses%252520Baixos%2526satid%253Did.sid%25253A3c0902bb-78b1-b678-04ce-c6d2e4960ded%2526vdpid%253D-7989722467%2526mb%253D52.030502~5.159808~52.021709~5.185794%2526cardbg%253D%252523F98745&tstt1=Houten&cp=52.026106~5.16748&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Niederlande&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Niederlande"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Niederlande&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 843,
+            "Width": 3833,
+            "Height": 445,
+            "Label": "house",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Houten+Niederlande&form=BGABWCTA11&filters=HpDate:\"20250928_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250928",
       "fullstartdate": "20250928",
       "enddate": "20250929",

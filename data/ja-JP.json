@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250929",
+      "fullstartdate": "20250929",
+      "enddate": "20250930",
+      "urlbase": "https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_UHD.jpg",
+      "copyrighttext": "© Maria S./Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%b1%aa%e5%be%b3%e5%af%ba%e3%81%ae%e6%8b%9b%e3%81%8d%e7%8c%ab&form=BGALM&filters=HpDate:\"20250928_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "豪徳寺の招き猫, 東京都",
+      "description": "今日は「招き猫の日」です。招き猫の愛好家団体「日本招猫倶楽部」によって制定された記念日で、「来る福（くるふく）」の語呂合わせに由来し、9 月 29 日となっています。 招き猫は、右手を上げていると金運、左手を上げていると客を招くといわれ、商売繁盛の象徴として親しまれてきました…",
+      "headline": "今日は招き猫の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_ManekiNeko\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.648773,139.647415/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.648773,139.647415;S9;豪徳寺, 東京都&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E3%80%92154-0021%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E8%B1%AA%E5%BE%B3%E5%AF%BA2%E4%B8%81%E7%9B%AE24-7%C2%B7%E4%BB%8F%E6%95%99%E5%AF%BA%E9%99%A2&ss=ypid.YN5286x4283586425058546225&cp=35.64877~139.642067&pi=0&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 29 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e6%9d%b1%e4%ba%ac%e9%83%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 東京都 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e6%9d%b1%e4%ba%ac%e9%83%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%b1%aa%e5%be%b3%e5%af%ba%e3%81%ae%e6%8b%9b%e3%81%8d%e7%8c%ab&form=BGABWCTA11&filters=HpDate:\"20250928_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250928",
       "fullstartdate": "20250928",
       "enddate": "20250929",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250928",
+      "fullstartdate": "20250928",
+      "enddate": "20250929",
+      "urlbase": "https://www.bing.com/th?id=OHR.PienzaItaly_PT-BR0767999929_UHD.jpg",
+      "copyrighttext": "© zpagistock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pienza+na+Toscana&form=BGALM&filters=HpDate:\"20250928_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cidade de Pienza, na Toscana, Itália",
+      "description": "Algumas cidades crescem aos poucos, ao longo dos séculos. Pienza, na Toscana, nossa imagem do dia, seguiu outro caminho: foi completamente transformada no século XV por um papa que queria deixar sua marca. Essa charmosa cidade italiana fica no alto do Vale de Orcia, região cercada por colinas, ciprestes e estradas de terra — o cenário clássico da Toscana.",
+      "headline": "O gostinho de Pienza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250928_PienzaItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pienza+na+Toscana&form=BGABWCTA7&filters=HpDate:\"20250928_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 789,
+            "Width": 3833,
+            "Height": 797,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pienza+na+Toscana&form=BGABWCTA11&filters=HpDate:\"20250928_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250927",
       "fullstartdate": "20250927",
       "enddate": "20250928",
