@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250929",
+      "fullstartdate": "20250929",
+      "enddate": "20250930",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_PT-BR1748801440_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=houten+pa%c3%adses+baixos&form=BGALM&filters=HpDate:\"20250929_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Casas Arco-Íris na cidade de Houten, Países Baixos",
+      "description": "Quem disse que casas coloridas só existem em países tropicais? O Pelourinho, em Salvador, é prova viva de que o Brasil sabe celebrar a cor com personalidade. Mas a surpresa de hoje vem do norte europeu. A cidade de Houten, nossa foto do dia, esconde um conjunto residencial que parece saído de uma paleta de artista.",
+      "headline": "A paleta secreta da Holanda",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=houten+pa%c3%adses+baixos&form=BGABWCTA7&filters=HpDate:\"20250929_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 843,
+            "Width": 3833,
+            "Height": 445,
+            "Label": "house",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=houten+pa%c3%adses+baixos&form=BGABWCTA11&filters=HpDate:\"20250929_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250928",
       "fullstartdate": "20250928",
       "enddate": "20250929",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250930",
+      "fullstartdate": "20250930",
+      "enddate": "20251001",
+      "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_UHD.jpg",
+      "copyrighttext": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b3%e3%82%a2%e3%83%a9&form=BGALM&filters=HpDate:\"20250929_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "コアラ, オーストラリア",
+      "description": "コアラは、オーストラリアにのみ生息する特有の消化能力を持つ有袋類で、ほとんどの動物が餌としないタンニンや油分を多く含むユーカリの葉を主食とすることで知られています。そのユーカリの消化には多大なエネルギーを使うため、1 日最大 20 時間も眠って過ごしエネルギーを節約します…",
+      "headline": "丸い体とふわふわの耳をもつ動物",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-38.834545,143.523438/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=-38.834545,143.523438;S9;グレートオトウェイ国立公園, オーストラリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Great%20Otway%20National%20Park&vdpid=6578644626398248961&ss=ypid.YN3724x17565122191373329265&mb=-38.320885~142.983227~-38.85836~144.446644&description=Blanket%20Bay%20Road%2C%20Cape%20Otway%20Victoria%203221&cardbg=%233DB838&dt=1754578800000&tt=Great%20Otway%20National%20Park&tsts2=%2526ty%253D30%2526q%253DGreat%252520Otway%252520National%252520Park%2526vdpid%253D6578644626398248961%2526ss%253Dypid.YN3724x17565122191373329265%2526mb%253D-38.320885~142.983227~-38.85836~144.446644%2526description%253DBlanket%252520Bay%252520Road%25252C%252520Cape%252520Otway%252520Victoria%2525203221%2526cardbg%253D%2525233DB838%2526dt%253D1754578800000&tstt2=Great%20Otway%20National%20Park&cp=-38.589968~143.419396&lvl=11.185686&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 9月 月 30 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " オーストラリア への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2590,
+            "Y": 951,
+            "Width": 487,
+            "Height": 553,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b3%e3%82%a2%e3%83%a9&form=BGABWCTA11&filters=HpDate:\"20250929_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250929",
       "fullstartdate": "20250929",
       "enddate": "20250930",

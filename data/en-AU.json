@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250929",
+      "fullstartdate": "20250929",
+      "enddate": "20250930",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_ROW5656377952_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Houten+Netherlands&form=BGALM&filters=HpDate:\"20250929_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rainbow houses in the town of Houten, Netherlands",
+      "description": "You won't find souvenir shops or tourist maps pointing the way—but follow the edge of Lake Rietplas in Houten and you'll stumble upon one of the Netherlands' most unexpectedly photogenic sights. While many flock to Amsterdam's canals or Rotterdam's cube houses, this quiet commuter town offers its own architectural twist. Lined up like a mirage, the Rainbow Houses shimmer in bold, painterly hues—a residential block turned an understated cultural landmark.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250929_HoutenHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Houten+Netherlands&form=BGABWCTA7&filters=HpDate:\"20250929_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 843,
+            "Width": 3833,
+            "Height": 445,
+            "Label": "house",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Houten+Netherlands&form=BGABWCTA11&filters=HpDate:\"20250929_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250928",
       "fullstartdate": "20250928",
       "enddate": "20250929",

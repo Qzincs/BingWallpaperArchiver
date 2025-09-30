@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250930",
+      "fullstartdate": "20250930",
+      "enddate": "20251001",
+      "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg",
+      "copyrighttext": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Koala+Tier&form=BGALM&filters=HpDate:\"20250929_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Koala in einem Eukalyptusbaum, Great-Otway-Nationalpark, Australien",
+      "description": "Koalas sind einzigartige Beuteltiere aus Australien, bekannt für ihr niedliches Aussehen und ihren entspannten Lebensstil. Sie schlafen bis zu 20 Stunden am Tag und verbringen den Rest damit, Eukalyptusblätter zu fressen – ihre einzige Nahrungsquelle. Trotz ihres Rufs als „Baumumarmer“ trinken Koalas kaum Wasser; sie beziehen fast ihre gesamte Flüssigkeit aus den Blättern. Auf dem heutigen Bild sieht man einen Koala in einem Eukalyptusbaum im Great-Otway-Nationalpark, Australien, der sich fest an die Äste klammert – als würde er das Wesentliche umarmen.",
+      "headline": "Fest im Griff, weich im Blick",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-38.591026,143.871898/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=-38.591026,143.871898;S9;Great-Otway-Nationalpark, Australien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Great%20Otway%20National%20Park&vdpid=6578644626398248961&ss=ypid.YN3724x17565122191373329265&mb=-38.320885~142.983227~-38.85836~144.446644&description=Blanket%20Bay%20Road%2C%20Cape%20Otway%20Victoria%203221&cardbg=%233DB838&dt=1754578800000&tt=Great%20Otway%20National%20Park&tsts2=%2526ty%253D30%2526q%253DGreat%252520Otway%252520National%252520Park%2526vdpid%253D6578644626398248961%2526ss%253Dypid.YN3724x17565122191373329265%2526mb%253D-38.320885~142.983227~-38.85836~144.446644%2526description%253DBlanket%252520Bay%252520Road%25252C%252520Cape%252520Otway%252520Victoria%2525203221%2526cardbg%253D%2525233DB838%2526dt%253D1754578800000&tstt2=Great%20Otway%20National%20Park&cp=-38.589968~143.419396&lvl=11.185686&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "30. Sept.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Great-Otway-Nationalpark%2c+Australien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Great-Otway-Nationalpark, Australien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Great-Otway-Nationalpark%2c+Australien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2590,
+            "Y": 951,
+            "Width": 487,
+            "Height": 553,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Koala+Tier&form=BGABWCTA11&filters=HpDate:\"20250929_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250929",
       "fullstartdate": "20250929",
       "enddate": "20250930",

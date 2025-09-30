@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20250930",
+      "fullstartdate": "20250930",
+      "enddate": "20251001",
+      "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_FR-FR2271596623_UHD.jpg",
+      "copyrighttext": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=koala&form=BGALM&filters=HpDate:\"20250929_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Koala dans un eucalyptus, parc national de Great Otway, Australie",
+      "description": "Dans la canopée parfumée des eucalyptus du parc national de Great Otway, en Australie, un koala veille. Ses oreilles rondes et son museau velouté émergent des feuillages argentés, tandis que son corps trapu épouse la branche comme s’il faisait corps avec l’arbre.",
+      "headline": "L'art du Koa-laisser-aller",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-38.591026,143.871898/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-38.591026,143.871898;S9;Parc national de Great Otway, Australie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Great%20Otway%20National%20Park&vdpid=6578644626398248961&ss=ypid.YN3724x17565122191373329265&mb=-38.320885~142.983227~-38.85836~144.446644&description=Blanket%20Bay%20Road%2C%20Cape%20Otway%20Victoria%203221&cardbg=%233DB838&dt=1754578800000&tt=Great%20Otway%20National%20Park&tsts2=%2526ty%253D30%2526q%253DGreat%252520Otway%252520National%252520Park%2526vdpid%253D6578644626398248961%2526ss%253Dypid.YN3724x17565122191373329265%2526mb%253D-38.320885~142.983227~-38.85836~144.446644%2526description%253DBlanket%252520Bay%252520Road%25252C%252520Cape%252520Otway%252520Victoria%2525203221%2526cardbg%253D%2525233DB838%2526dt%253D1754578800000&tstt2=Great%20Otway%20National%20Park&cp=-38.589968~143.419396&lvl=11.185686&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "30 sept. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+parc+national+de+Great+Otway%2c+Australie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  parc national de Great Otway, Australie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++parc+national+de+Great+Otway%2c+Australie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2590,
+            "Y": 951,
+            "Width": 487,
+            "Height": 553,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=koala&form=BGABWCTA11&filters=HpDate:\"20250929_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250929",
       "fullstartdate": "20250929",
       "enddate": "20250930",
