@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251001",
+      "fullstartdate": "20251001",
+      "enddate": "20251002",
+      "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_UHD.jpg",
+      "copyrighttext": "© Robb Hirsch/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af%e5%b1%b1%e8%84%88&form=BGALM&filters=HpDate:\"20250930_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "クラーク山脈, 米国 カリフォルニア州",
+      "description": "米国カリフォルニア州中央部に位置するヨセミテ国立公園。シエラネバダ山脈の西側に広がり、約 3,100km² という広大な面積を誇ります。1890 年に国立公園に指定され、1984 年にはユネスコの世界遺産にも登録されました…",
+      "headline": "氷河によって削られた険しい山脈",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_YosemiteClark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.747524,-119.585548/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.747524,-119.585548;S9;ヨセミテ国立公園, 米国 カリフォルニア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Yosemite%20National%20Park%2C%20Yosemite%20National%20Park%2C%20California%2C%20United%20States&ss=ypid.YN873x119560964&mb=47.426681~-120.399459~47.417941~-120.375941&description=9039%20Village%20Dr%2C%20Yosemite%20National%20Park%2C%20CA%2095389%C2%B7Park&cardbg=rgb%2861%2C184%2C56%29&dt=1754996400000&tt=Yosemite%20National%20Park&tsts1=%2526ty%253D18%2526q%253DYosemite%252520National%252520Park%25252C%252520Yosemite%252520National%252520Park%25252C%252520California%25252C%252520United%252520States%2526ss%253Dypid.YN873x119560964%2526mb%253D47.426681~-120.399459~47.417941~-120.375941%2526description%253D9039%252520Village%252520Dr%25252C%252520Yosemite%252520National%252520Park%25252C%252520CA%25252095389%2525C2%2525B7Park%2526cardbg%253Drgb%25252861%25252C184%25252C56%252529%2526dt%253D1754996400000&tstt1=Yosemite%20National%20Park&cp=38.284159~-124.804127&lvl=6&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 1 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 カリフォルニア州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af%e5%b1%b1%e8%84%88&form=BGABWCTA11&filters=HpDate:\"20250930_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250930",
       "fullstartdate": "20250930",
       "enddate": "20251001",

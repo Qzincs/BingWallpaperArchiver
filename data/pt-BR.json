@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250930",
+      "fullstartdate": "20250930",
+      "enddate": "20251001",
+      "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_UHD.jpg",
+      "copyrighttext": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Coala&form=BGALM&filters=HpDate:\"20250930_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália",
+      "description": "Na imagem do dia, vemos um coala repousando entre os galhos de eucalipto no Parque Nacional Great Otway, na Austrália. Os coalas, que não existem naturalmente no Brasil, são um exemplo fascinante de como a vida selvagem se adapta de forma única ao seu ambiente. Com corpos robustos, orelhas peludas e narizes pretos aveludados, esses marsupiais são parentes próximos dos vombates.",
+      "headline": "Agarrando-se ao que importa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 set. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Coala&form=BGABWCTA7&filters=HpDate:\"20250930_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2590,
+            "Y": 951,
+            "Width": 487,
+            "Height": 553,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Coala&form=BGABWCTA11&filters=HpDate:\"20250930_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250929",
       "fullstartdate": "20250929",
       "enddate": "20250930",

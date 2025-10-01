@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251001",
+      "fullstartdate": "20251001",
+      "enddate": "20251002",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.YosemiteClark_ZH-CN7179533292_UHD.jpg",
+      "copyrighttext": "© Robb Hirsch/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%ba%a6%e5%a1%9e%e7%b1%b3%e8%92%82%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20250930_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国",
+      "description": "今年是约塞米蒂国家公园遗产的又一个里程碑。约塞米蒂国家公园自1864年以来一直受到保护，以其令人惊叹的壮丽景色和生态意义而闻名。约塞米蒂坐落在内华达山脉的中心地带，占地近1200平方英里，孕育着巨大的花岗岩、奔腾的瀑布和古老的红杉。克拉克山脉是其鲜为人知的瑰宝之一——今天照片中显示的崎岖高海拔山脊。它以约塞米蒂的第一位守护者、自然保护先驱盖伦·克拉克的名字命名。",
+      "headline": "克拉克山脉的回声",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_YosemiteClark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 1",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%ba%a6%e5%a1%9e%e7%b1%b3%e8%92%82%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20250930_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%ba%a6%e5%a1%9e%e7%b1%b3%e8%92%82%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20250930_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250930",
       "fullstartdate": "20250930",
       "enddate": "20251001",

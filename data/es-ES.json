@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251001",
+      "fullstartdate": "20251001",
+      "enddate": "20251002",
+      "urlbase": "https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766_UHD.jpg",
+      "copyrighttext": "© Robb Hirsch/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Cordillera+Clark&form=BGALM&filters=HpDate:\"20250930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cordillera Clark, Sierra Nevada, Parque Nacional de Yosemite, California, EE. UU.",
+      "description": "Este año marca otro hito en el legado del Parque Nacional Yosemite, en Estados Unidos, protegido desde 1864 por su valor natural y ecológico. El parque ocupa aproximadamente 3.100 kilómetros cuadrados en Sierra Nevada —y no, no confundir con la Sierra Nevada de Granada, España— y alberga más de 800 kilómetros de senderos, cascadas como Yosemite Falls y bosques de secuoyas gigantes. Entre sus áreas menos conocidas se encuentra la Cordillera Clark, una serie de picos y praderas alpinas que alcanzan hasta 3.000 metros de altitud. Debe su nombre a Galen Clark, primer guardián del parque y pionero de la conservación.",
+      "headline": "Ecos de la cordillera",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_YosemiteClark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cordillera+Clark&form=BGABWCTA7&filters=HpDate:\"20250930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cordillera+Clark&form=BGABWCTA11&filters=HpDate:\"20250930_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250930",
       "fullstartdate": "20250930",
       "enddate": "20251001",

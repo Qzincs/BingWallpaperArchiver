@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20250930",
+      "fullstartdate": "20250930",
+      "enddate": "20251001",
+      "urlbase": "https://www.bing.com/th?id=OHR.EucalyptusKoala_ROW5777411549_UHD.jpg",
+      "copyrighttext": "© Jamie Lamb - elusive-images.co.uk/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=koala&form=BGALM&filters=HpDate:\"20250930_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Koala in a eucalyptus tree, Great Otway National Park, Australia",
+      "description": "Amid the lush eucalyptus canopy of Great Otway National Park, koalas reign as sleepy sentinels of Australia's wild soul. Often misnamed 'koala bears,' these marsupials are actually closer to wombats and tend to be instantly recognisable by their stout, tailless bodies, fluffy ears and velvety black noses.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20250930_EucalyptusKoala\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sep 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=koala&form=BGABWCTA7&filters=HpDate:\"20250930_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2590,
+            "Y": 951,
+            "Width": 487,
+            "Height": 553,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=koala&form=BGABWCTA11&filters=HpDate:\"20250930_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250929",
       "fullstartdate": "20250929",
       "enddate": "20250930",
