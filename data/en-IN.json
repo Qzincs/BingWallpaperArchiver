@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251002",
+      "fullstartdate": "20251002",
+      "enddate": "20251003",
+      "urlbase": "https://www.bing.com/th?id=OHR.StatueGandhi_EN-IN4485364887_UHD.jpg",
+      "copyrighttext": "© Rainer Krack/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Gandhi+Jayanti&form=BGALM&filters=HpDate:\"20251001_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Mahatma Gandhi statue at Malpe Beach, Udupi, Karnataka",
+      "description": "A day that reminds us how simplicity can move mountains—Gandhi Jayanti celebrates the power of truth and non-violence. Recognised as one of the three national holidays in India, it also carries global significance as the United Nations has observed it since 2007 as the International Day of Non-Violence.",
+      "headline": "A figure of peace",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_StatueGandhi\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/13.361795,74.698547/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=13.361795,74.698547;S9;Malpe Beach, Udupi, Karnataka&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Malpe%20Sea%20Beach&ss=ypid.YN4070x2860789296641035410&segment=Attraction&mb=28.76465~76.704483~28.283219~77.674026&description=46%2C%20Malpe%2C%20Beach%2C%20Udupi%2C%20Karnataka%C2%B7Beach&poicount=18&cardbg=%23219AB6&dt=1756222200000&tt=Malpe%20Sea%20Beach&tsts0=%2526ty%253D18%2526q%253DMalpe%252520Sea%252520Beach%2526ss%253Dypid.YN4070x2860789296641035410%2526segment%253DAttraction%2526mb%253D28.76465~76.704483~28.283219~77.674026%2526description%253D46%25252C%252520Malpe%25252C%252520Beach%25252C%252520Udupi%25252C%252520Karnataka%2525C2%2525B7Beach%2526poicount%253D18%2526cardbg%253D%252523219AB6%2526dt%253D1756222200000&tstt0=Malpe%20Sea%20Beach&cp=15.320274~76.228847&lvl=6.613149&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Udupi%2c+Karnataka&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Udupi, Karnataka"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Udupi%2c+Karnataka&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 3258,
+            "Y": 1377,
+            "Width": 576,
+            "Height": 779,
+            "Label": "palm tree",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Gandhi+Jayanti&form=BGABWCTA11&filters=HpDate:\"20251001_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251001",
       "fullstartdate": "20251001",
       "enddate": "20251002",

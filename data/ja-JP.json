@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251002",
+      "fullstartdate": "20251002",
+      "enddate": "20251003",
+      "urlbase": "https://www.bing.com/th?id=OHR.OxbowBend_JA-JP6534968552_UHD.jpg",
+      "copyrighttext": "© DanitaDelimont.com/AWL Images/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%aa%e3%83%83%e3%82%af%e3%82%b9%e3%83%9c%e3%82%a6%e3%83%bb%e3%83%99%e3%83%b3%e3%83%89&form=BGALM&filters=HpDate:\"20251001_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "オックスボウ・ベンド, 米国 ワイオミング州",
+      "description": "ここは米国ワイオミング州にあるオックスボウ・ベンド。グランド・ティトン国立公園内を流れるスネーク川の穏やかな水面が、ティトン山脈を鏡のように映し出します。また、夜明けになると川霧が漂い、山々が朝日に染まる幻想的な光景が広がります。周辺にはヘラジカやハクトウワシなどの野生動物も生息しており、大自然を肌で感じられる場所です…",
+      "headline": "スネーク川と山々の絶景スポット",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_OxbowBend\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.862728,-110.54882/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.862728,-110.54882;S9;オックスボウ・ベンド, 米国 ワイオミング州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Oxbow%20Bend%2C%20Grand%20Teton%20National%20Park%2C%20Wyoming&ss=ypid.YN873x15356100490154334837&mb=43.867742~-110.555398~43.857701~-110.542223&description=E%20Highway%20287%2C%20Moran%2C%20WY%2083013&cardbg=%23219AB6&dt=1754553600000&tt=Oxbow%20Bend&tsts0=%2526ty%253D18%2526q%253DOxbow%252520Bend%25252C%252520Grand%252520Teton%252520National%252520Park%25252C%252520Wyoming%2526ss%253Dypid.YN873x15356100490154334837%2526mb%253D43.867742~-110.555398~43.857701~-110.542223%2526description%253DE%252520Highway%252520287%25252C%252520Moran%25252C%252520WY%25252083013%2526cardbg%253D%252523219AB6%2526dt%253D1754553600000&tstt0=Oxbow%20Bend&cp=43.834527~-121.420898&lvl=5&pi=0&ftst=0&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 2 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%a4%e3%82%aa%e3%83%9f%e3%83%b3%e3%82%b0%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ワイオミング州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%af%e3%82%a4%e3%82%aa%e3%83%9f%e3%83%b3%e3%82%b0%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%aa%e3%83%83%e3%82%af%e3%82%b9%e3%83%9c%e3%82%a6%e3%83%bb%e3%83%99%e3%83%b3%e3%83%89&form=BGABWCTA11&filters=HpDate:\"20251001_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251001",
       "fullstartdate": "20251001",
       "enddate": "20251002",

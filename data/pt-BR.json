@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251001",
+      "fullstartdate": "20251001",
+      "enddate": "20251002",
+      "urlbase": "https://www.bing.com/th?id=OHR.PraiaPortoGalinhas_PT-BR2218477838_UHD.jpg",
+      "copyrighttext": "© Ildo Frazao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Porto+de+Galinhas&form=BGALM&filters=HpDate:\"20251001_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Praia de Porto de Galinhas, Pernambuco",
+      "description": "Porto de Galinhas, no município de Ipojuca, em Pernambuco, é conhecido por suas piscinas naturais de águas claras e mornas. Elas se formam entre os recifes de corais e podem ser visitadas em passeios de jangada durante a maré baixa. O visual impressiona: peixes coloridos nadam entre os corais, muito sol e areia branquinha, como vemos na imagem de hoje.",
+      "headline": "Sol, mar e história para contar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251001_PraiaPortoGalinhas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Porto+de+Galinhas&form=BGABWCTA7&filters=HpDate:\"20251001_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Porto+de+Galinhas&form=BGABWCTA11&filters=HpDate:\"20251001_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20250930",
       "fullstartdate": "20250930",
       "enddate": "20251001",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251002",
+      "fullstartdate": "20251002",
+      "enddate": "20251003",
+      "urlbase": "https://www.bing.com/th?id=OHR.ToscanaAutunno_IT-IT9368718519_UHD.jpg",
+      "copyrighttext": "© ©StevanZZ/iStock",
+      "copyrightlink": "https://www.bing.com/search?q=Bolgheri+frazione&form=BGALM&filters=HpDate:\"20251001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bolgheri, frazione di Castagneto Carducci, Livorno, Maremma, Toscana",
+      "description": "Tra le pieghe dorate dell’autunno, Bolgheri, nella provincia di Livorno, in Toscana, si distende come un respiro lento sulla terra. Le vigne, ormai mature, si tingono di rame e porpora, mentre il sole basso accarezza i filari con una luce obliqua. L’aria sa di mosto e di mare, un incontro che solo la Maremma sa raccontare: selvaggia e gentile, aspra e luminosa. Qui, il vino non è solo frutto: è memoria liquida, è vento che ha attraversato le stagioni. È in questo paesaggio che Carducci trovò ispirazione per i suoi versi immortali, rendendo Bolgheri celebre nella poesia “Davanti San Guido”, dove i cipressi diventano sentinelle della memoria. E ancora oggi, tra i filari e le strade che salgono lente, si avverte quell’eco letteraria che vibra sotto la pelle della terra.",
+      "headline": "Un Mare di Vino?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_ToscanaAutunno\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.401944,11.425314/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=42.401944,11.425314;S9;Bolgheri, Maremma, Toscana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Maremma%2C%20Toscana&satid=id.sid%3Aedb8e8e9-c833-c34d-cc69-7c759d3b7ccc&vdpid=7215139571195969537&mb=42.421453~11.466208~42.41133~11.489897&cardbg=%23F98745&dt=1756468800000&tt=Maremma%2C%20Lazio%2C%20Italia&tsts0=%2526ty%253D30%2526q%253DMaremma%25252C%252520Toscana%2526satid%253Did.sid%25253Aedb8e8e9-c833-c34d-cc69-7c759d3b7ccc%2526vdpid%253D7215139571195969537%2526mb%253D42.421453~11.466208~42.41133~11.489897%2526cardbg%253D%252523F98745%2526dt%253D1756468800000&tstt0=Maremma%2C%20Lazio%2C%20Italia&cp=42.416091~11.317481&lvl=11.08&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+frazione+di+Castagneto+Carducci%2c+Livorno%2c+Maremma%2c+Toscana&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  frazione di Castagneto Carducci, Livorno, Maremma, Toscana"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++frazione+di+Castagneto+Carducci%2c+Livorno%2c+Maremma%2c+Toscana&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 968,
+            "Width": 3833,
+            "Height": 1188,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bolgheri+frazione&form=BGABWCTA11&filters=HpDate:\"20251001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251001",
       "fullstartdate": "20251001",
       "enddate": "20251002",

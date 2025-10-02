@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251002",
+      "fullstartdate": "20251002",
+      "enddate": "20251003",
+      "urlbase": "https://www.bing.com/th?id=OHR.OxbowBend_DE-DE1318690148_UHD.jpg",
+      "copyrighttext": "© DanitaDelimont.com/AWL Images/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=Grand-Teton-Nationalpark+Wyoming+USA&form=BGALM&filters=HpDate:\"20251001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Oxbow Bend am Snake River, Grand-Teton-Nationalpark, Wyoming, USA",
+      "description": "Auf dem heutigen Bild sieht man das majestätische Oxbow Bend am Snake River im Grand-Teton-Nationalpark in Wyoming, USA. Diese ikonische Flussschleife bietet eine der meistfotografierten Aussichten des Parks, besonders bei Sonnenaufgang, wenn sich die Gipfel der Teton Range im ruhigen Wasser spiegeln. Der Ort ist bekannt für seine Stille, seine Artenvielfalt und als Lebensraum für Elche, Weißkopfseeadler und Fischotter. Im Herbst färben die Espen das Landschaftsbild in ein leuchtendes Gold und schaffen ein unvergessliches Naturschauspiel. Oxbow Bend ist nicht nur ein Hotspot für Fotografen, sondern auch ein Symbol für das harmonische Zusammenspiel von Wasser, Bergen und Himmel.",
+      "headline": "Die Natur in ihrer reinsten Form",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_OxbowBend\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.857995,-110.547245/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.857995,-110.547245;S9;Grand-Teton-Nationalpark, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Oxbow%20Bend%2C%20Grand%20Teton%20National%20Park%2C%20Wyoming&ss=ypid.YN873x15356100490154334837&mb=43.867742~-110.555398~43.857701~-110.542223&description=E%20Highway%20287%2C%20Moran%2C%20WY%2083013&cardbg=%23219AB6&dt=1754553600000&tt=Oxbow%20Bend&tsts0=%2526ty%253D18%2526q%253DOxbow%252520Bend%25252C%252520Grand%252520Teton%252520National%252520Park%25252C%252520Wyoming%2526ss%253Dypid.YN873x15356100490154334837%2526mb%253D43.867742~-110.555398~43.857701~-110.542223%2526description%253DE%252520Highway%252520287%25252C%252520Moran%25252C%252520WY%25252083013%2526cardbg%253D%252523219AB6%2526dt%253D1754553600000&tstt0=Oxbow%20Bend&cp=43.834527~-121.420898&lvl=5&pi=0&ftst=0&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Grand-Teton-Nationalpark%2c+Wyoming%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Grand-Teton-Nationalpark, Wyoming, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Grand-Teton-Nationalpark%2c+Wyoming%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grand-Teton-Nationalpark+Wyoming+USA&form=BGABWCTA11&filters=HpDate:\"20251001_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251001",
       "fullstartdate": "20251001",
       "enddate": "20251002",
