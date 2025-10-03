@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251003",
+      "fullstartdate": "20251003",
+      "enddate": "20251004",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.SkyeHeather_ZH-CN2820283990_UHD.jpg",
+      "copyrighttext": "© Adam Mowery/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%96%af%e5%87%af%e5%b2%9b&form=BGALM&filters=HpDate:\"20251002_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰",
+      "description": "雾气袅袅，水波粼粼，传说萦绕——欢迎来到格伦·布里特尔。在苏格兰传说中的“雾岛”斯凯岛上，峡谷绵延展开，紫色石楠花如地毯般铺满崎岖山坡。这片土地回荡着历史的低语：远在八千年前新石器时代猎人循溪而行之前，恐龙的足迹早已镌刻于峭壁之上。九世纪时，航海的北欧维京人在此定居。数百年后，强大的麦克劳德与麦克唐纳氏族相继占据这片疆土，他们的城堡见证了无数战役与同盟的兴衰。",
+      "headline": "雾中遐想",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_SkyeHeather\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 3",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%96%af%e5%87%af%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20251002_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 981,
+            "Y": 1618,
+            "Width": 2211,
+            "Height": 538,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%96%af%e5%87%af%e5%b2%9b&form=BGABWCTA11&filters=HpDate:\"20251002_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251002",
       "fullstartdate": "20251002",
       "enddate": "20251003",

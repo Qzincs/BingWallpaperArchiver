@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251003",
+      "fullstartdate": "20251003",
+      "enddate": "20251004",
+      "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_ES-ES0179378651_UHD.jpg",
+      "copyrighttext": "© Adam Mowery/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Glen+Brittle+en+la+Isla+de+Skye&form=BGALM&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Brezo creciendo en Glen Brittle, Isla de Skye, Escocia",
+      "description": "Las nieblas se enroscan, las aguas centellean y las leyendas siguen vivas: bienvenido a Glen Brittle. En la isla de Skye, conocida como la “Isla Brumosa” de Escocia, el valle se abre en una alfombra de brezo púrpura que cubre sus laderas rocosas. Este paisaje guarda huellas de dinosaurios en sus acantilados y recuerda a los cazadores mesolíticos que recorrieron sus riachuelos hace más de ocho mil años. Más tarde llegaron los vikingos y, siglos después, los clanes MacLeod y MacDonald dejaron su marca en castillos que aún evocan batallas y alianzas.",
+      "headline": "Una elegante floración",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_SkyeHeather\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Glen+Brittle+en+la+Isla+de+Skye&form=BGABWCTA7&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 981,
+            "Y": 1618,
+            "Width": 2211,
+            "Height": 538,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Glen+Brittle+en+la+Isla+de+Skye&form=BGABWCTA11&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251002",
       "fullstartdate": "20251002",
       "enddate": "20251003",

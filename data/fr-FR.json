@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251003",
+      "fullstartdate": "20251003",
+      "enddate": "20251004",
+      "urlbase": "https://www.bing.com/th?id=OHR.SkyeHeather_FR-FR0643714401_UHD.jpg",
+      "copyrighttext": "© Adam Mowery/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%c3%aele+de+Skye+%c3%89cosse&form=BGALM&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bruyère à Glen Brittle, île de Skye, Écosse",
+      "description": "Dans le voile mouvant de l’île de Skye en Écosse, Glen Brittle déroule ses bruyères pourpres, ses torrents clairs et ses brumes où flottent mille légendes. Ici, les pierres portent les empreintes de dinosaures, les eaux gardent en mémoire les chasseurs mésolithiques d’il y a 8 000 ans, et les échos des clans MacLeod et MacDonald se glissent encore dans les vallées.",
+      "headline": "L'Écosse et ses landes mystérieuses…",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_SkyeHeather\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.225,-6.3/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=57.225,-6.3;S9;Glen Brittle, île de Skye, Écosse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Glenbrittle%2C%20Isle%20of%20Skye%2C%20Scotland&satid=id.sid%3Af65ddb0e-1d55-0ab9-61a7-39c8dc8bca84&vdpid=5456023425782906881&mb=57.228867~-6.312987~57.22113~-6.287001&cardbg=%23F98745&dt=1755698400000&tt=Glen%20Brittle%2C%20Esc%C3%B3cia%2C%20Reino%20Unido&tsts0=%2526ty%253D30%2526q%253DGlenbrittle%25252C%252520Isle%252520of%252520Skye%25252C%252520Scotland%2526satid%253Did.sid%25253Af65ddb0e-1d55-0ab9-61a7-39c8dc8bca84%2526vdpid%253D5456023425782906881%2526mb%253D57.228867~-6.312987~57.22113~-6.287001%2526cardbg%253D%252523F98745%2526dt%253D1755698400000&tstt0=Glen%20Brittle%2C%20Esc%C3%B3cia%2C%20Reino%20Unido&cp=57.220911~-6.250683&lvl=11.974663&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+%c3%aele+de+Skye%2c+%c3%89cosse&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  île de Skye, Écosse"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++%c3%aele+de+Skye%2c+%c3%89cosse&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 981,
+            "Y": 1618,
+            "Width": 2211,
+            "Height": 538,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%c3%aele+de+Skye+%c3%89cosse&form=BGABWCTA11&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251002",
       "fullstartdate": "20251002",
       "enddate": "20251003",

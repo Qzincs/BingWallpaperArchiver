@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251003",
+      "fullstartdate": "20251003",
+      "enddate": "20251004",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrandenburgGate_DE-DE4138430516_UHD.jpg",
+      "copyrighttext": "© Craig Hastings/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=BGALM&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Brandenburger Tor bei Sonnenuntergang, Berlin",
+      "description": "Heute begehen wir den Tag der Deutschen Einheit – den einzigen gesetzlichen Nationalfeiertag in Deutschland. Er erinnert an die Wiedervereinigung von 1990, als die Deutsche Demokratische Republik (DDR) der Bundesrepublik Deutschland beitrat. Damit endete die jahrzehntelange Teilung des Landes, die nach dem Zweiten Weltkrieg begonnen hatte. Besonders in Berlin, wo die Mauer einst die Stadt spaltete, wird dieser Tag intensiv erlebt. Orte wie die Gedenkstätte Berliner Mauer, das Brandenburger Tor oder die East Side Gallery laden dazu ein, Geschichte hautnah nachzuvollziehen.",
+      "headline": "Symbol der Einheit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251003_BrandenburgGate\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.51627,13.37772/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.51627,13.37772;S9;Brandenburger Tor, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=brandenburger%20tor%20berlin&satid=id.sid%3Afe0babbc-c3f8-a389-c69a-303596a36657&vdpid=7017984902809255939&mb=52.517406~13.3748~52.515136~13.380642&cardbg=%23219AB6&dt=1757426400000&tt=Brandenburger%20Tor%2C%20Berlin&tsts0=%2526ty%253D30%2526q%253Dbrandenburger%252520tor%252520berlin%2526satid%253Did.sid%25253Afe0babbc-c3f8-a389-c69a-303596a36657%2526vdpid%253D7017984902809255939%2526mb%253D52.517406~13.3748~52.515136~13.380642%2526cardbg%253D%252523219AB6%2526dt%253D1757426400000&tstt0=Brandenburger%20Tor%2C%20Berlin&cp=52.522611~13.290087&lvl=12.52533&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Berlin&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Berlin"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Berlin&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 113,
+            "Y": 541,
+            "Width": 3721,
+            "Height": 1615,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Tag+der+Deutschen+Einheit&form=BGABWCTA11&filters=HpDate:\"20251002_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251002",
       "fullstartdate": "20251002",
       "enddate": "20251003",

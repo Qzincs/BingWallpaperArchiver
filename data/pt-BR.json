@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251002",
+      "fullstartdate": "20251002",
+      "enddate": "20251003",
+      "urlbase": "https://www.bing.com/th?id=OHR.OxbowBend_PT-BR2338383870_UHD.jpg",
+      "copyrighttext": "© DanitaDelimont.com/AWL Images/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Grand+Teton&form=BGALM&filters=HpDate:\"20251002_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Oxbow Bend no Snake River, Parque Nacional de Grand Teton, Wyoming, EUA",
+      "description": "Além da água, os rios carregam vida e histórias. São a contribuição sempre em movimento da natureza para nossas paisagens — como o Snake River, que vemos na imagem de hoje, serpenteando pelo Parque Nacional de Grand Teton, em Wyoming, Estados Unidos. As águas calmas refletem a cordilheira, enquanto alces e águias-carecas prosperam. Ali, a água flui livre, protegida pela Lei dos Rios Selvagens e Cênicos, assinada em 1968 — uma promessa de que certos rios correrão selvagens para sempre. O Snake River foi incluído nessa lista em 2009, garantindo que seus reflexos permaneçam intocados.",
+      "headline": "Selvagem por lei",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251002_OxbowBend\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Grand+Teton&form=BGABWCTA7&filters=HpDate:\"20251002_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+Grand+Teton&form=BGABWCTA11&filters=HpDate:\"20251002_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251001",
       "fullstartdate": "20251001",
       "enddate": "20251002",
