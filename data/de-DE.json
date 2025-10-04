@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251004",
+      "fullstartdate": "20251004",
+      "enddate": "20251005",
+      "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_DE-DE7375931305_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Internationale+Weltraumwoche&form=BGALM&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Die Hauptsolaranlagen der ISS, gesehen von der SpaceX Crew Dragon Endeavour (© NASA)",
+      "description": "Jedes Jahr vom 4. bis 10. Oktober wird die Internationale Weltraumwoche gefeiert – eine Initiative der Vereinten Nationen, die die Bedeutung von Raumfahrttechnologie und -wissenschaft für das Leben auf der Erde hervorhebt. Diese Woche erinnert an zwei historische Meilensteine: den Start des ersten künstlichen Satelliten, Sputnik I, am 4. Oktober 1957 und das Inkrafttreten des Weltraumvertrags am 10. Oktober 1967, der die friedliche Nutzung des Weltraums sowie das Verbot von Waffen im All regelt. Weltweit finden in dieser Zeit zahlreiche Veranstaltungen statt – von Schulprojekten bis hin zu wissenschaftlichen Ausstellungen –, um das Interesse an der Raumfahrt zu fördern und junge Menschen für die Erforschung des Universums zu begeistern.",
+      "headline": "Der Kosmos kennt keine Grenzen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_DragonEndeavour\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Internationale+Weltraumwoche&form=BGABWCTA7&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Internationale+Weltraumwoche&form=BGABWCTA11&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251003",
       "fullstartdate": "20251003",
       "enddate": "20251004",

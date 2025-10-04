@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251004",
+      "fullstartdate": "20251004",
+      "enddate": "20251005",
+      "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_IT-IT7184624651_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Settimana+mondiale+dello+Spazio&form=BGALM&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pannelli solari della ISS visti dalla SpaceX Crew Dragon Endeavour",
+      "description": "Dal 4 al 10 ottobre, la \"Settimana Mondiale dello Spazio\" ci invita a sollevare lo sguardo e oltrepassare i confini del nostro mondo. Nata dal primo battito orbitale dello Sputnik 1 nel 1957 e dal Trattato sullo Spazio Extra-atmosferico del 1967, un patto tra nazioni per esplorare il cosmo in pace, questa settimana celebra la sete di scoperta che ci unisce. Le aule si animano di esperimenti, i planetari risuonano di stupore e i telescopi si tendono come ponti verso galassie lontane. In ogni angolo del pianeta si intreccia una storia universale di scienza, meraviglia e desiderio umano di andare oltre. La missione è chiara: accendere la scintilla nei futuri esploratori, ingegneri e sognatori pronti a riscrivere le mappe del cielo.",
+      "headline": "Missione: Possibile",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_DragonEndeavour\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Settimana+mondiale+dello+Spazio&form=BGABWCTA7&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Settimana+mondiale+dello+Spazio&form=BGABWCTA11&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251003",
       "fullstartdate": "20251003",
       "enddate": "20251004",

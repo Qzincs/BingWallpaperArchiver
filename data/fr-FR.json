@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251004",
+      "fullstartdate": "20251004",
+      "enddate": "20251005",
+      "urlbase": "https://www.bing.com/th?id=OHR.CamagueHorses_FR-FR8949135937_UHD.jpg",
+      "copyrighttext": "© Francesco Riccardo Lacomino/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+des+animaux&form=BGALM&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chevaux de Camargue, Aigues-Mortes, Occitanie",
+      "description": "Sous le soleil couchant, les chevaux de Camargue avancent, libres et puissants, dans les marais salants d'Aigues-Mortes. Ici, la nature ne se montre pas, elle se révèle brute, sauvage et indomptée. Emblèmes d'une région façonnée par l'eau et le sel, ils sont les descendants d'une lignée millénaire et sont habitués aux terres mouvantes, entre mer et étangs. Leurs sabots foulent les sols tremblants où poussent salicornes et tamaris, dans un ballet silencieux troublé seulement par les flamants roses.",
+      "headline": "Chevaux de Camargue, Aigues-Mortes, Occitanie",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_CamagueHorses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.56667,4.1925/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.56667,4.1925;S9;Aigues-Mortes, Occitanie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Aigues-Mortes&vdpid=7206650763202789377&mb=43.592106~4.046146~43.502121~4.257694&cardbg=%23F98745&tt=Aigues-Mortes%2C%20Gard&tsts1=%2526ty%253D30%2526q%253DAigues-Mortes%2526vdpid%253D7206650763202789377%2526mb%253D43.592106~4.046146~43.502121~4.257694%2526cardbg%253D%252523F98745&tstt1=Aigues-Mortes%2C%20Gard&cp=43.481262~3.525554&lvl=9.864523&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "4 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Aigues-Mortes%2c+Occitanie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Aigues-Mortes, Occitanie"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Aigues-Mortes%2c+Occitanie&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 24,
+            "Y": 806,
+            "Width": 3744,
+            "Height": 648,
+            "Label": "horse",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+des+animaux&form=BGABWCTA11&filters=HpDate:\"20251003_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251003",
       "fullstartdate": "20251003",
       "enddate": "20251004",
