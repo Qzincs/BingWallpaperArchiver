@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251004",
+      "fullstartdate": "20251004",
+      "enddate": "20251005",
+      "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_PT-BR6949241146_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=BGALM&filters=HpDate:\"20251004_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Painéis solares da ISS vistos a partir da cápsula Crew Dragon Endeavour da SpaceX",
+      "description": "De 4 a 10 de outubro, a Semana Mundial do Espaço nos convida a transcender os limites da Terra e perseguir as estrelas. Criada a partir do lançamento do Sputnik 1 em 1957 e da assinatura do Tratado do Espaço Sideral em 1967, a semana celebra a ciência, a descoberta e o desejo humano de ir além. Durante esses dias, escolas realizam experimentos, planetários despertam a curiosidade e telescópios conectam nosso olhar a galáxias distantes.",
+      "headline": "Missão: Possível",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_DragonEndeavour\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=BGABWCTA7&filters=HpDate:\"20251004_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Semana+Mundial+do+Espa%c3%a7o&form=BGABWCTA11&filters=HpDate:\"20251004_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251003",
       "fullstartdate": "20251003",
       "enddate": "20251004",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251004",
+      "fullstartdate": "20251004",
+      "enddate": "20251005",
+      "urlbase": "https://www.bing.com/th?id=OHR.DragonEndeavour_ROW8867251205_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=International+Space+Station&form=BGALM&filters=HpDate:\"20251004_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ISS main solar arrays seen from SpaceX Crew Dragon Endeavour",
+      "description": "Today's image captures the International Space Station (ISS), a vast laboratory built by 15 nations, orbiting about 400 kilometres above Earth. Travelling at nearly 28,900 km/h, the ISS circles Earth every 90 minutes, giving its international crew of seven the remarkable experience of witnessing 16 sunrises and sunsets each day. Its solar arrays soak up sunlight to power groundbreaking research on microgravity, technology and human survival beyond our planet. Shot from the SpaceX Crew Dragon Endeavour—a reusable spacecraft that has completed six missions since 2020, ferrying astronauts and cargo—this scene embodies what humanity can achieve when it chooses cooperation over competition. Each gleaming panel makes it clear: the final frontier is within reach and the audacity to explore it defines us.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_DragonEndeavour\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=International+Space+Station&form=BGABWCTA7&filters=HpDate:\"20251004_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=International+Space+Station&form=BGABWCTA11&filters=HpDate:\"20251004_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251003",
       "fullstartdate": "20251003",
       "enddate": "20251004",

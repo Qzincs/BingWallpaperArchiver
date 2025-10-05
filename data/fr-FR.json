@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_FR-FR0719163215_UHD.jpg",
+      "copyrighttext": "© Ondrej Prosicky/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+enseignants&form=BGALM&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chouette boréale dans une forêt d’Europe centrale",
+      "description": "Dans les sous-bois silencieux d’Europe centrale, une chouette boréale observe l’horizon d’un regard perçant. Son plumage moucheté se fond dans les feuillages d’automne, à l'image d'une pensée sage nichée au cœur de la nature. Elle incarne l’intelligence discrète, celle qui veille et éclaire sans bruit.",
+      "headline": "Un hommage aux alchimistes du savoir",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+enseignants&form=BGABWCTA7&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1925,
+            "Y": 666,
+            "Width": 761,
+            "Height": 1365,
+            "Label": "owl",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+enseignants&form=BGABWCTA11&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251004",
       "fullstartdate": "20251004",
       "enddate": "20251005",

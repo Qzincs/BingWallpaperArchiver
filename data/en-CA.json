@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251004",
+      "fullstartdate": "20251004",
+      "enddate": "20251005",
+      "urlbase": "https://www.bing.com/th?id=OHR.InsideOutNB_EN-CA6818912564_UHD.jpg",
+      "copyrighttext": "© Melissa Renwick/Contributor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nuit+Blanche+Toronto&form=BGALM&filters=HpDate:\"20251004_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "'Inside Out' by JR at the Nathan Phillips Square, Nuit Blanche 2015, Toronto",
+      "description": "Hit pause on your plans—tonight, Toronto trades the usual nightlife for art you can walk through. Nuit Blanche Toronto returns for its 19th edition, taking place overnight from October 4 into the morning of October 5. This year, the cultural event invites artists to 'translate the city' by exploring the intersections of language, history and identity within an ever-evolving urban landscape. Artist Ellen Pau's 'The Eye of Wisdom' appears as a large-scale projection incorporating Hong Kong Sign Language as a public love letter. Head downtown and explore curator Charlene K. Lau's 'Poetic Justice,' which delves into land, treaties and the city's layered past. Look up and you might spot Cassils' project 'Undersight,' flashing 'deemed suspect' words into the evening sky using Morse code just like a Bat-Signal.",
+      "headline": "All art, all night",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251004_InsideOutNB\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.6525,-79.383614/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.6525,-79.383614;S9;Nathan Phillips Square, Toronto, Ontario&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=nathan%20phillips%20square&ss=ypid.YN1226x7590333776637327558&mb=43.657619~-79.391348~43.647387~-79.375899&description=100%20Queen%20St%20W%2C%20Toronto%20ON%20M5H%202N1&cardbg=%23219AB6&dt=1757507400000&tt=Nathan%20Phillips%20Square&tsts0=%2526ty%253D18%2526q%253Dnathan%252520phillips%252520square%2526ss%253Dypid.YN1226x7590333776637327558%2526mb%253D43.657619~-79.391348~43.647387~-79.375899%2526description%253D100%252520Queen%252520St%252520W%25252C%252520Toronto%252520ON%252520M5H%2525202N1%2526cardbg%253D%252523219AB6%2526dt%253D1757507400000&tstt0=Nathan%20Phillips%20Square&cp=43.511285~-79.950178&lvl=8.509501&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Nuit+Blanche+2015%2c+Toronto&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Nuit Blanche 2015, Toronto"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Nuit+Blanche+2015%2c+Toronto&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nuit+Blanche+Toronto&form=BGABWCTA11&filters=HpDate:\"20251004_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251003",
       "fullstartdate": "20251003",
       "enddate": "20251004",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_DE-DE2816959094_UHD.jpg",
+      "copyrighttext": "© Ondrej Prosicky/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Tag+des+Lehrers&form=BGALM&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Raufußkauz in einem Wald in Mitteleuropa",
+      "description": "Der Weltlehrertag wird jedes Jahr am 5. Oktober gefeiert und wurde 1994 von der UNESCO ins Leben gerufen, um die zentrale Rolle von Lehrkräften weltweit zu würdigen. Dieses Datum erinnert an die Unterzeichnung der gemeinsamen Empfehlung von UNESCO und IAO zur Lage des Lehrpersonals (1966), die Standards für deren Rechte und Pflichten festlegt. Lehrkräfte sind entscheidend für den Aufbau gerechter, inklusiver und nachhaltiger Gesellschaften. Persönlichkeiten wie Maria Montessori, Paulo Freire oder Gabriela Mistral gelten als Vorbilder für innovative Bildungsansätze und lebenslanges Engagement für das Lernen.",
+      "headline": "Weisheit feiern",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Tag+des+Lehrers&form=BGABWCTA7&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1925,
+            "Y": 666,
+            "Width": 761,
+            "Height": 1365,
+            "Label": "owl",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Tag+des+Lehrers&form=BGABWCTA11&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251004",
       "fullstartdate": "20251004",
       "enddate": "20251005",

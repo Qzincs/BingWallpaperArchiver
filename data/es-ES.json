@@ -1,6 +1,314 @@
 {
   "images": [
     {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg",
+      "copyrighttext": "© Botond Horvath/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Zaragoza&form=BGALM&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España",
+      "description": "En Zaragoza, cada octubre comienza una de las celebraciones más esperadas: las Fiestas del Pilar. Durante varios días, la ciudad se llena de música, luces, danzas y alegría. El punto central es la Basílica de Nuestra Señora del Pilar, cuyo imponente tejado y torres se han convertido en símbolo de la capital aragonesa.",
+      "headline": "El pilar más importante",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_ElPilarZaragoza\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 de oct. de aaaa",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Busca na web para saber máis sobre esta imaxe",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA7&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Busca na web para saber máis sobre esta imaxe"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 316,
+            "Y": 253,
+            "Width": 1045,
+            "Height": 1597,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Busca na web para saber máis sobre esta imaxe",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA11&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Busca na web para saber máis sobre esta imaxe"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg",
+      "copyrighttext": "© Botond Horvath/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Zaragoza&form=BGALM&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España",
+      "description": "En Zaragoza, cada octubre comienza una de las celebraciones más esperadas: las Fiestas del Pilar. Durante varios días, la ciudad se llena de música, luces, danzas y alegría. El punto central es la Basílica de Nuestra Señora del Pilar, cuyo imponente tejado y torres se han convertido en símbolo de la capital aragonesa.",
+      "headline": "El pilar más importante",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_ElPilarZaragoza\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA7&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 316,
+            "Y": 253,
+            "Width": 1045,
+            "Height": 1597,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA11&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg",
+      "copyrighttext": "© Botond Horvath/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Zaragoza&form=BGALM&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España",
+      "description": "En Zaragoza, cada octubre comienza una de las celebraciones más esperadas: las Fiestas del Pilar. Durante varios días, la ciudad se llena de música, luces, danzas y alegría. El punto central es la Basílica de Nuestra Señora del Pilar, cuyo imponente tejado y torres se han convertido en símbolo de la capital aragonesa.",
+      "headline": "El pilar más importante",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_ElPilarZaragoza\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 oct., 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca al web per obtenir més informació sobre aquesta imatge",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA7&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca al web per obtenir més informació sobre aquesta imatge"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 316,
+            "Y": 253,
+            "Width": 1045,
+            "Height": 1597,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca al web per obtenir més informació sobre aquesta imatge",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA11&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca al web per obtenir més informació sobre aquesta imatge"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElPilarZaragoza_ES-ES2251401044_UHD.jpg",
+      "copyrighttext": "© Botond Horvath/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Zaragoza&form=BGALM&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral basílica de Nuestra Señora del Pilar, Zaragoza, España",
+      "description": "En Zaragoza, cada octubre comienza una de las celebraciones más esperadas: las Fiestas del Pilar. Durante varios días, la ciudad se llena de música, luces, danzas y alegría. El punto central es la Basílica de Nuestra Señora del Pilar, cuyo imponente tejado y torres se han convertido en símbolo de la capital aragonesa.",
+      "headline": "El pilar más importante",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_ElPilarZaragoza\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025, oct. 5",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Bilatu sarean irudi honi buruz gehiago jakiteko",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA7&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Bilatu sarean irudi honi buruz gehiago jakiteko"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 316,
+            "Y": 253,
+            "Width": 1045,
+            "Height": 1597,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Bilatu sarean irudi honi buruz gehiago jakiteko",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Zaragoza&form=BGABWCTA11&filters=HpDate:\"20251004_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Bilatu sarean irudi honi buruz gehiago jakiteko"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251004",
       "fullstartdate": "20251004",
       "enddate": "20251005",
