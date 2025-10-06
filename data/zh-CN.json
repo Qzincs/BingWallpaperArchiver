@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=BGALM&filters=HpDate:\"20251005_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "安顺桥中秋灯展，成都，中国",
+      "description": "当秋月当空，空气中已透出冬日的气息，那份战栗感总会在记忆中久久萦绕。中秋节——亦称月节——作为中国最珍视的节日之一，为丰收时节的尾声增添了又一抹神话色彩。它在农历八月十五日庆祝，今年恰逢10月6日。相传此夜，月神嫦娥正俯瞰人间。",
+      "headline": "千里共婵娟",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=BGABWCTA7&filters=HpDate:\"20251005_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%b8%ad%e7%a7%8b%e8%8a%82&form=BGABWCTA11&filters=HpDate:\"20251005_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251005",
       "fullstartdate": "20251005",
       "enddate": "20251006",

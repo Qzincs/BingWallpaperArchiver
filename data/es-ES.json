@@ -1,6 +1,314 @@
 {
   "images": [
     {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGALM&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China",
+      "description": "El Festival del Medio Otoño, también llamado Festival de la Luna, es una de las celebraciones más queridas de China. Se festeja el día 15 del octavo mes lunar, que este año coincide con el 6 de octubre. La tradición cuenta que esa noche la diosa de la luna, Chang’e, contempla el mundo desde lo alto.",
+      "headline": "Fiesta a la luz de la luna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025, oct. 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Bilatu sarean irudi honi buruz gehiago jakiteko",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA7&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Bilatu sarean irudi honi buruz gehiago jakiteko"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Bilatu sarean irudi honi buruz gehiago jakiteko",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA11&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Bilatu sarean irudi honi buruz gehiago jakiteko"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGALM&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China",
+      "description": "El Festival del Medio Otoño, también llamado Festival de la Luna, es una de las celebraciones más queridas de China. Se festeja el día 15 del octavo mes lunar, que este año coincide con el 6 de octubre. La tradición cuenta que esa noche la diosa de la luna, Chang’e, contempla el mundo desde lo alto.",
+      "headline": "Fiesta a la luz de la luna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA7&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA11&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGALM&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China",
+      "description": "El Festival del Medio Otoño, también llamado Festival de la Luna, es una de las celebraciones más queridas de China. Se festeja el día 15 del octavo mes lunar, que este año coincide con el 6 de octubre. La tradición cuenta que esa noche la diosa de la luna, Chang’e, contempla el mundo desde lo alto.",
+      "headline": "Fiesta a la luz de la luna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 oct., 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca al web per obtenir més informació sobre aquesta imatge",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA7&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca al web per obtenir més informació sobre aquesta imatge"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca al web per obtenir més informació sobre aquesta imatge",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA11&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca al web per obtenir més informació sobre aquesta imatge"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_ES-ES0720553853_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGALM&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Puente Anshun iluminado para el Fiesta del Medio Otoño, Chengdu, China",
+      "description": "El Festival del Medio Otoño, también llamado Festival de la Luna, es una de las celebraciones más queridas de China. Se festeja el día 15 del octavo mes lunar, que este año coincide con el 6 de octubre. La tradición cuenta que esa noche la diosa de la luna, Chang’e, contempla el mundo desde lo alto.",
+      "headline": "Fiesta a la luz de la luna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de oct. de aaaa",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Busca na web para saber máis sobre esta imaxe",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA7&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Busca na web para saber máis sobre esta imaxe"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Busca na web para saber máis sobre esta imaxe",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fiesta+del+Medio+Oto%c3%b1o&form=BGABWCTA11&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Busca na web para saber máis sobre esta imaxe"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251005",
       "fullstartdate": "20251005",
       "enddate": "20251006",

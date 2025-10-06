@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_DE-DE2900249010_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mondfest&form=BGALM&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Anshun-Brücke, beleuchtet zum Mondfest, Chengdu, China",
+      "description": "Auf dem heutigen Bild ist die Anshun-Brücke zu sehen, die zum Mondfest in Chengdu, China, beleuchtet ist. Diese historische Brücke erstrahlt in traditionellen Laternenlichtern und feiert das Mondfest – eines der bedeutendsten Feste in der chinesischen Kultur. Es findet am 15. Tag des achten Mondmonats statt, wenn der Vollmond am hellsten ist. Familien kommen zusammen, essen Mondkuchen und betrachten den Mond als Symbol für Einheit und Wohlstand. Städte sind festlich geschmückt mit roten Laternen, Lichtinstallationen und kulturellen Darbietungen, die eine nostalgische und feierliche Atmosphäre schaffen.",
+      "headline": "Bis zum Mond und zurück",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.66,104.0633/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=30.66,104.0633;S9;Chengdu, Sichuan, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Chengdu%2C%20China&satid=id.sid%3Adef787c1-f7c1-82ed-743e-e5b720729a19&vdpid=7810936404829011969&mb=30.665556~104.051541~30.654444~104.075059&cardbg=rgb%28249%2C135%2C69%29&tt=Chengdu%2C%20Sichuan%2C%20China&tsts0=%2526ty%253D30%2526q%253DChengdu%25252C%252520China%2526satid%253Did.sid%25253Adef787c1-f7c1-82ed-743e-e5b720729a19%2526vdpid%253D7810936404829011969%2526mb%253D30.665556~104.051541~30.654444~104.075059%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529&tstt0=Chengdu%2C%20Sichuan%2C%20China&cp=31.146235~94.273997&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+beleuchtet+zum+Mondfest%2c+Chengdu%2c+China&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  beleuchtet zum Mondfest, Chengdu, China"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++beleuchtet+zum+Mondfest%2c+Chengdu%2c+China&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mondfest&form=BGABWCTA11&filters=HpDate:\"20251005_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251005",
       "fullstartdate": "20251005",
       "enddate": "20251006",

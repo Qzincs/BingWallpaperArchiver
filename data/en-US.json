@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251005",
+      "fullstartdate": "20251005",
+      "enddate": "20251006",
+      "urlbase": "https://www.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg",
+      "copyrighttext": "© Ondrej Prosicky/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=World+Teachers+Day&form=BGALM&filters=HpDate:\"20251005_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Boreal owl in a forest in Central Europe",
+      "description": "The tradition of teaching is deeply rooted in human history. Today, we honor those who dedicate their lives to sharing knowledge and shaping minds. Happy World Teachers' Day to all the educators who have helped us become who we are.",
+      "headline": "Celebrating our teachers",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251005_TeacherOwl\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=World+Teachers+Day&form=BGABWCTA7&filters=HpDate:\"20251005_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1925,
+            "Y": 666,
+            "Width": 761,
+            "Height": 1365,
+            "Label": "owl",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=World+Teachers+Day&form=BGABWCTA11&filters=HpDate:\"20251005_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251004",
       "fullstartdate": "20251004",
       "enddate": "20251005",

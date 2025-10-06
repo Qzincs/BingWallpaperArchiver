@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_JA-JP7739273331_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%ae%89%e9%a0%86%e6%a9%8b&form=BGALM&filters=HpDate:\"20251005_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "錦江に映える安順橋と満月, 中国",
+      "description": "今日 10 月 6 日は中秋の名月。「十五夜」とも呼ばれ、お団子やススキなどをお供えし、お月見をする日です。もともとは、中国の中秋節に由来しており、平安時代に日本へと伝わり定着しました。そして、今日の画像の月は、中国・成都の安順橋の上に浮かんでいます…",
+      "headline": "今日は中秋の名月",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.66,104.0633/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=30.66,104.0633;S9;成都市, 中国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Chengdu%2C%20China&satid=id.sid%3Adef787c1-f7c1-82ed-743e-e5b720729a19&vdpid=7810936404829011969&mb=30.665556~104.051541~30.654444~104.075059&cardbg=rgb%28249%2C135%2C69%29&tt=Chengdu%2C%20Sichuan%2C%20China&tsts0=%2526ty%253D30%2526q%253DChengdu%25252C%252520China%2526satid%253Did.sid%25253Adef787c1-f7c1-82ed-743e-e5b720729a19%2526vdpid%253D7810936404829011969%2526mb%253D30.665556~104.051541~30.654444~104.075059%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529&tstt0=Chengdu%2C%20Sichuan%2C%20China&cp=31.146235~94.273997&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 6 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 中国 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e4%b8%ad%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%ae%89%e9%a0%86%e6%a9%8b&form=BGABWCTA11&filters=HpDate:\"20251005_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251005",
       "fullstartdate": "20251005",
       "enddate": "20251006",
