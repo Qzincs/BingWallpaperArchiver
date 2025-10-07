@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_JA-JP7797192109_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b9%e3%83%8d%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e5%b1%b1+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e&form=BGALM&filters=HpDate:\"20251006_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "スネフェルス山, 米国 コロラド州",
+      "description": "ここは米国コロラド州南西部に位置するスネフェルス山。ロッキー山脈の一部であり、標高は約 4,300m です。秋になると、山麓には黄金色に染まったアスペンの林が広がり、雪をかぶった山頂とのコントラストが訪れる人々を魅了します…",
+      "headline": "黄金に染まる山",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_RidgwayAspens\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.003941,-107.792358/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.003941,-107.792358;S9;スネフェルス山, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Mount%20Sneffels%2C%20Colorado%2C%20United%20States&satid=id.sid%3A47053828-b455-7c50-2bbf-477c19fd9169&vdpid=5085370911381520385&mb=59.083937~-208.724113~1.932251~-76.353782&cardbg=%23F98745&dt=1755700200000&tt=Mount%20Sneffels%2C%20Colorado%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DMount%252520Sneffels%25252C%252520Colorado%25252C%252520United%252520States%2526satid%253Did.sid%25253A47053828-b455-7c50-2bbf-477c19fd9169%2526vdpid%253D5085370911381520385%2526mb%253D59.083937~-208.724113~1.932251~-76.353782%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Mount%20Sneffels%2C%20Colorado%2C%20United%20States&cp=37.540462~-107.583387&lvl=5.561532&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 7 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 コロラド州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 547,
+            "Width": 3833,
+            "Height": 1609,
+            "Label": "maple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b9%e3%83%8d%e3%83%95%e3%82%a7%e3%83%ab%e3%82%b9%e5%b1%b1+%e3%82%b3%e3%83%ad%e3%83%a9%e3%83%89%e5%b7%9e&form=BGABWCTA11&filters=HpDate:\"20251006_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251006",
       "fullstartdate": "20251006",
       "enddate": "20251007",

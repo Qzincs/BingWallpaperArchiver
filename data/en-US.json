@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251006",
+      "fullstartdate": "20251006",
+      "enddate": "20251007",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg",
+      "copyrighttext": "© Philippe LEJEANVRE/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=mid+autumn+festival&form=BGALM&filters=HpDate:\"20251006_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China",
+      "description": "The shiver felt under a full autumn moon, when the air hints at winter's arrival, has a way of lingering in memory. One of China's most cherished holidays, the Mid-Autumn Festival—also known as the Moon Festival—adds another touch of magic to the end of the harvest season. It's celebrated on the 15th day of the eighth lunar month of the Chinese calendar—this year, on October 6. According to legend, it's also the night when the moon goddess Chang'e watches over the world.",
+      "headline": "To the moon and back",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251006_AnshunBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.66,104.0633/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=30.66,104.0633;S9;Chengdu&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Chengdu%2C%20China&satid=id.sid%3Adef787c1-f7c1-82ed-743e-e5b720729a19&vdpid=7810936404829011969&mb=30.665556~104.051541~30.654444~104.075059&cardbg=rgb%28249%2C135%2C69%29&tt=Chengdu%2C%20Sichuan%2C%20China&tsts0=%2526ty%253D30%2526q%253DChengdu%25252C%252520China%2526satid%253Did.sid%25253Adef787c1-f7c1-82ed-743e-e5b720729a19%2526vdpid%253D7810936404829011969%2526mb%253D30.665556~104.051541~30.654444~104.075059%2526cardbg%253Drgb%252528249%25252C135%25252C69%252529&tstt0=Chengdu%2C%20Sichuan%2C%20China&cp=31.146235~94.273997&lvl=5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Chengdu%2c+China&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Chengdu, China"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Chengdu%2c+China&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 249,
+            "Width": 3833,
+            "Height": 1061,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=mid+autumn+festival&form=BGABWCTA11&filters=HpDate:\"20251006_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251005",
       "fullstartdate": "20251005",
       "enddate": "20251006",

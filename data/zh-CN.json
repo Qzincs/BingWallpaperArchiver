@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%a7%91%e7%bd%97%e6%8b%89%e5%a4%9a%e5%b7%9e&form=BGALM&filters=HpDate:\"20251006_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国",
+      "description": "又到了一年之中，山峦褪去夏日青翠，披上绚烂秋色的时节。变色通常始于九月初至十月初，高处山坡率先染上秋意，随后低处山谷渐次跟进。白杨树堪称这场视觉盛宴的主角，其叶片在阳光下闪烁，宛如金币般熠熠生辉。然而白杨的绚烂并非年年如约而至。它们的色彩取决于多重因素——树木健康状况、局部气候变化、土壤湿度，以及生长海拔与纬度。健康的白杨林才是真正的季节主角：枝繁叶茂的林群色彩更明亮，落叶也更晚；而受压或衰弱的树木往往迅速褪色，只留下一抹短暂的辉煌。去年令人惊艳的景致，今年或许黯淡无光。今日镜头捕捉到斯内弗尔斯山麓的绚烂盛景——这座科罗拉多州斯内弗尔斯山脉的最高峰，从里奇韦镇拔地而起，海拔拔高逾7000英尺。",
+      "headline": "金色的秋日余晖",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_RidgwayAspens\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 7",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%a7%91%e7%bd%97%e6%8b%89%e5%a4%9a%e5%b7%9e&form=BGABWCTA7&filters=HpDate:\"20251006_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 547,
+            "Width": 3833,
+            "Height": 1609,
+            "Label": "maple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%a7%91%e7%bd%97%e6%8b%89%e5%a4%9a%e5%b7%9e&form=BGABWCTA11&filters=HpDate:\"20251006_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251006",
       "fullstartdate": "20251006",
       "enddate": "20251007",

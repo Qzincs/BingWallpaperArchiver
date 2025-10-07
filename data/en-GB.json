@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_EN-GB4884464302_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Mount+Sneffels&form=BGALM&filters=HpDate:\"20251006_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Autumn colours below Mount Sneffels near Ridgway, Colorado, United States",
+      "description": "It's that time of year when the hills shed their summer greens, unveiling a blaze of colours that lights up the season. The change usually begins in September and early October, with higher slopes turning first, followed by the lower valleys. Among the stars of this display are the aspens, whose leaves shimmer like gold coins in the sunlight. The magic of aspen colours, however, isn't guaranteed year after year. Their golden glow depends on many factors—tree health, local weather shifts, soil moisture and where they grow in terms of elevation and latitude. Healthy aspens are the true stars of the season: strong, thriving groves burst with brighter colours and hold onto their leaves longer, while stressed or weakened trees often fade quickly, offering only a glimpse of their usual brilliance. A spot that dazzled one fall might look muted the next.",
+      "headline": "Golden autumn glow",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_RidgwayAspens\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.00389,-107.7922/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=38.00389,-107.7922;S9;Mount Sneffels, Colorado, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Mount%20Sneffels%2C%20Colorado%2C%20United%20States&satid=id.sid%3A47053828-b455-7c50-2bbf-477c19fd9169&vdpid=5085370911381520385&mb=59.083937~-208.724113~1.932251~-76.353782&cardbg=%23F98745&dt=1755700200000&tt=Mount%20Sneffels%2C%20Colorado%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DMount%252520Sneffels%25252C%252520Colorado%25252C%252520United%252520States%2526satid%253Did.sid%25253A47053828-b455-7c50-2bbf-477c19fd9169%2526vdpid%253D5085370911381520385%2526mb%253D59.083937~-208.724113~1.932251~-76.353782%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Mount%20Sneffels%2C%20Colorado%2C%20United%20States&cp=37.540462~-107.583387&lvl=5.561532&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Colorado%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Colorado, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Colorado%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 547,
+            "Width": 3833,
+            "Height": 1609,
+            "Label": "maple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mount+Sneffels&form=BGABWCTA11&filters=HpDate:\"20251006_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251006",
       "fullstartdate": "20251006",
       "enddate": "20251007",

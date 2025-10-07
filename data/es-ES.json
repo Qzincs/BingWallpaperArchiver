@@ -1,6 +1,314 @@
 {
   "images": [
     {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_ES-ES0795608317_UHD.jpg",
+      "copyrighttext": "© DenisTangneyJr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake&form=BGALM&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Villa de Saranac Lake, Montañas Adirondack, Nueva York, EE. UU.",
+      "description": "Algunos lugares son solo puntos en el mapa, pero el pueblo de Saranac Lake, en las montañas Adirondack de Nueva York, Estados Unidos, es un destino que conquista en cualquier estación. Aunque su nombre pueda confundir, no se ubica en los lagos Saranac, sino en el lago Flower, una amplia sección del río Saranac.",
+      "headline": "El espejo del otoño",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_SaranacLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de oct. de aaaa",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Busca na web para saber máis sobre esta imaxe",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA7&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Busca na web para saber máis sobre esta imaxe"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Busca na web para saber máis sobre esta imaxe",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA11&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Busca na web para saber máis sobre esta imaxe"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_ES-ES0795608317_UHD.jpg",
+      "copyrighttext": "© DenisTangneyJr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake&form=BGALM&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Villa de Saranac Lake, Montañas Adirondack, Nueva York, EE. UU.",
+      "description": "Algunos lugares son solo puntos en el mapa, pero el pueblo de Saranac Lake, en las montañas Adirondack de Nueva York, Estados Unidos, es un destino que conquista en cualquier estación. Aunque su nombre pueda confundir, no se ubica en los lagos Saranac, sino en el lago Flower, una amplia sección del río Saranac.",
+      "headline": "El espejo del otoño",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_SaranacLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 oct., 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca al web per obtenir més informació sobre aquesta imatge",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA7&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca al web per obtenir més informació sobre aquesta imatge"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca al web per obtenir més informació sobre aquesta imatge",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA11&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca al web per obtenir més informació sobre aquesta imatge"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_ES-ES0795608317_UHD.jpg",
+      "copyrighttext": "© DenisTangneyJr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake&form=BGALM&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Villa de Saranac Lake, Montañas Adirondack, Nueva York, EE. UU.",
+      "description": "Algunos lugares son solo puntos en el mapa, pero el pueblo de Saranac Lake, en las montañas Adirondack de Nueva York, Estados Unidos, es un destino que conquista en cualquier estación. Aunque su nombre pueda confundir, no se ubica en los lagos Saranac, sino en el lago Flower, una amplia sección del río Saranac.",
+      "headline": "El espejo del otoño",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_SaranacLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025, oct. 7",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Bilatu sarean irudi honi buruz gehiago jakiteko",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA7&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Bilatu sarean irudi honi buruz gehiago jakiteko"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Bilatu sarean irudi honi buruz gehiago jakiteko",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA11&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Bilatu sarean irudi honi buruz gehiago jakiteko"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_ES-ES0795608317_UHD.jpg",
+      "copyrighttext": "© DenisTangneyJr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Saranac+Lake&form=BGALM&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Villa de Saranac Lake, Montañas Adirondack, Nueva York, EE. UU.",
+      "description": "Algunos lugares son solo puntos en el mapa, pero el pueblo de Saranac Lake, en las montañas Adirondack de Nueva York, Estados Unidos, es un destino que conquista en cualquier estación. Aunque su nombre pueda confundir, no se ubica en los lagos Saranac, sino en el lago Flower, una amplia sección del río Saranac.",
+      "headline": "El espejo del otoño",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_SaranacLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA7&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saranac+Lake&form=BGABWCTA11&filters=HpDate:\"20251006_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251006",
       "fullstartdate": "20251006",
       "enddate": "20251007",
