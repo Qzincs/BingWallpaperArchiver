@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251007",
+      "fullstartdate": "20251007",
+      "enddate": "20251008",
+      "urlbase": "https://www.bing.com/th?id=OHR.RidgwayAspens_ROW4668132017_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Mount+Sneffels&form=BGALM&filters=HpDate:\"20251007_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Autumn colours below Mount Sneffels near Ridgway, Colorado, United States",
+      "description": "It's that time of year in the Northern Hemisphere when the hills shed their summer greens, unveiling a blaze of colours that lights up the season. The change usually begins in September and early October, with higher slopes turning first, followed by the lower valleys. Among the stars of this display are the aspens, whose leaves shimmer like gold coins in the sunlight. The magic of aspen colours, however, isn't guaranteed year after year. Their golden glow depends on many factors—tree health, local weather shifts, soil moisture and where they grow in terms of elevation and latitude.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251007_RidgwayAspens\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mount+Sneffels&form=BGABWCTA7&filters=HpDate:\"20251007_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 547,
+            "Width": 3833,
+            "Height": 1609,
+            "Label": "maple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mount+Sneffels&form=BGABWCTA11&filters=HpDate:\"20251007_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251006",
       "fullstartdate": "20251006",
       "enddate": "20251007",

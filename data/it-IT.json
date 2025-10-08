@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251008",
+      "fullstartdate": "20251008",
+      "enddate": "20251009",
+      "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_IT-IT0571963002_UHD.jpg",
+      "copyrighttext": "© Dave Fleetham/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Polpo&form=BGALM&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Polpo, Maui, Hawaii, USA",
+      "description": "Tre cuori, otto braccia e un’anima enigmatica: oggi il polpo è il protagonista del mare. Nel giorno in cui lo celebriamo, ci lasciamo incantare dalla sua grazia fluida, dalla sua intelligenza sorprendente, dalla sua capacità di trasformarsi e sparire. Ma anche il più astuto degli abitanti marini non può sfuggire alle minacce che lo circondano: il cambiamento climatico, l’inquinamento, la fragilità dei fondali. Proteggere il suo mondo significa custodire il cuore pulsante dei nostri oceani. Tra le creature più affascinanti, possiamo trovare il polpo diurno (Octopus cyanea), un vero illusionista.",
+      "headline": "Tre cuori nel blu?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Polpo&form=BGABWCTA7&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 159,
+            "Y": 113,
+            "Width": 3064,
+            "Height": 1821,
+            "Label": "marine invertebrates",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Polpo&form=BGABWCTA11&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251007",
       "fullstartdate": "20251007",
       "enddate": "20251008",

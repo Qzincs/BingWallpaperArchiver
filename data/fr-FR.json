@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251008",
+      "fullstartdate": "20251008",
+      "enddate": "20251009",
+      "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_FR-FR1796300491_UHD.jpg",
+      "copyrighttext": "© Dave Fleetham/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=pieuvre&form=BGALM&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pieuvre diurne, Maui, Hawaï, États-Unis",
+      "description": "Sous les eaux claires de l’océan Indien, une silhouette ondulante glisse entre les coraux. C’est la pieuvre diurne, ou poulpe, car en français, les deux mots désignent le même génie des mers, un céphalopode aux huit bras fascinants. Elle chasse en plein jour, changeant de couleur comme un tableau vivant, mimant les ombres pour tromper ses proies. Un crabe hésite… trop tard.",
+      "headline": "Poulpe un jour, poulpe toujours !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=pieuvre&form=BGABWCTA7&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 159,
+            "Y": 113,
+            "Width": 3064,
+            "Height": 1821,
+            "Label": "marine invertebrates",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=pieuvre&form=BGABWCTA11&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251007",
       "fullstartdate": "20251007",
       "enddate": "20251008",

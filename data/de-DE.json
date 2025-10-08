@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251008",
+      "fullstartdate": "20251008",
+      "enddate": "20251009",
+      "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_DE-DE3244013803_UHD.jpg",
+      "copyrighttext": "© Dave Fleetham/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Welttag+des+Oktopus&form=BGALM&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Großer Blauer Krake, Maui, Hawaii, USA",
+      "description": "Am 8. Oktober wird der Welttag des Oktopus gefeiert – ein Tag, der der Intelligenz, Anpassungsfähigkeit und Schönheit dieser faszinierenden Kopffüßer gewidmet ist. Ziel ist es, das Bewusstsein für den Meeresschutz zu stärken und den Respekt gegenüber Arten wie dem Oktopus zu fördern, die mit ihren kognitiven Fähigkeiten, ihrer Tarnkunst und ihrer wichtigen Rolle in marinen Ökosystemen beeindrucken. An diesem Tag werden oft spannende Fakten, Bilder und Bildungsaktivitäten geteilt, die das Leben unter Wasser feiern.",
+      "headline": "Tarnung in Bewegung",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Welttag+des+Oktopus&form=BGABWCTA7&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 159,
+            "Y": 113,
+            "Width": 3064,
+            "Height": 1821,
+            "Label": "marine invertebrates",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Welttag+des+Oktopus&form=BGABWCTA11&filters=HpDate:\"20251007_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251007",
       "fullstartdate": "20251007",
       "enddate": "20251008",
