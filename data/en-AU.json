@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251008",
+      "fullstartdate": "20251008",
+      "enddate": "20251009",
+      "urlbase": "https://www.bing.com/th?id=OHR.OctopusCyanea_ROW4586818693_UHD.jpg",
+      "copyrighttext": "© Dave Fleetham/plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Day+octopus&form=BGALM&filters=HpDate:\"20251008_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Day octopus, Maui, Hawaii, United States",
+      "description": "Meet the master of disguise—the day octopus (Octopus cyanea). Found across the Pacific and Indian Oceans, from Hawaii in the United States to Africa's eastern coast, this reef-dweller is a true shapeshifter. Unlike most of its kin, it hunts in broad daylight, instantly shifting its colour, pattern and even skin texture to blend into its surroundings. At times, it even performs a clever 'passing clouds' act, casting a false shadow to trick crabs into moving at just the wrong moment. And once the trap is sprung, the hunter wastes no time. A skilled predator, this octopus prowls the reef for fish, crabs, prawns and molluscs. Smaller catches are devoured on the spot, while larger prey is dragged back to its den.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251008_OctopusCyanea\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 8, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Day+octopus&form=BGABWCTA7&filters=HpDate:\"20251008_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 159,
+            "Y": 113,
+            "Width": 3064,
+            "Height": 1821,
+            "Label": "marine invertebrates",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Day+octopus&form=BGABWCTA11&filters=HpDate:\"20251008_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251007",
       "fullstartdate": "20251007",
       "enddate": "20251008",

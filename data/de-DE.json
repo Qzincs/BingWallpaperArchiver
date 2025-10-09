@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251009",
+      "fullstartdate": "20251009",
+      "enddate": "20251010",
+      "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_DE-DE3382075540_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=S%c3%a4ulen+der+Sch%c3%b6pfung&form=BGALM&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Die Säulen der Schöpfung, betrachtet vom James-Webb-Weltraumteleskop",
+      "description": "Es ist bereits der 9. Oktober und die Internationale Weltraumwoche neigt sich dem Ende zu. Die vergangenen Tage brachten eine Fülle an Erkenntnissen, eindrucksvollen Aufnahmen und neuen Perspektiven auf unsere Stellung im Universum. Zum krönenden Abschluss richten wir heute unseren Blick auf eine der ikonischsten Ansichten des Kosmos: die majestätischen Säulen der Schöpfung, die vom James-Webb-Weltraumteleskop eingefangen wurden.",
+      "headline": "Ein Universum in voller Blüte",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=S%c3%a4ulen+der+Sch%c3%b6pfung&form=BGABWCTA7&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 581,
+            "Y": 72,
+            "Width": 2999,
+            "Height": 2084,
+            "Label": "statue (sculpture)",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=S%c3%a4ulen+der+Sch%c3%b6pfung&form=BGABWCTA11&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251008",
       "fullstartdate": "20251008",
       "enddate": "20251009",

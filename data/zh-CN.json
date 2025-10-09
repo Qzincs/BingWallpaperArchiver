@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251009",
+      "fullstartdate": "20251009",
+      "enddate": "20251010",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.WebbPillars_ZH-CN9054137596_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%88%9b%e7%94%9f%e4%b9%8b%e6%9f%b1&form=BGALM&filters=HpDate:\"20251008_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "‌詹姆斯·韦伯太空望远镜观测的创生之柱",
+      "description": "随着世界空间周接近尾声，宇宙依然不断给予我们仰望的理由。想象一下云朵——不是在天空中飘动，而是在浩瀚星海中延展，孕育着新星的诞生。这正是NASA的詹姆斯·韦布太空望远镜所捕捉到的“创生之柱”景象。如图所示，色彩与细节前所未见，令人震撼。",
+      "headline": "宇宙在绽放",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 9",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%88%9b%e7%94%9f%e4%b9%8b%e6%9f%b1&form=BGABWCTA7&filters=HpDate:\"20251008_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 581,
+            "Y": 72,
+            "Width": 2999,
+            "Height": 2084,
+            "Label": "statue (sculpture)",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%88%9b%e7%94%9f%e4%b9%8b%e6%9f%b1&form=BGABWCTA11&filters=HpDate:\"20251008_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251008",
       "fullstartdate": "20251008",
       "enddate": "20251009",

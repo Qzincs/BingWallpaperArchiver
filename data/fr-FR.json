@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251009",
+      "fullstartdate": "20251009",
+      "enddate": "20251010",
+      "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_FR-FR1852034040_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Piliers+de+la+cr%c3%a9ation&form=BGALM&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Les Piliers de la Création vus par le télescope spatial James Webb",
+      "description": "Alors que la Semaine mondiale de l’espace s’achève, le ciel nous offre un dernier frisson d’émerveillement. Dans l’immensité silencieuse du cosmos, les Piliers de la Création s’élèvent comme des cathédrales de poussière et de gaz. Sculptés par les vents stellaires dans la nébuleuse de l’Aigle, à 6 500 années-lumière, ils forment un berceau où naissent les étoiles. Grâce au télescope spatial James Webb, leur silhouette apparaît avec une clarté inédite : des colonnes dorées, des ombres profondes et des éclats lumineux au bord des nuages.",
+      "headline": "Les cathédrales du cosmos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Piliers+de+la+cr%c3%a9ation&form=BGABWCTA7&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 581,
+            "Y": 72,
+            "Width": 2999,
+            "Height": 2084,
+            "Label": "statue (sculpture)",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Piliers+de+la+cr%c3%a9ation&form=BGABWCTA11&filters=HpDate:\"20251008_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251008",
       "fullstartdate": "20251008",
       "enddate": "20251009",

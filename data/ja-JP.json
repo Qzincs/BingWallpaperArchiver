@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251009",
+      "fullstartdate": "20251009",
+      "enddate": "20251010",
+      "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_JA-JP7847589500_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%89%b5%e9%80%a0%e3%81%ae%e6%9f%b1&form=BGALM&filters=HpDate:\"20251008_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ジェームズ・ウェッブ宇宙望遠鏡が撮影した創造の柱",
+      "description": "今日の画像は、NASA のジェームズ・ウェッブ宇宙望遠鏡が、2022 年 10 月に赤外線波長で捉えた「創造の柱」です。1995 年に、ハッブル宇宙望遠鏡が初めて撮影した「創造の柱」は、世界でもっとも有名な天体画像の一つといわれています。柱のように見えるガスと塵が新しい恒星を創造し、近隣の恒星の光に侵食されている様子から名付けられました…",
+      "headline": "10 月 4 日から 10 日まで世界宇宙週間",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 9 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%89%b5%e9%80%a0%e3%81%ae%e6%9f%b1&form=BGABWCTA7&filters=HpDate:\"20251008_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 581,
+            "Y": 72,
+            "Width": 2999,
+            "Height": 2084,
+            "Label": "statue (sculpture)",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%89%b5%e9%80%a0%e3%81%ae%e6%9f%b1&form=BGABWCTA11&filters=HpDate:\"20251008_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251008",
       "fullstartdate": "20251008",
       "enddate": "20251009",
