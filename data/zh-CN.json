@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251010",
+      "fullstartdate": "20251010",
+      "enddate": "20251011",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.MonurikiFiji_ZH-CN9178115886_UHD.jpg",
+      "copyrighttext": "© David Wall/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%8e%9b%e7%8e%9b%e5%8a%aa%e5%8d%a1%e7%be%a4%e5%b2%9b&form=BGALM&filters=HpDate:\"20251009_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济",
+      "description": "有些日子只标志着一个里程碑，而斐济的10月10日却见证了两个。1874年的这一天，斐济群岛正式成为英国殖民地。近一个世纪后的1970年，同一天，斐济升起了自己的国旗，宣布独立。斐济日是一个独特的全国性节日——既是反思的时刻，也是庆祝的日子。庆典从庄重的仪式开始，国旗冉冉升起，领导人发表演讲。学校和社区团体常常会举行历史重现或表演活动。街道上挤满了游行队伍，村庄里上演着传统舞蹈“梅克”，橄榄球场上热火朝天。家家户户则准备传统菜肴，比如将肉和根茎类作物埋在地下烤制的“洛沃”，以及用柑橘汁腌制的鱼“科科达”。",
+      "headline": "思绪之礁",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%8e%9b%e7%8e%9b%e5%8a%aa%e5%8d%a1%e7%be%a4%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20251009_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%8e%9b%e7%8e%9b%e5%8a%aa%e5%8d%a1%e7%be%a4%e5%b2%9b&form=BGABWCTA11&filters=HpDate:\"20251009_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251009",
       "fullstartdate": "20251009",
       "enddate": "20251010",

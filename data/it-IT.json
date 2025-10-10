@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251010",
+      "fullstartdate": "20251010",
+      "enddate": "20251011",
+      "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_IT-IT0760985138_UHD.jpg",
+      "copyrighttext": "© David Wall/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=Figi&form=BGALM&filters=HpDate:\"20251009_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Barriera corallina, Isola di Monuriki, Isole Mamanuca, Figi",
+      "description": "Una data, mille battiti: il cuore delle Figi pulsa forte il 10 ottobre. Nel 1970, le Figi celebrarono l'indipendenza, alzando la propria bandiera verso il cielo. La giornata si apre con cerimonie solenni, discorsi dei leader e l’orgoglio di una bandiera che sventola fiera. Scuole e comunità inscenano rievocazioni storiche, mentre le strade si colorano di parate e i villaggi si animano con il meke, danza tradizionale che racconta storie antiche. I campi da rugby si riempiono di energia, e le cucine sprigionano profumi di lovo, carni e radici cotte sottoterra, e kokoda, pesce marinato agli agrumi che sa di oceano e festa.",
+      "headline": "Coralli e riflessi",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-17.60889,177.0339/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-17.60889,177.0339;S9;Isola di Monuriki, Isole Mamanuca, Figi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Monuriki%20island%20Fiji&satid=id.sid%3A46de7184-71cb-c811-cff3-32561cc4a4a7&vdpid=8861089689071779841&mb=-17.60644~177.029144~-17.612365~177.040802&cardbg=%23F98745&dt=1755873000000&tt=Monuriki%2C%20Western%20Division%2C%20Fiji&tsts0=%2526ty%253D30%2526q%253DMonuriki%252520island%252520Fiji%2526satid%253Did.sid%25253A46de7184-71cb-c811-cff3-32561cc4a4a7%2526vdpid%253D8861089689071779841%2526mb%253D-17.60644~177.029144~-17.612365~177.040802%2526cardbg%253D%252523F98745%2526dt%253D1755873000000&tstt0=Monuriki%2C%20Western%20Division%2C%20Fiji&cp=-16.16649~164.638495&lvl=5.599889&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Isola+di+Monuriki%2c+Isole+Mamanuca%2c+Figi&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Isola di Monuriki, Isole Mamanuca, Figi"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Isola+di+Monuriki%2c+Isole+Mamanuca%2c+Figi&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Figi&form=BGABWCTA11&filters=HpDate:\"20251009_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251009",
       "fullstartdate": "20251009",
       "enddate": "20251010",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251009",
+      "fullstartdate": "20251009",
+      "enddate": "20251010",
+      "urlbase": "https://www.bing.com/th?id=OHR.WebbPillars_PT-BR6044828934_UHD.jpg",
+      "copyrighttext": "© NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Pilares+da+Cria%c3%a7%c3%a3o&form=BGALM&filters=HpDate:\"20251009_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pilares da Criação vistos pelo Telescópio Espacial James Webb",
+      "description": "À medida que a Semana Mundial do Espaço chega ao fim, o cosmos continua nos inspirando a olhar para cima com admiração. Imagine nuvens que não flutuam pelo céu, mas se estendem pelo próprio espaço e embalam o nascimento de novas estrelas. É exatamente isso que o Telescópio Espacial James Webb, da NASA, revelou ao fotografar os Pilares da Criação, mostrados na imagem do dia com cores e detalhes jamais vistos.",
+      "headline": "As torres do espaço",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251009_WebbPillars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pilares+da+Cria%c3%a7%c3%a3o&form=BGABWCTA7&filters=HpDate:\"20251009_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 581,
+            "Y": 72,
+            "Width": 2999,
+            "Height": 2084,
+            "Label": "statue (sculpture)",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pilares+da+Cria%c3%a7%c3%a3o&form=BGABWCTA11&filters=HpDate:\"20251009_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251008",
       "fullstartdate": "20251008",
       "enddate": "20251009",
