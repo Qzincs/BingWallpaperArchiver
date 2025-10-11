@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251011",
+      "fullstartdate": "20251011",
+      "enddate": "20251012",
+      "urlbase": "https://www.bing.com/th?id=OHR.LagoLagazuolo_IT-IT9428871019_UHD.jpg",
+      "copyrighttext": "© Francesco Bergamaschi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Valmalenco&form=BGALM&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lago Lagazzuolo, Valmalenco, Valle Valtellina, Lombardia",
+      "description": "Nel cuore della Valmalenco, in Lombardia, a quasi duemila metri d’altitudine, il Lago Lagazzuolo si rivela come un segreto custodito tra le pieghe della montagna. Ottobre lo veste di silenzio e di rame, mentre le conifere si spogliano lentamente e il cielo si abbassa, come per ascoltare. Il sentiero che vi conduce è un filo sottile tra boschi e pietra, e ogni passo è un invito alla lentezza. Le acque limpide riflettono il tempo che cambia e i pensieri si fanno più quieti. Qui non c’è fretta, né clamore, solo una bellezza che si lascia scoprire, come una pagina che si apre da sola. Il lago vi accoglie senza chiedere nulla e vi lascia andare con qualcosa in più: un respiro più profondo, uno sguardo più largo, una memoria dal sapore di vento e di luce. E quando l’aria si fa più fresca e le ombre si allungano, lasciatevi sfiorare dall’ultima brezza d’estate, quella che sa di partenza, ma anche di ritorno.",
+      "headline": "Oro e Natura",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_LagoLagazuolo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.311211,9.82199/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.311211,9.82199;S9;Lago Lagazzuolo, Sondrio, Lombardia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lago%20Lagazzuolo%2C%20Localita%20Carotte%20SNC%2C%20Chiesa%20in%20Valmalenco%2C%20SO%2C%20Italia&ss=ypid.YN1354x2528467899691048546&mb=46.315939~9.815297~46.306468~9.828687&description=Localita%20Carotte%20SNC%20-%2023023%20Carotte%20%28SO%29&cardbg=%23219AB6&dt=1758020400000&tt=Lago%20Lagazzuolo&tsts1=%2526ty%253D18%2526q%253DLago%252520Lagazzuolo%25252C%252520Localita%252520Carotte%252520SNC%25252C%252520Chiesa%252520in%252520Valmalenco%25252C%252520SO%25252C%252520Italia%2526ss%253Dypid.YN1354x2528467899691048546%2526mb%253D46.315939~9.815297~46.306468~9.828687%2526description%253DLocalita%252520Carotte%252520SNC%252520-%25252023023%252520Carotte%252520%252528SO%252529%2526cardbg%253D%252523219AB6%2526dt%253D1758020400000&tstt1=Lago%20Lagazzuolo&cp=46.287292~9.740067&lvl=13&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "11 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Valmalenco%2c+Valle+Valtellina%2c+Lombardia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Valmalenco, Valle Valtellina, Lombardia"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Valmalenco%2c+Valle+Valtellina%2c+Lombardia&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Valmalenco&form=BGABWCTA11&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251010",
       "fullstartdate": "20251010",
       "enddate": "20251011",

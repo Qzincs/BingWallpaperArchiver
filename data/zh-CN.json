@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251011",
+      "fullstartdate": "20251011",
+      "enddate": "20251012",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.WoodDuckHen_ZH-CN9558916773_UHD.jpg",
+      "copyrighttext": "© ps50ace/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=BGALM&filters=HpDate:\"20251010_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "林鸳鸯，美国",
+      "description": "鸟类无需护照、签证或行李，它们只需展开翅膀，就能随时启程。每年两次，数十亿只候鸟跨越全球，在繁殖地与越冬地之间飞行数千英里。这段壮丽的旅程正是“世界候鸟日”所要强调的。从每年飞行约44000英里的北极燕鸥，到单次飞行就能横跨墨西哥湾的红喉蜂鸟，这些季节性迁徙的鸟儿展现了真正的耐力。该节日定在每年5月和10月的第二个星期六，同时提醒人们候鸟所面临的威胁：栖息地丧失、气候变化以及光污染，都可能干扰它们的迁徙路线。",
+      "headline": "下一站：墨西哥！",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 11",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20251010_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 286,
+            "Y": 739,
+            "Width": 1720,
+            "Height": 674,
+            "Label": "duck",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%b8%96%e7%95%8c%e5%80%99%e9%b8%9f%e6%97%a5&form=BGABWCTA11&filters=HpDate:\"20251010_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251010",
       "fullstartdate": "20251010",
       "enddate": "20251011",

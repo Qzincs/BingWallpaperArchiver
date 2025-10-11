@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251011",
+      "fullstartdate": "20251011",
+      "enddate": "20251012",
+      "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_FR-FR2128757864_UHD.jpg",
+      "copyrighttext": "© ps50ace/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+oiseaux+migrateurs+&form=BGALM&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cane branchu, États-Unis",
+      "description": "Un matin d’automne, une cane branchu fend les eaux cuivrées d’un lac nord-américain. Ses plumes irisées rappellent les vitraux des cathédrales, éclats fragiles qui scintillent entre les roseaux. Comme tant d’autres voyageurs ailés, elle suit les chemins invisibles du ciel, fil d’Ariane reliant les forêts canadiennes aux marécages du Sud.",
+      "headline": "Prochain arrêt : le Sud !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+oiseaux+migrateurs+&form=BGABWCTA7&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 286,
+            "Y": 739,
+            "Width": 1720,
+            "Height": 674,
+            "Label": "duck",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+des+oiseaux+migrateurs+&form=BGABWCTA11&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251010",
       "fullstartdate": "20251010",
       "enddate": "20251011",

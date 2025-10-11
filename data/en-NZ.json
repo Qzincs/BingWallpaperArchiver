@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251010",
+      "fullstartdate": "20251010",
+      "enddate": "20251011",
+      "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_ROW9654134811_UHD.jpg",
+      "copyrighttext": "© David Wall/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=Monuriki&form=BGALM&filters=HpDate:\"20251010_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji",
+      "description": "Today's image features one of Fiji's true gems, the island of Monuriki. Known worldwide as the filming site of 'Cast Away,' it is uninhabited—but far from lifeless. Tucked within the Mamanuca group, this small volcanic islet stretches over a kilometre in length and 600 metres across, surrounded by turquoise waters and vibrant coral reefs. The reefs act as a natural fortress, protecting the island from storms while sheltering countless species of fish. They are a fitting metaphor: strong, diverse and deeply connected to the well-being of the nation. Beyond its waters, Monuriki is also home to the endangered Fiji crested iguana, one of the few places where this rare reptile can still be found. Together, the island's vibrant reef and unique wildlife make it a true natural treasure of Fiji.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monuriki&form=BGABWCTA7&filters=HpDate:\"20251010_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Monuriki&form=BGABWCTA11&filters=HpDate:\"20251010_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251009",
       "fullstartdate": "20251009",
       "enddate": "20251010",

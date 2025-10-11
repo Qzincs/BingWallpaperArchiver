@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251011",
+      "fullstartdate": "20251011",
+      "enddate": "20251012",
+      "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_JA-JP7933266501_UHD.jpg",
+      "copyrighttext": "© ps50ace/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a1%e3%82%b9%e3%81%ae%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%82%aa%e3%82%b7&form=BGALM&filters=HpDate:\"20251010_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "メスのアメリカオシ, 米国",
+      "description": "今日は世界渡り鳥の日。毎年 5 月と 10 月の第二土曜日に定められています。渡り鳥とその生息地の保全の重要性を人々に普及・啓発するための日として、国連が 2006 年に制定しました。毎年テーマが異なっており、今年のテーマは「共に生きる鳥たちにもやさしい街と社会をつくろう」です…",
+      "headline": "今日は世界渡り鳥の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 11 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%a1%e3%82%b9%e3%81%ae%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%82%aa%e3%82%b7&form=BGABWCTA7&filters=HpDate:\"20251010_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 286,
+            "Y": 739,
+            "Width": 1720,
+            "Height": 674,
+            "Label": "duck",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%a1%e3%82%b9%e3%81%ae%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%82%aa%e3%82%b7&form=BGABWCTA11&filters=HpDate:\"20251010_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251010",
       "fullstartdate": "20251010",
       "enddate": "20251011",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251011",
+      "fullstartdate": "20251011",
+      "enddate": "20251012",
+      "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_DE-DE3532721036_UHD.jpg",
+      "copyrighttext": "© ps50ace/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Weltzugvogeltag&form=BGALM&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Brautente (Weibchen), USA",
+      "description": "Jedes Jahr unternehmen Millionen von Vögeln beeindruckende Reisen über Kontinente und Ozeane, die sie nach Instinkt und Jahreszeiten ausrichten. Der Weltzugvogeltag feiert dieses Naturphänomen und macht auf die Herausforderungen aufmerksam, denen Zugvögel auf ihren Routen begegnen. Vom Lebensraumverlust bis zum Klimawandel – wandernde Vogelarten brauchen internationalen Schutz, um weiterhin Ökosysteme und Kulturen weltweit zu verbinden.",
+      "headline": "Instinkt kennt den Weg",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Weltzugvogeltag&form=BGABWCTA7&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 286,
+            "Y": 739,
+            "Width": 1720,
+            "Height": 674,
+            "Label": "duck",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Weltzugvogeltag&form=BGABWCTA11&filters=HpDate:\"20251010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251010",
       "fullstartdate": "20251010",
       "enddate": "20251011",

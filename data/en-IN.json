@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251011",
+      "fullstartdate": "20251011",
+      "enddate": "20251012",
+      "urlbase": "https://www.bing.com/th?id=OHR.WoodDuckHen_EN-IN0584855660_UHD.jpg",
+      "copyrighttext": "© ps50ace/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=BGALM&filters=HpDate:\"20251010_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Wood duck hen, United States",
+      "description": "Birds don't bother with passports, visas or luggage—they simply spread their wings and fly. Twice a year, billions of migratory birds criss-cross the planet, travelling immense distances between breeding and wintering grounds. World Migratory Bird Day, marked on the second Saturday of May and October, celebrates this incredible journey. In India, the story takes on a vivid form each winter, when lakes and wetlands burst into life with the arrival of birds from colder regions. Places like Keoladeo Ghana National Park in Rajasthan transform into lively sanctuaries, offering some of the best opportunities to witness the spectacle.",
+      "headline": "Nest stop: Mexico!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251011_WoodDuckHen\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=BGABWCTA7&filters=HpDate:\"20251010_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 286,
+            "Y": 739,
+            "Width": 1720,
+            "Height": 674,
+            "Label": "duck",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=BGABWCTA11&filters=HpDate:\"20251010_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251010",
       "fullstartdate": "20251010",
       "enddate": "20251011",

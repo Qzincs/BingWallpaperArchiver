@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251010",
+      "fullstartdate": "20251010",
+      "enddate": "20251011",
+      "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_PT-BR5100753810_UHD.jpg",
+      "copyrighttext": "© David Wall/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=Ilhas+Mamanuca&form=BGALM&filters=HpDate:\"20251010_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Recife de coral ao redor de Monuriki, Ilhas Mamanuca, Fiji",
+      "description": "Na imagem, vemos a ilha de Monuriki, uma pérola escondida no arquipélago de Mamanuca, em Fiji, no Oceano Pacífico Sul. Cercada por um recife de coral vibrante, essa pequena ilha — que mede cerca de um quilômetro de comprimento por 600 metros de largura — é famosa tanto por sua paisagem intocada quanto por ter sido cenário do filme “Náufrago”. Embora não tenha moradores, está longe de ser sem vida: seus recifes funcionam como uma fortaleza natural, protegendo a ilha das tempestades e abrigando uma rica diversidade marinha.",
+      "headline": "Cenários de cinema e realidade",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ilhas+Mamanuca&form=BGABWCTA7&filters=HpDate:\"20251010_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ilhas+Mamanuca&form=BGABWCTA11&filters=HpDate:\"20251010_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251009",
       "fullstartdate": "20251009",
       "enddate": "20251010",

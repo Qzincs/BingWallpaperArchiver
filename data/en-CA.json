@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251010",
+      "fullstartdate": "20251010",
+      "enddate": "20251011",
+      "urlbase": "https://www.bing.com/th?id=OHR.MonurikiFiji_EN-CA8167749404_UHD.jpg",
+      "copyrighttext": "© David Wall/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=Fiji+Day&form=BGALM&filters=HpDate:\"20251010_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji",
+      "description": "Some dates mark a single milestone—Fiji's October 10 marks two. On that day in 1874, the islands officially became a British colony. Almost a century later, in 1970, the same date saw Fiji raise its own flag and declare independence. Fiji Day is a unique national holiday—part reflection, part celebration. The day begins with formal ceremonies, where the Fijian flag is hoisted and leaders deliver speeches. Schools and community groups often stage reenactments and performances. Streets fill with parades, villages host cultural dances like the meke and rugby pitches come alive with matches. Families prepare traditional dishes like lovo, where meat and root crops are cooked underground, and kokoda, a citrus-marinated fish dish.",
+      "headline": "A reef of reflection",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251010_MonurikiFiji\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-17.60889,177.0339/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=-17.60889,177.0339;S9;Monuriki, Western Division, Fiji&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Monuriki%20island%20Fiji&satid=id.sid%3A46de7184-71cb-c811-cff3-32561cc4a4a7&vdpid=8861089689071779841&mb=-17.60644~177.029144~-17.612365~177.040802&cardbg=%23F98745&dt=1755873000000&tt=Monuriki%2C%20Western%20Division%2C%20Fiji&tsts0=%2526ty%253D30%2526q%253DMonuriki%252520island%252520Fiji%2526satid%253Did.sid%25253A46de7184-71cb-c811-cff3-32561cc4a4a7%2526vdpid%253D8861089689071779841%2526mb%253D-17.60644~177.029144~-17.612365~177.040802%2526cardbg%253D%252523F98745%2526dt%253D1755873000000&tstt0=Monuriki%2C%20Western%20Division%2C%20Fiji&cp=-16.16649~164.638495&lvl=5.599889&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Mamanuca+Islands%2c+Fiji&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Mamanuca Islands, Fiji"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Mamanuca+Islands%2c+Fiji&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fiji+Day&form=BGABWCTA11&filters=HpDate:\"20251010_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251009",
       "fullstartdate": "20251009",
       "enddate": "20251010",
