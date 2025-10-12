@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251012",
+      "fullstartdate": "20251012",
+      "enddate": "20251013",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_JA-JP8002477019_UHD.jpg",
+      "copyrighttext": "© DenisTangneyJr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b5%e3%83%a9%e3%83%8a%e3%83%83%e3%82%af%e3%83%bb%e3%83%ac%e3%82%a4%e3%82%af%e6%9d%91&form=BGALM&filters=HpDate:\"20251011_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "サラナック・レイク村, 米国 ニューヨーク州",
+      "description": "今日の画像は、米国ニューヨーク州にある小さな村、サラナック・レイク。直訳で「サラナック湖」という名前ですが、村が接しているのは「フラワー湖」という湖です。19 世紀後半に、エドワード・リビングストン・トルドー医師が、世界初の結核療養所（サナトリウム）を作った地として知られており、かつては結核治療の中心地とされていました…",
+      "headline": "湖に映る紅葉の風景",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_SaranacLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.325371,-74.132172/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=44.325371,-74.132172;S9;サラナック・レイク村, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN873x14561517660968256969&mb=53.333606~-92.860707~33.710688~-55.395548&description=39%20Main%20St%20Ste%209%2C%20Saranac%20Lake%2C%20NY%2012983%C2%B7Town%20hall&dt=1756215000000&tt=Village%20of%20Saranac%20Lake&tsts0=%2526ty%253D18%2526ss%253Dypid.YN873x14561517660968256969%2526mb%253D53.333606~-92.860707~33.710688~-55.395548%2526description%253D39%252520Main%252520St%252520Ste%2525209%25252C%252520Saranac%252520Lake%25252C%252520NY%25252012983%2525C2%2525B7Town%252520hall%2526dt%253D1756215000000&tstt0=Village%20of%20Saranac%20Lake&cp=44.335333~-90.163798&lvl=5.27&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 12 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ニューヨーク州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b5%e3%83%a9%e3%83%8a%e3%83%83%e3%82%af%e3%83%bb%e3%83%ac%e3%82%a4%e3%82%af%e6%9d%91&form=BGABWCTA11&filters=HpDate:\"20251011_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251011",
       "fullstartdate": "20251011",
       "enddate": "20251012",

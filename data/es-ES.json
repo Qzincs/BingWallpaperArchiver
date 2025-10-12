@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251012",
+      "fullstartdate": "20251012",
+      "enddate": "20251013",
+      "urlbase": "https://www.bing.com/th?id=OHR.DaySpain_ES-ES2088635486_UHD.jpg",
+      "copyrighttext": "© Noppasin Wongchum/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Fiesta+Nacional+de+Espa%c3%b1a&form=BGALM&filters=HpDate:\"20251011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fiesta Nacional de España, Plaza de Cibeles, Madrid, España",
+      "description": "Cada 12 de octubre, España celebra su Fiesta Nacional, una fecha que recuerda el descubrimiento de América en 1492. Es un día en el que Madrid se convierte en el centro de todas las miradas, con un desfile militar que recorre el Paseo de la Castellana y reúne a la Familia Real, al Gobierno y a visitantes de todas partes.",
+      "headline": "Día de la Hispanidad",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_DaySpain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Fiesta+Nacional+de+Espa%c3%b1a&form=BGABWCTA7&filters=HpDate:\"20251011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1226,
+            "Y": 124,
+            "Width": 2608,
+            "Height": 1564,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fiesta+Nacional+de+Espa%c3%b1a&form=BGABWCTA11&filters=HpDate:\"20251011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251011",
       "fullstartdate": "20251011",
       "enddate": "20251012",

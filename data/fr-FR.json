@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251012",
+      "fullstartdate": "20251012",
+      "enddate": "20251013",
+      "urlbase": "https://www.bing.com/th?id=OHR.SaranacLake_FR-FR2186767346_UHD.jpg",
+      "copyrighttext": "© DenisTangneyJr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=village+de+Saranac+Lake+%c3%89tats-Unis&form=BGALM&filters=HpDate:\"20251011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Village de Saranac Lake, Montagnes Adirondacks, New York, États-Unis",
+      "description": "Dans les Adirondacks, au nord de l’État de New York, aux États-Unis, Saranac Lake attire depuis des générations ceux qui cherchent à respirer plus grand. Ce village, posé non pas sur les lacs Saranac mais sur le lac Flower, fut d’abord un lieu de chasse et de passage pour les Premières Nations. À la fin du XIXe siècle, il devint célèbre grâce au docteur Edward Livingston Trudeau, qui y développa le traitement à l’air pur contre la tuberculose. Ses « cure cottages » témoignent encore de cette époque où la nature soignait.",
+      "headline": "Un village américain qui ne manque pas de souffle",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_SaranacLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.341801,-74.144203/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=44.341801,-74.144203;S9;Village de Saranac Lake, New York, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN873x14561517660968256969&mb=53.333606~-92.860707~33.710688~-55.395548&description=39%20Main%20St%20Ste%209%2C%20Saranac%20Lake%2C%20NY%2012983%C2%B7Town%20hall&dt=1756215000000&tt=Village%20of%20Saranac%20Lake&tsts0=%2526ty%253D18%2526ss%253Dypid.YN873x14561517660968256969%2526mb%253D53.333606~-92.860707~33.710688~-55.395548%2526description%253D39%252520Main%252520St%252520Ste%2525209%25252C%252520Saranac%252520Lake%25252C%252520NY%25252012983%2525C2%2525B7Town%252520hall%2526dt%253D1756215000000&tstt0=Village%20of%20Saranac%20Lake&cp=44.335333~-90.163798&lvl=5.27&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "12 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Montagnes+Adirondacks%2c+New+York%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Montagnes Adirondacks, New York, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Montagnes+Adirondacks%2c+New+York%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=village+de+Saranac+Lake+%c3%89tats-Unis&form=BGABWCTA11&filters=HpDate:\"20251011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251011",
       "fullstartdate": "20251011",
       "enddate": "20251012",
