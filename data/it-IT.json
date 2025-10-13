@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_IT-IT9638907457_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hintersee+Lago+tedesco&form=BGALM&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cascata a Hintersee, Baviera, Germania",
+      "description": "Gole vertiginose, acque che sussurrano e un paesaggio degno di un dipinto: la Wimbachklamm, vicino a Ramsau, nel cuore del Parco Nazionale di Berchtesgaden, è tra le meraviglie più affascinanti della Baviera, nella Germania meridionale. Per circa 200 metri, il torrente Wimbach si insinua tra strette pareti rocciose, si tuffa in cascate scintillanti e, nel suo lento passaggio, ha scolpito forme sorprendenti nella pietra. Gli strati di roccia, dalle sfumature cangianti, raccontano storie geologiche che affondano le radici in millenni di trasformazioni. Passerelle in legno, sicure e ben integrate nel paesaggio, accompagnano il visitatore lungo la gola, offrendo scorci ravvicinati sulle pareti scolpite dall’acqua.",
+      "headline": "L'eco dell'acqua",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.603287,12.921987/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=47.603287,12.921987;S9;Hintersee, Baviera, Germania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Wimbachklamm&ss=ypid.YN6740x3579143722688295497&mb=47.607791~12.912143~47.598777~12.93182&description=Rotheben%202%20%C2%B7%2083486%20Ramsau%20bei%20Berchtesgaden%C2%B7Aussichtspunkt&cardbg=%23219AB6&dt=1757422800000&tt=Wimbachklamm&tsts0=%2526ty%253D18%2526q%253DWimbachklamm%2526ss%253Dypid.YN6740x3579143722688295497%2526mb%253D47.607791~12.912143~47.598777~12.93182%2526description%253DRotheben%2525202%252520%2525C2%2525B7%25252083486%252520Ramsau%252520bei%252520Berchtesgaden%2525C2%2525B7Aussichtspunkt%2526cardbg%253D%252523219AB6%2526dt%253D1757422800000&tstt0=Wimbachklamm&cp=47.660708~12.440868&lvl=10.652902&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Baviera%2c+Germania&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Baviera, Germania"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Baviera%2c+Germania&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hintersee+Lago+tedesco&form=BGABWCTA11&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_DE-DE9807935907_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Wimbachklamm+Wanderung&form=BGALM&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Wasserfall in der Wimbachklamm, Bayern",
+      "description": "Steile Felsschluchten, rauschendes Wasser und eine Landschaft wie aus einem Gemälde: Die Wimbachklamm bei Ramsau im Nationalpark Berchtesgaden auf unserem heutigen Bild ist eine der eindrucksvollsten Schluchten in Bayern.  Auf rund 200 Metern bahnt sich der Wimbach seinen Weg durch enge Gesteinsformationen, stürzt in kleinen Wasserfällen talwärts und hat im Laufe der Zeit beeindruckende Strukturen in den Fels gegraben. Die verschiedenfarbigen Gesteinsschichten erzählen von geologischen Prozessen, die Jahrtausende zurückreichen. Gesicherte Holzstege führen direkt entlang der Felswände durch die enge Schlucht. Am Ende öffnet sich das imposante Wimbachtal zwischen Watzmann und Hochkalter – ein beliebter Ausgangspunkt für Wanderungen. Die Klamm ist seit 1847 öffentlich zugänglich und begeistert Besucherinnen und Besucher aller Altersgruppen mit einem intensiven Naturerlebnis.",
+      "headline": "Die Stimme des Wassers",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.603287,12.921987/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.603287,12.921987;S9;Wimbachklamm, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Wimbachklamm&ss=ypid.YN6740x3579143722688295497&mb=47.607791~12.912143~47.598777~12.93182&description=Rotheben%202%20%C2%B7%2083486%20Ramsau%20bei%20Berchtesgaden%C2%B7Aussichtspunkt&cardbg=%23219AB6&dt=1757422800000&tt=Wimbachklamm&tsts0=%2526ty%253D18%2526q%253DWimbachklamm%2526ss%253Dypid.YN6740x3579143722688295497%2526mb%253D47.607791~12.912143~47.598777~12.93182%2526description%253DRotheben%2525202%252520%2525C2%2525B7%25252083486%252520Ramsau%252520bei%252520Berchtesgaden%2525C2%2525B7Aussichtspunkt%2526cardbg%253D%252523219AB6%2526dt%253D1757422800000&tstt0=Wimbachklamm&cp=47.660708~12.440868&lvl=10.652902&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Bayern&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Bayern"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Bayern&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Wimbachklamm+Wanderung&form=BGABWCTA11&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

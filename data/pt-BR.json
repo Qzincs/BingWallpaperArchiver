@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251012",
+      "fullstartdate": "20251012",
+      "enddate": "20251013",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiaCriancas_PT-BR4646526292_UHD.jpg",
+      "copyrighttext": "© Priscila Zambotto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=dia+das+crian%c3%a7as&form=BGALM&filters=HpDate:\"20251012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Balões artesanais de cabaça, Paraty, Rio de Janeiro",
+      "description": "Os balões que vemos na imagem não são um brinquedo comum: começaram sua vida como parte de uma planta. São cabaças, frutos ocos de uma trepadeira conhecida como porongo, usadas há séculos como recipientes, cuias e até instrumentos musicais. Nas mãos habilidosas de artesãos, ganham um novo destino; cada fruto é limpo, lixado e pintado com tons e desenhos delicados. Nenhum desses balões é igual ao outro; cada detalhe preserva a singularidade do gesto humano que o criou.",
+      "headline": "A arte que dá frutos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251012_DiaCriancas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=dia+das+crian%c3%a7as&form=BGABWCTA7&filters=HpDate:\"20251012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 881,
+            "Y": 1,
+            "Width": 2953,
+            "Height": 2155,
+            "Label": "balloon",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=dia+das+crian%c3%a7as&form=BGABWCTA11&filters=HpDate:\"20251012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251011",
       "fullstartdate": "20251011",
       "enddate": "20251012",

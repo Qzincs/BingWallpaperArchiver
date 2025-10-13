@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_JA-JP8051360298_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a4%e3%82%a2%e6%9d%91&form=BGALM&filters=HpDate:\"20251012_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "イア村, グリース",
+      "description": "エーゲ海に浮かぶギリシャ領、サントリーニ島。ギリシャ本土からは東南へ約 200km 離れています。火山の大爆発により形成されたカルデラ地形の島で、周辺にある 4 つの群島と合わせたサントリーニ諸島の本島です。また、「サントリーニ島」という名称は、これらの諸島の総称としても用いられます…",
+      "headline": "青空と海に囲まれたイア村",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_OiaSantorini\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.462212,25.375725/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.462212,25.375725;S9;イア村, グリース&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Oia&satid=id.sid%3A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6&vdpid=7247981842521915393&mb=36.46552~25.369489~36.459166~25.381904&cardbg=%23F98745&dt=1755700200000&tt=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DOia%2526satid%253Did.sid%25253A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6%2526vdpid%253D7247981842521915393%2526mb%253D36.46552~25.369489~36.459166~25.381904%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&cp=35.749944~10.236319&lvl=4.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 13 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " グリース への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%b0%e3%83%aa%e3%83%bc%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 904,
+            "Y": 625,
+            "Width": 2930,
+            "Height": 1531,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a4%e3%82%a2%e6%9d%91&form=BGABWCTA11&filters=HpDate:\"20251012_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

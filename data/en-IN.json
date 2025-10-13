@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.MamallapuramBoat_EN-IN7710066435_UHD.jpg",
+      "copyrighttext": "© Danielrao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mamallapuram&form=BGALM&filters=HpDate:\"20251012_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fishing boat on a beach in Mamallapuram, Tamil Nadu",
+      "description": "From the lively shores of Chennai to the untouched sands of Kanyakumari, Tamil Nadu's coastline promises an experience for every kind of beach lover. Marina Beach buzzes with energy, while quieter stretches invite moments of solitude. Together, these shores paint a vivid picture of the state's natural beauty and cultural richness. Golden sands, swaying palms and endless blue waters create the perfect canvas; whether you're seeking relaxation, a thrill of adventure or a glimpse into the region's heritage.",
+      "headline": "Calm seas, waiting boat",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_MamallapuramBoat\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/12.61972,80.19444/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=12.61972,80.19444;S9;Mamallapuram, Tamil Nadu&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Mamallapuram&satid=id.sid%3Ad6122a4a-13a9-f513-352b-4379ed7ee79d&vdpid=7473019950702002177&mb=13.260932~78.166393~11.248524~81.637945&cardbg=%23F98745&tt=Mamallapuram%2C%20Tamil%20Nadu&tsts0=%2526ty%253D30%2526q%253DMamallapuram%2526satid%253Did.sid%25253Ad6122a4a-13a9-f513-352b-4379ed7ee79d%2526vdpid%253D7473019950702002177%2526mb%253D13.260932~78.166393~11.248524~81.637945%2526cardbg%253D%252523F98745&tstt0=Mamallapuram%2C%20Tamil%20Nadu&cp=11.016763~77.696921&lvl=6.6032076&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Tamil+Nadu&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Tamil Nadu"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Tamil+Nadu&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1895,
+            "Y": 1383,
+            "Width": 1486,
+            "Height": 531,
+            "Label": "boat",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mamallapuram&form=BGABWCTA11&filters=HpDate:\"20251012_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

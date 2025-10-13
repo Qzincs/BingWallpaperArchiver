@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.HinterseeWaterfall_ZH-CN0432994081_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b8%a9%e5%b7%b4%e8%b5%ab%e5%b3%a1%e8%b0%b7&form=BGALM&filters=HpDate:\"20251012_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "温巴赫峡谷瀑布，巴伐利亚州，德国",
+      "description": "陡峭的岩石峡谷，湍急的水流，还有如画般的风景：位于贝希特斯加登国家公园拉姆绍附近的温巴赫峡谷，是巴伐利亚最壮观的峡谷之一。在今日图片中，温巴赫溪在约200米长的狭窄岩层间奔流而下，形成层层小瀑布，并在长年累月中于岩石上雕刻出令人惊叹的纹理。色彩斑斓的岩层揭示了数千年前的地质过程。",
+      "headline": "水声低语",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b8%a9%e5%b7%b4%e8%b5%ab%e5%b3%a1%e8%b0%b7&form=BGABWCTA7&filters=HpDate:\"20251012_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%b8%a9%e5%b7%b4%e8%b5%ab%e5%b3%a1%e8%b0%b7&form=BGABWCTA11&filters=HpDate:\"20251012_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

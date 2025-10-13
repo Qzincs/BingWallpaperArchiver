@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_ES-ES0526830866_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Baviera+Alemania&form=BGALM&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Desfiladero Wimbachklamm en el valle Wimbachtal, Ramsau bei Berchtesgaden, Baviera, Alemania",
+      "description": "Empinadas gargantas rocosas, aguas turbulentas y un paisaje que parece un cuadro: el Wimbachklamm, cerca de Ramsau, en el Parque Nacional de Berchtesgaden, es una de las gargantas más impresionantes de Baviera, Alemania. El Wimbach recorre unos 200 metros entre estrechas formaciones rocosas, cayendo en pequeñas cascadas y creando con el tiempo patrones sorprendentes en la piedra. Las capas de roca, de vivos colores, cuentan historias geológicas de miles de años.",
+      "headline": "¡Respira aire puro!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_HinterseeWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Baviera+Alemania&form=BGABWCTA7&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Baviera+Alemania&form=BGABWCTA11&filters=HpDate:\"20251012_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",
