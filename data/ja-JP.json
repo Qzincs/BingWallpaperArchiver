@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251014",
+      "fullstartdate": "20251014",
+      "enddate": "20251015",
+      "urlbase": "https://www.bing.com/th?id=OHR.RailwayDay2025_JA-JP0346908442_UHD.jpg",
+      "copyrighttext": "© Doctor Egg/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%ac%ac%e4%b8%80%e5%8f%aa%e8%a6%8b%e5%b7%9d%e6%a9%8b%e6%a2%81&form=BGALM&filters=HpDate:\"20251013_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "第一只見川橋梁, 福島県 大沼郡",
+      "description": "今日 10 月 14 日は鉄道の日。1872 年の今日、新橋と横浜の間に日本初の鉄道が開業したことを記念して制定されました。鉄道博物館での特別展示、記念乗車券の販売、鉄道車両基地の一般公開など、鉄道ファンだけでなく一般の人々も楽しめる催しが多数行われています…",
+      "headline": "今日は鉄道の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_RailwayDay2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.484718,139.671295/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.484718,139.671295;S9;第一只見川橋梁, 福島県 大沼郡&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN5286x10920710995262732627&mb=37.491511~139.660263~37.477923~139.682322&description=%E3%80%92969-7513%E7%A6%8F%E5%B3%B6%E7%9C%8C%E4%B8%89%E5%B3%B6%E7%94%BA%C2%B7%E6%A9%8B&dt=1757649600000&tt=%E7%AC%AC%E4%B8%80%E5%8F%AA%E8%A6%8B%E5%B7%9D%E6%A9%8B%E6%A2%81&tsts0=%2526ty%253D18%2526ss%253Dypid.YN5286x10920710995262732627%2526mb%253D37.491511~139.660263~37.477923~139.682322%2526description%253D%2525E3%252580%252592969-7513%2525E7%2525A6%25258F%2525E5%2525B3%2525B6%2525E7%25259C%25258C%2525E4%2525B8%252589%2525E5%2525B3%2525B6%2525E7%252594%2525BA%2525C2%2525B7%2525E6%2525A9%25258B%2526dt%253D1757649600000&tstt0=%E7%AC%AC%E4%B8%80%E5%8F%AA%E8%A6%8B%E5%B7%9D%E6%A9%8B%E6%A2%81&cp=37.484717~139.661851&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%a6%8f%e5%b3%b6%e7%9c%8c+%e5%a4%a7%e6%b2%bc%e9%83%a1+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 福島県 大沼郡 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%a6%8f%e5%b3%b6%e7%9c%8c+%e5%a4%a7%e6%b2%bc%e9%83%a1+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%ac%ac%e4%b8%80%e5%8f%aa%e8%a6%8b%e5%b7%9d%e6%a9%8b%e6%a2%81&form=BGABWCTA11&filters=HpDate:\"20251013_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251013",
       "fullstartdate": "20251013",
       "enddate": "20251014",

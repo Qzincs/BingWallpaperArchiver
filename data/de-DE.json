@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251014",
+      "fullstartdate": "20251014",
+      "enddate": "20251015",
+      "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_DE-DE3882296731_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Oia+Griechenland&form=BGALM&filters=HpDate:\"20251013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Oia, Santorin, Griechenland",
+      "description": "Das Dorf Oia auf der griechischen Insel Santorin wirkt wie aus einer anderen Welt. Kein Wunder, dass es als Kulisse für Filme wie „Tomb Raider“ oder „Eine für 4“ diente. Die würfelförmigen Häuser mit flachen Dächern und weiß-blauer Fassade stammen aus dem 19. Jahrhundert und wurden teilweise direkt in die Vulkanfelsen gebaut – ein architektonisches Zeugnis der Anpassung an die Landschaft. So blieben sie im Sommer kühl und im Winter warm. Die Kalkfarbe diente nicht nur ästhetischen Zwecken: Regenwasser konnte so besser abfließen und gesammelt werden. Heute schlendern Besucher durch enge Gassen, besuchen das Schifffahrtsmuseum oder genießen den Sonnenuntergang an der Burgruine Agios Nikolaos. Oia, auch „Adlernest“ genannt, bietet Ausblicke auf die Vulkaninseln Nea und Palia Kameni – Überreste einer der größten Eruptionen der Menschheitsgeschichte. Ein Ort, der Naturgewalt und Schönheit vereint – und auch bei deutschen Reisenden sehr beliebt ist.",
+      "headline": "Träume in Blau und Weiß gemalt",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.46234,25.37569/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=36.46234,25.37569;S9;Oia, Santorin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Oia&satid=id.sid%3A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6&vdpid=7247981842521915393&mb=36.46552~25.369489~36.459166~25.381904&cardbg=%23F98745&dt=1755700200000&tt=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DOia%2526satid%253Did.sid%25253A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6%2526vdpid%253D7247981842521915393%2526mb%253D36.46552~25.369489~36.459166~25.381904%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&cp=35.749944~10.236319&lvl=4.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Santorin%2c+Griechenland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Santorin, Griechenland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Santorin%2c+Griechenland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 904,
+            "Y": 625,
+            "Width": 2930,
+            "Height": 1531,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oia+Griechenland&form=BGABWCTA11&filters=HpDate:\"20251013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251013",
       "fullstartdate": "20251013",
       "enddate": "20251014",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.AlgonParkOnt_EN-CA8810326454_UHD.jpg",
+      "copyrighttext": "© Pgiam/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=BGALM&filters=HpDate:\"20251013_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "River rapids in Algonquin Provincial Park, Ontario",
+      "description": "What's on your plate today—turkey, pie, mashed potatoes and maybe a second helping of gratitude? Canadian Thanksgiving arrives each October to mark the autumn harvest. Long before it became official in 1879, explorers and settlers held feasts for safe journeys and full larders. The first nationwide Thanksgiving was once celebrated in November. Today, it's a three-day weekend of family dinners, walks, counting blessings and quiet reflection before winter.",
+      "headline": "Ontario's wild heart",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_AlgonParkOnt\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.8,-78.7/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=45.8,-78.7;S9;Algonquin Provincial Park, Ontario&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Algonquin%20Provincial%20Park%20Ontario&satid=id.sid%3Adf177c28-39b9-6a6c-6473-435a26fc690a&vdpid=5293153253238767617&mb=46.152786~-79.626488~45.157532~-77.033592&cardbg=%23F98745&dt=1757921400000&tt=Algonquin%20Provincial%20Park%2C%20Ontario%2C%20Canada&tsts0=%2526ty%253D30%2526q%253DAlgonquin%252520Provincial%252520Park%252520Ontario%2526satid%253Did.sid%25253Adf177c28-39b9-6a6c-6473-435a26fc690a%2526vdpid%253D5293153253238767617%2526mb%253D46.152786~-79.626488~45.157532~-77.033592%2526cardbg%253D%252523F98745%2526dt%253D1757921400000&tstt0=Algonquin%20Provincial%20Park%2C%20Ontario%2C%20Canada&cp=44.578187~-81.604403&lvl=5.51248&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ontario&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Ontario"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Ontario&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Canadian+Thanksgiving&form=BGABWCTA11&filters=HpDate:\"20251013_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

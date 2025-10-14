@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251013",
+      "fullstartdate": "20251013",
+      "enddate": "20251014",
+      "urlbase": "https://www.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg",
+      "copyrighttext": "© Pete Lomchid/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Indigenous+Peoples%27+Day&form=BGALM&filters=HpDate:\"20251013_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah",
+      "description": "Canyons and mesas across the US hold more than striking scenery—they carry centuries of Indigenous history. Indigenous Peoples' Day, celebrated nationally on the second Monday of October, honors that history. The holiday began gaining ground in 1992, when Berkeley, California, became the first city to replace Columbus Day with a celebration of Native cultures. It recognizes Native nations as the earliest protectors of the land and acknowledges their ongoing cultural contributions.",
+      "headline": "Flames of the past",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251013_MuleCanyon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.5378,-109.73053/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=37.5378,-109.73053;S9;Cedar Mesa&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=House%20on%20Fire%20Ruin%20Mule%20Canyon&ss=ypid.YN873x4670292682191183589&mb=37.543412~-109.743397~37.532199~-109.717648&description=San%20Juan%20County%20Road%20263%20Highway%2095%2C%2020%20Miles%20Southwest%20Of%20Blanding%2C%20Blanding%2C%20UT%2084511&cardbg=%23219AB6&dt=1755772200000&tt=Mule%20Canyon%20Ruins&tsts0=%2526ty%253D18%2526q%253DHouse%252520on%252520Fire%252520Ruin%252520Mule%252520Canyon%2526ss%253Dypid.YN873x4670292682191183589%2526mb%253D37.543412~-109.743397~37.532199~-109.717648%2526description%253DSan%252520Juan%252520County%252520Road%252520263%252520Highway%25252095%25252C%25252020%252520Miles%252520Southwest%252520Of%252520Blanding%25252C%252520Blanding%25252C%252520UT%25252084511%2526cardbg%253D%252523219AB6%2526dt%253D1755772200000&tstt0=Mule%20Canyon%20Ruins&cp=35.601879~-118.028359&lvl=5.8306384&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Cedar+Mesa%2c+Utah&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Cedar Mesa, Utah"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Cedar+Mesa%2c+Utah&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Indigenous+Peoples%27+Day&form=BGABWCTA11&filters=HpDate:\"20251013_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251012",
       "fullstartdate": "20251012",
       "enddate": "20251013",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251014",
+      "fullstartdate": "20251014",
+      "enddate": "20251015",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.OiaSantorini_ZH-CN0531650189_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e4%bc%8a%e4%ba%9a%e9%95%87&form=BGALM&filters=HpDate:\"20251013_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "伊亚镇，圣托里尼岛，希腊",
+      "description": "你是否曾想过生活在电影布景中是什么感觉？在希腊圣托里尼群岛的伊亚村，这种体验几乎成真。这里曾出现在《牛仔裤的夏天》和《古墓丽影》等影片中。标志性的基克拉迪式建筑——立方体造型、平顶的白色房屋——与悬崖边的壮丽景色，仿佛不属于现实世界。它独特的建筑风格起源于19世纪末，当时的水手和商人直接在火山悬崖上凿建房屋，夏季清凉、冬季温暖。而蓝白相间的粉刷，也不仅仅是为了美观：石灰涂层能让雨水顺流而下并被收集利用。如今，游客可以漫步在鹅卵石铺就的小巷中，参观海军海事博物馆，或登上圣尼古拉斯城堡遗址，欣赏那令人难忘的落日。",
+      "headline": "蓝与白的梦境",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 14",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e4%bc%8a%e4%ba%9a%e9%95%87&form=BGABWCTA7&filters=HpDate:\"20251013_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 904,
+            "Y": 625,
+            "Width": 2930,
+            "Height": 1531,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e4%bc%8a%e4%ba%9a%e9%95%87&form=BGABWCTA11&filters=HpDate:\"20251013_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251013",
       "fullstartdate": "20251013",
       "enddate": "20251014",
