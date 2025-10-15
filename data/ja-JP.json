@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoutenHouses_JA-JP0762629111_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%8f%e3%82%a6%e3%83%86%e3%83%b3%e7%94%ba&form=BGALM&filters=HpDate:\"20251014_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ハウテン町, オランダ",
+      "description": "ここはオランダの静かな町、ハウテンです。ハウテンは、アムステルダムから 1 時間ほどのところにある地方都市です。リート湖沿いを歩くと、2005 年に設計された「レインボーハウス」と呼ばれる住宅群が現れます。スカンジナビア風の北欧デザインの配色が取り入れられ、異なる色で塗られた家々が水辺にカラフルに並んでいます…",
+      "headline": "ハウテンのカラフルな家並み",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_HoutenHouses\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.0261,5.1728/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.0261,5.1728;S9;ハウテン町, オランダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Houten%2C%20Utreque%2C%20Pa%C3%ADses%20Baixos&satid=id.sid%3A3c0902bb-78b1-b678-04ce-c6d2e4960ded&vdpid=-7989722467&mb=52.030502~5.159808~52.021709~5.185794&cardbg=%23F98745&tt=Houten&tsts1=%2526ty%253D30%2526q%253DHouten%25252C%252520Utreque%25252C%252520Pa%2525C3%2525ADses%252520Baixos%2526satid%253Did.sid%25253A3c0902bb-78b1-b678-04ce-c6d2e4960ded%2526vdpid%253D-7989722467%2526mb%253D52.030502~5.159808~52.021709~5.185794%2526cardbg%253D%252523F98745&tstt1=Houten&cp=52.026106~5.16748&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 15 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " オランダ への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%80+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 843,
+            "Width": 3833,
+            "Height": 445,
+            "Label": "house",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%8f%e3%82%a6%e3%83%86%e3%83%b3%e7%94%ba&form=BGABWCTA11&filters=HpDate:\"20251014_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

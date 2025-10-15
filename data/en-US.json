@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251014",
+      "fullstartdate": "20251014",
+      "enddate": "20251015",
+      "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_EN-US0585833457_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Oia+Greece&form=BGALM&filters=HpDate:\"20251014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Village of Oia, Santorini, Greece",
+      "description": "Ever wondered what it's like to live on a movie set? Oia is about as close as it gets, part of Greece's Santorini archipelago. This village has appeared in films like 'The Sisterhood of the Traveling Pants' and 'Tomb Raider,' thanks to its Cycladic houses—cube-shaped homes with flat roofs—and cliffside views that feel almost unreal. Its unique architecture has roots in the late 19th century. Sailors and merchants carved houses right into the volcanic cliffs—cool in summer and warm in winter. The white-and-blue theme is also more than just for show: houses were painted with lime wash so rainwater would run off and be collected. Today, visitors wander its cobbled lanes, explore the Naval Maritime Museum, or climb to the ruins of Agios Nikolaos Castle for unforgettable sunsets.",
+      "headline": "Dreams painted in blue and white",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.46234,25.37569/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=36.46234,25.37569;S9;Oia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Oia&satid=id.sid%3A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6&vdpid=7247981842521915393&mb=36.46552~25.369489~36.459166~25.381904&cardbg=%23F98745&dt=1755700200000&tt=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DOia%2526satid%253Did.sid%25253A2ee38e0c-7cf9-fe0a-7ecc-94387ffa83e6%2526vdpid%253D7247981842521915393%2526mb%253D36.46552~25.369489~36.459166~25.381904%2526cardbg%253D%252523F98745%2526dt%253D1755700200000&tstt0=Oia%2C%20847%2002%2C%20South%20Aegean%2C%20Greece&cp=35.749944~10.236319&lvl=4.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Santorini%2c+Greece&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Santorini, Greece"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Santorini%2c+Greece&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 904,
+            "Y": 625,
+            "Width": 2930,
+            "Height": 1531,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oia+Greece&form=BGABWCTA11&filters=HpDate:\"20251014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251013",
       "fullstartdate": "20251013",
       "enddate": "20251014",

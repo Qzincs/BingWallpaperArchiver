@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_DE-DE4085236718_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Violetter+Lacktrichterling&form=BGALM&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Violette Lacktrichterlinge, Seabeck, Washington, USA",
+      "description": "Haben Sie schon einmal einen Pilz gesehen, der aussieht, als käme er direkt aus einem Märchen? Der auch in Deutschland heimische Violette Lacktrichterling leuchtet im jungen Stadium in einem kräftigen Lila. Später wird er blasser und kann leicht mit anderen Pilzen verwechselt werden. Er ist zwar genießbar, wenn auch eher unauffällig im Aroma. Dank seines auffälligen Aussehens ist er jedoch ein echter Hingucker am Waldboden, besonders bei feuchtem Herbstwetter. Der Herbst ist die ideale Zeit zum Pilzesammeln. Ob Steinpilz, Maronenröhrling oder Pfifferling – sie alle tragen zur Gesundheit des Waldes bei, indem sie Nährstoffe recyceln und die Bäume über unterirdische Netzwerke unterstützen. Also: Raus in den Wald, staunen, sammeln oder ein neues Rezept ausprobieren – aber bitte nur mit ausreichenden Pilzkenntnissen oder einem Korb samt Bestimmungsbuch. Denn wer achtsam sammelt, schützt sich selbst und die Vielfalt unserer Wälder.",
+      "headline": "Lila leuchtet der Wald",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.637646,-122.832291/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.637646,-122.832291;S9;Seabeck, Washington, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=seabeck&vdpid=4860548888894898177&mb=47.660726~-122.864563~47.62439~-122.779816&cardbg=%23F98745&dt=1755862200000&tt=Seabeck%2C%20WA&tsts0=%2526ty%253D30%2526q%253Dseabeck%2526vdpid%253D4860548888894898177%2526mb%253D47.660726~-122.864563~47.62439~-122.779816%2526cardbg%253D%252523F98745%2526dt%253D1755862200000&tstt0=Seabeck%2C%20WA&cp=47.157152~-134.672784&lvl=4.42&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Seabeck%2c+Washington%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Seabeck, Washington, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Seabeck%2c+Washington%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1522,
+            "Y": 204,
+            "Width": 2058,
+            "Height": 1952,
+            "Label": "mushroom",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Violetter+Lacktrichterling&form=BGABWCTA11&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

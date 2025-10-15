@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.FontanaDiTrevi_IT-IT9781844919_UHD.jpg",
+      "copyrighttext": "© RilindH/RooM",
+      "copyrightlink": "https://www.bing.com/search?q=Festival+del+Cinema+di+Roma&form=BGALM&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fontana di Trevi, Piazza di Trevi, Roma",
+      "description": "\"Marcello, come here!\" esclamava Anita Ekberg nella Fontana di Trevi, in una scena della \"Dolce Vita\" del maestro Federico Fellini, che ha contribuito a consacrare Roma come icona cinematografica. Oggi, la città rinnova quell'incanto con la ventesima edizione della Festa del Cinema, in programma dal 15 al 26 ottobre 2025. L’Auditorium Parco della Musica Ennio Morricone sarà il fulcro dell’evento, con un red carpet che accoglierà star internazionali e una programmazione diffusa in tutta la città. La direttrice artistica Paola Malanga propone un cartellone che unisce qualità e accessibilità, tra anteprime, incontri e masterclass.",
+      "headline": "C'era ‘na vorta e ancora c'è",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_FontanaDiTrevi\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.928871,12.470812/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.928871,12.470812;S9;Auditorium, Roma&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN1354x18318731945581641553&mb=41.939567~12.454577~41.918151~12.487013&description=Via%20Pietro%20de%20Coubertin%2C%2010%20-%2000196%20%28RM%29%C2%B7Festival&dt=1758020400000&tt=Festa%20del%20Cinema%20di%20Roma&tsts0=%2526ty%253D18%2526ss%253Dypid.YN1354x18318731945581641553%2526mb%253D41.939567~12.454577~41.918151~12.487013%2526description%253DVia%252520Pietro%252520de%252520Coubertin%25252C%25252010%252520-%25252000196%252520%252528RM%252529%2525C2%2525B7Festival%2526dt%253D1758020400000&tstt0=Festa%20del%20Cinema%20di%20Roma&cp=41.92886~12.450973&lvl=14.93&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Piazza+di+Trevi%2c+Roma&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Piazza di Trevi, Roma"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Piazza+di+Trevi%2c+Roma&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 485,
+            "Y": 87,
+            "Width": 2853,
+            "Height": 1711,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Festival+del+Cinema+di+Roma&form=BGABWCTA11&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

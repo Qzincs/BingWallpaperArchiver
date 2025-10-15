@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251014",
+      "fullstartdate": "20251014",
+      "enddate": "20251015",
+      "urlbase": "https://www.bing.com/th?id=OHR.OiaSantorini_ROW0156825358_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Oia+Greece&form=BGALM&filters=HpDate:\"20251014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Village of Oia, Santorini, Greece",
+      "description": "Ever wondered what it's like to live on a movie set? Oia is about as close as it gets, part of Greece's Santorini archipelago. This village has appeared in films like 'The Sisterhood of the Traveling Pants' and 'Tomb Raider,' thanks to its Cycladic houses—cube-shaped homes with flat roofs—and cliffside views that feel almost unreal. Its unique architecture has roots in the late 19th century. Sailors and merchants carved houses right into the volcanic cliffs—cool in summer and warm in winter. The white-and-blue theme is also more than just for show: houses were painted with lime wash so rainwater would run off and be collected. Today, visitors wander its cobbled lanes, explore the Naval Maritime Museum or climb to the ruins of Agios Nikolaos Castle for unforgettable sunsets.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251014_OiaSantorini\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Oia+Greece&form=BGABWCTA7&filters=HpDate:\"20251014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 904,
+            "Y": 625,
+            "Width": 2930,
+            "Height": 1531,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oia+Greece&form=BGABWCTA11&filters=HpDate:\"20251014_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251013",
       "fullstartdate": "20251013",
       "enddate": "20251014",

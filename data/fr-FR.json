@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_FR-FR2437866835_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Laccaria+amethystina&form=BGALM&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Champignon laccaria amethystina, Seabeck, Washington, États-Unis",
+      "description": "À l’automne, la forêt se transforme en un théâtre d’ombres mystérieuses. Sous le craquement des feuilles aux tons chauds, un monde invisible prend vie : celui des champignons. Ni plante, ni animal, ils surgissent de la terre pour décomposer le bois mort, nourrir les arbres et tisser des liens invisibles sous nos pas.",
+      "headline": "Fongique mais fantastique !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.637646,-122.832291/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=47.637646,-122.832291;S9;Seabeck, Washington, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=seabeck&vdpid=4860548888894898177&mb=47.660726~-122.864563~47.62439~-122.779816&cardbg=%23F98745&dt=1755862200000&tt=Seabeck%2C%20WA&tsts0=%2526ty%253D30%2526q%253Dseabeck%2526vdpid%253D4860548888894898177%2526mb%253D47.660726~-122.864563~47.62439~-122.779816%2526cardbg%253D%252523F98745%2526dt%253D1755862200000&tstt0=Seabeck%2C%20WA&cp=47.157152~-134.672784&lvl=4.42&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Seabeck%2c+Washington%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Seabeck, Washington, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Seabeck%2c+Washington%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1522,
+            "Y": 204,
+            "Width": 2058,
+            "Height": 1952,
+            "Label": "mushroom",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Laccaria+amethystina&form=BGABWCTA11&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

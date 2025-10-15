@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_ES-ES1228402064_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Hongos+laccaria+de+amatista&form=BGALM&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Hongos laccaria de amatista, Seabeck, Washington, EE. UU.",
+      "description": "¿Sabías que estamos en temporada de hongos? Uno de los más llamativos es la laccaria de amatista, también llamada “engaño de amatista”. Su color púrpura brillante deslumbra cuando es joven, pero se desvanece con la edad y la intemperie, lo que hace que sea difícil de identificar. A pesar de su apariencia delicada, este hongo es comestible y cumple un papel esencial en el ecosistema.",
+      "headline": "Los sabrosos del bosque",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hongos+laccaria+de+amatista&form=BGABWCTA7&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1522,
+            "Y": 204,
+            "Width": 2058,
+            "Height": 1952,
+            "Label": "mushroom",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hongos+laccaria+de+amatista&form=BGABWCTA11&filters=HpDate:\"20251014_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",
