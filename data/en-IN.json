@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251016",
+      "fullstartdate": "20251016",
+      "enddate": "20251017",
+      "urlbase": "https://www.bing.com/th?id=OHR.SiberianLynx_EN-IN1490502739_UHD.jpg",
+      "copyrighttext": "© Mario Plechaty Photograph/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Eurasian+lynx&form=BGALM&filters=HpDate:\"20251015_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eurasian lynx, Siberia",
+      "description": "Think of a cat that can vanish into the forest without a sound—that's the Eurasian lynx. With its tufted ears and a piercing gaze, this feline is the largest of the four lynx species. Stretching over 100 centimetres in length and standing as tall as 75 centimetres at the shoulder, the Eurasian lynx is built for power and precision. Its padded paws aren't just for sneaking; they act like snowshoes, spreading its weight so it can chase down prey in deep winter drifts. Mostly a nocturnal hunter, it spends its days tucked away in thickets or rocky dens, venturing out under the cover of darkness to stalk deer, hares and squirrels.",
+      "headline": "The phantom cat",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251016_SiberianLynx\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 16, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eurasian+lynx&form=BGABWCTA7&filters=HpDate:\"20251015_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 389,
+            "Width": 3022,
+            "Height": 1767,
+            "Label": "lynx",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eurasian+lynx&form=BGABWCTA11&filters=HpDate:\"20251015_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251015",
       "fullstartdate": "20251015",
       "enddate": "20251016",

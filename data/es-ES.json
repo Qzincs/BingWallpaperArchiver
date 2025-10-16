@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251016",
+      "fullstartdate": "20251016",
+      "enddate": "20251017",
+      "urlbase": "https://www.bing.com/th?id=OHR.SiberianLynx_ES-ES1284959959_UHD.jpg",
+      "copyrighttext": "© Mario Plechaty Photograph/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Lince+euroasi%c3%a1tico&form=BGALM&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lince euroasiático, Siberia",
+      "description": "Piense en un gato que puede desaparecer en el bosque sin hacer ruido: ese es el lince euroasiático. Con sus orejas copetudas y mirada penetrante, es el más grande de las cuatro especies de lince. Sus patas acolchadas no solo le permiten escabullirse; actúan como raquetas de nieve, distribuyendo su peso para perseguir presas en profundas derivas invernales. Principalmente nocturno, pasa el día escondido en matorrales o guaridas rocosas, saliendo de noche a acechar ciervos, liebres o ardillas.",
+      "headline": "El gato fantasma",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251016_SiberianLynx\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lince+euroasi%c3%a1tico&form=BGABWCTA7&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 389,
+            "Width": 3022,
+            "Height": 1767,
+            "Label": "lynx",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lince+euroasi%c3%a1tico&form=BGABWCTA11&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251015",
       "fullstartdate": "20251015",
       "enddate": "20251016",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_ROW0300500776_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Amethyst+laccaria+mushrooms&form=BGALM&filters=HpDate:\"20251015_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Amethyst laccaria mushrooms, Seabeck, Washington, United States",
+      "description": "Did you know that approximately 14,000 species of mushrooms have been described? One of them is the amethyst laccaria, pictured here. Also known as the amethyst deceiver, its bright purple colour is dazzling when young, but it fades with age and weathering, making it tricky to identify. Despite its delicate, ever-changing appearance, this jewel-toned fungus is edible and plays a vital role in the ecosystem.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Amethyst+laccaria+mushrooms&form=BGABWCTA7&filters=HpDate:\"20251015_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1522,
+            "Y": 204,
+            "Width": 2058,
+            "Height": 1952,
+            "Label": "mushroom",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Amethyst+laccaria+mushrooms&form=BGABWCTA11&filters=HpDate:\"20251015_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

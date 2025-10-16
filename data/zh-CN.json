@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251016",
+      "fullstartdate": "20251016",
+      "enddate": "20251017",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.SiberianLynx_ZH-CN0749166653_UHD.jpg",
+      "copyrighttext": "© Mario Plechaty Photograph/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%8c%9e%e7%8c%81&form=BGALM&filters=HpDate:\"20251015_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "欧亚猞猁，西伯利亚",
+      "description": "想象一只能在森林中悄然隐去的猫科动物——这就是欧亚猞猁。它耳尖上的簇毛和锐利的目光令人过目难忘。作为四种猞猁中体型最大的一种，它体长可达42 英寸，肩高可达30英寸，身形矫健，兼具力量与敏捷。厚实的脚掌不仅能帮助它悄无声息地移动，还像雪鞋一样分散体重，使其能在厚厚的积雪中追逐猎物。它大多在夜间出没，白天则隐匿在灌木丛或岩石洞穴中，夜幕降临才悄然出击，捕猎鹿、野兔和松鼠。",
+      "headline": "幽灵之猫",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251016_SiberianLynx\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 16",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%8c%9e%e7%8c%81&form=BGABWCTA7&filters=HpDate:\"20251015_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 389,
+            "Width": 3022,
+            "Height": 1767,
+            "Label": "lynx",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%ac%a7%e4%ba%9a%e7%8c%9e%e7%8c%81&form=BGABWCTA11&filters=HpDate:\"20251015_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251015",
       "fullstartdate": "20251015",
       "enddate": "20251016",

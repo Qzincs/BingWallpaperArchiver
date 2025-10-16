@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_PT-BR2131819157_UHD.jpg",
+      "copyrighttext": "©  Danita Delimont/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=cogumelo&form=BGALM&filters=HpDate:\"20251015_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cogumelos laccaria amethystina em Seabeck, Washington, EUA",
+      "description": "Hoje é dia de olhar para o chão e descobrir universos que acontecem sem ninguém notar — é o Dia Internacional do Cogumelo! A data celebra esses organismos surpreendentes: do clássico cogumelo vermelho com pintas brancas, passando pelos que brilham na escuridão Amazônica, ao cordyceps, que se aloja em insetos e influencia seu comportamento.",
+      "headline": "Esporos à solta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cogumelo&form=BGABWCTA7&filters=HpDate:\"20251015_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1522,
+            "Y": 204,
+            "Width": 2058,
+            "Height": 1952,
+            "Label": "mushroom",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cogumelo&form=BGABWCTA11&filters=HpDate:\"20251015_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

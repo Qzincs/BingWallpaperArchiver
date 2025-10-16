@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251015",
+      "fullstartdate": "20251015",
+      "enddate": "20251016",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmethystLaccaria_EN-CA2561600829_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=National+Mushroom+Day&form=BGALM&filters=HpDate:\"20251015_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Amethyst laccaria mushrooms, Seabeck, Washington, United States",
+      "description": "Did you know there's a day just for mushrooms? Every October 15, National Mushroom Day invites us to discover their fascinating world. Take the amethyst laccaria, pictured here. Also known as the amethyst deceiver, its bright purple colour is dazzling when young, but it fades with age and weathering, making it tricky to identify. Despite its delicate, ever-changing appearance, this jewel-toned fungus is edible and plays a vital role in the ecosystem.",
+      "headline": "The spore the merrier",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251015_AmethystLaccaria\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.637646,-122.832291/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=47.637646,-122.832291;S9;Seabeck, Washington&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=seabeck&vdpid=4860548888894898177&mb=47.660726~-122.864563~47.62439~-122.779816&cardbg=%23F98745&dt=1755862200000&tt=Seabeck%2C%20WA&tsts0=%2526ty%253D30%2526q%253Dseabeck%2526vdpid%253D4860548888894898177%2526mb%253D47.660726~-122.864563~47.62439~-122.779816%2526cardbg%253D%252523F98745%2526dt%253D1755862200000&tstt0=Seabeck%2C%20WA&cp=47.157152~-134.672784&lvl=4.42&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 15, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Seabeck%2c+Washington%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Seabeck, Washington, United States"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Seabeck%2c+Washington%2c+United+States&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1522,
+            "Y": 204,
+            "Width": 2058,
+            "Height": 1952,
+            "Label": "mushroom",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=National+Mushroom+Day&form=BGABWCTA11&filters=HpDate:\"20251015_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251014",
       "fullstartdate": "20251014",
       "enddate": "20251015",

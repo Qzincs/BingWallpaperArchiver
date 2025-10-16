@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251016",
+      "fullstartdate": "20251016",
+      "enddate": "20251017",
+      "urlbase": "https://www.bing.com/th?id=OHR.SiberianLynx_DE-DE4192979708_UHD.jpg",
+      "copyrighttext": "© Mario Plechaty Photograph/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Eurasischer+Luchs&form=BGALM&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eurasischer Luchs, Sibirien",
+      "description": "Haben Sie schon einmal vom „Geist des Waldes“ gehört? So wird der Eurasische Luchs aufgrund seiner lautlosen, nachtaktiven Lebensweise und seiner Seltenheit auch genannt. Mit bis zu 1,07 Metern Länge und 76 Zentimetern Schulterhöhe ist er die größte Luchsart. Seine breiten Pfoten verteilen sein Gewicht wie Schneeschuhe – ideal für die Jagd im verschneiten Gelände. Er jagt nachts und ruht tagsüber in Felsspalten oder dichtem Gebüsch. Zu seiner Beute zählen Rehe, Hasen und Eichhörnchen. In Deutschland lebt der Luchs wieder in Teilen des Harzes und Bayerischen Waldes.",
+      "headline": "Der Schatten der Wälder",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251016_SiberianLynx\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eurasischer+Luchs&form=BGABWCTA7&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 608,
+            "Y": 389,
+            "Width": 3022,
+            "Height": 1767,
+            "Label": "lynx",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eurasischer+Luchs&form=BGABWCTA11&filters=HpDate:\"20251015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251015",
       "fullstartdate": "20251015",
       "enddate": "20251016",
