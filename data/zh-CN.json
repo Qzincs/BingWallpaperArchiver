@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.RockRiverFalls_ZH-CN6532185546_UHD.jpg",
+      "copyrighttext": "© Matt Anderson Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%af%86%e6%ad%87%e6%a0%b9%e5%b7%9e%e7%bd%97%e5%85%8b%e6%b2%b3%e8%8d%92%e9%87%8e&form=BGALM&filters=HpDate:\"20251016_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "罗克河瀑布，上半岛，密歇根州，美国",
+      "description": "密歇根州罗克河峡谷深处，罗克河瀑布在冰川雕琢的景观中悄然显现，周遭密林环绕，层层历史沉淀。在上半岛这片土地上，人类足迹绵延数千年：原住民阿尔冈昆语族之后，法国与英国探险者接踵而至；19世纪采矿与伐木业繁荣时期，芬兰、瑞典及法裔加拿大移民在此定居。如今这片人烟稀少的区域仅容纳着密歇根州3%的居民，森林与瀑布依旧保留着近乎原始的宁静。",
+      "headline": "爱上密歇根",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_RockRiverFalls\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 17",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%af%86%e6%ad%87%e6%a0%b9%e5%b7%9e%e7%bd%97%e5%85%8b%e6%b2%b3%e8%8d%92%e9%87%8e&form=BGABWCTA7&filters=HpDate:\"20251016_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 938,
+            "Width": 3833,
+            "Height": 1218,
+            "Label": "fountain",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%af%86%e6%ad%87%e6%a0%b9%e5%b7%9e%e7%bd%97%e5%85%8b%e6%b2%b3%e8%8d%92%e9%87%8e&form=BGABWCTA11&filters=HpDate:\"20251016_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

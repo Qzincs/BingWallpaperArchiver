@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_IT-IT3239553748_UHD.jpg",
+      "copyrighttext": "© Matt Anderson Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Penisola+superiore&form=BGALM&filters=HpDate:\"20251016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rock River Falls, Penisola Superiore, Michigan, USA",
+      "description": "Scende come un nastro di luce tra le rocce, incorniciata da una tavolozza infuocata: le Rock River Falls brillano sotto il cielo d’autunno, dove il bosco si veste d’oro e di rame. Questo angolo incantato si trova nella Rock River Canyon Wilderness, nel cuore della Penisola Superiore dello stato americano del Michigan. Qui l’uomo ha lasciato tracce per millenni: i popoli indigeni di lingua algonchina furono seguiti da esploratori francesi e britannici, mentre ondate di immigrati finlandesi, svedesi e franco-canadesi si stabilirono qui durante il boom minerario e forestale del XIX secolo. Oggi questa regione scarsamente popolata ospita appena il 3% dei residenti del Michigan, custodendo le sue foreste e cascate in una serenità quasi intatta.",
+      "headline": "Rugiada di luce",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_RockRiverFalls\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.3514,-86.9656/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.3514,-86.9656;S9;Rock River, Michigan, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Rock%20River%2C%20Michigan%2C%20United%20States&satid=id.sid%3A49652998-3835-417c-6d9f-b1380f202eaa&vdpid=5284695353323421699&mb=46.402408~-87.092256~46.300405~-86.838786&cardbg=%23F98745&dt=1756897200000&tt=Rock%20River%2C%20MI&tsts1=%2526ty%253D30%2526q%253DRock%252520River%25252C%252520Michigan%25252C%252520United%252520States%2526satid%253Did.sid%25253A49652998-3835-417c-6d9f-b1380f202eaa%2526vdpid%253D5284695353323421699%2526mb%253D46.402408~-87.092256~46.300405~-86.838786%2526cardbg%253D%252523F98745%2526dt%253D1756897200000&tstt1=Rock%20River%2C%20MI&cp=47.832867~-91.417484&lvl=4.910124&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Penisola+Superiore%2c+Michigan%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Penisola Superiore, Michigan, USA"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Penisola+Superiore%2c+Michigan%2c+USA&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 938,
+            "Width": 3833,
+            "Height": 1218,
+            "Label": "fountain",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Penisola+superiore&form=BGABWCTA11&filters=HpDate:\"20251016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_JA-JP0295221799_UHD.jpg",
+      "copyrighttext": "© Matt Anderson Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%bb%e3%83%aa%e3%83%90%e3%83%bc%e3%83%bb%e3%83%95%e3%82%a9%e3%83%bc%e3%83%ab%e3%82%ba&form=BGALM&filters=HpDate:\"20251016_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ロック・リバー・フォールズ, 米国 ミシガン州",
+      "description": "アッパー半島は、米国ミシガン州の北西部に位置する半島です。州の総面積の約 3 分の 1 を占めていますが、人口は州全体の約 3% 程度であり、大部分が森林に覆われています。19 世紀から 20 世紀にかけては、林業と鉱業で栄え、現在は自然環境を活かした観光業が盛んとなっています…",
+      "headline": "秋色に染まるロック・リバー・フォールズ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_RockRiverFalls\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.593891,-88.541107/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.593891,-88.541107;S9;Rock+River%2C+Michigan%2C+United+States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Rock+River%2C+Michigan%2C+United+States&satid=id.sid%3A49652998-3835-417c-6d9f-b1380f202eaa&vdpid=5284695353323421699&mb=46.402408%7E-87.092256%7E46.300405%7E-86.838786&cardbg=%23F98745&dt=1756897200000&tt=Rock+River%2C+MI&tsts1=%2526ty%253D30%2526q%253DRock%252520River%25252C%252520Michigan%25252C%252520United%252520States%2526satid%253Did.sid%25253A49652998-3835-417c-6d9f-b1380f202eaa%2526vdpid%253D5284695353323421699%2526mb%253D46.402408%7E-87.092256%7E46.300405%7E-86.838786%2526cardbg%253D%252523F98745%2526dt%253D1756897200000&tstt1=Rock+River%2C+MI&cp=47.825652%7E-79.856694&lvl=4.9&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%9f%e3%82%b7%e3%82%ac%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 米国 ミシガン州 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e7%b1%b3%e5%9b%bd+%e3%83%9f%e3%82%b7%e3%82%ac%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 938,
+            "Width": 3833,
+            "Height": 1218,
+            "Label": "fountain",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%bb%e3%83%aa%e3%83%90%e3%83%bc%e3%83%bb%e3%83%95%e3%82%a9%e3%83%bc%e3%83%ab%e3%82%ba&form=BGABWCTA11&filters=HpDate:\"20251016_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

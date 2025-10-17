@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.MettlachAutumn_DE-DE9026182741_UHD.jpg",
+      "copyrighttext": "© Sus Bogaerts/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Saarschleife&form=BGALM&filters=HpDate:\"20251016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Blick auf die Saar im Herbst, Saarschleife, Mettlach, Saarland",
+      "description": "Diese eindrucksvolle Kulisse zeigt die Saarschleife bei Mettlach im Saarland – eines der bekanntesten Naturwunder Deutschlands. In einem engen Bogen windet sich die Saar durch das bewaldete Tal. Hoch über der Flussschleife bietet der Aussichtspunkt Cloef einen atemberaubenden Blick auf das grüne Umland. Besonders im Herbst, wenn sich das Laub bunt färbt, ist das Panorama ein unvergessliches Erlebnis. Ein besonderes Highlight ist der barrierefreie Baumwipfelpfad, der zu einer 42 Meter hohen Aussichtsplattform führt. Von dort aus eröffnet sich ein einzigartiger Rundblick über die schönste Flussschleife Deutschlands und den Naturpark Saar-Hunsrück – ein Erlebnis für Familien, Naturfreunde und Fotobegeisterte gleichermaßen.",
+      "headline": "Ein einzigartiger Panoramablick",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_MettlachAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.501039,6.544791/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=49.501039,6.544791;S9;Saarschleife, Mettlach, Saarland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Mettlach&vdpid=7014482685376593921&mb=49.502135~6.58777~49.487145~6.62545&cardbg=%23F98745&dt=1758268800000&tt=Mettlach%2C%20Saarland%2C%20Deutschland&tsts1=%2526ty%253D30%2526q%253DMettlach%2526vdpid%253D7014482685376593921%2526mb%253D49.502135~6.58777~49.487145~6.62545%2526cardbg%253D%252523F98745%2526dt%253D1758268800000&tstt1=Mettlach%2C%20Saarland%2C%20Deutschland&cp=49.494634~6.5999&lvl=15.663812&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Saarschleife%2c+Mettlach%2c+Saarland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Saarschleife, Mettlach, Saarland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Saarschleife%2c+Mettlach%2c+Saarland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saarschleife&form=BGABWCTA11&filters=HpDate:\"20251016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

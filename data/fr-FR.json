@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.CorsicaSunshine_FR-FR8649215960_UHD.jpg",
+      "copyrighttext": "© joningall/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Speloncato+Corse&form=BGALM&filters=HpDate:\"20251016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lumière du soir sur le village de Speloncato, Corse",
+      "description": "Dominant la Balagne depuis le Moyen Âge, Speloncato est une sentinelle perchée à près de 600 mètres d’altitude. Ses maisons de pierre serrées les unes contre les autres dessinent un rempart face aux siècles et rappellent qu’une puissante fortification, gardienne des routes entre mer et montagne, se dressait autrefois ici.",
+      "headline": "Quand le soir embrasse la montagne corse",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_CorsicaSunshine\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.56194,8.981112/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=42.56194,8.981112;S9;Speloncato, Corse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Speloncato&satid=id.sid%3A4eea72c9-9e31-f4cb-8bce-04742f437f9f&vdpid=7208942858768744449&mb=42.613651~8.885121~42.537506~9.061319&cardbg=%23F98745&tt=Speloncato%2C%2020226%2C%20Corse%2C%20France&tsts0=%2526ty%253D30%2526q%253DSpeloncato%2526satid%253Did.sid%25253A4eea72c9-9e31-f4cb-8bce-04742f437f9f%2526vdpid%253D7208942858768744449%2526mb%253D42.613651~8.885121~42.537506~9.061319%2526cardbg%253D%252523F98745&tstt0=Speloncato%2C%2020226%2C%20Corse%2C%20France&cp=42.675192~8.821445&lvl=10.128316&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Corse&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Corse"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Corse&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Speloncato+Corse&form=BGABWCTA11&filters=HpDate:\"20251016_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",
