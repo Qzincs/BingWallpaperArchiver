@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_PT-BR6243828889_UHD.jpg",
+      "copyrighttext": "© Matt Anderson Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Michigan&form=BGALM&filters=HpDate:\"20251017_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rock River Falls, Península Superior, Michigan, EUA",
+      "description": "Aninhada na Rock River Canyon Wilderness, nos Estados Unidos, a cachoeira Rock River Falls, nossa imagem de hoje, é cercada por geleiras, florestas densas e história. Na Península Superior, no norte do estado de Michigan, exploradores europeus que chegaram no início do século XVII foram seguidos por imigrantes finlandeses, suecos e franco-canadenses no auge da mineração e da madeira no século XIX. Hoje, essa região abriga apenas 3% da população de Michigan, preservando sua natureza quase intacta.",
+      "headline": "Trilhas moderadas, beleza profunda",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_RockRiverFalls\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Michigan&form=BGABWCTA7&filters=HpDate:\"20251017_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 938,
+            "Width": 3833,
+            "Height": 1218,
+            "Label": "fountain",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Michigan&form=BGABWCTA11&filters=HpDate:\"20251017_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

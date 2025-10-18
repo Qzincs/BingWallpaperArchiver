@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251018",
+      "fullstartdate": "20251018",
+      "enddate": "20251019",
+      "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_ES-ES9628182073_UHD.jpg",
+      "copyrighttext": "© dbstockphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Colina+de+Silbury&form=BGALM&filters=HpDate:\"20251017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Colina de Silbury, Avebury, Wiltshire, Inglaterra",
+      "description": "Este paisaje nos invita a mirar más allá de lo visible. A primera vista, Silbury Hill, en Wiltshire, Inglaterra, parece una simple colina en el campo. Sin embargo, esconde un enigma neolítico de 4.500 años de antigüedad. Desde alrededor del 2400 a.C., la tiza se extrajo, transportó y compactó a mano, capa por capa, durante generaciones. El resultado es el montículo prehistórico más alto de Europa construido completamente por esfuerzo humano, que alcanza unos 39 metros de altura.",
+      "headline": "Una colina protectora",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Colina+de+Silbury&form=BGABWCTA7&filters=HpDate:\"20251017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1623,
+            "Width": 3833,
+            "Height": 533,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Colina+de+Silbury&form=BGABWCTA11&filters=HpDate:\"20251017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251017",
       "fullstartdate": "20251017",
       "enddate": "20251018",

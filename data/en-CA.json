@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.JasperFestival_EN-CA8017450155_UHD.jpg",
+      "copyrighttext": "© Daniel Viñé Garcia/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park+Alberta&form=BGALM&filters=HpDate:\"20251017_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Northern lights over Patricia Lake in Jasper National Park, Alberta",
+      "description": "Ever tried counting stars and lost track halfway through? That's the kind of magic we chase in Jasper National Park, Alberta. When city lights fade, the night sky unfolds: constellations, distant galaxies and occasionally the dance of the northern lights above Patricia Lake, which draws gasps from even seasoned stargazers. Jasper Dark Sky Festival kicks off today and runs through 26 October, marking its 15th anniversary. Imagine being guided by astronomers using telescopes, watching a space-themed movie under the stars wrapped in a cosy blanket, hearing stories about nebulae and meteor showers, night hiking on Pyramid Beach or learning how to photograph the Milky Way.",
+      "headline": "Power Down. Look Up.",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_JasperFestival\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.877598,-118.08239/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=52.877598,-118.08239;S9;Jasper National Park, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=jasper%20national%20park&ss=ypid.YN1226x15143961807555184171&mb=52.881562~-118.088973~52.873637~-118.075798&description=Box%2010%2C%20Jasper%2C%20AB%2C%20Canada%2C%20Alberta%2C%20Jasper%20Alberta%20T0E%201E0&cardbg=%233DB838&dt=1758799800000&tt=Jasper%20National%20Park&tsts0=%2526ty%253D18%2526q%253Djasper%252520national%252520park%2526ss%253Dypid.YN1226x15143961807555184171%2526mb%253D52.881562~-118.088973~52.873637~-118.075798%2526description%253DBox%25252010%25252C%252520Jasper%25252C%252520AB%25252C%252520Canada%25252C%252520Alberta%25252C%252520Jasper%252520Alberta%252520T0E%2525201E0%2526cardbg%253D%2525233DB838%2526dt%253D1758799800000&tstt0=Jasper%20National%20Park&cp=51.485132~-123.635811&lvl=5.9242597&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Alberta&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Alberta"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Alberta&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jasper+National+Park+Alberta&form=BGABWCTA11&filters=HpDate:\"20251017_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

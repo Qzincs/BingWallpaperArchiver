@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251017",
+      "fullstartdate": "20251017",
+      "enddate": "20251018",
+      "urlbase": "https://www.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg",
+      "copyrighttext": "© Matt Anderson Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rock+River+Wilderness+Michigan&form=BGALM&filters=HpDate:\"20251017_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rock River Falls, Upper Peninsula, Michigan",
+      "description": "Nestled within Michigan's Rock River Canyon Wilderness, Rock River Falls emerges amid a landscape shaped by glaciers, dense woods, and layers of history. In the Upper Peninsula, humans have left their traces for millennia: Indigenous Algonquian-speaking peoples were followed by French and British explorers, and waves of Finnish, Swedish, and French-Canadian immigrants settled there during the 19th-century mining and logging booms. Today, this sparsely populated region hosts barely 3% of Michigan's residents, cradling its forests and waterfalls in near-natural serenity.",
+      "headline": "Falling for Michigan",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251017_RockRiverFalls\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.3514,-86.9656/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=46.3514,-86.9656;S9;Michigan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Rock%20River%2C%20Michigan%2C%20United%20States&satid=id.sid%3A49652998-3835-417c-6d9f-b1380f202eaa&vdpid=5284695353323421699&mb=46.402408~-87.092256~46.300405~-86.838786&cardbg=%23F98745&dt=1756897200000&tt=Rock%20River%2C%20MI&tsts1=%2526ty%253D30%2526q%253DRock%252520River%25252C%252520Michigan%25252C%252520United%252520States%2526satid%253Did.sid%25253A49652998-3835-417c-6d9f-b1380f202eaa%2526vdpid%253D5284695353323421699%2526mb%253D46.402408~-87.092256~46.300405~-86.838786%2526cardbg%253D%252523F98745%2526dt%253D1756897200000&tstt1=Rock%20River%2C%20MI&cp=47.832867~-91.417484&lvl=4.910124&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Upper+Peninsula%2c+Michigan&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Upper Peninsula, Michigan"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Upper+Peninsula%2c+Michigan&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 938,
+            "Width": 3833,
+            "Height": 1218,
+            "Label": "fountain",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rock+River+Wilderness+Michigan&form=BGABWCTA11&filters=HpDate:\"20251017_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251016",
       "fullstartdate": "20251016",
       "enddate": "20251017",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251018",
+      "fullstartdate": "20251018",
+      "enddate": "20251019",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.SilburyHill_ZH-CN6666447580_UHD.jpg",
+      "copyrighttext": "© dbstockphotoa/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=BGALM&filters=HpDate:\"20251017_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国",
+      "description": "每年十月的第三个星期六是国际考古日，它鼓励我们“深入地表”，探索尘封的历史与文明的根源。该纪念日由美国考古学会（AIA）于2011年设立，如今世界各地通过举办活动、组织参观和亲身体验挖掘等方式来庆祝。",
+      "headline": "那座铭记往昔的山丘",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 18",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20251017_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1623,
+            "Width": 3833,
+            "Height": 533,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e8%80%83%e5%8f%a4%e6%97%a5&form=BGABWCTA11&filters=HpDate:\"20251017_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251017",
       "fullstartdate": "20251017",
       "enddate": "20251018",

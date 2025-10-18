@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251018",
+      "fullstartdate": "20251018",
+      "enddate": "20251019",
+      "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_FR-FR0576051334_UHD.jpg",
+      "copyrighttext": "© dbstockphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=colline+de+Silbury&form=BGALM&filters=HpDate:\"20251017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Site néolithique de la colline de Silbury, Tilshead, Wiltshire, Angleterre",
+      "description": "Au cœur des plaines du Wiltshire, en Angleterre, la colline de Silbury se dresse comme une énigme venue du passé. Recouverte d'herbe par la nature, elle a été construite il y a 4 500 ans. Vers 2 400 av. J.-C., des générations entières ont extrait la craie des environs, l'ont transportée puis compactée patiemment jusqu'à ériger ce tertre monumental de 40 mètres, le plus haut de toute l'Europe préhistorique.",
+      "headline": "Une colline pas comme les autres",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.230354,-1.95306/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.230354,-1.95306;S9;Silbury, Tilshead, Angleterre&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Silbury%20Hill%2C%20Tilshead%2C%20England&ss=ypid.YN3B2D43379164B311&mb=51.234642~-1.964815~51.226056~-1.941297&description=Tilshead%20SP3%204RY%C2%B7Structure%20%26%20geography&cardbg=%23219AB6&dt=1756897200000&tt=Silbury%20Hill&tsts2=%2526ty%253D18%2526q%253DSilbury%252520Hill%25252C%252520Tilshead%25252C%252520England%2526ss%253Dypid.YN3B2D43379164B311%2526mb%253D51.234642~-1.964815~51.226056~-1.941297%2526description%253DTilshead%252520SP3%2525204RY%2525C2%2525B7Structure%252520%252526%252520geography%2526cardbg%253D%252523219AB6%2526dt%253D1756897200000&tstt2=Silbury%20Hill&cp=51.522416~-6.416016&lvl=6&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "18 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Tilshead%2c+Wiltshire%2c+Angleterre&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Tilshead, Wiltshire, Angleterre"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Tilshead%2c+Wiltshire%2c+Angleterre&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1623,
+            "Width": 3833,
+            "Height": 533,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=colline+de+Silbury&form=BGABWCTA11&filters=HpDate:\"20251017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251017",
       "fullstartdate": "20251017",
       "enddate": "20251018",
