@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251019",
+      "fullstartdate": "20251019",
+      "enddate": "20251020",
+      "urlbase": "https://www.bing.com/th?id=OHR.AppleHarvest_JA-JP0862857490_UHD.jpg",
+      "copyrighttext": "© Tammi Mild/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8f%8e%e7%a9%ab%e6%99%82%e6%9c%9f%e3%82%92%e8%bf%8e%e3%81%88%e3%81%9f%e3%83%aa%e3%83%b3%e3%82%b4&form=BGALM&filters=HpDate:\"20251018_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "収穫時期を迎えたリンゴ, 米国 ミネソタ州",
+      "description": "今日の画像は、米国ミネソタ州の果樹園でたわわに実るリンゴ。リンゴは、紀元前から栽培されており、ヨーロッパで栽培方法が確立されると、様々な品種改良を経ながら、世界中へと広まりました。全世界での生産量は、2023 年時点で約 9700 万トンであり、その半分が中国で栽培されています…",
+      "headline": "たわわに実るリンゴ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 19 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8f%8e%e7%a9%ab%e6%99%82%e6%9c%9f%e3%82%92%e8%bf%8e%e3%81%88%e3%81%9f%e3%83%aa%e3%83%b3%e3%82%b4&form=BGABWCTA7&filters=HpDate:\"20251018_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1648,
+            "Height": 2155,
+            "Label": "apple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8f%8e%e7%a9%ab%e6%99%82%e6%9c%9f%e3%82%92%e8%bf%8e%e3%81%88%e3%81%9f%e3%83%aa%e3%83%b3%e3%82%b4&form=BGABWCTA11&filters=HpDate:\"20251018_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251018",
       "fullstartdate": "20251018",
       "enddate": "20251019",

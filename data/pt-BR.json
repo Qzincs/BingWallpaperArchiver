@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251018",
+      "fullstartdate": "20251018",
+      "enddate": "20251019",
+      "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_PT-BR5871845476_UHD.jpg",
+      "copyrighttext": "© dbstockphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Arqueologia&form=BGALM&filters=HpDate:\"20251018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sítio neolítico de Silbury Hill em Tilshead, Wiltshire, Inglaterra",
+      "description": "Nossa imagem do dia é Silbury Hill, na Inglaterra — uma colina que guarda um mistério de 4.500 anos. À primeira vista, parece apenas parte da paisagem rural, mas trata-se do maior monte pré-histórico da Europa, construído manualmente por gerações. Seria um local cerimonial, um marcador astronômico ou um símbolo de comunidade? A arqueologia nos mostra que, muitas vezes, as perguntas são tão valiosas quanto as respostas.",
+      "headline": "A colina que guarda memórias",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Arqueologia&form=BGABWCTA7&filters=HpDate:\"20251018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1623,
+            "Width": 3833,
+            "Height": 533,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Arqueologia&form=BGABWCTA11&filters=HpDate:\"20251018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251017",
       "fullstartdate": "20251017",
       "enddate": "20251018",

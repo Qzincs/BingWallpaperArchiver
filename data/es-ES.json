@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251019",
+      "fullstartdate": "20251019",
+      "enddate": "20251020",
+      "urlbase": "https://www.bing.com/th?id=OHR.JaenCathedral_ES-ES4511407655_UHD.jpg",
+      "copyrighttext": "© JoseIgnacioSoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ja%c3%a9n+ciudad&form=BGALM&filters=HpDate:\"20251018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral de la Asunción, Jaén, Andalucía, España",
+      "description": "Jaén, rodeada por un manto de más de 66 millones de olivos, es la capital mundial del aceite de oliva. Desde esta impresionante vista aérea, podemos apreciar cómo el paisaje se dibuja con infinitas hileras de árboles que han marcado la historia, la economía y la cultura de esta tierra. La Catedral de la Asunción, joya renacentista declarada Patrimonio de la Humanidad por la UNESCO, domina el horizonte y recuerda la grandeza del pasado de la ciudad.",
+      "headline": "El tesoro mejor guardado",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_JaenCathedral\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ja%c3%a9n+ciudad&form=BGABWCTA7&filters=HpDate:\"20251018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ja%c3%a9n+ciudad&form=BGABWCTA11&filters=HpDate:\"20251018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251018",
       "fullstartdate": "20251018",
       "enddate": "20251019",

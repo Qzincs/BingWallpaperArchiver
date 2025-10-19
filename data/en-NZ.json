@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251018",
+      "fullstartdate": "20251018",
+      "enddate": "20251019",
+      "urlbase": "https://www.bing.com/th?id=OHR.SilburyHill_ROW9508999634_UHD.jpg",
+      "copyrighttext": "© dbstockphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Silbury+Hill&form=BGALM&filters=HpDate:\"20251018_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Neolithic site of Silbury Hill, Tilshead, Wiltshire, England",
+      "description": "Some ancient sites, like the one shown here, blend seamlessly into their surroundings: at first glance, Silbury Hill in Wiltshire, England, may seem like a simple slope in the countryside. However, it conceals a 4,500-year-old Neolithic enigma. Starting around 2400 BCE, chalk was locally quarried, transported and compacted by hand, layer by layer, over generations. The result is the tallest prehistoric mound in Europe, built entirely by human effort, rising to almost 40 metres.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251018_SilburyHill\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Silbury+Hill&form=BGABWCTA7&filters=HpDate:\"20251018_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1623,
+            "Width": 3833,
+            "Height": 533,
+            "Label": "flower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Silbury+Hill&form=BGABWCTA11&filters=HpDate:\"20251018_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251017",
       "fullstartdate": "20251017",
       "enddate": "20251018",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251019",
+      "fullstartdate": "20251019",
+      "enddate": "20251020",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.AppleHarvest_ZH-CN7317228007_UHD.jpg",
+      "copyrighttext": "© Tammi Mild/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%94%b6%e8%8e%b7%e8%8b%b9%e6%9e%9c%e7%9a%84%e5%ad%a3%e8%8a%82&form=BGALM&filters=HpDate:\"20251018_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "即将收获的苹果，明尼苏达州，美国",
+      "description": "在明尼苏达州，秋天不仅是红叶纷飞的季节，更是苹果飘香的时节。从八月中旬到十月下旬，全州各地的果园都敞开大门，迎接前来采摘的游客，园里种满了蜜脆、哈拉尔森等数十种苹果，每一品种都因风味、耐寒性和口感而闻名。今日图片定格了这一瞬间：枝头挂满成熟的果实，静待采收。",
+      "headline": "痴迷科学",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 19",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%94%b6%e8%8e%b7%e8%8b%b9%e6%9e%9c%e7%9a%84%e5%ad%a3%e8%8a%82&form=BGABWCTA7&filters=HpDate:\"20251018_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1648,
+            "Height": 2155,
+            "Label": "apple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%94%b6%e8%8e%b7%e8%8b%b9%e6%9e%9c%e7%9a%84%e5%ad%a3%e8%8a%82&form=BGABWCTA11&filters=HpDate:\"20251018_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251018",
       "fullstartdate": "20251018",
       "enddate": "20251019",
