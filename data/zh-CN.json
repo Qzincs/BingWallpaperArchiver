@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251020",
+      "fullstartdate": "20251020",
+      "enddate": "20251021",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.HoffmansSloth_ZH-CN7563408641_UHD.jpg",
+      "copyrighttext": "© Murray Cooper/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%a0%91%e6%87%92%e6%97%a5&form=BGALM&filters=HpDate:\"20251019_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "霍氏树懒，厄瓜多尔",
+      "description": "你是否曾幻想过整天什么都不做，只是悠闲地发发呆？对树懒来说，这就是它们的日常。每年的国际树懒日，正是为了向这些慢节奏的动物致敬，也提醒我们：生活不一定总要匆匆忙忙。树懒是一种生活在中美洲和南美洲的树栖哺乳动物。它们行动缓慢，不是因为懒惰，而是一种聪明的生存策略。缓慢的动作不仅帮助它们节省能量，还能避开天敌的注意。更有趣的是，树懒的毛发上常年生长着藻类，使它们在树冠中呈现绿色伪装，进一步增强了隐蔽性。图中展示的是霍氏树懒，它是树懒家族中典型的“慢生活”代表。它们几乎整天挂在树上，只有在需要换树时才会缓缓爬到地面。",
+      "headline": "慢节奏的生活",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251020_HoffmansSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 20",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%a0%91%e6%87%92%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20251019_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1921,
+            "Y": 1,
+            "Width": 1026,
+            "Height": 1887,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9b%bd%e9%99%85%e6%a0%91%e6%87%92%e6%97%a5&form=BGABWCTA11&filters=HpDate:\"20251019_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251019",
       "fullstartdate": "20251019",
       "enddate": "20251020",

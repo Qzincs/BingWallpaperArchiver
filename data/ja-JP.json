@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251020",
+      "fullstartdate": "20251020",
+      "enddate": "20251021",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoffmansSloth_JA-JP1255329003_UHD.jpg",
+      "copyrighttext": "© Murray Cooper/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9b%e3%83%95%e3%83%9e%e3%83%b3%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e&form=BGALM&filters=HpDate:\"20251019_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ホフマンナマケモノ, エクアドル",
+      "description": "今日の画像は、ゆったりとした動作が特徴的なナマケモノ。名前の由来は、のんびりとした動きが文字通り「怠け者」に見えたためとされています。英語名は Sloth であり、これも怠惰・ものぐさを意味する言葉となっているほか、生息地の一つであるコスタリカでも Perezoso （ぐうたら者）と呼ばれています…",
+      "headline": "今日は国際ナマケモノの日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251020_HoffmansSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9b%e3%83%95%e3%83%9e%e3%83%b3%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e&form=BGABWCTA7&filters=HpDate:\"20251019_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1921,
+            "Y": 1,
+            "Width": 1026,
+            "Height": 1887,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9b%e3%83%95%e3%83%9e%e3%83%b3%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e&form=BGABWCTA11&filters=HpDate:\"20251019_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251019",
       "fullstartdate": "20251019",
       "enddate": "20251020",

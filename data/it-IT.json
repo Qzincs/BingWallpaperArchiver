@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251020",
+      "fullstartdate": "20251020",
+      "enddate": "20251021",
+      "urlbase": "https://www.bing.com/th?id=OHR.MonteVelino_IT-IT3560922998_UHD.jpg",
+      "copyrighttext": "© ValerioMei/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Monte+Sirente&form=BGALM&filters=HpDate:\"20251019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monte Sirente, L’Aquila, Appennino abruzzese, Abruzzo",
+      "description": "Il Monte Sirente si staglia fiero nel cuore dell’Abruzzo, con la sua cima che tocca il cielo limpido e le sue pendici vestite d’autunno. Nella foto, il contrasto è vivido: il blu intenso sopra, il rosso e il giallo che incendiano il bosco sotto. È il volto stagionale di una montagna che sa essere aspra e dolce insieme. Con i suoi 2.349 metri, il Sirente domina il paesaggio del Parco Regionale Sirente-Velino, tra vallate silenziose e altopiani carsici. La sua forma massiccia, quasi trapezoidale, racconta di antiche origini geologiche e di un cratere misterioso, forse causato da un meteorite caduto migliaia di anni fa.",
+      "headline": "Dove respira la Montagna",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251020_MonteVelino\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.14611,13.61111/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=42.14611,13.61111;S9;Monte Sirente, L’Aquila, Abruzzo&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Monte%20Sirente&satid=id.sid%3A2e7a83c5-4ada-f90a-51a9-e91208a5b248&vdpid=7216070886518947841&mb=42.151195~13.599272~42.141029~13.622961&cardbg=%23F98745&dt=1758553200000&tt=Monte%20Sirente%2C%20Celano%2C%20L%E2%80%99Aquila%2C%20Abruzzo%2C%20Italia&tsts0=%2526ty%253D30%2526q%253DMonte%252520Sirente%2526satid%253Did.sid%25253A2e7a83c5-4ada-f90a-51a9-e91208a5b248%2526vdpid%253D7216070886518947841%2526mb%253D42.151195~13.599272~42.141029~13.622961%2526cardbg%253D%252523F98745%2526dt%253D1758553200000&tstt0=Monte%20Sirente%2C%20Celano%2C%20L%E2%80%99Aquila%2C%20Abruzzo%2C%20Italia&cp=42.146827~12.402107&lvl=8.17&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "20 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+L%e2%80%99Aquila%2c+Appennino+abruzzese%2c+Abruzzo&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  L’Aquila, Appennino abruzzese, Abruzzo"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++L%e2%80%99Aquila%2c+Appennino+abruzzese%2c+Abruzzo&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Monte+Sirente&form=BGABWCTA11&filters=HpDate:\"20251019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251019",
       "fullstartdate": "20251019",
       "enddate": "20251020",

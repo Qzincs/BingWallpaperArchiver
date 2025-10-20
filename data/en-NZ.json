@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251019",
+      "fullstartdate": "20251019",
+      "enddate": "20251020",
+      "urlbase": "https://www.bing.com/th?id=OHR.AppleHarvest_ROW9692877404_UHD.jpg",
+      "copyrighttext": "© Tammi Mild/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=harvesting+apples&form=BGALM&filters=HpDate:\"20251019_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Apples ready for harvest, Minnesota, United States",
+      "description": "This time of the year in Minnesota, United States, carries more than crimson leaves—it brings the crisp promise of apple season. From mid-August through late October, orchards across the state open their rows of Honeycrisp, Haralson and dozens of other cultivars, each bred for flavour, resilience and charm. Today's image captures that moment: branches heavy with ripe fruit, ready for harvest.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=harvesting+apples&form=BGABWCTA7&filters=HpDate:\"20251019_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1648,
+            "Height": 2155,
+            "Label": "apple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=harvesting+apples&form=BGABWCTA11&filters=HpDate:\"20251019_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251018",
       "fullstartdate": "20251018",
       "enddate": "20251019",

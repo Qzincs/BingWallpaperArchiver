@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251019",
+      "fullstartdate": "20251019",
+      "enddate": "20251020",
+      "urlbase": "https://www.bing.com/th?id=OHR.AppleHarvest_PT-BR5524058975_UHD.jpg",
+      "copyrighttext": "© Tammi Mild/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=plantio+de+ma%c3%a7%c3%a3&form=BGALM&filters=HpDate:\"20251019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Macieiras em Minnesota, EUA",
+      "description": "De meados de agosto até o fim de outubro, o estado de Minnesota, nos Estados Unidos, traz consigo a promessa crocante da temporada de maçãs. Pomares por todo o estado abrem suas fileiras de variedades cultivadas por seu sabor, resistência e charme. A imagem de hoje captura esse momento: galhos carregados de frutos maduros, prontos para a colheita.",
+      "headline": "Ciência doce",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251019_AppleHarvest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=plantio+de+ma%c3%a7%c3%a3&form=BGABWCTA7&filters=HpDate:\"20251019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1648,
+            "Height": 2155,
+            "Label": "apple",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=plantio+de+ma%c3%a7%c3%a3&form=BGABWCTA11&filters=HpDate:\"20251019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251018",
       "fullstartdate": "20251018",
       "enddate": "20251019",
