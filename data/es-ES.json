@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251021",
+      "fullstartdate": "20251021",
+      "enddate": "20251022",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_ES-ES9858455543_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Diwali&form=BGALM&filters=HpDate:\"20251020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Una diya en el Templo Dorado durante el Diwali, Amritsar, India",
+      "description": "Diwali es un festival hindú que celebra la esperanza, la prosperidad y el triunfo del bien sobre el mal. Conmemora el regreso victorioso del príncipe Rama al reino de Ayodhya tras derrotar al rey demonio Ravana y también honra a la diosa Lakshmi, que trae riqueza y bienestar, mientras que algunas comunidades rinden culto a Kali.",
+      "headline": "Tradiciones brillantes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251021_DiyaDiwali\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Diwali&form=BGABWCTA7&filters=HpDate:\"20251020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Diwali&form=BGABWCTA11&filters=HpDate:\"20251020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251020",
       "fullstartdate": "20251020",
       "enddate": "20251021",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251020",
+      "fullstartdate": "20251020",
+      "enddate": "20251021",
+      "urlbase": "https://www.bing.com/th?id=OHR.HoffmansSloth_PT-BR5106074004_UHD.jpg",
+      "copyrighttext": "© Murray Cooper/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=dia+internacional+do+bicho+pregui%c3%a7a&form=BGALM&filters=HpDate:\"20251020_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Preguiça-de-hoffmann, Equador",
+      "description": "Como seria bom passar o dia inteiro relaxando, sem fazer absolutamente nada, não é mesmo? É exatamente isso que os bichos-preguiça fazem, e hoje celebramos esse estilo de vida no seu Dia Internacional.",
+      "headline": "Uma vida tranquila",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251020_HoffmansSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=dia+internacional+do+bicho+pregui%c3%a7a&form=BGABWCTA7&filters=HpDate:\"20251020_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1921,
+            "Y": 1,
+            "Width": 1026,
+            "Height": 1887,
+            "Label": "monkey",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=dia+internacional+do+bicho+pregui%c3%a7a&form=BGABWCTA11&filters=HpDate:\"20251020_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251019",
       "fullstartdate": "20251019",
       "enddate": "20251020",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251021",
+      "fullstartdate": "20251021",
+      "enddate": "20251022",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_EN-GB3120748109_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Diwali&form=BGALM&filters=HpDate:\"20251020_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "A diya at the Golden Temple during Diwali, Amritsar, India",
+      "description": "Diwali is a vibrant Hindu festival celebrating hope, prosperity and the triumph of good over evil. It commemorates Prince Rama's victorious return to the kingdom of Ayodhya after defeating the demon king Ravana. The festival also honours the goddess Lakshmi, who is believed to bring wealth and well-being into homes, while some communities worship the goddess Kali. During Diwali, families clean and decorate their homes, exchange sweets and gather for prayers, creating an atmosphere of joy. Central to the celebration are diyas, small oil lamps whose glowing flames symbolise light overcoming darkness and the promise of new beginnings.",
+      "headline": "Glowing traditions",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251021_DiyaDiwali\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/31.619967,74.87648/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=31.619967,74.87648;S9;Golden Temple, Amritsar, Punjab, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=golden%20temple&ss=ypid.YN4070x249298751&mb=31.623805~74.869401~31.61613~74.883564&description=Golden%20Temple%20Road%2C%20Atta%20Mandi%2C%20Amritsar%2C%20Punjab%20143006%C2%B7Temple&cardbg=%23219AB6&dt=1756985400000&tt=Sri%20Harmandir%20Sahib&tsts0=%2526ty%253D18%2526q%253Dgolden%252520temple%2526ss%253Dypid.YN4070x249298751%2526mb%253D31.623805~74.869401~31.61613~74.883564%2526description%253DGolden%252520Temple%252520Road%25252C%252520Atta%252520Mandi%25252C%252520Amritsar%25252C%252520Punjab%252520143006%2525C2%2525B7Temple%2526cardbg%253D%252523219AB6%2526dt%253D1756985400000&tstt0=Sri%20Harmandir%20Sahib&cp=31.578535~53.085938&lvl=4&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Amritsar%2c+India&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Amritsar, India"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Amritsar%2c+India&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Diwali&form=BGABWCTA11&filters=HpDate:\"20251020_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251020",
       "fullstartdate": "20251020",
       "enddate": "20251021",

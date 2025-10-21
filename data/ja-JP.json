@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251021",
+      "fullstartdate": "20251021",
+      "enddate": "20251022",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiyaDiwali_JA-JP1552911829_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%8f%e3%83%aa%e3%83%9e%e3%83%b3%e3%83%87%e3%82%a3%e3%83%ab%e3%83%bb%e3%82%b5%e3%83%bc%e3%83%92%e3%83%96&form=BGALM&filters=HpDate:\"20251020_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ハリマンディル・サーヒブ, インド",
+      "description": "今日はディワリ。インドのヒンドゥー教のお祝いです。毎年 10 ～ 11 月の間の 5 日間にわたって行われており、今年は 10 月 18 日 〜 10 月 22 日にかけて開催されています。インドの様々な神話が関係したお祭りであり、そのうちの一つが、叙事詩「ラーマーヤナ」。主人公ラーマが魔王ラーヴァナを倒し、故郷に戻ったことを祝う日であり、善が悪に勝利したということをお祝いします…",
+      "headline": "今日はディワリ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251021_DiyaDiwali\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/31.619967,74.87648/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=31.619967,74.87648;S9;ハリマンディル・サーヒブ, インド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=golden+temple&ss=ypid.YN4070x249298751&mb=31.623805%7E74.869401%7E31.61613%7E74.883564&description=Golden+Temple+Road%2C+Atta+Mandi%2C+Amritsar%2C+Punjab+143006%C2%B7Temple&cardbg=%23219AB6&dt=1756985400000&tt=Sri+Harmandir+Sahib&tsts0=%2526ty%253D18%2526q%253Dgolden%252520temple%2526ss%253Dypid.YN4070x249298751%2526mb%253D31.623805%7E74.869401%7E31.61613%7E74.883564%2526description%253DGolden%252520Temple%252520Road%25252C%252520Atta%252520Mandi%25252C%252520Amritsar%25252C%252520Punjab%252520143006%2525C2%2525B7Temple%2526cardbg%253D%252523219AB6%2526dt%253D1756985400000&tstt0=Sri+Harmandir+Sahib&cp=31.578535%7E74.882813&lvl=4.0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 21 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " インド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%82%a4%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%8f%e3%83%aa%e3%83%9e%e3%83%b3%e3%83%87%e3%82%a3%e3%83%ab%e3%83%bb%e3%82%b5%e3%83%bc%e3%83%92%e3%83%96&form=BGABWCTA11&filters=HpDate:\"20251020_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251020",
       "fullstartdate": "20251020",
       "enddate": "20251021",
