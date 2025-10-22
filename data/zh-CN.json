@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251022",
+      "fullstartdate": "20251022",
+      "enddate": "20251023",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.BulgariaRocks_ZH-CN0234903972_UHD.jpg",
+      "copyrighttext": "© EvaL Miko/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%b4%9d%e6%b4%9b%e6%a0%bc%e6%8b%89%e9%bd%90%e5%85%8b%e7%9f%b3%e6%9e%97&form=BGALM&filters=HpDate:\"20251021_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "贝洛格拉齐克石林，保加利亚",
+      "description": "在保加利亚巴尔干山脉西麓，贝洛格拉奇克石林如同一座天然画廊，每一块岩石都诉说着独特的故事。这些砂岩与石灰岩柱经过数百万年的风化与侵蚀，形成了千姿百态的奇特造型，当地人坚信其中有些轮廓酷似人物、动物，甚至完整的场景。因此，这些岩石也被赋予了富有想象力的名字，如\"骑手岩\"、\"女学生岩\"、\"僧侣岩\"等。在这片土地上，辨认岩石形状就像在玩一场大自然版的猜谜游戏，既有趣又充满惊喜。",
+      "headline": "刻在石头上",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251022_BulgariaRocks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 22",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%b4%9d%e6%b4%9b%e6%a0%bc%e6%8b%89%e9%bd%90%e5%85%8b%e7%9f%b3%e6%9e%97&form=BGABWCTA7&filters=HpDate:\"20251021_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%b4%9d%e6%b4%9b%e6%a0%bc%e6%8b%89%e9%bd%90%e5%85%8b%e7%9f%b3%e6%9e%97&form=BGABWCTA11&filters=HpDate:\"20251021_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251021",
       "fullstartdate": "20251021",
       "enddate": "20251022",
