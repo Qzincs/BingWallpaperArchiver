@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251023",
+      "fullstartdate": "20251023",
+      "enddate": "20251024",
+      "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_ES-ES0046977195_UHD.jpg",
+      "copyrighttext": "© Oriol Alamany/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Leopardo+de+las+nieves+animal&form=BGALM&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Leopardo de las nieves, Spiti, valle del norte de Himachal Pradesh, Cordillera del Himalaya, India",
+      "description": "¿Alguna vez has intentado ver un leopardo de las nieves en su hábitat natural? Se le llama el “fantasma de las montañas” por una razón: es más fácil encontrar sus huellas que al propio felino. Cada 23 de octubre, la especie recibe atención especial en el Día Internacional del Leopardo de las Nieves, un momento para concienciar sobre su protección y la de su accidentado hogar.",
+      "headline": "Nieve por todas partes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Leopardo+de+las+nieves+animal&form=BGABWCTA7&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1334,
+            "Y": 882,
+            "Width": 1171,
+            "Height": 633,
+            "Label": "leopard",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Leopardo+de+las+nieves+animal&form=BGABWCTA11&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251022",
       "fullstartdate": "20251022",
       "enddate": "20251023",

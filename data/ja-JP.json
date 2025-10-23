@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251023",
+      "fullstartdate": "20251023",
+      "enddate": "20251024",
+      "urlbase": "https://www.bing.com/th?id=OHR.AomoriAutumn2025_JA-JP3668853549_UHD.jpg",
+      "copyrighttext": "© Mekdet/Getty images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%85%ab%e7%94%b2%e7%94%b0%e5%b1%b1%e3%81%ae%e7%b4%85%e8%91%89&form=BGALM&filters=HpDate:\"20251022_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "八甲田山の紅葉, 青森県青森市",
+      "description": "今日 10 月 23 日は二十四節気の「霜降」。朝晩の冷え込みが一層厳しくなり、地面や草木に霜が降りる時期です。木々の紅葉が進む時期でもあり、ここ青森県青森市にある八甲田山は、例年のこの時期、山頂付近が見頃を終え、山麓付近が紅く色づいていきます…",
+      "headline": "今日は霜降",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_AomoriAutumn2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.681087,140.831909/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.681087,140.831909;S9;八甲田山頂公園&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E9%9D%92%E6%A3%AE%E7%9C%8C%20%E9%9D%92%E6%A3%AE%E5%B8%82%20%E5%A4%A7%E5%AD%97%E8%8D%92%E5%B7%9D%E5%AD%97%E5%AF%92%E6%B0%B4%E6%B2%A2%2C%20%E5%85%AB%E7%94%B2%E7%94%B0%E5%B1%B1%E9%A0%82%E5%85%AC%E5%9C%92&ss=ypid.YN5286x6402828&cp=40.675342~140.712425&lvl=11.615529&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e9%9d%92%e6%a3%ae%e7%9c%8c%e9%9d%92%e6%a3%ae%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " 青森県青森市 への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e9%9d%92%e6%a3%ae%e7%9c%8c%e9%9d%92%e6%a3%ae%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%85%ab%e7%94%b2%e7%94%b0%e5%b1%b1%e3%81%ae%e7%b4%85%e8%91%89&form=BGABWCTA11&filters=HpDate:\"20251022_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251022",
       "fullstartdate": "20251022",
       "enddate": "20251023",

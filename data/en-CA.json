@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251022",
+      "fullstartdate": "20251022",
+      "enddate": "20251023",
+      "urlbase": "https://www.bing.com/th?id=OHR.BulgariaRocks_EN-CA8455831888_UHD.jpg",
+      "copyrighttext": "© EvaL Miko/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Belogradchik+Rocks&form=BGALM&filters=HpDate:\"20251022_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Belogradchik Rocks, Bulgaria",
+      "description": "In Bulgaria, on the western slopes of the Balkan Mountains, the Belogradchik Rocks stand like a natural gallery where every formation tells a tale. Shaped over millions of years by erosion, these sandstone and limestone pillars twist and tower into outlines that locals swear resemble people, animals and even entire scenes. That's why names like 'The Horseman,' 'The Schoolgirl' and 'The Monks' have stuck—it's a landscape where spotting shapes feels a bit like playing nature's version of charades.",
+      "headline": "Set in stone",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251022_BulgariaRocks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.62468,22.69277/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.62468,22.69277;S9;Belogradchik Rocks, Bulgaria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Belogradchik%20Rocks&ss=ypid.YN8019x16802349372634234600&mb=43.630523~22.682776~43.618827~22.702775&description=Vidin%203900%20Belogradchik&cardbg=%233DB838&dt=1757086200000&tt=Belogradchik%20Rocks&tsts0=%2526ty%253D18%2526q%253DBelogradchik%252520Rocks%2526ss%253Dypid.YN8019x16802349372634234600%2526mb%253D43.630523~22.682776~43.618827~22.702775%2526description%253DVidin%2525203900%252520Belogradchik%2526cardbg%253D%2525233DB838%2526dt%253D1757086200000&tstt0=Belogradchik%20Rocks&cp=43.7946~12.000807&lvl=5.618121&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Bulgaria&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Bulgaria"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Bulgaria&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Belogradchik+Rocks&form=BGABWCTA11&filters=HpDate:\"20251022_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251021",
       "fullstartdate": "20251021",
       "enddate": "20251022",

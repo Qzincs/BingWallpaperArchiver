@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251023",
+      "fullstartdate": "20251023",
+      "enddate": "20251024",
+      "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_FR-FR6410501585_UHD.jpg",
+      "copyrighttext": "© Oriol Alamany/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+l%c3%a9opard+des+neiges&form=BGALM&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Léopard des neiges avec ses petits, réserve de la biosphère du désert froid, Inde",
+      "description": "Dans la vallée de Spiti, en Inde, la roche ocre se mêle aux neiges éternelles. Dans la réserve de biosphère du désert froid, l'air est rare et les hivers sont impitoyables, et pourtant la vie persiste avec force. Au creux d'une paroi, un léopard des neiges veille sur ses petits dont le pelage tacheté se confond avec la roche. On comprend alors pourquoi on l’appelle le « fantôme des montagnes » : maître de l’invisible, il est essentiel à ces paysages austères.",
+      "headline": "Le maître du camouflage",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.24694,78.05222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=32.24694,78.05222;S9;Vallée de Spiti, Himachal Pradesh, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cold%20Desert%20Spiti%20Valley&satid=id.sid%3Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7&vdpid=7407166632579039233&mb=32.253776~78.037069~32.240111~78.067367&cardbg=%23F98745&dt=1757417400000&tt=Spiti%2C%20India&tsts0=%2526ty%253D30%2526q%253DCold%252520Desert%252520Spiti%252520Valley%2526satid%253Did.sid%25253Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7%2526vdpid%253D7407166632579039233%2526mb%253D32.253776~78.037069~32.240111~78.067367%2526cardbg%253D%252523F98745%2526dt%253D1757417400000&tstt0=Spiti%2C%20India&cp=27.23385~72.325886&lvl=5.8973575&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+r%c3%a9serve+de+la+biosph%c3%a8re+du+d%c3%a9sert+froid%2c+Inde&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  réserve de la biosphère du désert froid, Inde"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++r%c3%a9serve+de+la+biosph%c3%a8re+du+d%c3%a9sert+froid%2c+Inde&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1334,
+            "Y": 882,
+            "Width": 1171,
+            "Height": 633,
+            "Label": "leopard",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+l%c3%a9opard+des+neiges&form=BGABWCTA11&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251022",
       "fullstartdate": "20251022",
       "enddate": "20251023",

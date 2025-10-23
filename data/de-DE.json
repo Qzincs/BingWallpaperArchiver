@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251023",
+      "fullstartdate": "20251023",
+      "enddate": "20251024",
+      "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_DE-DE9074654183_UHD.jpg",
+      "copyrighttext": "© Oriol Alamany/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Internationaler+Tag+des+Schneeleoparden&form=BGALM&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Schneeleopardin mit ihren Jungen, Spitital, Cold Desert Biosphere Reserve, Indien",
+      "description": "Der Internationale Tag des Schneeleoparden wird jedes Jahr am 23. Oktober gefeiert, um auf die Bedrohung dieser seltenen Großkatzen aufmerksam zu machen. Er wurde 2014 von den zwölf Ländern ins Leben gerufen, in denen Schneeleoparden heimisch sind, als Teil der sogenannten „Bischkek-Erklärung“. Ziel dieses Tages ist es, das Bewusstsein für den Schutz ihres natürlichen Lebensraums in den Hochgebirgen Zentralasiens zu stärken und internationale Maßnahmen zur Erhaltung der Art zu fördern. Auch in Deutschland beteiligen sich Zoos und Naturschutzorganisationen, wie der Naturschutzbund Deutschland (NABU), mit Informationskampagnen und Bildungsangeboten an diesem wichtigen Aktionstag.",
+      "headline": "Majestät der Berge",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.24694,78.05222/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=32.24694,78.05222;S9;Spitital, Himachal Pradesh, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cold%20Desert%20Spiti%20Valley&satid=id.sid%3Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7&vdpid=7407166632579039233&mb=32.253776~78.037069~32.240111~78.067367&cardbg=%23F98745&dt=1757417400000&tt=Spiti%2C%20India&tsts0=%2526ty%253D30%2526q%253DCold%252520Desert%252520Spiti%252520Valley%2526satid%253Did.sid%25253Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7%2526vdpid%253D7407166632579039233%2526mb%253D32.253776~78.037069~32.240111~78.067367%2526cardbg%253D%252523F98745%2526dt%253D1757417400000&tstt0=Spiti%2C%20India&cp=27.23385~72.325886&lvl=5.8973575&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "23. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Spitital%2c+Cold+Desert+Biosphere+Reserve%2c+Indien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Reise nach  Spitital, Cold Desert Biosphere Reserve, Indien"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Im Internet suchen, um eine Reise an diesen Ort zu planen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Reise+nach++Spitital%2c+Cold+Desert+Biosphere+Reserve%2c+Indien&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Internet suchen, um eine Reise an diesen Ort zu planen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1334,
+            "Y": 882,
+            "Width": 1171,
+            "Height": 633,
+            "Label": "leopard",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Internationaler+Tag+des+Schneeleoparden&form=BGABWCTA11&filters=HpDate:\"20251022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251022",
       "fullstartdate": "20251022",
       "enddate": "20251023",
