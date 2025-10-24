@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251023",
+      "fullstartdate": "20251023",
+      "enddate": "20251024",
+      "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_EN-CA8504425279_UHD.jpg",
+      "copyrighttext": "© Oriol Alamany/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=International+Day+of+the+Snow+Leopard&form=BGALM&filters=HpDate:\"20251023_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India",
+      "description": "Ever tried spotting a snow leopard in the wild? It's called the 'ghost of the mountains' for a reason—you're more likely to see its pawprints than the big cat itself. But every October 23, the species steps into the spotlight on International Day of the Snow Leopard, a day set aside to protect this elusive predator and its rugged home.",
+      "headline": "Snow much love",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.24694,78.05222/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=32.24694,78.05222;S9;Spiti Valley, Himachal Pradesh, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cold%20Desert%20Spiti%20Valley&satid=id.sid%3Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7&vdpid=7407166632579039233&mb=32.253776~78.037069~32.240111~78.067367&cardbg=%23F98745&dt=1757417400000&tt=Spiti%2C%20India&tsts0=%2526ty%253D30%2526q%253DCold%252520Desert%252520Spiti%252520Valley%2526satid%253Did.sid%25253Aa2ddf9bd-92b8-9a49-7237-399f30acb0c7%2526vdpid%253D7407166632579039233%2526mb%253D32.253776~78.037069~32.240111~78.067367%2526cardbg%253D%252523F98745%2526dt%253D1757417400000&tstt0=Spiti%2C%20India&cp=27.23385~72.325886&lvl=5.8973575&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Spiti+Valley%2c+Cold+Desert+Biosphere+Reserve%2c+India&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Spiti Valley, Cold Desert Biosphere Reserve, India"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Spiti+Valley%2c+Cold+Desert+Biosphere+Reserve%2c+India&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1334,
+            "Y": 882,
+            "Width": 1171,
+            "Height": 633,
+            "Label": "leopard",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=International+Day+of+the+Snow+Leopard&form=BGABWCTA11&filters=HpDate:\"20251023_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251022",
       "fullstartdate": "20251022",
       "enddate": "20251023",

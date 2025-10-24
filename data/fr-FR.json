@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251024",
+      "fullstartdate": "20251024",
+      "enddate": "20251025",
+      "urlbase": "https://www.bing.com/th?id=OHR.QueenMary_FR-FR8887233581_UHD.jpg",
+      "copyrighttext": "© Kit Leong/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Queen+Mary+paquebot&form=BGALM&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vue nocturne du paquebot Queen Mary, Long Beach, Californie, États-Unis",
+      "description": "Avec ses airs de Titanic, on pourrait s'y méprendre… Pourtant, son histoire est bien différente. Sous le ciel étoilé de Californie, le Queen Mary est ancré dans les eaux calmes de Long Beach, sur la côte ouest des États-Unis. Ce paquebot britannique légendaire, lancé en 1936, fut autrefois le joyau de l'Atlantique. Avec ses lignes Art déco et sa vitesse record, il transportait des stars, des rois et des diplomates dans un luxe inégalé. Puis la guerre le métamorphosa : peint en gris, vidé de ses dorures, il devint le « Fantôme gris », chargé de soldats et de silence.",
+      "headline": "La croisière s'amuse d'épouvante !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251024_QueenMary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.76696,118.18923/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=33.76696,118.18923;S9;Long Beach, Californie, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Long%20Beach%2C%20California&satid=id.sid%3A0b412653-c6c4-4e41-b59c-e1214435431f&vdpid=5059794131925073922&mb=33.885475~-118.300506~33.732738~-118.011643&cardbg=%23F98745&tt=Long%20Beach%2C%20CA&tsts0=%2526ty%253D30%2526q%253DLong%252520Beach%25252C%252520California%2526satid%253Did.sid%25253A0b412653-c6c4-4e41-b59c-e1214435431f%2526vdpid%253D5059794131925073922%2526mb%253D33.885475~-118.300506~33.732738~-118.011643%2526cardbg%253D%252523F98745&tstt0=Long%20Beach%2C%20CA&cp=33.809012~-118.264784&lvl=11.649719&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "24 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Long+Beach%2c+Californie%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Voyage vers  Long Beach, Californie, États-Unis"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour planifier un voyage dans cette destination",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Voyage+vers++Long+Beach%2c+Californie%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour planifier un voyage dans cette destination"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 362,
+            "Y": 355,
+            "Width": 3184,
+            "Height": 1367,
+            "Label": "ship",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Queen+Mary+paquebot&form=BGABWCTA11&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251023",
       "fullstartdate": "20251023",
       "enddate": "20251024",

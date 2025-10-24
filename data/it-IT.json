@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251024",
+      "fullstartdate": "20251024",
+      "enddate": "20251025",
+      "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_IT-IT9478392413_UHD.jpg",
+      "copyrighttext": "© Matthew H Irvin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Zucca&form=BGALM&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Zucche in azienda agricola, Carolina del Nord, USA",
+      "description": "L’arancione è il colore dell’autunno, e la zucca ne è il cuore pulsante. Nel North Carolina i campi di zucche si estendono a perdita d’occhio e formano distese dorate, punteggiate da frutti rotondi che maturano sotto il cielo limpido di settembre. Il profumo di terra e di foglie secche pervade l’aria, mentre le fattorie si preparano alla raccolta. Ma la zucca non è solo americana. In Italia è protagonista di una tradizione culinaria ricca e variegata. Dalla vellutata cremosa alle lasagne, dal risotto mantovano ai tortelli emiliani, la zucca si trasforma in comfort food per eccellenza. Dolce o salata, la sua polpa si presta a mille interpretazioni: fritta, al forno, in purea o come ripieno. Anche la pasticceria la celebra, con torte soffici e biscotti speziati.",
+      "headline": "Intagli e ricette",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251024_PumpkinFarm\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Zucca&form=BGABWCTA7&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 996,
+            "Width": 3833,
+            "Height": 1160,
+            "Label": "pumpkin",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Zucca&form=BGABWCTA11&filters=HpDate:\"20251023_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251023",
       "fullstartdate": "20251023",
       "enddate": "20251024",

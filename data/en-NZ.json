@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251023",
+      "fullstartdate": "20251023",
+      "enddate": "20251024",
+      "urlbase": "https://www.bing.com/th?id=OHR.SnowLeopard_ROW0153710664_UHD.jpg",
+      "copyrighttext": "© Oriol Alamany/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Snow+Leopard&form=BGALM&filters=HpDate:\"20251023_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India",
+      "description": "Ever tried spotting a snow leopard in the wild? It's called the 'ghost of the mountains' for a reason—you're more likely to see its pawprints than the big cat itself. It is sturdy and short-legged compared to other big cats, standing over 55 centimetres at the shoulder and measuring 75 to 150 centimetres from head to body.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251023_SnowLeopard\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Snow+Leopard&form=BGABWCTA7&filters=HpDate:\"20251023_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1334,
+            "Y": 882,
+            "Width": 1171,
+            "Height": 633,
+            "Label": "leopard",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Snow+Leopard&form=BGABWCTA11&filters=HpDate:\"20251023_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251022",
       "fullstartdate": "20251022",
       "enddate": "20251023",
