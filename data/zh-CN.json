@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251025",
+      "fullstartdate": "20251025",
+      "enddate": "20251026",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.MartimoaapaFinland_ZH-CN1066271356_UHD.jpg",
+      "copyrighttext": "© romikatarina/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b2%bc%e6%b3%bd%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f&form=BGALM&filters=HpDate:\"20251024_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰",
+      "description": "芬兰的沼泽大多是由泥炭地组成，它们源自大约 12,000 年前上一个冰河时期结束后，沉积物与苔藓不断堆积、分解而成。",
+      "headline": "芬兰的活泥炭地",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251025_MartimoaapaFinland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 25",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b2%bc%e6%b3%bd%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f&form=BGABWCTA7&filters=HpDate:\"20251024_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%b2%bc%e6%b3%bd%e7%94%9f%e6%80%81%e7%b3%bb%e7%bb%9f&form=BGABWCTA11&filters=HpDate:\"20251024_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251024",
       "fullstartdate": "20251024",
       "enddate": "20251025",

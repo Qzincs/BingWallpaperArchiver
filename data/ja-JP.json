@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251025",
+      "fullstartdate": "20251025",
+      "enddate": "20251026",
+      "urlbase": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_JA-JP4112991986_UHD.jpg",
+      "copyrighttext": "© romikatarina/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%a2%e3%82%a2%e3%83%91%e3%81%ae%e6%b3%a5%e7%82%ad%e5%9c%b0&form=BGALM&filters=HpDate:\"20251024_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "マルティモアパの泥炭地, フィンランド",
+      "description": "フィンランドは、北ヨーロッパに位置する共和制国家です。北欧地域に位置しており、地域内で最も冬期が長いことで知られています。19 の県に分かれており、首都ヘルシンキが位置するウーシマー県には、総人口の約 30% が集中しています。一方、北部のラッピ県は国内最大の面積を誇りますが、人口は全体のわずか 3.6% 程度です…",
+      "headline": "空から見たマルティモアパの湿原保護区",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251025_MartimoaapaFinland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/65.837799,25.247766/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=65.837799,25.247766;S9;マルティモアパ, フィンランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Martimoaapa+Finland&ss=ypid.YN8056x15202945840793934637&mb=65.840695%7E25.234888%7E65.834907%7E25.260637&description=Martimoaapa+95255+Simo&cardbg=%233DB838&dt=1757403000000&tt=Martimoaapa&tsts0=%2526ty%253D18%2526q%253DMartimoaapa%252520Finland%2526ss%253Dypid.YN8056x15202945840793934637%2526mb%253D65.840695%7E25.234888%7E65.834907%7E25.260637%2526description%253DMartimoaapa%25252095255%252520Simo%2526cardbg%253D%2525233DB838%2526dt%253D1757403000000&tstt0=Martimoaapa&cp=62.574261%7E25.708657&lvl=4.5&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 25 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          " フィンランド への旅行"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Web を検索してこの地域への旅行を計画する",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=+%e3%83%95%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Web を検索してこの地域への旅行を計画する"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%a2%e3%82%a2%e3%83%91%e3%81%ae%e6%b3%a5%e7%82%ad%e5%9c%b0&form=BGABWCTA11&filters=HpDate:\"20251024_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251024",
       "fullstartdate": "20251024",
       "enddate": "20251025",
