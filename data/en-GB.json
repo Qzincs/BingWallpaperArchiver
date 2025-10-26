@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20251026",
+      "fullstartdate": "20251026",
+      "enddate": "20251027",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_97940428",
+      "copyrighttext": "© csimages/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Piana+Cliffs%2c+Corsica%2c+France&form=BGALM",
+      "title": "Piana Cliffs, Corsica, France",
+      "description": "Les calanches de Piana at sunset, Corsica, France",
+      "headline": "Piana Cliffs, Corsica, France",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Piana+Cliffs%2c+Corsica%2c+France&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251025",
       "fullstartdate": "20251025",
       "enddate": "20251026",

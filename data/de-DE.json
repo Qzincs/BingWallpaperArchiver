@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251026",
+      "fullstartdate": "20251026",
+      "enddate": "20251027",
+      "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_DE-DE1674202755_UHD.jpg",
+      "copyrighttext": "© Matthew H Irvin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=K%c3%bcrbisse&form=BGALM&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kürbisfarm in North Carolina, USA",
+      "description": "Kürbiszeit ist Wohlfühlzeit – und der Herbst zeigt sich von seiner schönsten Seite. Von September bis November erstrahlen die Felder in warmen Orangetönen, aber auch in Weiß und Grün, je nach Sorte. Allein in Deutschland gibt es rund 200 essbare Kürbissorten. Besonders beliebt sind der Hokkaido mit seiner essbaren Schale und nussigen Note, der cremige Butternut und der aromatisch-würzige Muskatkürbis. In dieser Zeit laden viele Bauernhöfe zu Ernteaktionen, Kürbisshows und kreativen Workshops ein. Aus Tausenden von Kürbissen entstehen dort fantasievolle Figuren, die Groß und Klein begeistern – von Märchenwesen bis hin zu Piratenschiffen.",
+      "headline": "Herbstzauber in Orange",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=K%c3%bcrbisse&form=BGABWCTA7&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 996,
+            "Width": 3833,
+            "Height": 1160,
+            "Label": "pumpkin",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=K%c3%bcrbisse&form=BGABWCTA11&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251025",
       "fullstartdate": "20251025",
       "enddate": "20251026",

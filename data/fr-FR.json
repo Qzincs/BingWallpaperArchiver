@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251026",
+      "fullstartdate": "20251026",
+      "enddate": "20251027",
+      "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_FR-FR7536561457_UHD.jpg",
+      "copyrighttext": "© Matthew H Irvin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=citrouille&form=BGALM&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ferme de citrouilles en Caroline du Nord, États-Unis",
+      "description": "Alors que les journées raccourcissent et que la nuit tombe dès 18 heures, un parfum de cannelle flotte dans l’air humide des campagnes de Caroline du Nord. L’automne s’installe doucement et avec lui revient la saison des citrouilles. Comme dans les champs de la Drôme ou du Perche, leurs formes rebondies illuminent le sol de touches orangées, telles des soleils oubliés.",
+      "headline": "N'ayez pas la ci-trouille !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=citrouille&form=BGABWCTA7&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 996,
+            "Width": 3833,
+            "Height": 1160,
+            "Label": "pumpkin",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=citrouille&form=BGABWCTA11&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251025",
       "fullstartdate": "20251025",
       "enddate": "20251026",

@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251026",
+      "fullstartdate": "20251026",
+      "enddate": "20251027",
+      "urlbase": "https://www.bing.com/th?id=OHR.ItalyClock_IT-IT0847273649_UHD.jpg",
+      "copyrighttext": "© scaliger/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ora&form=BGALM&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Torre dell'Orologio di San Marco, Venezia, Veneto",
+      "description": "Ogni ottobre, come per magia, le lancette tornano indietro, segno che è il momento dell’ora solare. Un’ora in più di sonno, un’ora in meno di luce. Venezia si risveglia più lentamente, avvolta da una luce dorata che accarezza i suoi palazzi. Il cambio d’ora non è solo una questione pratica: è un rito che segna l’arrivo dell’autunno, quando il tempo sembra rallentare e invitarci alla contemplazione. E mentre il mondo si adatta, l’orologio di Piazza San Marco continua a scandire il tempo con solenne eleganza, un battito antico che non perde mai il ritmo.",
+      "headline": "Dormiamo un'ora in più",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_ItalyClock\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.434704,12.33891/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.434704,12.33891;S9;Torre dell'Orologio di San Marco, Venezia, Veneto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Torre%20dell%27Orologio%20di%20San%20Marco%2C%20Venezia%2C%20Veneto&ss=ypid.YN1354x17318452150989271043&mb=45.439515~12.332218~45.429894~12.345607&description=Piazza%20San%20Marco%20-%2030124%20Venezia%20%28VE%29&cardbg=%23219AB6&dt=1758898800000&tt=Torre%20dell%27Orologio&tsts0=%2526ty%253D18%2526q%253DTorre%252520dell%252527Orologio%252520di%252520San%252520Marco%25252C%252520Venezia%25252C%252520Veneto%2526ss%253Dypid.YN1354x17318452150989271043%2526mb%253D45.439515~12.332218~45.429894~12.345607%2526description%253DPiazza%252520San%252520Marco%252520-%25252030124%252520Venezia%252520%252528VE%252529%2526cardbg%253D%252523219AB6%2526dt%253D1758898800000&tstt0=Torre%20dell%27Orologio&cp=45.431768~12.328441&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "26 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Venezia%2c+Veneto&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Viaggio con destinazione  Venezia, Veneto"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per pianificare un viaggio in questa località",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Viaggio+con+destinazione++Venezia%2c+Veneto&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per pianificare un viaggio in questa località"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ora&form=BGABWCTA11&filters=HpDate:\"20251025_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251025",
       "fullstartdate": "20251025",
       "enddate": "20251026",

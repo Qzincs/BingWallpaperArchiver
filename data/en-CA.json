@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251025",
+      "fullstartdate": "20251025",
+      "enddate": "20251026",
+      "urlbase": "https://www.bing.com/th?id=OHR.MartimoaapaFinland_EN-CA8581468611_UHD.jpg",
+      "copyrighttext": "© romikatarina/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Martimoaapa+Finland&form=BGALM&filters=HpDate:\"20251025_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Aerial view of peatland in Martimoaapa Mire Reserve, Finland",
+      "description": "Today, we step into the Martimoaapa Mire Reserve in Finland, where wide, cold-climate wetlands and peatlands stretch across a landscape shaped over thousands of years. This reserve is more than just mires—it carries layers of history. During Finland's Prohibition era (1919–1932), smugglers hauled sacks of liquor from Sweden across these bogs, following a 'spirits' route that passed through Martimoaapa. Parts of that path can still be traced today. Imagine trekking with a heavy pack over soggy ground—would you have made it?",
+      "headline": "Finland's living peatland",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251025_MartimoaapaFinland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/65.837799,25.247766/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=65.837799,25.247766;S9;Martimoaapa, Finland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Martimoaapa%20Finland&ss=ypid.YN8056x15202945840793934637&mb=65.840695~25.234888~65.834907~25.260637&description=Martimoaapa%2095255%20Simo&cardbg=%233DB838&dt=1757403000000&tt=Martimoaapa&tsts0=%2526ty%253D18%2526q%253DMartimoaapa%252520Finland%2526ss%253Dypid.YN8056x15202945840793934637%2526mb%253D65.840695~25.234888~65.834907~25.260637%2526description%253DMartimoaapa%25252095255%252520Simo%2526cardbg%253D%2525233DB838%2526dt%253D1757403000000&tstt0=Martimoaapa&cp=62.560606~10.474141&lvl=4.5122595&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Finland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [
+          "Trip to  Finland"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Search the web to plan a trip to this location",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trip+to++Finland&filters=destinationcampaign:\"true\"&form=BGABWCTA9"
+        ],
+        "CTAType": 3,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to plan a trip to this location"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Martimoaapa+Finland&form=BGABWCTA11&filters=HpDate:\"20251025_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251024",
       "fullstartdate": "20251024",
       "enddate": "20251025",
