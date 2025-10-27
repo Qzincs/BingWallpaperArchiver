@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.AutumnColorY25_ZH-CN1551135398_UHD.jpg",
+      "copyrighttext": "© Feng Wei Photography/Getty images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%83%a1%e6%9d%a8%e6%a0%91&form=BGALM&filters=HpDate:\"20251026_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国",
+      "description": "金塔沙漠胡杨林风景区位于甘肃省酒泉市金塔县西部巢湖林场，占地八万余亩，拥有西北地区最大的人工胡杨林。这些古老、耐寒耐旱的胡杨树，是第三纪遗留下来的，创造了“三千年古树”的生态奇观。金波湖水与胡杨林相映成趣，沙枣、柽柳等植物构成了多样的生态系统。",
+      "headline": "千年秘境",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AutumnColorY25\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 27",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%83%a1%e6%9d%a8%e6%a0%91&form=BGABWCTA7&filters=HpDate:\"20251026_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%83%a1%e6%9d%a8%e6%a0%91&form=BGABWCTA11&filters=HpDate:\"20251026_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_ES-ES0390865860_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/FLPA/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=El+cuervo+picogordo&form=BGALM&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "El cuervo picogordo, Montañas Simien, Etiopía",
+      "description": "En lo alto de las montañas de Etiopía, Eritrea y Somalia, el cuervo picogordo ostenta el título de cuervo más grande del mundo. Mide casi setenta centímetros y pesa más de 1,5 kilogramos, alrededor de una cuarta parte más que un cuervo común. Su enorme pico arqueado, pálido en la base y de unos nueve centímetros de largo, es el más grande entre las aves que se posan. Habita principalmente entre 1.500 y 3.400 metros sobre el nivel del mar, en tierras de cultivo, acantilados rocosos e incluso tejados de pueblos de montaña.",
+      "headline": "Cría cuervos…",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=El+cuervo+picogordo&form=BGABWCTA7&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1088,
+            "Y": 618,
+            "Width": 2746,
+            "Height": 1538,
+            "Label": "eagle",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=El+cuervo+picogordo&form=BGABWCTA11&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_DE-DE9134207646_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/FLPA/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Erzrabe&form=BGALM&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Erzrabe, Simien-Nationalpark, Äthiopien",
+      "description": "Der Erzrabe ist der größte Rabe der Welt und einer der symbolträchtigsten Vögel im Nordosten Afrikas. Sein kräftiger Schnabel mit einem markanten weißen Fleck an der Spitze macht ihn zu einer einzigartigen Erscheinung unter den Vögeln dieser Region. Sein schwarzes Gefieder mit violettem Schimmer glänzt in der Sonne, und sein tiefer Ruf hallt durch die Berglandschaften. Auf dem heutigen Foto ist ein Erzrabe im Simien-Nationalpark in Äthiopien zu sehen, einem der bedeutendsten Schutzgebiete des Landes. Diese Art ist bekannt für ihre Intelligenz und ihr soziales Verhalten. Zudem hallt ihr tiefer, kehliger Ruf durch die Berge und unterstreicht ihre imposante Präsenz.",
+      "headline": "König der Lüfte",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Erzrabe&form=BGABWCTA7&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1088,
+            "Y": 618,
+            "Width": 2746,
+            "Height": 1538,
+            "Label": "eagle",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Erzrabe&form=BGABWCTA11&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",

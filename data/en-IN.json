@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OHR.ChhathPuja_EN-IN6737950149_UHD.jpg",
+      "copyrighttext": "© Dinodia Photo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Chhath+Puja&form=BGALM&filters=HpDate:\"20251026_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "People worshipping the sun on Chhath, at Juhu Beach, Mumbai, Maharashtra",
+      "description": "Today's image features Mumbai's Juhu Beach, where waves meet devotion as thousands gather for Chhath Puja, one of India's most ancient and rigorous festivals. Though rooted in Bihar, Jharkhand and eastern Uttar Pradesh, the tradition travels with communities, turning city shorelines into spaces of worship beneath the open sky. Chhath is dedicated to Surya, the Sun God, and his consort Usha, revered as Chhathi Maiya. Devotees fast, pray and thank the Sun God for sustaining life while seeking blessings for health, prosperity and children's well-being.",
+      "headline": "Chhath on the shore",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_ChhathPuja\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.094767,72.839256/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=19.094767,72.839256;S9;Juhu%20Beach%2C%20Mumbai&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Juhu%20Beach%2C%20Mumbai&mb=19.110062~72.812083~19.0795~72.866395&cardbg=%23F98745&dt=1758799800000&tt=Juhu%2C%20Mumbai%2C%20Maharashtra&tsts0=%2526ty%253D18%2526q%253DJuhu%252520Beach%25252C%252520Mumbai%2526mb%253D19.110062~72.812083~19.0795~72.866395%2526cardbg%253D%252523F98745%2526dt%253D1758799800000&tstt0=Juhu%2C%20Mumbai%2C%20Maharashtra&cp=19.081898~67.934993&lvl=5.384701&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+at+Juhu+Beach%2c+Mumbai%2c+Maharashtra&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "20251027",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "",
+        "ButtonText": "Make a jack-o'-lantern with Bing Image Creator",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://www.bing.com/images/create?recreate=A%20realistic%20jack-o%27-lantern%20with%20a%20wide%20smiling%20mouth,%20triangle%20eyes%20and%20a%20triangle%20nose&form=BGABIC"
+        ],
+        "CTAType": 4,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Make a jack-o'-lantern with Bing Image Creator"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chhath+Puja&form=BGABWCTA11&filters=HpDate:\"20251026_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",

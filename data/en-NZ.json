@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251026",
+      "fullstartdate": "20251026",
+      "enddate": "20251027",
+      "urlbase": "https://www.bing.com/th?id=OHR.PumpkinFarm_ROW0518823159_UHD.jpg",
+      "copyrighttext": "© Matthew H Irvin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=pumpkin&form=BGALM&filters=HpDate:\"20251026_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pumpkin farm in North Carolina, United States",
+      "description": "A pumpkin farm is a patchwork of colour, life and tradition, with every gourd waiting its turn to shine. Walking through the fields, you'll spot pumpkins of all shapes and sizes, from small decorative varieties to the giants that have inspired growers worldwide. Interestingly, the heaviest pumpkin ever recorded weighed an incredible 1,246.9 kilograms. Despite their solid appearance, pumpkins can float effortlessly because they are 92% water. These gourds have rolled their way into pies, porches, lattes and parades. The colour of pumpkins comes from beta-carotene, but not all are orange—some grow white, green or even blue. Their utility doesn't end there—pumpkins have stood guard as scarecrows, been launched in pumpkin-chucking contests and even hollowed out for boat races.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251026_PumpkinFarm\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=pumpkin&form=BGABWCTA7&filters=HpDate:\"20251026_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 996,
+            "Width": 3833,
+            "Height": 1160,
+            "Label": "pumpkin",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=pumpkin&form=BGABWCTA11&filters=HpDate:\"20251026_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251025",
       "fullstartdate": "20251025",
       "enddate": "20251026",

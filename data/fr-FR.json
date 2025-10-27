@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OHR.ChampagneDay_FR-FR1389141387_UHD.jpg",
+      "copyrighttext": "© Daniele SCHNEIDER/Photononstop/Alamy Stock Photo",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+du+champagne&form=BGALM&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Grappe de raisins noirs, vignoble de Champagne",
+      "description": "Sous le ciel d'automne, les coteaux de Champagne se parent de mille couleurs. Les feuilles de vigne rougissent et s'embrasent, encadrant les grappes de pinot noir charnues et bleutées, prêtes à livrer leur secret. On entend encore le pas des vendangeurs qui, depuis des siècles, récoltent ce fruit fragile avec patience et respect. Chaque baie porte ici la mémoire des sols crayeux, de la lumière filtrée par les brumes matinales et du souffle constant des vents venus de la Marne.",
+      "headline": "Champagne !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_ChampagneDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+du+champagne&form=BGABWCTA7&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+du+champagne&form=BGABWCTA11&filters=HpDate:\"20251026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",
