@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251028",
+      "fullstartdate": "20251028",
+      "enddate": "20251029",
+      "urlbase": "https://www.bing.com/th?id=OHR.TepliceRocks_ES-ES0482796188_UHD.jpg",
+      "copyrighttext": "© Kseniya_Milner/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rocas+Adr%c5%a1pach+Teplice&form=BGALM&filters=HpDate:\"20251027_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Puerta gótica en las rocas de Adršpach-Teplice, Bohemia, República Checa",
+      "description": "Desde visitantes del siglo XVIII hasta senderos tallados en roca, esta ciudad rocosa narra una historia de supervivencia. En la región checa de Hradec Králové, las rocas de Adršpach-Teplice forman el laberinto de arenisca más grande de Europa Central. Durante siglos, los acantilados y pasadizos permanecieron cubiertos por bosque, hasta que un gran incendio despejó la zona. Arcos, torres y pasillos sinuosos surgieron de las cenizas, y las primeras rutas de senderismo fueron talladas en la roca. Exploradores y poetas dejaron sus huellas con inscripciones que capturaron la belleza salvaje y encantadora del lugar.",
+      "headline": "Entrada al paraíso rocoso",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_TepliceRocks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rocas+Adr%c5%a1pach+Teplice&form=BGABWCTA7&filters=HpDate:\"20251027_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rocas+Adr%c5%a1pach+Teplice&form=BGABWCTA11&filters=HpDate:\"20251027_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251027",
       "fullstartdate": "20251027",
       "enddate": "20251028",

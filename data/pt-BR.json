@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_PT-BR7550569316_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/FLPA/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Corvo+de+bico+grosso+no+Brasil&form=BGALM&filters=HpDate:\"20251027_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Corvo-de-bico-grosso, Montanhas Simien, Etiópia",
+      "description": "O corvo-de-bico-grosso é o maior corvo do mundo e ilustra nossa imagem de hoje. É encontrado nas montanhas da Etiópia, Eritreia e Somália, entre 1.500 e 3.400 metros de altitude. Mede cerca de 70 centímetros e pesa mais de um quilo, sendo 25% mais pesado que o corvo-comum. Seu bico arqueado, claro na base e com cerca de nove centímetros, é o maior entre as aves que pousam em galhos.",
+      "headline": "O maior corvo do mundo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Corvo+de+bico+grosso+no+Brasil&form=BGABWCTA7&filters=HpDate:\"20251027_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1088,
+            "Y": 618,
+            "Width": 2746,
+            "Height": 1538,
+            "Label": "eagle",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Corvo+de+bico+grosso+no+Brasil&form=BGABWCTA11&filters=HpDate:\"20251027_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",

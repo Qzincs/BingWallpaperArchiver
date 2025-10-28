@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251028",
+      "fullstartdate": "20251028",
+      "enddate": "20251029",
+      "urlbase": "https://www.bing.com/th?id=OHR.TepliceRocks_JA-JP4817805390_UHD.jpg",
+      "copyrighttext": "© Kseniya_Milner/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%89%e3%83%ab%e3%82%b7%e3%83%a5%e3%83%91%e3%83%95%3d%e3%83%86%e3%83%97%e3%83%aa%e3%83%84%e3%82%a7%e5%a5%87%e5%b2%a9%e7%be%a4&form=BGALM&filters=HpDate:\"20251027_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "アドルシュパフ=テプリツェ奇岩群, チェコ共和国",
+      "description": "「岩の迷宮」とも称されるアドルシュパフ=テプリツェ奇岩群。チェコ共和国にある壮大な自然の奇観で、巨大な岩柱や細い回廊、不思議な形をした岩が数えきれないほど立ち並んでいます。もともとは森に覆われていましたが、1824 年の山火事によって木々が焼失し、岩々が姿を現しました…",
+      "headline": "岩の迷宮",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_TepliceRocks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.618927,16.108519/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=50.618927,16.108519;S9;アドルシュパフ=テプリツェ奇岩群, チェコ共和国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Adr%C5%A1pach-Teplice%20Rocks&satid=id.sid%3A0daafcd1-5f56-eaf0-37b2-208a7bb618b6&vdpid=7427257042152194049&mb=50.616823~16.099842~50.605957~16.13014&cardbg=%23F98745&dt=1756902600000&tt=Adr%C5%A1pach-Teplice%20Rocks&tsts0=%2526ty%253D30%2526q%253DAdr%2525C5%2525A1pach-Teplice%252520Rocks%2526satid%253Did.sid%25253A0daafcd1-5f56-eaf0-37b2-208a7bb618b6%2526vdpid%253D7427257042152194049%2526mb%253D50.616823~16.099842~50.605957~16.13014%2526cardbg%253D%252523F98745%2526dt%253D1756902600000&tstt0=Adr%C5%A1pach-Teplice%20Rocks&cp=47.854934~9.955265&lvl=5.3065815&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 28 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%81%e3%82%a7%e3%82%b3%e5%85%b1%e5%92%8c%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%89%e3%83%ab%e3%82%b7%e3%83%a5%e3%83%91%e3%83%95%3d%e3%83%86%e3%83%97%e3%83%aa%e3%83%84%e3%82%a7%e5%a5%87%e5%b2%a9%e7%be%a4&form=BGABWCTA7&filters=HpDate:\"20251027_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%89%e3%83%ab%e3%82%b7%e3%83%a5%e3%83%91%e3%83%95%3d%e3%83%86%e3%83%97%e3%83%aa%e3%83%84%e3%82%a7%e5%a5%87%e5%b2%a9%e7%be%a4&form=BGABWCTA11&filters=HpDate:\"20251027_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251027",
       "fullstartdate": "20251027",
       "enddate": "20251028",

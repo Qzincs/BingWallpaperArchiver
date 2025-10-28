@@ -1,6 +1,56 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OBGA.OIGP.JackoLatern",
+      "copyrighttext": "© Created with Bing Image Creator",
+      "copyrightlink": "https://www.bing.com/images/create?recreate=A%20realistic%20jack-o%27-lantern%20with%20a%20wide%20smiling%20mouth,%20triangle%20eyes%20and%20a%20triangle%20nose&form=BGABIC",
+      "title": "Jack-o'-lantern",
+      "description": "A realistic jack-o'-lantern with a wide smiling mouth, triangle eyes and a triangle nose",
+      "headline": "Jack-o'-lantern",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "20251027",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "",
+        "ButtonText": "Make a jack-o'-lantern with Bing Image Creator",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://www.bing.com/images/create?recreate=A%20realistic%20jack-o%27-lantern%20with%20a%20wide%20smiling%20mouth,%20triangle%20eyes%20and%20a%20triangle%20nose&form=BGABIC"
+        ],
+        "CTAType": 4,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Make a jack-o'-lantern with Bing Image Creator"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",

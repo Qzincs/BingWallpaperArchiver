@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251028",
+      "fullstartdate": "20251028",
+      "enddate": "20251029",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.TepliceRocks_ZH-CN1785316311_UHD.jpg",
+      "copyrighttext": "© Kseniya_Milner/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%93%a5%e7%89%b9%e5%bc%8f%e6%8b%b1%e9%97%a8&form=BGALM&filters=HpDate:\"20251027_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "安德尔施帕赫-特普利采岩石林的哥特式拱门, 捷克",
+      "description": "从18世纪的最早来访者，到大火烧出小径的故事，这座“岩石之城”一直在诉说着生存的传奇。阿德尔什帕赫–特普利采岩石群位于捷克赫拉德茨–克拉洛韦州，是中欧最大的砂岩迷宫。几个世纪以来，这片悬崖与通道一直被森林覆盖，直到一场大火将树林烧尽，岩石的拱门、塔楼和蜿蜒的廊道才从灰烬中显露出来。最初的徒步小径由此开辟。不久之后，探险家和诗人用石刻铭文留下了他们的印记，描绘出一个既狂野又迷人的目的地。",
+      "headline": "通往石之奇境的大门",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_TepliceRocks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 28",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%93%a5%e7%89%b9%e5%bc%8f%e6%8b%b1%e9%97%a8&form=BGABWCTA7&filters=HpDate:\"20251027_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%93%a5%e7%89%b9%e5%bc%8f%e6%8b%b1%e9%97%a8&form=BGABWCTA11&filters=HpDate:\"20251027_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251027",
       "fullstartdate": "20251027",
       "enddate": "20251028",

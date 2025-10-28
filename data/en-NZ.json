@@ -1,6 +1,85 @@
 {
   "images": [
     {
+      "startdate": "20251027",
+      "fullstartdate": "20251027",
+      "enddate": "20251028",
+      "urlbase": "https://www.bing.com/th?id=OHR.AfricanRaven_ROW0614133197_UHD.jpg",
+      "copyrighttext": "© Ignacio Yufera/FLPA/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=thick+billed+raven&form=BGALM&filters=HpDate:\"20251027_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Thick-billed raven, Simien Mountains, Ethiopia",
+      "description": "Perched high in the mountains of Ethiopia, Eritrea and Somalia, the thick-billed raven holds the title of the world's largest raven. At more than 70 centimetres in length and weighing over a kilogram, it is about a quarter heavier than the common raven. Its enormous, arched bill—pale at the base and close to 8 centimetres long—is the largest among perching birds. These ravens live mostly between 1,500 and 3,400 metres above sea level, found across farmland, rocky cliffs and even rooftops in mountain towns.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251027_AfricanRaven\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "20251027",
+        "SearchQueries": [
+          ""
+        ],
+        "TooltipText": "",
+        "ButtonText": "Make a jack-o'-lantern with Bing Image Creator",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://www.bing.com/images/create?recreate=A%20realistic%20jack-o%27-lantern%20with%20a%20wide%20smiling%20mouth,%20triangle%20eyes%20and%20a%20triangle%20nose&form=BGABIC"
+        ],
+        "CTAType": 4,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Make a jack-o'-lantern with Bing Image Creator"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1088,
+            "Y": 618,
+            "Width": 2746,
+            "Height": 1538,
+            "Label": "eagle",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=thick+billed+raven&form=BGABWCTA11&filters=HpDate:\"20251027_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251026",
       "fullstartdate": "20251026",
       "enddate": "20251027",
