@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251029",
+      "fullstartdate": "20251029",
+      "enddate": "20251030",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_IT-IT1040239574_UHD.jpg",
+      "copyrighttext": "© Lukas Jonaitis/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Ocotea+foetens&form=BGALM&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ocotea foetens nella foresta di Fanal, Madeira, Portogallo",
+      "description": "No, non ci troviamo in una foresta di spettri uscita da un racconto di Edgar Allan Poe, ma potremmo facilmente crederlo. La nebbia avvolge i tronchi contorti come un velo di silenzio, e l’atmosfera sembra sospesa tra sogno e oblio. Eppure, siamo sull’isola portoghese di Madeira, distante circa 960 chilometri dalla terraferma, dove il tempo sembra essersi fermato.",
+      "headline": "Guardiani del verde eterno",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.371666,-16.274998/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=32.371666,-16.274998;S9;Madeira, Portogallo&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Madeira&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.620631~30.0271~-13.502359&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.620631~30.0271~-13.502359%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=39.790702~-51.683346&lvl=3.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29 ottobre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Madeira%2c+Portogallo&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ocotea+foetens&form=BGABWCTA7&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ocotea+foetens&form=BGABWCTA11&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251028",
       "fullstartdate": "20251028",
       "enddate": "20251029",

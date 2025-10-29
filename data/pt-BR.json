@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251028",
+      "fullstartdate": "20251028",
+      "enddate": "20251029",
+      "urlbase": "https://www.bing.com/th?id=OHR.PublicServ_PT-BR4483210857_UHD.jpg",
+      "copyrighttext": "© Diego Grandi/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=dia+do+servidor+p%c3%bablico&form=BGALM&filters=HpDate:\"20251028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Congresso Nacional ao pôr do sol, Brasília, Distrito Federal",
+      "description": "Imagine um país em que escolas não abrem, estradas se desgastam sem reparo, certidões deixam de ser emitidas, vacinas não chegam aos postos e tribunais permanecem silenciosos. Esse seria o vazio sem servidores públicos — mais de 12 milhões de homens e mulheres que mantêm a vida coletiva em andamento, quase sempre longe dos holofotes.",
+      "headline": "O Brasil dos bastidores",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251028_PublicServ\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=dia+do+servidor+p%c3%bablico&form=BGABWCTA7&filters=HpDate:\"20251028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 204,
+            "Width": 3833,
+            "Height": 989,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=dia+do+servidor+p%c3%bablico&form=BGABWCTA11&filters=HpDate:\"20251028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251027",
       "fullstartdate": "20251027",
       "enddate": "20251028",

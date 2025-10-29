@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251029",
+      "fullstartdate": "20251029",
+      "enddate": "20251030",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_ES-ES0574680440_UHD.jpg",
+      "copyrighttext": "© Lukas Jonaitis/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Laurisilva+de+Madeira&form=BGALM&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Árboles antiguos en el Bosque de Fanal (Laurisilva de Madeira), Porto Moniz, isla de Madeira, Portugal",
+      "description": "La isla portuguesa de Madeira, a unos 1.000 kilómetros al suroeste de Portugal continental, alberga un bosque como ningún otro. En sus laderas septentrionales se encuentra el bosque de Fanal, donde velos de niebla se deslizan entre árboles centenarios. Forma parte de la laurisilva de Madeira, una reliquia excepcional de un tipo de bosque que alguna vez estuvo muy extendido en el planeta. La laurisilva de Madeira es la mayor área sobreviviente de su tipo, con aproximadamente el 90 % considerado bosque primario. Hogar de plantas y animales únicos, incluidas especies endémicas como la paloma de dedos largos de Madeira, constituye un museo vivo de historia natural.",
+      "headline": "El escondite de las hadas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Laurisilva+de+Madeira&form=BGABWCTA7&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Laurisilva+de+Madeira&form=BGABWCTA11&filters=HpDate:\"20251028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251028",
       "fullstartdate": "20251028",
       "enddate": "20251029",

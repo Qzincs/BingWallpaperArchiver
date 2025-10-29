@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251029",
+      "fullstartdate": "20251029",
+      "enddate": "20251030",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_JA-JP5058622515_UHD.jpg",
+      "copyrighttext": "© Lukas Jonaitis/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9e%e3%83%87%e3%82%a4%e3%83%a9%e5%b3%b6+%e3%83%95%e3%82%a1%e3%83%8a%e3%83%ab%e3%81%ae%e6%a3%ae&form=BGALM&filters=HpDate:\"20251028_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "マデイラ島のファナルの森, ポルトガル",
+      "description": "神秘的な雰囲気が漂う「ファナルの森 (Fanal Forest) 」。ポルトガル領マデイラ島に位置するこの森には、樹齢数百年の月桂樹が立ち並び、ねじれた枝や苔むした幹が独特の景観を生み出しています。特に、霧が立ち込める早朝には、まるで別世界に迷い込んだかのような幻想的な光景が広がります…",
+      "headline": "霧に包まれた幻想の森",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.75,-17/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=32.75,-17;S9;マデイラ島, ポルトガル&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Madeira&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.620631~30.0271~-13.502359&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.620631~30.0271~-13.502359%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=39.790702~-51.683346&lvl=3.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 29 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%9d%e3%83%ab%e3%83%88%e3%82%ac%e3%83%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9e%e3%83%87%e3%82%a4%e3%83%a9%e5%b3%b6+%e3%83%95%e3%82%a1%e3%83%8a%e3%83%ab%e3%81%ae%e6%a3%ae&form=BGABWCTA7&filters=HpDate:\"20251028_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9e%e3%83%87%e3%82%a4%e3%83%a9%e5%b3%b6+%e3%83%95%e3%82%a1%e3%83%8a%e3%83%ab%e3%81%ae%e6%a3%ae&form=BGABWCTA11&filters=HpDate:\"20251028_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251028",
       "fullstartdate": "20251028",
       "enddate": "20251029",
