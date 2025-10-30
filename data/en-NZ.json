@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251029",
+      "fullstartdate": "20251029",
+      "enddate": "20251030",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_ROW0809161285_UHD.jpg",
+      "copyrighttext": "© Lukas Jonaitis/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Laurissilva+of+Madeira&form=BGALM&filters=HpDate:\"20251029_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ancient til trees in Fanal Forest, island of Madeira, Portugal",
+      "description": "The Portuguese island of Madeira—about 965 kilometres southwest of mainland Portugal—hides a forest unlike any other. On its northern slopes lies Fanal Forest, where veils of mist drift through centuries-old til trees. These are part of the Laurissilva of Madeira—an outstanding relict of a once widespread laurel forest type. Laurissilva is the largest surviving area of its kind, with about 90% considered primary forest. Home to a unique array of plants and animals, including endemic species such as the Madeiran long-toed pigeon, it remains a living museum of natural history.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Laurissilva+of+Madeira&form=BGABWCTA7&filters=HpDate:\"20251029_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Laurissilva+of+Madeira&form=BGABWCTA11&filters=HpDate:\"20251029_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251028",
       "fullstartdate": "20251028",
       "enddate": "20251029",

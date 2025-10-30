@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251029",
+      "fullstartdate": "20251029",
+      "enddate": "20251030",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_PT-BR7092033197_UHD.jpg",
+      "copyrighttext": "© Lukas Jonaitis/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Floresta+Laurissilva+Madeira&form=BGALM&filters=HpDate:\"20251029_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Antigas árvores de til na Floresta do Fanal, Ilha da Madeira, Portugal",
+      "description": "Na ilha portuguesa da Madeira, a Floresta do Fanal parece emergir da névoa que a envolve. Ela integra a Floresta de Laurissilva, um Patrimônio Mundial da UNESCO com cerca de 15 mil hectares. É um raro fragmento de um ecossistema que surgiu há quase 20 milhões de anos e hoje sobrevive apenas em alguns arquipélagos do Atlântico, conhecidos como Macaronésia — incluindo Madeira, Açores, Canárias e Cabo Verde.",
+      "headline": "Enraizadas na história",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 out. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Floresta+Laurissilva+Madeira&form=BGABWCTA7&filters=HpDate:\"20251029_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Floresta+Laurissilva+Madeira&form=BGABWCTA11&filters=HpDate:\"20251029_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251028",
       "fullstartdate": "20251028",
       "enddate": "20251029",

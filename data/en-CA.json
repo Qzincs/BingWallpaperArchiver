@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251029",
+      "fullstartdate": "20251029",
+      "enddate": "20251030",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanalForest_EN-CA8761843503_UHD.jpg",
+      "copyrighttext": "© Lukas Jonaitis/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Laurissilva+of+Madeira&form=BGALM&filters=HpDate:\"20251029_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ancient til trees in Fanal Forest, island of Madeira, Portugal",
+      "description": "The Portuguese island of Madeira— about 965 kilometres southwest of mainland Portugal—hides a forest unlike any other. On its northern slopes lies Fanal Forest, where veils of mist drift through centuries-old til trees. These are part of the Laurissilva of Madeira—an outstanding relict of a once widespread laurel forest type. Laurissilva is the largest surviving area of its kind, with about 90% considered primary forest. Home to a unique array of plants and animals, including endemic species such as the Madeiran long-toed pigeon, it remains a living museum of natural history.",
+      "headline": "Rooted in time",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251029_FanalForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.371666,-16.274998/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=32.371666,-16.274998;S9;Island of Madeira, Portugal&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Madeira&satid=id.sid%3Afd1c338d-a716-e095-102a-5ac3106ddd68&vdpid=161481742&mb=33.107903~-19.620631~30.0271~-13.502359&cardbg=%23F98745&tt=Madeira%20Island%2C%20Portugal&tsts0=%2526ty%253D30%2526q%253DMadeira%2526satid%253Did.sid%25253Afd1c338d-a716-e095-102a-5ac3106ddd68%2526vdpid%253D161481742%2526mb%253D33.107903~-19.620631~30.0271~-13.502359%2526cardbg%253D%252523F98745&tstt0=Madeira%20Island%2C%20Portugal&cp=39.790702~-51.683346&lvl=3.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct. 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+island+of+Madeira%2c+Portugal&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Laurissilva+of+Madeira&form=BGABWCTA7&filters=HpDate:\"20251029_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Laurissilva+of+Madeira&form=BGABWCTA11&filters=HpDate:\"20251029_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251028",
       "fullstartdate": "20251028",
       "enddate": "20251029",

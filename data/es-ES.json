@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251030",
+      "fullstartdate": "20251030",
+      "enddate": "20251031",
+      "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_ES-ES0743477785_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Feria+de+Pushkar&form=BGALM&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Dromedarios en Jaisalmer, Rajasthan, India",
+      "description": "Cada otoño, la ciudad desértica de Pushkar, en Rajasthan (India), cobra vida con una de las celebraciones más singulares del mundo: la Feria del Camello de Pushkar. Coincide con el mes lunar hindú de Kartik y suele celebrarse entre finales de octubre y principios de noviembre. Este año, las festividades se prolongan hasta el 5 de noviembre, marcando la temporada más esperada de la región.",
+      "headline": "Bello cual camello",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Feria+de+Pushkar&form=BGABWCTA7&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Feria+de+Pushkar&form=BGABWCTA11&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251029",
       "fullstartdate": "20251029",
       "enddate": "20251030",

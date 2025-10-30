@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251030",
+      "fullstartdate": "20251030",
+      "enddate": "20251031",
+      "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_FR-FR0781642371_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Foire+aux+chameaux+de+Pushkar&form=BGALM&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chameaux d’Arabie à Jaisalmer, Rajasthan, Inde",
+      "description": "Sous le ciel pourpre du Rajasthan, les dunes de Jaisalmer se parent de reflets dorés tandis que les silhouettes des chameaux avancent lentement dans la lumière du soir. Plus à l'est, la petite ville de Pushkar s'anime chaque automne à l'occasion de l'une des fêtes les plus vibrantes du pays : la foire aux chameaux.",
+      "headline": "Le « bosse » du sable",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.49028,74.55417/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=26.49028,74.55417;S9;Pushkar, Rajasthan, Inde&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Foire+aux+chameaux+de+Pushkar&form=BGABWCTA7&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Foire+aux+chameaux+de+Pushkar&form=BGABWCTA11&filters=HpDate:\"20251029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251029",
       "fullstartdate": "20251029",
       "enddate": "20251030",

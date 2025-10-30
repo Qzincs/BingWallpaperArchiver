@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251030",
+      "fullstartdate": "20251030",
+      "enddate": "20251031",
+      "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%97%e3%82%b7%e3%83%a5%e3%82%ab%e3%83%ab%e3%83%bb%e3%82%ad%e3%83%a3%e3%83%a1%e3%83%ab%e3%83%95%e3%82%a7%e3%82%a2&form=BGALM&filters=HpDate:\"20251029_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "砂漠を歩くラクダたち, インド ラージャスターン州",
+      "description": "インド・ラージャスターン州の町プシュカルでは、今日 10 月 30 日から 11 月 5 日まで、世界最大級のラクダ市「プシュカル・キャメルフェア」が開催されます。もともとはラクダや家畜の売買を目的とした動物商たちによる市でしたが、現在では観光客や写真家を魅了する文化イベントとしても知られています…",
+      "headline": "今日からプシュカル・キャメルフェア",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.49028,74.55417/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=26.49028,74.55417;S9;プシュカル, インド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Pushkar%2C%20Rajasthan%2C%20India&satid=id.sid%3Acd14d4fa-ce4b-5053-4acf-86cba4e8d60c&vdpid=7411100137893658625&mb=26.629597~74.329467~26.445932~74.693276&cardbg=%23F98745&tt=Pushkar%2C%20Rajasthan%2C%20India&tsts0=%2526ty%253D30%2526q%253DPushkar%25252C%252520Rajasthan%25252C%252520India%2526satid%253Did.sid%25253Acd14d4fa-ce4b-5053-4acf-86cba4e8d60c%2526vdpid%253D7411100137893658625%2526mb%253D26.629597~74.329467~26.445932~74.693276%2526cardbg%253D%252523F98745&tstt0=Pushkar%2C%20Rajasthan%2C%20India&cp=31.474595~63.913224&lvl=4.233612&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 30 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89+%e3%83%a9%e3%83%bc%e3%82%b8%e3%83%a3%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%97%e3%82%b7%e3%83%a5%e3%82%ab%e3%83%ab%e3%83%bb%e3%82%ad%e3%83%a3%e3%83%a1%e3%83%ab%e3%83%95%e3%82%a7%e3%82%a2&form=BGABWCTA7&filters=HpDate:\"20251029_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%97%e3%82%b7%e3%83%a5%e3%82%ab%e3%83%ab%e3%83%bb%e3%82%ad%e3%83%a3%e3%83%a1%e3%83%ab%e3%83%95%e3%82%a7%e3%82%a2&form=BGABWCTA11&filters=HpDate:\"20251029_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251029",
       "fullstartdate": "20251029",
       "enddate": "20251030",

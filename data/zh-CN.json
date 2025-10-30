@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251030",
+      "fullstartdate": "20251030",
+      "enddate": "20251031",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.PushkarFair_ZH-CN2069143641_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%aa%86%e9%a9%bc&form=BGALM&filters=HpDate:\"20251029_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "杰伊瑟尔梅尔的骆驼, 拉贾斯坦邦, 印度",
+      "description": "每到秋季，印度拉贾斯坦邦的沙漠小镇普什卡都会因一场普什卡骆驼节而热闹非凡。这一节庆与印度教的卡提克月相对应，通常在公历10月下旬至11月初举行。今年的庆典自今日起至11月5日，成为了当地一年中最令人期待的季节。",
+      "headline": "蹄声、色彩与传承",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 30",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%aa%86%e9%a9%bc&form=BGABWCTA7&filters=HpDate:\"20251029_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%aa%86%e9%a9%bc&form=BGABWCTA11&filters=HpDate:\"20251029_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251029",
       "fullstartdate": "20251029",
       "enddate": "20251030",
