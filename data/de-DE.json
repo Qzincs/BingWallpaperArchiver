@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251031",
+      "fullstartdate": "20251031",
+      "enddate": "20251101",
+      "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069_UHD.jpg",
+      "copyrighttext": "© blue sky in my pocket/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Schloss+Bran+Bra%c8%99ov&form=BGALM&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eingang zum Schloss Bran, Brașov, Rumänien",
+      "description": "Das ist der Eingang zum Schloss Bran in Brașov in Rumänien – und dies ist keineswegs ein gewöhnlicher Eingang: Es ist das Tor zum Geheimnis, zum Mythos … und zum Schrecken! Dieses Schloss, berühmt für seine Verbindung zur Legende des Grafen Dracula, erhebt sich majestätisch in den Karpaten und scheint die dunklen Geheimnisse Transsilvaniens zu bewachen. Zu Halloween verwandelt sich das Schloss: gedämpftes Licht, unheimliche Geräusche und nächtliche Führungen, die selbst die Mutigsten erschaudern lassen. Wussten Sie, dass es unter dem Schloss geheime Tunnel gibt? Ideal für eine Flucht … oder um für immer zu verschwinden.",
+      "headline": "Unter dem Zauber von Halloween",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31. Okt.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Schloss+Bran+Bra%c8%99ov&form=BGABWCTA7&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 1,
+            "Width": 3383,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Schloss+Bran+Bra%c8%99ov&form=BGABWCTA11&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251030",
       "fullstartdate": "20251030",
       "enddate": "20251031",

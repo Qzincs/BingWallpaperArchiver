@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251030",
+      "fullstartdate": "20251030",
+      "enddate": "20251031",
+      "urlbase": "https://www.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg",
+      "copyrighttext": "© f9photos/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pushkar+Camel+Fair&form=BGALM&filters=HpDate:\"20251030_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Camels at Jaisalmer, Rajasthan, India",
+      "description": "Every fall, the desert town of Pushkar in Rajasthan, India, comes alive with one of the most colorful gatherings—the Pushkar Camel Fair. Timed with the Hindu lunar month of Kartik, it usually takes place between late October and early November on the Gregorian calendar. This year, the celebrations stretch from today until November 5, marking the region's most anticipated season.",
+      "headline": "Hooves, hues, and heritage",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251030_PushkarFair\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/26.49028,74.55417/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=26.49028,74.55417;S9;Pushkar&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Pushkar%2C%20Rajasthan%2C%20India&satid=id.sid%3Acd14d4fa-ce4b-5053-4acf-86cba4e8d60c&vdpid=7411100137893658625&mb=26.629597~74.329467~26.445932~74.693276&cardbg=%23F98745&tt=Pushkar%2C%20Rajasthan%2C%20India&tsts0=%2526ty%253D30%2526q%253DPushkar%25252C%252520Rajasthan%25252C%252520India%2526satid%253Did.sid%25253Acd14d4fa-ce4b-5053-4acf-86cba4e8d60c%2526vdpid%253D7411100137893658625%2526mb%253D26.629597~74.329467~26.445932~74.693276%2526cardbg%253D%252523F98745&tstt0=Pushkar%2C%20Rajasthan%2C%20India&cp=31.474595~63.913224&lvl=4.233612&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Oct 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Rajasthan%2c+India&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pushkar+Camel+Fair&form=BGABWCTA7&filters=HpDate:\"20251030_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pushkar+Camel+Fair&form=BGABWCTA11&filters=HpDate:\"20251030_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251029",
       "fullstartdate": "20251029",
       "enddate": "20251030",

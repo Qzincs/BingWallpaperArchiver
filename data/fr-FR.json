@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251031",
+      "fullstartdate": "20251031",
+      "enddate": "20251101",
+      "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_FR-FR2815069618_UHD.jpg",
+      "copyrighttext": "© blue sky in my pocket/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bran%2c+Bra%c8%99ov%2c+Roumanie&form=BGALM&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Entrée du château de Bran, Brașov, Roumanie",
+      "description": "Sous un ciel chargé de nuages en cette soirée d'octobre, les murs du château de Bran, en Roumanie, se dressent comme une silhouette hors du temps. Construit au XIVe siècle, il a résisté aux guerres et aux empires, mais c’est dans le souffle des légendes qu’il puise sa véritable force. Aux confins de la Transylvanie et de la Valachie, jadis marquée par le règne impitoyable de Vlad III, celui qui inspira le Dracula de Bram Stoker, l’ombre du château se confond avec le mythe.",
+      "headline": "Sortez vos gousses d'ail, vos pieux et vos cols roulés !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 oct. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bran%2c+Bra%c8%99ov%2c+Roumanie&form=BGABWCTA7&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 1,
+            "Width": 3383,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bran%2c+Bra%c8%99ov%2c+Roumanie&form=BGABWCTA11&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251030",
       "fullstartdate": "20251030",
       "enddate": "20251031",

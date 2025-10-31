@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251031",
+      "fullstartdate": "20251031",
+      "enddate": "20251101",
+      "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_ES-ES0559707677_UHD.jpg",
+      "copyrighttext": "© blue sky in my pocket/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=castillo+de+Bran&form=BGALM&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Entrada al castillo de Bran en Bran, Brașov, Rumania",
+      "description": "Esta noche de Halloween, el misterio despierta en uno de los lugares más enigmáticos de Europa: el Castillo de Bran, en Rumanía. Construido en el siglo XIV, este imponente bastión ha resistido guerras, reyes y siglos de historia. Situado entre Transilvania y Valaquia —región que una vez gobernó Vlad III, conocido como “el Empalador”—, su fama está unida al mito de Drácula, la novela que Bram Stoker publicó en 1897. Aunque la historia no transcurre exactamente aquí, su silueta y las leyendas que lo rodean lo convirtieron en el escenario perfecto del terror gótico.",
+      "headline": "Bajo el hechizo de Halloween",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 de oct. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=castillo+de+Bran&form=BGABWCTA7&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 1,
+            "Width": 3383,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=castillo+de+Bran&form=BGABWCTA11&filters=HpDate:\"20251030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251030",
       "fullstartdate": "20251030",
       "enddate": "20251031",

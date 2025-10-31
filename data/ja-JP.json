@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251031",
+      "fullstartdate": "20251031",
+      "enddate": "20251101",
+      "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg",
+      "copyrighttext": "© blue sky in my pocket/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e5%9f%8e&form=BGALM&filters=HpDate:\"20251030_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ブラン城, ルーマニア",
+      "description": "今日はハロウィン。名前の由来は、カトリック教会の祝日の一つである「万聖節」の前夜祭（ All Hallow’s Evening ）とされています。日本では仮装・コスプレをするイベントとして定着していますが、海外では、カボチャをくり抜いて作った「ジャック・オー・ランタン」を飾ったり、子供たちが魔女やお化けに仮装して近所を回り、お菓子をもらったりするなどの風習があります…",
+      "headline": "今日はハロウィン",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.514984,25.367218/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=45.514984,25.367218;S9;ブラン城, ルーマニア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?cp=45.508003~25.355223&lvl=14.857924&pi=0&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 10月 月 31 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%ab%e3%83%bc%e3%83%9e%e3%83%8b%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e5%9f%8e&form=BGABWCTA7&filters=HpDate:\"20251030_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 1,
+            "Width": 3383,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e5%9f%8e&form=BGABWCTA11&filters=HpDate:\"20251030_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251030",
       "fullstartdate": "20251030",
       "enddate": "20251031",

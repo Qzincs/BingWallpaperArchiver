@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251031",
+      "fullstartdate": "20251031",
+      "enddate": "20251101",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg",
+      "copyrighttext": "© blue sky in my pocket/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%83%e5%85%b0%e5%9f%8e%e5%a0%a1&form=BGALM&filters=HpDate:\"20251030_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "布兰城堡入口, 布拉索夫, 罗马尼亚",
+      "description": "今夜，万圣节的魔咒笼罩大地——而地球上仅有少数地方能与罗马尼亚的布兰城堡比肩，承载着如此深邃的谜团。这座建于14世纪的堡垒历经战火洗礼，见证君王更迭与帝国兴衰。但在此地，传说比历史更响亮。这座城堡坐落于以阴森传说闻名的特兰西瓦尼亚与昔日由弗拉德三世·德古拉统治的瓦拉几亚之间，散发着令人心悸的遗迹气息。弗拉德的残暴名声启发了布拉姆·斯托克1897年创作的小说《德古拉》。尽管故事背景并非布兰城堡，但它巍峨的轮廓与关于弗拉德幽灵出没的传闻，让真实与传说交织模糊，永远将这座城堡与人类最持久的传说之一紧密相连。",
+      "headline": "在万圣节的魔咒之下",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 10月 31",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%83%e5%85%b0%e5%9f%8e%e5%a0%a1&form=BGABWCTA7&filters=HpDate:\"20251030_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 1,
+            "Width": 3383,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b8%83%e5%85%b0%e5%9f%8e%e5%a0%a1&form=BGABWCTA11&filters=HpDate:\"20251030_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251030",
       "fullstartdate": "20251030",
       "enddate": "20251031",
