@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251101",
+      "fullstartdate": "20251101",
+      "enddate": "20251102",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_UHD.jpg",
+      "copyrighttext": "© Martín Zalba/500px/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+de+Todos+los+Santos&form=BGALM&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Foz de Arbaiun, Navarra, España",
+      "description": "El 1 de noviembre, España celebra el Día de Todos los Santos, una jornada para honrar a quienes ya no están y recordar con cariño sus vidas. En muchas ciudades y pueblos, las familias acuden a los cementerios con flores, comparten dulces típicos como los buñuelos de viento o los huesos de santo, y disfrutan de un ambiente sereno que invita a la reflexión.",
+      "headline": "Vivir es ser recordado",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_AutumSaints\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+de+Todos+los+Santos&form=BGABWCTA7&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=D%c3%ada+de+Todos+los+Santos&form=BGABWCTA11&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251031",
       "fullstartdate": "20251031",
       "enddate": "20251101",

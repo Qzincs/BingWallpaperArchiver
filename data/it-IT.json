@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251101",
+      "fullstartdate": "20251101",
+      "enddate": "20251102",
+      "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_IT-IT4205256619_UHD.jpg",
+      "copyrighttext": "© Cheryl Ramalho/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Il+Parco+nazionale+di+Yellowstone+USA&form=BGALM&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bisonti al pascolo, Parco Nazionale di Yellowstone, Wyoming, USA",
+      "description": "Il bisonte è l’anima silenziosa delle grandi pianure, possente come una montagna, quieto come il vento. Nella foto, lo vediamo immerso nel paesaggio maestoso del Parco Nazionale di Yellowstone, dove la natura non è solo spettacolo, è memoria, forza e trasformazione. Questo parco, situato nel cuore dello stato americano del Wyoming, è il primo parco nazionale al mondo. Un santuario di biodiversità e geologia estrema che ospita orsi, lupi, alci, aquile e oltre 10.000 fenomeni idrotermali. Il geyser Old Faithful erutta con regolarità quasi rituale, mentre il Grand Prismatic Spring incanta con i suoi colori iridescenti.",
+      "headline": "Fumi e profumi",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.516228,-110.491905/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=44.516228,-110.491905;S9;Parco Nazionale di Yellowstone, Wyoming, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&ss=ypid.YN873x121224248&mb=44.929798~-110.976837~44.099783~-110.007225&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%233DB838&dt=1758272400000&tt=Yellowstone%20National%20Park&tsts0=%2526ty%253D18%2526q%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526ss%253Dypid.YN873x121224248%2526mb%253D44.929798~-110.976837~44.099783~-110.007225%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%2525233DB838%2526dt%253D1758272400000&tstt0=Yellowstone%20National%20Park&cp=44.516269~-111.333275&lvl=10.14&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "1 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Parco+Nazionale+di+Yellowstone%2c+Wyoming%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Il+Parco+nazionale+di+Yellowstone+USA&form=BGABWCTA7&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Il+Parco+nazionale+di+Yellowstone+USA&form=BGABWCTA11&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251031",
       "fullstartdate": "20251031",
       "enddate": "20251101",

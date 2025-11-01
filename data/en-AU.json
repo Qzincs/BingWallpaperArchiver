@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251031",
+      "fullstartdate": "20251031",
+      "enddate": "20251101",
+      "urlbase": "https://www.bing.com/th?id=OHR.BranCastle_ROW9947564327_UHD.jpg",
+      "copyrighttext": "© blue sky in my pocket/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=bran+castle&form=BGALM&filters=HpDate:\"20251031_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Entrance of Bran Castle in Bran, Brașov, Romania",
+      "description": "Featured in today's image is Bran Castle, one of Romania's most iconic landmarks, where centuries of history blend seamlessly with myth and mystery. The fortress was built in the 14th century and has withstood wars, monarchs and shifting empires. During World War II, Bran Castle was turned into a hospital for wounded soldiers by Princess Ileana, who was trained as a nurse. But here, legends speak louder than history. Perched between the regions of Transylvania—renowned for its chilling tales—and Wallachia, once ruled by Vlad III Dracula, the castle evokes a haunting legacy. Vlad's ruthless reputation inspired Bram Stoker's 1897 novel 'Dracula.' Though the story is not set at Bran Castle, its looming form and persistent rumours of Vlad's presence blur fact and legend, forever linking it to one of humanity's most enduring tales.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251031_BranCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 31, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=bran+castle&form=BGABWCTA7&filters=HpDate:\"20251031_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 1,
+            "Width": 3383,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=bran+castle&form=BGABWCTA11&filters=HpDate:\"20251031_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251030",
       "fullstartdate": "20251030",
       "enddate": "20251031",

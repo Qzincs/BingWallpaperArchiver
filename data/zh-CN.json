@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251101",
+      "fullstartdate": "20251101",
+      "enddate": "20251102",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg",
+      "copyrighttext": "© Cheryl Ramalho/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%bb%84%e7%9f%b3%e5%85%ac%e5%9b%ad%e7%9a%84%e9%87%8e%e7%89%9b%e7%be%a4&form=BGALM&filters=HpDate:\"20251031_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国",
+      "description": "野牛体现了一种矛盾：巨大的力量与沉静的气质并存。这些体型庞大的动物体重可达200​​0磅，身高6英尺（约1.8米），成群结队地漫游在北美的草原和河谷。这张照片拍摄于怀俄明州的黄石国家公园，它们的数量曾达数千万头，但在19世纪几乎灭绝——这一灭绝事件重塑了生态系统，扰乱了人们的生活方式。",
+      "headline": "古老血脉的兽群",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 1",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%bb%84%e7%9f%b3%e5%85%ac%e5%9b%ad%e7%9a%84%e9%87%8e%e7%89%9b%e7%be%a4&form=BGABWCTA7&filters=HpDate:\"20251031_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%bb%84%e7%9f%b3%e5%85%ac%e5%9b%ad%e7%9a%84%e9%87%8e%e7%89%9b%e7%be%a4&form=BGABWCTA11&filters=HpDate:\"20251031_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251031",
       "fullstartdate": "20251031",
       "enddate": "20251101",

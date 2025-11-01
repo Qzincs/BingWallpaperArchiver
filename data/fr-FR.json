@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251101",
+      "fullstartdate": "20251101",
+      "enddate": "20251102",
+      "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_FR-FR3050146396_UHD.jpg",
+      "copyrighttext": "© Cheryl Ramalho/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=bison+d%27Am%c3%a9rique&form=BGALM&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bisons près des sources chaudes de Yellowstone, Wyoming, États-Unis",
+      "description": "Sous les vapeurs brûlantes des sources de Yellowstone en Amérique, des bisons avancent. Leur masse impressionne : plus de 900 kilos de puissance, guidée par un pas mesuré, presque méditatif. Jadis, ces géants couvraient les plaines par millions, avant de frôler la disparition au XIXe siècle. Leur retour, fragile mais bien réel, incarne une renaissance.",
+      "headline": "La résilience des bisons à Yellowstone",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/44.516228,-110.491905/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=44.516228,-110.491905;S9;Yellowstone National Park, Wyoming&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&ss=ypid.YN873x121224248&mb=44.929798~-110.976837~44.099783~-110.007225&description=Grand%20Loop%20Rd%2C%20Yellowstone%20National%20Park%2C%20WY%2082190&cardbg=%233DB838&dt=1758272400000&tt=Yellowstone%20National%20Park&tsts0=%2526ty%253D18%2526q%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526ss%253Dypid.YN873x121224248%2526mb%253D44.929798~-110.976837~44.099783~-110.007225%2526description%253DGrand%252520Loop%252520Rd%25252C%252520Yellowstone%252520National%252520Park%25252C%252520WY%25252082190%2526cardbg%253D%2525233DB838%2526dt%253D1758272400000&tstt0=Yellowstone%20National%20Park&cp=44.516269~-111.333275&lvl=10.14&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "1 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Wyoming%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=bison+d%27Am%c3%a9rique&form=BGABWCTA7&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=bison+d%27Am%c3%a9rique&form=BGABWCTA11&filters=HpDate:\"20251031_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251031",
       "fullstartdate": "20251031",
       "enddate": "20251101",
