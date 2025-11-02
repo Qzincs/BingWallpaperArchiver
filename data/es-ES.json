@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251102",
+      "fullstartdate": "20251102",
+      "enddate": "20251103",
+      "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_ES-ES3027945894_UHD.jpg",
+      "copyrighttext": "© Cheryl Ramalho/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=bis%c3%b3n+animal&form=BGALM&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bisontes pastando en aguas termales, Parque Nacional de Yellowstone, Wyoming, EE. UU.",
+      "description": "El bisonte encarna una paradoja fascinante: una fuerza inmensa unida a una calma serena. Con hasta 900 kilos de peso y casi dos metros de altura, estos gigantes recorren en grupo las praderas y los valles fluviales de América del Norte. En el Parque Nacional de Yellowstone, en Estados Unidos, aún pueden verse manadas descendientes de los millones que antaño poblaron el continente. Su casi extinción en el siglo XIX transformó los ecosistemas y las formas de vida tradicionales.",
+      "headline": "Rebaños de herencia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_BisonSprings\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=bis%c3%b3n+animal&form=BGABWCTA7&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=bis%c3%b3n+animal&form=BGABWCTA11&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251101",
       "fullstartdate": "20251101",
       "enddate": "20251102",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251102",
+      "fullstartdate": "20251102",
+      "enddate": "20251103",
+      "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_JA-JP9092721776_UHD.jpg",
+      "copyrighttext": "© DoctorEgg/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b5%90%e5%b1%b1%e3%81%ae%e7%ab%b9%e6%9e%97&form=BGALM&filters=HpDate:\"20251101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "嵐山の竹林, 京都府 京都市",
+      "description": "今日の画像は京都市西部にある嵐山。山麓には多数の寺社が存在し、桜や紅葉の名所としても知られる観光名所です。例年 11 月中旬から 12 月上旬ごろに紅葉が見ごろを迎えます。また、映画やドラマにもたびたび登場する竹が生い茂った「竹林の小径」も有名です…",
+      "headline": "竹と紅葉が奏でる秋の風景",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.009583,135.666382/13?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.009583,135.666382;S9;嵐山&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E5%B5%90%E5%B1%B1&satid=id.sid%3A73a852be-2e82-b9ea-d27c-485a2d61d315&mb=35.016027~135.655231~35.003126~135.677547&cardbg=%23F98745&dt=1760331600000&tt=%E5%B5%90%E5%B1%B1&tsts0=%2526ty%253D18%2526q%253D%2525E5%2525B5%252590%2525E5%2525B1%2525B1%2526satid%253Did.sid%25253A73a852be-2e82-b9ea-d27c-485a2d61d315%2526mb%253D35.016027~135.655231~35.003126~135.677547%2526cardbg%253D%252523F98745%2526dt%253D1760331600000&tstt0=%E5%B5%90%E5%B1%B1&cp=35.009471~135.623817&lvl=13&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 2 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e4%ba%ac%e9%83%bd%e5%ba%9c+%e4%ba%ac%e9%83%bd%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b5%90%e5%b1%b1%e3%81%ae%e7%ab%b9%e6%9e%97&form=BGABWCTA7&filters=HpDate:\"20251101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b5%90%e5%b1%b1%e3%81%ae%e7%ab%b9%e6%9e%97&form=BGABWCTA11&filters=HpDate:\"20251101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251101",
       "fullstartdate": "20251101",
       "enddate": "20251102",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251102",
+      "fullstartdate": "20251102",
+      "enddate": "20251103",
+      "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_FR-FR3189675625_UHD.jpg",
+      "copyrighttext": "© DoctorEgg/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Kyoto+Japon&form=BGALM&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Feuilles d’érable et forêt de bambous à Arashiyama, Kyoto, Japon",
+      "description": "Dans la ville japonaise d’Arashiyama, près de Kyoto, l’automne se déploie comme une peinture vivante. Les érables s’embrasent de rouge, d’or et de cuivre, tandis que les forêts de bambou s’élancent vers le ciel dans un bruissement apaisant. Ces érables japonais aux feuilles finement découpées rappellent que la beauté est fragile, comme une flamme vouée à s'éteindre avec la saison.",
+      "headline": "Quand la nature peint Kyoto de rouge et de vert",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.015213,135.677689/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=35.015213,135.677689;S9;Arashiyama, Kyoto, Japon&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Arashiyama%2C%20Kyoto&vdpid=8211586383383363594&mb=35.020921~135.66596~35.009515~135.689435&cardbg=%23F98745&dt=1758272400000&tt=Arashiyama%2C%20Kyoto%2C%20Japan&tsts1=%2526ty%253D30%2526q%253DArashiyama%25252C%252520Kyoto%2526vdpid%253D8211586383383363594%2526mb%253D35.020921~135.66596~35.009515~135.689435%2526cardbg%253D%252523F98745%2526dt%253D1758272400000&tstt1=Arashiyama%2C%20Kyoto%2C%20Japan&cp=37.405074~120.893555&lvl=5&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Kyoto%2c+Japon&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kyoto+Japon&form=BGABWCTA7&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Kyoto+Japon&form=BGABWCTA11&filters=HpDate:\"20251101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251101",
       "fullstartdate": "20251101",
       "enddate": "20251102",

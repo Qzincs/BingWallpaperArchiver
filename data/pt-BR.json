@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251101",
+      "fullstartdate": "20251101",
+      "enddate": "20251102",
+      "urlbase": "https://www.bing.com/th?id=OHR.BisonSprings_PT-BR7966374292_UHD.jpg",
+      "copyrighttext": "© Cheryl Ramalho/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bis%c3%a3o&form=BGALM&filters=HpDate:\"20251101_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bisões-americanos pastando em fontes termais, Parque Nacional  de Yellowstone, Wyoming, EUA",
+      "description": "No Parque Nacional de Yellowstone, em Wyoming, Estados Unidos, bisões-americanos pastam envoltos pelo vapor das fontes termais. Símbolos de força, esses gigantes de quase uma tonelada já dominaram as planícies norte-americanas em imensas manadas, mas foram caçados quase até a extinção no século XIX. Hoje, seu retorno às pradarias não é apenas um triunfo ecológico — com manadas em Yellowstone chegando a cerca de 6 mil animais — mas também uma reparação cultural conduzida pelas comunidades indígenas, que se unem a conservacionistas para restaurar os bisões às terras ancestrais.",
+      "headline": "Os herdeiros das planícies",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251101_BisonSprings\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bis%c3%a3o&form=BGABWCTA7&filters=HpDate:\"20251101_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bis%c3%a3o&form=BGABWCTA11&filters=HpDate:\"20251101_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251031",
       "fullstartdate": "20251031",
       "enddate": "20251101",
