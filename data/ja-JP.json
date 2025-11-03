@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251103",
+      "fullstartdate": "20251103",
+      "enddate": "20251104",
+      "urlbase": "https://www.bing.com/th?id=OHR.HinterseeWaterfall_JA-JP9416603910_UHD.jpg",
+      "copyrighttext": "© EyeEm Mobile GmbH/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%90%e3%83%83%e3%83%8f%e5%b3%a1%e8%b0%b7&form=BGALM&filters=HpDate:\"20251102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ウィンバッハ峡谷, ドイツ",
+      "description": "今日の画像は、ドイツのウィンバッハ峡谷。同国南部のバイエルン州ベルヒテスガーデン国立公園内に位置しています。約 200m ほどの渓谷には小川が流れており、長い年月をかけて断層を削りながら流れ落ちています。周囲の色鮮やかな岩層は数千年前の地質変化を物語っており、自然の歴史を感じさせます…",
+      "headline": "爽やかな渓谷と木製の遊歩道",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_HinterseeWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.602543,12.9238/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.602543,12.9238;S9;ウィンバッハ峡谷, ドイツ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Wimbachklamm&ss=ypid.YN6740x3579143722688295497&mb=47.607791~12.912143~47.598777~12.93182&description=Rotheben%202%20%C2%B7%2083486%20Ramsau%20bei%20Berchtesgaden%C2%B7Aussichtspunkt&cardbg=%23219AB6&dt=1757422800000&tt=Wimbachklamm&tsts0=%2526ty%253D18%2526q%253DWimbachklamm%2526ss%253Dypid.YN6740x3579143722688295497%2526mb%253D47.607791~12.912143~47.598777~12.93182%2526description%253DRotheben%2525202%252520%2525C2%2525B7%25252083486%252520Ramsau%252520bei%252520Berchtesgaden%2525C2%2525B7Aussichtspunkt%2526cardbg%253D%252523219AB6%2526dt%253D1757422800000&tstt0=Wimbachklamm&cp=47.660708~12.440868&lvl=10.652902&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%89%e3%82%a4%e3%83%84+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%90%e3%83%83%e3%83%8f%e5%b3%a1%e8%b0%b7&form=BGABWCTA7&filters=HpDate:\"20251102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%90%e3%83%83%e3%83%8f%e5%b3%a1%e8%b0%b7&form=BGABWCTA11&filters=HpDate:\"20251102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251102",
       "fullstartdate": "20251102",
       "enddate": "20251103",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251103",
+      "fullstartdate": "20251103",
+      "enddate": "20251104",
+      "urlbase": "https://www.bing.com/th?id=OHR.MexicoJelly_DE-DE5340526951_UHD.jpg",
+      "copyrighttext": "© Christian Vizl/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Qualle&form=BGALM&filters=HpDate:\"20251102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Qualle schwimmt im Pazifik, Guerrero, Mexiko",
+      "description": "Quallen sind faszinierende Lebewesen, die seit über 500 Millionen Jahren die Ozeane bewohnen. Obwohl sie weder ein Gehirn noch ein Herz besitzen, verfügen sie über ein primitives Nervensystem, das es ihnen ermöglicht, Reize wahrzunehmen und sich anmutig durch die Meeresströmungen zu bewegen. Einige Arten können dank Biolumineszenz im Dunkeln leuchten, während andere erstaunliche Größen erreichen – wie die Löwenmähnenqualle, deren Durchmesser über zwei Meter betragen kann. Auf dem heutigen Bild ist eine beeindruckende Qualle zu sehen, die in den Gewässern des Pazifiks vor Guerrero, Mexiko, schwimmt. Ihre durchscheinende Silhouette scheint zwischen goldenen und blauen Reflexen zu schweben, als wäre sie Teil des Sonnenuntergangs selbst.",
+      "headline": "Wellenweise Wunder",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/17.61306,-99.95/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=17.61306,-99.95;S9;Guerrero, Mexiko&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Guerrero%20Mexico&satid=id.sid%3A86638283-e8d0-0d69-1241-dc688f82149b&vdpid=13062&mb=18.953466~-102.763619~16.239569~-97.424202&cardbg=%23F98745&tt=Guerrero%2C%20Mexico&tsts0=%2526ty%253D30%2526q%253DGuerrero%252520Mexico%2526satid%253Did.sid%25253A86638283-e8d0-0d69-1241-dc688f82149b%2526vdpid%253D13062%2526mb%253D18.953466~-102.763619~16.239569~-97.424202%2526cardbg%253D%252523F98745&tstt0=Guerrero%2C%20Mexico&cp=26.063558~-102.423938&lvl=5.2607555&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Guerrero%2c+Mexiko&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Qualle&form=BGABWCTA7&filters=HpDate:\"20251102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 524,
+            "Y": 1,
+            "Width": 3310,
+            "Height": 1998,
+            "Label": "jellyfish",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Qualle&form=BGABWCTA11&filters=HpDate:\"20251102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251102",
       "fullstartdate": "20251102",
       "enddate": "20251103",

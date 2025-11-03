@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251102",
+      "fullstartdate": "20251102",
+      "enddate": "20251103",
+      "urlbase": "https://www.bing.com/th?id=OHR.KyotoMaple_EN-CA3068038101_UHD.jpg",
+      "copyrighttext": "© DoctorEgg/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Arashiyama+Kyoto&form=BGALM&filters=HpDate:\"20251102_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Colourful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan",
+      "description": "Today, we travel to the Arashiyama district in Kyoto, Japan, renowned for its captivating seasonal landscapes. Here, vibrant Japanese maple trees and serene bamboo forests create a harmonious blend of colour and tranquillity. These maples, known for their delicate, deeply lobed leaves, turn fiery shades of red, orange and gold during autumn, attracting visitors from around the world. They are celebrated not only for their beauty but also for their cultural symbolism—representing elegance, peace and the fleeting nature of life.",
+      "headline": "Where bamboo breathes and maples blaze",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251102_KyotoMaple\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.015213,135.677689/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=35.015213,135.677689;S9;Arashiyama, Kyoto, Japan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Arashiyama%2C%20Kyoto&vdpid=8211586383383363594&mb=35.020921~135.66596~35.009515~135.689435&cardbg=%23F98745&dt=1758272400000&tt=Arashiyama%2C%20Kyoto%2C%20Japan&tsts1=%2526ty%253D30%2526q%253DArashiyama%25252C%252520Kyoto%2526vdpid%253D8211586383383363594%2526mb%253D35.020921~135.66596~35.009515~135.689435%2526cardbg%253D%252523F98745%2526dt%253D1758272400000&tstt1=Arashiyama%2C%20Kyoto%2C%20Japan&cp=37.405074~120.893555&lvl=5&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kyoto%2c+Japan&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Arashiyama+Kyoto&form=BGABWCTA7&filters=HpDate:\"20251102_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Arashiyama+Kyoto&form=BGABWCTA11&filters=HpDate:\"20251102_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251101",
       "fullstartdate": "20251101",
       "enddate": "20251102",

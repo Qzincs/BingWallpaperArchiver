@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251103",
+      "fullstartdate": "20251103",
+      "enddate": "20251104",
+      "urlbase": "https://www.bing.com/th?id=OHR.MexicoJelly_EN-IN1631723405_UHD.jpg",
+      "copyrighttext": "© Christian Vizl/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Jellyfish&form=BGALM&filters=HpDate:\"20251102_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Jellyfish swimming in the Pacific, Guerrero, Mexico",
+      "description": "They don't have brains, bones or even hearts, yet jellyfish have pulsed through Earth's oceans for half a billion years. Their habitats face growing threats from pollution, nutrient-rich runoff and ocean acidification—pressures that make marine conservation essential to restoring coral health and sustaining the species that depend on these waters.",
+      "headline": "Just jellin'",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/17.61306,-99.95/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=17.61306,-99.95;S9;Guerrero, Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Guerrero%20Mexico&satid=id.sid%3A86638283-e8d0-0d69-1241-dc688f82149b&vdpid=13062&mb=18.953466~-102.763619~16.239569~-97.424202&cardbg=%23F98745&tt=Guerrero%2C%20Mexico&tsts0=%2526ty%253D30%2526q%253DGuerrero%252520Mexico%2526satid%253Did.sid%25253A86638283-e8d0-0d69-1241-dc688f82149b%2526vdpid%253D13062%2526mb%253D18.953466~-102.763619~16.239569~-97.424202%2526cardbg%253D%252523F98745&tstt0=Guerrero%2C%20Mexico&cp=26.063558~-102.423938&lvl=5.2607555&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 3, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Guerrero%2c+Mexico&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jellyfish&form=BGABWCTA7&filters=HpDate:\"20251102_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 524,
+            "Y": 1,
+            "Width": 3310,
+            "Height": 1998,
+            "Label": "jellyfish",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jellyfish&form=BGABWCTA11&filters=HpDate:\"20251102_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251102",
       "fullstartdate": "20251102",
       "enddate": "20251103",

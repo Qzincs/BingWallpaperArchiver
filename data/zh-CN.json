@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251103",
+      "fullstartdate": "20251103",
+      "enddate": "20251104",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.MexicoJelly_ZH-CN5266285518_UHD.jpg",
+      "copyrighttext": "© Christian Vizl/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b0%b4%e6%af%8d&form=BGALM&filters=HpDate:\"20251102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "在太平洋中游泳的水母, 格雷罗, 墨西哥",
+      "description": "它们没有大脑、骨骼，甚至没有心脏，却已在地球海洋中游弋了五亿年。今天，世界水母日，这些摇曳生姿的奇妙生物终于迎来了属于它们的高光时刻——至少在海底世界如此。这一节日旨在推动保护水母栖息地，抵御污染、富营养化径流和海洋酸化等威胁。",
+      "headline": "随波轻舞",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 3",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b0%b4%e6%af%8d&form=BGABWCTA7&filters=HpDate:\"20251102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 524,
+            "Y": 1,
+            "Width": 3310,
+            "Height": 1998,
+            "Label": "jellyfish",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%b0%b4%e6%af%8d&form=BGABWCTA11&filters=HpDate:\"20251102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251102",
       "fullstartdate": "20251102",
       "enddate": "20251103",
