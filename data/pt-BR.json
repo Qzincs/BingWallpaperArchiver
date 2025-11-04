@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251103",
+      "fullstartdate": "20251103",
+      "enddate": "20251104",
+      "urlbase": "https://www.bing.com/th?id=OHR.MexicoJelly_PT-BR1868095241_UHD.jpg",
+      "copyrighttext": "© Christian  Vizl/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%c3%a1gua+viva&form=BGALM&filters=HpDate:\"20251103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Água-viva nadando no Pacífico, Guerrero, México",
+      "description": "Elas não têm cérebro, ossos nem coração — e, mesmo assim, as águas-vivas vêm pulsando pelos oceanos há mais de meio bilhão de anos. Com seus corpos gelatinosos e tentáculos flutuantes, são viajantes das correntes, deslizando silenciosamente pelos mares.",
+      "headline": "Flutuando por aí",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251103_MexicoJelly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%c3%a1gua+viva&form=BGABWCTA7&filters=HpDate:\"20251103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 524,
+            "Y": 1,
+            "Width": 3310,
+            "Height": 1998,
+            "Label": "jellyfish",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%c3%a1gua+viva&form=BGABWCTA11&filters=HpDate:\"20251103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251102",
       "fullstartdate": "20251102",
       "enddate": "20251103",

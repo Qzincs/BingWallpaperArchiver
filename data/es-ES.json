@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251104",
+      "fullstartdate": "20251104",
+      "enddate": "20251105",
+      "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_ES-ES3109579970_UHD.jpg",
+      "copyrighttext": "© Nick Brundle Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Londres&form=BGALM&filters=HpDate:\"20251103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Tower Bridge, Londres, Inglaterra",
+      "description": "Algunos puentes solo conectan dos lados, pero Tower Bridge une historia, ingeniería y un toque de dramatismo. Situado junto a la Torre de Londres y sobre el río Támesis desde 1894, este icono de Londres destaca tanto por sus torres gemelas y su pintura azul y blanca como por sus impresionantes basculantes que se elevan para dejar pasar los barcos.",
+      "headline": "Cuidado con la brecha, esta se abre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Londres&form=BGABWCTA7&filters=HpDate:\"20251103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1111,
+            "Y": 441,
+            "Width": 1340,
+            "Height": 1190,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Londres&form=BGABWCTA11&filters=HpDate:\"20251103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251103",
       "fullstartdate": "20251103",
       "enddate": "20251104",

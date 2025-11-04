@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251104",
+      "fullstartdate": "20251104",
+      "enddate": "20251105",
+      "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_JA-JP9811775783_UHD.jpg",
+      "copyrighttext": "© Nick Brundle Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%bf%e3%83%af%e3%83%bc%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8&form=BGALM&filters=HpDate:\"20251103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "タワーブリッジ, イングランド",
+      "description": "今日の画像は、タワーブリッジ。イングランドの首都・ロンドン市内を流れるテムズ川に架かる可動橋です。橋の全長は 244m、左右にあるゴシック様式の主塔の高さは 65m で、1894 年に完成しました。近隣には、世界遺産でもあるロンドン塔がそびえ立っており、ともにイングランドの代表的な観光スポットとなっています。また、「タワー」という名前は、このロンドン塔に由来しています…",
+      "headline": "ロンドンを象徴する美しい橋",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.505447,-0.075324/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.505447,-0.075324;S9;タワーブリッジ, イングランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Tower+Bridge+London&ss=ypid.YND687407D847C4CC0&mb=51.510472%7E-0.090466%7E51.500415%7E-0.060167&description=Tower+Bridge+Rd%2C+London+SE1+2UP%C2%B7Bridge&cardbg=%23219AB6&dt=1758295800000&tt=Tower+Bridge&tsts0=%2526ty%253D18%2526q%253DTower%252520Bridge%252520London%2526ss%253Dypid.YND687407D847C4CC0%2526mb%253D51.510472%7E-0.090466%7E51.500415%7E-0.060167%2526description%253DTower%252520Bridge%252520Rd%25252C%252520London%252520SE1%2525202UP%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1758295800000&tstt0=Tower+Bridge&cp=49.219159%7E5.202918&lvl=5.6&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 4 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%bf%e3%83%af%e3%83%bc%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8&form=BGABWCTA7&filters=HpDate:\"20251103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1111,
+            "Y": 441,
+            "Width": 1340,
+            "Height": 1190,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%bf%e3%83%af%e3%83%bc%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8&form=BGABWCTA11&filters=HpDate:\"20251103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251103",
       "fullstartdate": "20251103",
       "enddate": "20251104",

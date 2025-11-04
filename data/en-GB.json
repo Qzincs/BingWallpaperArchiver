@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251104",
+      "fullstartdate": "20251104",
+      "enddate": "20251105",
+      "urlbase": "https://www.bing.com/th?id=OHR.TowerBridgeUK_EN-GB3663300679_UHD.jpg",
+      "copyrighttext": "© Nick Brundle Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Tower+Bridge+London&form=BGALM&filters=HpDate:\"20251104_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Tower Bridge, London, England",
+      "description": "Some bridges connect two sides. Tower Bridge connects history, engineering and a flair for drama. Standing next to the Tower of London and rising over the River Thames since 1894, this London icon literally knows how to lift spirits—and traffic. With its twin towers, blue-and-white paintwork and bascules that open like a giant's drawbridge, Tower Bridge is less a traffic solution and more a stage performer.",
+      "headline": "Mind the gap—this one opens",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251104_TowerBridgeUK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.505447,-0.075324/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.505447,-0.075324;S9;Tower Bridge, London&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Tower%20Bridge%20London&ss=ypid.YND687407D847C4CC0&mb=51.510472~-0.090466~51.500415~-0.060167&description=Tower%20Bridge%20Rd%2C%20London%20SE1%202UP%C2%B7Bridge&cardbg=%23219AB6&dt=1758295800000&tt=Tower%20Bridge&tsts0=%2526ty%253D18%2526q%253DTower%252520Bridge%252520London%2526ss%253Dypid.YND687407D847C4CC0%2526mb%253D51.510472~-0.090466~51.500415~-0.060167%2526description%253DTower%252520Bridge%252520Rd%25252C%252520London%252520SE1%2525202UP%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1758295800000&tstt0=Tower%20Bridge&cp=53.512214~-0.482395&lvl=5.618121&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+London%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Tower+Bridge+London&form=BGABWCTA7&filters=HpDate:\"20251104_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1111,
+            "Y": 441,
+            "Width": 1340,
+            "Height": 1190,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Tower+Bridge+London&form=BGABWCTA11&filters=HpDate:\"20251104_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251103",
       "fullstartdate": "20251103",
       "enddate": "20251104",
