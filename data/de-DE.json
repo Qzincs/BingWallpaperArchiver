@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "https://www.bing.com/th?id=OHR.MoncayoAutumn_DE-DE8889308811_UHD.jpg",
+      "copyrighttext": "© David Santiago Garcia/DEEPOL by plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Saragossa&form=BGALM&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Buchenwald Peña Roya, Naturpark Moncayo, Saragossa, Aragonien, Spanien",
+      "description": "Im Herzen des Naturparks Moncayo, zwischen den sanften Bergen von Saragossa in Aragonien, Spanien, verbirgt sich ein magischer Ort, der sich im Herbst in ein Farbenmeer verwandelt: der Buchenwald Peña Roya. Dieser südlich gelegene Wald gehört zu den eindrucksvollsten seiner Art in Europa und zeigt eine leuchtende Palette aus Ocker, Gold und Rot, die Besucher in eine stille, geheimnisvolle Welt entführt. Auf dem heutigen Bild sehen wir genau jenen Ort, an dem sich die Natur in eleganter Wildheit entfaltet – den Buchenwald Peña Roya im Naturpark Moncayo.",
+      "headline": "Farbenpracht des Herbstes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.65,-0.883333/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=41.65,-0.883333;S9;Saragossa, Aragonien, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Zaragoza%2C%20Spain&satid=id.sid%3A07ccf583-50e6-3e8b-0da7-3ed83ce7b190&vdpid=5669635856441278465&mb=41.706059~-1.022034~41.59618~-0.746286&cardbg=%23F98745&tt=Zaragoza%2C%20Aragon%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DZaragoza%25252C%252520Spain%2526satid%253Did.sid%25253A07ccf583-50e6-3e8b-0da7-3ed83ce7b190%2526vdpid%253D5669635856441278465%2526mb%253D41.706059~-1.022034~41.59618~-0.746286%2526cardbg%253D%252523F98745&tstt0=Zaragoza%2C%20Aragon%2C%20Spain&cp=40.633367~-9.444767&lvl=5.87623&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Naturpark+Moncayo%2c+Saragossa%2c+Aragonien%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saragossa&form=BGABWCTA7&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saragossa&form=BGABWCTA11&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",

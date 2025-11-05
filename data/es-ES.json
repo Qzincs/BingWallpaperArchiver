@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "https://www.bing.com/th?id=OHR.MoncayoAutumn_ES-ES3658220911_UHD.jpg",
+      "copyrighttext": "© David Santiago Garcia/DEEPOL by plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Natural+del+Moncayo+Zaragoza&form=BGALM&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Hayedo de Peña Roya, Parque Natural del Moncayo, Zaragoza, Aragón, España",
+      "description": "Aragón no es precisamente famosa por sus bosques: más bien es “sol y matorrales” que “sombra y frescor”. Sin embargo, al subir las laderas del Moncayo, encontrarás un final inesperado: un denso y susurrante bosque de hayas. La montaña ofrece un espectáculo climático único. En la base, arbustos mediterráneos; a mitad de camino, robles y pinos; y más arriba, Peña Roya, un auténtico país de las maravillas de hayas que parece decir: “¡Sorpresa!”",
+      "headline": "El color de la temporada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Natural+del+Moncayo+Zaragoza&form=BGABWCTA7&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Natural+del+Moncayo+Zaragoza&form=BGABWCTA11&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",

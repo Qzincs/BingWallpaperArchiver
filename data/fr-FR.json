@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "https://www.bing.com/th?id=OHR.MoncayoAutumn_FR-FR2938988212_UHD.jpg",
+      "copyrighttext": "© David Santiago Garcia/DEEPOL by plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Saragosse+Espagne&form=BGALM&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Forêt de hêtres de Añón de Moncayo, Parc naturel du Moncayo, Saragosse, Espagne",
+      "description": "Au cœur de l'Aragon, où la terre d'Espagne est sèche et dorée, se dresse une surprise : le parc naturel du Moncayo. Sur ses pentes, la hêtraie de Peña Roya, accessible depuis Añón del Moncayo, semble murmurer une langue que seul le vent semble comprendre. La montagne y joue à la métamorphose : des genévriers méditerranéens au pied, des chênes et des pins plus haut, puis soudain, cette mer rousse et dorée de feuillages.",
+      "headline": "Saragosse en habits d'automne",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.65,-0.883333/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=41.65,-0.883333;S9;Saragosse, Aragon, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Zaragoza%2C%20Spain&satid=id.sid%3A07ccf583-50e6-3e8b-0da7-3ed83ce7b190&vdpid=5669635856441278465&mb=41.706059~-1.022034~41.59618~-0.746286&cardbg=%23F98745&tt=Zaragoza%2C%20Aragon%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DZaragoza%25252C%252520Spain%2526satid%253Did.sid%25253A07ccf583-50e6-3e8b-0da7-3ed83ce7b190%2526vdpid%253D5669635856441278465%2526mb%253D41.706059~-1.022034~41.59618~-0.746286%2526cardbg%253D%252523F98745&tstt0=Zaragoza%2C%20Aragon%2C%20Spain&cp=40.633367~-9.444767&lvl=5.87623&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Parc+naturel+du+Moncayo%2c+Saragosse%2c+Espagne&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saragosse+Espagne&form=BGABWCTA7&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saragosse+Espagne&form=BGABWCTA11&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",

@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.MoncayoAutumn_ZH-CN5187959516_UHD.jpg",
+      "copyrighttext": "© David Santiago Garcia/DEEPOL by plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e8%90%a8%e6%8b%89%e6%88%88%e8%90%a8&form=BGALM&filters=HpDate:\"20251104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "佩尼亚罗亚山毛榉森林, 蒙卡约自然公园, 萨拉戈萨, 阿拉贡, 西班牙",
+      "description": "西班牙的阿拉贡地区，一般让人想到的是阳光和灌木，而不是森林的阴凉与静谧。然而，当你沿着蒙卡约山坡向上攀登，故事会出现意想不到的转折：一片浓密、低语的山毛榉林悄然迎面而来。这座山犹如气候过山车：山脚是地中海灌木，半山腰是橡树和松林，再往上，霎时间你便置身佩尼亚罗亚，这片山毛榉仙境仿佛在宣告：\"由我来演绎秋天吧！\"",
+      "headline": "秋天来了，你开心吗？",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 5",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e8%90%a8%e6%8b%89%e6%88%88%e8%90%a8&form=BGABWCTA7&filters=HpDate:\"20251104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e8%90%a8%e6%8b%89%e6%88%88%e8%90%a8&form=BGABWCTA11&filters=HpDate:\"20251104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",

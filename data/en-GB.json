@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "https://www.bing.com/th?id=OHR.GuyFawkesNight2025_EN-GB4093349756_UHD.jpg",
+      "copyrighttext": "© mountaintreks/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Guy+Fawkes+Night&form=BGALM&filters=HpDate:\"20251105_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Guy Fawkes Night fireworks at Glasgow Green, Scotland",
+      "description": "On the night of 5 November, the skies across the United Kingdom light up with fireworks, bonfires and the occasional singsong of 'Remember, remember the fifth of November.' But behind the sparklers and toffee apples lies a tale of treason, gunpowder and one man forever linked with an explosive plot that fizzled out.",
+      "headline": "A night that never fizzles out",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_GuyFawkesNight2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.849121,-4.235332/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.849121,-4.235332;S9;Glasgow Green, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Glasgow%20Green%20Scotland&vdpid=5469686511471427585&ss=ypid.YNC9DC15472F22B275&mb=55.854115~-4.24965~55.841118~-4.224356&description=Greendyke%20St%2C%20Glasgow%20G1%205DB&cardbg=%233DB838&dt=1760103000000&tt=Glasgow%20Green&tsts0=%2526ty%253D30%2526q%253DGlasgow%252520Green%252520Scotland%2526vdpid%253D5469686511471427585%2526ss%253Dypid.YNC9DC15472F22B275%2526mb%253D55.854115~-4.24965~55.841118~-4.224356%2526description%253DGreendyke%252520St%25252C%252520Glasgow%252520G1%2525205DB%2526cardbg%253D%2525233DB838%2526dt%253D1760103000000&tstt0=Glasgow%20Green&cp=53.535481~-16.844619&lvl=5.2905445&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Scotland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Guy+Fawkes+Night&form=BGABWCTA7&filters=HpDate:\"20251105_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Guy+Fawkes+Night&form=BGABWCTA11&filters=HpDate:\"20251105_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",

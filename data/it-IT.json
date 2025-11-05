@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "https://www.bing.com/th?id=OHR.MoncayoAutumn_IT-IT4548812597_UHD.jpg",
+      "copyrighttext": "© David Santiago Garcia/DEEPOL by plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=Parco+Naturale+del+Moncayo+Saragozza&form=BGALM&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Foresta di faggi di Peña Roya, Parco Naturale del Moncayo, Saragozza, Aragona, Spagna",
+      "description": "La regione spagnola dell’Aragona non è certo nota per i suoi boschi: qui dominano il sole, la terra arida e la macchia mediterranea. Eppure, basta salire lungo i pendii del Moncayo per ritrovarsi in un finale inaspettato: una fitta faggeta che sussurra tra le fronde. Il Moncayo è una montagna dalle quattro stagioni. Alla base crescono cespugli mediterranei; più su compaiono querce e pini, e ancora più in alto, ecco Peña Roya: un regno di faggi che sembra spuntare dal nulla.",
+      "headline": "Red carpet naturale?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.65,-0.883333/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=41.65,-0.883333;S9;Saragozza, Aragona, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Zaragoza%2C%20Spain&satid=id.sid%3A07ccf583-50e6-3e8b-0da7-3ed83ce7b190&vdpid=5669635856441278465&mb=41.706059~-1.022034~41.59618~-0.746286&cardbg=%23F98745&tt=Zaragoza%2C%20Aragon%2C%20Spain&tsts0=%2526ty%253D30%2526q%253DZaragoza%25252C%252520Spain%2526satid%253Did.sid%25253A07ccf583-50e6-3e8b-0da7-3ed83ce7b190%2526vdpid%253D5669635856441278465%2526mb%253D41.706059~-1.022034~41.59618~-0.746286%2526cardbg%253D%252523F98745&tstt0=Zaragoza%2C%20Aragon%2C%20Spain&cp=40.633367~-9.444767&lvl=5.87623&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Parco+Naturale+del+Moncayo%2c+Saragozza%2c+Aragona%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parco+Naturale+del+Moncayo+Saragozza&form=BGABWCTA7&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parco+Naturale+del+Moncayo+Saragozza&form=BGABWCTA11&filters=HpDate:\"20251104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",
