@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251105",
+      "fullstartdate": "20251105",
+      "enddate": "20251106",
+      "urlbase": "https://www.bing.com/th?id=OHR.MoncayoAutumn_PT-BR4993675900_UHD.jpg",
+      "copyrighttext": "© David Santiago Garcia/DEEPOL by plainpicture",
+      "copyrightlink": "https://www.bing.com/search?q=arag%c3%a3o+espanha&form=BGALM&filters=HpDate:\"20251105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Floresta de faias de Peña Roya, Parque Natural do Moncayo, Saragoça, Aragão, Espanha",
+      "description": "A região de Aragão, na Espanha, com seu clima semiárido, não é exatamente conhecida por suas florestas. E, no entanto, ao subir as encostas da montanha de Moncayo, você se depara com um final surpreendente: uma densa floresta de faias, imagem que vemos na foto de hoje. O que encontramos aqui é uma montanha-russa climática. Na base? Arbustos mediterrâneos. No meio? Carvalhos e pinheiros. No topo? A floresta de Peña Roya, um paraíso de faias que parece dizer: “Surpresa!” E justo quando você pensa que tudo gira em torno das árvores, Moncayo revela seu lado humano com mosteiros e vilarejos. Hoje, as pessoas vêm não pela madeira, mas pelas trilhas, pelas fotos e pelo ar puro da montanha.",
+      "headline": "Entre faias e arbustos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251105_MoncayoAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=arag%c3%a3o+espanha&form=BGABWCTA7&filters=HpDate:\"20251105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=arag%c3%a3o+espanha&form=BGABWCTA11&filters=HpDate:\"20251105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251104",
       "fullstartdate": "20251104",
       "enddate": "20251105",

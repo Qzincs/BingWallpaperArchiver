@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251106",
+      "fullstartdate": "20251106",
+      "enddate": "20251107",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.LanternsThailand_ZH-CN3419382923_UHD.jpg",
+      "copyrighttext": "© MR. ANUJAK JAIMOOK/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b8%85%e8%bf%88%e7%81%af%e4%bc%9a&form=BGALM&filters=HpDate:\"20251105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "哈里朋柴佛塔寺的彩色灯笼, 南奔府, 泰国",
+      "description": "如果一盏天灯能承载你的心愿，你会许下什么？今晚，在泰国北部，义蓬节为你带来这样的机会。这个延续数百年的兰纳传统，在农历十二月举行，人们点亮孔明灯以纪念佛陀。相传每一盏灯都能带走厄运，照亮通往美好未来的道路。孩子们扶稳灯架，长者低声祈福，成百上千的灯火缓缓升起，越过树梢，点亮夜空。同一轮满月下，南方的水灯节也在进行，烛光点点的花船在水面缓缓漂流。",
+      "headline": "满天心愿",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251106_LanternsThailand\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b8%85%e8%bf%88%e7%81%af%e4%bc%9a&form=BGABWCTA7&filters=HpDate:\"20251105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1121,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%b8%85%e8%bf%88%e7%81%af%e4%bc%9a&form=BGABWCTA11&filters=HpDate:\"20251105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251105",
       "fullstartdate": "20251105",
       "enddate": "20251106",

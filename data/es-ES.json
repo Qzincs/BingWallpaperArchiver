@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251106",
+      "fullstartdate": "20251106",
+      "enddate": "20251107",
+      "urlbase": "https://www.bing.com/th?id=OHR.LanternsThailand_ES-ES1230113417_UHD.jpg",
+      "copyrighttext": "© MR. ANUJAK JAIMOOK/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Loy+Krathong&form=BGALM&filters=HpDate:\"20251105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Faros de colores en el templo de Wat Phra That Hariphunchai, Lamphun, Tailandia",
+      "description": "¿Qué desearías si una sola linterna pudiera llevar tu deseo al cielo? Esta noche, en el norte de Tailandia, el festival Yi Peng te brinda esa oportunidad. Esta tradición centenaria del antiguo reino de Lanna celebra la luna llena del duodécimo mes lunar con miles de linternas de papel, las “khom loi”, que se elevan para honrar a Buda. Se cree que cada una se lleva la mala suerte y abre paso a un futuro más luminoso.",
+      "headline": "El cielo está lleno de deseos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251106_LanternsThailand\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Loy+Krathong&form=BGABWCTA7&filters=HpDate:\"20251105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1121,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Loy+Krathong&form=BGABWCTA11&filters=HpDate:\"20251105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251105",
       "fullstartdate": "20251105",
       "enddate": "20251106",

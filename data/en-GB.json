@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251106",
+      "fullstartdate": "20251106",
+      "enddate": "20251107",
+      "urlbase": "https://www.bing.com/th?id=OHR.LanternsThailand_EN-GB4246511086_UHD.jpg",
+      "copyrighttext": "© MR. ANUJAK JAIMOOK/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Chiang+Mai+lantern+festival&form=BGALM&filters=HpDate:\"20251106_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand",
+      "description": "What would you wish for if a single lantern could carry it skyward? Tonight, in northern Thailand, the Yi Peng festival offers that chance. This centuries-old Lanna tradition celebrates the twelfth lunar month with glowing paper lanterns—khom loi—that are released to honour the Buddha. Each lantern is believed to carry away misfortune and light the way toward a brighter future. Children steady the lantern frames, elders whisper blessings and the crowd pauses as hundreds of lights drift higher than the trees. Farther south, the same full moon watches over Loy Krathong, a sister festival, where candlelit rafts glide across the water.",
+      "headline": "Sky full of wishes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251106_LanternsThailand\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.577391,99.00782/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=18.577391,99.00782;S9;Wat Phra That Hariphunchai, Lamphun, Thailand&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Wat%20Phra%20That%20Hariphunchai%20temple%20Thailand&ss=ypid.YN8178x5999485783110565553&mb=18.583613~98.996086~18.571165~99.019561&description=335%20Inthayongyot%20Rd%2C%20Nai%20Mueang%2C%20Lamphun%20Province%2051000%C2%B7Buddhist%20temple&cardbg=%23219AB6&dt=1758123000000&tt=Wat%20Phra%20That%20Hariphunchai&tsts0=%2526ty%253D18%2526q%253DWat%252520Phra%252520That%252520Hariphunchai%252520temple%252520Thailand%2526ss%253Dypid.YN8178x5999485783110565553%2526mb%253D18.583613~98.996086~18.571165~99.019561%2526description%253D335%252520Inthayongyot%252520Rd%25252C%252520Nai%252520Mueang%25252C%252520Lamphun%252520Province%25252051000%2525C2%2525B7Buddhist%252520temple%2526cardbg%253D%252523219AB6%2526dt%253D1758123000000&tstt0=Wat%20Phra%20That%20Hariphunchai&cp=10.852439~83.881241&lvl=4.4505715&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Lamphun%2c+Thailand&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chiang+Mai+lantern+festival&form=BGABWCTA7&filters=HpDate:\"20251106_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1121,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chiang+Mai+lantern+festival&form=BGABWCTA11&filters=HpDate:\"20251106_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251105",
       "fullstartdate": "20251105",
       "enddate": "20251106",
