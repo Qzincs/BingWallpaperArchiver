@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_DE-DE7018032776_UHD.jpg",
+      "copyrighttext": "© karen crewe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Eisb%c3%a4r&form=BGALM&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eisbär in Churchill, Manitoba, Kanada",
+      "description": "Heute bewundern wir die beeindruckende Größe eines Eisbären in Churchill, Manitoba, Kanada – eine der majestätischsten Kreaturen unseres Planeten. Dieser weiße Riese kann bis zu drei Meter lang werden und mehr als 500 Kilogramm wiegen, bewegt sich jedoch mit erstaunlicher Leichtigkeit. Sein Fell, das weiß erscheint, ist in Wirklichkeit transparent und reflektiert das Licht, während seine schwarze Haut die Wärme der Sonne aufnimmt. Der Eisbär kann über 60 Kilometer ohne Pause schwimmen – ein wahrer Meister des Überlebens, für den Geduld und Stärke die Schlüssel zum Überleben sind.",
+      "headline": "Der König des Nordens",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.7692,-94.1692/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=58.7692,-94.1692;S9;Churchill, Manitoba, Kanada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=churchill%20manitoba&satid=id.sid%3Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55&vdpid=4880922566442614785&mb=58.78957~-94.268881~58.701363~-93.959306&cardbg=%23F98745&tt=Churchill%2C%20Manitoba%2C%20Canada&tsts0=%2526ty%253D30%2526q%253Dchurchill%252520manitoba%2526satid%253Did.sid%25253Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55%2526vdpid%253D4880922566442614785%2526mb%253D58.78957~-94.268881~58.701363~-93.959306%2526cardbg%253D%252523F98745&tstt0=Churchill%2C%20Manitoba%2C%20Canada&cp=54.283689~-106.539776&lvl=4.8882194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Manitoba%2c+Kanada&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eisb%c3%a4r&form=BGABWCTA7&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 616,
+            "Y": 780,
+            "Width": 1232,
+            "Height": 1376,
+            "Label": "bear",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eisb%c3%a4r&form=BGABWCTA11&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",

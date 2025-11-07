@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251106",
+      "fullstartdate": "20251106",
+      "enddate": "20251107",
+      "urlbase": "https://www.bing.com/th?id=OHR.LanternsThailand_ROW2932853802_UHD.jpg",
+      "copyrighttext": "© MR. ANUJAK JAIMOOK/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Wat+Phra+That+Hariphunchai&form=BGALM&filters=HpDate:\"20251106_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Colourful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand",
+      "description": "Blending over a thousand years of history, art and devotion, Wat Phra That Hariphunchai, featured in today's image, offers a glimpse into the spiritual heart of northern Thailand. Its origins date back to 897, when the Hariphunchai king built a stupa to enshrine a strand of the Buddha's hair.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251106_LanternsThailand\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Wat+Phra+That+Hariphunchai&form=BGABWCTA7&filters=HpDate:\"20251106_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1121,
+            "Label": "building",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Wat+Phra+That+Hariphunchai&form=BGABWCTA11&filters=HpDate:\"20251106_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251105",
       "fullstartdate": "20251105",
       "enddate": "20251106",

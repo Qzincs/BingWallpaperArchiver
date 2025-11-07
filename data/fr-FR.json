@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_FR-FR5230824319_UHD.jpg",
+      "copyrighttext": "© karen crewe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Semaine+ours+polaire+Churchill&form=BGALM&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ours polaire à Churchill, Manitoba, Canada",
+      "description": "À Churchill, au nord du Manitoba au Canada, le vent souffle déjà l’hiver. Sur la toundra ocre, une silhouette blanche se détache : un ours polaire, patient, immense, guettant le retour de la glace sur la baie d’Hudson. C’est ici, chaque automne, que se déroule la Semaine de l’ours polaire, moment unique où la science et l’émerveillement se rencontrent.",
+      "headline": "Un ours pas mal léché !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.7692,-94.1692/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=58.7692,-94.1692;S9;Churchill, Manitoba, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=churchill%20manitoba&satid=id.sid%3Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55&vdpid=4880922566442614785&mb=58.78957~-94.268881~58.701363~-93.959306&cardbg=%23F98745&tt=Churchill%2C%20Manitoba%2C%20Canada&tsts0=%2526ty%253D30%2526q%253Dchurchill%252520manitoba%2526satid%253Did.sid%25253Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55%2526vdpid%253D4880922566442614785%2526mb%253D58.78957~-94.268881~58.701363~-93.959306%2526cardbg%253D%252523F98745&tstt0=Churchill%2C%20Manitoba%2C%20Canada&cp=54.283689~-106.539776&lvl=4.8882194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Manitoba%2c+Canada&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Semaine+ours+polaire+Churchill&form=BGABWCTA7&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 616,
+            "Y": 780,
+            "Width": 1232,
+            "Height": 1376,
+            "Label": "bear",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Semaine+ours+polaire+Churchill&form=BGABWCTA11&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",

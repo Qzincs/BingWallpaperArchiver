@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_ES-ES1378157368_UHD.jpg",
+      "copyrighttext": "© karen crewe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Oso+Polar&form=BGALM&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Oso polar en Churchill, Manitoba, Canadá",
+      "description": "¿Qué está atrayendo a científicos, viajeros y cámaras a Manitoba, Canadá? La respuesta está en los majestuosos osos polares, los verdaderos reyes del Ártico. Cada otoño, la ciudad de Churchill se convierte en escenario de un espectáculo natural único: cientos de osos polares se reúnen en la Bahía de Hudson, esperando a que el hielo se forme para salir a cazar focas, su principal fuente de alimento.",
+      "headline": "El blanco no pasa de moda",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Oso+Polar&form=BGABWCTA7&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 616,
+            "Y": 780,
+            "Width": 1232,
+            "Height": 1376,
+            "Label": "bear",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oso+Polar&form=BGABWCTA11&filters=HpDate:\"20251106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",

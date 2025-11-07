@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.Lidong2025_JA-JP0788996940_UHD.jpg",
+      "copyrighttext": "© feathercollector/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a8%e3%83%8a%e3%82%ac&form=BGALM&filters=HpDate:\"20251106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "エナガ, 日本",
+      "description": "今日 11 月 7 日は二十四節気の「立冬」。文字通り冬の始まりとされ、地域によって気候差がありますが、朝晩の冷え込みが強まり、冬の気配が強くなる時期です。この日を境に徐々に日照時間が短くなり、冬至に最も昼が短くなります。また、この時期は寒暖差により風邪を引きやすくなるため、注意が必要です…",
+      "headline": "今日は立冬",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_Lidong2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 7 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a8%e3%83%8a%e3%82%ac&form=BGABWCTA7&filters=HpDate:\"20251106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1718,
+            "Y": 1065,
+            "Width": 403,
+            "Height": 638,
+            "Label": "sparrow",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a8%e3%83%8a%e3%82%ac&form=BGABWCTA11&filters=HpDate:\"20251106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",

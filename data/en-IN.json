@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_EN-IN2726159563_UHD.jpg",
+      "copyrighttext": "© karen crewe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=polar+bears&form=BGALM&filters=HpDate:\"20251106_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Polar bear in Churchill, Manitoba, Canada",
+      "description": "They wait, motionless, on the edge of a frozen world. Photographed in Churchill, Canada, this polar bear rests along the shores of Hudson Bay, where bears gather each year for the return of the sea ice that allows them hunt seals again—their main source of food. For over a decade, Polar Bears International, a non-profit organisation, has streamed live footage of their movements, offering a rare gimpse into life balanced on the edge of a warming world.",
+      "headline": "The patience of a polar bear",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/58.7692,-94.1692/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=58.7692,-94.1692;S9;Churchill, Manitoba, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=churchill%20manitoba&satid=id.sid%3Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55&vdpid=4880922566442614785&mb=58.78957~-94.268881~58.701363~-93.959306&cardbg=%23F98745&tt=Churchill%2C%20Manitoba%2C%20Canada&tsts0=%2526ty%253D30%2526q%253Dchurchill%252520manitoba%2526satid%253Did.sid%25253Ae6c9f8aa-cb7b-f745-3f26-f4382c639a55%2526vdpid%253D4880922566442614785%2526mb%253D58.78957~-94.268881~58.701363~-93.959306%2526cardbg%253D%252523F98745&tstt0=Churchill%2C%20Manitoba%2C%20Canada&cp=54.283689~-106.539776&lvl=4.8882194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Manitoba%2c+Canada&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=polar+bears&form=BGABWCTA7&filters=HpDate:\"20251106_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 616,
+            "Y": 780,
+            "Width": 1232,
+            "Height": 1376,
+            "Label": "bear",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=polar+bears&form=BGABWCTA11&filters=HpDate:\"20251106_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",
