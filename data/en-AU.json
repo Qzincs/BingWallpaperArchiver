@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowBear_ROW2961602107_UHD.jpg",
+      "copyrighttext": "© karen crewe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Polar+Bear&form=BGALM&filters=HpDate:\"20251107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Polar bear in Churchill, Manitoba, Canada",
+      "description": "Featured in today's image—the polar bear—is the largest living species of bear, often weighing over 180 kilograms. Closely related to brown bears, polar bears have evolved to survive in the planet's harshest, coldest environments, perfectly adapted to life on snow and ice.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_WillowBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Polar+Bear&form=BGABWCTA7&filters=HpDate:\"20251107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 616,
+            "Y": 780,
+            "Width": 1232,
+            "Height": 1376,
+            "Label": "bear",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Polar+Bear&form=BGABWCTA11&filters=HpDate:\"20251107_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",

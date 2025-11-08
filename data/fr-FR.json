@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251108",
+      "fullstartdate": "20251108",
+      "enddate": "20251109",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_FR-FR5359077798_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Bandon+Oregon+%c3%89tats-Unis&form=BGALM&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pitons rocheux de la plage de Bandon, Oregon, États-Unis",
+      "description": "Sur la côte sud de l’Oregon, aux États-Unis, la plage de Bandon offre un paysage à la fois brut et magnifique. Là où la rivière Coquille se jette dans le Pacifique, d'immenses pitons rocheux émergent du sable, à proximité du phare de Bullards Beach. Ces géants de pierre, sculptés par les vagues et le vent depuis des millénaires, portent des noms qui nourrissent l’imagination : Face Rock, le Chapeau du magicien, Elephant Rock…",
+      "headline": "L'Oregon sauvage",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251108_BandonBeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.11058,-124.437035/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.11058,-124.437035;S9;Bandon, Oregon, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Bandon%20beach&vdpid=5047322712834797690&mb=43.116484~-124.452181~43.104688~-124.421883&cardbg=%23F98745&dt=1758126600000&tt=Bandon%20Beach%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DBandon%252520beach%2526vdpid%253D5047322712834797690%2526mb%253D43.116484~-124.452181~43.104688~-124.421883%2526cardbg%253D%252523F98745%2526dt%253D1758126600000&tstt0=Bandon%20Beach%2C%20United%20States&cp=42.477796~-126.962081&lvl=5.28057&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "8 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Oregon%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bandon+Oregon+%c3%89tats-Unis&form=BGABWCTA7&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bandon+Oregon+%c3%89tats-Unis&form=BGABWCTA11&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251107",
       "fullstartdate": "20251107",
       "enddate": "20251108",

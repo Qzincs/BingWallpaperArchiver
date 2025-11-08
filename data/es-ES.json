@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251108",
+      "fullstartdate": "20251108",
+      "enddate": "20251109",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_ES-ES1694019342_UHD.jpg",
+      "copyrighttext": "© Michael Sroka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Externsteine&form=BGALM&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Complejo megalítico: Externsteine en el Bosque de Teutoburgo, Alemania",
+      "description": "En el corazón del bosque alemán de Teutoburgo, cerca de la ciudad de Horn-Bad Meinberg, en Renania del Norte-Westfalia, se alzan las impresionantes formaciones rocosas de Externsteine, uno de los monumentos naturales y culturales más singulares de Alemania. Estos pilares de arenisca, formados hace unos 70 millones de años, alcanzan los 40 metros de altura y cautivan a miles de visitantes cada año por su belleza y misterio.",
+      "headline": "Rocas que cuentan leyendas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251108_ExternsteineSunset\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Externsteine&form=BGABWCTA7&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Externsteine&form=BGABWCTA11&filters=HpDate:\"20251107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251107",
       "fullstartdate": "20251107",
       "enddate": "20251108",

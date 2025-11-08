@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251107",
+      "fullstartdate": "20251107",
+      "enddate": "20251108",
+      "urlbase": "https://www.bing.com/th?id=OHR.ChurchMG_PT-BR3242997817_UHD.jpg",
+      "copyrighttext": "©  Fred_Pinheiro/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Ouro+Preto&form=BGALM&filters=HpDate:\"20251107_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Antiga igreja barroca em Ouro Preto, Minas Gerais",
+      "description": "É melhor se preparar: as ladeiras de Ouro Preto não são para iniciantes. A cidade teve sua origem no final do século XVII, quando bandeirantes encontraram o ouro escuro que a batizou. Erguida na Serra do Espinhaço, foi o coração da mineração no Brasil colonial e, por décadas, o centro mais populoso e influente de Minas Gerais, palco de riqueza, de disputas e da Inconfidência Mineira.",
+      "headline": "Sussurros de tempos áureos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251107_ChurchMG\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ouro+Preto&form=BGABWCTA7&filters=HpDate:\"20251107_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 716,
+            "Y": 605,
+            "Width": 1962,
+            "Height": 1478,
+            "Label": "house",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ouro+Preto&form=BGABWCTA11&filters=HpDate:\"20251107_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251106",
       "fullstartdate": "20251106",
       "enddate": "20251107",

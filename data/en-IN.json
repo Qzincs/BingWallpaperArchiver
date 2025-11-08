@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251108",
+      "fullstartdate": "20251108",
+      "enddate": "20251109",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_EN-IN2889570717_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Bandon+Oregon&form=BGALM&filters=HpDate:\"20251107_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sea stacks of Bandon Beach in Bandon, Oregon, United States",
+      "description": "On Oregon's coast in the United States, Bandon greets visitors with salty air and the gentle clang of harbour bells. The town began as a small settlement in the 1850s and grew into a centre for timber and salmon fishing. Its maritime past endures in the restored Coquille River Lighthouse, whose beacon once guided ships safely to shore.",
+      "headline": "Rock stars of Bandon",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251108_BandonBeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.11058,-124.437035/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=43.11058,-124.437035;S9;Bandon Beach, Bandon, Oregon, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Bandon%20beach&vdpid=5047322712834797690&mb=43.116484~-124.452181~43.104688~-124.421883&cardbg=%23F98745&dt=1758126600000&tt=Bandon%20Beach%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DBandon%252520beach%2526vdpid%253D5047322712834797690%2526mb%253D43.116484~-124.452181~43.104688~-124.421883%2526cardbg%253D%252523F98745%2526dt%253D1758126600000&tstt0=Bandon%20Beach%2C%20United%20States&cp=42.477796~-126.962081&lvl=5.28057&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 8, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Oregon%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bandon+Oregon&form=BGABWCTA7&filters=HpDate:\"20251107_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bandon+Oregon&form=BGABWCTA11&filters=HpDate:\"20251107_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251107",
       "fullstartdate": "20251107",
       "enddate": "20251108",
