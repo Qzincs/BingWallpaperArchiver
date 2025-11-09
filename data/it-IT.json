@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251109",
+      "fullstartdate": "20251109",
+      "enddate": "20251110",
+      "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_IT-IT3250116323_UHD.jpg",
+      "copyrighttext": "© ESA/NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Carl+Sagan&form=BGALM&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nubi interstellari nella Nebulosa Laguna, catturate dal telescopio spaziale Hubble",
+      "description": "L’universo vibra in un canto di creazione, un’armonia silenziosa che corre attraverso galassie lontane. Nella Nebulosa Laguna, il giovane ammasso stellare NGC 6530 accende nuove stelle, scintille di luce che germogliano nel buio immenso, ricordandoci che ogni nascita è intrecciata nel tessuto stesso del cosmo. A circa 4350 anni luce da noi, questa fioritura di stelle, giovane ma già luminosa, racconta la storia primordiale di mondi ancora da sognare. Oggi celebriamo il Carl Sagan Day, il giorno in cui si rende omaggio all’astronomo che seppe trasformare i misteri più remoti dell’universo in parole che tutti potevano ascoltare , come se fossero una poesia.",
+      "headline": "Figli delle Stelle",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Carl+Sagan&form=BGABWCTA7&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Carl+Sagan&form=BGABWCTA11&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251108",
       "fullstartdate": "20251108",
       "enddate": "20251109",

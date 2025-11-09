@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251108",
+      "fullstartdate": "20251108",
+      "enddate": "20251109",
+      "urlbase": "https://www.bing.com/th?id=OHR.BandonBeach_PT-BR3802198914_UHD.jpg",
+      "copyrighttext": "© Grant Ordelheide/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=cidade+Bandon+no+estado+de+Oregon&form=BGALM&filters=HpDate:\"20251108_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Formações rochosas costeiras da Praia de Bandon, Oregon, EUA",
+      "description": "A cidade de Bandon, no estado de Oregon, nos Estados Unidos, recebe os visitantes com o ar salgado do mar e o suave tilintar dos sinos do porto. Fundada na década de 1850, cresceu como centro madeireiro e de pesca de salmão. Próximo ao Farol do Rio Coquille, revela-se uma paisagem costeira de grande beleza.",
+      "headline": "Ícones de pedra de Bandon",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251108_BandonBeach\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cidade+Bandon+no+estado+de+Oregon&form=BGABWCTA7&filters=HpDate:\"20251108_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cidade+Bandon+no+estado+de+Oregon&form=BGABWCTA11&filters=HpDate:\"20251108_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251107",
       "fullstartdate": "20251107",
       "enddate": "20251108",

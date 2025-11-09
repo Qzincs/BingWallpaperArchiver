@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251109",
+      "fullstartdate": "20251109",
+      "enddate": "20251110",
+      "urlbase": "https://www.bing.com/th?id=OHR.BerlinOberbaumbruecke_DE-DE8698967118_UHD.jpg",
+      "copyrighttext": "© fhm/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Oberbaumbr%c3%bccke+Berlin&form=BGALM&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Herzen auf den Türmen der Oberbaumbrücke, Berlin",
+      "description": "Der 9. November gilt als Schicksalstag für Deutschland, denn er ist mit bedeutenden historischen Ereignissen verbunden – wie dem Fall der Berliner Mauer im Jahr 1989. Auch wenn dieser Tag kein offizieller Feiertag ist, so steht er doch als Tag des Gedenkens und der Erinnerung an einen Moment, der Deutschland für immer veränderte. Dieser Tag symbolisiert Freiheit, Einheit und das Ende der Teilung. In Berlin erinnern viele Orte an diese Zeit, doch kaum ein Bauwerk steht so sinnbildlich für das Zusammenwachsen der Stadt wie die Oberbaumbrücke, die auf unserem heutigen Bild zu sehen ist. Die markante Doppeldeckerbrücke über die Spree verbindet die Stadtteile Friedrichshain und Kreuzberg, die einst durch die Mauer getrennt waren. Bis zur Wiedervereinigung verlief die Grenze direkt über die Brücke. Einst ein streng bewachter Grenzübergang, ist sie heute ein lebendiges Wahrzeichen des vereinten Berlins.",
+      "headline": "Symbol der Einheit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_BerlinOberbaumbruecke\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.502235,13.445595/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=52.502235,13.445595;S9;Oberbaumbrücke, Berlin&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=oberbaumbruecke%20Berlin&satid=id.sid%3A0249da07-bddf-54f4-26d0-10bea2d31b56&mb=52.506838~13.433833~52.497054~13.457308&cardbg=%23F98745&dt=1759496400000&tt=Oberbaumbr%C3%BCcke%2C%20Berlin&tsts0=%2526ty%253D18%2526q%253Doberbaumbruecke%252520Berlin%2526satid%253Did.sid%25253A0249da07-bddf-54f4-26d0-10bea2d31b56%2526mb%253D52.506838~13.433833~52.497054~13.457308%2526cardbg%253D%252523F98745%2526dt%253D1759496400000&tstt0=Oberbaumbr%C3%BCcke%2C%20Berlin&cp=52.514297~13.460083&lvl=12.581782&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Berlin&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Oberbaumbr%c3%bccke+Berlin&form=BGABWCTA7&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 639,
+            "Y": 111,
+            "Width": 756,
+            "Height": 1307,
+            "Label": "tower",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Oberbaumbr%c3%bccke+Berlin&form=BGABWCTA11&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251108",
       "fullstartdate": "20251108",
       "enddate": "20251109",

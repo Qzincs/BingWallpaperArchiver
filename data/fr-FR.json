@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251109",
+      "fullstartdate": "20251109",
+      "enddate": "20251110",
+      "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_FR-FR5468322424_UHD.jpg",
+      "copyrighttext": "© ESA/NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+Carl+Sagan&form=BGALM&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nuages interstellaires dans la nébuleuse de la Lagune, capturés par le télescope spatial Hubble",
+      "description": "Au cœur de la nébuleuse de la Lagune, à plus de 4 000 années-lumière d'ici, des nuages de gaz et de poussière s'embrasent. La lumière des étoiles naissantes y sculpte des formes mouvantes, semblables aux brumes dorées qui se lèvent le matin sur le mont Ventoux. Ce berceau stellaire, nommé NGC 6530, abrite des géantes bleues dont le destin est fulgurant : elles vivent vite, meurent jeunes et sèment la matière qui nourrira d’autres étoiles.",
+      "headline": "Un peu plus près des étoiles",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+Carl+Sagan&form=BGABWCTA7&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+Carl+Sagan&form=BGABWCTA11&filters=HpDate:\"20251108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251108",
       "fullstartdate": "20251108",
       "enddate": "20251109",
