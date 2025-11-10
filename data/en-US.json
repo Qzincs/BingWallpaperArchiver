@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251109",
+      "fullstartdate": "20251109",
+      "enddate": "20251110",
+      "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg",
+      "copyrighttext": "© ESA/NASA",
+      "copyrightlink": "https://www.bing.com/search?q=carl+sagan+day&form=BGALM&filters=HpDate:\"20251109_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope",
+      "description": "The universe hums with creation. Featured here, in the Lagoon Nebula, a cluster called NGC 6530 is kindling newborn stars, a glowing reminder that beginnings are woven into the fabric of the cosmos. About 4,350 light-years away and a few million years old, it is a stellar formation still in its earliest chapter.",
+      "headline": "Once upon a star",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 9, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=carl+sagan+day&form=BGABWCTA7&filters=HpDate:\"20251109_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=carl+sagan+day&form=BGABWCTA11&filters=HpDate:\"20251109_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251108",
       "fullstartdate": "20251108",
       "enddate": "20251109",

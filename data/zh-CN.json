@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251110",
+      "fullstartdate": "20251110",
+      "enddate": "20251111",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.PrairieDogTown_ZH-CN3989288881_UHD.jpg",
+      "copyrighttext": "© Greg Vaughn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8a%a3%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20251109_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国",
+      "description": "47年前的11月10日，南达科他州一片荒凉的草原被正式列入美国自然遗产名录。由风与水共同雕琢而成的劣地国家公园于 1978 年从国家纪念地升级为国家公园，获得更强的保护级别。公园内的悬崖与尖塔矗立在化石层之上，那些化石揭示了远古时代的犀牛、骆驼以及曾覆盖此地的亚热带海洋。然而，这座公园不仅是通往过去的窗口，它也守护着美国现存最大、最完整的混生草原生态系统之一。",
+      "headline": "草原之下的生命",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251110_PrairieDogTown\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8a%a3%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20251109_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2451,
+            "Y": 670,
+            "Width": 1172,
+            "Height": 1162,
+            "Label": "carnivore",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8a%a3%e5%9c%b0%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20251109_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251109",
       "fullstartdate": "20251109",
       "enddate": "20251110",

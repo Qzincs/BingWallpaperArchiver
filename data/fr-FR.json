@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251110",
+      "fullstartdate": "20251110",
+      "enddate": "20251111",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_FR-FR5690606254_UHD.jpg",
+      "copyrighttext": "© Greg Vaughn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parc+National+Badland&form=BGALM&filters=HpDate:\"20251109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chiens de prairie à queue noire, Parc National des Badlands, Dakota du Sud, États-Unis",
+      "description": "Sous le ciel immense du Dakota du Sud, aux États-Unis, les Badlands s’élèvent comme des cathédrales de roche sculptées par le vent. Dans une prairie battue par les saisons, une ville invisible s’étend sous nos pieds : Roberts Prairie Dog Town. Des centaines de chiens de prairie à queue noire y creusent des galeries, sifflent, s’ébattent et veillent sur leur territoire comme des sentinelles miniatures.",
+      "headline": "La vie cachée de la prairie",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251110_PrairieDogTown\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.90519,-102.30719/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.90519,-102.30719;S9;Roberts Prairie Dog Town, Parc National des Badlands, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=roberts%20prairie%20dog%20town%20badlands%20national%20park%20south%20dakota&ss=ypid.YN873x5386213267099257309&mb=43.910253~-102.31312~43.900127~-102.301276&description=Rim%20Rd%2C%20Wall%2C%20SD%2057790&cardbg=%23219AB6&dt=1758285000000&tt=Roberts%20Prairie%20Dog%20Town&tsts0=%2526ty%253D18%2526q%253Droberts%252520prairie%252520dog%252520town%252520badlands%252520national%252520park%252520south%252520dakota%2526ss%253dypid.YN873x5386213267099257309%2526mb%253D43.910253~-102.31312~43.900127~-102.301276%2526description%253Drim%252520Rd%25252C%252520Wall%25252C%252520SD%25252057790%2526cardbg%253D%252523219AB6%2526dt%253D1758285000000&tstt0=Roberts%20Prairie%20Dog%20Town&cp=44.813312~-116.318083&lvl=5.513759&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Parc+National+des+Badlands%2c+Dakota+du+Sud%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parc+National+Badland&form=BGABWCTA7&filters=HpDate:\"20251109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2451,
+            "Y": 670,
+            "Width": 1172,
+            "Height": 1162,
+            "Label": "carnivore",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parc+National+Badland&form=BGABWCTA11&filters=HpDate:\"20251109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251109",
       "fullstartdate": "20251109",
       "enddate": "20251110",

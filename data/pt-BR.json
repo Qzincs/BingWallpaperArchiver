@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251109",
+      "fullstartdate": "20251109",
+      "enddate": "20251110",
+      "urlbase": "https://www.bing.com/th?id=OHR.LagoonNebula_PT-BR4213803811_UHD.jpg",
+      "copyrighttext": "© ESA/NASA",
+      "copyrightlink": "https://www.bing.com/search?q=Nebulosa+da+Lagoa&form=BGALM&filters=HpDate:\"20251109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nuvens interestelares na Nebulosa da Lagoa, capturadas pelo Telescópio Espacial Hubble",
+      "description": "O universo pulsa com a energia da criação. Na imponente Nebulosa da Lagoa, situada a cerca de 4.350 anos-luz da Terra, o aglomerado NGC 6530 dá origem a novas estrelas, iluminando nuvens de gás e poeira. Com apenas alguns milhões de anos, essa região ainda vive os primeiros capítulos de sua história, revelando a beleza dos começos entrelaçados na própria estrutura do cosmos — o conjunto de tudo o que existe: espaço, tempo, matéria e energia.",
+      "headline": "A dança da criação",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251109_LagoonNebula\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nebulosa+da+Lagoa&form=BGABWCTA7&filters=HpDate:\"20251109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nebulosa+da+Lagoa&form=BGABWCTA11&filters=HpDate:\"20251109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251108",
       "fullstartdate": "20251108",
       "enddate": "20251109",
