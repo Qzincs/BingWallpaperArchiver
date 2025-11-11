@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251111",
+      "fullstartdate": "20251111",
+      "enddate": "20251112",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.ExternsteineSunset_ZH-CN4190155102_UHD.jpg",
+      "copyrighttext": "© Michael Sroka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%9d%a1%e9%a1%bf%e5%a0%a1%e6%9e%97%e5%b1%b1&form=BGALM&filters=HpDate:\"20251110_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "条顿堡森林的伊克斯坦岩石层，德国",
+      "description": "在德国北莱茵-威斯特法伦州的霍恩-巴特迈因贝格附近，条顿堡森林的腹地矗立着壮丽的埃克斯特恩岩石群。这些砂岩石柱形成于约7,000万年前，是德国最重要的自然与文化地标之一。高达35米的岩柱以其独特的形态与深厚的历史底蕴吸引着无数游客。早在中世纪，这里就被用作宗教祭祀之地，这一点从12世纪刻在岩石上的下十字架像浮雕中可见一斑，这是阿尔卑斯山以北最古老的此类浮雕。",
+      "headline": "传奇之地",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_ExternsteineSunset\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 11",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%9d%a1%e9%a1%bf%e5%a0%a1%e6%9e%97%e5%b1%b1&form=BGABWCTA7&filters=HpDate:\"20251110_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%9d%a1%e9%a1%bf%e5%a0%a1%e6%9e%97%e5%b1%b1&form=BGABWCTA11&filters=HpDate:\"20251110_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251110",
       "fullstartdate": "20251110",
       "enddate": "20251111",

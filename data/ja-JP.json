@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251111",
+      "fullstartdate": "20251111",
+      "enddate": "20251112",
+      "urlbase": "https://www.bing.com/th?id=OHR.BulgariaRocks_JA-JP2963566999_UHD.jpg",
+      "copyrighttext": "© EvaL Miko/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%99%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%88%e3%83%81%e3%82%af%e5%b2%a9&form=BGALM&filters=HpDate:\"20251110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ベログラトチク岩, ブルガリア",
+      "description": "ブルガリア国内に位置し、隣国セルビアの国境にまでつながるバルカン山脈。バルカン半島の名前の由来ともなった山脈で、スターラ山脈とも呼ばれています。ブルガリアという国の歴史と密接に関わる山脈であり、天然の要塞として、あるいは戦士たちの隠れ家として機能してきました…",
+      "headline": "浸食で形成された砂岩",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_BulgariaRocks\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.62468,22.69277/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.62468,22.69277;S9;ベログラトチク岩, ブルガリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Belogradchik+Rocks&ss=ypid.YN8019x16802349372634234600&mb=43.630523%7E22.682776%7E43.618827%7E22.702775&description=Vidin+3900+Belogradchik&cardbg=%233DB838&dt=1757086200000&tt=Belogradchik+Rocks&tsts0=%2526ty%253D18%2526q%253DBelogradchik%252520Rocks%2526ss%253Dypid.YN8019x16802349372634234600%2526mb%253D43.630523%7E22.682776%7E43.618827%7E22.702775%2526description%253DVidin%2525203900%252520Belogradchik%2526cardbg%253D%2525233DB838%2526dt%253D1757086200000&tstt0=Belogradchik+Rocks&cp=43.793994%7E19.070991&lvl=5.6&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 11 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%96%e3%83%ab%e3%82%ac%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%99%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%88%e3%83%81%e3%82%af%e5%b2%a9&form=BGABWCTA7&filters=HpDate:\"20251110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%99%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%88%e3%83%81%e3%82%af%e5%b2%a9&form=BGABWCTA11&filters=HpDate:\"20251110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251110",
       "fullstartdate": "20251110",
       "enddate": "20251111",

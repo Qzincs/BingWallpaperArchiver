@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251110",
+      "fullstartdate": "20251110",
+      "enddate": "20251111",
+      "urlbase": "https://www.bing.com/th?id=OHR.PrairieDogTown_ROW3043607482_UHD.jpg",
+      "copyrighttext": "© Greg Vaughn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Black-tailed+prairie+dog&form=BGALM&filters=HpDate:\"20251110_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota, United States",
+      "description": "In 1978, a stark stretch of South Dakota prairie gained recognition as one of America's natural treasures. Badlands National Park, carved by wind and water, was redesignated from national monument to national park status, securing stronger protection within the United States' National Park System. Its cliffs and spires rise above fossil beds that reveal ancient rhinoceroses, camels and subtropical seas. Yet the park is not only a window into the past; it also safeguards one of the largest remaining tracts of mixed-grass prairie in the country.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251110_PrairieDogTown\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Black-tailed+prairie+dog&form=BGABWCTA7&filters=HpDate:\"20251110_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2451,
+            "Y": 670,
+            "Width": 1172,
+            "Height": 1162,
+            "Label": "carnivore",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Black-tailed+prairie+dog&form=BGABWCTA11&filters=HpDate:\"20251110_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251109",
       "fullstartdate": "20251109",
       "enddate": "20251110",

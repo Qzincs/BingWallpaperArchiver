@@ -1,6 +1,83 @@
 {
   "images": [
     {
+      "startdate": "20251111",
+      "fullstartdate": "20251111",
+      "enddate": "20251112",
+      "urlbase": "https://www.bing.com/th?id=OHR.ExternsteineSunset_EN-GB9984773372_UHD.jpg",
+      "copyrighttext": "© Michael Sroka/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=The+Externsteine+Teutoburg+Forest&form=BGALM&filters=HpDate:\"20251111_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The Externsteine rock formation in the Teutoburg Forest, North Rhine-Westphalia, Germany",
+      "description": "Nestled in the heart of Germany's Teutoburg Forest, near the town of Horn-Bad Meinberg in North Rhine-Westphalia, the dramatic rock formations known as the Externsteine rise majestically into the sky. These sandstone pillars, formed around 70 million years ago, are among Germany's most significant natural and cultural landmarks. They captivate visitors with their unique shapes and rich historical significance, attracting thousands each year. The rocks reach heights of up to 35 metres. As early as the Middle Ages, the site was used as a place of worship, as evidenced by a remarkable 12th-century relief carved into the stone depicting the Descent from the Cross. It is the oldest of its kind north of the Alps.",
+      "headline": "Where legends rise",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251111_ExternsteineSunset\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.870319,8.927017/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.870319,8.927017;S9;Externsteine,Teutoburg Forest, North Rhine-Westphalia, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&ss=ypid.YN6740x6052833378597566757&mb=51.873676~8.91724~51.86574~8.932539&description=Externsteiner%20Str.%2033%20%C2%B7%2032805%20Horn-Bad%20Meinberg%C2%B7Wahrzeichen%20und%20historisches%20Geb%C3%A4ude&dt=1759410000000&tt=Haus%20Externsteine&tsts1=%2526ty%253D18%2526ss%253Dypid.YN6740x6052833378597566757%2526mb%253D51.873676~8.91724~51.86574~8.932539%2526description%253DExternsteiner%252520Str.%25252033%252520%2525C2%2525B7%25252032805%252520Horn-Bad%252520Meinberg%2525C2%2525B7Wahrzeichen%252520und%252520historisches%252520Geb%2525C3%2525A4ude%2526dt%253D1759410000000&tstt1=Haus%20Externsteine&cp=51.838518~8.808373&lvl=12.306381&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+North+Rhine-Westphalia%2c+Germany&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=The+Externsteine+Teutoburg+Forest&form=BGABWCTA7&filters=HpDate:\"20251111_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=The+Externsteine+Teutoburg+Forest&form=BGABWCTA11&filters=HpDate:\"20251111_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251110",
       "fullstartdate": "20251110",
       "enddate": "20251111",

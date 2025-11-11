@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20251111",
+      "fullstartdate": "20251111",
+      "enddate": "20251112",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2019-B17_Landmarks_WashingtonMonumentDC_shutterstock_612209351",
+      "copyrighttext": "© TobyG/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Washington+Monument%2c+Washington+D.C&form=BGALM",
+      "title": "Washington Monument, Washington D.C",
+      "description": "Sunrise over Washington Monument pictured from the steps of Lincoln Memorial",
+      "headline": "Washington Monument, Washington D.C",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Washington+Monument%2c+Washington+D.C&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251110",
       "fullstartdate": "20251110",
       "enddate": "20251111",
