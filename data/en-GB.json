@@ -1,6 +1,589 @@
 {
   "images": [
     {
+      "startdate": "20251112",
+      "fullstartdate": "20251112",
+      "enddate": "20251113",
+      "urlbase": "https://www.bing.com/th?id=OHR.ColosseumRome_EN-GB0175580100_UHD.jpg",
+      "copyrighttext": "© Nico De Pasquale Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Colosseum+Rome&form=BGALM&filters=HpDate:\"20251112_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Aerial view of the Colosseum, Rome, Italy",
+      "description": "Think modern sports are dramatic? Ancient Romans had front-row seats to spectacles far more intense inside the Colosseum. Commissioned by the Flavian emperor Vespasian in 72 CE and finished by his son Titus in 80 CE, this amphitheatre broke tradition with its predecessors that were built into hillsides for natural support. Instead, the Colosseum was a fully free-standing architectural giant. Crafted from stone and concrete, its arches and vaults supported an arena that could host up to 50,000 spectators. Gladiators, exotic animals and even staged sea battles thrilled the crowds, while hidden elevators and trapdoors created sudden, dramatic appearances.",
+      "headline": "All roads lead to Rome",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_ColosseumRome\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.89028,12.49222/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=41.89028,12.49222;S9;Colosseum, Rome, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=colosseum%20rome&satid=id.sid%3A8decf6d1-fdf8-4358-9807-ef1bc8ec8df0&vdpid=7215944276671201284&mb=41.891385~12.489878~41.889172~12.494549&cardbg=%23219AB6&dt=1758195000000&tt=Colosseum%2C%20Rome%2C%20Rome%2C%20Latium%2C%20Italy&tsts0=%2526ty%253D30%2526q%253Dcolosseum%252520rome%2526satid%253Did.sid%25253A8decf6d1-fdf8-4358-9807-ef1bc8ec8df0%2526vdpid%253D7215944276671201284%2526mb%253D41.891385~12.489878~41.889172~12.494549%2526cardbg%253D%252523219AB6%2526dt%253D1758195000000&tstt0=Colosseum%2C%20Rome%2C%20Rome%2C%20Latium%2C%20Italy&cp=41.855676~-16.247007&lvl=3.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Rome%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Colosseum+Rome&form=BGABWCTA7&filters=HpDate:\"20251112_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 783,
+            "Width": 3833,
+            "Height": 1373,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                828
+              ],
+              [
+                3648,
+                829
+              ],
+              [
+                3751,
+                856
+              ],
+              [
+                3555,
+                878
+              ],
+              [
+                3563,
+                926
+              ],
+              [
+                3509,
+                889
+              ],
+              [
+                3533,
+                862
+              ],
+              [
+                3412,
+                892
+              ],
+              [
+                3424,
+                941
+              ],
+              [
+                3594,
+                957
+              ],
+              [
+                3496,
+                964
+              ],
+              [
+                3503,
+                994
+              ],
+              [
+                3412,
+                959
+              ],
+              [
+                3367,
+                983
+              ],
+              [
+                3401,
+                939
+              ],
+              [
+                3272,
+                918
+              ],
+              [
+                3422,
+                886
+              ],
+              [
+                3352,
+                862
+              ],
+              [
+                3229,
+                877
+              ],
+              [
+                3247,
+                918
+              ],
+              [
+                3155,
+                888
+              ],
+              [
+                3127,
+                937
+              ],
+              [
+                3112,
+                857
+              ],
+              [
+                2988,
+                962
+              ],
+              [
+                2960,
+                924
+              ],
+              [
+                2992,
+                895
+              ],
+              [
+                2842,
+                912
+              ],
+              [
+                2803,
+                952
+              ],
+              [
+                2752,
+                895
+              ],
+              [
+                2707,
+                953
+              ],
+              [
+                2701,
+                881
+              ],
+              [
+                2752,
+                885
+              ],
+              [
+                2757,
+                845
+              ],
+              [
+                2632,
+                845
+              ],
+              [
+                2622,
+                884
+              ],
+              [
+                2372,
+                937
+              ],
+              [
+                2243,
+                1062
+              ],
+              [
+                2085,
+                1008
+              ],
+              [
+                2107,
+                989
+              ],
+              [
+                2027,
+                1012
+              ],
+              [
+                2004,
+                965
+              ],
+              [
+                1877,
+                993
+              ],
+              [
+                1837,
+                923
+              ],
+              [
+                1558,
+                936
+              ],
+              [
+                1553,
+                973
+              ],
+              [
+                1461,
+                982
+              ],
+              [
+                1409,
+                1033
+              ],
+              [
+                1439,
+                1397
+              ],
+              [
+                1534,
+                1514
+              ],
+              [
+                1717,
+                1582
+              ],
+              [
+                1783,
+                1554
+              ],
+              [
+                1851,
+                1609
+              ],
+              [
+                1882,
+                1579
+              ],
+              [
+                1976,
+                1615
+              ],
+              [
+                1981,
+                1522
+              ],
+              [
+                2097,
+                1495
+              ],
+              [
+                2106,
+                1451
+              ],
+              [
+                2144,
+                1488
+              ],
+              [
+                2106,
+                1549
+              ],
+              [
+                2159,
+                1550
+              ],
+              [
+                2161,
+                1437
+              ],
+              [
+                2218,
+                1449
+              ],
+              [
+                2226,
+                1414
+              ],
+              [
+                2266,
+                1439
+              ],
+              [
+                2200,
+                1548
+              ],
+              [
+                2242,
+                1511
+              ],
+              [
+                2420,
+                1540
+              ],
+              [
+                2342,
+                1508
+              ],
+              [
+                2409,
+                1463
+              ],
+              [
+                2385,
+                1410
+              ],
+              [
+                2338,
+                1423
+              ],
+              [
+                2350,
+                1342
+              ],
+              [
+                2296,
+                1336
+              ],
+              [
+                2302,
+                1399
+              ],
+              [
+                2278,
+                1286
+              ],
+              [
+                2220,
+                1286
+              ],
+              [
+                2325,
+                1281
+              ],
+              [
+                2343,
+                1214
+              ],
+              [
+                2398,
+                1221
+              ],
+              [
+                2386,
+                1103
+              ],
+              [
+                2356,
+                1117
+              ],
+              [
+                2381,
+                1153
+              ],
+              [
+                2341,
+                1136
+              ],
+              [
+                2342,
+                1084
+              ],
+              [
+                2397,
+                1078
+              ],
+              [
+                2468,
+                1117
+              ],
+              [
+                2433,
+                1149
+              ],
+              [
+                2617,
+                1116
+              ],
+              [
+                2549,
+                1179
+              ],
+              [
+                2815,
+                1219
+              ],
+              [
+                2817,
+                1172
+              ],
+              [
+                2902,
+                1241
+              ],
+              [
+                3075,
+                1244
+              ],
+              [
+                2929,
+                1286
+              ],
+              [
+                3021,
+                1357
+              ],
+              [
+                3187,
+                1379
+              ],
+              [
+                3184,
+                1319
+              ],
+              [
+                3257,
+                1299
+              ],
+              [
+                3213,
+                1238
+              ],
+              [
+                3247,
+                1234
+              ],
+              [
+                3307,
+                1335
+              ],
+              [
+                3368,
+                1352
+              ],
+              [
+                3303,
+                1438
+              ],
+              [
+                3383,
+                1480
+              ],
+              [
+                3361,
+                1553
+              ],
+              [
+                3460,
+                1582
+              ],
+              [
+                3424,
+                1555
+              ],
+              [
+                3478,
+                1521
+              ],
+              [
+                3432,
+                1514
+              ],
+              [
+                3579,
+                1446
+              ],
+              [
+                3492,
+                1449
+              ],
+              [
+                3484,
+                1403
+              ],
+              [
+                3522,
+                1416
+              ],
+              [
+                3591,
+                1340
+              ],
+              [
+                3668,
+                1361
+              ],
+              [
+                3652,
+                1241
+              ],
+              [
+                3697,
+                1265
+              ],
+              [
+                3727,
+                1216
+              ],
+              [
+                3727,
+                1306
+              ],
+              [
+                3766,
+                1238
+              ],
+              [
+                3817,
+                1268
+              ],
+              [
+                3839,
+                1239
+              ],
+              [
+                3839,
+                962
+              ],
+              [
+                3689,
+                924
+              ],
+              [
+                3754,
+                876
+              ],
+              [
+                3839,
+                918
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Colosseum+Rome&form=BGABWCTA11&filters=HpDate:\"20251112_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251111",
       "fullstartdate": "20251111",
       "enddate": "20251112",
