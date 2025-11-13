@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251113",
+      "fullstartdate": "20251113",
+      "enddate": "20251114",
+      "urlbase": "https://www.bing.com/th?id=OHR.AloeDichotoma_ES-ES2317019212_UHD.jpg",
+      "copyrighttext": "© Wim van den Heever/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Keetmanshoop&form=BGALM&filters=HpDate:\"20251112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Árboles Quiver por la noche con la Vía Láctea, Keetmanshoop, Namibia",
+      "description": "De todas las plantas del mundo, el árbol quiver parece sacado del futuro. Originarios del sur de África, especialmente de Namibia, estos impresionantes gigantes no son árboles reales, sino una especie de aloe adaptada al sol abrasador del desierto. Sus gruesos troncos almacenan agua y sus ramas reflejan el calor, ayudándoles a sobrevivir en condiciones extremas. Pueden alcanzar hasta 7 metros de altura y algunos viven más de 100 años. Además, son esenciales para su ecosistema, ofreciendo perchas y sitios de anidación para aves, como los tejedores, muy común en sus ramas.",
+      "headline": "¡Un nido de tejedores!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251113_AloeDichotoma\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Keetmanshoop&form=BGABWCTA7&filters=HpDate:\"20251112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Keetmanshoop&form=BGABWCTA11&filters=HpDate:\"20251112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251112",
       "fullstartdate": "20251112",
       "enddate": "20251113",

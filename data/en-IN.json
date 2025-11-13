@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251113",
+      "fullstartdate": "20251113",
+      "enddate": "20251114",
+      "urlbase": "https://www.bing.com/th?id=OHR.AloeDichotoma_EN-IN4060736869_UHD.jpg",
+      "copyrighttext": "© Wim van den Heever/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Quiver+tree&form=BGALM&filters=HpDate:\"20251112_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Quiver trees at night with the Milky Way, Keetmanshoop, Namibia",
+      "description": "Of all the plants on Earth, the quiver tree looks the most like a vision from the future. Found in Southern Africa, including parts of Namibia, these striking giants are not true trees but a species of aloe adapted to life under the desert's scorching sun. Their thick trunks store water, while their branches reflect heat, helping them endure harsh conditions. Reaching up to 7 metres in height, with some living for more than 100 years, quiver trees are also vital to their ecosystem. They offer rare perches and nesting sites for birds in landscapes where few other trees exist.",
+      "headline": "Quivering under starlight",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251113_AloeDichotoma\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-26.58333,18.13333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=-26.58333,18.13333;S9;Keetmanshoop, Karas, Namibia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Keetmanshoop&satid=id.sid%3Ae1735fb9-a05e-9964-2b81-07a3246275ec&vdpid=8155031629962674177&mb=-26.55888~18.101398~-26.602304~18.177701&cardbg=%23F98745&tt=Keetmanshoop%2C%20Karas%2C%20Namibia&tsts0=%2526ty%253D30%2526q%253DKeetmanshoop%2526satid%253Did.sid%25253Ae1735fb9-a05e-9964-2b81-07a3246275ec%2526vdpid%253D8155031629962674177%2526mb%253D-26.55888~18.101398~-26.602304~18.177701%2526cardbg%253D%252523F98745&tstt0=Keetmanshoop%2C%20Karas%2C%20Namibia&cp=-24.319753~-5.10961&lvl=3.57&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Keetmanshoop%2c+Namibia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Quiver+tree&form=BGABWCTA7&filters=HpDate:\"20251112_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Quiver+tree&form=BGABWCTA11&filters=HpDate:\"20251112_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251112",
       "fullstartdate": "20251112",
       "enddate": "20251113",

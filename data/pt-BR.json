@@ -1,6 +1,189 @@
 {
   "images": [
     {
+      "startdate": "20251112",
+      "fullstartdate": "20251112",
+      "enddate": "20251113",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiaPantanal_PT-BR4333976346_UHD.jpg",
+      "copyrighttext": "© Angelo Gandolfi/NPL",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+do+Pantanal&form=BGALM&filters=HpDate:\"20251112_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Jacaré-do-pantanal com uma borboleta pousada em  seu focinho, Pantanal",
+      "description": "Com olhos atentos, o jacaré é o símbolo da tranquilidade selvagem do Pantanal. No dia 12 de novembro, celebramos o Dia do Pantanal, uma data dedicada à maior planície alagável do mundo e à sua impressionante biodiversidade. Entre seus habitantes mais icônicos está o jacaré-do-pantanal, retratado na imagem com uma borboleta repousando suavemente sobre seu focinho — uma cena que revela o equilíbrio e a beleza da vida selvagem.",
+      "headline": "No coração do Pantanal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251112_DiaPantanal\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+do+Pantanal&form=BGABWCTA7&filters=HpDate:\"20251112_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 575,
+            "Width": 3529,
+            "Height": 1581,
+            "Label": "crocodile",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                2152
+              ],
+              [
+                1450,
+                2149
+              ],
+              [
+                1773,
+                2043
+              ],
+              [
+                2961,
+                1843
+              ],
+              [
+                3168,
+                1785
+              ],
+              [
+                3309,
+                1711
+              ],
+              [
+                3472,
+                1513
+              ],
+              [
+                3522,
+                1354
+              ],
+              [
+                3415,
+                1225
+              ],
+              [
+                3262,
+                1125
+              ],
+              [
+                3158,
+                1095
+              ],
+              [
+                3038,
+                1119
+              ],
+              [
+                2945,
+                1192
+              ],
+              [
+                2779,
+                1222
+              ],
+              [
+                2437,
+                1219
+              ],
+              [
+                2012,
+                1129
+              ],
+              [
+                1676,
+                925
+              ],
+              [
+                1492,
+                711
+              ],
+              [
+                1237,
+                585
+              ],
+              [
+                1192,
+                644
+              ],
+              [
+                1147,
+                636
+              ],
+              [
+                1079,
+                733
+              ],
+              [
+                984,
+                772
+              ],
+              [
+                499,
+                749
+              ],
+              [
+                324,
+                828
+              ],
+              [
+                0,
+                816
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+do+Pantanal&form=BGABWCTA11&filters=HpDate:\"20251112_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251111",
       "fullstartdate": "20251111",
       "enddate": "20251112",
