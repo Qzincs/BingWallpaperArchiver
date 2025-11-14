@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251114",
+      "fullstartdate": "20251114",
+      "enddate": "20251115",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2019-B20_UmbrellaRockGhana_shutterstock_243946015",
+      "copyrighttext": "© Felix Lipov/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Umbrella+Rock%2c+Ghana&form=BGALM",
+      "title": "Umbrella Rock, Ghana",
+      "description": "View from Umbrella Rock in the Yilo Krobo District, outside of Accra, Ghana. The Umbrella Rock is situated on a high land making it possible to watch nature hundreds of miles away into the green.",
+      "headline": "Umbrella Rock, Ghana",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Umbrella+Rock%2c+Ghana&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 254,
+            "Width": 3072,
+            "Height": 2032,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Umbrella+Rock%2c+Ghana&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251113",
       "fullstartdate": "20251113",
       "enddate": "20251114",

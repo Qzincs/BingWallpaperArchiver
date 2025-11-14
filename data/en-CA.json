@@ -1,6 +1,441 @@
 {
   "images": [
     {
+      "startdate": "20251113",
+      "fullstartdate": "20251113",
+      "enddate": "20251114",
+      "urlbase": "https://www.bing.com/th?id=OHR.TntChrisMkt_EN-CA8094529209_UHD.jpg",
+      "copyrighttext": "© Steve Russell/Toronto Star via Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Distillery+District&form=BGALM&filters=HpDate:\"20251113_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The 2020 Distillery Winter Village, Toronto",
+      "description": "Long before LED lights and Instagram shots, Christmas markets were places for neighbours to gather—steaming mugs in hand, carols in the air and crafts laid out on wooden stalls. Originating in Germany in 1434, these open-air fairs brought warmth to cold winters. Canada soon embraced that same spirit, turning snowy evenings into celebrations that felt both old-world and wonderfully local. Today, cities from Montreal to Vancouver—with stops in Quebec City, Edmonton, Banff and Toronto—keep the tradition glowing with their own festive markets.",
+      "headline": "Shop till you drop",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251113_TntChrisMkt\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.650387,-79.358917/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.650387,-79.358917;S9;Distillery Historic District, Toronto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=distillery%20district&ss=ypid.YN1226x777168612&mb=43.655934~-79.368732~43.644849~-79.34912&description=55%20Mill%20St%2C%20Toronto%20ON%20M5A%203C4&cardbg=%23219AB6&dt=1760081400000&tt=The%20Distillery%20Winter%20Village&tsts0=%2526ty%253D18%2526q%253Ddistillery%252520district%2526ss%253Dypid.YN1226x777168612%2526mb%253D43.655934~-79.368732~43.644849~-79.34912%2526description%253D55%252520Mill%252520St%25252C%252520Toronto%252520ON%252520M5A%2525203C4%2526cardbg%253D%252523219AB6%2526dt%253D1760081400000&tstt0=The%20Distillery%20Winter%20Village&cp=43.04909~-81.522691&lvl=6.983062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Toronto&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Distillery+District&form=BGABWCTA7&filters=HpDate:\"20251113_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 451,
+            "Y": 284,
+            "Width": 2872,
+            "Height": 1872,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                847,
+                504
+              ],
+              [
+                592,
+                1517
+              ],
+              [
+                540,
+                1529
+              ],
+              [
+                597,
+                1556
+              ],
+              [
+                562,
+                1702
+              ],
+              [
+                594,
+                1750
+              ],
+              [
+                555,
+                1741
+              ],
+              [
+                583,
+                1767
+              ],
+              [
+                540,
+                1788
+              ],
+              [
+                502,
+                1894
+              ],
+              [
+                474,
+                2145
+              ],
+              [
+                1310,
+                2151
+              ],
+              [
+                1327,
+                2125
+              ],
+              [
+                1425,
+                2122
+              ],
+              [
+                1410,
+                2080
+              ],
+              [
+                1493,
+                2066
+              ],
+              [
+                1507,
+                2122
+              ],
+              [
+                1555,
+                2127
+              ],
+              [
+                1579,
+                2075
+              ],
+              [
+                1612,
+                2119
+              ],
+              [
+                1657,
+                2059
+              ],
+              [
+                1717,
+                2115
+              ],
+              [
+                1734,
+                2099
+              ],
+              [
+                1743,
+                2148
+              ],
+              [
+                1868,
+                2159
+              ],
+              [
+                2035,
+                2148
+              ],
+              [
+                2047,
+                2127
+              ],
+              [
+                2138,
+                2148
+              ],
+              [
+                2152,
+                2115
+              ],
+              [
+                2181,
+                2142
+              ],
+              [
+                2390,
+                2149
+              ],
+              [
+                2407,
+                2089
+              ],
+              [
+                2527,
+                2111
+              ],
+              [
+                2543,
+                2092
+              ],
+              [
+                2572,
+                2124
+              ],
+              [
+                2723,
+                2078
+              ],
+              [
+                2707,
+                2104
+              ],
+              [
+                2754,
+                2126
+              ],
+              [
+                2790,
+                2002
+              ],
+              [
+                2699,
+                1987
+              ],
+              [
+                2700,
+                1961
+              ],
+              [
+                2755,
+                1980
+              ],
+              [
+                2797,
+                1958
+              ],
+              [
+                2833,
+                1988
+              ],
+              [
+                2869,
+                1953
+              ],
+              [
+                2850,
+                1896
+              ],
+              [
+                2901,
+                1838
+              ],
+              [
+                2938,
+                1843
+              ],
+              [
+                2933,
+                1903
+              ],
+              [
+                2964,
+                1945
+              ],
+              [
+                2920,
+                1992
+              ],
+              [
+                2887,
+                1989
+              ],
+              [
+                2883,
+                2021
+              ],
+              [
+                2932,
+                2027
+              ],
+              [
+                2942,
+                1988
+              ],
+              [
+                2992,
+                1971
+              ],
+              [
+                3014,
+                2020
+              ],
+              [
+                3069,
+                2042
+              ],
+              [
+                3083,
+                2004
+              ],
+              [
+                3131,
+                2042
+              ],
+              [
+                3155,
+                2037
+              ],
+              [
+                3128,
+                2021
+              ],
+              [
+                3142,
+                1996
+              ],
+              [
+                3157,
+                2061
+              ],
+              [
+                3277,
+                2128
+              ],
+              [
+                3231,
+                1793
+              ],
+              [
+                3155,
+                1523
+              ],
+              [
+                3178,
+                1497
+              ],
+              [
+                3126,
+                1436
+              ],
+              [
+                2915,
+                374
+              ],
+              [
+                2827,
+                367
+              ],
+              [
+                2787,
+                428
+              ],
+              [
+                2596,
+                428
+              ],
+              [
+                2482,
+                405
+              ],
+              [
+                2457,
+                342
+              ],
+              [
+                2347,
+                352
+              ],
+              [
+                2333,
+                405
+              ],
+              [
+                1999,
+                403
+              ],
+              [
+                1974,
+                344
+              ],
+              [
+                1907,
+                305
+              ],
+              [
+                1870,
+                385
+              ],
+              [
+                1746,
+                404
+              ],
+              [
+                1522,
+                372
+              ],
+              [
+                1498,
+                308
+              ],
+              [
+                1383,
+                315
+              ],
+              [
+                1344,
+                603
+              ],
+              [
+                1312,
+                635
+              ],
+              [
+                985,
+                621
+              ],
+              [
+                967,
+                515
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Distillery+District&form=BGABWCTA11&filters=HpDate:\"20251113_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251112",
       "fullstartdate": "20251112",
       "enddate": "20251113",

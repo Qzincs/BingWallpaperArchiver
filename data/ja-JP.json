@@ -1,6 +1,333 @@
 {
   "images": [
     {
+      "startdate": "20251114",
+      "fullstartdate": "20251114",
+      "enddate": "20251115",
+      "urlbase": "https://www.bing.com/th?id=OHR.ManateeBaby_JA-JP3549645655_UHD.jpg",
+      "copyrighttext": "© Gregory Sweeney/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9e%e3%83%8a%e3%83%86%e3%82%a3%e3%83%bc&form=BGALM&filters=HpDate:\"20251113_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "マナティー, 米国 フロリダ州",
+      "description": "11 月は「マナティー啓発月間」。絶滅危惧種であるマナティーの保護と理解を深めるためのもので、米国フロリダ州を中心に実施されます。11 月になると、マナティーは暖かい海域を求めてフロリダ州の湾岸地域などへ集まり始めます。そして、彼らの目撃数が急増するとともに、ボートとの衝突事故も増加します。そのため、この時期になるとボートの速度制限といった保護措置が講じられます。また、監視活動の強化や海草の牧草地の回復プロジェクトなどが進められています…",
+      "headline": "11 月はマナティー啓発月間",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251114_ManateeBaby\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=28.90055,-82.59361;S9;クリスタルリバー, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=crystal%20river%20florida&satid=id.sid%3A806df007-cc2a-7eb5-885a-275af60e0442&vdpid=5498223398729285633&mb=28.925877~-82.687263~28.854931~-82.535317&cardbg=%23F98745&tt=Crystal%20River%2C%20Florida%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dcrystal%252520river%252520florida%2526satid%253Did.sid%25253A806df007-cc2a-7eb5-885a-275af60e0442%2526vdpid%253D5498223398729285633%2526mb%253D28.925877~-82.687263~28.854931~-82.535317%2526cardbg%253D%252523F98745&tstt0=Crystal%20River%2C%20Florida%2C%20United%20States&cp=24.99799~-97.998574&lvl=5.48411&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%95%e3%83%ad%e3%83%aa%e3%83%80%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9e%e3%83%8a%e3%83%86%e3%82%a3%e3%83%bc&form=BGABWCTA7&filters=HpDate:\"20251113_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1534,
+            "Y": 785,
+            "Width": 2300,
+            "Height": 1302,
+            "Label": "harbor seal",
+            "ContourList": [],
+            "Contours": [
+              [
+                1564,
+                969
+              ],
+              [
+                1552,
+                1061
+              ],
+              [
+                1587,
+                1165
+              ],
+              [
+                1643,
+                1202
+              ],
+              [
+                1733,
+                1340
+              ],
+              [
+                1746,
+                1651
+              ],
+              [
+                1795,
+                1827
+              ],
+              [
+                2033,
+                2036
+              ],
+              [
+                2058,
+                2037
+              ],
+              [
+                2062,
+                2011
+              ],
+              [
+                1879,
+                1750
+              ],
+              [
+                1861,
+                1634
+              ],
+              [
+                1888,
+                1539
+              ],
+              [
+                1960,
+                1527
+              ],
+              [
+                2373,
+                1571
+              ],
+              [
+                2410,
+                1604
+              ],
+              [
+                2437,
+                1666
+              ],
+              [
+                2437,
+                1742
+              ],
+              [
+                2384,
+                1885
+              ],
+              [
+                2309,
+                2001
+              ],
+              [
+                2316,
+                2071
+              ],
+              [
+                2443,
+                2027
+              ],
+              [
+                2550,
+                1902
+              ],
+              [
+                2647,
+                1700
+              ],
+              [
+                2684,
+                1726
+              ],
+              [
+                2809,
+                1750
+              ],
+              [
+                2752,
+                1774
+              ],
+              [
+                2740,
+                1758
+              ],
+              [
+                2692,
+                1776
+              ],
+              [
+                2683,
+                1756
+              ],
+              [
+                2647,
+                1760
+              ],
+              [
+                2628,
+                1826
+              ],
+              [
+                2681,
+                1843
+              ],
+              [
+                2861,
+                1848
+              ],
+              [
+                3084,
+                1899
+              ],
+              [
+                3151,
+                1869
+              ],
+              [
+                3157,
+                1832
+              ],
+              [
+                3134,
+                1807
+              ],
+              [
+                3322,
+                1830
+              ],
+              [
+                3484,
+                1888
+              ],
+              [
+                3772,
+                2065
+              ],
+              [
+                3839,
+                2075
+              ],
+              [
+                3839,
+                2020
+              ],
+              [
+                3723,
+                1961
+              ],
+              [
+                3757,
+                1924
+              ],
+              [
+                3712,
+                1894
+              ],
+              [
+                3612,
+                1891
+              ],
+              [
+                3427,
+                1781
+              ],
+              [
+                3087,
+                1750
+              ],
+              [
+                3085,
+                1706
+              ],
+              [
+                2987,
+                1565
+              ],
+              [
+                3076,
+                1395
+              ],
+              [
+                3094,
+                1279
+              ],
+              [
+                3083,
+                1150
+              ],
+              [
+                2995,
+                981
+              ],
+              [
+                2842,
+                863
+              ],
+              [
+                2604,
+                811
+              ],
+              [
+                2196,
+                831
+              ],
+              [
+                2027,
+                794
+              ],
+              [
+                1882,
+                812
+              ],
+              [
+                1744,
+                801
+              ],
+              [
+                1657,
+                837
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9e%e3%83%8a%e3%83%86%e3%82%a3%e3%83%bc&form=BGABWCTA11&filters=HpDate:\"20251113_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251113",
       "fullstartdate": "20251113",
       "enddate": "20251114",

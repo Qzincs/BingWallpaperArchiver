@@ -1,6 +1,249 @@
 {
   "images": [
     {
+      "startdate": "20251114",
+      "fullstartdate": "20251114",
+      "enddate": "20251115",
+      "urlbase": "https://www.bing.com/th?id=OHR.PerugiaStreet_IT-IT9685190845_UHD.jpg",
+      "copyrighttext": "© Sean Pavone/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Perugia&form=BGALM&filters=HpDate:\"20251113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Percorso dell'acquedotto medievale, Perugia, Umbria",
+      "description": "Nel cuore dell’Umbria, Perugia si svela lentamente, come una pagina antica che si apre al vento. Le sue pietre raccontano storie di Etruschi e di papi, di artisti e di studenti, di silenzi che sanno di secoli. È una città che non si concede subito, ma che si lascia scoprire passo dopo passo, tra salite improvvise e scorci che sembrano dipinti. L’acquedotto medievale, oggi trasformato in un camminamento sospeso, è uno dei suoi segreti più belli. Un tempo portava l’acqua alla Fontana Maggiore, oggi porta lo sguardo verso tetti rossi, finestre fiorite e campanili che sfiorano il cielo. Camminarci sopra è come attraversare un ponte tra epoche, dove ogni arco è una nota di una melodia antica.",
+      "headline": "La Via del Cacao?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251114_PerugiaStreet\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Perugia&form=BGABWCTA7&filters=HpDate:\"20251113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1609,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                1532,
+                0
+              ],
+              [
+                1438,
+                0
+              ],
+              [
+                1432,
+                16
+              ],
+              [
+                1392,
+                20
+              ],
+              [
+                1404,
+                32
+              ],
+              [
+                1372,
+                0
+              ],
+              [
+                1328,
+                17
+              ],
+              [
+                1322,
+                0
+              ],
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                2151
+              ],
+              [
+                37,
+                2147
+              ],
+              [
+                57,
+                2121
+              ],
+              [
+                61,
+                1957
+              ],
+              [
+                233,
+                1955
+              ],
+              [
+                289,
+                1933
+              ],
+              [
+                448,
+                1773
+              ],
+              [
+                547,
+                1703
+              ],
+              [
+                624,
+                1683
+              ],
+              [
+                666,
+                1625
+              ],
+              [
+                700,
+                1607
+              ],
+              [
+                667,
+                1624
+              ],
+              [
+                666,
+                1598
+              ],
+              [
+                718,
+                1587
+              ],
+              [
+                1164,
+                1028
+              ],
+              [
+                1206,
+                936
+              ],
+              [
+                1237,
+                926
+              ],
+              [
+                1275,
+                881
+              ],
+              [
+                1264,
+                872
+              ],
+              [
+                1313,
+                839
+              ],
+              [
+                1367,
+                754
+              ],
+              [
+                1397,
+                663
+              ],
+              [
+                1387,
+                653
+              ],
+              [
+                1454,
+                629
+              ],
+              [
+                1417,
+                619
+              ],
+              [
+                1386,
+                577
+              ],
+              [
+                1437,
+                571
+              ],
+              [
+                1446,
+                604
+              ],
+              [
+                1477,
+                615
+              ],
+              [
+                1541,
+                595
+              ],
+              [
+                1555,
+                145
+              ],
+              [
+                1578,
+                129
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Perugia&form=BGABWCTA11&filters=HpDate:\"20251113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251113",
       "fullstartdate": "20251113",
       "enddate": "20251114",

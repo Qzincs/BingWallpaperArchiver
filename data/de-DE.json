@@ -1,6 +1,333 @@
 {
   "images": [
     {
+      "startdate": "20251114",
+      "fullstartdate": "20251114",
+      "enddate": "20251115",
+      "urlbase": "https://www.bing.com/th?id=OHR.ManateeBaby_DE-DE5900789035_UHD.jpg",
+      "copyrighttext": "© Gregory Sweeney/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rundschwanzseek%c3%bche&form=BGALM&filters=HpDate:\"20251113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rundschwanzseekuh mit Kalb, Crystal River, Florida, USA",
+      "description": "Der November ist der „Manatee Awareness Month“, ein Monat, der dem Schutz der Rundschwanzseekühe gewidmet ist – diese sanften Meeressäuger mit rundem Schwanz. Auf dem heutigen Bild sieht man eine Mutter mit ihrem Kalb in Crystal River, Florida, USA, einem der bekanntesten Orte, um diese Tiere in freier Wildbahn zu beobachten. In den kühleren Monaten wandern die Seekühe zu den warmen Quellen der Region, wo sie natürlichen Schutz finden. Ihr ruhiges Verhalten, ihre pflanzliche Ernährung und ihre sanften Bewegungen machen sie zu Symbolen für Frieden und aquatische Harmonie. Ihre Präsenz hat Crystal River zudem zu einem beliebten Ziel für verantwortungsvollen Ökotourismus gemacht.",
+      "headline": "Schwimmend durch Florida",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251114_ManateeBaby\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.90055,-82.59361/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=28.90055,-82.59361;S9;Crystal River, Florida, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=crystal%20river%20florida&satid=id.sid%3A806df007-cc2a-7eb5-885a-275af60e0442&vdpid=5498223398729285633&mb=28.925877~-82.687263~28.854931~-82.535317&cardbg=%23F98745&tt=Crystal%20River%2C%20Florida%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253Dcrystal%252520river%252520florida%2526satid%253Did.sid%25253A806df007-cc2a-7eb5-885a-275af60e0442%2526vdpid%253D5498223398729285633%2526mb%253D28.925877~-82.687263~28.854931~-82.535317%2526cardbg%253D%252523F98745&tstt0=Crystal%20River%2C%20Florida%2C%20United%20States&cp=24.99799~-97.998574&lvl=5.48411&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Crystal+River%2c+Florida%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rundschwanzseek%c3%bche&form=BGABWCTA7&filters=HpDate:\"20251113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1534,
+            "Y": 785,
+            "Width": 2300,
+            "Height": 1302,
+            "Label": "harbor seal",
+            "ContourList": [],
+            "Contours": [
+              [
+                1564,
+                969
+              ],
+              [
+                1552,
+                1061
+              ],
+              [
+                1587,
+                1165
+              ],
+              [
+                1643,
+                1202
+              ],
+              [
+                1733,
+                1340
+              ],
+              [
+                1746,
+                1651
+              ],
+              [
+                1795,
+                1827
+              ],
+              [
+                2033,
+                2036
+              ],
+              [
+                2058,
+                2037
+              ],
+              [
+                2062,
+                2011
+              ],
+              [
+                1879,
+                1750
+              ],
+              [
+                1861,
+                1634
+              ],
+              [
+                1888,
+                1539
+              ],
+              [
+                1960,
+                1527
+              ],
+              [
+                2373,
+                1571
+              ],
+              [
+                2410,
+                1604
+              ],
+              [
+                2437,
+                1666
+              ],
+              [
+                2437,
+                1742
+              ],
+              [
+                2384,
+                1885
+              ],
+              [
+                2309,
+                2001
+              ],
+              [
+                2316,
+                2071
+              ],
+              [
+                2443,
+                2027
+              ],
+              [
+                2550,
+                1902
+              ],
+              [
+                2647,
+                1700
+              ],
+              [
+                2684,
+                1726
+              ],
+              [
+                2809,
+                1750
+              ],
+              [
+                2752,
+                1774
+              ],
+              [
+                2740,
+                1758
+              ],
+              [
+                2692,
+                1776
+              ],
+              [
+                2683,
+                1756
+              ],
+              [
+                2647,
+                1760
+              ],
+              [
+                2628,
+                1826
+              ],
+              [
+                2681,
+                1843
+              ],
+              [
+                2861,
+                1848
+              ],
+              [
+                3084,
+                1899
+              ],
+              [
+                3151,
+                1869
+              ],
+              [
+                3157,
+                1832
+              ],
+              [
+                3134,
+                1807
+              ],
+              [
+                3322,
+                1830
+              ],
+              [
+                3484,
+                1888
+              ],
+              [
+                3772,
+                2065
+              ],
+              [
+                3839,
+                2075
+              ],
+              [
+                3839,
+                2020
+              ],
+              [
+                3723,
+                1961
+              ],
+              [
+                3757,
+                1924
+              ],
+              [
+                3712,
+                1894
+              ],
+              [
+                3612,
+                1891
+              ],
+              [
+                3427,
+                1781
+              ],
+              [
+                3087,
+                1750
+              ],
+              [
+                3085,
+                1706
+              ],
+              [
+                2987,
+                1565
+              ],
+              [
+                3076,
+                1395
+              ],
+              [
+                3094,
+                1279
+              ],
+              [
+                3083,
+                1150
+              ],
+              [
+                2995,
+                981
+              ],
+              [
+                2842,
+                863
+              ],
+              [
+                2604,
+                811
+              ],
+              [
+                2196,
+                831
+              ],
+              [
+                2027,
+                794
+              ],
+              [
+                1882,
+                812
+              ],
+              [
+                1744,
+                801
+              ],
+              [
+                1657,
+                837
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rundschwanzseek%c3%bche&form=BGABWCTA11&filters=HpDate:\"20251113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251113",
       "fullstartdate": "20251113",
       "enddate": "20251114",
