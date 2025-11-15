@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251115",
+      "fullstartdate": "20251115",
+      "enddate": "20251116",
+      "urlbase": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_IT-IT9755895022_UHD.jpg",
+      "copyrighttext": "© oneinchpunch/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Nikko+citt%c3%a0+Giappone&form=BGALM&filters=HpDate:\"20251114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "La strada Irohazaka in autunno, Nikko, Tochigi, Giappone",
+      "description": "Se pensate che una strada sia solo un modo per andare da un punto all’altro, Irohazaka vi farà cambiare idea. Questo passo di montagna a Nikko, in Giappone, prende il nome dall’antico sillabario “Iroha” e un tempo contava 48 tornanti, ognuno legato a una lettera. Oggi sono due strade a senso unico: una sale, l’altra scende, e ogni curva sembra raccontare un pezzo di storia.",
+      "headline": "Tornanti di poesia?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251115_IrohazakaAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.745277,139.513535/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=36.745277,139.513535;S9;Irohazaka, Nikko, Tochigi, Giappone&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Irohazaka%20road%20Japan&ss=ypid.YN5286x3429601295462987958&mb=36.751754~139.503536~36.738807~139.523535&description=Chugushi%2C%20Nikko%20City%2C%20Tochigi%20Pref.%20321-1661&cardbg=%23219AB6&dt=1759505400000&tt=Irohazaka&tsts0=%2526ty%253D18%2526q%253DIrohazaka%252520road%252520Japan%2526ss%253Dypid.YN5286x3429601295462987958%2526mb%253D36.751754~139.503536~36.738807~139.523535%2526description%253DChugushi%25252C%252520Nikko%252520City%25252C%252520Tochigi%252520Pref.%252520321-1661%2526cardbg%253D%252523219AB6%2526dt%253D1759505400000&tstt0=Irohazaka&cp=35.014038~126.785118&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "15 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Nikko%2c+Tochigi%2c+Giappone&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nikko+citt%c3%a0+Giappone&form=BGABWCTA7&filters=HpDate:\"20251114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nikko+citt%c3%a0+Giappone&form=BGABWCTA11&filters=HpDate:\"20251114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251114",
       "fullstartdate": "20251114",
       "enddate": "20251115",

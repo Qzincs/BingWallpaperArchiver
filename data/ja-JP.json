@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251115",
+      "fullstartdate": "20251115",
+      "enddate": "20251116",
+      "urlbase": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_JA-JP9540132956_UHD.jpg",
+      "copyrighttext": "© oneinchpunch/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%81%84%e3%82%8d%e3%81%af%e5%9d%82&form=BGALM&filters=HpDate:\"20251114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "いろは坂, 栃木県 日光市",
+      "description": "今日の画像は、栃木県日光市にある起伏の激しい坂道「いろは坂」です。高低差は約 440m 、全長は 15.8km のこの道路は、日光市と中禅寺湖・奥日光を結ぶルートで、下り専用の「第 1 いろは坂」と上り専用の「第 2 いろは坂」に分かれています。また、合計 48 のカーブは「いろは 48 音」に例えられ、カーブごとに「いろは」の文字板が建てられています…",
+      "headline": "紅葉盛りのいろは坂",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251115_IrohazakaAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.745277,139.513535/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.745277,139.513535;S9;いろは坂&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Irohazaka%20road%20Japan&ss=ypid.YN5286x3429601295462987958&mb=36.751754~139.503536~36.738807~139.523535&description=Chugushi%2C%20Nikko%20City%2C%20Tochigi%20Pref.%20321-1661&cardbg=%23219AB6&dt=1759505400000&tt=Irohazaka&tsts0=%2526ty%253D18%2526q%253DIrohazaka%252520road%252520Japan%2526ss%253Dypid.YN5286x3429601295462987958%2526mb%253D36.751754~139.503536~36.738807~139.523535%2526description%253DChugushi%25252C%252520Nikko%252520City%25252C%252520Tochigi%252520Pref.%252520321-1661%2526cardbg%253D%252523219AB6%2526dt%253D1759505400000&tstt0=Irohazaka&cp=35.014038~126.785118&lvl=5.6077075&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 15 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e6%a0%83%e6%9c%a8%e7%9c%8c+%e6%97%a5%e5%85%89%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%81%84%e3%82%8d%e3%81%af%e5%9d%82&form=BGABWCTA7&filters=HpDate:\"20251114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%81%84%e3%82%8d%e3%81%af%e5%9d%82&form=BGABWCTA11&filters=HpDate:\"20251114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251114",
       "fullstartdate": "20251114",
       "enddate": "20251115",

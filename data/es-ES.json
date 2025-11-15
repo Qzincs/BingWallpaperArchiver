@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251115",
+      "fullstartdate": "20251115",
+      "enddate": "20251116",
+      "urlbase": "https://www.bing.com/th?id=OHR.IrohazakaAutumn_ES-ES9784235490_UHD.jpg",
+      "copyrighttext": "© oneinchpunch/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Nikko+en+Tochigi&form=BGALM&filters=HpDate:\"20251114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "La carretera de Irohazaka en otoño, Nikko, Tochigi, Japón",
+      "description": "Si crees que el alfabeto es sencillo, la carretera japonesa Irohazaka, en Nikkō, te hará cambiar de opinión. Su nombre proviene del antiguo silabario japonés Iroha, y en el pasado contaba con 48 curvas cerradas, una por cada carácter del alfabeto. Hoy son dos carreteras de un solo sentido: una para subir y otra para bajar, pero ambas ofrecen un recorrido tan sinuoso como fascinante, donde cada curva parece escribir una nueva historia.",
+      "headline": "¡Cuidado, que vienen curvas!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251115_IrohazakaAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nikko+en+Tochigi&form=BGABWCTA7&filters=HpDate:\"20251114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nikko+en+Tochigi&form=BGABWCTA11&filters=HpDate:\"20251114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251114",
       "fullstartdate": "20251114",
       "enddate": "20251115",
