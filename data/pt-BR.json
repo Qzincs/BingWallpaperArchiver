@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251115",
+      "fullstartdate": "20251115",
+      "enddate": "20251116",
+      "urlbase": "https://www.bing.com/th?id=OHR.ProcRep_PT-BR2106067461_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Proclama%c3%a7%c3%a3o+da+Rep%c3%bablica&form=BGALM&filters=HpDate:\"20251115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Museu Nacional da República projetado por Oscar Niemeyer, Brasília",
+      "description": "Em 15 de novembro de 1889, o Brasil acordou República. Nas primeiras horas da manhã, tropas lideradas pelo Marechal Deodoro da Fonseca depuseram Dom Pedro II, encerrando o Império sem resistência armada. No ano seguinte, o novo regime transformou a data em feriado nacional. A promessa era simples: um governo do povo, pelo povo. O caminho, nem tanto.",
+      "headline": "Horizonte coletivo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251115_ProcRep\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Proclama%c3%a7%c3%a3o+da+Rep%c3%bablica&form=BGABWCTA7&filters=HpDate:\"20251115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Proclama%c3%a7%c3%a3o+da+Rep%c3%bablica&form=BGABWCTA11&filters=HpDate:\"20251115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251114",
       "fullstartdate": "20251114",
       "enddate": "20251115",

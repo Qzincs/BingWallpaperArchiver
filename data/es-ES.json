@@ -1,6 +1,277 @@
 {
   "images": [
     {
+      "startdate": "20251116",
+      "fullstartdate": "20251116",
+      "enddate": "20251117",
+      "urlbase": "https://www.bing.com/th?id=OHR.FlamencoDay_ES-ES7190621326_UHD.jpg",
+      "copyrighttext": "© pepitoko/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Flamenco&form=BGALM&filters=HpDate:\"20251115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bailaoras de Flamenco, España",
+      "description": "Cada 16 de noviembre, España celebra el Día del Flamenco, en recuerdo de su reconocimiento por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad. Nacido en Andalucía, este arte es una de las expresiones más profundas y auténticas de la cultura española, y hoy es admirado en los cinco continentes como símbolo internacional de España.",
+      "headline": "¡Ole, ole! ¡Alza!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251116_FlamencoDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Flamenco&form=BGABWCTA7&filters=HpDate:\"20251115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 973,
+            "Y": 1,
+            "Width": 2323,
+            "Height": 1849,
+            "Label": "fancy dress",
+            "ContourList": [],
+            "Contours": [
+              [
+                1124,
+                70
+              ],
+              [
+                1164,
+                172
+              ],
+              [
+                1132,
+                221
+              ],
+              [
+                1058,
+                266
+              ],
+              [
+                1188,
+                409
+              ],
+              [
+                1049,
+                558
+              ],
+              [
+                991,
+                654
+              ],
+              [
+                1001,
+                687
+              ],
+              [
+                1109,
+                764
+              ],
+              [
+                1061,
+                891
+              ],
+              [
+                1124,
+                958
+              ],
+              [
+                1069,
+                1036
+              ],
+              [
+                1131,
+                1055
+              ],
+              [
+                1115,
+                1067
+              ],
+              [
+                1161,
+                1095
+              ],
+              [
+                1166,
+                1142
+              ],
+              [
+                1413,
+                1379
+              ],
+              [
+                1372,
+                1447
+              ],
+              [
+                1155,
+                1606
+              ],
+              [
+                1140,
+                1639
+              ],
+              [
+                1224,
+                1653
+              ],
+              [
+                1509,
+                1786
+              ],
+              [
+                1654,
+                1800
+              ],
+              [
+                2083,
+                1787
+              ],
+              [
+                2140,
+                1745
+              ],
+              [
+                2272,
+                1750
+              ],
+              [
+                2299,
+                1784
+              ],
+              [
+                2375,
+                1815
+              ],
+              [
+                2827,
+                1815
+              ],
+              [
+                2857,
+                1840
+              ],
+              [
+                3093,
+                1793
+              ],
+              [
+                3270,
+                1732
+              ],
+              [
+                3199,
+                1591
+              ],
+              [
+                3252,
+                1548
+              ],
+              [
+                3237,
+                1505
+              ],
+              [
+                3001,
+                1152
+              ],
+              [
+                3006,
+                1135
+              ],
+              [
+                3137,
+                1109
+              ],
+              [
+                3077,
+                965
+              ],
+              [
+                3177,
+                934
+              ],
+              [
+                2998,
+                579
+              ],
+              [
+                3127,
+                468
+              ],
+              [
+                3135,
+                428
+              ],
+              [
+                3094,
+                395
+              ],
+              [
+                3098,
+                332
+              ],
+              [
+                2974,
+                63
+              ],
+              [
+                3048,
+                12
+              ],
+              [
+                1211,
+                0
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Flamenco&form=BGABWCTA11&filters=HpDate:\"20251115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251115",
       "fullstartdate": "20251115",
       "enddate": "20251116",

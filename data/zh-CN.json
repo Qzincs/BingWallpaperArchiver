@@ -1,6 +1,341 @@
 {
   "images": [
     {
+      "startdate": "20251116",
+      "fullstartdate": "20251116",
+      "enddate": "20251117",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.LyonTraboules_ZH-CN8476826325_UHD.jpg",
+      "copyrighttext": "© TPopova/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%87%8c%e6%98%82%e7%9a%84%e7%a9%bf%e5%bb%8a&form=BGALM&filters=HpDate:\"20251115_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "里昂的一条穿廊，法国",
+      "description": "在法国里昂，你不只是简单地走过街巷，而是像在城市的脉络中轻盈滑行。这里的穿廊，是一条条隐秘的通道，蜿蜒穿梭于庭院与建筑之间，将简单的散步变成一场寻宝之旅。它们曾是最早的捷径，帮助居民避雨、搬运货物，或悄然穿过中世纪街区。如今，这些通道更多承载的是探索的乐趣。它们的历史可追溯至公元四世纪，在文艺复兴时期更显重要——当时丝绸商人利用这些通道，将珍贵织物从作坊安全运送到河边，免受风雨侵扰。二战期间，抵抗运动战士也曾借助这些通道作为秘密逃生路线。走进里昂，你会发现，每一条穿廊都藏着故事，每一次转角都可能遇见历史的回声。",
+      "headline": "承载过往的篇章",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251116_LyonTraboules\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 16",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%87%8c%e6%98%82%e7%9a%84%e7%a9%bf%e5%bb%8a&form=BGABWCTA7&filters=HpDate:\"20251115_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1426,
+            "Y": 694,
+            "Width": 1279,
+            "Height": 821,
+            "Label": "window",
+            "ContourList": [],
+            "Contours": [
+              [
+                1806,
+                812
+              ],
+              [
+                1799,
+                820
+              ],
+              [
+                1807,
+                855
+              ],
+              [
+                1799,
+                871
+              ],
+              [
+                1808,
+                997
+              ],
+              [
+                1811,
+                1168
+              ],
+              [
+                1807,
+                1177
+              ],
+              [
+                1813,
+                1204
+              ],
+              [
+                1770,
+                1243
+              ],
+              [
+                1764,
+                1261
+              ],
+              [
+                1753,
+                1269
+              ],
+              [
+                1754,
+                1289
+              ],
+              [
+                1763,
+                1294
+              ],
+              [
+                1754,
+                1303
+              ],
+              [
+                1763,
+                1311
+              ],
+              [
+                1758,
+                1320
+              ],
+              [
+                1767,
+                1328
+              ],
+              [
+                1759,
+                1337
+              ],
+              [
+                1768,
+                1344
+              ],
+              [
+                1757,
+                1354
+              ],
+              [
+                1776,
+                1363
+              ],
+              [
+                2027,
+                1403
+              ],
+              [
+                2075,
+                1416
+              ],
+              [
+                2191,
+                1435
+              ],
+              [
+                2206,
+                1432
+              ],
+              [
+                2209,
+                1405
+              ],
+              [
+                2198,
+                1388
+              ],
+              [
+                2180,
+                1303
+              ],
+              [
+                2167,
+                1291
+              ],
+              [
+                2152,
+                1297
+              ],
+              [
+                2135,
+                1286
+              ],
+              [
+                2141,
+                1168
+              ],
+              [
+                2150,
+                1151
+              ],
+              [
+                2151,
+                1126
+              ],
+              [
+                2159,
+                1121
+              ],
+              [
+                2192,
+                1067
+              ],
+              [
+                2214,
+                1048
+              ],
+              [
+                2259,
+                1024
+              ],
+              [
+                2263,
+                1005
+              ],
+              [
+                2256,
+                998
+              ],
+              [
+                2263,
+                991
+              ],
+              [
+                2255,
+                984
+              ],
+              [
+                2261,
+                973
+              ],
+              [
+                2253,
+                949
+              ],
+              [
+                2277,
+                932
+              ],
+              [
+                2265,
+                928
+              ],
+              [
+                2255,
+                915
+              ],
+              [
+                2260,
+                907
+              ],
+              [
+                2255,
+                898
+              ],
+              [
+                2258,
+                889
+              ],
+              [
+                2250,
+                881
+              ],
+              [
+                2257,
+                873
+              ],
+              [
+                2248,
+                865
+              ],
+              [
+                2255,
+                856
+              ],
+              [
+                2252,
+                842
+              ],
+              [
+                2245,
+                839
+              ],
+              [
+                2250,
+                836
+              ],
+              [
+                2252,
+                813
+              ],
+              [
+                2153,
+                818
+              ],
+              [
+                2004,
+                811
+              ],
+              [
+                1957,
+                815
+              ],
+              [
+                1947,
+                810
+              ],
+              [
+                1867,
+                813
+              ],
+              [
+                1837,
+                805
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%87%8c%e6%98%82%e7%9a%84%e7%a9%bf%e5%bb%8a&form=BGABWCTA11&filters=HpDate:\"20251115_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251115",
       "fullstartdate": "20251115",
       "enddate": "20251116",

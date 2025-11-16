@@ -1,6 +1,341 @@
 {
   "images": [
     {
+      "startdate": "20251116",
+      "fullstartdate": "20251116",
+      "enddate": "20251117",
+      "urlbase": "https://www.bing.com/th?id=OHR.LyonTraboules_JA-JP9477523078_UHD.jpg",
+      "copyrighttext": "© TPopova/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%aa%e3%83%a8%e3%83%b3%e3%81%ab%e3%81%82%e3%82%8b%e3%83%88%e3%83%a9%e3%83%96%e3%83%bc%e3%83%ab&form=BGALM&filters=HpDate:\"20251115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "リヨンにあるトラブール, フランス",
+      "description": "ここはフランスの南東部に位置するリヨン市。ノートルダム大聖堂やベルクール広場など、歴史的な建築物で知られています。また、その旧市街には、「トラブール」と呼ばれる建物の間を結ぶ隠し通路が約 200 か所あり、リヨンの主要な観光スポットのひとつになっています…",
+      "headline": "歴史ある建物に囲まれた空の窓",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251116_LyonTraboules\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.75889,4.841389/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=45.75889,4.841389;S9;リヨン, フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lyon%20France&satid=id.sid%3Af152adba-40b2-9268-e39b-1c4e4e7e4666&vdpid=7014249592032067585&mb=46.085548~3.903153~45.392784~5.764486&cardbg=%23F98745&tt=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2C%20France&tsts0=%2526ty%253D30%2526q%253DLyon%252520France%2526satid%253Did.sid%25253Af152adba-40b2-9268-e39b-1c4e4e7e4666%2526vdpid%253D7014249592032067585%2526mb%253D46.085548~3.903153~45.392784~5.764486%2526cardbg%253D%252523F98745&tstt0=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2C%20France&cp=44.455146~0.14492&lvl=5.126511&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 16 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%aa%e3%83%a8%e3%83%b3%e3%81%ab%e3%81%82%e3%82%8b%e3%83%88%e3%83%a9%e3%83%96%e3%83%bc%e3%83%ab&form=BGABWCTA7&filters=HpDate:\"20251115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1426,
+            "Y": 694,
+            "Width": 1279,
+            "Height": 821,
+            "Label": "window",
+            "ContourList": [],
+            "Contours": [
+              [
+                1806,
+                812
+              ],
+              [
+                1799,
+                820
+              ],
+              [
+                1807,
+                855
+              ],
+              [
+                1799,
+                871
+              ],
+              [
+                1808,
+                997
+              ],
+              [
+                1811,
+                1168
+              ],
+              [
+                1807,
+                1177
+              ],
+              [
+                1813,
+                1204
+              ],
+              [
+                1770,
+                1243
+              ],
+              [
+                1764,
+                1261
+              ],
+              [
+                1753,
+                1269
+              ],
+              [
+                1754,
+                1289
+              ],
+              [
+                1763,
+                1294
+              ],
+              [
+                1754,
+                1303
+              ],
+              [
+                1763,
+                1311
+              ],
+              [
+                1758,
+                1320
+              ],
+              [
+                1767,
+                1328
+              ],
+              [
+                1759,
+                1337
+              ],
+              [
+                1768,
+                1344
+              ],
+              [
+                1757,
+                1354
+              ],
+              [
+                1776,
+                1363
+              ],
+              [
+                2027,
+                1403
+              ],
+              [
+                2075,
+                1416
+              ],
+              [
+                2191,
+                1435
+              ],
+              [
+                2206,
+                1432
+              ],
+              [
+                2209,
+                1405
+              ],
+              [
+                2198,
+                1388
+              ],
+              [
+                2180,
+                1303
+              ],
+              [
+                2167,
+                1291
+              ],
+              [
+                2152,
+                1297
+              ],
+              [
+                2135,
+                1286
+              ],
+              [
+                2141,
+                1168
+              ],
+              [
+                2150,
+                1151
+              ],
+              [
+                2151,
+                1126
+              ],
+              [
+                2159,
+                1121
+              ],
+              [
+                2192,
+                1067
+              ],
+              [
+                2214,
+                1048
+              ],
+              [
+                2259,
+                1024
+              ],
+              [
+                2263,
+                1005
+              ],
+              [
+                2256,
+                998
+              ],
+              [
+                2263,
+                991
+              ],
+              [
+                2255,
+                984
+              ],
+              [
+                2261,
+                973
+              ],
+              [
+                2253,
+                949
+              ],
+              [
+                2277,
+                932
+              ],
+              [
+                2265,
+                928
+              ],
+              [
+                2255,
+                915
+              ],
+              [
+                2260,
+                907
+              ],
+              [
+                2255,
+                898
+              ],
+              [
+                2258,
+                889
+              ],
+              [
+                2250,
+                881
+              ],
+              [
+                2257,
+                873
+              ],
+              [
+                2248,
+                865
+              ],
+              [
+                2255,
+                856
+              ],
+              [
+                2252,
+                842
+              ],
+              [
+                2245,
+                839
+              ],
+              [
+                2250,
+                836
+              ],
+              [
+                2252,
+                813
+              ],
+              [
+                2153,
+                818
+              ],
+              [
+                2004,
+                811
+              ],
+              [
+                1957,
+                815
+              ],
+              [
+                1947,
+                810
+              ],
+              [
+                1867,
+                813
+              ],
+              [
+                1837,
+                805
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%aa%e3%83%a8%e3%83%b3%e3%81%ab%e3%81%82%e3%82%8b%e3%83%88%e3%83%a9%e3%83%96%e3%83%bc%e3%83%ab&form=BGABWCTA11&filters=HpDate:\"20251115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251115",
       "fullstartdate": "20251115",
       "enddate": "20251116",
