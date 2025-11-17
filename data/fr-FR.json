@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251117",
+      "fullstartdate": "20251117",
+      "enddate": "20251118",
+      "urlbase": "https://www.bing.com/th?id=OHR.AlpesAutumn_FR-FR0334744208_UHD.jpg",
+      "copyrighttext": "© Jose Manuel Perez/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=m%c3%a9l%c3%a8ze&form=BGALM&filters=HpDate:\"20251116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Forêt de mélèzes dorés, Alpes",
+      "description": "À l'automne, les montagnes se métamorphosent en cathédrales de lumière. Dans les Alpes du Sud, notamment dans la vallée de la Clarée, le Queyras ou sur le plateau d’Emparis, le mélèze offre un spectacle rare : en été, ses aiguilles sont d’un vert tendre, puis elles virent au jaune éclatant avant de tomber, laissant les branches nues face à l’hiver. Contrairement aux autres conifères, cet arbre se dénude chaque année, comme pour renaître plus fort au printemps. Cette singularité en fait le maître des paysages alpins, où ses ramures dorées embrasent les vallées.",
+      "headline": "Un dernier élan de couleur avant l'hiver",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_AlpesAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=m%c3%a9l%c3%a8ze&form=BGABWCTA7&filters=HpDate:\"20251116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=m%c3%a9l%c3%a8ze&form=BGABWCTA11&filters=HpDate:\"20251116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251116",
       "fullstartdate": "20251116",
       "enddate": "20251117",

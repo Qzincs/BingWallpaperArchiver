@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251117",
+      "fullstartdate": "20251117",
+      "enddate": "20251118",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.ShenandoahTrail_ZH-CN8626326726_UHD.jpg",
+      "copyrighttext": "© Michael Ver Sprill/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%b0%a2%e5%8d%97%e5%a4%9a%e5%8e%84%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20251116_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "谢南多厄国家公园的秋色，弗吉尼亚州，美国",
+      "description": "谢南多厄国家公园，弗吉尼亚州的山间瑰宝。蓝岭山脉在此披上最华美的盛装：金黄的山核桃树、绯红的枫树，以及镀上青铜色的橡树。十一月的空气愈发清冽，秋日的余晖低声细语，悄悄停留在山坡上。沿着天际线公路缓缓前行，105英里的蜿蜒公路带你俯瞰云海翻涌，云影在山谷间轻轻流动，像思绪在天空漂移。这里还有超过500 英里的步道，沿着小径，你会走进瀑布奔流的深谷，登上触碰天际的高峰。石人峰、鹰嘴峰、暗谷瀑布——每处皆是石与叶谱写的诗篇，静待游人的脚步与风声共鸣。",
+      "headline": "小径在召唤",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_ShenandoahTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 17",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%b0%a2%e5%8d%97%e5%a4%9a%e5%8e%84%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20251116_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%b0%a2%e5%8d%97%e5%a4%9a%e5%8e%84%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20251116_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251116",
       "fullstartdate": "20251116",
       "enddate": "20251117",
