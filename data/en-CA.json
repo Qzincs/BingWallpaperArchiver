@@ -1,6 +1,409 @@
 {
   "images": [
     {
+      "startdate": "20251117",
+      "fullstartdate": "20251117",
+      "enddate": "20251118",
+      "urlbase": "https://www.bing.com/th?id=OHR.RedFoxVulpes_EN-CA4196112827_UHD.jpg",
+      "copyrighttext": "© RT-Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Red+Fox&form=BGALM&filters=HpDate:\"20251117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Red fox, Canada",
+      "description": "Some animals rely on strength, others on speed. Foxes? They rely on brains. And the red fox, seen in today's image, has mastered the art. Found across nearly every type of landscape on Earth, foxes have adapted over time to deserts, forests and suburbs alike. The red fox's story began in Eurasia about 400,000 years ago, and around 130,000 years ago, these creatures crossed into North America and found a permanent home.",
+      "headline": "Fox in focus",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_RedFoxVulpes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Red+Fox&form=BGABWCTA7&filters=HpDate:\"20251117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1445,
+            "Y": 307,
+            "Width": 2389,
+            "Height": 1759,
+            "Label": "fox",
+            "ContourList": [],
+            "Contours": [
+              [
+                1525,
+                334
+              ],
+              [
+                1495,
+                503
+              ],
+              [
+                1555,
+                909
+              ],
+              [
+                1505,
+                1108
+              ],
+              [
+                1500,
+                1261
+              ],
+              [
+                1578,
+                1523
+              ],
+              [
+                1718,
+                1761
+              ],
+              [
+                1744,
+                1860
+              ],
+              [
+                1837,
+                1896
+              ],
+              [
+                1847,
+                1928
+              ],
+              [
+                1950,
+                1936
+              ],
+              [
+                1927,
+                1955
+              ],
+              [
+                2058,
+                2003
+              ],
+              [
+                2108,
+                1990
+              ],
+              [
+                2167,
+                2044
+              ],
+              [
+                2303,
+                2029
+              ],
+              [
+                2332,
+                1999
+              ],
+              [
+                2396,
+                2041
+              ],
+              [
+                2605,
+                1997
+              ],
+              [
+                2665,
+                1931
+              ],
+              [
+                2602,
+                1791
+              ],
+              [
+                2476,
+                1724
+              ],
+              [
+                2286,
+                1728
+              ],
+              [
+                2233,
+                1702
+              ],
+              [
+                2339,
+                1656
+              ],
+              [
+                2364,
+                1548
+              ],
+              [
+                2341,
+                1508
+              ],
+              [
+                2414,
+                1497
+              ],
+              [
+                2451,
+                1404
+              ],
+              [
+                2523,
+                1455
+              ],
+              [
+                2513,
+                1597
+              ],
+              [
+                2572,
+                1644
+              ],
+              [
+                2648,
+                1580
+              ],
+              [
+                2671,
+                1623
+              ],
+              [
+                2716,
+                1640
+              ],
+              [
+                2686,
+                1692
+              ],
+              [
+                2722,
+                1690
+              ],
+              [
+                2780,
+                1771
+              ],
+              [
+                2802,
+                1747
+              ],
+              [
+                2773,
+                1676
+              ],
+              [
+                2830,
+                1607
+              ],
+              [
+                2675,
+                1509
+              ],
+              [
+                2677,
+                1452
+              ],
+              [
+                2686,
+                1494
+              ],
+              [
+                2752,
+                1534
+              ],
+              [
+                2738,
+                1514
+              ],
+              [
+                2767,
+                1467
+              ],
+              [
+                2811,
+                1552
+              ],
+              [
+                2829,
+                1536
+              ],
+              [
+                2903,
+                1571
+              ],
+              [
+                2915,
+                1538
+              ],
+              [
+                3008,
+                1529
+              ],
+              [
+                3037,
+                1488
+              ],
+              [
+                3067,
+                1488
+              ],
+              [
+                3048,
+                1515
+              ],
+              [
+                3111,
+                1569
+              ],
+              [
+                3187,
+                1511
+              ],
+              [
+                3217,
+                1577
+              ],
+              [
+                3263,
+                1523
+              ],
+              [
+                3277,
+                1396
+              ],
+              [
+                3352,
+                1442
+              ],
+              [
+                3410,
+                1395
+              ],
+              [
+                3557,
+                1370
+              ],
+              [
+                3623,
+                1405
+              ],
+              [
+                3667,
+                1542
+              ],
+              [
+                3839,
+                1598
+              ],
+              [
+                3839,
+                1526
+              ],
+              [
+                3749,
+                1409
+              ],
+              [
+                3353,
+                1132
+              ],
+              [
+                3023,
+                1016
+              ],
+              [
+                2617,
+                1005
+              ],
+              [
+                2543,
+                961
+              ],
+              [
+                2526,
+                863
+              ],
+              [
+                2572,
+                474
+              ],
+              [
+                2532,
+                330
+              ],
+              [
+                2432,
+                341
+              ],
+              [
+                2198,
+                546
+              ],
+              [
+                2035,
+                605
+              ],
+              [
+                1894,
+                552
+              ],
+              [
+                1627,
+                330
+              ],
+              [
+                1558,
+                316
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Red+Fox&form=BGABWCTA11&filters=HpDate:\"20251117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251116",
       "fullstartdate": "20251116",
       "enddate": "20251117",

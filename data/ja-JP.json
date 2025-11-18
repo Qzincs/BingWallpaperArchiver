@@ -1,6 +1,221 @@
 {
   "images": [
     {
+      "startdate": "20251118",
+      "fullstartdate": "20251118",
+      "enddate": "20251119",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnMerganser_JA-JP4454078554_UHD.jpg",
+      "copyrighttext": "© Eric Vogt/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%aa%e3%82%b9%e3%81%ae%e3%82%aa%e3%82%a6%e3%82%ae%e3%82%a2%e3%82%a4%e3%82%b5&form=BGALM&filters=HpDate:\"20251117_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "オスのオウギアイサ, 米国 オレゴン州",
+      "description": "今日の画像は米国オレゴン州で撮影したオスのオウギアイサです。カモ科アイサ族に属する水鳥で、カナダ南部から米国の湖沼や湿地に広く生息しています。日本では迷鳥として 1 羽のみ記録があります。体長は約 40～49cm で、頭部に扇状に広がる冠羽が最大の特徴です…",
+      "headline": "湖で泳ぐ白黒の冠羽を持つ水鳥",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.93583,-120.575/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.93583,-120.575;S9;オレゴン州, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD,%20%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3&satid=id.sid:cacd36fd-7c62-43e2-a632-64a2a1811933&vdpid=24561&mb=46.265671~-125.326031~41.999466~-115.706455&cardbg=%23F98745&tt=%E3%82%AA%E3%83%AC%E3%82%B4%E3%83%B3,%20%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD&cp=43.531967~-119.9491&lvl=4.174326&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 18 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%aa%e3%83%ac%e3%82%b4%e3%83%b3%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%aa%e3%82%b9%e3%81%ae%e3%82%aa%e3%82%a6%e3%82%ae%e3%82%a2%e3%82%a4%e3%82%b5&form=BGABWCTA7&filters=HpDate:\"20251117_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 351,
+            "Width": 2120,
+            "Height": 896,
+            "Label": "duck",
+            "ContourList": [],
+            "Contours": [
+              [
+                2107,
+                854
+              ],
+              [
+                2092,
+                828
+              ],
+              [
+                2022,
+                801
+              ],
+              [
+                1963,
+                746
+              ],
+              [
+                1922,
+                517
+              ],
+              [
+                1877,
+                435
+              ],
+              [
+                1801,
+                363
+              ],
+              [
+                1715,
+                358
+              ],
+              [
+                1548,
+                460
+              ],
+              [
+                1510,
+                561
+              ],
+              [
+                1506,
+                633
+              ],
+              [
+                1518,
+                705
+              ],
+              [
+                1594,
+                879
+              ],
+              [
+                1622,
+                965
+              ],
+              [
+                1622,
+                1009
+              ],
+              [
+                1391,
+                985
+              ],
+              [
+                1060,
+                983
+              ],
+              [
+                937,
+                1004
+              ],
+              [
+                878,
+                1026
+              ],
+              [
+                576,
+                1033
+              ],
+              [
+                469,
+                1067
+              ],
+              [
+                682,
+                1094
+              ],
+              [
+                742,
+                1120
+              ],
+              [
+                832,
+                1135
+              ],
+              [
+                1040,
+                1223
+              ],
+              [
+                1116,
+                1238
+              ],
+              [
+                1334,
+                1237
+              ],
+              [
+                1657,
+                1205
+              ],
+              [
+                1940,
+                1151
+              ],
+              [
+                1852,
+                982
+              ],
+              [
+                1845,
+                911
+              ],
+              [
+                1866,
+                861
+              ],
+              [
+                1923,
+                839
+              ],
+              [
+                2088,
+                870
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%aa%e3%82%b9%e3%81%ae%e3%82%aa%e3%82%a6%e3%82%ae%e3%82%a2%e3%82%a4%e3%82%b5&form=BGABWCTA11&filters=HpDate:\"20251117_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251117",
       "fullstartdate": "20251117",
       "enddate": "20251118",

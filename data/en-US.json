@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251117",
+      "fullstartdate": "20251117",
+      "enddate": "20251118",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg",
+      "copyrighttext": "© Michael Ver Sprill/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=national+take+a+hike+day&form=BGALM&filters=HpDate:\"20251117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fall colors in Shenandoah National Park, Virginia",
+      "description": "National Take a Hike Day is more than a date—it's an invitation to step away from screens and into the rhythm of nature. Created by the American Hiking Society, this day celebrates the simple act of walking under open skies and reminds us that health and happiness often begin with a single stride. Across 60,000 miles of US trails, hikers rediscover the quiet magic of forests, the strength in their own breath, and the promise of unspoiled landscapes.",
+      "headline": "The trails' call",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_ShenandoahTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.462818,-78.460602/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=38.462818,-78.460602;S9;Shenandoah National Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Shenandoah%20National%20Park%2C%20Greene%20County%2C%20Virginia%2C%20United%20States&vdpid=5489966657382121473&ss=ypid.YN873x2622035658559992894&mb=38.966274~-79.526692~38.013729~-77.373295&description=Shenandoah%20National%20Park%2C%20Elkton%2C%20VA%2022827%C2%B7National%20Park&cardbg=%233DB838&dt=1760022000000&tt=Shenandoah%20National%20Park&tsts0=%2526ty%253D30%2526q%253DShenandoah%252520National%252520Park%25252C%252520Greene%252520County%25252C%252520Virginia%25252C%252520United%252520States%2526vdpid%253D5489966657382121473%2526ss%253Dypid.YN873x2622035658559992894%2526mb%253D38.966274~-79.526692~38.013729~-77.373295%2526description%253DShenandoah%252520National%252520Park%25252C%252520Elkton%25252C%252520VA%25252022827%2525C2%2525B7National%252520Park%2526cardbg%253D%2525233DB838%2526dt%253D1760022000000&tstt0=Shenandoah%20National%20Park&cp=38.262791~-82.528006&lvl=5.85&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Virginia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=national+take+a+hike+day&form=BGABWCTA7&filters=HpDate:\"20251117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=national+take+a+hike+day&form=BGABWCTA11&filters=HpDate:\"20251117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251116",
       "fullstartdate": "20251116",
       "enddate": "20251117",

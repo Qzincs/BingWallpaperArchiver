@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251117",
+      "fullstartdate": "20251117",
+      "enddate": "20251118",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahTrail_PT-BR5028507460_UHD.jpg",
+      "copyrighttext": "© Michael Ver Sprill/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Shenandoah+Virg%c3%adnia&form=BGALM&filters=HpDate:\"20251117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cores do outono no Parque Nacional de Shenandoah, Virgínia, EUA",
+      "description": "No coração do estado da Virgínia, nos Estados Unidos, vemos o Parque Nacional de Shenandoah exibindo o outono do hemisfério norte em tons vibrantes. Mais de 800 quilômetros de trilhas serpenteiam pelas Montanhas Blue Ridge, levando a mirantes, quedas d’água e florestas envoltas em neblina. Carvalhos em tons de bronze e nogueiras douradas recobrem encostas, e o ruído das folhas sob os pés torna cada passo um convite a se deixar guiar pelo ritmo da terra.",
+      "headline": "O chamado das trilhas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_ShenandoahTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Shenandoah+Virg%c3%adnia&form=BGABWCTA7&filters=HpDate:\"20251117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+Shenandoah+Virg%c3%adnia&form=BGABWCTA11&filters=HpDate:\"20251117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251116",
       "fullstartdate": "20251116",
       "enddate": "20251117",

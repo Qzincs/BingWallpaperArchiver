@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251117",
+      "fullstartdate": "20251117",
+      "enddate": "20251118",
+      "urlbase": "https://www.bing.com/th?id=OHR.ShenandoahTrail_ROW8425475363_UHD.jpg",
+      "copyrighttext": "© Michael Ver Sprill/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Shenandoah+National+Park&form=BGALM&filters=HpDate:\"20251117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Shenandoah National Park, Virginia, United States",
+      "description": "Today's image features Shenandoah National Park, in Virginia, United States, which serves as a sanctuary for the preservation of significant natural and cultural resources. Nestled in the northern Blue Ridge Mountains, it offers a glimpse into the region's rich biodiversity and historical heritage. The park's diverse ecosystems protect a variety of species, from towering oak and pine trees to black bears and white-tailed deer, while preserving the scenic beauty and wilderness that define this remarkable landscape. The park's major attraction is Skyline Drive, a 169-kilometre scenic road, offering vistas where clouds drift like thoughts across endless valleys. Trails—more than 800 kilometres of them—lead to places where waterfalls tumble and summits greet the horizon. Whether you're hiking, camping or stargazing, Shenandoah National Park provides an escape into nature.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251117_ShenandoahTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 17, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Shenandoah+National+Park&form=BGABWCTA7&filters=HpDate:\"20251117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Shenandoah+National+Park&form=BGABWCTA11&filters=HpDate:\"20251117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251116",
       "fullstartdate": "20251116",
       "enddate": "20251117",

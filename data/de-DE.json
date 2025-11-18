@@ -1,6 +1,221 @@
 {
   "images": [
     {
+      "startdate": "20251118",
+      "fullstartdate": "20251118",
+      "enddate": "20251119",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnMerganser_DE-DE5996938724_UHD.jpg",
+      "copyrighttext": "© Eric Vogt/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Kappens%c3%a4ger&form=BGALM&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Männlicher Kappensäger, Oregon, USA",
+      "description": "Der Kappensäger ist eine Tauchente aus Nordamerika, bekannt für ihren auffälligen, fächerförmigen Schopf, den das Männchen während der Balz präsentiert. Sie bewohnt Seen, Flüsse und bewaldete Feuchtgebiete und zeichnet sich durch ihre Wendigkeit unter Wasser sowie ihre Vorliebe für Baumhöhlen als Nistplätze aus. Heute bewundern wir einen männlichen Kappensäger in Oregon, USA – mit seinem kontrastreichen Gefieder in Weiß, Schwarz und Kastanienbraun sowie der charakteristischen „Kapuze“, die ihm seinen Namen verleiht. Sein neugieriges Verhalten und sein elegantes Erscheinungsbild machen ihn zu einem Favoriten unter Vogelbeobachtern in Nordamerika.",
+      "headline": "Herbststar mit Haube",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_AutumnMerganser\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kappens%c3%a4ger&form=BGABWCTA7&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 351,
+            "Width": 2120,
+            "Height": 896,
+            "Label": "duck",
+            "ContourList": [],
+            "Contours": [
+              [
+                2107,
+                854
+              ],
+              [
+                2092,
+                828
+              ],
+              [
+                2022,
+                801
+              ],
+              [
+                1963,
+                746
+              ],
+              [
+                1922,
+                517
+              ],
+              [
+                1877,
+                435
+              ],
+              [
+                1801,
+                363
+              ],
+              [
+                1715,
+                358
+              ],
+              [
+                1548,
+                460
+              ],
+              [
+                1510,
+                561
+              ],
+              [
+                1506,
+                633
+              ],
+              [
+                1518,
+                705
+              ],
+              [
+                1594,
+                879
+              ],
+              [
+                1622,
+                965
+              ],
+              [
+                1622,
+                1009
+              ],
+              [
+                1391,
+                985
+              ],
+              [
+                1060,
+                983
+              ],
+              [
+                937,
+                1004
+              ],
+              [
+                878,
+                1026
+              ],
+              [
+                576,
+                1033
+              ],
+              [
+                469,
+                1067
+              ],
+              [
+                682,
+                1094
+              ],
+              [
+                742,
+                1120
+              ],
+              [
+                832,
+                1135
+              ],
+              [
+                1040,
+                1223
+              ],
+              [
+                1116,
+                1238
+              ],
+              [
+                1334,
+                1237
+              ],
+              [
+                1657,
+                1205
+              ],
+              [
+                1940,
+                1151
+              ],
+              [
+                1852,
+                982
+              ],
+              [
+                1845,
+                911
+              ],
+              [
+                1866,
+                861
+              ],
+              [
+                1923,
+                839
+              ],
+              [
+                2088,
+                870
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Kappens%c3%a4ger&form=BGABWCTA11&filters=HpDate:\"20251117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251117",
       "fullstartdate": "20251117",
       "enddate": "20251118",
