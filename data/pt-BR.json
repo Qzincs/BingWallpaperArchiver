@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251118",
+      "fullstartdate": "20251118",
+      "enddate": "20251119",
+      "urlbase": "https://www.bing.com/th?id=OHR.Cataguas_PT-BR6322961600_UHD.jpg",
+      "copyrighttext": "© VBC Imagens Aereas/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Angra+dos+Reis%2c+RJ&form=BGALM&filters=HpDate:\"20251118_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ilha de Cataguás, Angra dos Reis, Rio de Janeiro",
+      "description": "Angra dos Reis, no litoral sul do estado do Rio de Janeiro, é um dos destinos turísticos mais famosos do Brasil. Fundada em 6 de janeiro de 1502, a cidade recebeu esse nome em homenagem ao Dia de Reis. O município tem cerca de 179 mil habitantes e uma área de 816 km². Além do turismo, sua economia inclui atividades como a pesca, a indústria naval e as usinas nucleares Angra I e II, que geram energia elétrica e ajudam a abastecer grande parte do estado do Rio de Janeiro.",
+      "headline": "O paraíso é aqui",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251118_Cataguas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Angra+dos+Reis%2c+RJ&form=BGABWCTA7&filters=HpDate:\"20251118_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Angra+dos+Reis%2c+RJ&form=BGABWCTA11&filters=HpDate:\"20251118_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251117",
       "fullstartdate": "20251117",
       "enddate": "20251118",
