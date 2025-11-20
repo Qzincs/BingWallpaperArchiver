@@ -1,6 +1,301 @@
 {
   "images": [
     {
+      "startdate": "20251119",
+      "fullstartdate": "20251119",
+      "enddate": "20251120",
+      "urlbase": "https://www.bing.com/th?id=OHR.BudapestParliament_ROW8632595503_UHD.jpg",
+      "copyrighttext": "© Alexander Spatari/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hungarian+Parliament+building&form=BGALM&filters=HpDate:\"20251119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Hungarian Parliament Building, Budapest, Hungary",
+      "description": "Step closer and the details begin to speak—every stone, spire and statue seems to hold a story of its own. Conceived in the late 19th century, the Hungarian Parliament Building was designed to reflect a nation's ambition, blending Gothic Revival elegance with distinctly Hungarian motifs. Architect Imre Steindl's vision took shape over two decades through the work of more than 1,000 craftsmen. Even the central dome, rising 96 metres high, carries meaning: the height honours the year of Hungary's millennium anniversary in 1896. Completed in 1904, the building still dominates Budapest's skyline as a powerful national symbol.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hungarian+Parliament+building&form=BGABWCTA7&filters=HpDate:\"20251119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2010,
+            "Y": 143,
+            "Width": 806,
+            "Height": 1380,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2422,
+                184
+              ],
+              [
+                2405,
+                398
+              ],
+              [
+                2373,
+                517
+              ],
+              [
+                2382,
+                588
+              ],
+              [
+                2332,
+                653
+              ],
+              [
+                2292,
+                646
+              ],
+              [
+                2284,
+                696
+              ],
+              [
+                2216,
+                779
+              ],
+              [
+                2185,
+                847
+              ],
+              [
+                2181,
+                881
+              ],
+              [
+                2160,
+                898
+              ],
+              [
+                2152,
+                927
+              ],
+              [
+                2145,
+                1126
+              ],
+              [
+                2099,
+                1181
+              ],
+              [
+                2092,
+                1204
+              ],
+              [
+                2076,
+                1205
+              ],
+              [
+                2063,
+                1164
+              ],
+              [
+                2054,
+                1193
+              ],
+              [
+                2051,
+                1367
+              ],
+              [
+                2180,
+                1445
+              ],
+              [
+                2211,
+                1499
+              ],
+              [
+                2242,
+                1496
+              ],
+              [
+                2272,
+                1473
+              ],
+              [
+                2353,
+                1499
+              ],
+              [
+                2375,
+                1497
+              ],
+              [
+                2377,
+                1487
+              ],
+              [
+                2384,
+                1489
+              ],
+              [
+                2380,
+                1497
+              ],
+              [
+                2393,
+                1499
+              ],
+              [
+                2397,
+                1488
+              ],
+              [
+                2419,
+                1480
+              ],
+              [
+                2627,
+                1481
+              ],
+              [
+                2659,
+                1471
+              ],
+              [
+                2692,
+                1417
+              ],
+              [
+                2707,
+                1361
+              ],
+              [
+                2737,
+                1352
+              ],
+              [
+                2767,
+                1356
+              ],
+              [
+                2772,
+                1339
+              ],
+              [
+                2768,
+                1218
+              ],
+              [
+                2752,
+                1225
+              ],
+              [
+                2680,
+                1126
+              ],
+              [
+                2681,
+                965
+              ],
+              [
+                2670,
+                906
+              ],
+              [
+                2646,
+                876
+              ],
+              [
+                2611,
+                777
+              ],
+              [
+                2548,
+                695
+              ],
+              [
+                2542,
+                648
+              ],
+              [
+                2527,
+                659
+              ],
+              [
+                2512,
+                657
+              ],
+              [
+                2481,
+                628
+              ],
+              [
+                2476,
+                610
+              ],
+              [
+                2452,
+                594
+              ],
+              [
+                2460,
+                510
+              ],
+              [
+                2431,
+                395
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hungarian+Parliament+building&form=BGABWCTA11&filters=HpDate:\"20251119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251118",
       "fullstartdate": "20251118",
       "enddate": "20251119",

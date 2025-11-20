@@ -1,6 +1,389 @@
 {
   "images": [
     {
+      "startdate": "20251120",
+      "fullstartdate": "20251120",
+      "enddate": "20251121",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.PondCave_ZH-CN2304770650_UHD.jpg",
+      "copyrighttext": "© Marcio Dufranc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%9f%a5%e5%b8%95%e8%be%be-%e8%bf%aa%e4%ba%9a%e6%9b%bc%e8%92%82%e9%82%a3%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20251119_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西",
+      "description": "查帕达迪亚曼蒂纳国家公园拥有宛如梦境般的自然美景，该公园创建于1985年，今年迎来了其40周年的保护纪念日。这座位于巴伊亚州腹地的公园，拥有约15.2万公顷的壮丽景观，是巴西最令人惊叹的生态旅游目的地之一。",
+      "headline": "颂扬保护与美",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251120_PondCave\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 20",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%9f%a5%e5%b8%95%e8%be%be-%e8%bf%aa%e4%ba%9a%e6%9b%bc%e8%92%82%e9%82%a3%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20251119_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1193,
+            "Width": 3833,
+            "Height": 963,
+            "Label": "swimming pool",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1298
+              ],
+              [
+                3100,
+                1246
+              ],
+              [
+                2042,
+                1248
+              ],
+              [
+                1894,
+                1199
+              ],
+              [
+                1721,
+                1282
+              ],
+              [
+                1432,
+                1346
+              ],
+              [
+                995,
+                1321
+              ],
+              [
+                0,
+                1381
+              ],
+              [
+                0,
+                1416
+              ],
+              [
+                104,
+                1421
+              ],
+              [
+                0,
+                1424
+              ],
+              [
+                0,
+                1462
+              ],
+              [
+                52,
+                1460
+              ],
+              [
+                29,
+                1480
+              ],
+              [
+                67,
+                1518
+              ],
+              [
+                143,
+                1511
+              ],
+              [
+                138,
+                1545
+              ],
+              [
+                181,
+                1547
+              ],
+              [
+                24,
+                1564
+              ],
+              [
+                0,
+                1596
+              ],
+              [
+                0,
+                2153
+              ],
+              [
+                1404,
+                2154
+              ],
+              [
+                1522,
+                2058
+              ],
+              [
+                1595,
+                2105
+              ],
+              [
+                1679,
+                2077
+              ],
+              [
+                1688,
+                2106
+              ],
+              [
+                1621,
+                2109
+              ],
+              [
+                1678,
+                2135
+              ],
+              [
+                1656,
+                2149
+              ],
+              [
+                1782,
+                2147
+              ],
+              [
+                1784,
+                2117
+              ],
+              [
+                1859,
+                2138
+              ],
+              [
+                1816,
+                2151
+              ],
+              [
+                2363,
+                2147
+              ],
+              [
+                1881,
+                2140
+              ],
+              [
+                1824,
+                2092
+              ],
+              [
+                1775,
+                2103
+              ],
+              [
+                1801,
+                2079
+              ],
+              [
+                1732,
+                2114
+              ],
+              [
+                1699,
+                2071
+              ],
+              [
+                1739,
+                2063
+              ],
+              [
+                1726,
+                2002
+              ],
+              [
+                1791,
+                1986
+              ],
+              [
+                1782,
+                1933
+              ],
+              [
+                1817,
+                1953
+              ],
+              [
+                1801,
+                1973
+              ],
+              [
+                1884,
+                1953
+              ],
+              [
+                1871,
+                1919
+              ],
+              [
+                1947,
+                1869
+              ],
+              [
+                1896,
+                1860
+              ],
+              [
+                1930,
+                1810
+              ],
+              [
+                1908,
+                1800
+              ],
+              [
+                2119,
+                1700
+              ],
+              [
+                2014,
+                1584
+              ],
+              [
+                2137,
+                1554
+              ],
+              [
+                2288,
+                1580
+              ],
+              [
+                2250,
+                1717
+              ],
+              [
+                2366,
+                1834
+              ],
+              [
+                2312,
+                1900
+              ],
+              [
+                2448,
+                1948
+              ],
+              [
+                2545,
+                1919
+              ],
+              [
+                2587,
+                1857
+              ],
+              [
+                2775,
+                1851
+              ],
+              [
+                2782,
+                1776
+              ],
+              [
+                2704,
+                1752
+              ],
+              [
+                2644,
+                1666
+              ],
+              [
+                2677,
+                1597
+              ],
+              [
+                3259,
+                1690
+              ],
+              [
+                3358,
+                1751
+              ],
+              [
+                3469,
+                1767
+              ],
+              [
+                3469,
+                1802
+              ],
+              [
+                3623,
+                1832
+              ],
+              [
+                3654,
+                1759
+              ],
+              [
+                3765,
+                1733
+              ],
+              [
+                3654,
+                1597
+              ],
+              [
+                3839,
+                1598
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%9f%a5%e5%b8%95%e8%be%be-%e8%bf%aa%e4%ba%9a%e6%9b%bc%e8%92%82%e9%82%a3%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20251119_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251119",
       "fullstartdate": "20251119",
       "enddate": "20251120",

@@ -1,6 +1,125 @@
 {
   "images": [
     {
+      "startdate": "20251120",
+      "fullstartdate": "20251120",
+      "enddate": "20251121",
+      "urlbase": "https://www.bing.com/th?id=OBGA.shutterstock_1101795410",
+      "copyrighttext": "© segawa7/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Taishoike+pond%2c+Kamikochi%2c+Japan&form=BGALM",
+      "title": "Taishoike pond, Kamikochi, Japan",
+      "description": "Taishoike pond in Hotaka mountain range in Kamikochi, Japan",
+      "headline": "Taishoike pond, Kamikochi, Japan",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Taishoike+pond%2c+Kamikochi%2c+Japan&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2,
+            "Y": 1691,
+            "Width": 4376,
+            "Height": 1227,
+            "Label": "swimming pool",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                1787
+              ],
+              [
+                28,
+                1798
+              ],
+              [
+                0,
+                1799
+              ],
+              [
+                0,
+                2910
+              ],
+              [
+                4385,
+                2912
+              ],
+              [
+                4385,
+                1845
+              ],
+              [
+                3138,
+                1821
+              ],
+              [
+                2165,
+                1855
+              ],
+              [
+                881,
+                1774
+              ],
+              [
+                780,
+                1734
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Taishoike+pond%2c+Kamikochi%2c+Japan&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251119",
       "fullstartdate": "20251119",
       "enddate": "20251120",

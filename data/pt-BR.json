@@ -1,6 +1,301 @@
 {
   "images": [
     {
+      "startdate": "20251119",
+      "fullstartdate": "20251119",
+      "enddate": "20251120",
+      "urlbase": "https://www.bing.com/th?id=OHR.BudapestParliament_PT-BR5218931767_UHD.jpg",
+      "copyrighttext": "© Alexander Spatari/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parlamento+de+Budapeste&form=BGALM&filters=HpDate:\"20251119_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parlamento de Budapeste, Hungria",
+      "description": "Ao se aproximar, os detalhes começam a falar mais alto — cada pedra, torre e estátua do Parlamento de Budapeste, nossa imagem de hoje, parece contar uma parte de sua história. Construído no final do século XIX, o edifício foi projetado pelo arquiteto Imre Steindl para representar a ambição e orgulho da Hungria. Com estilo neogótico e elementos típicos húngaros, sua construção envolveu mais de mil artesãos ao longo de duas décadas. Finalizado em 1904, o prédio ainda domina o horizonte da cidade como símbolo nacional. Além de ser a sede do poder político, o Parlamento também é um importante símbolo cultural, inscrito na lista de Patrimônios Mundiais da UNESCO em 1987 por sua relevância histórica e arquitetônica.",
+      "headline": "Símbolos nacionais",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251119_BudapestParliament\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parlamento+de+Budapeste&form=BGABWCTA7&filters=HpDate:\"20251119_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2010,
+            "Y": 143,
+            "Width": 806,
+            "Height": 1380,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2422,
+                184
+              ],
+              [
+                2405,
+                398
+              ],
+              [
+                2373,
+                517
+              ],
+              [
+                2382,
+                588
+              ],
+              [
+                2332,
+                653
+              ],
+              [
+                2292,
+                646
+              ],
+              [
+                2284,
+                696
+              ],
+              [
+                2216,
+                779
+              ],
+              [
+                2185,
+                847
+              ],
+              [
+                2181,
+                881
+              ],
+              [
+                2160,
+                898
+              ],
+              [
+                2152,
+                927
+              ],
+              [
+                2145,
+                1126
+              ],
+              [
+                2099,
+                1181
+              ],
+              [
+                2092,
+                1204
+              ],
+              [
+                2076,
+                1205
+              ],
+              [
+                2063,
+                1164
+              ],
+              [
+                2054,
+                1193
+              ],
+              [
+                2051,
+                1367
+              ],
+              [
+                2180,
+                1445
+              ],
+              [
+                2211,
+                1499
+              ],
+              [
+                2242,
+                1496
+              ],
+              [
+                2272,
+                1473
+              ],
+              [
+                2353,
+                1499
+              ],
+              [
+                2375,
+                1497
+              ],
+              [
+                2377,
+                1487
+              ],
+              [
+                2384,
+                1489
+              ],
+              [
+                2380,
+                1497
+              ],
+              [
+                2393,
+                1499
+              ],
+              [
+                2397,
+                1488
+              ],
+              [
+                2419,
+                1480
+              ],
+              [
+                2627,
+                1481
+              ],
+              [
+                2659,
+                1471
+              ],
+              [
+                2692,
+                1417
+              ],
+              [
+                2707,
+                1361
+              ],
+              [
+                2737,
+                1352
+              ],
+              [
+                2767,
+                1356
+              ],
+              [
+                2772,
+                1339
+              ],
+              [
+                2768,
+                1218
+              ],
+              [
+                2752,
+                1225
+              ],
+              [
+                2680,
+                1126
+              ],
+              [
+                2681,
+                965
+              ],
+              [
+                2670,
+                906
+              ],
+              [
+                2646,
+                876
+              ],
+              [
+                2611,
+                777
+              ],
+              [
+                2548,
+                695
+              ],
+              [
+                2542,
+                648
+              ],
+              [
+                2527,
+                659
+              ],
+              [
+                2512,
+                657
+              ],
+              [
+                2481,
+                628
+              ],
+              [
+                2476,
+                610
+              ],
+              [
+                2452,
+                594
+              ],
+              [
+                2460,
+                510
+              ],
+              [
+                2431,
+                395
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parlamento+de+Budapeste&form=BGABWCTA11&filters=HpDate:\"20251119_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251118",
       "fullstartdate": "20251118",
       "enddate": "20251119",
