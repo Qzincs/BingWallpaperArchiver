@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251121",
+      "fullstartdate": "20251121",
+      "enddate": "20251122",
+      "urlbase": "https://www.bing.com/th?id=OHR.KeralaEzhikara2025_EN-IN4420432928_UHD.jpg",
+      "copyrighttext": "© gulfu photography/Moment/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ezhikkara&form=BGALM&filters=HpDate:\"20251120_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Small island with a building near Ezhikkara, Kerala",
+      "description": "In Ezhikkara, water decides how life unfolds. The village lies north of Kochi in Kerala's Ernakulam district, within the backwaters of the Periyar basin. Canals cut through low-lying land, linking its fields and neighbourhoods to wider waterways. Boats often serve where roads stop and many homes stand close to the water, their walls stained by years of monsoon rain and salt.",
+      "headline": "Going with the flow",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_KeralaEzhikara2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/10.099452,76.233727/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=10.099452,76.233727;S9;Ezhikkara, Kerala&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Ezhikkara%20kerala&mb=10.127894~76.181155~10.071038~76.286316&cardbg=%23F98745&dt=1761316200000&tt=Ezhikkara%2C%20Paravur%2C%20Kerala%2C%20India&tsts0=%2526ty%253D18%2526q%253DEzhikkara%252520kerala%2526mb%253D10.127894~76.181155~10.071038~76.286316%2526cardbg%253D%252523F98745%2526dt%253D1761316200000&tstt0=Ezhikkara%2C%20Paravur%2C%20Kerala%2C%20India&cp=8.202748~72.821222&lvl=5.8950677&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kerala&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ezhikkara&form=BGABWCTA7&filters=HpDate:\"20251120_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ezhikkara&form=BGABWCTA11&filters=HpDate:\"20251120_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251120",
       "fullstartdate": "20251120",
       "enddate": "20251121",

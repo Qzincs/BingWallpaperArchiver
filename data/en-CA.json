@@ -1,6 +1,413 @@
 {
   "images": [
     {
+      "startdate": "20251120",
+      "fullstartdate": "20251120",
+      "enddate": "20251121",
+      "urlbase": "https://www.bing.com/th?id=OBGA.shutterstock_1109939210",
+      "copyrighttext": "© Jacinto Marabel Romo/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Eilean+Donan+castle%2c+Loch+Duid%2c+Highlands%2c+Scotland&form=BGALM",
+      "title": "Eilean Donan castle, Loch Duid, Highlands, Scotland",
+      "description": "View of Eilean Donan Castle  at sunset in Loch Duid, Highlands, Scotland",
+      "headline": "Eilean Donan castle, Loch Duid, Highlands, Scotland",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eilean+Donan+castle%2c+Loch+Duid%2c+Highlands%2c+Scotland&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 511,
+            "Width": 3818,
+            "Height": 2822,
+            "Label": "castle",
+            "ContourList": [],
+            "Contours": [
+              [
+                3400,
+                969
+              ],
+              [
+                3102,
+                978
+              ],
+              [
+                3172,
+                997
+              ],
+              [
+                3141,
+                1025
+              ],
+              [
+                2984,
+                1016
+              ],
+              [
+                2885,
+                866
+              ],
+              [
+                2770,
+                936
+              ],
+              [
+                2752,
+                1168
+              ],
+              [
+                1494,
+                1260
+              ],
+              [
+                263,
+                1462
+              ],
+              [
+                0,
+                1473
+              ],
+              [
+                0,
+                1879
+              ],
+              [
+                80,
+                1885
+              ],
+              [
+                146,
+                2156
+              ],
+              [
+                891,
+                2192
+              ],
+              [
+                1164,
+                2247
+              ],
+              [
+                1355,
+                2352
+              ],
+              [
+                1390,
+                2758
+              ],
+              [
+                1475,
+                2742
+              ],
+              [
+                1594,
+                2853
+              ],
+              [
+                1678,
+                2978
+              ],
+              [
+                1798,
+                3322
+              ],
+              [
+                2518,
+                3321
+              ],
+              [
+                2552,
+                3280
+              ],
+              [
+                2474,
+                3129
+              ],
+              [
+                2573,
+                3134
+              ],
+              [
+                2577,
+                3084
+              ],
+              [
+                2514,
+                3093
+              ],
+              [
+                2493,
+                3032
+              ],
+              [
+                2377,
+                3024
+              ],
+              [
+                2338,
+                2981
+              ],
+              [
+                2353,
+                2846
+              ],
+              [
+                2423,
+                2791
+              ],
+              [
+                2498,
+                2628
+              ],
+              [
+                2437,
+                2583
+              ],
+              [
+                2261,
+                2714
+              ],
+              [
+                2142,
+                2708
+              ],
+              [
+                2152,
+                2589
+              ],
+              [
+                2235,
+                2602
+              ],
+              [
+                2161,
+                2569
+              ],
+              [
+                2179,
+                2511
+              ],
+              [
+                2266,
+                2509
+              ],
+              [
+                2299,
+                2578
+              ],
+              [
+                2319,
+                2494
+              ],
+              [
+                2335,
+                2551
+              ],
+              [
+                2387,
+                2553
+              ],
+              [
+                2350,
+                2522
+              ],
+              [
+                2437,
+                2488
+              ],
+              [
+                2436,
+                2442
+              ],
+              [
+                2501,
+                2448
+              ],
+              [
+                2484,
+                2406
+              ],
+              [
+                2519,
+                2406
+              ],
+              [
+                2509,
+                2354
+              ],
+              [
+                2554,
+                2335
+              ],
+              [
+                2582,
+                2450
+              ],
+              [
+                2713,
+                2413
+              ],
+              [
+                2883,
+                2503
+              ],
+              [
+                2914,
+                2455
+              ],
+              [
+                2947,
+                2490
+              ],
+              [
+                2868,
+                2327
+              ],
+              [
+                2788,
+                2274
+              ],
+              [
+                2741,
+                2289
+              ],
+              [
+                2739,
+                2199
+              ],
+              [
+                2608,
+                2067
+              ],
+              [
+                2415,
+                2003
+              ],
+              [
+                2313,
+                1885
+              ],
+              [
+                2149,
+                1860
+              ],
+              [
+                2096,
+                1780
+              ],
+              [
+                1905,
+                1714
+              ],
+              [
+                2045,
+                1564
+              ],
+              [
+                2177,
+                1518
+              ],
+              [
+                2938,
+                1454
+              ],
+              [
+                2908,
+                1440
+              ],
+              [
+                2974,
+                1402
+              ],
+              [
+                3040,
+                1161
+              ],
+              [
+                3132,
+                1084
+              ],
+              [
+                3209,
+                1081
+              ],
+              [
+                3220,
+                1032
+              ],
+              [
+                3280,
+                1050
+              ],
+              [
+                3220,
+                1102
+              ],
+              [
+                3317,
+                1111
+              ],
+              [
+                3402,
+                1035
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eilean+Donan+castle%2c+Loch+Duid%2c+Highlands%2c+Scotland&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251119",
       "fullstartdate": "20251119",
       "enddate": "20251120",
