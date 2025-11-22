@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251121",
+      "fullstartdate": "20251121",
+      "enddate": "20251122",
+      "urlbase": "https://www.bing.com/th?id=OHR.SealWaving_ROW8856649845_UHD.jpg",
+      "copyrighttext": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Harbour+seals&form=BGALM&filters=HpDate:\"20251121_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Harbour seals at Robert Moses State Park, Long Island, New York, United States",
+      "description": "Today's image features harbour seals—also known as common seals—which are true pinnipeds distinguished by their lack of visible ear flaps. They are found in the northern Atlantic and Pacific Oceans, as well as the Baltic and North Seas, typically staying near coastlines, which is how they got their name. Adults can weigh almost 170 kilograms and reach lengths of up to 2 metres. They display a variety of colours, from white or silvery grey to black or dark brown, often marked with distinctive spots and V-shaped nasal openings.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_SealWaving\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Harbour+seals&form=BGABWCTA7&filters=HpDate:\"20251121_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Harbour+seals&form=BGABWCTA11&filters=HpDate:\"20251121_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251120",
       "fullstartdate": "20251120",
       "enddate": "20251121",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251122",
+      "fullstartdate": "20251122",
+      "enddate": "20251123",
+      "urlbase": "https://www.bing.com/th?id=OHR.Kenrokuen2025_JA-JP5771782879_UHD.jpg",
+      "copyrighttext": "© Darby Sawchuk/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%85%bc%e5%85%ad%e5%9c%92&form=BGALM&filters=HpDate:\"20251121_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "兼六園, 石川県 金沢市",
+      "description": "ここは石川県金沢市にある兼六園です。国の特別名勝に指定されており、岡山の後楽園、水戸の偕楽園と共に「日本三名園」の一つに数えられます。江戸時代の代表的な林泉廻遊式庭園で、広大な敷地に池や築山、茶屋などが点在し、冬の雪吊りを始めとして、四季折々の景観を楽しむことができます…",
+      "headline": "紅葉に彩られた日本庭園",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251122_Kenrokuen2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.562065,136.662598/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.562065,136.662598;S9;兼六園&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E5%85%BC%E5%85%AD%E5%9C%92&ss=ypid.YN5286x3296912818715583739&mb=36.566952~136.657916~36.557179~136.667293&description=920-0937%E7%9F%B3%E5%B7%9D%E7%9C%8C%E9%87%91%E6%B2%A2%E5%B8%821-1%20%E4%B8%B8%E3%81%AE%E5%86%85&cardbg=%233DB838&dt=1761537600000&tt=%E5%85%BC%E5%85%AD%E5%9C%92&cp=36.562066~136.652133&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 22 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%9f%b3%e5%b7%9d%e7%9c%8c+%e9%87%91%e6%b2%a2%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%85%bc%e5%85%ad%e5%9c%92&form=BGABWCTA7&filters=HpDate:\"20251121_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%85%bc%e5%85%ad%e5%9c%92&form=BGABWCTA11&filters=HpDate:\"20251121_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251121",
       "fullstartdate": "20251121",
       "enddate": "20251122",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251121",
+      "fullstartdate": "20251121",
+      "enddate": "20251122",
+      "urlbase": "https://www.bing.com/th?id=OHR.SealWaving_PT-BR1657752159_UHD.jpg",
+      "copyrighttext": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Mundial+da+Sauda%c3%a7%c3%a3o&form=BGALM&filters=HpDate:\"20251121_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Focas-comuns no Parque Estadual Robert Moses, Long Island, Nova York, EUA",
+      "description": "Esta foca-comum, fotografada no Parque Estadual Robert Moses, em Nova York, Estados Unidos, parece estar acenando para nós. Esse é o espírito do Dia Mundial da Saudação, celebrado em 21 de novembro. A data foi criada em 1973 pelos irmãos estadunidenses Brian e Michael McCormack, como uma resposta pacífica às tensões globais. Eles enviaram 1.360 cartas em sete idiomas para líderes mundiais, convidando-os a participar da primeira celebração. A mensagem era simples e poderosa: a comunicação pessoal pode ajudar a preservar a paz. Hoje, o dia é comemorado em mais de 180 países, incluindo o Brasil.",
+      "headline": "Um “olá” que transforma",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_SealWaving\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Mundial+da+Sauda%c3%a7%c3%a3o&form=BGABWCTA7&filters=HpDate:\"20251121_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+Mundial+da+Sauda%c3%a7%c3%a3o&form=BGABWCTA11&filters=HpDate:\"20251121_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251120",
       "fullstartdate": "20251120",
       "enddate": "20251121",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251121",
+      "fullstartdate": "20251121",
+      "enddate": "20251122",
+      "urlbase": "https://www.bing.com/th?id=OHR.SealWaving_EN-CA4973524052_UHD.jpg",
+      "copyrighttext": "© Vicki Jauron, Babylon and Beyond Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hello+Day&form=BGALM&filters=HpDate:\"20251121_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Harbour seals at Robert Moses State Park, Long Island, New York, United States",
+      "description": "This harbour seal, photographed at Robert Moses State Park on Long Island in New York, United States, seems to be onto something—spreading good vibes, one wave at a time. That's exactly the spirit of World Hello Day, celebrated every November 21. This cheerful observance began in 1973 when two American brothers, Brian and Michael McCormack, launched it as a peaceful response to global tensions. They mailed 1,360 letters in seven languages to world leaders, inviting them to join the first celebration. Their message was simple yet powerful: personal communication can help preserve peace. Today, people in more than 180 countries participate.",
+      "headline": "Sealed with a hello",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251121_SealWaving\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.001358,-74.850845/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=45.001358,-74.850845;S9;Robert Moses State Park, New York, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Robert%20Moses%20State%20Park&ss=ypid.YN30E23B1112AC18CE&mb=45.004546~-74.857922~44.998174~-74.84376&description=32%20Beach%20Marina%20Rd%2C%20Massena%2C%20NY%2013662&cardbg=%233DB838&dt=1759739400000&tt=Robert%20Moses%20State%20Park%20-%20Thousand%20Islands&tsts0=%2526ty%253D18%2526q%253DRobert%252520Moses%252520State%252520Park%2526ss%253Dypid.YN30E23B1112AC18CE%2526mb%253D45.004546~-74.857922~44.998174~-74.84376%2526description%253D32%252520Beach%252520Marina%252520Rd%25252C%252520Massena%25252C%252520NY%25252013662%2526cardbg%253D%2525233DB838%2526dt%253D1759739400000&tstt0=Robert%20Moses%20State%20Park%20-%20Thousand%20Islands&cp=44.964798~-85.693359&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Long+Island%2c+New+York%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hello+Day&form=BGABWCTA7&filters=HpDate:\"20251121_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hello+Day&form=BGABWCTA11&filters=HpDate:\"20251121_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251120",
       "fullstartdate": "20251120",
       "enddate": "20251121",
