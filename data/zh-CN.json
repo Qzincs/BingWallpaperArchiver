@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251123",
+      "fullstartdate": "20251123",
+      "enddate": "20251124",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.MadgascarAmmonite_ZH-CN6497276091_UHD.jpg",
+      "copyrighttext": "© ThomasLENNE/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%95%b0%e5%88%97&form=BGALM&filters=HpDate:\"20251122_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "马达加斯加菊石化石",
+      "description": "仔细观察这块菊石化石。它那优雅盘旋的螺壳，曾是史前海洋生物的家，如今却蕴藏着一个数学的秘密：螺旋结构。每一个新的壳室都比前一个按比例增大，保持着恒定的生长比，这种规律常被认为与斐波那契数列密切相关。",
+      "headline": "大自然的秘密代码",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 23",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%95%b0%e5%88%97&form=BGABWCTA7&filters=HpDate:\"20251122_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%96%90%e6%b3%a2%e9%82%a3%e5%a5%91%e6%95%b0%e5%88%97&form=BGABWCTA11&filters=HpDate:\"20251122_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251122",
       "fullstartdate": "20251122",
       "enddate": "20251123",

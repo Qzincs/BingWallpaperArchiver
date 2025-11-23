@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251123",
+      "fullstartdate": "20251123",
+      "enddate": "20251124",
+      "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_FR-FR3013777807_UHD.jpg",
+      "copyrighttext": "© ThomasLENNE/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=BGALM&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fossile d’ammonite de Madagascar",
+      "description": "Sous la lumière dorée de Madagascar, un fossile d’ammonite dévoile sa spirale parfaite, sculptée il y a des millions d’années dans la pierre marine. Chaque volute suit un rythme invisible : une progression géométrique semblable à la suite de Fibonacci (1, 1, 2, 3, 5, 8, etc.), dans laquelle chaque nombre est la somme des deux précédents. Ce motif, transmis de l’Inde ancienne à l’Europe médiévale, unit les mathématiques à la beauté du monde.",
+      "headline": "Fossile, mais pas has-been !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=BGABWCTA7&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=BGABWCTA11&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251122",
       "fullstartdate": "20251122",
       "enddate": "20251123",

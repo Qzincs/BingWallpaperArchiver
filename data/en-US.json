@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251122",
+      "fullstartdate": "20251122",
+      "enddate": "20251123",
+      "urlbase": "https://www.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg",
+      "copyrighttext": "© www.anotherdayattheoffice.org/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Leshan+Giant+Buddha&form=BGALM&filters=HpDate:\"20251122_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Leshan Giant Buddha, Sichuan, China",
+      "description": "There are big statues—and then there's the Leshan Giant Buddha. Carved into a riverside cliff at the confluence of the Min, Qingyi, and Dadu Rivers in Sichuan, China, this statue is an ancient engineering marvel. Construction began in 713 CE under a monk named Hai Tong, who hoped that the Buddha's presence would calm dangerous river currents that threatened passing boats. He was so devoted that when funding ran out, he reportedly gouged out his own eyes to prove his sincerity. Construction took roughly 90 years and was completed long after Hai Tong's death. At 233 feet tall, it is the largest stone Buddha in the world. Its shoulders stretch about 92 feet wide, its ears measure nearly 23 feet long, and each foot extends over 28 feet. Drainage channels built inside the statue protect it from erosion, helping explain its remarkable preservation for more than 12 centuries.",
+      "headline": "The guardian of the waters",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251122_LeshanBuddha\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/29.5441,103.771278/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=29.5441,103.771278;S9;Leshan&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=leshan%20giant%20buddha&ss=ypid.YN4067x6797637560291908474&mb=29.548017~103.764195~29.540177~103.778358&description=No.2435%20Lingyun%20Street%2C%20Shizhong%20District%2C%20Leshan%20614000&cardbg=%23219AB6&dt=1759840200000&tt=Giant%20Buddha%20of%20Leshan&tsts0=%2526ty%253D18%2526q%253Dleshan%252520giant%252520buddha%2526ss%253Dypid.YN4067x6797637560291908474%2526mb%253D29.548017~103.764195~29.540177~103.778358%2526description%253DNo.2435%252520Lingyun%252520Street%25252C%252520Shizhong%252520District%25252C%252520Leshan%252520614000%2526cardbg%253D%252523219AB6%2526dt%253D1759840200000&tstt0=Giant%20Buddha%20of%20Leshan&cp=30.085926~72.611629&lvl=3.6280696&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 22, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Sichuan%2c+China&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Leshan+Giant+Buddha&form=BGABWCTA7&filters=HpDate:\"20251122_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Leshan+Giant+Buddha&form=BGABWCTA11&filters=HpDate:\"20251122_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251121",
       "fullstartdate": "20251121",
       "enddate": "20251122",

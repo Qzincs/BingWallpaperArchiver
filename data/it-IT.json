@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251123",
+      "fullstartdate": "20251123",
+      "enddate": "20251124",
+      "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_IT-IT0517415518_UHD.jpg",
+      "copyrighttext": "© ThomasLENNE/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Successione+di+Fibonacci&form=BGALM&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fossile di ammonite del Madagascar",
+      "description": "Ogni 23 novembre si celebra il “Fibonacci Day”, dedicato a Leonardo Bonacci, detto Fibonacci, matematico pisano del XIII secolo. Fu lui a introdurre in Europa la celebre sequenza: 1, 1, 2, 3, 5, 8… dove ogni numero è la somma dei due precedenti. Sebbene il concetto fosse già noto in India nel III secolo a.C., è grazie a Fibonacci che oggi riconosciamo il suo ritmo nella natura: nei girasoli, nelle pigne, nei carciofi e persino nelle spirali marine.",
+      "headline": "Riuscite a decifrare il codice?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Successione+di+Fibonacci&form=BGABWCTA7&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Successione+di+Fibonacci&form=BGABWCTA11&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251122",
       "fullstartdate": "20251122",
       "enddate": "20251123",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251123",
+      "fullstartdate": "20251123",
+      "enddate": "20251124",
+      "urlbase": "https://www.bing.com/th?id=OHR.MadgascarAmmonite_ES-ES6952842200_UHD.jpg",
+      "copyrighttext": "© ThomasLENNE/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=La+Secuencia+de+Fibonacci&form=BGALM&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fósil de amonita de Madagascar",
+      "description": "Descubre de cerca este fósil de amonita. Su caparazón enrollado, que alguna vez fue el hogar de un antiguo molusco marino, guarda un secreto matemático: un patrón en espiral. Cada nueva cámara es proporcionalmente más grande que la anterior, siguiendo una relación de crecimiento constante conocida como la secuencia de Fibonacci.",
+      "headline": "El código secreto de la naturaleza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251123_MadgascarAmmonite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Secuencia+de+Fibonacci&form=BGABWCTA7&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=La+Secuencia+de+Fibonacci&form=BGABWCTA11&filters=HpDate:\"20251122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251122",
       "fullstartdate": "20251122",
       "enddate": "20251123",
