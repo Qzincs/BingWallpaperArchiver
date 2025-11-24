@@ -1,6 +1,477 @@
 {
   "images": [
     {
+      "startdate": "20251124",
+      "fullstartdate": "20251124",
+      "enddate": "20251125",
+      "urlbase": "https://www.bing.com/th?id=OHR.GwailorFort_ES-ES8433830967_UHD.jpg",
+      "copyrighttext": "© ImagesofIndia/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=India&form=BGALM&filters=HpDate:\"20251123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fortaleza de Gwalior, Madhya Pradesh, India",
+      "description": "Gwalior, en Madhya Pradesh, no es solo una ciudad; es un capítulo vivo de la historia de la India. Dominando el horizonte, el Fuerte de Gwalior, construido en el siglo VI, creció bajo distintas dinastías y está rodeado de leyendas. Apodado \"el Gibraltar de la India\", fue elogiado por el emperador mogol Babur como la \"perla entre las fortalezas de Hind\" por su grandeza y solidez. A lo largo de los siglos, el fuerte vio gobernantes desde los Tomars hasta los mogoles y fue escenario de batallas, intrigas reales y tesoros escondidos.",
+      "headline": "Secretos tallados en piedra",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251124_GwailorFort\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=India&form=BGABWCTA7&filters=HpDate:\"20251123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 193,
+            "Width": 2255,
+            "Height": 1963,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                2182,
+                1023
+              ],
+              [
+                2092,
+                1006
+              ],
+              [
+                2085,
+                982
+              ],
+              [
+                2020,
+                964
+              ],
+              [
+                1981,
+                974
+              ],
+              [
+                1959,
+                1015
+              ],
+              [
+                1915,
+                1010
+              ],
+              [
+                1913,
+                976
+              ],
+              [
+                1790,
+                971
+              ],
+              [
+                1779,
+                999
+              ],
+              [
+                1795,
+                1008
+              ],
+              [
+                1777,
+                1014
+              ],
+              [
+                1764,
+                909
+              ],
+              [
+                1732,
+                871
+              ],
+              [
+                1717,
+                886
+              ],
+              [
+                1682,
+                857
+              ],
+              [
+                1649,
+                874
+              ],
+              [
+                1612,
+                816
+              ],
+              [
+                1567,
+                854
+              ],
+              [
+                1493,
+                760
+              ],
+              [
+                1430,
+                821
+              ],
+              [
+                1386,
+                763
+              ],
+              [
+                1330,
+                745
+              ],
+              [
+                1318,
+                696
+              ],
+              [
+                1283,
+                669
+              ],
+              [
+                1207,
+                756
+              ],
+              [
+                1131,
+                729
+              ],
+              [
+                1113,
+                645
+              ],
+              [
+                1088,
+                627
+              ],
+              [
+                1042,
+                675
+              ],
+              [
+                935,
+                641
+              ],
+              [
+                914,
+                520
+              ],
+              [
+                849,
+                462
+              ],
+              [
+                792,
+                492
+              ],
+              [
+                760,
+                587
+              ],
+              [
+                654,
+                593
+              ],
+              [
+                592,
+                501
+              ],
+              [
+                595,
+                443
+              ],
+              [
+                629,
+                412
+              ],
+              [
+                595,
+                375
+              ],
+              [
+                581,
+                285
+              ],
+              [
+                502,
+                213
+              ],
+              [
+                425,
+                235
+              ],
+              [
+                394,
+                268
+              ],
+              [
+                383,
+                332
+              ],
+              [
+                344,
+                362
+              ],
+              [
+                378,
+                468
+              ],
+              [
+                298,
+                510
+              ],
+              [
+                268,
+                598
+              ],
+              [
+                286,
+                628
+              ],
+              [
+                217,
+                646
+              ],
+              [
+                172,
+                632
+              ],
+              [
+                135,
+                658
+              ],
+              [
+                0,
+                681
+              ],
+              [
+                0,
+                2152
+              ],
+              [
+                229,
+                2147
+              ],
+              [
+                476,
+                1947
+              ],
+              [
+                561,
+                1860
+              ],
+              [
+                557,
+                1818
+              ],
+              [
+                632,
+                1751
+              ],
+              [
+                623,
+                1555
+              ],
+              [
+                787,
+                1537
+              ],
+              [
+                832,
+                1551
+              ],
+              [
+                868,
+                1519
+              ],
+              [
+                1064,
+                1514
+              ],
+              [
+                1042,
+                1488
+              ],
+              [
+                956,
+                1471
+              ],
+              [
+                962,
+                1404
+              ],
+              [
+                1027,
+                1367
+              ],
+              [
+                1180,
+                1373
+              ],
+              [
+                1158,
+                1353
+              ],
+              [
+                1233,
+                1354
+              ],
+              [
+                1193,
+                1371
+              ],
+              [
+                1239,
+                1374
+              ],
+              [
+                1252,
+                1351
+              ],
+              [
+                1261,
+                1371
+              ],
+              [
+                1342,
+                1366
+              ],
+              [
+                1372,
+                1387
+              ],
+              [
+                1383,
+                1371
+              ],
+              [
+                1348,
+                1362
+              ],
+              [
+                1355,
+                1337
+              ],
+              [
+                1401,
+                1320
+              ],
+              [
+                1353,
+                1286
+              ],
+              [
+                1385,
+                1278
+              ],
+              [
+                1385,
+                1233
+              ],
+              [
+                1460,
+                1164
+              ],
+              [
+                1523,
+                1172
+              ],
+              [
+                1550,
+                1106
+              ],
+              [
+                1612,
+                1106
+              ],
+              [
+                1642,
+                1075
+              ],
+              [
+                1676,
+                1075
+              ],
+              [
+                1652,
+                1066
+              ],
+              [
+                1868,
+                1078
+              ],
+              [
+                1972,
+                1136
+              ],
+              [
+                2018,
+                1136
+              ],
+              [
+                2033,
+                1084
+              ],
+              [
+                2075,
+                1055
+              ],
+              [
+                2184,
+                1080
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=India&form=BGABWCTA11&filters=HpDate:\"20251123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251123",
       "fullstartdate": "20251123",
       "enddate": "20251124",
