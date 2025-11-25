@@ -1,6 +1,577 @@
 {
   "images": [
     {
+      "startdate": "20251125",
+      "fullstartdate": "20251125",
+      "enddate": "20251126",
+      "urlbase": "https://www.bing.com/th?id=OHR.TreviFountain_EN-GB4495201299_UHD.jpg",
+      "copyrighttext": "© Nico De Pasquale Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Trevi+Fountain&form=BGALM&filters=HpDate:\"20251125_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The Trevi Fountain in Rome, Italy",
+      "description": "Ever heard coins clinking louder than applause? That's the Trevi Fountain in Rome, Italy, for you—a spot where history, hope and selfie sticks collide. Completed in 1762, it marks the endpoint of one of ancient Rome's earliest aqueducts, the Aqua Virgo, which still supplies water today. The name 'Trevi' comes from Tre Vie—'three roads'—signifying the junction where it stands. Designed by Italian architect Nicola Salvi and finished by Giuseppe Pannini, this 26-metre marvel is the largest Baroque fountain in the city and one of the most famous in the world. Its sculptures show Oceanus, the god of the sea, surrounded by Tritons and horses.",
+      "headline": "Love, luck and loose change",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251125_TreviFountain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.900883,12.48334/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=41.900883,12.48334;S9;Trevi Fountain, Rome, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=trevi%20fountain&ss=ypid.YN1354x12895695298171326804&mb=41.90615~12.475619~41.895625~12.491069&description=Trevi%20Square%20-%2000187%20Rome%20%28Rome%29&cardbg=%23219AB6&dt=1759735800000&tt=Trevi%20Fountain&tsts0=%2526ty%253D18%2526q%253Dtrevi%252520fountain%2526ss%253Dypid.YN1354x12895695298171326804%2526mb%253D41.90615~12.475619~41.895625~12.491069%2526description%253DTrevi%252520Square%252520-%25252000187%252520Rome%252520%252528Rome%252529%2526cardbg%253D%252523219AB6%2526dt%253D1759735800000&tstt0=Trevi%20Fountain&cp=40.79143~7.169371&lvl=5.6531672&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trevi+Fountain&form=BGABWCTA7&filters=HpDate:\"20251125_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 644,
+            "Width": 3833,
+            "Height": 1512,
+            "Label": "fountain",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1795
+              ],
+              [
+                3560,
+                1506
+              ],
+              [
+                3646,
+                1267
+              ],
+              [
+                3172,
+                1294
+              ],
+              [
+                3096,
+                1405
+              ],
+              [
+                3173,
+                1426
+              ],
+              [
+                3049,
+                1439
+              ],
+              [
+                2904,
+                1286
+              ],
+              [
+                2942,
+                1184
+              ],
+              [
+                2902,
+                1105
+              ],
+              [
+                2736,
+                1269
+              ],
+              [
+                2810,
+                1278
+              ],
+              [
+                2829,
+                1364
+              ],
+              [
+                2604,
+                1413
+              ],
+              [
+                2738,
+                1531
+              ],
+              [
+                2557,
+                1566
+              ],
+              [
+                2535,
+                1472
+              ],
+              [
+                2603,
+                1471
+              ],
+              [
+                2546,
+                1325
+              ],
+              [
+                2272,
+                1260
+              ],
+              [
+                2226,
+                1185
+              ],
+              [
+                2098,
+                1213
+              ],
+              [
+                2126,
+                1017
+              ],
+              [
+                2038,
+                1009
+              ],
+              [
+                2097,
+                991
+              ],
+              [
+                2090,
+                889
+              ],
+              [
+                1997,
+                882
+              ],
+              [
+                1938,
+                658
+              ],
+              [
+                1835,
+                730
+              ],
+              [
+                1807,
+                867
+              ],
+              [
+                1908,
+                898
+              ],
+              [
+                1886,
+                974
+              ],
+              [
+                1941,
+                965
+              ],
+              [
+                2001,
+                1075
+              ],
+              [
+                1871,
+                1114
+              ],
+              [
+                1852,
+                1042
+              ],
+              [
+                1744,
+                1149
+              ],
+              [
+                1763,
+                1207
+              ],
+              [
+                1700,
+                1193
+              ],
+              [
+                1687,
+                1244
+              ],
+              [
+                1679,
+                1186
+              ],
+              [
+                1627,
+                1178
+              ],
+              [
+                1588,
+                1219
+              ],
+              [
+                1620,
+                1252
+              ],
+              [
+                1525,
+                1312
+              ],
+              [
+                1431,
+                1289
+              ],
+              [
+                1400,
+                1202
+              ],
+              [
+                1341,
+                1185
+              ],
+              [
+                1226,
+                1375
+              ],
+              [
+                1148,
+                1285
+              ],
+              [
+                920,
+                1384
+              ],
+              [
+                872,
+                1370
+              ],
+              [
+                892,
+                1311
+              ],
+              [
+                665,
+                1279
+              ],
+              [
+                517,
+                1419
+              ],
+              [
+                384,
+                1299
+              ],
+              [
+                173,
+                1248
+              ],
+              [
+                94,
+                1279
+              ],
+              [
+                111,
+                1214
+              ],
+              [
+                52,
+                1211
+              ],
+              [
+                0,
+                1283
+              ],
+              [
+                32,
+                1310
+              ],
+              [
+                0,
+                1314
+              ],
+              [
+                0,
+                1617
+              ],
+              [
+                97,
+                1654
+              ],
+              [
+                204,
+                1620
+              ],
+              [
+                122,
+                1739
+              ],
+              [
+                58,
+                1736
+              ],
+              [
+                12,
+                1657
+              ],
+              [
+                40,
+                1835
+              ],
+              [
+                0,
+                1952
+              ],
+              [
+                257,
+                1800
+              ],
+              [
+                276,
+                1659
+              ],
+              [
+                321,
+                1666
+              ],
+              [
+                283,
+                1674
+              ],
+              [
+                327,
+                1686
+              ],
+              [
+                314,
+                1734
+              ],
+              [
+                470,
+                1742
+              ],
+              [
+                205,
+                1877
+              ],
+              [
+                208,
+                1934
+              ],
+              [
+                320,
+                1987
+              ],
+              [
+                307,
+                2040
+              ],
+              [
+                229,
+                2054
+              ],
+              [
+                167,
+                2147
+              ],
+              [
+                327,
+                2159
+              ],
+              [
+                620,
+                2007
+              ],
+              [
+                703,
+                2020
+              ],
+              [
+                757,
+                2101
+              ],
+              [
+                1014,
+                2159
+              ],
+              [
+                1057,
+                2112
+              ],
+              [
+                1198,
+                2110
+              ],
+              [
+                1268,
+                2006
+              ],
+              [
+                1447,
+                1983
+              ],
+              [
+                1540,
+                2109
+              ],
+              [
+                1678,
+                2149
+              ],
+              [
+                2071,
+                2159
+              ],
+              [
+                2245,
+                2088
+              ],
+              [
+                2302,
+                2004
+              ],
+              [
+                2466,
+                2137
+              ],
+              [
+                2782,
+                2159
+              ],
+              [
+                2750,
+                2076
+              ],
+              [
+                2902,
+                2079
+              ],
+              [
+                2906,
+                1966
+              ],
+              [
+                2975,
+                1899
+              ],
+              [
+                3082,
+                1956
+              ],
+              [
+                3202,
+                1943
+              ],
+              [
+                3267,
+                1995
+              ],
+              [
+                3157,
+                1985
+              ],
+              [
+                3162,
+                2028
+              ],
+              [
+                3338,
+                2098
+              ],
+              [
+                3532,
+                2118
+              ],
+              [
+                3630,
+                2020
+              ],
+              [
+                3635,
+                1946
+              ],
+              [
+                3540,
+                1807
+              ],
+              [
+                3428,
+                1776
+              ],
+              [
+                3396,
+                1544
+              ],
+              [
+                3408,
+                1623
+              ],
+              [
+                3464,
+                1649
+              ],
+              [
+                3427,
+                1658
+              ],
+              [
+                3526,
+                1683
+              ],
+              [
+                3513,
+                1742
+              ],
+              [
+                3674,
+                1925
+              ],
+              [
+                3839,
+                1971
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Trevi+Fountain&form=BGABWCTA11&filters=HpDate:\"20251125_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251124",
       "fullstartdate": "20251124",
       "enddate": "20251125",

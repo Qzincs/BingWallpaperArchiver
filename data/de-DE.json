@@ -1,6 +1,517 @@
 {
   "images": [
     {
+      "startdate": "20251125",
+      "fullstartdate": "20251125",
+      "enddate": "20251126",
+      "urlbase": "https://www.bing.com/th?id=OHR.ErfurtChristmas_DE-DE4066993799_UHD.jpg",
+      "copyrighttext": "© Jareck/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Erfurter+Weihnachtsmarkt&form=BGALM&filters=HpDate:\"20251124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Weihnachtsmarkt Erfurt, Thüringen",
+      "description": "In der Adventszeit verwandeln sich Städte und Gemeinden in Deutschland in festlich beleuchtete Orte voller Düfte, Klänge und Begegnungen. Für viele Menschen gehört der Besuch eines Weihnachtsmarktes fest zur Vorweihnachtszeit. Diese Tradition reicht weit zurück: Der älteste dokumentierte Markt fand bereits 1434 in Dresden statt. Heute gibt es im ganzen Land mehrere tausend Märkte – von großen Städten bis hin zu kleinen Dörfern. Zu den ältesten und stimmungsvollsten zählt der Erfurter Weihnachtsmarkt, der auf unserem heutigen Bild zu sehen ist. Heute öffnet er wieder seine Tore und verwandelt den Domplatz in eine festliche Kulisse.",
+      "headline": "Ein Fest der Düfte",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251125_ErfurtChristmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.977979,11.023671/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.977979,11.023671;S9;Erfurter Weihnachtsmarkt&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=erfurt%20domplatz&ss=ypid.YN4070x000000000&mb=50.983~11.016~50.974~11.026&description=Domplatz%2C%20Erfurt%2C%20Germany&cardbg=%23219AB6&dt=1759480200000&tt=Erfurt%20Domplatz&tsts0=%2526ty%253D18%2526q%253Derfurt%252520domplatz%2526ss%253Dypid.YN4070x000000000%2526mb%253D50.983~11.016~50.974~11.026%2526description%253DDomplatz%25252C%252520Erfurt%25252C%252520Germany%2526cardbg%253D%252523219AB6%2526dt%253D1759480200000&tstt0=Erfurt%20Domplatz&cp=50.978571~11.021288&lvl=14.2&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "25. Nov.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Th%c3%bcringen&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Erfurter+Weihnachtsmarkt&form=BGABWCTA7&filters=HpDate:\"20251124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 221,
+            "Width": 3833,
+            "Height": 1935,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                2791,
+                966
+              ],
+              [
+                2576,
+                960
+              ],
+              [
+                2772,
+                926
+              ],
+              [
+                2768,
+                867
+              ],
+              [
+                2626,
+                896
+              ],
+              [
+                2754,
+                885
+              ],
+              [
+                2738,
+                918
+              ],
+              [
+                2582,
+                915
+              ],
+              [
+                2624,
+                890
+              ],
+              [
+                2581,
+                860
+              ],
+              [
+                2744,
+                856
+              ],
+              [
+                2525,
+                837
+              ],
+              [
+                2515,
+                892
+              ],
+              [
+                2406,
+                872
+              ],
+              [
+                2392,
+                927
+              ],
+              [
+                2239,
+                878
+              ],
+              [
+                2220,
+                924
+              ],
+              [
+                2295,
+                936
+              ],
+              [
+                2208,
+                966
+              ],
+              [
+                2277,
+                969
+              ],
+              [
+                2277,
+                1024
+              ],
+              [
+                2195,
+                1022
+              ],
+              [
+                2217,
+                995
+              ],
+              [
+                2165,
+                972
+              ],
+              [
+                2174,
+                1069
+              ],
+              [
+                2008,
+                1067
+              ],
+              [
+                2124,
+                1034
+              ],
+              [
+                2068,
+                979
+              ],
+              [
+                2203,
+                959
+              ],
+              [
+                2182,
+                912
+              ],
+              [
+                2139,
+                955
+              ],
+              [
+                1966,
+                964
+              ],
+              [
+                2051,
+                982
+              ],
+              [
+                2010,
+                1006
+              ],
+              [
+                2055,
+                999
+              ],
+              [
+                2010,
+                1040
+              ],
+              [
+                2037,
+                1063
+              ],
+              [
+                1989,
+                1005
+              ],
+              [
+                1848,
+                1010
+              ],
+              [
+                1963,
+                958
+              ],
+              [
+                1893,
+                952
+              ],
+              [
+                1916,
+                929
+              ],
+              [
+                1802,
+                904
+              ],
+              [
+                1788,
+                960
+              ],
+              [
+                1702,
+                878
+              ],
+              [
+                1647,
+                944
+              ],
+              [
+                1585,
+                878
+              ],
+              [
+                1401,
+                878
+              ],
+              [
+                1405,
+                910
+              ],
+              [
+                1130,
+                878
+              ],
+              [
+                1061,
+                953
+              ],
+              [
+                1031,
+                904
+              ],
+              [
+                950,
+                914
+              ],
+              [
+                1013,
+                960
+              ],
+              [
+                849,
+                904
+              ],
+              [
+                832,
+                961
+              ],
+              [
+                728,
+                903
+              ],
+              [
+                714,
+                960
+              ],
+              [
+                632,
+                953
+              ],
+              [
+                622,
+                911
+              ],
+              [
+                629,
+                944
+              ],
+              [
+                526,
+                954
+              ],
+              [
+                439,
+                912
+              ],
+              [
+                412,
+                960
+              ],
+              [
+                384,
+                928
+              ],
+              [
+                353,
+                961
+              ],
+              [
+                74,
+                945
+              ],
+              [
+                119,
+                1025
+              ],
+              [
+                0,
+                1006
+              ],
+              [
+                48,
+                1070
+              ],
+              [
+                198,
+                1062
+              ],
+              [
+                232,
+                1004
+              ],
+              [
+                253,
+                1068
+              ],
+              [
+                13,
+                1080
+              ],
+              [
+                60,
+                1110
+              ],
+              [
+                0,
+                1131
+              ],
+              [
+                1027,
+                1149
+              ],
+              [
+                1045,
+                1079
+              ],
+              [
+                1072,
+                1165
+              ],
+              [
+                1329,
+                1160
+              ],
+              [
+                1245,
+                1143
+              ],
+              [
+                1392,
+                1127
+              ],
+              [
+                1409,
+                1046
+              ],
+              [
+                1451,
+                1050
+              ],
+              [
+                1424,
+                1134
+              ],
+              [
+                1462,
+                1136
+              ],
+              [
+                1552,
+                1039
+              ],
+              [
+                1581,
+                1173
+              ],
+              [
+                1627,
+                1131
+              ],
+              [
+                1785,
+                1156
+              ],
+              [
+                2152,
+                1091
+              ],
+              [
+                2360,
+                1113
+              ],
+              [
+                2212,
+                1117
+              ],
+              [
+                2211,
+                1152
+              ],
+              [
+                2378,
+                1165
+              ],
+              [
+                2374,
+                1033
+              ],
+              [
+                2438,
+                1049
+              ],
+              [
+                2462,
+                929
+              ],
+              [
+                2549,
+                905
+              ],
+              [
+                2546,
+                991
+              ],
+              [
+                2473,
+                1068
+              ],
+              [
+                2531,
+                1063
+              ],
+              [
+                2572,
+                1120
+              ],
+              [
+                2600,
+                1071
+              ],
+              [
+                2648,
+                1113
+              ],
+              [
+                2662,
+                1067
+              ],
+              [
+                2676,
+                1113
+              ],
+              [
+                2772,
+                1115
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Erfurter+Weihnachtsmarkt&form=BGABWCTA11&filters=HpDate:\"20251124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251124",
       "fullstartdate": "20251124",
       "enddate": "20251125",
