@@ -1,6 +1,357 @@
 {
   "images": [
     {
+      "startdate": "20251126",
+      "fullstartdate": "20251126",
+      "enddate": "20251127",
+      "urlbase": "https://www.bing.com/th?id=OHR.HandmadeMarket_FR-FR3762412272_UHD.jpg",
+      "copyrighttext": "© 31etc/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=march%c3%a9+de+no%c3%abl&form=BGALM&filters=HpDate:\"20251125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Décorations artisanales d’un marché de Noël",
+      "description": "La saison des pulls moches, du vin chaud et des téléfilms sucrés est lancée ! Plus près de nous, le marché de Noël de Strasbourg s'ouvre entre chalets parfumés à la cannelle et guirlandes scintillantes. Les décorations artisanales racontent la patience des gestes ancestraux : bois sculpté, feutrine cousue, pigments naturels. Chaque figurine semble être sortie d'un conte, comme ce bonhomme de neige au chapeau noir, gardien des souvenirs d'hiver.",
+      "headline": "La saison la plus attendue de l'année est lancée !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_HandmadeMarket\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.584939,7.749438/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.584939,7.749438;S9;Marché Noël, Strasbourg, Alsace&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps/directions?rtp=~pos.48.58456802368164_7.749547958374023_21-20+PL+Broglie+Strasbourg_March%c3%a9+de+No%c3%abl_&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "26 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=march%c3%a9+de+no%c3%abl&form=BGABWCTA7&filters=HpDate:\"20251125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2305,
+            "Y": 284,
+            "Width": 642,
+            "Height": 1738,
+            "Label": "christmas tree",
+            "ContourList": [],
+            "Contours": [
+              [
+                2587,
+                291
+              ],
+              [
+                2574,
+                334
+              ],
+              [
+                2549,
+                367
+              ],
+              [
+                2541,
+                434
+              ],
+              [
+                2518,
+                477
+              ],
+              [
+                2516,
+                536
+              ],
+              [
+                2496,
+                585
+              ],
+              [
+                2534,
+                603
+              ],
+              [
+                2526,
+                621
+              ],
+              [
+                2494,
+                632
+              ],
+              [
+                2474,
+                661
+              ],
+              [
+                2485,
+                704
+              ],
+              [
+                2445,
+                780
+              ],
+              [
+                2445,
+                866
+              ],
+              [
+                2398,
+                932
+              ],
+              [
+                2417,
+                985
+              ],
+              [
+                2373,
+                1088
+              ],
+              [
+                2384,
+                1170
+              ],
+              [
+                2367,
+                1204
+              ],
+              [
+                2384,
+                1237
+              ],
+              [
+                2361,
+                1272
+              ],
+              [
+                2377,
+                1295
+              ],
+              [
+                2398,
+                1299
+              ],
+              [
+                2490,
+                1270
+              ],
+              [
+                2557,
+                1265
+              ],
+              [
+                2570,
+                1277
+              ],
+              [
+                2569,
+                1331
+              ],
+              [
+                2586,
+                1317
+              ],
+              [
+                2604,
+                1325
+              ],
+              [
+                2622,
+                1485
+              ],
+              [
+                2617,
+                1565
+              ],
+              [
+                2632,
+                1600
+              ],
+              [
+                2643,
+                1707
+              ],
+              [
+                2640,
+                1928
+              ],
+              [
+                2672,
+                1985
+              ],
+              [
+                2736,
+                2016
+              ],
+              [
+                2761,
+                2016
+              ],
+              [
+                2793,
+                2003
+              ],
+              [
+                2760,
+                1972
+              ],
+              [
+                2732,
+                1914
+              ],
+              [
+                2736,
+                1835
+              ],
+              [
+                2765,
+                1816
+              ],
+              [
+                2736,
+                1763
+              ],
+              [
+                2720,
+                1567
+              ],
+              [
+                2728,
+                1505
+              ],
+              [
+                2712,
+                1473
+              ],
+              [
+                2694,
+                1294
+              ],
+              [
+                2737,
+                1261
+              ],
+              [
+                2782,
+                1277
+              ],
+              [
+                2797,
+                1264
+              ],
+              [
+                2867,
+                1249
+              ],
+              [
+                2890,
+                1193
+              ],
+              [
+                2883,
+                1159
+              ],
+              [
+                2856,
+                1126
+              ],
+              [
+                2867,
+                1090
+              ],
+              [
+                2838,
+                1058
+              ],
+              [
+                2836,
+                1037
+              ],
+              [
+                2851,
+                1007
+              ],
+              [
+                2808,
+                915
+              ],
+              [
+                2790,
+                807
+              ],
+              [
+                2766,
+                774
+              ],
+              [
+                2760,
+                703
+              ],
+              [
+                2728,
+                586
+              ],
+              [
+                2713,
+                570
+              ],
+              [
+                2696,
+                480
+              ],
+              [
+                2651,
+                363
+              ],
+              [
+                2620,
+                331
+              ],
+              [
+                2602,
+                293
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=march%c3%a9+de+no%c3%abl&form=BGABWCTA11&filters=HpDate:\"20251125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251125",
       "fullstartdate": "20251125",
       "enddate": "20251126",

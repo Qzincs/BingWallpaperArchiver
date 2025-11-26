@@ -1,6 +1,317 @@
 {
   "images": [
     {
+      "startdate": "20251126",
+      "fullstartdate": "20251126",
+      "enddate": "20251127",
+      "urlbase": "https://www.bing.com/th?id=OHR.OliveGrove_EN-IN5370124306_UHD.jpg",
+      "copyrighttext": "© cinoby/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Olive+in+Serra+de+Tramuntana&form=BGALM&filters=HpDate:\"20251125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain",
+      "description": "Ancient yet vibrant, twisted yet resilient, olive trees can live for over a thousand years. Even when scarred or hollowed, their trunks still send out fresh leaves each season—a living record of survival through drought, wind and fire. Cultivated by humans for a millennia, olives have carried both practical and symbolic weight through the ages: their oil was pressed for anointing, medicine and daily sustenance; crowns of their leaves graced Olympic victors; and their branches became a lasting emblem of peace.",
+      "headline": "'Leaf' it to history",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.820061,2.884566/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=39.820061,2.884566;S9;Serra de Tramuntana, Mallorca, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=serra%20de%20tramuntana&ss=ypid.YN6306x17964902271857298146&mb=39.827753~2.87226~39.81236~2.896893&description=Ca%20s%27Amitger%2C%20Es%20el%20lugar%20donde%20se%20encuentra%20el%20Centro%20de%20interpretacion%20de%20la%20Serra%20de%20Tramuntana%2C%2007315%2C%20Balearic%20Islands&cardbg=%233DB838&dt=1759330800000&tt=Serra%20de%20Tramuntana&tsts0=%2526ty%253D18%2526q%253Dserra%252520de%252520tramuntana%2526ss%253Dypid.YN6306x17964902271857298146%2526mb%253D39.827753~2.87226~39.81236~2.896893%2526description%253DCa%252520s%252527Amitger%25252C%252520Es%252520el%252520lugar%252520donde%252520se%252520encuentra%252520el%252520Centro%252520de%252520interpretacion%252520de%252520la%252520Serra%252520de%252520Tramuntana%25252C%25252007315%25252C%252520Balearic%252520Islands%2526cardbg%253D%2525233DB838%2526dt%253D1759330800000&tstt0=Serra%20de%20Tramuntana&cp=39.820057~2.874105&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Mallorca%2c+Balearic+Islands%2c+Spain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Olive+in+Serra+de+Tramuntana&form=BGABWCTA7&filters=HpDate:\"20251125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1513,
+            "Width": 3833,
+            "Height": 643,
+            "Label": "flower",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1871
+              ],
+              [
+                3772,
+                1840
+              ],
+              [
+                3692,
+                1851
+              ],
+              [
+                3716,
+                1867
+              ],
+              [
+                3717,
+                2012
+              ],
+              [
+                3593,
+                2046
+              ],
+              [
+                3350,
+                2041
+              ],
+              [
+                3086,
+                1946
+              ],
+              [
+                2888,
+                1935
+              ],
+              [
+                2691,
+                1970
+              ],
+              [
+                2608,
+                1877
+              ],
+              [
+                2614,
+                1725
+              ],
+              [
+                2664,
+                1650
+              ],
+              [
+                2681,
+                1528
+              ],
+              [
+                2400,
+                1528
+              ],
+              [
+                2345,
+                1583
+              ],
+              [
+                2443,
+                1667
+              ],
+              [
+                2223,
+                1667
+              ],
+              [
+                2197,
+                1699
+              ],
+              [
+                2077,
+                1709
+              ],
+              [
+                2028,
+                1683
+              ],
+              [
+                2046,
+                1624
+              ],
+              [
+                2103,
+                1606
+              ],
+              [
+                2066,
+                1556
+              ],
+              [
+                2002,
+                1584
+              ],
+              [
+                1866,
+                1535
+              ],
+              [
+                1877,
+                1632
+              ],
+              [
+                1842,
+                1709
+              ],
+              [
+                1292,
+                1676
+              ],
+              [
+                1237,
+                1643
+              ],
+              [
+                993,
+                1668
+              ],
+              [
+                967,
+                1637
+              ],
+              [
+                958,
+                1686
+              ],
+              [
+                1067,
+                1722
+              ],
+              [
+                1302,
+                1869
+              ],
+              [
+                1313,
+                1894
+              ],
+              [
+                1253,
+                1949
+              ],
+              [
+                1040,
+                1946
+              ],
+              [
+                952,
+                1912
+              ],
+              [
+                787,
+                1929
+              ],
+              [
+                776,
+                1907
+              ],
+              [
+                487,
+                1902
+              ],
+              [
+                414,
+                1988
+              ],
+              [
+                366,
+                1996
+              ],
+              [
+                308,
+                1961
+              ],
+              [
+                297,
+                1892
+              ],
+              [
+                104,
+                1891
+              ],
+              [
+                173,
+                1900
+              ],
+              [
+                184,
+                1929
+              ],
+              [
+                82,
+                1954
+              ],
+              [
+                14,
+                1857
+              ],
+              [
+                0,
+                2152
+              ],
+              [
+                616,
+                2152
+              ],
+              [
+                699,
+                2123
+              ],
+              [
+                714,
+                2069
+              ],
+              [
+                734,
+                2080
+              ],
+              [
+                704,
+                2147
+              ],
+              [
+                3839,
+                2154
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Olive+in+Serra+de+Tramuntana&form=BGABWCTA11&filters=HpDate:\"20251125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251125",
       "fullstartdate": "20251125",
       "enddate": "20251126",

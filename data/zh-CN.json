@@ -1,6 +1,317 @@
 {
   "images": [
     {
+      "startdate": "20251126",
+      "fullstartdate": "20251126",
+      "enddate": "20251127",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.OliveGrove_ZH-CN7054006944_UHD.jpg",
+      "copyrighttext": "© cinoby/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%a9%84%e6%a6%84%e6%a0%91&form=BGALM&filters=HpDate:\"20251125_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙",
+      "description": "古老而充满生机，扭曲却坚韧不拔，橄榄树可以存活超过一千年。即便树干伤痕累累、内部中空，它们依然年复一年抽出新叶，成为记录风霜、旱灾与烈火的生命见证。2019年，联合国教科文组织将11月26日定为世界橄榄树日，以纪念这种自约公元前6000年起就被人类栽培的树种。橄榄自古以来不仅承载着实用价值，也蕴含着深刻的象征意义：橄榄油被用于涂抹仪式、医药与日常食用；橄榄叶编织的花环曾加冕奥运冠军；而橄榄枝，更成为延续至今的和平象征。",
+      "headline": "让树叶诉说历史",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 26",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%a9%84%e6%a6%84%e6%a0%91&form=BGABWCTA7&filters=HpDate:\"20251125_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1513,
+            "Width": 3833,
+            "Height": 643,
+            "Label": "flower",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1871
+              ],
+              [
+                3772,
+                1840
+              ],
+              [
+                3692,
+                1851
+              ],
+              [
+                3716,
+                1867
+              ],
+              [
+                3717,
+                2012
+              ],
+              [
+                3593,
+                2046
+              ],
+              [
+                3350,
+                2041
+              ],
+              [
+                3086,
+                1946
+              ],
+              [
+                2888,
+                1935
+              ],
+              [
+                2691,
+                1970
+              ],
+              [
+                2608,
+                1877
+              ],
+              [
+                2614,
+                1725
+              ],
+              [
+                2664,
+                1650
+              ],
+              [
+                2681,
+                1528
+              ],
+              [
+                2400,
+                1528
+              ],
+              [
+                2345,
+                1583
+              ],
+              [
+                2443,
+                1667
+              ],
+              [
+                2223,
+                1667
+              ],
+              [
+                2197,
+                1699
+              ],
+              [
+                2077,
+                1709
+              ],
+              [
+                2028,
+                1683
+              ],
+              [
+                2046,
+                1624
+              ],
+              [
+                2103,
+                1606
+              ],
+              [
+                2066,
+                1556
+              ],
+              [
+                2002,
+                1584
+              ],
+              [
+                1866,
+                1535
+              ],
+              [
+                1877,
+                1632
+              ],
+              [
+                1842,
+                1709
+              ],
+              [
+                1292,
+                1676
+              ],
+              [
+                1237,
+                1643
+              ],
+              [
+                993,
+                1668
+              ],
+              [
+                967,
+                1637
+              ],
+              [
+                958,
+                1686
+              ],
+              [
+                1067,
+                1722
+              ],
+              [
+                1302,
+                1869
+              ],
+              [
+                1313,
+                1894
+              ],
+              [
+                1253,
+                1949
+              ],
+              [
+                1040,
+                1946
+              ],
+              [
+                952,
+                1912
+              ],
+              [
+                787,
+                1929
+              ],
+              [
+                776,
+                1907
+              ],
+              [
+                487,
+                1902
+              ],
+              [
+                414,
+                1988
+              ],
+              [
+                366,
+                1996
+              ],
+              [
+                308,
+                1961
+              ],
+              [
+                297,
+                1892
+              ],
+              [
+                104,
+                1891
+              ],
+              [
+                173,
+                1900
+              ],
+              [
+                184,
+                1929
+              ],
+              [
+                82,
+                1954
+              ],
+              [
+                14,
+                1857
+              ],
+              [
+                0,
+                2152
+              ],
+              [
+                616,
+                2152
+              ],
+              [
+                699,
+                2123
+              ],
+              [
+                714,
+                2069
+              ],
+              [
+                734,
+                2080
+              ],
+              [
+                704,
+                2147
+              ],
+              [
+                3839,
+                2154
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%a9%84%e6%a6%84%e6%a0%91&form=BGABWCTA11&filters=HpDate:\"20251125_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251125",
       "fullstartdate": "20251125",
       "enddate": "20251126",
