@@ -1,6 +1,329 @@
 {
   "images": [
     {
+      "startdate": "20251127",
+      "fullstartdate": "20251127",
+      "enddate": "20251128",
+      "urlbase": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_IT-IT4691451179_UHD.jpg",
+      "copyrighttext": "© Tolga_TEZCAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Eastbourne+citt%c3%a0+inglese&form=BGALM&filters=HpDate:\"20251126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Molo di Eastbourne, East Sussex, Inghilterra",
+      "description": "Ammirate questo gioiello vittoriano, inaugurato nel 1870, in East Sussex. Ha sfidato tempeste, incendi e guerre. Si allunga con grazia nel Canale della Manica, nato come approdo per i battelli a vapore, poi divenuto luogo di passeggiate sospese sull’acqua, di monete perdute nei flipper e di ricordi ritrovati nel vento.",
+      "headline": "Sapore di Sale...",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251127_PierOfEastbourne2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.765854,0.295458/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=50.765854,0.295458;S9;Molo di Eastbourne, East Sussex, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Eastbourne%20Pier%20East%20Sussex%20England&ss=ypid.YNF9FA01B294500EB3&mb=50.770957~0.285451~50.760737~0.30545&description=Eastbourne%20Pier%20Grand%20Parade%2C%20Eastbourne%20BN21%203EL&cardbg=%23219AB6&dt=1761147000000&tt=Eastbourne%20Pier&tsts0=%2526ty%253D18%2526q%253DEastbourne%252520Pier%252520East%252520Sussex%252520England%2526ss%253Dypid.YNF9FA01B294500EB3%2526mb%253D50.770957~0.285451~50.760737~0.30545%2526description%253DEastbourne%252520Pier%252520Grand%252520Parade%25252C%252520Eastbourne%252520BN21%2525203EL%2526cardbg%253D%252523219AB6%2526dt%253D1761147000000&tstt0=Eastbourne%20Pier&cp=51.297567~-16.557385&lvl=5.338885&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+East+Sussex%2c+Inghilterra&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eastbourne+citt%c3%a0+inglese&form=BGABWCTA7&filters=HpDate:\"20251126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2286,
+            "Y": 679,
+            "Width": 945,
+            "Height": 447,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2293,
+                1029
+              ],
+              [
+                2294,
+                1048
+              ],
+              [
+                2301,
+                1055
+              ],
+              [
+                2377,
+                1059
+              ],
+              [
+                2396,
+                1084
+              ],
+              [
+                2392,
+                1092
+              ],
+              [
+                2376,
+                1092
+              ],
+              [
+                2402,
+                1098
+              ],
+              [
+                2442,
+                1097
+              ],
+              [
+                2452,
+                1091
+              ],
+              [
+                2467,
+                1099
+              ],
+              [
+                2587,
+                1095
+              ],
+              [
+                2602,
+                1089
+              ],
+              [
+                2615,
+                1099
+              ],
+              [
+                2632,
+                1094
+              ],
+              [
+                2647,
+                1099
+              ],
+              [
+                2872,
+                1095
+              ],
+              [
+                2915,
+                1109
+              ],
+              [
+                2920,
+                1100
+              ],
+              [
+                2974,
+                1107
+              ],
+              [
+                3037,
+                1105
+              ],
+              [
+                3083,
+                1114
+              ],
+              [
+                3192,
+                1113
+              ],
+              [
+                3199,
+                1101
+              ],
+              [
+                3206,
+                982
+              ],
+              [
+                3112,
+                934
+              ],
+              [
+                3052,
+                936
+              ],
+              [
+                3040,
+                923
+              ],
+              [
+                3038,
+                893
+              ],
+              [
+                3024,
+                872
+              ],
+              [
+                3022,
+                826
+              ],
+              [
+                3020,
+                856
+              ],
+              [
+                3002,
+                890
+              ],
+              [
+                2999,
+                924
+              ],
+              [
+                2979,
+                939
+              ],
+              [
+                2951,
+                939
+              ],
+              [
+                2934,
+                924
+              ],
+              [
+                2869,
+                898
+              ],
+              [
+                2857,
+                886
+              ],
+              [
+                2850,
+                864
+              ],
+              [
+                2812,
+                853
+              ],
+              [
+                2813,
+                817
+              ],
+              [
+                2800,
+                780
+              ],
+              [
+                2769,
+                747
+              ],
+              [
+                2767,
+                720
+              ],
+              [
+                2752,
+                679
+              ],
+              [
+                2748,
+                705
+              ],
+              [
+                2738,
+                719
+              ],
+              [
+                2739,
+                738
+              ],
+              [
+                2732,
+                754
+              ],
+              [
+                2704,
+                780
+              ],
+              [
+                2688,
+                844
+              ],
+              [
+                2651,
+                863
+              ],
+              [
+                2635,
+                895
+              ],
+              [
+                2603,
+                904
+              ],
+              [
+                2572,
+                930
+              ],
+              [
+                2531,
+                949
+              ],
+              [
+                2512,
+                983
+              ],
+              [
+                2332,
+                992
+              ],
+              [
+                2317,
+                1014
+              ],
+              [
+                2298,
+                1016
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eastbourne+citt%c3%a0+inglese&form=BGABWCTA11&filters=HpDate:\"20251126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251126",
       "fullstartdate": "20251126",
       "enddate": "20251127",

@@ -1,6 +1,317 @@
 {
   "images": [
     {
+      "startdate": "20251126",
+      "fullstartdate": "20251126",
+      "enddate": "20251127",
+      "urlbase": "https://www.bing.com/th?id=OHR.OliveGrove_EN-CA5951077027_UHD.jpg",
+      "copyrighttext": "© cinoby/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=World+Olive+Tree+Day&form=BGALM&filters=HpDate:\"20251126_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain",
+      "description": "Ancient yet vibrant, twisted yet resilient, olive trees can live for over a thousand years. Even when scarred or hollowed, their trunks still send out fresh leaves each season—a living record of survival through drought, wind and fire. In 2019, UNESCO established November 26 as World Olive Tree Day, recognising these trees that have been cultivated by humans since about 6,000 BCE. Olives have carried both practical and symbolic weight through the ages: their oil was pressed for anointing, medicine and daily sustenance; crowns of their leaves graced Olympic victors; and their branches became a lasting emblem of peace.",
+      "headline": "'Leaf' it to history",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.820061,2.884566/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=39.820061,2.884566;S9;Serra de Tramuntana, Mallorca, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Serra%20de%20Tramuntana%2C%20Mallorca%2C%20Spain&ss=ypid.YN6306x6768575597102258038&mb=39.752758~2.617192~39.741886~2.642941&description=Mallorca%2C%20Palma%20de%20Mallorca%20%28Islas%20Baleares%29%C2%B7%C3%81rea%20de%20senderismo&cardbg=%23219AB6&dt=1761150600000&tt=Sierra%20De%20Tramuntana&tsts0=%2526ty%253D18%2526q%253DSerra%252520de%252520Tramuntana%25252C%252520Mallorca%25252C%252520Spain%2526ss%253Dypid.YN6306x6768575597102258038%2526mb%253D39.752758~2.617192~39.741886~2.642941%2526description%253DMallorca%25252C%252520Palma%252520de%252520Mallorca%252520%252528Islas%252520Baleares%252529%2525C2%2525B7%2525C3%252581rea%252520de%252520senderismo%2526cardbg%253D%252523219AB6%2526dt%253D1761150600000&tstt0=Sierra%20De%20Tramuntana&cp=36.820359~-5.537811&lvl=4.5769515&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Mallorca%2c+Balearic+Islands%2c+Spain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=World+Olive+Tree+Day&form=BGABWCTA7&filters=HpDate:\"20251126_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1513,
+            "Width": 3833,
+            "Height": 643,
+            "Label": "flower",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1871
+              ],
+              [
+                3772,
+                1840
+              ],
+              [
+                3692,
+                1851
+              ],
+              [
+                3716,
+                1867
+              ],
+              [
+                3717,
+                2012
+              ],
+              [
+                3593,
+                2046
+              ],
+              [
+                3350,
+                2041
+              ],
+              [
+                3086,
+                1946
+              ],
+              [
+                2888,
+                1935
+              ],
+              [
+                2691,
+                1970
+              ],
+              [
+                2608,
+                1877
+              ],
+              [
+                2614,
+                1725
+              ],
+              [
+                2664,
+                1650
+              ],
+              [
+                2681,
+                1528
+              ],
+              [
+                2400,
+                1528
+              ],
+              [
+                2345,
+                1583
+              ],
+              [
+                2443,
+                1667
+              ],
+              [
+                2223,
+                1667
+              ],
+              [
+                2197,
+                1699
+              ],
+              [
+                2077,
+                1709
+              ],
+              [
+                2028,
+                1683
+              ],
+              [
+                2046,
+                1624
+              ],
+              [
+                2103,
+                1606
+              ],
+              [
+                2066,
+                1556
+              ],
+              [
+                2002,
+                1584
+              ],
+              [
+                1866,
+                1535
+              ],
+              [
+                1877,
+                1632
+              ],
+              [
+                1842,
+                1709
+              ],
+              [
+                1292,
+                1676
+              ],
+              [
+                1237,
+                1643
+              ],
+              [
+                993,
+                1668
+              ],
+              [
+                967,
+                1637
+              ],
+              [
+                958,
+                1686
+              ],
+              [
+                1067,
+                1722
+              ],
+              [
+                1302,
+                1869
+              ],
+              [
+                1313,
+                1894
+              ],
+              [
+                1253,
+                1949
+              ],
+              [
+                1040,
+                1946
+              ],
+              [
+                952,
+                1912
+              ],
+              [
+                787,
+                1929
+              ],
+              [
+                776,
+                1907
+              ],
+              [
+                487,
+                1902
+              ],
+              [
+                414,
+                1988
+              ],
+              [
+                366,
+                1996
+              ],
+              [
+                308,
+                1961
+              ],
+              [
+                297,
+                1892
+              ],
+              [
+                104,
+                1891
+              ],
+              [
+                173,
+                1900
+              ],
+              [
+                184,
+                1929
+              ],
+              [
+                82,
+                1954
+              ],
+              [
+                14,
+                1857
+              ],
+              [
+                0,
+                2152
+              ],
+              [
+                616,
+                2152
+              ],
+              [
+                699,
+                2123
+              ],
+              [
+                714,
+                2069
+              ],
+              [
+                734,
+                2080
+              ],
+              [
+                704,
+                2147
+              ],
+              [
+                3839,
+                2154
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=World+Olive+Tree+Day&form=BGABWCTA11&filters=HpDate:\"20251126_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251125",
       "fullstartdate": "20251125",
       "enddate": "20251126",

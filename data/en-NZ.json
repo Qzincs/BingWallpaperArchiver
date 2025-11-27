@@ -1,6 +1,317 @@
 {
   "images": [
     {
+      "startdate": "20251126",
+      "fullstartdate": "20251126",
+      "enddate": "20251127",
+      "urlbase": "https://www.bing.com/th?id=OHR.OliveGrove_ROW9424610098_UHD.jpg",
+      "copyrighttext": "© cinoby/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Olive+Tree&form=BGALM&filters=HpDate:\"20251126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain",
+      "description": "Ancient yet vibrant, twisted yet resilient, olive trees can live for over a thousand years. Even when scarred or hollowed, their trunks still send out fresh leaves each season—a living record of survival through drought, wind and fire. Olives have carried both practical and symbolic weight through the ages: their oil was pressed for anointing, medicine and daily sustenance; crowns of their leaves graced Olympic victors; and their branches became a lasting emblem of peace.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251126_OliveGrove\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Olive+Tree&form=BGABWCTA7&filters=HpDate:\"20251126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1513,
+            "Width": 3833,
+            "Height": 643,
+            "Label": "flower",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1871
+              ],
+              [
+                3772,
+                1840
+              ],
+              [
+                3692,
+                1851
+              ],
+              [
+                3716,
+                1867
+              ],
+              [
+                3717,
+                2012
+              ],
+              [
+                3593,
+                2046
+              ],
+              [
+                3350,
+                2041
+              ],
+              [
+                3086,
+                1946
+              ],
+              [
+                2888,
+                1935
+              ],
+              [
+                2691,
+                1970
+              ],
+              [
+                2608,
+                1877
+              ],
+              [
+                2614,
+                1725
+              ],
+              [
+                2664,
+                1650
+              ],
+              [
+                2681,
+                1528
+              ],
+              [
+                2400,
+                1528
+              ],
+              [
+                2345,
+                1583
+              ],
+              [
+                2443,
+                1667
+              ],
+              [
+                2223,
+                1667
+              ],
+              [
+                2197,
+                1699
+              ],
+              [
+                2077,
+                1709
+              ],
+              [
+                2028,
+                1683
+              ],
+              [
+                2046,
+                1624
+              ],
+              [
+                2103,
+                1606
+              ],
+              [
+                2066,
+                1556
+              ],
+              [
+                2002,
+                1584
+              ],
+              [
+                1866,
+                1535
+              ],
+              [
+                1877,
+                1632
+              ],
+              [
+                1842,
+                1709
+              ],
+              [
+                1292,
+                1676
+              ],
+              [
+                1237,
+                1643
+              ],
+              [
+                993,
+                1668
+              ],
+              [
+                967,
+                1637
+              ],
+              [
+                958,
+                1686
+              ],
+              [
+                1067,
+                1722
+              ],
+              [
+                1302,
+                1869
+              ],
+              [
+                1313,
+                1894
+              ],
+              [
+                1253,
+                1949
+              ],
+              [
+                1040,
+                1946
+              ],
+              [
+                952,
+                1912
+              ],
+              [
+                787,
+                1929
+              ],
+              [
+                776,
+                1907
+              ],
+              [
+                487,
+                1902
+              ],
+              [
+                414,
+                1988
+              ],
+              [
+                366,
+                1996
+              ],
+              [
+                308,
+                1961
+              ],
+              [
+                297,
+                1892
+              ],
+              [
+                104,
+                1891
+              ],
+              [
+                173,
+                1900
+              ],
+              [
+                184,
+                1929
+              ],
+              [
+                82,
+                1954
+              ],
+              [
+                14,
+                1857
+              ],
+              [
+                0,
+                2152
+              ],
+              [
+                616,
+                2152
+              ],
+              [
+                699,
+                2123
+              ],
+              [
+                714,
+                2069
+              ],
+              [
+                734,
+                2080
+              ],
+              [
+                704,
+                2147
+              ],
+              [
+                3839,
+                2154
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Olive+Tree&form=BGABWCTA11&filters=HpDate:\"20251126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251125",
       "fullstartdate": "20251125",
       "enddate": "20251126",
