@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251127",
+      "fullstartdate": "20251127",
+      "enddate": "20251128",
+      "urlbase": "https://www.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg",
+      "copyrighttext": "© George McCarthy/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Thanksgiving&form=BGALM&filters=HpDate:\"20251127_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas",
+      "description": "The wild turkey's iridescent plumage, seen here at Aransas National Wildlife Refuge in Texas, isn't just striking—it carries the shimmer of history. Today is Thanksgiving, when many Americans gather around the table, enjoying roast turkey stuffed with savory bread dressing, mashed potatoes, cranberry sauce, and pumpkin pie. Football games hum in the background, parades march down city streets, and kitchens buzz with the familiar aromas of holiday cooking.",
+      "headline": "The echoes of Plymouth",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251127_TurkeyDetail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.308653,-96.804306/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=28.308653,-96.804306;S9;Aransas Natural Wildlife Refuge&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Aransas%20Wildlife%20Refuge&ss=ypid.YN873x7292486974822671558&mb=28.317472~-96.81663~28.299828~-96.791997&description=1%20Wildlife%20Cir%2C%20Austwell%2C%20TX%2077950&cardbg=%233DB838&dt=1759485600000&tt=National%20Wildlife%20Refuge%20Aransas&tsts0=%2526ty%253D18%2526q%253DAransas%252520Wildlife%252520Refuge%2526ss%253Dypid.YN873x7292486974822671558%2526mb%253D28.317472~-96.81663~28.299828~-96.791997%2526description%253D1%252520Wildlife%252520Cir%25252C%252520Austwell%25252C%252520TX%25252077950%2526cardbg%253D%2525233DB838%2526dt%253D1759485600000&tstt0=National%20Wildlife%20Refuge%20Aransas&cp=28.30865~-96.814785&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Aransas+Natural+Wildlife+Refuge%2c+Texas&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Thanksgiving&form=BGABWCTA7&filters=HpDate:\"20251127_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Thanksgiving&form=BGABWCTA11&filters=HpDate:\"20251127_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251126",
       "fullstartdate": "20251126",
       "enddate": "20251127",

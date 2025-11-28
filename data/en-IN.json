@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251128",
+      "fullstartdate": "20251128",
+      "enddate": "20251129",
+      "urlbase": "https://www.bing.com/th?id=OHR.InvernoItalia_EN-IN9669133941_UHD.jpg",
+      "copyrighttext": "© ClickAlps/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=C%c3%b3rteno+Golgi&form=BGALM&filters=HpDate:\"20251127_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Val Brandet, Brescia, Lombardy, Italy",
+      "description": "In the heart of Val Brandet, within the Adamello Park in Lombardy, where winter's silence finds its voice, lies the municipality of Corteno Golgi—named after the physician and Nobel laureate Camillo Golgi, who was born here—a place that preserves memory and beauty, science and nature.",
+      "headline": "Echoes in white",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 28, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=C%c3%b3rteno+Golgi&form=BGABWCTA7&filters=HpDate:\"20251127_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=C%c3%b3rteno+Golgi&form=BGABWCTA11&filters=HpDate:\"20251127_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251127",
       "fullstartdate": "20251127",
       "enddate": "20251128",

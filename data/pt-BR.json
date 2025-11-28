@@ -1,6 +1,329 @@
 {
   "images": [
     {
+      "startdate": "20251127",
+      "fullstartdate": "20251127",
+      "enddate": "20251128",
+      "urlbase": "https://www.bing.com/th?id=OHR.PierOfEastbourne2025_PT-BR7338751404_UHD.jpg",
+      "copyrighttext": "© Tolga_TEZCAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Eastbourne+na+Inglaterra&form=BGALM&filters=HpDate:\"20251127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Píer de Eastbourne, East Sussex, Inglaterra",
+      "description": "Na imagem, o píer de Eastbourne, na Inglaterra, se projeta sobre o Canal da Mancha com a serenidade de quem já sobreviveu a um século e meio de intempéries. Aberto em 1870, foi construído sobre estacas flexíveis, permitindo que se mova suavemente com o balanço das ondas. Este ícone da engenhosidade vitoriana enfrentou tempestades, a Segunda Guerra Mundial — quando trechos foram removidos para instalar defesas — e incêndios, incluindo o de 2014, que destruiu parte do tablado.",
+      "headline": "Resistência à beira-mar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251127_PierOfEastbourne2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eastbourne+na+Inglaterra&form=BGABWCTA7&filters=HpDate:\"20251127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2286,
+            "Y": 679,
+            "Width": 945,
+            "Height": 447,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2293,
+                1029
+              ],
+              [
+                2294,
+                1048
+              ],
+              [
+                2301,
+                1055
+              ],
+              [
+                2377,
+                1059
+              ],
+              [
+                2396,
+                1084
+              ],
+              [
+                2392,
+                1092
+              ],
+              [
+                2376,
+                1092
+              ],
+              [
+                2402,
+                1098
+              ],
+              [
+                2442,
+                1097
+              ],
+              [
+                2452,
+                1091
+              ],
+              [
+                2467,
+                1099
+              ],
+              [
+                2587,
+                1095
+              ],
+              [
+                2602,
+                1089
+              ],
+              [
+                2615,
+                1099
+              ],
+              [
+                2632,
+                1094
+              ],
+              [
+                2647,
+                1099
+              ],
+              [
+                2872,
+                1095
+              ],
+              [
+                2915,
+                1109
+              ],
+              [
+                2920,
+                1100
+              ],
+              [
+                2974,
+                1107
+              ],
+              [
+                3037,
+                1105
+              ],
+              [
+                3083,
+                1114
+              ],
+              [
+                3192,
+                1113
+              ],
+              [
+                3199,
+                1101
+              ],
+              [
+                3206,
+                982
+              ],
+              [
+                3112,
+                934
+              ],
+              [
+                3052,
+                936
+              ],
+              [
+                3040,
+                923
+              ],
+              [
+                3038,
+                893
+              ],
+              [
+                3024,
+                872
+              ],
+              [
+                3022,
+                826
+              ],
+              [
+                3020,
+                856
+              ],
+              [
+                3002,
+                890
+              ],
+              [
+                2999,
+                924
+              ],
+              [
+                2979,
+                939
+              ],
+              [
+                2951,
+                939
+              ],
+              [
+                2934,
+                924
+              ],
+              [
+                2869,
+                898
+              ],
+              [
+                2857,
+                886
+              ],
+              [
+                2850,
+                864
+              ],
+              [
+                2812,
+                853
+              ],
+              [
+                2813,
+                817
+              ],
+              [
+                2800,
+                780
+              ],
+              [
+                2769,
+                747
+              ],
+              [
+                2767,
+                720
+              ],
+              [
+                2752,
+                679
+              ],
+              [
+                2748,
+                705
+              ],
+              [
+                2738,
+                719
+              ],
+              [
+                2739,
+                738
+              ],
+              [
+                2732,
+                754
+              ],
+              [
+                2704,
+                780
+              ],
+              [
+                2688,
+                844
+              ],
+              [
+                2651,
+                863
+              ],
+              [
+                2635,
+                895
+              ],
+              [
+                2603,
+                904
+              ],
+              [
+                2572,
+                930
+              ],
+              [
+                2531,
+                949
+              ],
+              [
+                2512,
+                983
+              ],
+              [
+                2332,
+                992
+              ],
+              [
+                2317,
+                1014
+              ],
+              [
+                2298,
+                1016
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eastbourne+na+Inglaterra&form=BGABWCTA11&filters=HpDate:\"20251127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251126",
       "fullstartdate": "20251126",
       "enddate": "20251127",

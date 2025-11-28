@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251128",
+      "fullstartdate": "20251128",
+      "enddate": "20251129",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.InvernoItalia_ZH-CN1329490862_UHD.jpg",
+      "copyrighttext": "© ClickAlps/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%b8%83%e9%9b%b7%e8%a5%bf%e4%ba%9a&form=BGALM&filters=HpDate:\"20251127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利",
+      "description": "伦巴第大区的亚当洛公园深处，瓦尔·布兰德特静卧于雪的怀抱，冬日的静谧在此化作诗意的低语。我们身处科尔泰诺·高尔基小镇，这座以诺贝尔医学奖得主高尔基命名的小镇，承载着他的记忆与荣耀。这里不仅有科学的印记，更有自然的纯美，是历史与风景交织的圣地。",
+      "headline": "白色回响",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_InvernoItalia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 28",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%b8%83%e9%9b%b7%e8%a5%bf%e4%ba%9a&form=BGABWCTA7&filters=HpDate:\"20251127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%b8%83%e9%9b%b7%e8%a5%bf%e4%ba%9a&form=BGABWCTA11&filters=HpDate:\"20251127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251127",
       "fullstartdate": "20251127",
       "enddate": "20251128",
