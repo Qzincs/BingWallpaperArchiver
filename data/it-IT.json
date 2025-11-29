@@ -1,6 +1,333 @@
 {
   "images": [
     {
+      "startdate": "20251129",
+      "fullstartdate": "20251129",
+      "enddate": "20251130",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_UHD.jpg",
+      "copyrighttext": "© CreativeNature_nl/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+De+Hoge+Veluwe&form=BGALM&filters=HpDate:\"20251128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cervo rosso, Parco Nazionale De Hoge Veluwe, Paesi Bassi",
+      "description": "Immaginate una distesa aperta, vasta come un respiro profondo: terra libera, animali in movimento e un cervo che avanza fiero con la sua corona di palchi, a sfidare il cielo. Nel 1909 Anton Kröller e Helene Kröller-Müller iniziarono a dare forma a un sogno: una tenuta privata nel cuore del Gelderland, nei Paesi Bassi, esattamente dove ci troviamo oggi. Il loro desiderio? Unire arte e natura in un dialogo silenzioso. Oggi quel sogno è diventato un paesaggio vivo, un mosaico di foreste, sabbia, brughiere e sentieri nascosti.",
+      "headline": "Geometrie del selvatico",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.102749,5.787268/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.102749,5.787268;S9;Parco Nazionale De Hoge Veluwe, Paesi Bassi&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=De%20Hoge%20Veluwe%20National%20Park&ss=ypid.YN8000x15656035176455008411&mb=52.107092~5.779538~52.098406~5.794988&description=6731%20Ede&cardbg=%233DB838&dt=1760682600000&tt=De%20Hoge%20Veluwe%20National%20Park&tsts0=%2526ty%253D18%2526q%253DDe%252520Hoge%252520Veluwe%252520National%252520Park%2526ss%253Dypid.YN8000x15656035176455008411%2526mb%253D52.107092~5.779538~52.098406~5.794988%2526description%253D6731%252520Ede%2526cardbg%253D%2525233DB838%2526dt%253D1760682600000&tstt0=De%20Hoge%20Veluwe%20National%20Park&cp=43.412751~-9.325404&lvl=4.2659554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29 novembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Parco+Nazionale+De+Hoge+Veluwe%2c+Paesi+Bassi&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parco+nazionale+De+Hoge+Veluwe&form=BGABWCTA7&filters=HpDate:\"20251128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2121,
+            "Y": 1305,
+            "Width": 737,
+            "Height": 465,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                2851,
+                1699
+              ],
+              [
+                2851,
+                1666
+              ],
+              [
+                2843,
+                1648
+              ],
+              [
+                2767,
+                1607
+              ],
+              [
+                2674,
+                1604
+              ],
+              [
+                2598,
+                1614
+              ],
+              [
+                2450,
+                1598
+              ],
+              [
+                2419,
+                1586
+              ],
+              [
+                2349,
+                1531
+              ],
+              [
+                2382,
+                1489
+              ],
+              [
+                2452,
+                1474
+              ],
+              [
+                2538,
+                1435
+              ],
+              [
+                2666,
+                1447
+              ],
+              [
+                2643,
+                1430
+              ],
+              [
+                2656,
+                1410
+              ],
+              [
+                2632,
+                1414
+              ],
+              [
+                2625,
+                1406
+              ],
+              [
+                2636,
+                1380
+              ],
+              [
+                2632,
+                1369
+              ],
+              [
+                2602,
+                1395
+              ],
+              [
+                2582,
+                1387
+              ],
+              [
+                2619,
+                1329
+              ],
+              [
+                2618,
+                1308
+              ],
+              [
+                2587,
+                1348
+              ],
+              [
+                2581,
+                1320
+              ],
+              [
+                2573,
+                1315
+              ],
+              [
+                2558,
+                1333
+              ],
+              [
+                2542,
+                1336
+              ],
+              [
+                2538,
+                1371
+              ],
+              [
+                2526,
+                1394
+              ],
+              [
+                2469,
+                1436
+              ],
+              [
+                2429,
+                1452
+              ],
+              [
+                2371,
+                1457
+              ],
+              [
+                2370,
+                1436
+              ],
+              [
+                2384,
+                1421
+              ],
+              [
+                2377,
+                1409
+              ],
+              [
+                2362,
+                1417
+              ],
+              [
+                2344,
+                1460
+              ],
+              [
+                2324,
+                1459
+              ],
+              [
+                2309,
+                1431
+              ],
+              [
+                2309,
+                1404
+              ],
+              [
+                2318,
+                1387
+              ],
+              [
+                2287,
+                1405
+              ],
+              [
+                2282,
+                1385
+              ],
+              [
+                2295,
+                1362
+              ],
+              [
+                2270,
+                1366
+              ],
+              [
+                2260,
+                1381
+              ],
+              [
+                2281,
+                1459
+              ],
+              [
+                2277,
+                1473
+              ],
+              [
+                2137,
+                1472
+              ],
+              [
+                2119,
+                1481
+              ],
+              [
+                2125,
+                1536
+              ],
+              [
+                2242,
+                1630
+              ],
+              [
+                2268,
+                1687
+              ],
+              [
+                2301,
+                1703
+              ],
+              [
+                2424,
+                1705
+              ],
+              [
+                2512,
+                1695
+              ],
+              [
+                2556,
+                1719
+              ],
+              [
+                2617,
+                1736
+              ],
+              [
+                2722,
+                1740
+              ],
+              [
+                2795,
+                1721
+              ],
+              [
+                2827,
+                1727
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parco+nazionale+De+Hoge+Veluwe&form=BGABWCTA11&filters=HpDate:\"20251128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251128",
       "fullstartdate": "20251128",
       "enddate": "20251129",

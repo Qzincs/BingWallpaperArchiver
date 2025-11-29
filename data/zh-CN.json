@@ -1,6 +1,333 @@
 {
   "images": [
     {
+      "startdate": "20251129",
+      "fullstartdate": "20251129",
+      "enddate": "20251130",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.DeerVeluwe_ZH-CN1438758687_UHD.jpg",
+      "copyrighttext": "© CreativeNature_nl/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%a2%b5%e9%ab%98%e5%9b%bd%e5%ae%b6%e6%a3%ae%e6%9e%97%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20251128_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "荷兰梵高国家森林公园的马鹿雄鹿, 荷兰",
+      "description": "想象一下，在一片21平方英里的开阔土地，野生动物自由穿梭，一头雄鹿昂首炫耀着它的鹿角王冠。1909年，安东·克勒勒与海伦娜·克勒勒·穆勒在荷兰海尔德兰开启了一个梦想：建造一座私人庄园，后来成为了梵高国家森林公园。他们的理念是让艺术融入自然，于是将雕塑与景观相结合——亨利·摩尔的《三种直立动机》伫立在潘佩尔瑟沙地，比利时建筑师亨利·范德维尔德设计的总统斯泰恩石凳静静守候，众多艺术作品点缀其间。",
+      "headline": "哎呀，好冷啊！",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 11月 29",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%a2%b5%e9%ab%98%e5%9b%bd%e5%ae%b6%e6%a3%ae%e6%9e%97%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20251128_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2121,
+            "Y": 1305,
+            "Width": 737,
+            "Height": 465,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                2851,
+                1699
+              ],
+              [
+                2851,
+                1666
+              ],
+              [
+                2843,
+                1648
+              ],
+              [
+                2767,
+                1607
+              ],
+              [
+                2674,
+                1604
+              ],
+              [
+                2598,
+                1614
+              ],
+              [
+                2450,
+                1598
+              ],
+              [
+                2419,
+                1586
+              ],
+              [
+                2349,
+                1531
+              ],
+              [
+                2382,
+                1489
+              ],
+              [
+                2452,
+                1474
+              ],
+              [
+                2538,
+                1435
+              ],
+              [
+                2666,
+                1447
+              ],
+              [
+                2643,
+                1430
+              ],
+              [
+                2656,
+                1410
+              ],
+              [
+                2632,
+                1414
+              ],
+              [
+                2625,
+                1406
+              ],
+              [
+                2636,
+                1380
+              ],
+              [
+                2632,
+                1369
+              ],
+              [
+                2602,
+                1395
+              ],
+              [
+                2582,
+                1387
+              ],
+              [
+                2619,
+                1329
+              ],
+              [
+                2618,
+                1308
+              ],
+              [
+                2587,
+                1348
+              ],
+              [
+                2581,
+                1320
+              ],
+              [
+                2573,
+                1315
+              ],
+              [
+                2558,
+                1333
+              ],
+              [
+                2542,
+                1336
+              ],
+              [
+                2538,
+                1371
+              ],
+              [
+                2526,
+                1394
+              ],
+              [
+                2469,
+                1436
+              ],
+              [
+                2429,
+                1452
+              ],
+              [
+                2371,
+                1457
+              ],
+              [
+                2370,
+                1436
+              ],
+              [
+                2384,
+                1421
+              ],
+              [
+                2377,
+                1409
+              ],
+              [
+                2362,
+                1417
+              ],
+              [
+                2344,
+                1460
+              ],
+              [
+                2324,
+                1459
+              ],
+              [
+                2309,
+                1431
+              ],
+              [
+                2309,
+                1404
+              ],
+              [
+                2318,
+                1387
+              ],
+              [
+                2287,
+                1405
+              ],
+              [
+                2282,
+                1385
+              ],
+              [
+                2295,
+                1362
+              ],
+              [
+                2270,
+                1366
+              ],
+              [
+                2260,
+                1381
+              ],
+              [
+                2281,
+                1459
+              ],
+              [
+                2277,
+                1473
+              ],
+              [
+                2137,
+                1472
+              ],
+              [
+                2119,
+                1481
+              ],
+              [
+                2125,
+                1536
+              ],
+              [
+                2242,
+                1630
+              ],
+              [
+                2268,
+                1687
+              ],
+              [
+                2301,
+                1703
+              ],
+              [
+                2424,
+                1705
+              ],
+              [
+                2512,
+                1695
+              ],
+              [
+                2556,
+                1719
+              ],
+              [
+                2617,
+                1736
+              ],
+              [
+                2722,
+                1740
+              ],
+              [
+                2795,
+                1721
+              ],
+              [
+                2827,
+                1727
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%a2%b5%e9%ab%98%e5%9b%bd%e5%ae%b6%e6%a3%ae%e6%9e%97%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20251128_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251128",
       "fullstartdate": "20251128",
       "enddate": "20251129",

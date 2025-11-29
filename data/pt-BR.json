@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251128",
+      "fullstartdate": "20251128",
+      "enddate": "20251129",
+      "urlbase": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_UHD.jpg",
+      "copyrighttext": "© André Damasco/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=praia+da+arma%c3%a7%c3%a3o+florian%c3%b3polis&form=BGALM&filters=HpDate:\"20251128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Praia da Armação, Florianópolis, Santa Catarina",
+      "description": "A Praia da Armação, localizada no sul da Ilha de Santa Catarina, é um verdadeiro refúgio natural em Florianópolis. Com aproximadamente 3 quilômetros de extensão, ela encanta pela mistura de mar aberto, pedras e uma paisagem que parece pintada à mão, como vemos na imagem de hoje. No verão, a vila de pescadores se transforma: turistas de todo o Brasil chegam em busca de tranquilidade e beleza.",
+      "headline": "O som das ondas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251128_PraiaFloripa\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 nov. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=praia+da+arma%c3%a7%c3%a3o+florian%c3%b3polis&form=BGABWCTA7&filters=HpDate:\"20251128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=praia+da+arma%c3%a7%c3%a3o+florian%c3%b3polis&form=BGABWCTA11&filters=HpDate:\"20251128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251127",
       "fullstartdate": "20251127",
       "enddate": "20251128",
