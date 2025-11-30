@@ -1,6 +1,335 @@
 {
   "images": [
     {
+      "startdate": "20251129",
+      "fullstartdate": "20251129",
+      "enddate": "20251130",
+      "urlbase": "https://www.bing.com/th?id=OHR.DeerVeluwe_ROW5512867028_UHD.jpg",
+      "copyrighttext": "© CreativeNature_nl/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=De+Hoge+Veluwe+National+Park&form=BGALM&filters=HpDate:\"20251129_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Red deer stag in De Hoge Veluwe National Park, Netherlands",
+      "description": "Picture 55 square kilometres of open land, wildlife on the move and a stag flaunting its crown of antlers. In 1909, husband and wife Anton Kröller and Helene Kröller-Müller began building a private estate in Gelderland, Netherlands—what we now know as De Hoge Veluwe National Park. Their vision? To merge art and nature. They brought it to life by placing artwork within the landscape, like 'Three Upright Motives' by English sculptor Henry Moore in the Pampelse Zand and the President Steyn stone bench by Belgian architect Henry van de Velde, among others.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251129_DeerVeluwe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "20251129",
+        "SearchQueries": [
+          "A latte where the latte art is a snowflake"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Make custom latte art with Bing",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://www.bing.com/images/create?recreate=A+latte+where+the+latte+art+is+a+snowflake&form=bgabic"
+        ],
+        "CTAType": 4,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Make custom latte art with Bing"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2121,
+            "Y": 1305,
+            "Width": 737,
+            "Height": 465,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                2851,
+                1699
+              ],
+              [
+                2851,
+                1666
+              ],
+              [
+                2843,
+                1648
+              ],
+              [
+                2767,
+                1607
+              ],
+              [
+                2674,
+                1604
+              ],
+              [
+                2598,
+                1614
+              ],
+              [
+                2450,
+                1598
+              ],
+              [
+                2419,
+                1586
+              ],
+              [
+                2349,
+                1531
+              ],
+              [
+                2382,
+                1489
+              ],
+              [
+                2452,
+                1474
+              ],
+              [
+                2538,
+                1435
+              ],
+              [
+                2666,
+                1447
+              ],
+              [
+                2643,
+                1430
+              ],
+              [
+                2656,
+                1410
+              ],
+              [
+                2632,
+                1414
+              ],
+              [
+                2625,
+                1406
+              ],
+              [
+                2636,
+                1380
+              ],
+              [
+                2632,
+                1369
+              ],
+              [
+                2602,
+                1395
+              ],
+              [
+                2582,
+                1387
+              ],
+              [
+                2619,
+                1329
+              ],
+              [
+                2618,
+                1308
+              ],
+              [
+                2587,
+                1348
+              ],
+              [
+                2581,
+                1320
+              ],
+              [
+                2573,
+                1315
+              ],
+              [
+                2558,
+                1333
+              ],
+              [
+                2542,
+                1336
+              ],
+              [
+                2538,
+                1371
+              ],
+              [
+                2526,
+                1394
+              ],
+              [
+                2469,
+                1436
+              ],
+              [
+                2429,
+                1452
+              ],
+              [
+                2371,
+                1457
+              ],
+              [
+                2370,
+                1436
+              ],
+              [
+                2384,
+                1421
+              ],
+              [
+                2377,
+                1409
+              ],
+              [
+                2362,
+                1417
+              ],
+              [
+                2344,
+                1460
+              ],
+              [
+                2324,
+                1459
+              ],
+              [
+                2309,
+                1431
+              ],
+              [
+                2309,
+                1404
+              ],
+              [
+                2318,
+                1387
+              ],
+              [
+                2287,
+                1405
+              ],
+              [
+                2282,
+                1385
+              ],
+              [
+                2295,
+                1362
+              ],
+              [
+                2270,
+                1366
+              ],
+              [
+                2260,
+                1381
+              ],
+              [
+                2281,
+                1459
+              ],
+              [
+                2277,
+                1473
+              ],
+              [
+                2137,
+                1472
+              ],
+              [
+                2119,
+                1481
+              ],
+              [
+                2125,
+                1536
+              ],
+              [
+                2242,
+                1630
+              ],
+              [
+                2268,
+                1687
+              ],
+              [
+                2301,
+                1703
+              ],
+              [
+                2424,
+                1705
+              ],
+              [
+                2512,
+                1695
+              ],
+              [
+                2556,
+                1719
+              ],
+              [
+                2617,
+                1736
+              ],
+              [
+                2722,
+                1740
+              ],
+              [
+                2795,
+                1721
+              ],
+              [
+                2827,
+                1727
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=De+Hoge+Veluwe+National+Park&form=BGABWCTA11&filters=HpDate:\"20251129_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251128",
       "fullstartdate": "20251128",
       "enddate": "20251129",

@@ -1,6 +1,349 @@
 {
   "images": [
     {
+      "startdate": "20251130",
+      "fullstartdate": "20251130",
+      "enddate": "20251201",
+      "urlbase": "https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg",
+      "copyrighttext": "© georgeclerk/E+/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=St+Andrews+Day&form=BGALM&filters=HpDate:\"20251130_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fireworks over Edinburgh seen from Calton Hill, Scotland",
+      "description": "When 30 November rolls around, Scotland doesn't just turn up the heat—it turns up the pipes. St Andrew's Day marks a national celebration of the country's patron saint, its history and all things tartan, toasted and toe-tapping. St Andrew wasn't born here—he was a fisherman from Galilee and one of Jesus' twelve apostles. According to legend, his relics were brought to the east coast of Scotland in the 4th century, giving rise to the town of St Andrews and inspiring the country's flag, the white saltire cross on blue.",
+      "headline": "A sparkling salute",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251130_StAndrewsDay2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.953346,-3.189106/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.953346,-3.189106;S9;Edinburgh, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Edinburgh%2C%20Scotland&satid=id.sid%3A286af946-edea-5f33-df53-4164821c69da&vdpid=5469806147366027267&mb=56.009767~-3.365013~55.896647~-3.013471&cardbg=%23FFFFFF&tt=Edinburgh%2C%20Scotland%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DEdinburgh%25252C%252520Scotland%2526satid%253Did.sid%25253A286af946-edea-5f33-df53-4164821c69da%2526vdpid%253D5469806147366027267%2526mb%253D56.009767~-3.365013~55.896647~-3.013471%2526cardbg%253D%252523FFFFFF&tstt0=Edinburgh%2C%20Scotland%2C%20United%20Kingdom&cp=42.17317~-2.937468&lvl=3.6693964&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Scotland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=St+Andrews+Day&form=BGABWCTA7&filters=HpDate:\"20251130_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2279,
+            "Y": 173,
+            "Width": 1209,
+            "Height": 1923,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2782,
+                190
+              ],
+              [
+                2764,
+                205
+              ],
+              [
+                2789,
+                238
+              ],
+              [
+                2781,
+                274
+              ],
+              [
+                2796,
+                325
+              ],
+              [
+                2778,
+                345
+              ],
+              [
+                2541,
+                407
+              ],
+              [
+                2460,
+                443
+              ],
+              [
+                2472,
+                489
+              ],
+              [
+                2524,
+                527
+              ],
+              [
+                2529,
+                627
+              ],
+              [
+                2515,
+                666
+              ],
+              [
+                2535,
+                732
+              ],
+              [
+                2533,
+                1320
+              ],
+              [
+                2512,
+                1365
+              ],
+              [
+                2459,
+                1388
+              ],
+              [
+                2452,
+                1417
+              ],
+              [
+                2407,
+                1421
+              ],
+              [
+                2405,
+                1450
+              ],
+              [
+                2368,
+                1488
+              ],
+              [
+                2408,
+                1540
+              ],
+              [
+                2410,
+                1710
+              ],
+              [
+                2387,
+                1725
+              ],
+              [
+                2384,
+                1817
+              ],
+              [
+                2359,
+                1826
+              ],
+              [
+                2387,
+                1919
+              ],
+              [
+                2363,
+                1989
+              ],
+              [
+                2317,
+                1995
+              ],
+              [
+                2302,
+                2048
+              ],
+              [
+                2362,
+                2058
+              ],
+              [
+                2394,
+                2017
+              ],
+              [
+                2452,
+                2030
+              ],
+              [
+                2467,
+                2073
+              ],
+              [
+                2852,
+                2108
+              ],
+              [
+                3254,
+                2087
+              ],
+              [
+                3451,
+                2054
+              ],
+              [
+                3532,
+                2014
+              ],
+              [
+                3518,
+                1693
+              ],
+              [
+                3486,
+                1692
+              ],
+              [
+                3473,
+                1768
+              ],
+              [
+                3441,
+                1759
+              ],
+              [
+                3397,
+                1780
+              ],
+              [
+                3367,
+                1722
+              ],
+              [
+                3314,
+                1722
+              ],
+              [
+                3283,
+                1752
+              ],
+              [
+                3294,
+                1691
+              ],
+              [
+                3274,
+                1657
+              ],
+              [
+                3261,
+                1705
+              ],
+              [
+                3260,
+                1539
+              ],
+              [
+                3292,
+                1525
+              ],
+              [
+                3296,
+                1481
+              ],
+              [
+                3263,
+                1472
+              ],
+              [
+                3241,
+                1435
+              ],
+              [
+                3202,
+                1416
+              ],
+              [
+                3122,
+                1312
+              ],
+              [
+                3116,
+                734
+              ],
+              [
+                3137,
+                654
+              ],
+              [
+                3118,
+                604
+              ],
+              [
+                3123,
+                518
+              ],
+              [
+                3173,
+                476
+              ],
+              [
+                3187,
+                425
+              ],
+              [
+                3127,
+                398
+              ],
+              [
+                2871,
+                345
+              ],
+              [
+                2846,
+                308
+              ],
+              [
+                2850,
+                231
+              ],
+              [
+                2872,
+                194
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=St+Andrews+Day&form=BGABWCTA11&filters=HpDate:\"20251130_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251129",
       "fullstartdate": "20251129",
       "enddate": "20251130",

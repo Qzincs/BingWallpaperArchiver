@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251130",
+      "fullstartdate": "20251130",
+      "enddate": "20251201",
+      "urlbase": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg",
+      "copyrighttext": "© Krzysztof Baranowski/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Leipzig&form=BGALM&filters=HpDate:\"20251129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Mercado navideño en Leipzig, Alemania",
+      "description": "¿Sabes lo que la gente compraba en los mercados navideños hace 567 años? No eran adornos costosos ni recuerdos elegantes, sino velas, especias, productos locales, artículos de punto y juguetes. El mercado navideño de Leipzig comenzó en 1458 y pronto se convirtió en una parada favorita para comerciantes y lugareños. Hoy, con su oferta cultural y gastronómica repartida por el casco histórico y cerca de 300 puestos, es uno de los mercados navideños más grandes de Alemania.",
+      "headline": "Donde brilla la ilusión",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251130_LeipzigMarket\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 de nov. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Leipzig&form=BGABWCTA7&filters=HpDate:\"20251129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Leipzig&form=BGABWCTA11&filters=HpDate:\"20251129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251129",
       "fullstartdate": "20251129",
       "enddate": "20251130",

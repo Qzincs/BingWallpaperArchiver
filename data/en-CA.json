@@ -1,6 +1,86 @@
 {
   "images": [
     {
+      "startdate": "20251129",
+      "fullstartdate": "20251129",
+      "enddate": "20251130",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_305502387",
+      "copyrighttext": "© jenyateua/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/images/create?recreate=A%20latte%20where%20the%20latte%20art%20is%20a%20snowflake&form=BGABIC",
+      "title": "Snow-covered trees at sunset",
+      "description": "Winter landscape with snow-covered pine trees at sunset",
+      "headline": "Snow-covered trees at sunset",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 29, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "20251129",
+        "SearchQueries": [
+          "A latte where the latte art is a snowflake"
+        ],
+        "TooltipText": "",
+        "ButtonText": "Make custom latte art with Bing",
+        "OverrideMarket": "en-us",
+        "SearchUrls": [
+          "https://www.bing.com/images/create?recreate=A+latte+where+the+latte+art+is+a+snowflake&form=bgabic"
+        ],
+        "CTAType": 4,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Make custom latte art with Bing"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 438,
+            "Y": 270,
+            "Width": 3506,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/images/create?recreate=A%20latte%20where%20the%20latte%20art%20is%20a%20snowflake&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251128",
       "fullstartdate": "20251128",
       "enddate": "20251129",

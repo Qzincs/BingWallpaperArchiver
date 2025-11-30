@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251130",
+      "fullstartdate": "20251130",
+      "enddate": "20251201",
+      "urlbase": "https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg",
+      "copyrighttext": "© Krzysztof Baranowski/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a9%e3%82%a4%e3%83%97%e3%83%84%e3%82%a3%e3%83%92%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88&form=BGALM&filters=HpDate:\"20251129_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ライプツィヒ・クリスマスマーケット, ドイツ",
+      "description": "ドイツ東部の都市ライプツィヒでは、毎年 11 月の下旬から約 1 ヵ月間、クリスマスマーケットが開催されます。その起源は 1458 年に遡り、当初は冬の生活に必要な品々を販売する市場として、キャンドルやスパイス、編み物などが並んでいました。現在では約 300 の屋台が並ぶ、ドイツでも最大級のクリスマスマーケットの一つとなっています…",
+      "headline": "賑やかなクリスマスマーケット",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251130_LeipzigMarket\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.34063,12.37473/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.34063,12.37473;S9;ライプツィヒ, ドイツ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Leipzig&satid=id.sid%3Aff50f94c-10e8-9487-0ea8-49b8334c589c&vdpid=7018132236914393089&mb=51.448078~12.083753~51.238144~12.695736&cardbg=%23F98745&tt=Leipzig%2C%20Saxony%2C%20Germany&tsts0=%2526ty%253D30%2526q%253DLeipzig%2526satid%253Did.sid%25253Aff50f94c-10e8-9487-0ea8-49b8334c589c%2526vdpid%253D7018132236914393089%2526mb%253D51.448078~12.083753~51.238144~12.695736%2526cardbg%253D%252523F98745&tstt0=Leipzig%2C%20Saxony%2C%20Germany&cp=39.509133~-17.702983&lvl=3.568267&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 11月 月 30 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%89%e3%82%a4%e3%83%84+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%a9%e3%82%a4%e3%83%97%e3%83%84%e3%82%a3%e3%83%92%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88&form=BGABWCTA7&filters=HpDate:\"20251129_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%a9%e3%82%a4%e3%83%97%e3%83%84%e3%82%a3%e3%83%92%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88&form=BGABWCTA11&filters=HpDate:\"20251129_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251129",
       "fullstartdate": "20251129",
       "enddate": "20251130",
