@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251201",
+      "fullstartdate": "20251201",
+      "enddate": "20251202",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.AntarcticArch_ZH-CN1622701432_UHD.jpg",
+      "copyrighttext": "© Gabrielle/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8d%97%e6%9e%81%e6%97%a5&form=BGALM&filters=HpDate:\"20251130_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "冰山上天然形成的拱门, 南极洲",
+      "description": "有些照片定格了自然的宏伟瞬间，而真正出色的作品更能揭示深层的故事：在一帧之中，力量与脆弱的微妙平衡，提醒我们地球的脆弱与伟大。今日这张展现南极冰山天然拱门的照片正是如此，它开启了关于宏伟、脆弱、环境与未来的对话。",
+      "headline": "冰雪凝息之处",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AntarcticArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 1",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8d%97%e6%9e%81%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20251130_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8d%97%e6%9e%81%e6%97%a5&form=BGABWCTA11&filters=HpDate:\"20251130_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251130",
       "fullstartdate": "20251130",
       "enddate": "20251201",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251130",
+      "fullstartdate": "20251130",
+      "enddate": "20251201",
+      "urlbase": "https://www.bing.com/th?id=OHR.LeipzigMarket_EN-CA1551508229_UHD.jpg",
+      "copyrighttext": "© Krzysztof Baranowski/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Leipzig&form=BGALM&filters=HpDate:\"20251130_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Christmas market in Leipzig, Germany",
+      "description": "Do you know what people bought at Christmas markets 567 years ago? Not costly ornaments or fancy souvenirs but candles, spices, local goods, knitted items and toys. Leipzig's Christmas market began in 1458 and quickly became a favourite stop for merchants and locals alike. Today, with its cultural and culinary offerings spread across the historic old town and about 300 stalls, it is one of the largest Christmas markets in Germany. Imagine streets buzzing with the chatter of traders and children following the scent of 'Lebkuchen'—honey-sweetened cakes. This is where townsfolk gather to celebrate winter and catch up on news while sipping mulled wine. These markets have always symbolised more than shopping—they offer an escape from the everyday routine.",
+      "headline": "Twinkle all the way",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251130_LeipzigMarket\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.34063,12.37473/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=51.34063,12.37473;S9;Leipzig, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Leipzig&satid=id.sid%3Aff50f94c-10e8-9487-0ea8-49b8334c589c&vdpid=7018132236914393089&mb=51.448078~12.083753~51.238144~12.695736&cardbg=%23F98745&tt=Leipzig%2C%20Saxony%2C%20Germany&tsts0=%2526ty%253D30%2526q%253DLeipzig%2526satid%253Did.sid%25253Aff50f94c-10e8-9487-0ea8-49b8334c589c%2526vdpid%253D7018132236914393089%2526mb%253D51.448078~12.083753~51.238144~12.695736%2526cardbg%253D%252523F98745&tstt0=Leipzig%2C%20Saxony%2C%20Germany&cp=39.509133~-17.702983&lvl=3.568267&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Nov. 30, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Germany&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Leipzig&form=BGABWCTA7&filters=HpDate:\"20251130_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Leipzig&form=BGABWCTA11&filters=HpDate:\"20251130_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251129",
       "fullstartdate": "20251129",
       "enddate": "20251130",
