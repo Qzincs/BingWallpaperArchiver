@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251202",
+      "fullstartdate": "20251202",
+      "enddate": "20251203",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.WillowLake_ZH-CN9798614021_UHD.jpg",
+      "copyrighttext": "© Patrick J. Endres/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9c%a3%e4%bc%8a%e5%88%a9%e4%ba%9a%e6%96%af%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20251201_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "柳树湖与布莱克本山, 兰格尔－圣伊利亚斯国家公园暨保护区, 阿拉斯加州, 美国",
+      "description": "1980年12月2日，美国通过《阿拉斯加国家利益土地保护法》，为自然保护史写下浓重一笔。这项具有划时代意义的法律使阿拉斯加逾1.04亿英亩的荒野获得永久保护，图中所示的兰格尔-圣埃利亚斯国家公园暨保护区因此成为美国最大的国家公园。该法不仅守护壮丽的生态，也延续原住民的传统，真正实现自然与人文的和谐共生。",
+      "headline": "一景胜千言",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_WillowLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 2",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9c%a3%e4%bc%8a%e5%88%a9%e4%ba%9a%e6%96%af%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20251201_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9c%a3%e4%bc%8a%e5%88%a9%e4%ba%9a%e6%96%af%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20251201_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251201",
       "fullstartdate": "20251201",
       "enddate": "20251202",

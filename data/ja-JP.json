@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251202",
+      "fullstartdate": "20251202",
+      "enddate": "20251203",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg",
+      "copyrighttext": "© Patrick J. Endres/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%ad%e3%83%bc%e6%b9%96%e3%81%a8%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%bc%e3%83%b3%e5%b1%b1&form=BGALM&filters=HpDate:\"20251201_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ウィロー湖とブラックバーン山, 米国 アラスカ州",
+      "description": "今日 12 月 2 日は、米国の連邦法「アラスカ国有地保護法 (ANILCA) 」が制定された日です。1980 年 12 月 2 日にジミー・カーター大統領が署名したこの法律は、アラスカ州の国立公園や国立野生生物保護区などの保護地域を大幅に拡大し、約 42 万 km² 以上の土地に特別な保護を与えました…",
+      "headline": "今日はアラスカ国有地保護法の記念日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_WillowLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.435,-142.9536/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=61.435,-142.9536;S9;ランゲル・セントイライアス国立公園, 米国 アラスカ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Wrangell-St.%20Elias%20National%20Park%20and%20Preserve%2C%20Alaska%2C%20United%20States&satid=id.sid%3A320b9018-86d5-6ca1-2a72-4d2bd7d29704&vdpid=4730360975549530113&mb=62.718002~-147.809921~59.693386~-136.689011&cardbg=%23F98745&dt=1760691600000&tt=Wrangell-St.%20Elias%20National%20Park%20and%20Preserve%2C%20Alaska%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DWrangell-St.%252520Elias%252520National%252520Park%252520and%252520Preserve%25252C%252520Alaska%25252C%252520United%252520States%2526satid%253Did.sid%25253A320b9018-86d5-6ca1-2a72-4d2bd7d29704%2526vdpid%253D4730360975549530113%2526mb%253D62.718002~-147.809921~59.693386~-136.689011%2526cardbg%253D%252523F98745%2526dt%253D1760691600000&tstt0=Wrangell-St.%20Elias%20National%20Park%20and%20Preserve%2C%20Alaska%2C%20United%20States&cp=56.800267~-148.492194&lvl=3.48&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 2 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%a2%e3%83%a9%e3%82%b9%e3%82%ab%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%ad%e3%83%bc%e6%b9%96%e3%81%a8%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%bc%e3%83%b3%e5%b1%b1&form=BGABWCTA7&filters=HpDate:\"20251201_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a6%e3%82%a3%e3%83%ad%e3%83%bc%e6%b9%96%e3%81%a8%e3%83%96%e3%83%a9%e3%83%83%e3%82%af%e3%83%90%e3%83%bc%e3%83%b3%e5%b1%b1&form=BGABWCTA11&filters=HpDate:\"20251201_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251201",
       "fullstartdate": "20251201",
       "enddate": "20251202",

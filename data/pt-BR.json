@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251201",
+      "fullstartdate": "20251201",
+      "enddate": "20251202",
+      "urlbase": "https://www.bing.com/th?id=OHR.AntarcticArch_PT-BR0722727107_UHD.jpg",
+      "copyrighttext": "© Gabrielle/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+da+Ant%c3%a1rtica&form=BGALM&filters=HpDate:\"20251201_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Arco natural esculpido em um iceberg, Antártida",
+      "description": "O Dia da Antártica, celebrado em 1º de dezembro, é uma oportunidade para refletir sobre um dos lugares mais fascinantes e únicos do planeta. A data marca a assinatura do Tratado da Antártica, em 1959, que transformou esse continente gelado —quase 10% da superfície terrestre — em um espaço dedicado à paz e à ciência.",
+      "headline": "Beleza, ciência e responsabilidade",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251201_AntarcticArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+da+Ant%c3%a1rtica&form=BGABWCTA7&filters=HpDate:\"20251201_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+da+Ant%c3%a1rtica&form=BGABWCTA11&filters=HpDate:\"20251201_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251130",
       "fullstartdate": "20251130",
       "enddate": "20251201",
