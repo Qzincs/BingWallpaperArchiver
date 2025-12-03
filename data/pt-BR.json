@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251202",
+      "fullstartdate": "20251202",
+      "enddate": "20251203",
+      "urlbase": "https://www.bing.com/th?id=OHR.SambaDay_PT-BR0875547071_UHD.jpg",
+      "copyrighttext": "© Richard I'Anson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+do+samba+no+Brasil&form=BGALM&filters=HpDate:\"20251202_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Carnaval no Rio de Janeiro, RJ",
+      "description": "O Dia Nacional do Samba, comemorado hoje, é uma homenagem à riqueza cultural e histórica de um dos gêneros musicais mais emblemáticos do Brasil. Mais do que um estilo musical, ele é uma expressão viva da identidade brasileira. Originado nos terreiros e comunidades afro-brasileiras, ganhou força no início do século XX, especialmente nos morros e subúrbios do Rio de Janeiro. Foi lá que surgiram as primeiras escolas de samba — agremiações culturais que reúnem músicos, dançarinos, artesãos e foliões para celebrar o Carnaval, a maior festa popular do país.",
+      "headline": "Ritmo e identidade brasileira",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_SambaDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+do+samba+no+Brasil&form=BGABWCTA7&filters=HpDate:\"20251202_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+do+samba+no+Brasil&form=BGABWCTA11&filters=HpDate:\"20251202_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251201",
       "fullstartdate": "20251201",
       "enddate": "20251202",

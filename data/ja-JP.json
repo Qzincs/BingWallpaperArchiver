@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251203",
+      "fullstartdate": "20251203",
+      "enddate": "20251204",
+      "urlbase": "https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg",
+      "copyrighttext": "© Joshua Hawley/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%a7%a9%e7%88%b6%e5%a4%9c%e7%a5%ad%e3%81%ae%e5%b1%8b%e5%8f%b0&form=BGALM&filters=HpDate:\"20251202_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "秩父夜祭の屋台, 埼玉県 秩父市",
+      "description": "今日 12 月 3 日は秩父夜祭の大祭り。秩父夜祭は、毎年 12 月 1 日から 6 日に埼玉県秩父市にある秩父神社で行われる例大祭です。寛文年間（ 1661-1673 年）から続くとされ、 300 年以上の歴史を持ちます。京都の祇園祭、飛騨の高山祭と並ぶ日本三大曳山祭に数えられており、今日の大祭では豪華な屋台曳き回しが行われます…",
+      "headline": "今日は秩父夜祭の大祭り",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251203_ChichibuNightFestival2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.99178,139.0855/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.99178,139.0855;S9;埼玉県 秩父市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82&satid=id.sid%3A438aec91-7685-a3cf-71da-ce245d1d09e5&vdpid=7932596398581612545&mb=36.125996~138.657806~35.839714~139.229981&cardbg=%23F98745&tt=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82&tsts0=%2526ty%253D30%2526q%253D%2525E5%25259F%2525BC%2525E7%25258E%252589%2525E7%25259C%25258C%2525E7%2525A7%2525A9%2525E7%252588%2525B6%2525E5%2525B8%252582%2526satid%253Did.sid%25253A438aec91-7685-a3cf-71da-ce245d1d09e5%2526vdpid%253D7932596398581612545%2526mb%253D36.125996~138.657806~35.839714~139.229981%2526cardbg%253D%252523F98745&tstt0=%E5%9F%BC%E7%8E%89%E7%9C%8C%E7%A7%A9%E7%88%B6%E5%B8%82&cp=35.983176~138.789238&lvl=11.1381035&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e5%9f%bc%e7%8e%89%e7%9c%8c+%e7%a7%a9%e7%88%b6%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%a7%a9%e7%88%b6%e5%a4%9c%e7%a5%ad%e3%81%ae%e5%b1%8b%e5%8f%b0&form=BGABWCTA7&filters=HpDate:\"20251202_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%a7%a9%e7%88%b6%e5%a4%9c%e7%a5%ad%e3%81%ae%e5%b1%8b%e5%8f%b0&form=BGABWCTA11&filters=HpDate:\"20251202_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251202",
       "fullstartdate": "20251202",
       "enddate": "20251203",

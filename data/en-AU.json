@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251202",
+      "fullstartdate": "20251202",
+      "enddate": "20251203",
+      "urlbase": "https://www.bing.com/th?id=OHR.WillowLake_ROW6069143746_UHD.jpg",
+      "copyrighttext": "© Patrick J. Endres/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Wrangell-St.+Elias+National+Park+and+Preserve&form=BGALM&filters=HpDate:\"20251202_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska, United States",
+      "description": "Spanning over 53,000 square kilometres, Wrangell–St. Elias, in Alaska, is the largest national park in the United States. It is a wilderness where caribou, Dall sheep and grizzly bears roam free and glaciers carve valleys that have existed for millennia. The park is a realm of extremes: its glaciers sprawling like frozen rivers, volcanic peaks piercing the sky. Among them stands Mount Blackburn, a 5,000-metre sentinel of ice and ancient fire. Its snow-mantled slopes feed vast glacier systems, a silent monument to geological time. Just beyond the park boundary, Willow Lake rests in the Copper River Basin—a roadside jewel along the Richardson Highway. On clear days, its glassy surface reflects the Wrangell Mountains in a panorama that feels endless: Blackburn's white shoulders rising against cobalt skies, mirrored in still waters where swans drift like living brushstrokes.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_WillowLake\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Wrangell-St.+Elias+National+Park+and+Preserve&form=BGABWCTA7&filters=HpDate:\"20251202_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Wrangell-St.+Elias+National+Park+and+Preserve&form=BGABWCTA11&filters=HpDate:\"20251202_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251201",
       "fullstartdate": "20251201",
       "enddate": "20251202",

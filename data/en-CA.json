@@ -1,6 +1,437 @@
 {
   "images": [
     {
+      "startdate": "20251202",
+      "fullstartdate": "20251202",
+      "enddate": "20251203",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhistlerVillage_EN-CA2405537581_UHD.jpg",
+      "copyrighttext": "© VisualCommunications/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Whistler+British+Columbia&form=BGALM&filters=HpDate:\"20251202_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Whistler, British Columbia",
+      "description": "What's your winter personality: cosy wanderer or slope-chaser? Whistler, in British Columbia, lets you try both in the same day. This resort municipality sits about 125 kilometres north of Vancouver in the Coast Mountains, with two main ski peaks: Whistler and Blackcomb. These are linked by the PEAK 2 PEAK Gondola, famous for giving a suspended, panoramic valley view in just a few minutes of travel. The area gained fame when it co-hosted the 2010 Winter Olympics, and some of those venues are still open to the public today. The name 'Whistler' comes from the high-pitched call of the local hoary marmots that were once common around the slopes.",
+      "headline": "Winter at Whistler",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251202_WhistlerVillage\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.12083,-122.9544/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=50.12083,-122.9544;S9;Whistler, British Columbia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Whistler%2C%20British%20Columbia%2C%20Canada&satid=id.sid%3A3a868b08-25ed-b4da-aa57-ba391ce47551&vdpid=4859438550577315841&mb=50.175385~-123.229843~50.025909~-122.78527&cardbg=%23F98745&tt=Whistler%2C%20British%20Columbia%2C%20Canada&tsts0=%2526ty%253D30%2526q%253DWhistler%25252C%252520British%252520Columbia%25252C%252520Canada%2526satid%253Did.sid%25253A3a868b08-25ed-b4da-aa57-ba391ce47551%2526vdpid%253D4859438550577315841%2526mb%253D50.175385~-123.229843~50.025909~-122.78527%2526cardbg%253D%252523F98745&tstt0=Whistler%2C%20British%20Columbia%2C%20Canada&cp=49.671277~-122.175949&lvl=5.8336277&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 2, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+British+Columbia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Whistler+British+Columbia&form=BGABWCTA7&filters=HpDate:\"20251202_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 633,
+            "Width": 3833,
+            "Height": 1523,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                558,
+                825
+              ],
+              [
+                554,
+                839
+              ],
+              [
+                567,
+                847
+              ],
+              [
+                576,
+                873
+              ],
+              [
+                585,
+                881
+              ],
+              [
+                588,
+                891
+              ],
+              [
+                593,
+                893
+              ],
+              [
+                596,
+                890
+              ],
+              [
+                594,
+                880
+              ],
+              [
+                602,
+                875
+              ],
+              [
+                621,
+                878
+              ],
+              [
+                648,
+                875
+              ],
+              [
+                661,
+                886
+              ],
+              [
+                664,
+                907
+              ],
+              [
+                658,
+                911
+              ],
+              [
+                637,
+                913
+              ],
+              [
+                592,
+                908
+              ],
+              [
+                584,
+                915
+              ],
+              [
+                584,
+                923
+              ],
+              [
+                599,
+                932
+              ],
+              [
+                599,
+                940
+              ],
+              [
+                587,
+                951
+              ],
+              [
+                589,
+                957
+              ],
+              [
+                602,
+                967
+              ],
+              [
+                603,
+                991
+              ],
+              [
+                613,
+                1008
+              ],
+              [
+                622,
+                1012
+              ],
+              [
+                648,
+                1008
+              ],
+              [
+                642,
+                1004
+              ],
+              [
+                642,
+                998
+              ],
+              [
+                652,
+                996
+              ],
+              [
+                656,
+                999
+              ],
+              [
+                653,
+                1025
+              ],
+              [
+                659,
+                1033
+              ],
+              [
+                657,
+                1042
+              ],
+              [
+                665,
+                1075
+              ],
+              [
+                679,
+                1079
+              ],
+              [
+                773,
+                1076
+              ],
+              [
+                797,
+                1082
+              ],
+              [
+                825,
+                1080
+              ],
+              [
+                832,
+                1083
+              ],
+              [
+                847,
+                1077
+              ],
+              [
+                896,
+                1076
+              ],
+              [
+                922,
+                1081
+              ],
+              [
+                941,
+                1076
+              ],
+              [
+                950,
+                1081
+              ],
+              [
+                952,
+                1093
+              ],
+              [
+                956,
+                1061
+              ],
+              [
+                962,
+                1050
+              ],
+              [
+                952,
+                1042
+              ],
+              [
+                955,
+                1019
+              ],
+              [
+                952,
+                1011
+              ],
+              [
+                937,
+                1016
+              ],
+              [
+                923,
+                1012
+              ],
+              [
+                900,
+                1013
+              ],
+              [
+                890,
+                1007
+              ],
+              [
+                896,
+                985
+              ],
+              [
+                893,
+                980
+              ],
+              [
+                843,
+                980
+              ],
+              [
+                822,
+                975
+              ],
+              [
+                825,
+                963
+              ],
+              [
+                832,
+                956
+              ],
+              [
+                831,
+                940
+              ],
+              [
+                838,
+                919
+              ],
+              [
+                831,
+                906
+              ],
+              [
+                832,
+                890
+              ],
+              [
+                817,
+                891
+              ],
+              [
+                818,
+                881
+              ],
+              [
+                778,
+                875
+              ],
+              [
+                773,
+                859
+              ],
+              [
+                775,
+                847
+              ],
+              [
+                756,
+                847
+              ],
+              [
+                743,
+                839
+              ],
+              [
+                742,
+                830
+              ],
+              [
+                727,
+                831
+              ],
+              [
+                720,
+                822
+              ],
+              [
+                720,
+                814
+              ],
+              [
+                703,
+                805
+              ],
+              [
+                708,
+                797
+              ],
+              [
+                691,
+                794
+              ],
+              [
+                682,
+                783
+              ],
+              [
+                663,
+                786
+              ],
+              [
+                642,
+                797
+              ],
+              [
+                636,
+                807
+              ],
+              [
+                617,
+                812
+              ],
+              [
+                610,
+                822
+              ],
+              [
+                592,
+                830
+              ],
+              [
+                563,
+                823
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Whistler+British+Columbia&form=BGABWCTA11&filters=HpDate:\"20251202_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251201",
       "fullstartdate": "20251201",
       "enddate": "20251202",

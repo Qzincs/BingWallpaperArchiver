@@ -1,6 +1,253 @@
 {
   "images": [
     {
+      "startdate": "20251203",
+      "fullstartdate": "20251203",
+      "enddate": "20251204",
+      "urlbase": "https://www.bing.com/th?id=OHR.CastildetierraNavarra_ES-ES0561192005_UHD.jpg",
+      "copyrighttext": "© Martin Zalba/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Navarra&form=BGALM&filters=HpDate:\"20251202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pico Castildetierra cubierto de nieve en el Parque Natural de las Bardenas Reales, Valtierra, Navarra, España",
+      "description": "Cada 3 de diciembre, Navarra celebra su día grande: el Día de Navarra, una jornada que une tradición, cultura y orgullo por una tierra de contrastes. La fecha rinde homenaje a San Francisco Javier, patrón de la comunidad, cuya figura simboliza la entrega y la esperanza. Durante este día, pueblos y ciudades se llenan de música, danzas y actividades para todas las edades, desde ferias artesanales hasta conciertos y exposiciones que muestran la riqueza del patrimonio navarro.",
+      "headline": "Unas tierras con historia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251203_CastildetierraNavarra\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Navarra&form=BGABWCTA7&filters=HpDate:\"20251202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 301,
+            "Width": 3833,
+            "Height": 1855,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                1308
+              ],
+              [
+                0,
+                2153
+              ],
+              [
+                3839,
+                2149
+              ],
+              [
+                3839,
+                1186
+              ],
+              [
+                3744,
+                1151
+              ],
+              [
+                2737,
+                1153
+              ],
+              [
+                2707,
+                1128
+              ],
+              [
+                2676,
+                1146
+              ],
+              [
+                2512,
+                1110
+              ],
+              [
+                2224,
+                1111
+              ],
+              [
+                2347,
+                1090
+              ],
+              [
+                2512,
+                1108
+              ],
+              [
+                2530,
+                1092
+              ],
+              [
+                2442,
+                1057
+              ],
+              [
+                2437,
+                1085
+              ],
+              [
+                2376,
+                1088
+              ],
+              [
+                2390,
+                1056
+              ],
+              [
+                2414,
+                1068
+              ],
+              [
+                2399,
+                1050
+              ],
+              [
+                2342,
+                1050
+              ],
+              [
+                2318,
+                1080
+              ],
+              [
+                2287,
+                1059
+              ],
+              [
+                2189,
+                1076
+              ],
+              [
+                2177,
+                1050
+              ],
+              [
+                2139,
+                1081
+              ],
+              [
+                2047,
+                1077
+              ],
+              [
+                2108,
+                1066
+              ],
+              [
+                2032,
+                1043
+              ],
+              [
+                1987,
+                1076
+              ],
+              [
+                1973,
+                1044
+              ],
+              [
+                1881,
+                1051
+              ],
+              [
+                1685,
+                814
+              ],
+              [
+                1479,
+                309
+              ],
+              [
+                1396,
+                324
+              ],
+              [
+                1374,
+                637
+              ],
+              [
+                937,
+                994
+              ],
+              [
+                952,
+                1027
+              ],
+              [
+                622,
+                1196
+              ],
+              [
+                589,
+                1185
+              ],
+              [
+                607,
+                1203
+              ],
+              [
+                457,
+                1278
+              ],
+              [
+                279,
+                1270
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Navarra&form=BGABWCTA11&filters=HpDate:\"20251202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251202",
       "fullstartdate": "20251202",
       "enddate": "20251203",
