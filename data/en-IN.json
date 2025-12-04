@@ -1,6 +1,361 @@
 {
   "images": [
     {
+      "startdate": "20251204",
+      "fullstartdate": "20251204",
+      "enddate": "20251205",
+      "urlbase": "https://www.bing.com/th?id=OHR.IndianNavyDay2025_EN-IN1202327501_UHD.jpg",
+      "copyrighttext": "© Anshuman Poyrekar/Hindustan Times/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Indian+Navy+Day&form=BGALM&filters=HpDate:\"20251203_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Indian Navy sailors rehearse for Navy Day at Mumbai's Gateway of India, 1 December 2016",
+      "description": "Indian naval ships once moved across the Arabian Sea under cover of night in December 1971 during the Indo-Pak War. Their course led toward Karachi, a crucial port for fuel and supplies. Indian missile boats carried out a carefully planned mission and returned home unharmed, shifting the tide of the conflict and marking a defining moment at sea. It remains one of the most significant chapters in India's maritime story.",
+      "headline": "The night the tide shifted",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251204_IndianNavyDay2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.921932,72.834534/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=18.921932,72.834534;S9;Gateway of India, Mumbai, India&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Gateway%20of%20India%2C%20Apollo%20Bandar%2C%20Colaba%2C%20Mumbai%2C%20Maharashtra%2C%20India&ss=ypid.YN4070x8521958132033944300&mb=18.930005~72.824507~18.913868~72.844548&description=Apollo%20Bandar%2C%20Colaba%2C%20Mumbai%2C%20Maharashtra%20400001&cardbg=%233AABCF&dt=1762425000000&tt=Gateway%20of%20India&tsts0=%2526ty%253D18%2526q%253DGateway%252520of%252520India%25252C%252520Apollo%252520Bandar%25252C%252520Colaba%25252C%252520Mumbai%25252C%252520Maharashtra%25252C%252520India%2526ss%253Dypid.YN4070x8521958132033944300%2526mb%253D18.930005~72.824507~18.913868~72.844548%2526description%253DApollo%252520Bandar%25252C%252520Colaba%25252C%252520Mumbai%25252C%252520Maharashtra%252520400001%2526cardbg%253D%2525233AABCF%2526dt%253D1762425000000&tstt0=Gateway%20of%20India&cp=18.950673~72.777053&lvl=12.206468&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+1+December+2016&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Indian+Navy+Day&form=BGABWCTA7&filters=HpDate:\"20251203_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 443,
+            "Y": 117,
+            "Width": 2911,
+            "Height": 1873,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                492,
+                1019
+              ],
+              [
+                564,
+                1150
+              ],
+              [
+                502,
+                1931
+              ],
+              [
+                1057,
+                1914
+              ],
+              [
+                1177,
+                1943
+              ],
+              [
+                1207,
+                1926
+              ],
+              [
+                1207,
+                1958
+              ],
+              [
+                1357,
+                1912
+              ],
+              [
+                1372,
+                1967
+              ],
+              [
+                1491,
+                1971
+              ],
+              [
+                1526,
+                1899
+              ],
+              [
+                1613,
+                1892
+              ],
+              [
+                1619,
+                1555
+              ],
+              [
+                1637,
+                1508
+              ],
+              [
+                1673,
+                1514
+              ],
+              [
+                1655,
+                1488
+              ],
+              [
+                1675,
+                1471
+              ],
+              [
+                1641,
+                1440
+              ],
+              [
+                1675,
+                1414
+              ],
+              [
+                1680,
+                1286
+              ],
+              [
+                1729,
+                1286
+              ],
+              [
+                1723,
+                1312
+              ],
+              [
+                1739,
+                1281
+              ],
+              [
+                1794,
+                1278
+              ],
+              [
+                1817,
+                1222
+              ],
+              [
+                1839,
+                1247
+              ],
+              [
+                1864,
+                1216
+              ],
+              [
+                1929,
+                1218
+              ],
+              [
+                1893,
+                1221
+              ],
+              [
+                1897,
+                1245
+              ],
+              [
+                1945,
+                1220
+              ],
+              [
+                2016,
+                1276
+              ],
+              [
+                2107,
+                1285
+              ],
+              [
+                2074,
+                1295
+              ],
+              [
+                2106,
+                1319
+              ],
+              [
+                2153,
+                1317
+              ],
+              [
+                2168,
+                1585
+              ],
+              [
+                2200,
+                1556
+              ],
+              [
+                2226,
+                1892
+              ],
+              [
+                2362,
+                1917
+              ],
+              [
+                2602,
+                1921
+              ],
+              [
+                2632,
+                1893
+              ],
+              [
+                2718,
+                1923
+              ],
+              [
+                2782,
+                1900
+              ],
+              [
+                2930,
+                1926
+              ],
+              [
+                3022,
+                1910
+              ],
+              [
+                3062,
+                1936
+              ],
+              [
+                3048,
+                1954
+              ],
+              [
+                3158,
+                1931
+              ],
+              [
+                3127,
+                1915
+              ],
+              [
+                3321,
+                1911
+              ],
+              [
+                3216,
+                1152
+              ],
+              [
+                3288,
+                1016
+              ],
+              [
+                3193,
+                991
+              ],
+              [
+                3149,
+                751
+              ],
+              [
+                2497,
+                726
+              ],
+              [
+                2466,
+                662
+              ],
+              [
+                2445,
+                248
+              ],
+              [
+                2362,
+                120
+              ],
+              [
+                2302,
+                207
+              ],
+              [
+                2272,
+                403
+              ],
+              [
+                1507,
+                383
+              ],
+              [
+                1518,
+                248
+              ],
+              [
+                1434,
+                106
+              ],
+              [
+                1346,
+                247
+              ],
+              [
+                1312,
+                705
+              ],
+              [
+                652,
+                720
+              ],
+              [
+                598,
+                799
+              ],
+              [
+                576,
+                1000
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Indian+Navy+Day&form=BGABWCTA11&filters=HpDate:\"20251203_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251203",
       "fullstartdate": "20251203",
       "enddate": "20251204",

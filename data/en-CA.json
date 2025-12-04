@@ -1,6 +1,601 @@
 {
   "images": [
     {
+      "startdate": "20251203",
+      "fullstartdate": "20251203",
+      "enddate": "20251204",
+      "urlbase": "https://www.bing.com/th?id=OHR.BosqueCranes_EN-CA2559549576_UHD.jpg",
+      "copyrighttext": "© Jack Dykinga/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=crane+bird&form=BGALM&filters=HpDate:\"20251203_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sandhill cranes at sunrise, Bosque del Apache National Wildlife Refuge, New Mexico, United States",
+      "description": "Every December, as morning unfolds, a chorus of rattling calls fills the marshes of the Bosque del Apache National Wildlife Refuge. This more than 230-square-kilometre sanctuary in central New Mexico, United States, prepares to stage one of nature's most stirring performances as sandhill cranes return from their seasonal journey. Soon, tens of thousands of snow geese and other migratory birds join the scene, filling the sky with movement and sound.",
+      "headline": "Dawn of the cranes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251203_BosqueCranes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.805405,-106.891998/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=33.805405,-106.891998;S9;Bosque del Apache National Wildlife Refuge, New Mexico, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Bosque%20del%20Apache%20National%20Wildlife%20Refuge%2C%20New%20Mexico&ss=ypid.YN873x9090128172733982125&mb=33.813723~-106.904311~33.79707~-106.879678&description=1001%20State%20Hwy%201%2C%20San%20Antonio%2C%20Nm%2087832&cardbg=%233DB838&dt=1760518800000&tt=Bosque%20del%20Apache%20National%20Wildlife%20Refuge&tsts1=%2526ty%253D18%2526q%253DBosque%252520del%252520Apache%252520National%252520Wildlife%252520Refuge%25252C%252520New%252520Mexico%2526ss%253Dypid.YN873x9090128172733982125%2526mb%253D33.813723~-106.904311~33.79707~-106.879678%2526description%253D1001%252520State%252520Hwy%2525201%25252C%252520San%252520Antonio%25252C%252520Nm%25252087832%2526cardbg%253D%2525233DB838%2526dt%253D1760518800000&tstt1=Bosque%20del%20Apache%20National%20Wildlife%20Refuge&cp=33.805397~-106.902466&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 3, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Bosque+del+Apache+National+Wildlife+Refuge%2c+New+Mexico%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=crane+bird&form=BGABWCTA7&filters=HpDate:\"20251203_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 309,
+            "Y": 1050,
+            "Width": 3525,
+            "Height": 845,
+            "Label": "bird",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                1014
+              ],
+              [
+                3712,
+                979
+              ],
+              [
+                3675,
+                1011
+              ],
+              [
+                3652,
+                947
+              ],
+              [
+                3557,
+                960
+              ],
+              [
+                3613,
+                962
+              ],
+              [
+                3561,
+                993
+              ],
+              [
+                3532,
+                948
+              ],
+              [
+                3145,
+                1012
+              ],
+              [
+                2917,
+                989
+              ],
+              [
+                2869,
+                1064
+              ],
+              [
+                2812,
+                1013
+              ],
+              [
+                2646,
+                1017
+              ],
+              [
+                2632,
+                979
+              ],
+              [
+                2238,
+                980
+              ],
+              [
+                2246,
+                1010
+              ],
+              [
+                2049,
+                1072
+              ],
+              [
+                1933,
+                1048
+              ],
+              [
+                1815,
+                1147
+              ],
+              [
+                1808,
+                1252
+              ],
+              [
+                1763,
+                1262
+              ],
+              [
+                1604,
+                1168
+              ],
+              [
+                1672,
+                1142
+              ],
+              [
+                1709,
+                1176
+              ],
+              [
+                1742,
+                1084
+              ],
+              [
+                1797,
+                1066
+              ],
+              [
+                1612,
+                1014
+              ],
+              [
+                1462,
+                1063
+              ],
+              [
+                1513,
+                1084
+              ],
+              [
+                1447,
+                1121
+              ],
+              [
+                1433,
+                1081
+              ],
+              [
+                1371,
+                1082
+              ],
+              [
+                1328,
+                1141
+              ],
+              [
+                1196,
+                1157
+              ],
+              [
+                1012,
+                1300
+              ],
+              [
+                911,
+                1284
+              ],
+              [
+                892,
+                1344
+              ],
+              [
+                755,
+                1340
+              ],
+              [
+                772,
+                1415
+              ],
+              [
+                712,
+                1384
+              ],
+              [
+                542,
+                1438
+              ],
+              [
+                570,
+                1349
+              ],
+              [
+                744,
+                1358
+              ],
+              [
+                699,
+                1308
+              ],
+              [
+                638,
+                1328
+              ],
+              [
+                682,
+                1343
+              ],
+              [
+                478,
+                1345
+              ],
+              [
+                547,
+                1370
+              ],
+              [
+                494,
+                1384
+              ],
+              [
+                530,
+                1405
+              ],
+              [
+                388,
+                1414
+              ],
+              [
+                523,
+                1418
+              ],
+              [
+                537,
+                1481
+              ],
+              [
+                333,
+                1497
+              ],
+              [
+                477,
+                1544
+              ],
+              [
+                487,
+                1595
+              ],
+              [
+                570,
+                1635
+              ],
+              [
+                613,
+                1619
+              ],
+              [
+                606,
+                1652
+              ],
+              [
+                662,
+                1590
+              ],
+              [
+                619,
+                1617
+              ],
+              [
+                607,
+                1561
+              ],
+              [
+                712,
+                1545
+              ],
+              [
+                742,
+                1631
+              ],
+              [
+                819,
+                1655
+              ],
+              [
+                802,
+                1582
+              ],
+              [
+                892,
+                1553
+              ],
+              [
+                1026,
+                1688
+              ],
+              [
+                1025,
+                1552
+              ],
+              [
+                1057,
+                1615
+              ],
+              [
+                1086,
+                1525
+              ],
+              [
+                1111,
+                1607
+              ],
+              [
+                1162,
+                1594
+              ],
+              [
+                1177,
+                1637
+              ],
+              [
+                1206,
+                1581
+              ],
+              [
+                1163,
+                1547
+              ],
+              [
+                1207,
+                1523
+              ],
+              [
+                1228,
+                1598
+              ],
+              [
+                1341,
+                1585
+              ],
+              [
+                1493,
+                1686
+              ],
+              [
+                1523,
+                1633
+              ],
+              [
+                1537,
+                1684
+              ],
+              [
+                1571,
+                1655
+              ],
+              [
+                1567,
+                1706
+              ],
+              [
+                1600,
+                1632
+              ],
+              [
+                1532,
+                1604
+              ],
+              [
+                1641,
+                1591
+              ],
+              [
+                1840,
+                1667
+              ],
+              [
+                1875,
+                1590
+              ],
+              [
+                1807,
+                1626
+              ],
+              [
+                1764,
+                1607
+              ],
+              [
+                1831,
+                1592
+              ],
+              [
+                1797,
+                1571
+              ],
+              [
+                1886,
+                1563
+              ],
+              [
+                1897,
+                1633
+              ],
+              [
+                2005,
+                1625
+              ],
+              [
+                2046,
+                1541
+              ],
+              [
+                2057,
+                1615
+              ],
+              [
+                2099,
+                1624
+              ],
+              [
+                2056,
+                1677
+              ],
+              [
+                2122,
+                1692
+              ],
+              [
+                2103,
+                1607
+              ],
+              [
+                2183,
+                1592
+              ],
+              [
+                2212,
+                1636
+              ],
+              [
+                2228,
+                1532
+              ],
+              [
+                2256,
+                1616
+              ],
+              [
+                2358,
+                1605
+              ],
+              [
+                2527,
+                1738
+              ],
+              [
+                2617,
+                1716
+              ],
+              [
+                2636,
+                1657
+              ],
+              [
+                2595,
+                1649
+              ],
+              [
+                2645,
+                1621
+              ],
+              [
+                2766,
+                1695
+              ],
+              [
+                2878,
+                1642
+              ],
+              [
+                2917,
+                1677
+              ],
+              [
+                2928,
+                1573
+              ],
+              [
+                2987,
+                1663
+              ],
+              [
+                3068,
+                1597
+              ],
+              [
+                3215,
+                1721
+              ],
+              [
+                3298,
+                1726
+              ],
+              [
+                3357,
+                1676
+              ],
+              [
+                3306,
+                1671
+              ],
+              [
+                3367,
+                1647
+              ],
+              [
+                3577,
+                1718
+              ],
+              [
+                3681,
+                1585
+              ],
+              [
+                3736,
+                1642
+              ],
+              [
+                3807,
+                1620
+              ],
+              [
+                3817,
+                1678
+              ],
+              [
+                3839,
+                1637
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=crane+bird&form=BGABWCTA11&filters=HpDate:\"20251203_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251202",
       "fullstartdate": "20251202",
       "enddate": "20251203",
