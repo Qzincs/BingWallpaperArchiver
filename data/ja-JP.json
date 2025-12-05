@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251205",
+      "fullstartdate": "20251205",
+      "enddate": "20251206",
+      "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_JA-JP2710848355_UHD.jpg",
+      "copyrighttext": "© diegograndi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b3%e3%83%91%e3%83%b3%e3%81%ae%e3%83%9e%e3%83%a4%e9%81%ba%e8%b7%a1&form=BGALM&filters=HpDate:\"20251204_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "コパンのマヤ遺跡, ホンジュラス",
+      "description": "今日の画像はコパンのマヤ遺跡です。ホンジュラス西部の谷に位置する古代マヤ文明コパン王国の都市遺跡で、世界遺産にも登録されています。コパン王国は、西暦 426 年頃、初代王キニチ・ヤシュ・クック・モの即位によって始まり、7 世紀には軍事や経済の面で最盛期を迎えました。この時期、芸術や学問も大きく発展し、特に天文学は生活のリズムや宗教儀礼と深く結びついていきました…",
+      "headline": "ホンジュラスにある世界遺産",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251205_CopanRuins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.89891,-88.896164/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=14.89891,-88.896164;S9;コパン, ホンジュラス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cop%C3%A1n%20Honduras&satid=id.sid%3A1af5f116-a30f-a7cb-60d0-538ffaa52ce7&vdpid=10595783&mb=15.292756~-89.685823~14.504678~-88.156623&cardbg=%23F98745&tt=Cop%C3%A1n%2C%20Honduras&tsts0=%2526ty%253D30%2526q%253DCop%2525C3%2525A1n%252520Honduras%2526satid%253Did.sid%25253A1af5f116-a30f-a7cb-60d0-538ffaa52ce7%2526vdpid%253D10595783%2526mb%253D15.292756~-89.685823~14.504678~-88.156623%2526cardbg%253D%252523F98745&tstt0=Cop%C3%A1n%2C%20Honduras&cp=11.357348~-93.84594&lvl=5.5427866&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 5 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%9b%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%a9%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b3%e3%83%91%e3%83%b3%e3%81%ae%e3%83%9e%e3%83%a4%e9%81%ba%e8%b7%a1&form=BGABWCTA7&filters=HpDate:\"20251204_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b3%e3%83%91%e3%83%b3%e3%81%ae%e3%83%9e%e3%83%a4%e9%81%ba%e8%b7%a1&form=BGABWCTA11&filters=HpDate:\"20251204_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251204",
       "fullstartdate": "20251204",
       "enddate": "20251205",

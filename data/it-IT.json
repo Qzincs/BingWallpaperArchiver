@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251205",
+      "fullstartdate": "20251205",
+      "enddate": "20251206",
+      "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_IT-IT0133653708_UHD.jpg",
+      "copyrighttext": "© diegograndi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cop%c3%a0n&form=BGALM&filters=HpDate:\"20251204_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sito Maya a Copán, Honduras",
+      "description": "In una valle silenziosa dell’Honduras occidentale, il tempo sembra sospeso tra le pietre di Copán, antica città della civiltà Maya. Qui il cielo non era soltanto sfondo, ma bussola e calendario: guidava i templi, i rituali e il ritmo della vita. Intorno al 426 d.C. il guerriero K’inich Yax K’uk’ Mo’ giunse dal cuore del mondo Maya e fondò una dinastia destinata a rendere Copán un centro di arti, astronomia e potere.",
+      "headline": "Rituali e Santuari",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251205_CopanRuins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.89891,-88.896164/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=14.89891,-88.896164;S9;Copán, Honduras&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cop%C3%A1n%20Honduras&satid=id.sid%3A1af5f116-a30f-a7cb-60d0-538ffaa52ce7&vdpid=10595783&mb=15.292756~-89.685823~14.504678~-88.156623&cardbg=%23F98745&tt=Cop%C3%A1n%2C%20Honduras&tsts0=%2526ty%253D30%2526q%253DCop%2525C3%2525A1n%252520Honduras%2526satid%253Did.sid%25253A1af5f116-a30f-a7cb-60d0-538ffaa52ce7%2526vdpid%253D10595783%2526mb%253D15.292756~-89.685823~14.504678~-88.156623%2526cardbg%253D%252523F98745&tstt0=Cop%C3%A1n%2C%20Honduras&cp=11.357348~-93.84594&lvl=5.5427866&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "5 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Honduras&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cop%c3%a0n&form=BGABWCTA7&filters=HpDate:\"20251204_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cop%c3%a0n&form=BGABWCTA11&filters=HpDate:\"20251204_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251204",
       "fullstartdate": "20251204",
       "enddate": "20251205",

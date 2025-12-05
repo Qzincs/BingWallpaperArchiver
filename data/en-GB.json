@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251205",
+      "fullstartdate": "20251205",
+      "enddate": "20251206",
+      "urlbase": "https://www.bing.com/th?id=OHR.CopanRuins_EN-GB6228909624_UHD.jpg",
+      "copyrighttext": "© diegograndi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Maya+site+of+Copan&form=BGALM&filters=HpDate:\"20251205_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Maya site of Copán, Honduras",
+      "description": "In a quiet valley of western Honduras lie the ruins of Copán—a city of the ancient Maya civilisation. Its sky served as both compass and calendar, guiding celestial events and shaping temples, rituals and the rhythm of life. Around 426 CE, K'inich Yax K'uk' Mo', a warrior from the Maya heartland, founded Copán and established its royal dynasty. The city became a centre of Maya art, astronomy and power.",
+      "headline": "The city that mapped the stars",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251205_CopanRuins\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.89891,-88.896164/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=14.89891,-88.896164;S9;Copán, Honduras&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Cop%C3%A1n%20Honduras&satid=id.sid%3A1af5f116-a30f-a7cb-60d0-538ffaa52ce7&vdpid=10595783&mb=15.292756~-89.685823~14.504678~-88.156623&cardbg=%23F98745&tt=Cop%C3%A1n%2C%20Honduras&tsts0=%2526ty%253D30%2526q%253DCop%2525C3%2525A1n%252520Honduras%2526satid%253Did.sid%25253A1af5f116-a30f-a7cb-60d0-538ffaa52ce7%2526vdpid%253D10595783%2526mb%253D15.292756~-89.685823~14.504678~-88.156623%2526cardbg%253D%252523F98745&tstt0=Cop%C3%A1n%2C%20Honduras&cp=11.357348~-93.84594&lvl=5.5427866&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 5, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Honduras&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Maya+site+of+Copan&form=BGABWCTA7&filters=HpDate:\"20251205_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Maya+site+of+Copan&form=BGABWCTA11&filters=HpDate:\"20251205_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251204",
       "fullstartdate": "20251204",
       "enddate": "20251205",

@@ -1,6 +1,269 @@
 {
   "images": [
     {
+      "startdate": "20251204",
+      "fullstartdate": "20251204",
+      "enddate": "20251205",
+      "urlbase": "https://www.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg",
+      "copyrighttext": "© Andy Rouse/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=cheetah+day&form=BGALM&filters=HpDate:\"20251204_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cheetah in Maasai Mara National Reserve, Narok, Kenya",
+      "description": "High atop a termite mound in the Maasai Mara National Reserve—a protected savanna in southwestern Kenya—a cheetah scans the plains. Its sleek body can reach speeds of up to 70 mph, making it the fastest land mammal on Earth. Long legs and a flexible spine allow incredible acceleration, while its strong tail helps maintain balance during high-speed chases. Today is International Cheetah Day—an event that couldn't have arrived any quicker. With fewer than 7,100 individuals left in the wild, these are among Africa's most vulnerable big cats.",
+      "headline": "Sprint for survival",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251204_CheetahMound\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-1.482136,35.130062/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-1.482136,35.130062;S9;Maasai Mara National Reserve&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Maasai%20Mara%20National%20Reserve%2C%20Narok%2C%20Kenya&ss=ypid.YN8091x9813535758002484597&mb=-1.474634~35.122347~-1.489628~35.137796&description=Narok%2000100&cardbg=%233DB838&dt=1761138000000&tt=Maasai%20Mara%20National%20Reserve&tsts1=%2526ty%253D18%2526q%253DMaasai%252520Mara%252520National%252520Reserve%25252C%252520Narok%25252C%252520Kenya%2526ss%253Dypid.YN8091x9813535758002484597%2526mb%253D-1.474634~35.122347~-1.489628~35.137796%2526description%253DNarok%25252000100%2526cardbg%253D%2525233DB838%2526dt%253D1761138000000&tstt1=Maasai%20Mara%20National%20Reserve&cp=-0.61271~27.128423&lvl=4.7854457&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 4, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Narok%2c+Kenya&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cheetah+day&form=BGABWCTA7&filters=HpDate:\"20251204_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2098,
+            "Y": 767,
+            "Width": 1260,
+            "Height": 1204,
+            "Label": "cheetah",
+            "ContourList": [],
+            "Contours": [
+              [
+                2097,
+                780
+              ],
+              [
+                2126,
+                897
+              ],
+              [
+                2176,
+                977
+              ],
+              [
+                2208,
+                1074
+              ],
+              [
+                2217,
+                1210
+              ],
+              [
+                2294,
+                1349
+              ],
+              [
+                2332,
+                1586
+              ],
+              [
+                2344,
+                1601
+              ],
+              [
+                2389,
+                1598
+              ],
+              [
+                2413,
+                1415
+              ],
+              [
+                2422,
+                1397
+              ],
+              [
+                2437,
+                1394
+              ],
+              [
+                2499,
+                1440
+              ],
+              [
+                2596,
+                1468
+              ],
+              [
+                2627,
+                1522
+              ],
+              [
+                2618,
+                1536
+              ],
+              [
+                2548,
+                1522
+              ],
+              [
+                2498,
+                1531
+              ],
+              [
+                2464,
+                1557
+              ],
+              [
+                2482,
+                1585
+              ],
+              [
+                2588,
+                1586
+              ],
+              [
+                2692,
+                1625
+              ],
+              [
+                2821,
+                1623
+              ],
+              [
+                2920,
+                1716
+              ],
+              [
+                3117,
+                1836
+              ],
+              [
+                3264,
+                1961
+              ],
+              [
+                3340,
+                1936
+              ],
+              [
+                3350,
+                1915
+              ],
+              [
+                3342,
+                1877
+              ],
+              [
+                3259,
+                1885
+              ],
+              [
+                3145,
+                1787
+              ],
+              [
+                3008,
+                1705
+              ],
+              [
+                2949,
+                1648
+              ],
+              [
+                2893,
+                1548
+              ],
+              [
+                2903,
+                1400
+              ],
+              [
+                2888,
+                1362
+              ],
+              [
+                2797,
+                1266
+              ],
+              [
+                2556,
+                1074
+              ],
+              [
+                2437,
+                949
+              ],
+              [
+                2349,
+                888
+              ],
+              [
+                2318,
+                850
+              ],
+              [
+                2335,
+                805
+              ],
+              [
+                2328,
+                779
+              ],
+              [
+                2301,
+                774
+              ],
+              [
+                2272,
+                786
+              ],
+              [
+                2194,
+                770
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cheetah+day&form=BGABWCTA11&filters=HpDate:\"20251204_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251203",
       "fullstartdate": "20251203",
       "enddate": "20251204",
