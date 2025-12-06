@@ -1,6 +1,325 @@
 {
   "images": [
     {
+      "startdate": "20251206",
+      "fullstartdate": "20251206",
+      "enddate": "20251207",
+      "urlbase": "https://www.bing.com/th?id=OHR.ConstitutionSpainDay_ES-ES1916135600_UHD.jpg",
+      "copyrighttext": "© marcp_dmoz on Flickr/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+de+la+Constitucion+Espa%c3%b1ola&form=BGALM&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Palacio de las Cortes, Madrid, España",
+      "description": "Cada 6 de diciembre, España celebra el Día de la Constitución, una jornada que conmemora la aprobación en referéndum de la Constitución de 1978, la norma que marcó el inicio de la democracia moderna en el país. Ese día, los ciudadanos recuerdan los valores de libertad, justicia e igualdad que sustentan nuestra convivencia.",
+      "headline": "Honrando mis derechos y libertades",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_ConstitutionSpainDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+de+la+Constitucion+Espa%c3%b1ola&form=BGABWCTA7&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1033,
+            "Width": 815,
+            "Height": 1123,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                532,
+                1033
+              ],
+              [
+                412,
+                1131
+              ],
+              [
+                385,
+                1167
+              ],
+              [
+                383,
+                1186
+              ],
+              [
+                386,
+                1202
+              ],
+              [
+                397,
+                1215
+              ],
+              [
+                402,
+                1244
+              ],
+              [
+                399,
+                1252
+              ],
+              [
+                427,
+                1269
+              ],
+              [
+                430,
+                1286
+              ],
+              [
+                439,
+                1295
+              ],
+              [
+                440,
+                1311
+              ],
+              [
+                432,
+                1321
+              ],
+              [
+                443,
+                1380
+              ],
+              [
+                429,
+                1405
+              ],
+              [
+                447,
+                1439
+              ],
+              [
+                423,
+                1481
+              ],
+              [
+                404,
+                1484
+              ],
+              [
+                382,
+                1477
+              ],
+              [
+                364,
+                1488
+              ],
+              [
+                365,
+                1516
+              ],
+              [
+                358,
+                1539
+              ],
+              [
+                367,
+                1577
+              ],
+              [
+                365,
+                1598
+              ],
+              [
+                371,
+                1606
+              ],
+              [
+                363,
+                1615
+              ],
+              [
+                367,
+                1706
+              ],
+              [
+                395,
+                1741
+              ],
+              [
+                395,
+                1759
+              ],
+              [
+                414,
+                1760
+              ],
+              [
+                424,
+                1767
+              ],
+              [
+                424,
+                1775
+              ],
+              [
+                436,
+                1783
+              ],
+              [
+                429,
+                1793
+              ],
+              [
+                442,
+                1810
+              ],
+              [
+                474,
+                1763
+              ],
+              [
+                474,
+                1735
+              ],
+              [
+                489,
+                1703
+              ],
+              [
+                485,
+                1691
+              ],
+              [
+                505,
+                1680
+              ],
+              [
+                506,
+                1658
+              ],
+              [
+                517,
+                1649
+              ],
+              [
+                520,
+                1630
+              ],
+              [
+                516,
+                1622
+              ],
+              [
+                532,
+                1614
+              ],
+              [
+                536,
+                1597
+              ],
+              [
+                548,
+                1582
+              ],
+              [
+                549,
+                1565
+              ],
+              [
+                592,
+                1539
+              ],
+              [
+                617,
+                1505
+              ],
+              [
+                645,
+                1444
+              ],
+              [
+                658,
+                1430
+              ],
+              [
+                661,
+                1414
+              ],
+              [
+                699,
+                1354
+              ],
+              [
+                723,
+                1286
+              ],
+              [
+                747,
+                1244
+              ],
+              [
+                738,
+                1202
+              ],
+              [
+                794,
+                1160
+              ],
+              [
+                794,
+                1151
+              ],
+              [
+                763,
+                1134
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+de+la+Constitucion+Espa%c3%b1ola&form=BGABWCTA11&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251205",
       "fullstartdate": "20251205",
       "enddate": "20251206",

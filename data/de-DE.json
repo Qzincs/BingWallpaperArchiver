@@ -1,6 +1,365 @@
 {
   "images": [
     {
+      "startdate": "20251206",
+      "fullstartdate": "20251206",
+      "enddate": "20251207",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2019-B20_CastleMarvaoPortugal_shutterstock_1042748959",
+      "copyrighttext": "© ARoxoPT/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Evora%2C%20Portugal&form=BGALM",
+      "title": "Evora, Portugal",
+      "description": "Amazing Sunset at Castle Marvao, a small picturesque village in the Alentejo",
+      "headline": "Evora, Portugal",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Evora%2C%20Portugal&satid=id.sid%3A7fe4c67f-98e3-bc5c-7f34-3959645cb17d&vdpid=5670706606048804865&mb=38.57975~-7.921861~38.565239~-7.892572&cardbg=%23F98745&tt=%C3%89vora%2C%20%C3%89vora%2C%20Portugal&tsts1=%2526ty%253D30%2526q%253DEvora%25252C%252520Portugal%2526satid%253Did.sid%25253A7fe4c67f-98e3-bc5c-7f34-3959645cb17d%2526vdpid%253D5670706606048804865%2526mb%253D38.57975~-7.921861~38.565239~-7.892572%2526cardbg%253D%252523F98745&tstt1=%C3%89vora%2C%20%C3%89vora%2C%20Portugal&cp=38.572495~-7.912538&lvl=16&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6. Dez.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Evora%2c+Portugal&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Evora%2C%20Portugal&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1539,
+            "Y": 1018,
+            "Width": 3181,
+            "Height": 811,
+            "Label": "castle",
+            "ContourList": [],
+            "Contours": [
+              [
+                1650,
+                1502
+              ],
+              [
+                1669,
+                1535
+              ],
+              [
+                1678,
+                1617
+              ],
+              [
+                1695,
+                1634
+              ],
+              [
+                1687,
+                1650
+              ],
+              [
+                1710,
+                1683
+              ],
+              [
+                1757,
+                1682
+              ],
+              [
+                1783,
+                1657
+              ],
+              [
+                1808,
+                1669
+              ],
+              [
+                1824,
+                1631
+              ],
+              [
+                1859,
+                1623
+              ],
+              [
+                1906,
+                1636
+              ],
+              [
+                1954,
+                1674
+              ],
+              [
+                2005,
+                1670
+              ],
+              [
+                2026,
+                1680
+              ],
+              [
+                2079,
+                1744
+              ],
+              [
+                2147,
+                1720
+              ],
+              [
+                2360,
+                1712
+              ],
+              [
+                2373,
+                1624
+              ],
+              [
+                2434,
+                1597
+              ],
+              [
+                2476,
+                1599
+              ],
+              [
+                2520,
+                1633
+              ],
+              [
+                2546,
+                1634
+              ],
+              [
+                2571,
+                1661
+              ],
+              [
+                2741,
+                1602
+              ],
+              [
+                2811,
+                1616
+              ],
+              [
+                2876,
+                1651
+              ],
+              [
+                2891,
+                1697
+              ],
+              [
+                2916,
+                1721
+              ],
+              [
+                2967,
+                1733
+              ],
+              [
+                2990,
+                1725
+              ],
+              [
+                3008,
+                1681
+              ],
+              [
+                3115,
+                1681
+              ],
+              [
+                3160,
+                1657
+              ],
+              [
+                3246,
+                1649
+              ],
+              [
+                3260,
+                1667
+              ],
+              [
+                3331,
+                1640
+              ],
+              [
+                3358,
+                1594
+              ],
+              [
+                3383,
+                1592
+              ],
+              [
+                3457,
+                1542
+              ],
+              [
+                3510,
+                1542
+              ],
+              [
+                3535,
+                1506
+              ],
+              [
+                3558,
+                1503
+              ],
+              [
+                3571,
+                1486
+              ],
+              [
+                3483,
+                1463
+              ],
+              [
+                3312,
+                1445
+              ],
+              [
+                3273,
+                1419
+              ],
+              [
+                3210,
+                1429
+              ],
+              [
+                3186,
+                1464
+              ],
+              [
+                3086,
+                1471
+              ],
+              [
+                2979,
+                1441
+              ],
+              [
+                2864,
+                1393
+              ],
+              [
+                2849,
+                1334
+              ],
+              [
+                2746,
+                1291
+              ],
+              [
+                2737,
+                1149
+              ],
+              [
+                2588,
+                1111
+              ],
+              [
+                2573,
+                1073
+              ],
+              [
+                2547,
+                1067
+              ],
+              [
+                2537,
+                1108
+              ],
+              [
+                2458,
+                1158
+              ],
+              [
+                2458,
+                1258
+              ],
+              [
+                2448,
+                1278
+              ],
+              [
+                2009,
+                1252
+              ],
+              [
+                1953,
+                1268
+              ],
+              [
+                1830,
+                1274
+              ],
+              [
+                1751,
+                1265
+              ],
+              [
+                1739,
+                1239
+              ],
+              [
+                1710,
+                1221
+              ],
+              [
+                1668,
+                1320
+              ],
+              [
+                1674,
+                1473
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Evora%2C%20Portugal&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251205",
       "fullstartdate": "20251205",
       "enddate": "20251206",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251206",
+      "fullstartdate": "20251206",
+      "enddate": "20251207",
+      "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_EN-GB6383912502_UHD.jpg",
+      "copyrighttext": "© Troy Harrison/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Everglades+National+Park&form=BGALM&filters=HpDate:\"20251206_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Spider webs in Everglades National Park, Florida, United States",
+      "description": "On Florida's southern tip lies one of the United States' most unusual landscapes. The Everglades is not a typical swamp or river. It is a slow, shallow sheet of water that drifts south across flat grasslands toward Florida Bay, linking forests, marshes, mangroves and coastal prairies. This subtropical wilderness supports hundreds of species, including alligators, manatees and the endangered Florida panther. On 6 December, 1947, the United States established the Everglades National Park, protecting over 1.5 million acres and shifting conservation toward preserving entire ecosystems rather than isolated landmarks.",
+      "headline": "Dawn breaks on the wild side",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_EvergladesSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.779844,-80.971945/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=25.779844,-80.971945;S9;Everglades National Park, Florida, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Everglades%20National%20Park%20Florida&satid=id.sid%3A6a88072f-a6fc-8ba5-c5eb-91c57f792c45&mb=25.319812~-80.702648~25.305206~-80.67235&cardbg=%23219AB6&dt=1760704200000&tt=Everglades%20National%20Park%2C%20Florida%2C%20United%20States&tsts0=%2526ty%253D18%2526q%253DEverglades%252520National%252520Park%252520Florida%2526satid%253Did.sid%25253A6a88072f-a6fc-8ba5-c5eb-91c57f792c45%2526mb%253D25.319812~-80.702648~25.305206~-80.67235%2526cardbg%253D%252523219AB6%2526dt%253D1760704200000&tstt0=Everglades%20National%20Park%2C%20Florida%2C%20United%20States&cp=23.285631~-90.544759&lvl=5.3712506&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 6, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Florida%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Everglades+National+Park&form=BGABWCTA7&filters=HpDate:\"20251206_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Everglades+National+Park&form=BGABWCTA11&filters=HpDate:\"20251206_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251205",
       "fullstartdate": "20251205",
       "enddate": "20251206",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251206",
+      "fullstartdate": "20251206",
+      "enddate": "20251207",
+      "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_JA-JP2745208080_UHD.jpg",
+      "copyrighttext": "© Troy Harrison/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20251205_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "エバーグレーズ国立公園, 米国",
+      "description": "米国南東部、フロリダ半島の南端には、「エバーグレーズ」と呼ばれる米国最大の湿原地帯が広がっています。面積は約 20,000km² にも及び、そのうち約 6,000km² ほどのエリアが「エバーグレーズ国立公園」として保護され、世界遺産にも登録されています…",
+      "headline": "水とマングローブの迷宮",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_EvergladesSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.3125,-80.6875/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=25.3125,-80.6875;S9;エバーグレーズ国立公園, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Everglades%20National%20Park%20Florida&satid=id.sid%3A6a88072f-a6fc-8ba5-c5eb-91c57f792c45&mb=25.319812~-80.702648~25.305206~-80.67235&cardbg=%23219AB6&dt=1760704200000&tt=Everglades%20National%20Park%2C%20Florida%2C%20United%20States&tsts0=%2526ty%253D18%2526q%253DEverglades%252520National%252520Park%252520Florida%2526satid%253Did.sid%25253A6a88072f-a6fc-8ba5-c5eb-91c57f792c45%2526mb%253D25.319812~-80.702648~25.305206~-80.67235%2526cardbg%253D%252523219AB6%2526dt%253D1760704200000&tstt0=Everglades%20National%20Park%2C%20Florida%2C%20United%20States&cp=23.285631~-90.544759&lvl=5.3712506&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 6 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA7&filters=HpDate:\"20251205_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a8%e3%83%90%e3%83%bc%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA11&filters=HpDate:\"20251205_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251205",
       "fullstartdate": "20251205",
       "enddate": "20251206",

@@ -1,6 +1,301 @@
 {
   "images": [
     {
+      "startdate": "20251206",
+      "fullstartdate": "20251206",
+      "enddate": "20251207",
+      "urlbase": "https://www.bing.com/th?id=OHR.StrasbourgNicolas_FR-FR8648061434_UHD.jpg",
+      "copyrighttext": "© Alpineguide/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Saint+Nicolas+No%c3%abl+Strasbourg&form=BGALM&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Marché deNoël dans le quartier historique de la Petite France, Strasbourg, Alsace",
+      "description": "Sous les colombages de la Petite France, Strasbourg s’éveille dans un halo doré. Les façades penchées, ornées de guirlandes, racontent une histoire vieille de cinq siècles : celle des Christkindelsmärik, les marchés de Noël nés ici au XVIᵉ siècle, à l’époque où l’on célébrait surtout la Saint Nicolas, protecteur des enfants et des voyageurs.",
+      "headline": "Quand la tradition éclaire la nuit",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_StrasbourgNicolas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.581141,7.740508/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.581141,7.740508;S9;Petite France, Strasbourg&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=HDRSC6&style=r&q=petite+france+strasbourg&srs=sb&cp=48.580830%7E7.740560&lvl=16&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Strasbourg%2c+Alsace&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Saint+Nicolas+No%c3%abl+Strasbourg&form=BGABWCTA7&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1732,
+            "Height": 2110,
+            "Label": "house",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                1090
+              ],
+              [
+                33,
+                1107
+              ],
+              [
+                0,
+                1113
+              ],
+              [
+                0,
+                2092
+              ],
+              [
+                886,
+                2021
+              ],
+              [
+                1470,
+                1919
+              ],
+              [
+                1482,
+                1794
+              ],
+              [
+                1465,
+                1698
+              ],
+              [
+                1474,
+                1641
+              ],
+              [
+                1504,
+                1607
+              ],
+              [
+                1461,
+                1556
+              ],
+              [
+                1497,
+                1549
+              ],
+              [
+                1509,
+                1581
+              ],
+              [
+                1537,
+                1585
+              ],
+              [
+                1553,
+                1555
+              ],
+              [
+                1522,
+                1567
+              ],
+              [
+                1491,
+                1528
+              ],
+              [
+                1592,
+                1514
+              ],
+              [
+                1609,
+                1474
+              ],
+              [
+                1599,
+                1370
+              ],
+              [
+                1615,
+                1286
+              ],
+              [
+                1591,
+                1245
+              ],
+              [
+                1582,
+                804
+              ],
+              [
+                1560,
+                773
+              ],
+              [
+                1447,
+                781
+              ],
+              [
+                1435,
+                759
+              ],
+              [
+                1411,
+                760
+              ],
+              [
+                1416,
+                745
+              ],
+              [
+                1462,
+                766
+              ],
+              [
+                1506,
+                744
+              ],
+              [
+                1596,
+                743
+              ],
+              [
+                1617,
+                665
+              ],
+              [
+                1707,
+                653
+              ],
+              [
+                1521,
+                442
+              ],
+              [
+                1443,
+                434
+              ],
+              [
+                1440,
+                375
+              ],
+              [
+                1399,
+                366
+              ],
+              [
+                1401,
+                341
+              ],
+              [
+                1441,
+                311
+              ],
+              [
+                1432,
+                241
+              ],
+              [
+                1282,
+                141
+              ],
+              [
+                997,
+                127
+              ],
+              [
+                1016,
+                164
+              ],
+              [
+                967,
+                175
+              ],
+              [
+                955,
+                149
+              ],
+              [
+                936,
+                155
+              ],
+              [
+                922,
+                101
+              ],
+              [
+                870,
+                122
+              ],
+              [
+                903,
+                131
+              ],
+              [
+                861,
+                131
+              ],
+              [
+                809,
+                90
+              ],
+              [
+                612,
+                31
+              ],
+              [
+                568,
+                0
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Saint+Nicolas+No%c3%abl+Strasbourg&form=BGABWCTA11&filters=HpDate:\"20251205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251205",
       "fullstartdate": "20251205",
       "enddate": "20251206",
