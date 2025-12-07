@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251207",
+      "fullstartdate": "20251207",
+      "enddate": "20251208",
+      "urlbase": "https://www.bing.com/th?id=OHR.Daxue2025_JA-JP6833558565_UHD.jpg",
+      "copyrighttext": "© Thirawatana Phaisalratana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%99%bd%e9%a6%ac%e4%b8%89%e5%b1%b1%e3%81%ae%e9%9b%aa%e6%99%af%e8%89%b2&form=BGALM&filters=HpDate:\"20251206_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "白馬三山の雪景色",
+      "description": "今日 12 月 7 日は二十四節気の「大雪」。文字通り雪が多く降り始める時期とされ、沖縄を除くほぼ全国で降雪が観測されるようになります。各地で冬支度が進み、特に豪雪地帯では、雪吊りや雪灯篭など、地域ならではの冬の風習や行事が行われます…",
+      "headline": "今日 は「大雪」",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_Daxue2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 7 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%99%bd%e9%a6%ac%e4%b8%89%e5%b1%b1%e3%81%ae%e9%9b%aa%e6%99%af%e8%89%b2&form=BGABWCTA7&filters=HpDate:\"20251206_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%99%bd%e9%a6%ac%e4%b8%89%e5%b1%b1%e3%81%ae%e9%9b%aa%e6%99%af%e8%89%b2&form=BGABWCTA11&filters=HpDate:\"20251206_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251206",
       "fullstartdate": "20251206",
       "enddate": "20251207",

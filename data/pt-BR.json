@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251206",
+      "fullstartdate": "20251206",
+      "enddate": "20251207",
+      "urlbase": "https://www.bing.com/th?id=OHR.EvergladesSunrise_PT-BR9624463483_UHD.jpg",
+      "copyrighttext": "© Troy Harrison/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Everglades+nos+Estados+Unidos&form=BGALM&filters=HpDate:\"20251206_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Teias de aranha no Parque Nacional Everglades, Flórida, EUA",
+      "description": "Na ponta sul da Flórida, nos Estados Unidos, está o Parque Nacional Everglades, registrado na foto de hoje. Diferente de um pântano comum, o Everglades é uma vasta planície onde a água se espalha lentamente sobre campos abertos, conectando florestas, manguezais e pradarias costeiras. É um ecossistema, onde jacarés deslizam entre os canais e peixes-boi nadam tranquilos. Teias de aranha se estendem entre os juncos, capturando a luz como fios delicados — um lembrete da harmonia que sustenta a vida selvagem. Mesmo sendo uma área protegida, o lugar enfrenta desafios como poluição, expansão urbana e alterações no fluxo da água. Projetos de restauração buscam devolver à região sua dinâmica natural e preservar sua biodiversidade.",
+      "headline": "Águas que conectam",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251206_EvergladesSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Everglades+nos+Estados+Unidos&form=BGABWCTA7&filters=HpDate:\"20251206_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+Everglades+nos+Estados+Unidos&form=BGABWCTA11&filters=HpDate:\"20251206_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251205",
       "fullstartdate": "20251205",
       "enddate": "20251206",

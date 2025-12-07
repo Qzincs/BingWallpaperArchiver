@@ -1,6 +1,481 @@
 {
   "images": [
     {
+      "startdate": "20251207",
+      "fullstartdate": "20251207",
+      "enddate": "20251208",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.TheGreatSnowY25_ZH-CN2448918230_UHD.jpg",
+      "copyrighttext": "© Ian.CuiYi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%a7%e9%9b%aa%e8%8a%82%e6%b0%94&form=BGALM&filters=HpDate:\"20251206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "雪中的故宫，中国北京",
+      "description": "今天是中国传统二十四节气中的大雪节气。大雪的到来预示着气温将逐渐降低，冬季降水量也将增加。大雪期间，中国大部分地区已进入严冬，北方部分地区的气温甚至会降至零度以下。北方大地呈现出“万里冰封”的壮丽景象，而南方则展现出“雪花飘舞，万物银装素裹”的迷人景色。",
+      "headline": "雪落下的声音",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_TheGreatSnowY25\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 7",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a4%a7%e9%9b%aa%e8%8a%82%e6%b0%94&form=BGABWCTA7&filters=HpDate:\"20251206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 284,
+            "Width": 3833,
+            "Height": 1872,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                1257
+              ],
+              [
+                0,
+                1900
+              ],
+              [
+                57,
+                1893
+              ],
+              [
+                67,
+                1849
+              ],
+              [
+                77,
+                1890
+              ],
+              [
+                97,
+                1864
+              ],
+              [
+                187,
+                1925
+              ],
+              [
+                218,
+                1883
+              ],
+              [
+                307,
+                2009
+              ],
+              [
+                1372,
+                1997
+              ],
+              [
+                1417,
+                1957
+              ],
+              [
+                1433,
+                2005
+              ],
+              [
+                1579,
+                1980
+              ],
+              [
+                1596,
+                1924
+              ],
+              [
+                1612,
+                2000
+              ],
+              [
+                1627,
+                1960
+              ],
+              [
+                1642,
+                1988
+              ],
+              [
+                1822,
+                1960
+              ],
+              [
+                1838,
+                1995
+              ],
+              [
+                1864,
+                1924
+              ],
+              [
+                1931,
+                1919
+              ],
+              [
+                1972,
+                1864
+              ],
+              [
+                1987,
+                1897
+              ],
+              [
+                1992,
+                1865
+              ],
+              [
+                2064,
+                1871
+              ],
+              [
+                2077,
+                1826
+              ],
+              [
+                2106,
+                1867
+              ],
+              [
+                2124,
+                1831
+              ],
+              [
+                2216,
+                1870
+              ],
+              [
+                2248,
+                1852
+              ],
+              [
+                2227,
+                1827
+              ],
+              [
+                2302,
+                1862
+              ],
+              [
+                2353,
+                1821
+              ],
+              [
+                2407,
+                1924
+              ],
+              [
+                2917,
+                1937
+              ],
+              [
+                2947,
+                2052
+              ],
+              [
+                2978,
+                1953
+              ],
+              [
+                3007,
+                2030
+              ],
+              [
+                3067,
+                2067
+              ],
+              [
+                3088,
+                2028
+              ],
+              [
+                3157,
+                2111
+              ],
+              [
+                3262,
+                2093
+              ],
+              [
+                3277,
+                2134
+              ],
+              [
+                3423,
+                2159
+              ],
+              [
+                3839,
+                2150
+              ],
+              [
+                3839,
+                1336
+              ],
+              [
+                3785,
+                1330
+              ],
+              [
+                3772,
+                1271
+              ],
+              [
+                3391,
+                1145
+              ],
+              [
+                3397,
+                1053
+              ],
+              [
+                3592,
+                1003
+              ],
+              [
+                3601,
+                948
+              ],
+              [
+                3323,
+                861
+              ],
+              [
+                3203,
+                442
+              ],
+              [
+                3127,
+                425
+              ],
+              [
+                3114,
+                502
+              ],
+              [
+                2422,
+                495
+              ],
+              [
+                2371,
+                417
+              ],
+              [
+                2271,
+                663
+              ],
+              [
+                1933,
+                501
+              ],
+              [
+                1856,
+                434
+              ],
+              [
+                1837,
+                353
+              ],
+              [
+                1819,
+                422
+              ],
+              [
+                1656,
+                460
+              ],
+              [
+                1627,
+                414
+              ],
+              [
+                1610,
+                484
+              ],
+              [
+                1465,
+                605
+              ],
+              [
+                1146,
+                723
+              ],
+              [
+                1145,
+                788
+              ],
+              [
+                1201,
+                813
+              ],
+              [
+                1185,
+                1079
+              ],
+              [
+                753,
+                1085
+              ],
+              [
+                802,
+                1082
+              ],
+              [
+                856,
+                993
+              ],
+              [
+                748,
+                906
+              ],
+              [
+                791,
+                873
+              ],
+              [
+                787,
+                817
+              ],
+              [
+                487,
+                809
+              ],
+              [
+                463,
+                983
+              ],
+              [
+                403,
+                1016
+              ],
+              [
+                474,
+                1033
+              ],
+              [
+                460,
+                1076
+              ],
+              [
+                654,
+                1095
+              ],
+              [
+                579,
+                1148
+              ],
+              [
+                421,
+                1151
+              ],
+              [
+                478,
+                1177
+              ],
+              [
+                397,
+                1170
+              ],
+              [
+                406,
+                1211
+              ],
+              [
+                209,
+                1203
+              ],
+              [
+                224,
+                1152
+              ],
+              [
+                273,
+                1151
+              ],
+              [
+                187,
+                1127
+              ],
+              [
+                166,
+                1152
+              ],
+              [
+                199,
+                1203
+              ],
+              [
+                126,
+                1146
+              ],
+              [
+                103,
+                1222
+              ],
+              [
+                60,
+                1227
+              ],
+              [
+                103,
+                1235
+              ],
+              [
+                92,
+                1271
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a4%a7%e9%9b%aa%e8%8a%82%e6%b0%94&form=BGABWCTA11&filters=HpDate:\"20251206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251206",
       "fullstartdate": "20251206",
       "enddate": "20251207",

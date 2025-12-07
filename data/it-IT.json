@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251207",
+      "fullstartdate": "20251207",
+      "enddate": "20251208",
+      "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_IT-IT0276846659_UHD.jpg",
+      "copyrighttext": "© alekseystemmer/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=alsazia+regione+francese&form=BGALM&filters=HpDate:\"20251206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pineta, Alsazia, Francia",
+      "description": "A dicembre, le foreste dell’Alsazia, nella Francia settentrionale, si avvolgono in un velo di nebbia, come se la natura trattenesse il respiro prima dell’inverno. Tra pini silvestri e abeti bianchi, il suolo muschioso attutisce ogni passo e il silenzio diventa quasi sacro. Questi boschi, che coprono quasi il 40% della regione, custodiscono una biodiversità ricca e discreta: caprioli, cinghiali, picchi neri e talvolta la lince, tornata dopo decenni di assenza. Ma la pineta non è solo rifugio naturale: è anche terra di racconti. Gli abitanti parlano del Sotré, spiritello dispettoso che riordina le case isolate o le scompiglia se provocato. Altri giurano di aver visto le Dame Bianche, figure evanescenti che vagano lungo i ruscelli, frammenti di leggende antiche.",
+      "headline": "Boschi e Magia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=alsazia+regione+francese&form=BGABWCTA7&filters=HpDate:\"20251206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=alsazia+regione+francese&form=BGABWCTA11&filters=HpDate:\"20251206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251206",
       "fullstartdate": "20251206",
       "enddate": "20251207",
