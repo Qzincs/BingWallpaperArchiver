@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251208",
+      "fullstartdate": "20251208",
+      "enddate": "20251209",
+      "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_FR-FR9116499676_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lac+de+C%c3%b4me&form=BGALM&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Illuminations de Noël sur les bâtiments de Domaso, lac de Côme, Italie",
+      "description": "Sur les rives du lac de Côme, en Italie, l'hiver scintille de mille feux. Les façades pastel du petit port de Domaso, qui était autrefois un village de pêcheurs, se parent de guirlandes chatoyantes. En toile de fond, les montagnes enneigées semblent veiller sur ce décor féerique où le silence de la neige contraste avec les rires qui s'échappent des villages voisins, animés par les marchés de Noël.",
+      "headline": "Reflets de fête sur le lac de Côme",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251208_ComoChristmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46,9.266666/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=46,9.266666;S9;Domaso, lac de Côme, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lake%20Como%20Italy&satid=id.sid%3A507b26cc-9e6e-8c1d-e2b5-4b13df8175ce&vdpid=7016380508145713153&mb=46.169567~8.742733~45.812996~9.705117&cardbg=%23F98745&dt=1760628600000&tt=Lake%20Como%2C%20Lombardy%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DLake%252520Como%252520Italy%2526satid%253Did.sid%25253A507b26cc-9e6e-8c1d-e2b5-4b13df8175ce%2526vdpid%253D7016380508145713153%2526mb%253D46.169567~8.742733~45.812996~9.705117%2526cardbg%253D%252523F98745%2526dt%253D1760628600000&tstt0=Lake%20Como%2C%20Lombardy%2C%20Italy&cp=44.234557~8.278748&lvl=5.8093395&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "8 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+lac+de+C%c3%b4me%2c+Italie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lac+de+C%c3%b4me&form=BGABWCTA7&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lac+de+C%c3%b4me&form=BGABWCTA11&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251207",
       "fullstartdate": "20251207",
       "enddate": "20251208",

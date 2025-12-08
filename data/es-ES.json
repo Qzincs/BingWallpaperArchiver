@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251208",
+      "fullstartdate": "20251208",
+      "enddate": "20251209",
+      "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_ES-ES2097586747_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Domaso&form=BGALM&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Luces navideñas en edificios de Domaso, Lago de Como, Italia",
+      "description": "Cuando los reflejos del Lago de Como, en Italia, brillan más que las estrellas, sabes que la Navidad ha llegado a Domaso. Este antiguo pueblo de pescadores se transforma cada invierno en un escenario lleno de luz: las casas de tonos pastel, las iglesias históricas y las villas junto al lago se visten con cintas luminosas que crean una estampa mágica.",
+      "headline": "El lago encandila las luces",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251208_ComoChristmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Domaso&form=BGABWCTA7&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Domaso&form=BGABWCTA11&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251207",
       "fullstartdate": "20251207",
       "enddate": "20251208",

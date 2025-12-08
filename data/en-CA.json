@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251207",
+      "fullstartdate": "20251207",
+      "enddate": "20251208",
+      "urlbase": "https://www.bing.com/th?id=OHR.MistyPineForest_EN-CA3344515413_UHD.jpg",
+      "copyrighttext": "© alekseystemmer/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alsace&form=BGALM&filters=HpDate:\"20251207_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "A pine forest in Alsace, France",
+      "description": "In December, the forests of Alsace, in France's Grand Est region, wrap themselves in a veil of fog, as if nature were holding its breath before winter. Amid Scots pines and silver firs, the moss-covered ground muffles every step and the silence feels almost sacred. These woodlands, which cover nearly 40% of Alsace, shelter a rich biodiversity: roe deer, wild boar, black woodpeckers and sometimes the elusive lynx, which has returned after decades of absence.",
+      "headline": "Mist-ery in the pines",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251207_MistyPineForest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 7, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alsace&form=BGABWCTA7&filters=HpDate:\"20251207_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Alsace&form=BGABWCTA11&filters=HpDate:\"20251207_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251206",
       "fullstartdate": "20251206",
       "enddate": "20251207",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251208",
+      "fullstartdate": "20251208",
+      "enddate": "20251209",
+      "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_JA-JP6780343312_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%83%89%e3%83%9e%e3%83%bc%e3%82%be&form=BGALM&filters=HpDate:\"20251207_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ドマーゾ, イタリア",
+      "description": "イタリア北部に位置するコモ湖は、アルプス山脈の麓に広がる逆 Y 字型の湖で、イタリアで 3 番目の大きさを誇ります。ローマ時代から避暑地として知られ、皇帝や貴族たちの保養に利用されてきました。また、現在は避暑地以外に、映画のロケ地としても度々利用されています…",
+      "headline": "コモ湖畔にある小さな町",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251208_ComoChristmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.014767,9.240527/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.014767,9.240527;S9;コモ湖, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lake%20Como%20Italy&satid=id.sid%3A507b26cc-9e6e-8c1d-e2b5-4b13df8175ce&vdpid=7016380508145713153&mb=46.169567~8.742733~45.812996~9.705117&cardbg=%23F98745&dt=1760628600000&tt=Lake%20Como%2C%20Lombardy%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DLake%252520Como%252520Italy%2526satid%253Did.sid%25253A507b26cc-9e6e-8c1d-e2b5-4b13df8175ce%2526vdpid%253D7016380508145713153%2526mb%253D46.169567~8.742733~45.812996~9.705117%2526cardbg%253D%252523F98745%2526dt%253D1760628600000&tstt0=Lake%20Como%2C%20Lombardy%2C%20Italy&cp=44.234557~8.278748&lvl=5.8093395&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 8 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%83%89%e3%83%9e%e3%83%bc%e3%82%be&form=BGABWCTA7&filters=HpDate:\"20251207_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%83%89%e3%83%9e%e3%83%bc%e3%82%be&form=BGABWCTA11&filters=HpDate:\"20251207_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251207",
       "fullstartdate": "20251207",
       "enddate": "20251208",

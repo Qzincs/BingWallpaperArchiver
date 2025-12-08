@@ -1,6 +1,333 @@
 {
   "images": [
     {
+      "startdate": "20251208",
+      "fullstartdate": "20251208",
+      "enddate": "20251209",
+      "urlbase": "https://www.bing.com/th?id=OHR.FirenzeNeve_IT-IT0358482518_UHD.jpg",
+      "copyrighttext": "© Dan74/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Immacolata&form=BGALM&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Santa Maria del Fiore, Firenze, Toscana",
+      "description": "Nel silenzio ovattato della neve, la Cattedrale di Santa Maria del Fiore si veste di bianco, come se la città stessa volesse rendere omaggio alla purezza. È l’8 dicembre, giorno dell’Immacolata Concezione, una celebrazione che affonda le radici nella fede ma parla anche al cuore, alla bellezza, alla luce. L’Immacolata Concezione non riguarda la nascita di Gesù, ma quella di Maria. Secondo la tradizione cattolica, Ella fu concepita senza peccato originale, preservata fin dal primo istante per accogliere il mistero della vita divina. È un dogma proclamato nel 1854, ma il suo significato va oltre la teologia. È l’idea che la purezza possa esistere, che il candore abbia un posto nel mondo.",
+      "headline": "Bianca e Immacolata",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251208_FirenzeNeve\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Immacolata&form=BGABWCTA7&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2021,
+            "Y": 22,
+            "Width": 1267,
+            "Height": 1640,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2587,
+                52
+              ],
+              [
+                2586,
+                103
+              ],
+              [
+                2520,
+                265
+              ],
+              [
+                2527,
+                333
+              ],
+              [
+                2489,
+                375
+              ],
+              [
+                2480,
+                434
+              ],
+              [
+                2400,
+                490
+              ],
+              [
+                2281,
+                612
+              ],
+              [
+                2223,
+                694
+              ],
+              [
+                2161,
+                824
+              ],
+              [
+                2120,
+                998
+              ],
+              [
+                2108,
+                1257
+              ],
+              [
+                2120,
+                1294
+              ],
+              [
+                2038,
+                1370
+              ],
+              [
+                2059,
+                1539
+              ],
+              [
+                2073,
+                1560
+              ],
+              [
+                2092,
+                1560
+              ],
+              [
+                2105,
+                1519
+              ],
+              [
+                2128,
+                1526
+              ],
+              [
+                2141,
+                1557
+              ],
+              [
+                2134,
+                1567
+              ],
+              [
+                2154,
+                1562
+              ],
+              [
+                2171,
+                1590
+              ],
+              [
+                2164,
+                1608
+              ],
+              [
+                2211,
+                1627
+              ],
+              [
+                2282,
+                1616
+              ],
+              [
+                2285,
+                1587
+              ],
+              [
+                2332,
+                1586
+              ],
+              [
+                2342,
+                1615
+              ],
+              [
+                2482,
+                1632
+              ],
+              [
+                2570,
+                1616
+              ],
+              [
+                2586,
+                1597
+              ],
+              [
+                2813,
+                1595
+              ],
+              [
+                2887,
+                1636
+              ],
+              [
+                2934,
+                1635
+              ],
+              [
+                2949,
+                1606
+              ],
+              [
+                3007,
+                1591
+              ],
+              [
+                3089,
+                1623
+              ],
+              [
+                3097,
+                1645
+              ],
+              [
+                3111,
+                1631
+              ],
+              [
+                3172,
+                1642
+              ],
+              [
+                3183,
+                1615
+              ],
+              [
+                3227,
+                1598
+              ],
+              [
+                3217,
+                1589
+              ],
+              [
+                3297,
+                1579
+              ],
+              [
+                3246,
+                1507
+              ],
+              [
+                3255,
+                1479
+              ],
+              [
+                3205,
+                1371
+              ],
+              [
+                3155,
+                1320
+              ],
+              [
+                3071,
+                1277
+              ],
+              [
+                3090,
+                1228
+              ],
+              [
+                3087,
+                1085
+              ],
+              [
+                3067,
+                907
+              ],
+              [
+                2995,
+                725
+              ],
+              [
+                2919,
+                612
+              ],
+              [
+                2818,
+                507
+              ],
+              [
+                2709,
+                432
+              ],
+              [
+                2700,
+                375
+              ],
+              [
+                2666,
+                333
+              ],
+              [
+                2655,
+                223
+              ],
+              [
+                2609,
+                131
+              ],
+              [
+                2607,
+                64
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Immacolata&form=BGABWCTA11&filters=HpDate:\"20251207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251207",
       "fullstartdate": "20251207",
       "enddate": "20251208",
