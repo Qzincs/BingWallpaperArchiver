@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251208",
+      "fullstartdate": "20251208",
+      "enddate": "20251209",
+      "urlbase": "https://www.bing.com/th?id=OHR.ComoChristmas_PT-BR1481047101_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+De+Como+Na+It%c3%a1lia&form=BGALM&filters=HpDate:\"20251208_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Luzes de Natal em Domaso, Lago de Como, Itália",
+      "description": "Quando os reflexos cintilantes no Lago de Como, na Itália, superam o brilho das estrelas, é sinal de que o Natal chegou a Domaso. A imagem de hoje nos leva até a antiga vila de pescadores, essa cidade à beira do lago se transforma a cada inverno em um espetáculo de luzes natalinas. Casas em tons pastel, igrejas antigas e vilas são envolvidas por fitas de luz. O resultado é uma cena digna de cartão-postal. A orla principal torna-se a grande atração. Barracas de mercado vendem artesanato, castanhas quentes e panetones suficientes para manter todos energizados até o Ano Novo.",
+      "headline": "Espelhos de luz",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251208_ComoChristmas\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lago+De+Como+Na+It%c3%a1lia&form=BGABWCTA7&filters=HpDate:\"20251208_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lago+De+Como+Na+It%c3%a1lia&form=BGABWCTA11&filters=HpDate:\"20251208_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251207",
       "fullstartdate": "20251207",
       "enddate": "20251208",

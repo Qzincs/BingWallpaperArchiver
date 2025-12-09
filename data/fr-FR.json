@@ -1,6 +1,325 @@
 {
   "images": [
     {
+      "startdate": "20251209",
+      "fullstartdate": "20251209",
+      "enddate": "20251210",
+      "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_FR-FR9248267589_UHD.jpg",
+      "copyrighttext": "© Sylvain Cordier/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=guanaco&form=BGALM&filters=HpDate:\"20251208_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Guanaco, Punta Norte, Péninsule Valdés, Argentine",
+      "description": "Sous le vent salé de Punta Norte, à l’extrémité nord de la péninsule Valdés, en Argentine, une silhouette élancée se découpe sur l’horizon d’herbes dorées. Le guanaco, cousin farouche du lama, avance d'un pas souple sur ces terres balayées par les rafales de l'Atlantique Sud. Son pelage fauve, doublé d'une épaisse laine, le protège du froid mordant de la steppe patagonne.",
+      "headline": "Guanacool attitude !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251209_LlamaDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-42.5,-63.93333/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-42.5,-63.93333;S9;Punta Norte, Péninsule Valdés, Argentine&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Valdes%20Peninsula%2C%20Departamento%20Biedma%2C%20Argentina&satid=id.sid%3Aed4d3bcf-e751-d1f5-7efd-95c2cd0f02aa&vdpid=6796466666474569729&mb=-42.096718~-64.822701~-42.901649~-63.042838&cardbg=%23F98745&dt=1762858800000&tt=Valdes%20Peninsula%2C%20Chubut%20Province%2C%20Argentina&tsts0=%2526ty%253D30%2526q%253DValdes%252520Peninsula%25252C%252520Departamento%252520Biedma%25252C%252520Argentina%2526satid%253Did.sid%25253Aed4d3bcf-e751-d1f5-7efd-95c2cd0f02aa%2526vdpid%253D6796466666474569729%2526mb%253D-42.096718~-64.822701~-42.901649~-63.042838%2526cardbg%253D%252523F98745%2526dt%253D1762858800000&tstt0=Valdes%20Peninsula%2C%20Chubut%20Province%2C%20Argentina&cp=-40.783151~-80.034104&lvl=4.26&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Punta+Norte%2c+P%c3%a9ninsule+Vald%c3%a9s%2c+Argentine&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=guanaco&form=BGABWCTA7&filters=HpDate:\"20251208_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 401,
+            "Y": 22,
+            "Width": 2492,
+            "Height": 2134,
+            "Label": "alpaca",
+            "ContourList": [],
+            "Contours": [
+              [
+                449,
+                358
+              ],
+              [
+                428,
+                520
+              ],
+              [
+                457,
+                651
+              ],
+              [
+                597,
+                875
+              ],
+              [
+                806,
+                1084
+              ],
+              [
+                804,
+                1286
+              ],
+              [
+                772,
+                1336
+              ],
+              [
+                835,
+                1323
+              ],
+              [
+                905,
+                1403
+              ],
+              [
+                903,
+                1435
+              ],
+              [
+                969,
+                1503
+              ],
+              [
+                1094,
+                1818
+              ],
+              [
+                1190,
+                1903
+              ],
+              [
+                1367,
+                1985
+              ],
+              [
+                1506,
+                2146
+              ],
+              [
+                2460,
+                2159
+              ],
+              [
+                2790,
+                2138
+              ],
+              [
+                2691,
+                2064
+              ],
+              [
+                2617,
+                2054
+              ],
+              [
+                2594,
+                2030
+              ],
+              [
+                2623,
+                1962
+              ],
+              [
+                2617,
+                1911
+              ],
+              [
+                2664,
+                1818
+              ],
+              [
+                2537,
+                1810
+              ],
+              [
+                2512,
+                1787
+              ],
+              [
+                2424,
+                1841
+              ],
+              [
+                2363,
+                1844
+              ],
+              [
+                2365,
+                1776
+              ],
+              [
+                2405,
+                1699
+              ],
+              [
+                2394,
+                1582
+              ],
+              [
+                2266,
+                1536
+              ],
+              [
+                2294,
+                1472
+              ],
+              [
+                2241,
+                1475
+              ],
+              [
+                2230,
+                1385
+              ],
+              [
+                2119,
+                1415
+              ],
+              [
+                2103,
+                1353
+              ],
+              [
+                2122,
+                1346
+              ],
+              [
+                2123,
+                1295
+              ],
+              [
+                2088,
+                1250
+              ],
+              [
+                2002,
+                1223
+              ],
+              [
+                1936,
+                1151
+              ],
+              [
+                1888,
+                1154
+              ],
+              [
+                1852,
+                1097
+              ],
+              [
+                1825,
+                1121
+              ],
+              [
+                1839,
+                1050
+              ],
+              [
+                1806,
+                1004
+              ],
+              [
+                1807,
+                932
+              ],
+              [
+                1875,
+                580
+              ],
+              [
+                1871,
+                415
+              ],
+              [
+                1829,
+                207
+              ],
+              [
+                1712,
+                64
+              ],
+              [
+                1614,
+                41
+              ],
+              [
+                1588,
+                105
+              ],
+              [
+                1540,
+                541
+              ],
+              [
+                1494,
+                705
+              ],
+              [
+                1217,
+                741
+              ],
+              [
+                1014,
+                827
+              ],
+              [
+                767,
+                649
+              ],
+              [
+                533,
+                366
+              ],
+              [
+                488,
+                339
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=guanaco&form=BGABWCTA11&filters=HpDate:\"20251208_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251208",
       "fullstartdate": "20251208",
       "enddate": "20251209",
