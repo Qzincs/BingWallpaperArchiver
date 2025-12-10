@@ -1,6 +1,325 @@
 {
   "images": [
     {
+      "startdate": "20251209",
+      "fullstartdate": "20251209",
+      "enddate": "20251210",
+      "urlbase": "https://www.bing.com/th?id=OHR.LlamaDay_ROW4693372268_UHD.jpg",
+      "copyrighttext": "© Sylvain Cordier/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Guanaco&form=BGALM&filters=HpDate:\"20251209_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Guanaco, Punta Norte, Valdés Peninsula, Argentina",
+      "description": "If llamas are the laid-back stars of the Andes, their cousins, the guanacos, are the free spirits of Patagonia. Guanacos are part of the same camelid family as llamas, alpacas and vicuñas. But unlike their domesticated relatives, they keep things wild. Found mainly in Argentina, Chile, Peru and Bolivia, they're built for life at high altitude. Their thick coats help them handle chilly winds, while their padded feet give them the grip to trek across rocky terrain that would make even mountain goats nervous.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251209_LlamaDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 9, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Guanaco&form=BGABWCTA7&filters=HpDate:\"20251209_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 401,
+            "Y": 22,
+            "Width": 2492,
+            "Height": 2134,
+            "Label": "alpaca",
+            "ContourList": [],
+            "Contours": [
+              [
+                449,
+                358
+              ],
+              [
+                428,
+                520
+              ],
+              [
+                457,
+                651
+              ],
+              [
+                597,
+                875
+              ],
+              [
+                806,
+                1084
+              ],
+              [
+                804,
+                1286
+              ],
+              [
+                772,
+                1336
+              ],
+              [
+                835,
+                1323
+              ],
+              [
+                905,
+                1403
+              ],
+              [
+                903,
+                1435
+              ],
+              [
+                969,
+                1503
+              ],
+              [
+                1094,
+                1818
+              ],
+              [
+                1190,
+                1903
+              ],
+              [
+                1367,
+                1985
+              ],
+              [
+                1506,
+                2146
+              ],
+              [
+                2460,
+                2159
+              ],
+              [
+                2790,
+                2138
+              ],
+              [
+                2691,
+                2064
+              ],
+              [
+                2617,
+                2054
+              ],
+              [
+                2594,
+                2030
+              ],
+              [
+                2623,
+                1962
+              ],
+              [
+                2617,
+                1911
+              ],
+              [
+                2664,
+                1818
+              ],
+              [
+                2537,
+                1810
+              ],
+              [
+                2512,
+                1787
+              ],
+              [
+                2424,
+                1841
+              ],
+              [
+                2363,
+                1844
+              ],
+              [
+                2365,
+                1776
+              ],
+              [
+                2405,
+                1699
+              ],
+              [
+                2394,
+                1582
+              ],
+              [
+                2266,
+                1536
+              ],
+              [
+                2294,
+                1472
+              ],
+              [
+                2241,
+                1475
+              ],
+              [
+                2230,
+                1385
+              ],
+              [
+                2119,
+                1415
+              ],
+              [
+                2103,
+                1353
+              ],
+              [
+                2122,
+                1346
+              ],
+              [
+                2123,
+                1295
+              ],
+              [
+                2088,
+                1250
+              ],
+              [
+                2002,
+                1223
+              ],
+              [
+                1936,
+                1151
+              ],
+              [
+                1888,
+                1154
+              ],
+              [
+                1852,
+                1097
+              ],
+              [
+                1825,
+                1121
+              ],
+              [
+                1839,
+                1050
+              ],
+              [
+                1806,
+                1004
+              ],
+              [
+                1807,
+                932
+              ],
+              [
+                1875,
+                580
+              ],
+              [
+                1871,
+                415
+              ],
+              [
+                1829,
+                207
+              ],
+              [
+                1712,
+                64
+              ],
+              [
+                1614,
+                41
+              ],
+              [
+                1588,
+                105
+              ],
+              [
+                1540,
+                541
+              ],
+              [
+                1494,
+                705
+              ],
+              [
+                1217,
+                741
+              ],
+              [
+                1014,
+                827
+              ],
+              [
+                767,
+                649
+              ],
+              [
+                533,
+                366
+              ],
+              [
+                488,
+                339
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Guanaco&form=BGABWCTA11&filters=HpDate:\"20251209_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251208",
       "fullstartdate": "20251208",
       "enddate": "20251209",

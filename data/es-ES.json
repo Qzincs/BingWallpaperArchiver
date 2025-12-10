@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251210",
+      "fullstartdate": "20251210",
+      "enddate": "20251211",
+      "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_ES-ES0926965367_UHD.jpg",
+      "copyrighttext": "© Elena Zolotova/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=C%c3%b3rdoba&form=BGALM&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Interior de la Mezquita-Catedral de Córdoba, Andalucía, España",
+      "description": "La Mezquita-Catedral de Córdoba es una de las grandes maravillas de España y un símbolo de la historia y la cultura andaluza. Su origen se remonta a una iglesia visigoda que, en el año 784, fue transformada por Abd al-Rahman I, fundador del Emirato Omeya de Córdoba, en una espléndida mezquita. Su impresionante sala hipóstila, con más de 850 columnas y arcos rojos y blancos, crea un bosque de piedra que asombra a quienes la visitan.",
+      "headline": "Donde convergen las culturas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=C%c3%b3rdoba&form=BGABWCTA7&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=C%c3%b3rdoba&form=BGABWCTA11&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251209",
       "fullstartdate": "20251209",
       "enddate": "20251210",

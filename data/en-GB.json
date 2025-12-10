@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251210",
+      "fullstartdate": "20251210",
+      "enddate": "20251211",
+      "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_EN-GB6957554963_UHD.jpg",
+      "copyrighttext": "© Elena Zolotova/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mosque+Cathedral+of+Cordoba&form=BGALM&filters=HpDate:\"20251210_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain",
+      "description": "The Mosque-Cathedral of Córdoba is a chronicle of Spain's layered history. It began as a church built by the Germanic Visigoths, before being transformed into a mosque in 784 CE by Abd al-Rahman I, founder of the Umayyad Emirate of Córdoba. Its vast hypostyle hall, a space supported by rows of columns, features the famous red-and-white arches shown here. Today, it contains more than 850 columns, many reused from Roman and earlier Visigothic structures.",
+      "headline": "Where cultures converge",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.878994,-4.779337/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=37.878994,-4.779337;S9;Mosque-Cathedral of Córdoba, Andalusia, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Mosque-Cathedral%20of%20Cordoba&ss=ypid.YN6306x521600288&mb=37.884567~-4.792206~37.873405~-4.766457&description=Cardenal%20Herrero%20st.%201%2C%2014003%2C%20Cordoba%20%28Cordoba%29%C2%B7Iglesia%2FCatedral&cardbg=%2388979C&dt=1760617800000&tt=Mosque%E2%80%93Cathedral%20of%20Cordoba&tsts0=%2526ty%253D18%2526q%253DMosque-Cathedral%252520of%252520Cordoba%2526ss%253Dypid.YN6306x521600288%2526mb%253D37.884567~-4.792206~37.873405~-4.766457%2526description%253DCardenal%252520Herrero%252520st.%2525201%25252C%25252014003%25252C%252520Cordoba%252520%252528Cordoba%252529%2525C2%2525B7Iglesia%25252FCatedral%2526cardbg%253D%25252388979C%2526dt%253D1760617800000&tstt0=Mosque%E2%80%93Cathedral%20of%20Cordoba&cp=31.557679~-17.322803&lvl=4.095082&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Andalusia%2c+Spain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mosque+Cathedral+of+Cordoba&form=BGABWCTA7&filters=HpDate:\"20251210_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mosque+Cathedral+of+Cordoba&form=BGABWCTA11&filters=HpDate:\"20251210_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251209",
       "fullstartdate": "20251209",
       "enddate": "20251210",

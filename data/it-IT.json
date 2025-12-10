@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251210",
+      "fullstartdate": "20251210",
+      "enddate": "20251211",
+      "urlbase": "https://www.bing.com/th?id=OHR.CordobaCathedral_IT-IT0518392649_UHD.jpg",
+      "copyrighttext": "© Elena Zolotova/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=La+Grande+moschea+di+C%c3%b3rdoba+Cattedrale+di+Nostra+Signora+dell+Assunzione+&form=BGALM&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Grande Moschea e Cattedrale di Córdoba, Andalusia, Spagna",
+      "description": "Nel cuore di Córdoba, nella Spagna andalusa, il tempo si fa pietra e sorge un luogo che racconta secoli di fede e conquista: la Moschea-Cattedrale. Nata come chiesa visigota, fu trasformata in moschea nel 784 d.C. da Abd al-Rahman I, che diede vita all’Emirato omayyade. Il suo interno è un bosco di colonne, oltre 850, sormontate da archi rossi e bianchi che sembrano onde di luce. Molti di questi pilastri provengono da templi romani e visigoti, come se il passato avesse lasciato le sue ossa a sostegno del sacro.",
+      "headline": "Archi sincretici",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CordobaCathedral\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.878994,-4.779337/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.878994,-4.779337;S9;Moschea-Cattedrale, Córdoba, Andalusia, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Mosque-Cathedral%20of%20Cordoba&ss=ypid.YN6306x521600288&mb=37.884567~-4.792206~37.873405~-4.766457&description=Cardenal%20Herrero%20st.%201%2C%2014003%2C%20Cordoba%20%28Cordoba%29%C2%B7Iglesia%2FCatedral&cardbg=%2388979C&dt=1760617800000&tt=Mosque%E2%80%93Cathedral%20of%20Cordoba&tsts0=%2526ty%253D18%2526q%253DMosque-Cathedral%252520of%252520Cordoba%2526ss%253Dypid.YN6306x521600288%2526mb%253D37.884567~-4.792206~37.873405~-4.766457%2526description%253DCardenal%252520Herrero%252520st.%2525201%25252C%25252014003%25252C%252520Cordoba%252520%252528Cordoba%252529%2525C2%2525B7Iglesia%25252FCatedral%2526cardbg%253D%25252388979C%2526dt%253D1760617800000&tstt0=Mosque%E2%80%93Cathedral%20of%20Cordoba&cp=31.557679~-17.322803&lvl=4.095082&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Andalusia%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Grande+moschea+di+C%c3%b3rdoba+Cattedrale+di+Nostra+Signora+dell+Assunzione+&form=BGABWCTA7&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=La+Grande+moschea+di+C%c3%b3rdoba+Cattedrale+di+Nostra+Signora+dell+Assunzione+&form=BGABWCTA11&filters=HpDate:\"20251209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251209",
       "fullstartdate": "20251209",
       "enddate": "20251210",
