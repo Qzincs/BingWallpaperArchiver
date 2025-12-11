@@ -1,6 +1,301 @@
 {
   "images": [
     {
+      "startdate": "20251210",
+      "fullstartdate": "20251210",
+      "enddate": "20251211",
+      "urlbase": "https://www.bing.com/th?id=OHR.CastleAbruzzo_ROW4838323641_UHD.jpg",
+      "copyrighttext": "© carlo alberto conti/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Castle+of+Rocca+Calascio&form=BGALM&filters=HpDate:\"20251210_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Castle of Rocca Calascio, Abruzzo, Italy",
+      "description": "Among the silent crests of the Abruzzo Apennines in Italy, when autumn begins to touch the rocks with amber fingers, the Castle of Rocca Calascio appears like a mirage of stone and wind. At over 1,400 metres above sea level, the fortress has watched over valleys tinged with copper and gold for centuries, suspended between heaven and Earth like an ancient thought.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251210_CastleAbruzzo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 10, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Castle+of+Rocca+Calascio&form=BGABWCTA7&filters=HpDate:\"20251210_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1011,
+            "Y": 612,
+            "Width": 1337,
+            "Height": 1028,
+            "Label": "castle",
+            "ContourList": [],
+            "Contours": [
+              [
+                1132,
+                981
+              ],
+              [
+                1133,
+                1217
+              ],
+              [
+                1108,
+                1351
+              ],
+              [
+                1162,
+                1344
+              ],
+              [
+                1222,
+                1302
+              ],
+              [
+                1329,
+                1294
+              ],
+              [
+                1402,
+                1307
+              ],
+              [
+                1433,
+                1337
+              ],
+              [
+                1528,
+                1379
+              ],
+              [
+                1550,
+                1368
+              ],
+              [
+                1596,
+                1370
+              ],
+              [
+                1613,
+                1347
+              ],
+              [
+                1672,
+                1311
+              ],
+              [
+                1712,
+                1353
+              ],
+              [
+                1747,
+                1415
+              ],
+              [
+                1781,
+                1420
+              ],
+              [
+                1822,
+                1403
+              ],
+              [
+                1863,
+                1352
+              ],
+              [
+                1913,
+                1356
+              ],
+              [
+                1916,
+                1440
+              ],
+              [
+                1925,
+                1452
+              ],
+              [
+                1961,
+                1455
+              ],
+              [
+                1955,
+                1506
+              ],
+              [
+                1987,
+                1559
+              ],
+              [
+                2066,
+                1535
+              ],
+              [
+                2208,
+                1573
+              ],
+              [
+                2272,
+                1611
+              ],
+              [
+                2299,
+                1605
+              ],
+              [
+                2259,
+                1529
+              ],
+              [
+                2183,
+                1211
+              ],
+              [
+                2177,
+                949
+              ],
+              [
+                2000,
+                938
+              ],
+              [
+                1941,
+                944
+              ],
+              [
+                1927,
+                958
+              ],
+              [
+                1870,
+                952
+              ],
+              [
+                1851,
+                700
+              ],
+              [
+                1778,
+                684
+              ],
+              [
+                1709,
+                695
+              ],
+              [
+                1702,
+                720
+              ],
+              [
+                1687,
+                728
+              ],
+              [
+                1661,
+                680
+              ],
+              [
+                1629,
+                662
+              ],
+              [
+                1509,
+                644
+              ],
+              [
+                1463,
+                646
+              ],
+              [
+                1445,
+                662
+              ],
+              [
+                1430,
+                878
+              ],
+              [
+                1416,
+                915
+              ],
+              [
+                1417,
+                1145
+              ],
+              [
+                1404,
+                1134
+              ],
+              [
+                1387,
+                946
+              ],
+              [
+                1263,
+                952
+              ],
+              [
+                1222,
+                925
+              ],
+              [
+                1192,
+                953
+              ],
+              [
+                1148,
+                961
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Castle+of+Rocca+Calascio&form=BGABWCTA11&filters=HpDate:\"20251210_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251209",
       "fullstartdate": "20251209",
       "enddate": "20251210",

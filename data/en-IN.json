@@ -1,6 +1,393 @@
 {
   "images": [
     {
+      "startdate": "20251211",
+      "fullstartdate": "20251211",
+      "enddate": "20251212",
+      "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_EN-IN2485244668_UHD.jpg",
+      "copyrighttext": "© shoults/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=International+Mountain+Day&form=BGALM&filters=HpDate:\"20251210_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The summit of Mount Everest at sunset, seen from Renjo La, Nepal",
+      "description": "Every 11 December, we celebrate International Mountain Day, honouring the majestic peaks that shape our planet and the glaciers that support life. From the rolling Alps to the towering Himalayas, mountains cover nearly a quarter of Earth's land and host 15% of the world's population and nearly half of its biodiversity hotspots. Mount Everest, the world's highest peak at over 8845 metres, stands as a symbol of human aspiration and natural beauty. Its glaciers feed rivers sustaining millions, showing that mountains are more than scenery—they are lifelines.",
+      "headline": "Where the sky meets Earth",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/27.98806,86.925/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=27.98806,86.925;S9;Mount Everest&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Mount%20Everest&satid=id.sid%3Aeef2b814-77a2-459f-b274-6d13a491b0d4&vdpid=7419866682933379073&mb=27.994654~86.911614~27.981712~86.938303&cardbg=%23F98745&dt=1760617800000&tt=Mount%20Everest&tsts0=%2526ty%253D30%2526q%253DMount%252520Everest%2526satid%253Did.sid%25253Aeef2b814-77a2-459f-b274-6d13a491b0d4%2526vdpid%253D7419866682933379073%2526mb%253D27.994654~86.911614~27.981712~86.938303%2526cardbg%253D%252523F98745%2526dt%253D1760617800000&tstt0=Mount%20Everest&cp=27.735959~70.875763&lvl=4.552725&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 11, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+seen+from+Renjo+La%2c+Nepal&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=International+Mountain+Day&form=BGABWCTA7&filters=HpDate:\"20251210_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1387,
+            "Width": 3833,
+            "Height": 661,
+            "Label": "flag",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                1737
+              ],
+              [
+                0,
+                1869
+              ],
+              [
+                73,
+                1852
+              ],
+              [
+                82,
+                1812
+              ],
+              [
+                156,
+                1792
+              ],
+              [
+                131,
+                1676
+              ],
+              [
+                144,
+                1672
+              ],
+              [
+                172,
+                1716
+              ],
+              [
+                203,
+                1709
+              ],
+              [
+                211,
+                1604
+              ],
+              [
+                262,
+                1598
+              ],
+              [
+                302,
+                1568
+              ],
+              [
+                349,
+                1556
+              ],
+              [
+                352,
+                1529
+              ],
+              [
+                397,
+                1550
+              ],
+              [
+                444,
+                1548
+              ],
+              [
+                411,
+                1537
+              ],
+              [
+                517,
+                1515
+              ],
+              [
+                529,
+                1531
+              ],
+              [
+                514,
+                1557
+              ],
+              [
+                547,
+                1584
+              ],
+              [
+                579,
+                1573
+              ],
+              [
+                577,
+                1600
+              ],
+              [
+                595,
+                1607
+              ],
+              [
+                590,
+                1624
+              ],
+              [
+                620,
+                1657
+              ],
+              [
+                607,
+                1697
+              ],
+              [
+                646,
+                1725
+              ],
+              [
+                629,
+                1776
+              ],
+              [
+                655,
+                1808
+              ],
+              [
+                638,
+                1916
+              ],
+              [
+                652,
+                2042
+              ],
+              [
+                676,
+                2029
+              ],
+              [
+                665,
+                2012
+              ],
+              [
+                682,
+                1969
+              ],
+              [
+                686,
+                2033
+              ],
+              [
+                721,
+                2029
+              ],
+              [
+                773,
+                1925
+              ],
+              [
+                786,
+                1866
+              ],
+              [
+                817,
+                1873
+              ],
+              [
+                829,
+                1841
+              ],
+              [
+                1147,
+                1919
+              ],
+              [
+                1223,
+                1921
+              ],
+              [
+                1252,
+                1907
+              ],
+              [
+                1310,
+                1931
+              ],
+              [
+                1403,
+                1929
+              ],
+              [
+                1460,
+                1951
+              ],
+              [
+                1492,
+                1933
+              ],
+              [
+                1588,
+                1946
+              ],
+              [
+                1627,
+                1925
+              ],
+              [
+                1649,
+                1979
+              ],
+              [
+                1673,
+                1993
+              ],
+              [
+                1708,
+                1913
+              ],
+              [
+                1754,
+                1868
+              ],
+              [
+                1772,
+                1868
+              ],
+              [
+                1747,
+                1936
+              ],
+              [
+                1765,
+                1953
+              ],
+              [
+                1835,
+                1884
+              ],
+              [
+                1923,
+                1839
+              ],
+              [
+                1855,
+                1824
+              ],
+              [
+                1416,
+                1804
+              ],
+              [
+                1113,
+                1766
+              ],
+              [
+                862,
+                1716
+              ],
+              [
+                767,
+                1679
+              ],
+              [
+                666,
+                1599
+              ],
+              [
+                665,
+                1560
+              ],
+              [
+                652,
+                1552
+              ],
+              [
+                637,
+                1568
+              ],
+              [
+                564,
+                1489
+              ],
+              [
+                576,
+                1471
+              ],
+              [
+                565,
+                1406
+              ],
+              [
+                547,
+                1413
+              ],
+              [
+                488,
+                1386
+              ],
+              [
+                427,
+                1397
+              ],
+              [
+                367,
+                1430
+              ],
+              [
+                368,
+                1456
+              ],
+              [
+                280,
+                1538
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=International+Mountain+Day&form=BGABWCTA11&filters=HpDate:\"20251210_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251210",
       "fullstartdate": "20251210",
       "enddate": "20251211",
