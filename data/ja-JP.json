@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251212",
+      "fullstartdate": "20251212",
+      "enddate": "20251213",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_JA-JP0214216812_UHD.jpg",
+      "copyrighttext": "© DigiPub/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%81%e3%82%a2&form=BGALM&filters=HpDate:\"20251211_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "雪のような白い斑点模様のポインセチア",
+      "description": "今日 12 月 12 日は米国の「ポインセチアの日」。ポインセチアはメキシコ原産で、現地では「ノーチェ・ブエナ」と呼ばれています。1820 年代に、米国の初代メキシコ公使ジョエル・ロバーツ・ポインセットがこの植物を米国に持ち帰ったことから、彼の名前にちなんで「ポインセチア」と名付けられました。そして彼の命日である 12 月 12 日を記念して、「ポインセチアの日」と制定されました…",
+      "headline": "今日はポインセチアの日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 12 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%81%e3%82%a2&form=BGABWCTA7&filters=HpDate:\"20251211_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9d%e3%82%a4%e3%83%b3%e3%82%bb%e3%83%81%e3%82%a2&form=BGABWCTA11&filters=HpDate:\"20251211_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251211",
       "fullstartdate": "20251211",
       "enddate": "20251212",

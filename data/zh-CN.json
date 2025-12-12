@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251212",
+      "fullstartdate": "20251212",
+      "enddate": "20251213",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.SpeckledPoinsettia_ZH-CN3726763235_UHD.jpg",
+      "copyrighttext": "© DigiPub/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%80%e5%93%81%e7%ba%a2&form=BGALM&filters=HpDate:\"20251211_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "有斑点的一品红",
+      "description": "有些植物只是静静地待在窗台上，而一品红却注定要闪耀。它鲜艳夺目，红得像鲁道夫的鼻尖，是十二月的明星，甚至拥有自己的节日——12月12日的一品红日。在成为圣诞装饰之前，这种灌木经历了漫长旅程。很久以前，它生长在墨西哥的野地，阿兹特克人用它制染料、做药材。直到19世纪20年代，美国外交官乔尔·罗伯茨·波因塞特被它的魅力吸引，将它带回家。之后的故事，便是历史与植物学的篇章。",
+      "headline": "点亮节日的红色植物",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 12",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%80%e5%93%81%e7%ba%a2&form=BGABWCTA7&filters=HpDate:\"20251211_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%b8%80%e5%93%81%e7%ba%a2&form=BGABWCTA11&filters=HpDate:\"20251211_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251211",
       "fullstartdate": "20251211",
       "enddate": "20251212",

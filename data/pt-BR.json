@@ -1,6 +1,393 @@
 {
   "images": [
     {
+      "startdate": "20251211",
+      "fullstartdate": "20251211",
+      "enddate": "20251212",
+      "urlbase": "https://www.bing.com/th?id=OHR.EverestGlow_PT-BR2321595835_UHD.jpg",
+      "copyrighttext": "© shoults/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Dia+Internacional+das+Montanhas&form=BGALM&filters=HpDate:\"20251211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monte Everest ao pôr do sol, visto de Renjo La Pass, no Nepal",
+      "description": "Hoje celebramos o Dia Internacional das Montanhas, uma data dedicada a reconhecer sua importância para o nosso planeta. Elas não são apenas paisagens bonitas — são verdadeiras fontes de vida. As montanhas cobrem quase um quarto da superfície terrestre, abrigam 15% da população mundial e são refúgio para uma rica diversidade biológica, incluindo plantas, animais e microrganismos.",
+      "headline": "Onde o céu encontra a Terra",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251211_EverestGlow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dia+Internacional+das+Montanhas&form=BGABWCTA7&filters=HpDate:\"20251211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1387,
+            "Width": 3833,
+            "Height": 661,
+            "Label": "flag",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                1737
+              ],
+              [
+                0,
+                1869
+              ],
+              [
+                73,
+                1852
+              ],
+              [
+                82,
+                1812
+              ],
+              [
+                156,
+                1792
+              ],
+              [
+                131,
+                1676
+              ],
+              [
+                144,
+                1672
+              ],
+              [
+                172,
+                1716
+              ],
+              [
+                203,
+                1709
+              ],
+              [
+                211,
+                1604
+              ],
+              [
+                262,
+                1598
+              ],
+              [
+                302,
+                1568
+              ],
+              [
+                349,
+                1556
+              ],
+              [
+                352,
+                1529
+              ],
+              [
+                397,
+                1550
+              ],
+              [
+                444,
+                1548
+              ],
+              [
+                411,
+                1537
+              ],
+              [
+                517,
+                1515
+              ],
+              [
+                529,
+                1531
+              ],
+              [
+                514,
+                1557
+              ],
+              [
+                547,
+                1584
+              ],
+              [
+                579,
+                1573
+              ],
+              [
+                577,
+                1600
+              ],
+              [
+                595,
+                1607
+              ],
+              [
+                590,
+                1624
+              ],
+              [
+                620,
+                1657
+              ],
+              [
+                607,
+                1697
+              ],
+              [
+                646,
+                1725
+              ],
+              [
+                629,
+                1776
+              ],
+              [
+                655,
+                1808
+              ],
+              [
+                638,
+                1916
+              ],
+              [
+                652,
+                2042
+              ],
+              [
+                676,
+                2029
+              ],
+              [
+                665,
+                2012
+              ],
+              [
+                682,
+                1969
+              ],
+              [
+                686,
+                2033
+              ],
+              [
+                721,
+                2029
+              ],
+              [
+                773,
+                1925
+              ],
+              [
+                786,
+                1866
+              ],
+              [
+                817,
+                1873
+              ],
+              [
+                829,
+                1841
+              ],
+              [
+                1147,
+                1919
+              ],
+              [
+                1223,
+                1921
+              ],
+              [
+                1252,
+                1907
+              ],
+              [
+                1310,
+                1931
+              ],
+              [
+                1403,
+                1929
+              ],
+              [
+                1460,
+                1951
+              ],
+              [
+                1492,
+                1933
+              ],
+              [
+                1588,
+                1946
+              ],
+              [
+                1627,
+                1925
+              ],
+              [
+                1649,
+                1979
+              ],
+              [
+                1673,
+                1993
+              ],
+              [
+                1708,
+                1913
+              ],
+              [
+                1754,
+                1868
+              ],
+              [
+                1772,
+                1868
+              ],
+              [
+                1747,
+                1936
+              ],
+              [
+                1765,
+                1953
+              ],
+              [
+                1835,
+                1884
+              ],
+              [
+                1923,
+                1839
+              ],
+              [
+                1855,
+                1824
+              ],
+              [
+                1416,
+                1804
+              ],
+              [
+                1113,
+                1766
+              ],
+              [
+                862,
+                1716
+              ],
+              [
+                767,
+                1679
+              ],
+              [
+                666,
+                1599
+              ],
+              [
+                665,
+                1560
+              ],
+              [
+                652,
+                1552
+              ],
+              [
+                637,
+                1568
+              ],
+              [
+                564,
+                1489
+              ],
+              [
+                576,
+                1471
+              ],
+              [
+                565,
+                1406
+              ],
+              [
+                547,
+                1413
+              ],
+              [
+                488,
+                1386
+              ],
+              [
+                427,
+                1397
+              ],
+              [
+                367,
+                1430
+              ],
+              [
+                368,
+                1456
+              ],
+              [
+                280,
+                1538
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dia+Internacional+das+Montanhas&form=BGABWCTA11&filters=HpDate:\"20251211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251210",
       "fullstartdate": "20251210",
       "enddate": "20251211",
