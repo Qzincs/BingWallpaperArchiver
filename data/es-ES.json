@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251213",
+      "fullstartdate": "20251213",
+      "enddate": "20251214",
+      "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_ES-ES3697194370_UHD.jpg",
+      "copyrighttext": "© Ron and Patty Thomas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+de+Yosemite&form=BGALM&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Río Merced, Parque Nacional de Yosemite, California, EE. UU.",
+      "description": "Toda obra maestra necesita un trazo que la una. En el Parque Nacional de Yosemite, en Estados Unidos, ese trazo es el río Merced, que refleja acantilados de granito, bosques de pinos y cascadas en su superficie. Considerado un río salvaje y escénico, nace en lo alto de la Sierra Nevada y desciende unos 230 km hacia el valle de Yosemite antes de llegar al Valle Central de California.",
+      "headline": "Reflejos congelados",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251213_YosemiteWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+nacional+de+Yosemite&form=BGABWCTA7&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+nacional+de+Yosemite&form=BGABWCTA11&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251212",
       "fullstartdate": "20251212",
       "enddate": "20251213",

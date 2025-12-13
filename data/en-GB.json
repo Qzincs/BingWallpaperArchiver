@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251213",
+      "fullstartdate": "20251213",
+      "enddate": "20251214",
+      "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_EN-GB9932034635_UHD.jpg",
+      "copyrighttext": "© Ron and Patty Thomas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Merced+River&form=BGALM&filters=HpDate:\"20251213_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Merced River, Yosemite National Park, California, United States",
+      "description": "Every masterpiece needs a brushstroke to tie it together. For Yosemite National Park in the United States, that stroke is the Merced River—painting reflections of granite cliffs, pine forests and waterfalls across its canvas. One of the US National Wild and Scenic Rivers, this waterway begins high in the Sierra Nevada. It gathers meltwater and winds 145 miles west through Yosemite Valley into California's Central Valley.",
+      "headline": "Frozen reflections",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251213_YosemiteWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.448151,-120.622475/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=37.448151,-120.622475;S9;Merced River, Yosemite National Park, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Merced%20River%2C%20Yosemite%20National%20Park%2C%20California&ss=ypid.YN873x124322431&mb=37.751401~-119.590012~37.742799~-119.580635&description=Yosemite%20Park%20Way%2C%20Yosemite%20National%20Park%2C%20CA%2095389&cardbg=%233DB838&dt=1762273800000&tt=Merced%20River&tsts0=%2526ty%253D18%2526q%253DMerced%252520River%25252C%252520Yosemite%252520National%252520Park%25252C%252520California%2526ss%253Dypid.YN873x124322431%2526mb%253D37.751401~-119.590012~37.742799~-119.580635%2526description%253DYosemite%252520Park%252520Way%25252C%252520Yosemite%252520National%252520Park%25252C%252520CA%25252095389%2526cardbg%253D%2525233DB838%2526dt%253D1762273800000&tstt0=Merced%20River&cp=37.483122~-124.408724&lvl=5.38681&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 13, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Yosemite+National+Park%2c+California%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Merced+River&form=BGABWCTA7&filters=HpDate:\"20251213_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Merced+River&form=BGABWCTA11&filters=HpDate:\"20251213_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251212",
       "fullstartdate": "20251212",
       "enddate": "20251213",

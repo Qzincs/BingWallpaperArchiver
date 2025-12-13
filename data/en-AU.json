@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251212",
+      "fullstartdate": "20251212",
+      "enddate": "20251213",
+      "urlbase": "https://www.bing.com/th?id=OHR.SpeckledPoinsettia_ROW3840038275_UHD.jpg",
+      "copyrighttext": "© DigiPub/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Poinsettia&form=BGALM&filters=HpDate:\"20251212_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Spotted poinsettia",
+      "description": "Some plants simply sit quietly on windowsills. The poinsettia? It demands the spotlight. Bright, bold and as red as Rudolph's nose, it is native to Mexico and Central America. In Mexico, it is known as the Flores de Nochebuena (Flowers of the Holy Night), a symbol of Christmas celebrations. The poinsettia's common name comes from Joel Roberts Poinsett, the first United States minister to Mexico, who introduced it to the United States in the 1820s.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SpeckledPoinsettia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Poinsettia&form=BGABWCTA7&filters=HpDate:\"20251212_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Poinsettia&form=BGABWCTA11&filters=HpDate:\"20251212_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251211",
       "fullstartdate": "20251211",
       "enddate": "20251212",

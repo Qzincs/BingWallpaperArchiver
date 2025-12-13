@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251213",
+      "fullstartdate": "20251213",
+      "enddate": "20251214",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.YosemiteWinter_ZH-CN3824387818_UHD.jpg",
+      "copyrighttext": "© Ron and Patty Thomas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%bb%98%e5%a1%9e%e5%be%b7%e6%b2%b3&form=BGALM&filters=HpDate:\"20251212_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "默塞德河, 优胜美地国家公园, 加利福尼亚, 美国",
+      "description": "每一幅杰作都需要点睛之笔。而优胜美地的点睛之笔便是默塞德河。作为美国国家级“野生与风景河流”之一，这条水系起源于内华达山脉高处，汇集雪水，蜿蜒145英里，穿过优胜美地山谷，流入加州中央谷地。",
+      "headline": "冰封的倒影",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251213_YosemiteWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%bb%98%e5%a1%9e%e5%be%b7%e6%b2%b3&form=BGABWCTA7&filters=HpDate:\"20251212_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%bb%98%e5%a1%9e%e5%be%b7%e6%b2%b3&form=BGABWCTA11&filters=HpDate:\"20251212_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251212",
       "fullstartdate": "20251212",
       "enddate": "20251213",

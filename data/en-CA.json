@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251212",
+      "fullstartdate": "20251212",
+      "enddate": "20251213",
+      "urlbase": "https://www.bing.com/th?id=OHR.SuspensionLights_EN-CA1736218976_UHD.jpg",
+      "copyrighttext": "© Brian Caissie/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Capilano+Suspension+Bridge+Park&form=BGALM&filters=HpDate:\"20251212_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Illuminated Capilano Suspension Bridge Park, Vancouver, British Columbia",
+      "description": "Some bridges are feats of engineering; others feel more like an adventure. Vancouver's Capilano Suspension Bridge Park leans into both. The bridge spans almost 140 metres across the Capilano River and sits 70 metres above it, held by strong cables that give a gentle sway as you walk. The idea took shape in 1889, when Scottish civil engineer George Grant Mackay built the first version using hemp rope and cedar planks. Wire cables replaced the original materials in 1903, and the site slowly expanded into a popular outdoor spot cherished by many.",
+      "headline": "Bridging the gap",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251212_SuspensionLights\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.342865,-123.114899/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=49.342865,-123.114899;S9;Capilano Suspension Bridge Park, Vancouver, British Columbia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Capilano%20Suspension%20Bridge%2C%203735%20Capilano%20Rd%2C%20North%20Vancouver%2C%20BC%2C%20Canada&ss=ypid.YN1226x6515991768993275057&mb=49.349906~-123.137161~49.335825~-123.09263&description=3735%20Capilano%20Rd%2C%20North%20Vancouver%20BC%20V7R%204J1%C2%B7Bridge&cardbg=%23219AB6&dt=1763713800000&tt=Capilano%20Suspension%20Bridge%20Park&tsts0=%2526ty%253D18%2526q%253DCapilano%252520Suspension%252520Bridge%25252C%2525203735%252520Capilano%252520Rd%25252C%252520North%252520Vancouver%25252C%252520BC%25252C%252520Canada%2526ss%253Dypid.YN1226x6515991768993275057%2526mb%253D49.349906~-123.137161~49.335825~-123.09263%2526description%253D3735%252520Capilano%252520Rd%25252C%252520North%252520Vancouver%252520BC%252520V7R%2525204J1%2525C2%2525B7Bridge%2526cardbg%253D%252523219AB6%2526dt%253D1763713800000&tstt0=Capilano%20Suspension%20Bridge%20Park&cp=49.14202~-123.623353&lvl=9.40922&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 12, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Vancouver%2c+British+Columbia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capilano+Suspension+Bridge+Park&form=BGABWCTA7&filters=HpDate:\"20251212_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Capilano+Suspension+Bridge+Park&form=BGABWCTA11&filters=HpDate:\"20251212_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251211",
       "fullstartdate": "20251211",
       "enddate": "20251212",

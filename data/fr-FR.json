@@ -1,6 +1,441 @@
 {
   "images": [
     {
+      "startdate": "20251213",
+      "fullstartdate": "20251213",
+      "enddate": "20251214",
+      "urlbase": "https://www.bing.com/th?id=OHR.RacletteDay_FR-FR1340553802_UHD.jpg",
+      "copyrighttext": "© Dario Berardi/500px",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+de+la+raclette&form=BGALM&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vue sur un village de montagne illuminé, France",
+      "description": "Les toits enneigés fument doucement, l’air embaume le pin et le feu de bois, et l’on devine cette promesse dorée : la raclette. À l’intérieur des chalets, les rires se mêlent au grésillement du fromage qui fond lentement, coulant sur les pommes de terre comme un souvenir chaud d’enfance.",
+      "headline": "Aujourd'hui, on sort son appareil à raclette !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251213_RacletteDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+de+la+raclette&form=BGABWCTA7&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1622,
+            "Y": 1202,
+            "Width": 925,
+            "Height": 745,
+            "Label": "house",
+            "ContourList": [],
+            "Contours": [
+              [
+                1685,
+                1305
+              ],
+              [
+                1646,
+                1355
+              ],
+              [
+                1645,
+                1370
+              ],
+              [
+                1689,
+                1378
+              ],
+              [
+                1711,
+                1464
+              ],
+              [
+                1754,
+                1481
+              ],
+              [
+                1742,
+                1497
+              ],
+              [
+                1757,
+                1506
+              ],
+              [
+                1741,
+                1514
+              ],
+              [
+                1747,
+                1541
+              ],
+              [
+                1762,
+                1543
+              ],
+              [
+                1773,
+                1531
+              ],
+              [
+                1759,
+                1511
+              ],
+              [
+                1777,
+                1513
+              ],
+              [
+                1807,
+                1482
+              ],
+              [
+                1823,
+                1496
+              ],
+              [
+                1839,
+                1547
+              ],
+              [
+                1882,
+                1563
+              ],
+              [
+                1891,
+                1456
+              ],
+              [
+                1916,
+                1435
+              ],
+              [
+                1926,
+                1384
+              ],
+              [
+                1943,
+                1388
+              ],
+              [
+                1957,
+                1441
+              ],
+              [
+                1973,
+                1445
+              ],
+              [
+                1966,
+                1472
+              ],
+              [
+                1998,
+                1514
+              ],
+              [
+                1989,
+                1523
+              ],
+              [
+                2016,
+                1582
+              ],
+              [
+                2017,
+                1605
+              ],
+              [
+                2035,
+                1614
+              ],
+              [
+                2031,
+                1641
+              ],
+              [
+                2046,
+                1677
+              ],
+              [
+                2041,
+                1716
+              ],
+              [
+                2057,
+                1750
+              ],
+              [
+                2053,
+                1793
+              ],
+              [
+                2063,
+                1797
+              ],
+              [
+                2070,
+                1843
+              ],
+              [
+                2091,
+                1869
+              ],
+              [
+                2123,
+                1874
+              ],
+              [
+                2153,
+                1863
+              ],
+              [
+                2181,
+                1881
+              ],
+              [
+                2215,
+                1878
+              ],
+              [
+                2189,
+                1863
+              ],
+              [
+                2197,
+                1856
+              ],
+              [
+                2220,
+                1873
+              ],
+              [
+                2274,
+                1886
+              ],
+              [
+                2287,
+                1901
+              ],
+              [
+                2309,
+                1893
+              ],
+              [
+                2333,
+                1898
+              ],
+              [
+                2388,
+                1936
+              ],
+              [
+                2428,
+                1919
+              ],
+              [
+                2434,
+                1827
+              ],
+              [
+                2427,
+                1810
+              ],
+              [
+                2403,
+                1794
+              ],
+              [
+                2423,
+                1787
+              ],
+              [
+                2439,
+                1747
+              ],
+              [
+                2428,
+                1657
+              ],
+              [
+                2441,
+                1647
+              ],
+              [
+                2445,
+                1615
+              ],
+              [
+                2428,
+                1603
+              ],
+              [
+                2432,
+                1573
+              ],
+              [
+                2446,
+                1566
+              ],
+              [
+                2435,
+                1554
+              ],
+              [
+                2458,
+                1546
+              ],
+              [
+                2472,
+                1531
+              ],
+              [
+                2475,
+                1513
+              ],
+              [
+                2511,
+                1489
+              ],
+              [
+                2506,
+                1472
+              ],
+              [
+                2472,
+                1438
+              ],
+              [
+                2477,
+                1430
+              ],
+              [
+                2458,
+                1421
+              ],
+              [
+                2468,
+                1396
+              ],
+              [
+                2443,
+                1379
+              ],
+              [
+                2437,
+                1364
+              ],
+              [
+                2392,
+                1356
+              ],
+              [
+                2281,
+                1251
+              ],
+              [
+                2245,
+                1240
+              ],
+              [
+                2077,
+                1253
+              ],
+              [
+                2069,
+                1244
+              ],
+              [
+                2044,
+                1244
+              ],
+              [
+                2048,
+                1252
+              ],
+              [
+                2035,
+                1262
+              ],
+              [
+                2017,
+                1259
+              ],
+              [
+                2017,
+                1271
+              ],
+              [
+                1963,
+                1278
+              ],
+              [
+                1919,
+                1272
+              ],
+              [
+                1913,
+                1248
+              ],
+              [
+                1882,
+                1264
+              ],
+              [
+                1750,
+                1246
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+de+la+raclette&form=BGABWCTA11&filters=HpDate:\"20251212_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251212",
       "fullstartdate": "20251212",
       "enddate": "20251213",
