@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251214",
+      "fullstartdate": "20251214",
+      "enddate": "20251215",
+      "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_DE-DE8240500684_UHD.jpg",
+      "copyrighttext": "© Tim Laman/NPL/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Grauh%c3%a4ubchenmeise&form=BGALM&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Grauhäubchenmeise auf einem Kiefernast, Massachusetts, USA",
+      "description": "Auf dem heutigen Bild ist eine Grauhäubchenmeise auf einem Kiefernast in Massachusetts, USA, zu sehen – ein kleiner nordamerikanischer Vogel, der für seine graue Haube und sein neugieriges Verhalten bekannt ist. Diese Art gehört zur Familie der Meisen und zeichnet sich durch ihre bemerkenswerte Intelligenz aus. Im Herbst verstecken Grauhäubchenmeisen Hunderte von Samen an verschiedenen Orten und können sich monatelang daran erinnern, selbst unter Schnee. Ihr Gehirn vergrößert sich in dieser Zeit, um das räumliche Gedächtnis zu verbessern – ein einzigartiges Merkmal unter den Vögeln ihrer Gruppe. Ihre Nahrung besteht aus Insekten, Samen und Eicheln, und im Winter sind sie häufig an Futterstellen zu beobachten. Außerdem verfügen sie über mehr als zwanzig verschiedene Rufe und bilden bei Kälte kleine soziale Gruppen.",
+      "headline": "Der kleine Wächter",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_TuftedTitmouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14. Dez.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grauh%c3%a4ubchenmeise&form=BGABWCTA7&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grauh%c3%a4ubchenmeise&form=BGABWCTA11&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251213",
       "fullstartdate": "20251213",
       "enddate": "20251214",

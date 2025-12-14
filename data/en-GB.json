@@ -1,6 +1,373 @@
 {
   "images": [
     {
+      "startdate": "20251214",
+      "fullstartdate": "20251214",
+      "enddate": "20251215",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_UHD.jpg",
+      "copyrighttext": "© by Andrea Pucci/Moment/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Royal+Pavilion+Brighton&form=BGALM&filters=HpDate:\"20251214_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Royal Pavilion, Brighton, England",
+      "description": "No, we're not in 'Arabian Nights'—but the Royal Pavilion in Brighton makes you wonder whether someone accidentally dropped a palace from a far-off fairy tale onto the Sussex shoreline. The Prince of Wales (later George IV) came to Brighton for sea air, but he didn't just want a quiet retreat—he wanted a statement. With architect John Nash, he turned a modest villa into a grand palace full of domes and minarets. Step inside, and you'll find dragons curling across ceilings, chandeliers blooming like lotus flowers and the wallpaper leaning heavily into the decorative style of Chinoiserie. The Banqueting Room feels like it's always ready for a performance.",
+      "headline": "A dome-inant architecture",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_BrightonRoyalPavilion2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.822342,-0.137699/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.822342,-0.137699;S9;Royal Pavilion, Brighton, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Royal%20Pavilion%2C%20Brighton%2C%20England&ss=ypid.YNBFF785A0E1C89D04&mb=50.827219~-0.147693~50.817459~-0.127695&description=4-5%20Pavilion%20Buildings%2C%20Brighton%20BN1%201EE&cardbg=%23219AB6&dt=1763731800000&tt=Royal%20Pavilion&tsts0=%2526ty%253D18%2526q%253DRoyal%252520Pavilion%25252C%252520Brighton%25252C%252520England%2526ss%253Dypid.YNBFF785A0E1C89D04%2526mb%253D50.827219~-0.147693~50.817459~-0.127695%2526description%253D4-5%252520Pavilion%252520Buildings%25252C%252520Brighton%252520BN1%2525201EE%2526cardbg%253D%252523219AB6%2526dt%253D1763731800000&tstt0=Royal%20Pavilion&cp=50.710279~-0.654487&lvl=8.251402&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Brighton%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Royal+Pavilion+Brighton&form=BGABWCTA7&filters=HpDate:\"20251214_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1248,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                582
+              ],
+              [
+                0,
+                1222
+              ],
+              [
+                3839,
+                1220
+              ],
+              [
+                3839,
+                565
+              ],
+              [
+                3762,
+                495
+              ],
+              [
+                3712,
+                318
+              ],
+              [
+                3698,
+                358
+              ],
+              [
+                3622,
+                41
+              ],
+              [
+                3577,
+                213
+              ],
+              [
+                3502,
+                35
+              ],
+              [
+                3453,
+                163
+              ],
+              [
+                3487,
+                257
+              ],
+              [
+                3458,
+                603
+              ],
+              [
+                3293,
+                658
+              ],
+              [
+                3201,
+                621
+              ],
+              [
+                3212,
+                391
+              ],
+              [
+                3172,
+                321
+              ],
+              [
+                3127,
+                408
+              ],
+              [
+                3148,
+                581
+              ],
+              [
+                3067,
+                390
+              ],
+              [
+                3038,
+                586
+              ],
+              [
+                2908,
+                713
+              ],
+              [
+                2920,
+                807
+              ],
+              [
+                2840,
+                803
+              ],
+              [
+                2782,
+                636
+              ],
+              [
+                2586,
+                584
+              ],
+              [
+                2542,
+                378
+              ],
+              [
+                2498,
+                586
+              ],
+              [
+                2371,
+                672
+              ],
+              [
+                2321,
+                496
+              ],
+              [
+                2331,
+                139
+              ],
+              [
+                2287,
+                91
+              ],
+              [
+                2259,
+                156
+              ],
+              [
+                2274,
+                426
+              ],
+              [
+                2231,
+                428
+              ],
+              [
+                2152,
+                282
+              ],
+              [
+                1960,
+                147
+              ],
+              [
+                1937,
+                0
+              ],
+              [
+                1898,
+                0
+              ],
+              [
+                1865,
+                165
+              ],
+              [
+                1690,
+                282
+              ],
+              [
+                1603,
+                432
+              ],
+              [
+                1565,
+                429
+              ],
+              [
+                1591,
+                206
+              ],
+              [
+                1527,
+                113
+              ],
+              [
+                1515,
+                562
+              ],
+              [
+                1467,
+                670
+              ],
+              [
+                1344,
+                585
+              ],
+              [
+                1312,
+                389
+              ],
+              [
+                1264,
+                586
+              ],
+              [
+                1027,
+                641
+              ],
+              [
+                1008,
+                798
+              ],
+              [
+                946,
+                798
+              ],
+              [
+                939,
+                712
+              ],
+              [
+                799,
+                569
+              ],
+              [
+                772,
+                379
+              ],
+              [
+                740,
+                570
+              ],
+              [
+                684,
+                603
+              ],
+              [
+                667,
+                315
+              ],
+              [
+                625,
+                407
+              ],
+              [
+                635,
+                628
+              ],
+              [
+                577,
+                682
+              ],
+              [
+                401,
+                633
+              ],
+              [
+                351,
+                552
+              ],
+              [
+                379,
+                181
+              ],
+              [
+                337,
+                73
+              ],
+              [
+                275,
+                164
+              ],
+              [
+                277,
+                409
+              ],
+              [
+                217,
+                26
+              ],
+              [
+                144,
+                367
+              ],
+              [
+                112,
+                336
+              ],
+              [
+                80,
+                502
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Royal+Pavilion+Brighton&form=BGABWCTA11&filters=HpDate:\"20251214_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251213",
       "fullstartdate": "20251213",
       "enddate": "20251214",

@@ -1,6 +1,441 @@
 {
   "images": [
     {
+      "startdate": "20251214",
+      "fullstartdate": "20251214",
+      "enddate": "20251215",
+      "urlbase": "https://www.bing.com/th?id=OHR.RBtiger_EN-IN6114298961_UHD.jpg",
+      "copyrighttext": "© sourabh/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Royal+Bengal+tiger&form=BGALM&filters=HpDate:\"20251213_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Royal Bengal tiger",
+      "description": "Tigers reshape the landscape without being seen. A single presence, and the forest rearranges itself around it. The Royal Bengal tiger moves through India's forests, grasslands and mangrove swamps with a quiet authority that no other predator matches. It hunts with patience, not spectacle, using scent marks, sharpened senses and near-perfect night vision to stalk deer and wild boar. When it strikes, it does so with a finality that explains why no other creature in the wild dares contest its ground.",
+      "headline": "A silent force in India's wilderness",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_RBtiger\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 14, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Royal+Bengal+tiger&form=BGABWCTA7&filters=HpDate:\"20251213_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 977,
+            "Width": 3833,
+            "Height": 1179,
+            "Label": "flower",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                1401
+              ],
+              [
+                0,
+                2152
+              ],
+              [
+                3839,
+                2150
+              ],
+              [
+                3839,
+                1414
+              ],
+              [
+                3667,
+                1406
+              ],
+              [
+                3658,
+                1286
+              ],
+              [
+                3577,
+                1269
+              ],
+              [
+                3517,
+                1295
+              ],
+              [
+                3532,
+                1211
+              ],
+              [
+                3472,
+                1219
+              ],
+              [
+                3472,
+                1268
+              ],
+              [
+                3351,
+                1241
+              ],
+              [
+                3277,
+                1293
+              ],
+              [
+                3138,
+                1287
+              ],
+              [
+                3097,
+                1333
+              ],
+              [
+                3022,
+                1294
+              ],
+              [
+                2981,
+                1337
+              ],
+              [
+                2795,
+                1303
+              ],
+              [
+                2632,
+                1500
+              ],
+              [
+                2530,
+                1487
+              ],
+              [
+                2511,
+                1533
+              ],
+              [
+                2397,
+                1516
+              ],
+              [
+                2364,
+                1473
+              ],
+              [
+                2397,
+                1422
+              ],
+              [
+                2362,
+                1415
+              ],
+              [
+                2333,
+                1471
+              ],
+              [
+                2128,
+                1471
+              ],
+              [
+                2139,
+                1523
+              ],
+              [
+                2062,
+                1535
+              ],
+              [
+                2033,
+                1488
+              ],
+              [
+                1981,
+                1481
+              ],
+              [
+                1983,
+                1417
+              ],
+              [
+                2032,
+                1392
+              ],
+              [
+                1935,
+                1380
+              ],
+              [
+                1892,
+                1319
+              ],
+              [
+                1808,
+                1356
+              ],
+              [
+                1842,
+                1371
+              ],
+              [
+                1792,
+                1416
+              ],
+              [
+                1734,
+                1414
+              ],
+              [
+                1744,
+                1236
+              ],
+              [
+                1674,
+                1212
+              ],
+              [
+                1679,
+                1182
+              ],
+              [
+                1625,
+                1235
+              ],
+              [
+                1605,
+                1125
+              ],
+              [
+                1552,
+                1080
+              ],
+              [
+                1491,
+                1084
+              ],
+              [
+                1546,
+                1151
+              ],
+              [
+                1390,
+                1202
+              ],
+              [
+                1385,
+                1247
+              ],
+              [
+                1422,
+                1253
+              ],
+              [
+                1391,
+                1267
+              ],
+              [
+                1279,
+                1237
+              ],
+              [
+                1319,
+                1159
+              ],
+              [
+                1298,
+                1016
+              ],
+              [
+                1073,
+                1016
+              ],
+              [
+                1059,
+                1085
+              ],
+              [
+                973,
+                1030
+              ],
+              [
+                970,
+                1084
+              ],
+              [
+                1005,
+                1099
+              ],
+              [
+                967,
+                1118
+              ],
+              [
+                980,
+                1141
+              ],
+              [
+                1087,
+                1094
+              ],
+              [
+                1100,
+                1143
+              ],
+              [
+                1012,
+                1170
+              ],
+              [
+                967,
+                1147
+              ],
+              [
+                967,
+                1194
+              ],
+              [
+                1034,
+                1219
+              ],
+              [
+                988,
+                1253
+              ],
+              [
+                1011,
+                1279
+              ],
+              [
+                937,
+                1281
+              ],
+              [
+                905,
+                1253
+              ],
+              [
+                936,
+                1227
+              ],
+              [
+                839,
+                1200
+              ],
+              [
+                839,
+                1151
+              ],
+              [
+                760,
+                1101
+              ],
+              [
+                607,
+                1175
+              ],
+              [
+                520,
+                1145
+              ],
+              [
+                545,
+                1024
+              ],
+              [
+                486,
+                982
+              ],
+              [
+                483,
+                1066
+              ],
+              [
+                453,
+                1083
+              ],
+              [
+                484,
+                1111
+              ],
+              [
+                284,
+                1082
+              ],
+              [
+                234,
+                1134
+              ],
+              [
+                266,
+                1215
+              ],
+              [
+                245,
+                1260
+              ],
+              [
+                126,
+                1267
+              ],
+              [
+                89,
+                1348
+              ],
+              [
+                45,
+                1303
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Royal+Bengal+tiger&form=BGABWCTA11&filters=HpDate:\"20251213_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251213",
       "fullstartdate": "20251213",
       "enddate": "20251214",

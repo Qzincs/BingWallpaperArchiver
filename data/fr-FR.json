@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251214",
+      "fullstartdate": "20251214",
+      "enddate": "20251215",
+      "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_FR-FR1797167944_UHD.jpg",
+      "copyrighttext": "© Tim Laman/NPL/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=M%c3%a9sange+bicolore&form=BGALM&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Mésange bicolore perchée sur des branches de pin, Massachusetts, États-Unis",
+      "description": "Perchée sur une branche de pin recouverte de neige, cette mésange bicolore semble suspendue entre le silence et le chant. Photographiée dans le Massachusetts, aux États-Unis, elle incarne la résilience de l'hiver nord-américain. Petite, vive et curieuse, elle explore les forêts de feuillus et de conifères à la recherche de graines et d'insectes dissimulés sous l'écorce.",
+      "headline": "Sous la neige, le chant du vivant",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_TuftedTitmouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=M%c3%a9sange+bicolore&form=BGABWCTA7&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=M%c3%a9sange+bicolore&form=BGABWCTA11&filters=HpDate:\"20251213_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251213",
       "fullstartdate": "20251213",
       "enddate": "20251214",

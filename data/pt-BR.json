@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251213",
+      "fullstartdate": "20251213",
+      "enddate": "20251214",
+      "urlbase": "https://www.bing.com/th?id=OHR.YosemiteWinter_PT-BR8418720917_UHD.jpg",
+      "copyrighttext": "© Ron e Patty Thomas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rio+Merced+na+Caif%c3%b3rnia&form=BGALM&filters=HpDate:\"20251213_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rio Merced, Parque Nacional de Yosemite, Califórnia, EUA",
+      "description": "Enquanto o calor aquece dezembro no Brasil, o gelo domina paisagens no hemisfério norte. Na imagem, vemos o Rio Merced em pleno inverno, refletindo penhascos de granito e florestas silenciosas no Parque Nacional de Yosemite, nos Estados Unidos. Esse rio nasce nas altas montanhas da Serra Nevada e percorre cerca de 230 quilômetros até o Vale Central da Califórnia.",
+      "headline": "Reflexos congelados",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251213_YosemiteWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rio+Merced+na+Caif%c3%b3rnia&form=BGABWCTA7&filters=HpDate:\"20251213_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rio+Merced+na+Caif%c3%b3rnia&form=BGABWCTA11&filters=HpDate:\"20251213_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251212",
       "fullstartdate": "20251212",
       "enddate": "20251213",

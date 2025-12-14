@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251214",
+      "fullstartdate": "20251214",
+      "enddate": "20251215",
+      "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_JA-JP0548402698_UHD.jpg",
+      "copyrighttext": "© Tim Laman/NPL/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a8%e3%83%9c%e3%82%b7%e3%82%ac%e3%83%a9&form=BGALM&filters=HpDate:\"20251213_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "エボシガラ, 米国 マサチューセッツ州",
+      "description": "今日 12 月 14 日から 1 月 5 日までの間、米国では「クリスマス・バード・カウント」という、野鳥の個体数を数えるイベントが行われます。1900 年に、米国の鳥類学者フランク・チャップマンが提案して以降、毎年行われているこのイベントは、世界最古の市民参加型の科学調査として知られています…",
+      "headline": "今日からクリスマス・バード・カウント",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_TuftedTitmouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.172375,-71.605034/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=42.172375,-71.605034;S9;米国 マサチューセッツ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E7%B1%B3%E5%9B%BD%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%9E&vdpid=20543&mb=42.888794~-73.513922~41.238979~-69.919542&cardbg=%23F98745&dt=1763539200000&tt=Massachusetts%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253D%2525E7%2525B1%2525B3%2525E5%25259B%2525BD%2525E3%252583%25259E%2525E3%252582%2525B5%2525E3%252583%252581%2525E3%252583%2525A5%2525E3%252583%2525BC%2525E3%252582%2525BB%2525E3%252583%252583%2525E3%252583%252584%2525E5%2525B7%25259E%2526vdpid%253D20543%2526mb%253D42.888794~-73.513922~41.238979~-69.919542%2526cardbg%253D%252523F98745%2526dt%253D1763539200000&tstt0=Massachusetts%2C%20United%20States&cp=42.069382~-72.689939&lvl=8.486888&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%9e%e3%82%b5%e3%83%81%e3%83%a5%e3%83%bc%e3%82%bb%e3%83%83%e3%83%84%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a8%e3%83%9c%e3%82%b7%e3%82%ac%e3%83%a9&form=BGABWCTA7&filters=HpDate:\"20251213_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a8%e3%83%9c%e3%82%b7%e3%82%ac%e3%83%a9&form=BGABWCTA11&filters=HpDate:\"20251213_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251213",
       "fullstartdate": "20251213",
       "enddate": "20251214",
