@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251214",
+      "fullstartdate": "20251214",
+      "enddate": "20251215",
+      "urlbase": "https://www.bing.com/th?id=OHR.TuftedTitmouse_PT-BR8020048731_UHD.jpg",
+      "copyrighttext": "© Tim Laman/NPL/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Chapim-de-penacho-cinzento&form=BGALM&filters=HpDate:\"20251214_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chapim-de-penacho-cinzento pousado em ramos de pinheiro, Massachusetts, EUA",
+      "description": "Você já parou para pensar que contar aves pode mudar o futuro da natureza? Essa prática simples é uma poderosa ferramenta para compreender nosso planeta. Ao registrar espécies, descobrimos se populações estão crescendo ou diminuindo, mapeamos rotas migratórias e identificamos sinais de mudanças nos ecossistemas. Mais do que ciência, é uma forma de aproximar pessoas da conservação e gerar dados que orientam políticas ambientais. Na imagem de hoje, vemos o chapim-de-penacho-cinzento, comum na América do Norte, mas ausente no Brasil. Por aqui, temos aves igualmente encantadoras, como o caboclinho-de-chapéu-cinzento, que vive no sul do país.",
+      "headline": "A importância de contar aves",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251214_TuftedTitmouse\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chapim-de-penacho-cinzento&form=BGABWCTA7&filters=HpDate:\"20251214_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chapim-de-penacho-cinzento&form=BGABWCTA11&filters=HpDate:\"20251214_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251213",
       "fullstartdate": "20251213",
       "enddate": "20251214",
