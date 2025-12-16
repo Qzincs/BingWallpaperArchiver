@@ -1,6 +1,589 @@
 {
   "images": [
     {
+      "startdate": "20251215",
+      "fullstartdate": "20251215",
+      "enddate": "20251216",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmsterdamLights_PT-BR5962118640_UHD.jpg",
+      "copyrighttext": "© Amith Nag Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Amsterd%c3%a3%2c+Pa%c3%adses+Baixos&form=BGALM&filters=HpDate:\"20251215_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Decorações luminosas no canal Spiegelgracht, Amsterdã, Países Baixos",
+      "description": "Já pensou como os canais influenciaram a forma como as cidades foram planejadas e construídas? Há milhares de anos, as pessoas criavam percursos para levar mercadorias, controlar a água e ligar diferentes regiões. Esse costume começou na Mesopotâmia, onde hoje ficam países como Iraque e partes da Síria. Mais tarde, na Europa medieval, essas rotas transformaram Veneza, na Itália, em um grande centro comercial. Os Países Baixos foram além: no século XVII, planejaram vias aquáticas que moldaram Amsterdã.",
+      "headline": "Águas tranquilas, luzes brilhantes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251215_AmsterdamLights\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Amsterd%c3%a3%2c+Pa%c3%adses+Baixos&form=BGABWCTA7&filters=HpDate:\"20251215_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1654,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                813,
+                12
+              ],
+              [
+                922,
+                77
+              ],
+              [
+                952,
+                69
+              ],
+              [
+                957,
+                113
+              ],
+              [
+                1013,
+                136
+              ],
+              [
+                989,
+                182
+              ],
+              [
+                1015,
+                198
+              ],
+              [
+                966,
+                214
+              ],
+              [
+                986,
+                265
+              ],
+              [
+                965,
+                265
+              ],
+              [
+                958,
+                319
+              ],
+              [
+                1132,
+                371
+              ],
+              [
+                1246,
+                456
+              ],
+              [
+                1267,
+                653
+              ],
+              [
+                1315,
+                667
+              ],
+              [
+                1282,
+                677
+              ],
+              [
+                1342,
+                751
+              ],
+              [
+                1373,
+                734
+              ],
+              [
+                1387,
+                794
+              ],
+              [
+                1529,
+                805
+              ],
+              [
+                1501,
+                804
+              ],
+              [
+                1504,
+                840
+              ],
+              [
+                1553,
+                836
+              ],
+              [
+                1642,
+                886
+              ],
+              [
+                1666,
+                704
+              ],
+              [
+                1732,
+                703
+              ],
+              [
+                1729,
+                805
+              ],
+              [
+                1786,
+                959
+              ],
+              [
+                1907,
+                924
+              ],
+              [
+                1888,
+                915
+              ],
+              [
+                1913,
+                881
+              ],
+              [
+                1859,
+                864
+              ],
+              [
+                1913,
+                865
+              ],
+              [
+                1889,
+                847
+              ],
+              [
+                1934,
+                822
+              ],
+              [
+                1908,
+                801
+              ],
+              [
+                1975,
+                796
+              ],
+              [
+                1983,
+                711
+              ],
+              [
+                2032,
+                703
+              ],
+              [
+                2059,
+                741
+              ],
+              [
+                2150,
+                699
+              ],
+              [
+                2166,
+                724
+              ],
+              [
+                2202,
+                712
+              ],
+              [
+                2189,
+                662
+              ],
+              [
+                2214,
+                645
+              ],
+              [
+                2189,
+                628
+              ],
+              [
+                2221,
+                611
+              ],
+              [
+                2163,
+                599
+              ],
+              [
+                2172,
+                628
+              ],
+              [
+                2143,
+                648
+              ],
+              [
+                2128,
+                611
+              ],
+              [
+                2203,
+                569
+              ],
+              [
+                2135,
+                581
+              ],
+              [
+                2116,
+                566
+              ],
+              [
+                2145,
+                550
+              ],
+              [
+                2069,
+                527
+              ],
+              [
+                2144,
+                522
+              ],
+              [
+                2128,
+                493
+              ],
+              [
+                2147,
+                483
+              ],
+              [
+                2070,
+                459
+              ],
+              [
+                2205,
+                456
+              ],
+              [
+                2203,
+                398
+              ],
+              [
+                2163,
+                397
+              ],
+              [
+                2175,
+                426
+              ],
+              [
+                2144,
+                446
+              ],
+              [
+                2103,
+                428
+              ],
+              [
+                2146,
+                417
+              ],
+              [
+                2040,
+                396
+              ],
+              [
+                2032,
+                422
+              ],
+              [
+                1985,
+                398
+              ],
+              [
+                1972,
+                457
+              ],
+              [
+                1949,
+                443
+              ],
+              [
+                1962,
+                398
+              ],
+              [
+                1919,
+                395
+              ],
+              [
+                1964,
+                387
+              ],
+              [
+                1947,
+                375
+              ],
+              [
+                1970,
+                361
+              ],
+              [
+                2011,
+                404
+              ],
+              [
+                2076,
+                371
+              ],
+              [
+                2147,
+                386
+              ],
+              [
+                2128,
+                376
+              ],
+              [
+                2147,
+                348
+              ],
+              [
+                2056,
+                333
+              ],
+              [
+                2087,
+                317
+              ],
+              [
+                2074,
+                304
+              ],
+              [
+                2147,
+                319
+              ],
+              [
+                2116,
+                299
+              ],
+              [
+                2146,
+                281
+              ],
+              [
+                2070,
+                262
+              ],
+              [
+                2086,
+                248
+              ],
+              [
+                2067,
+                240
+              ],
+              [
+                2145,
+                248
+              ],
+              [
+                2116,
+                229
+              ],
+              [
+                2145,
+                214
+              ],
+              [
+                2070,
+                194
+              ],
+              [
+                2088,
+                181
+              ],
+              [
+                2068,
+                172
+              ],
+              [
+                2123,
+                191
+              ],
+              [
+                2145,
+                152
+              ],
+              [
+                2179,
+                191
+              ],
+              [
+                2196,
+                168
+              ],
+              [
+                2290,
+                188
+              ],
+              [
+                2287,
+                269
+              ],
+              [
+                2333,
+                207
+              ],
+              [
+                2312,
+                189
+              ],
+              [
+                2364,
+                173
+              ],
+              [
+                2314,
+                172
+              ],
+              [
+                2317,
+                58
+              ],
+              [
+                2272,
+                85
+              ],
+              [
+                2226,
+                61
+              ],
+              [
+                2217,
+                115
+              ],
+              [
+                2250,
+                133
+              ],
+              [
+                2189,
+                124
+              ],
+              [
+                2207,
+                80
+              ],
+              [
+                2177,
+                59
+              ],
+              [
+                2206,
+                46
+              ],
+              [
+                2203,
+                11
+              ],
+              [
+                2154,
+                12
+              ],
+              [
+                2177,
+                57
+              ],
+              [
+                2152,
+                118
+              ],
+              [
+                2129,
+                106
+              ],
+              [
+                2140,
+                11
+              ],
+              [
+                2094,
+                12
+              ],
+              [
+                2112,
+                21
+              ],
+              [
+                2092,
+                33
+              ],
+              [
+                2051,
+                10
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Amsterd%c3%a3%2c+Pa%c3%adses+Baixos&form=BGABWCTA11&filters=HpDate:\"20251215_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251214",
       "fullstartdate": "20251214",
       "enddate": "20251215",
