@@ -1,6 +1,301 @@
 {
   "images": [
     {
+      "startdate": "20251217",
+      "fullstartdate": "20251217",
+      "enddate": "20251218",
+      "urlbase": "https://www.bing.com/th?id=OHR.FrostySquirrel_DE-DE9962417509_UHD.jpg",
+      "copyrighttext": "© Michael_Conrad/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGALM&filters=HpDate:\"20251216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eurasisches Eichhörnchen in Northumberland, England",
+      "description": "Auf dem heutigen Bild ist ein Eurasisches Eichhörnchen in den Wäldern von Northumberland in England zu sehen. Dieses kleine Nagetier ist berühmt für seine Beweglichkeit und seine Fähigkeit, mit erstaunlicher Anmut von Ast zu Ast zu springen. Interessanterweise verändert sich sein Fell je nach Jahreszeit, im Winter trägt es dunklere Töne und Ohrpinsel, die ihm ein besonders charmantes Aussehen verleihen. Außerdem ist es ein wahrer Stratege, es versteckt Samen und Früchte an verschiedenen Orten, um den Winter zu überstehen, vergisst jedoch manchmal, wo es sie abgelegt hat, und trägt so zur Regeneration des Waldes bei. Ein unerwarteter Helfer der Natur!",
+      "headline": "Kleiner Wächter des Waldes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251217_FrostySquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.16667,-2/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=55.16667,-2;S9;Northumberland, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Northumberland%2C%20England&satid=id.sid%3A86a3fee3-ba4c-f565-1ce4-449912831e53&vdpid=7395596&mb=55.811676~-3.847908~54.78236~-0.302037&cardbg=%23F98745&dt=1761921000000&tt=Northumberland%2C%20England%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DNorthumberland%25252C%252520England%2526satid%253Did.sid%25253A86a3fee3-ba4c-f565-1ce4-449912831e53%2526vdpid%253D7395596%2526mb%253D55.811676~-3.847908~54.78236~-0.302037%2526cardbg%253D%252523F98745%2526dt%253D1761921000000&tstt0=Northumberland%2C%20England%2C%20United%20Kingdom&cp=52.621799~-8.967948&lvl=4.8168817&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17. Dez.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGABWCTA7&filters=HpDate:\"20251216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1710,
+            "Y": 564,
+            "Width": 1713,
+            "Height": 1592,
+            "Label": "squirrel",
+            "ContourList": [],
+            "Contours": [
+              [
+                1856,
+                667
+              ],
+              [
+                1845,
+                805
+              ],
+              [
+                1791,
+                864
+              ],
+              [
+                1752,
+                941
+              ],
+              [
+                1737,
+                1084
+              ],
+              [
+                1725,
+                1126
+              ],
+              [
+                1751,
+                1176
+              ],
+              [
+                1732,
+                1173
+              ],
+              [
+                1702,
+                1188
+              ],
+              [
+                1679,
+                1244
+              ],
+              [
+                1687,
+                1269
+              ],
+              [
+                1732,
+                1301
+              ],
+              [
+                1804,
+                1306
+              ],
+              [
+                1857,
+                1353
+              ],
+              [
+                1871,
+                1379
+              ],
+              [
+                1957,
+                1404
+              ],
+              [
+                1972,
+                1404
+              ],
+              [
+                2032,
+                1339
+              ],
+              [
+                2062,
+                1341
+              ],
+              [
+                2106,
+                1368
+              ],
+              [
+                2148,
+                1375
+              ],
+              [
+                2225,
+                1355
+              ],
+              [
+                2214,
+                1286
+              ],
+              [
+                2227,
+                1272
+              ],
+              [
+                2267,
+                1267
+              ],
+              [
+                2281,
+                1214
+              ],
+              [
+                2307,
+                1202
+              ],
+              [
+                2378,
+                1228
+              ],
+              [
+                2414,
+                1177
+              ],
+              [
+                2421,
+                1150
+              ],
+              [
+                2453,
+                1151
+              ],
+              [
+                2467,
+                1185
+              ],
+              [
+                2457,
+                1208
+              ],
+              [
+                2457,
+                1243
+              ],
+              [
+                2471,
+                1252
+              ],
+              [
+                2476,
+                1281
+              ],
+              [
+                2503,
+                1278
+              ],
+              [
+                2524,
+                1167
+              ],
+              [
+                2585,
+                1110
+              ],
+              [
+                2567,
+                1076
+              ],
+              [
+                2542,
+                1052
+              ],
+              [
+                2487,
+                1015
+              ],
+              [
+                2394,
+                982
+              ],
+              [
+                2286,
+                962
+              ],
+              [
+                2226,
+                923
+              ],
+              [
+                2050,
+                728
+              ],
+              [
+                2038,
+                680
+              ],
+              [
+                2024,
+                662
+              ],
+              [
+                2022,
+                618
+              ],
+              [
+                2012,
+                595
+              ],
+              [
+                2002,
+                590
+              ],
+              [
+                1972,
+                615
+              ],
+              [
+                1927,
+                681
+              ],
+              [
+                1897,
+                649
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGABWCTA11&filters=HpDate:\"20251216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251216",
       "fullstartdate": "20251216",
       "enddate": "20251217",

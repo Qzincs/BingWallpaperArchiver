@@ -1,6 +1,249 @@
 {
   "images": [
     {
+      "startdate": "20251216",
+      "fullstartdate": "20251216",
+      "enddate": "20251217",
+      "urlbase": "https://www.bing.com/th?id=OHR.PerugiaStreet_ROW4410274538_UHD.jpg",
+      "copyrighttext": "© Sean Pavone/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Perugia+Medieval+Aquaduct&form=BGALM&filters=HpDate:\"20251216_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Medieval Aqueduct, Perugia, Italy",
+      "description": "In the Italian region of Umbria, Perugia reveals itself slowly, like a page from another era turning in the wind. Its stones carry memories of Etruscans, medieval rulers, artists and generations of students. The city unfolds through steep lanes, mesmerising viewpoints and corners that feel almost painted.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251216_PerugiaStreet\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 16, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Perugia+Medieval+Aquaduct&form=BGABWCTA7&filters=HpDate:\"20251216_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 1609,
+            "Height": 2155,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                1532,
+                0
+              ],
+              [
+                1438,
+                0
+              ],
+              [
+                1432,
+                16
+              ],
+              [
+                1392,
+                20
+              ],
+              [
+                1404,
+                32
+              ],
+              [
+                1372,
+                0
+              ],
+              [
+                1328,
+                17
+              ],
+              [
+                1322,
+                0
+              ],
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                2151
+              ],
+              [
+                37,
+                2147
+              ],
+              [
+                57,
+                2121
+              ],
+              [
+                61,
+                1957
+              ],
+              [
+                233,
+                1955
+              ],
+              [
+                289,
+                1933
+              ],
+              [
+                448,
+                1773
+              ],
+              [
+                547,
+                1703
+              ],
+              [
+                624,
+                1683
+              ],
+              [
+                666,
+                1625
+              ],
+              [
+                700,
+                1607
+              ],
+              [
+                667,
+                1624
+              ],
+              [
+                666,
+                1598
+              ],
+              [
+                718,
+                1587
+              ],
+              [
+                1164,
+                1028
+              ],
+              [
+                1206,
+                936
+              ],
+              [
+                1237,
+                926
+              ],
+              [
+                1275,
+                881
+              ],
+              [
+                1264,
+                872
+              ],
+              [
+                1313,
+                839
+              ],
+              [
+                1367,
+                754
+              ],
+              [
+                1397,
+                663
+              ],
+              [
+                1387,
+                653
+              ],
+              [
+                1454,
+                629
+              ],
+              [
+                1417,
+                619
+              ],
+              [
+                1386,
+                577
+              ],
+              [
+                1437,
+                571
+              ],
+              [
+                1446,
+                604
+              ],
+              [
+                1477,
+                615
+              ],
+              [
+                1541,
+                595
+              ],
+              [
+                1555,
+                145
+              ],
+              [
+                1578,
+                129
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Perugia+Medieval+Aquaduct&form=BGABWCTA11&filters=HpDate:\"20251216_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251215",
       "fullstartdate": "20251215",
       "enddate": "20251216",
