@@ -1,6 +1,313 @@
 {
   "images": [
     {
+      "startdate": "20251218",
+      "fullstartdate": "20251218",
+      "enddate": "20251219",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.CathedralValley_ZH-CN5237441521_UHD.jpg",
+      "copyrighttext": "© Austin Cronnelly/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9c%86%e9%a1%b6%e7%a4%81%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20251217_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "太阳神庙，圆顶礁国家公园, 犹他州, 美国",
+      "description": "数百万年的岩层沉积，伴随地壳的巨大弯曲，造就了这片沙漠独一无二的地质窗口。这里是犹他州的圆顶礁国家公园，砂岩峭壁与峡谷像一本打开的历史书，记录着地球的沧桑。1971年12月18日，它被正式列为国家公园。今日的图片聚焦大教堂谷的砂岩巨石，其中包括壮丽的“太阳神殿”，彰显这片景观的非凡魅力。",
+      "headline": "犹他州的时光层叠",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251218_CathedralValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 18",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9c%86%e9%a1%b6%e7%a4%81%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20251217_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2064,
+            "Y": 182,
+            "Width": 1036,
+            "Height": 1065,
+            "Label": "skyscraper",
+            "ContourList": [],
+            "Contours": [
+              [
+                2707,
+                218
+              ],
+              [
+                2659,
+                197
+              ],
+              [
+                2636,
+                207
+              ],
+              [
+                2600,
+                241
+              ],
+              [
+                2560,
+                240
+              ],
+              [
+                2545,
+                282
+              ],
+              [
+                2527,
+                302
+              ],
+              [
+                2512,
+                306
+              ],
+              [
+                2496,
+                284
+              ],
+              [
+                2437,
+                306
+              ],
+              [
+                2425,
+                333
+              ],
+              [
+                2397,
+                358
+              ],
+              [
+                2369,
+                421
+              ],
+              [
+                2341,
+                443
+              ],
+              [
+                2292,
+                554
+              ],
+              [
+                2262,
+                586
+              ],
+              [
+                2226,
+                679
+              ],
+              [
+                2183,
+                889
+              ],
+              [
+                2152,
+                902
+              ],
+              [
+                2133,
+                930
+              ],
+              [
+                2097,
+                1118
+              ],
+              [
+                2092,
+                1194
+              ],
+              [
+                2176,
+                1193
+              ],
+              [
+                2250,
+                1150
+              ],
+              [
+                2302,
+                1147
+              ],
+              [
+                2321,
+                1133
+              ],
+              [
+                2360,
+                1125
+              ],
+              [
+                2390,
+                1127
+              ],
+              [
+                2448,
+                1150
+              ],
+              [
+                2469,
+                1168
+              ],
+              [
+                2467,
+                1178
+              ],
+              [
+                2511,
+                1184
+              ],
+              [
+                2527,
+                1178
+              ],
+              [
+                2534,
+                1185
+              ],
+              [
+                2531,
+                1210
+              ],
+              [
+                2541,
+                1217
+              ],
+              [
+                2637,
+                1188
+              ],
+              [
+                2723,
+                1183
+              ],
+              [
+                2792,
+                1149
+              ],
+              [
+                2810,
+                1151
+              ],
+              [
+                2837,
+                1178
+              ],
+              [
+                2901,
+                1212
+              ],
+              [
+                2932,
+                1196
+              ],
+              [
+                2963,
+                1195
+              ],
+              [
+                2977,
+                1180
+              ],
+              [
+                2992,
+                1186
+              ],
+              [
+                3020,
+                1177
+              ],
+              [
+                3000,
+                1165
+              ],
+              [
+                2990,
+                1144
+              ],
+              [
+                2997,
+                1122
+              ],
+              [
+                2992,
+                1016
+              ],
+              [
+                2930,
+                890
+              ],
+              [
+                2903,
+                708
+              ],
+              [
+                2874,
+                613
+              ],
+              [
+                2867,
+                542
+              ],
+              [
+                2834,
+                409
+              ],
+              [
+                2775,
+                291
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9c%86%e9%a1%b6%e7%a4%81%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20251217_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251217",
       "fullstartdate": "20251217",
       "enddate": "20251218",

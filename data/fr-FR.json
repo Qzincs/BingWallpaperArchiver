@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251218",
+      "fullstartdate": "20251218",
+      "enddate": "20251219",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_FR-FR0647392410_UHD.jpg",
+      "copyrighttext": "© artas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=No%c3%abl&form=BGALM&filters=HpDate:\"20251217_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Étoiles de Herrnhut, Allemagne",
+      "description": "C'est en Saxe, dans le sud-est de l'Allemagne, qu'est née une tradition qui a traversé les frontières. Au début du XIXe siècle, dans un internat morave de Niesky, un professeur proposa à ses élèves un exercice de géométrie : créer une étoile en papier. De cette idée est née la première « Herrnhuter Stern », devenue le symbole de l’Avent. Plus tard, à Herrnhut, des artisans fondèrent une manufacture qui perpétue encore aujourd'hui ce savoir-faire. Les étoiles, désormais à vingt-cinq pointes, sont façonnées en papier ou en plastique et se déclinent en rouge, blanc ou or.",
+      "headline": "Herrnhut, le berceau des étoiles de Noël",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251218_StarLanterns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=No%c3%abl&form=BGABWCTA7&filters=HpDate:\"20251217_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=No%c3%abl&form=BGABWCTA11&filters=HpDate:\"20251217_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251217",
       "fullstartdate": "20251217",
       "enddate": "20251218",
