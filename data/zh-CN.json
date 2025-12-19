@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251219",
+      "fullstartdate": "20251219",
+      "enddate": "20251220",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.BormioItaly_ZH-CN5397313772_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%8d%9a%e5%b0%94%e7%b1%b3%e5%a5%a5&form=BGALM&filters=HpDate:\"20251218_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "博尔米奥的雪景，伦巴第大区，意大利",
+      "description": "博尔米奥位于意大利北部伦巴第大区的阿尔卑斯山中，靠近斯泰尔维奥山口。这片地势险峻的山地数百年来连接着不同山谷中的社区，塑造了当地人生活与迁徙的方式。今日图片中的冬季景观，正映照出这座高山小镇的地理特征与它与群峰之间延续千年的纽带。",
+      "headline": "高山的悠久历史",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 19",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%8d%9a%e5%b0%94%e7%b1%b3%e5%a5%a5&form=BGABWCTA7&filters=HpDate:\"20251218_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%84%8f%e5%a4%a7%e5%88%a9%e5%8d%9a%e5%b0%94%e7%b1%b3%e5%a5%a5&form=BGABWCTA11&filters=HpDate:\"20251218_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251218",
       "fullstartdate": "20251218",
       "enddate": "20251219",

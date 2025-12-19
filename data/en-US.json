@@ -1,6 +1,313 @@
 {
   "images": [
     {
+      "startdate": "20251218",
+      "fullstartdate": "20251218",
+      "enddate": "20251219",
+      "urlbase": "https://www.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg",
+      "copyrighttext": "© Austin Cronnelly/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=BGALM&filters=HpDate:\"20251218_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Temple of the Sun, Capitol Reef National Park, Utah",
+      "description": "Rock layers formed over millions of years and a massive bend in the Earth's crust give this desert a rare window into geologic history. This is Capitol Reef National Park in Utah, where sandstone cliffs and canyons preserve a striking record of the planet's past. December 18 marks the anniversary of its designation as a national park in 1971. Today's featured image highlights the sandstone monoliths of Cathedral Valley, including the Temple of the Sun, part of this extraordinary, protected landscape.",
+      "headline": "Layers of time in Utah",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251218_CathedralValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.08773,-111.135483/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=38.08773,-111.135483;S9;Capitol Reef National Park&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Capitol%20Reef%20National%20Park&vdpid=5084680481597816833&ss=ypid.YNF5DAFAE7454F11CE&mb=38.534794~-111.753415~37.598179~-110.355716&description=UT&cardbg=%2361A781&dt=1761921000000&tt=Capitol%20Reef%20National%20Park&tsts0=%2526ty%253D30%2526q%253DCapitol%252520Reef%252520National%252520Park%2526vdpid%253D5084680481597816833%2526ss%253Dypid.YNF5DAFAE7454F11CE%2526mb%253D38.534794~-111.753415~37.598179~-110.355716%2526description%253DUT%2526cardbg%253D%25252361A781%2526dt%253D1761921000000&tstt0=Capitol%20Reef%20National%20Park&cp=37.120505~-114.137148&lvl=6.7289095&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 18, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Capitol+Reef+National+Park%2c+Utah&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=BGABWCTA7&filters=HpDate:\"20251218_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2064,
+            "Y": 182,
+            "Width": 1036,
+            "Height": 1065,
+            "Label": "skyscraper",
+            "ContourList": [],
+            "Contours": [
+              [
+                2707,
+                218
+              ],
+              [
+                2659,
+                197
+              ],
+              [
+                2636,
+                207
+              ],
+              [
+                2600,
+                241
+              ],
+              [
+                2560,
+                240
+              ],
+              [
+                2545,
+                282
+              ],
+              [
+                2527,
+                302
+              ],
+              [
+                2512,
+                306
+              ],
+              [
+                2496,
+                284
+              ],
+              [
+                2437,
+                306
+              ],
+              [
+                2425,
+                333
+              ],
+              [
+                2397,
+                358
+              ],
+              [
+                2369,
+                421
+              ],
+              [
+                2341,
+                443
+              ],
+              [
+                2292,
+                554
+              ],
+              [
+                2262,
+                586
+              ],
+              [
+                2226,
+                679
+              ],
+              [
+                2183,
+                889
+              ],
+              [
+                2152,
+                902
+              ],
+              [
+                2133,
+                930
+              ],
+              [
+                2097,
+                1118
+              ],
+              [
+                2092,
+                1194
+              ],
+              [
+                2176,
+                1193
+              ],
+              [
+                2250,
+                1150
+              ],
+              [
+                2302,
+                1147
+              ],
+              [
+                2321,
+                1133
+              ],
+              [
+                2360,
+                1125
+              ],
+              [
+                2390,
+                1127
+              ],
+              [
+                2448,
+                1150
+              ],
+              [
+                2469,
+                1168
+              ],
+              [
+                2467,
+                1178
+              ],
+              [
+                2511,
+                1184
+              ],
+              [
+                2527,
+                1178
+              ],
+              [
+                2534,
+                1185
+              ],
+              [
+                2531,
+                1210
+              ],
+              [
+                2541,
+                1217
+              ],
+              [
+                2637,
+                1188
+              ],
+              [
+                2723,
+                1183
+              ],
+              [
+                2792,
+                1149
+              ],
+              [
+                2810,
+                1151
+              ],
+              [
+                2837,
+                1178
+              ],
+              [
+                2901,
+                1212
+              ],
+              [
+                2932,
+                1196
+              ],
+              [
+                2963,
+                1195
+              ],
+              [
+                2977,
+                1180
+              ],
+              [
+                2992,
+                1186
+              ],
+              [
+                3020,
+                1177
+              ],
+              [
+                3000,
+                1165
+              ],
+              [
+                2990,
+                1144
+              ],
+              [
+                2997,
+                1122
+              ],
+              [
+                2992,
+                1016
+              ],
+              [
+                2930,
+                890
+              ],
+              [
+                2903,
+                708
+              ],
+              [
+                2874,
+                613
+              ],
+              [
+                2867,
+                542
+              ],
+              [
+                2834,
+                409
+              ],
+              [
+                2775,
+                291
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Capitol+Reef+National+Park&form=BGABWCTA11&filters=HpDate:\"20251218_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251217",
       "fullstartdate": "20251217",
       "enddate": "20251218",

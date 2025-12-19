@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251219",
+      "fullstartdate": "20251219",
+      "enddate": "20251220",
+      "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_ES-ES9743879453_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bormio+Italia&form=BGALM&filters=HpDate:\"20251218_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Paisaje nevado en Bormio, Lombardía, Italia",
+      "description": "Bormio es una localidad de montaña situada en Lombardía, al norte de Italia, enclavada en los Alpes y muy cerca del paso de Stelvio. Esta posición ha unido durante siglos a las comunidades de los valles alpinos y ha marcado su forma de vida, sus rutas y su historia. Su paisaje invernal refleja la altitud del entorno y el estrecho vínculo de la ciudad con los picos que la rodean.",
+      "headline": "Altas montañas, historia profunda",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bormio+Italia&form=BGABWCTA7&filters=HpDate:\"20251218_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bormio+Italia&form=BGABWCTA11&filters=HpDate:\"20251218_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251218",
       "fullstartdate": "20251218",
       "enddate": "20251219",
