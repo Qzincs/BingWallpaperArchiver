@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251219",
+      "fullstartdate": "20251219",
+      "enddate": "20251220",
+      "urlbase": "https://www.bing.com/th?id=OHR.MonaValePool_PT-BR3761325411_UHD.jpg",
+      "copyrighttext": "© jamenpercy/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Austr%c3%a1lia&form=BGALM&filters=HpDate:\"20251219_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Mona Vale Rockpool, Sydney, Austrália",
+      "description": "Já imaginou ter uma piscina colada ao oceano, onde as ondas batem nas paredes e a água permanece sempre calma? Conheça a Mona Vale Rockpool, nossa imagem de hoje. Em Sydney, na Austrália, esse paradoxo aquático cria um contraste incrível: do lado de fora, o mar é agitado; dentro das paredes, a água é tranquila e convidativa. Localizada entre duas praias, Mona Vale parece natural, mas foi construída na década de 1930 como parte de um programa para gerar empregos. Com o tempo, recebeu melhorias e hoje tem mais de 30 metros de comprimento, além de uma piscina menor para crianças.",
+      "headline": "Entre o mar e a calmaria",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_MonaValePool\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Austr%c3%a1lia&form=BGABWCTA7&filters=HpDate:\"20251219_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Austr%c3%a1lia&form=BGABWCTA11&filters=HpDate:\"20251219_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251218",
       "fullstartdate": "20251218",
       "enddate": "20251219",

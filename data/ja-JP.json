@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251220",
+      "fullstartdate": "20251220",
+      "enddate": "20251221",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_JA-JP2184605933_UHD.jpg",
+      "copyrighttext": "© artas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Paper+Christmas+star+lanterns&form=BGALM&filters=HpDate:\"20251219_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "星型のランプ, ドイツ",
+      "description": "クリスマスが近づくにつれて、ヨーロッパの街では星型のランプが姿を見せ始めます。このランプは、紙やプラスチックなどの素材で作られた星の形の中に電球や LED を入れて仕上げるもので、窓辺やバルコニー、クリスマスマーケットの屋台などに飾られ、幻想的な雰囲気を演出します…",
+      "headline": "クリスマスのイルミネーション装飾",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_StarLanterns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51,10/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51,10;S9;ドイツ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%83%89%E3%82%A4%E3%83%84&satid=id.sid%3A75c62d8e-1449-4e4d-b188-d9e88f878dd9&vdpid=94&mb=55.064201~1.102179~47.275776~19.802318&cardbg=%23F98745&tt=%E3%83%89%E3%82%A4%E3%83%84&tsts0=%2526ty%253D30%2526q%253D%2525E3%252583%252589%2525E3%252582%2525A4%2525E3%252583%252584%2526satid%253Did.sid%25253A75c62d8e-1449-4e4d-b188-d9e88f878dd9%2526vdpid%253D94%2526mb%253D55.064201~1.102179~47.275776~19.802318%2526cardbg%253D%252523F98745&tstt0=%E3%83%89%E3%82%A4%E3%83%84&cp=45.922392~-24.644284&lvl=3.0133214&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%89%e3%82%a4%e3%83%84+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Paper+Christmas+star+lanterns&form=BGABWCTA7&filters=HpDate:\"20251219_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Paper+Christmas+star+lanterns&form=BGABWCTA11&filters=HpDate:\"20251219_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251219",
       "fullstartdate": "20251219",
       "enddate": "20251220",

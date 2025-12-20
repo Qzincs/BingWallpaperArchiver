@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251219",
+      "fullstartdate": "20251219",
+      "enddate": "20251220",
+      "urlbase": "https://www.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bormio+Italy&form=BGALM&filters=HpDate:\"20251219_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Snow-covered landscape at Bormio, Lombardy, Italy",
+      "description": "Bormio is a mountain town in northern Italy's Lombardy region, nestled in the Alps near the Stelvio Pass. This location has connected communities across mountain valleys for centuries, shaping how people live and move through the region. Today's image features Bormio's winter landscape, a reflection of its high-altitude setting and enduring bond with the surrounding peaks.",
+      "headline": "High mountains, deep history",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251219_BormioItaly\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.46925,10.37217/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=46.46925,10.37217;S9;Bormio&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Bormio%2C%20Sondrio%2C%20Italy&satid=id.sid%3Acf694b95-a0f6-35b4-88d6-01161458a263&vdpid=7016290484909768705&mb=46.541237~10.289848~46.444244~10.54043&cardbg=%23FFFFFF&tt=Bormio%2C%20Lombardy%2C%20Italy&tsts0=%2526ty%253D30%2526q%253DBormio%25252C%252520Sondrio%25252C%252520Italy%2526satid%253Did.sid%25253Acf694b95-a0f6-35b4-88d6-01161458a263%2526vdpid%253D7016290484909768705%2526mb%253D46.541237~10.289848~46.444244~10.54043%2526cardbg%253D%252523FFFFFF&tstt0=Bormio%2C%20Lombardy%2C%20Italy&cp=46.204466~8.762886&lvl=7.410128&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 19, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Lombardy%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bormio+Italy&form=BGABWCTA7&filters=HpDate:\"20251219_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bormio+Italy&form=BGABWCTA11&filters=HpDate:\"20251219_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251218",
       "fullstartdate": "20251218",
       "enddate": "20251219",
