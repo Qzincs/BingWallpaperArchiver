@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251221",
+      "fullstartdate": "20251221",
+      "enddate": "20251222",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg",
+      "copyrighttext": "© Dashu Xinganling/shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%86%ac%e8%87%b3&form=BGALM&filters=HpDate:\"20251220_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "美丽的雾凇景色，大庆市，黑龙江省，中国",
+      "description": "当2025年的冬至如期而至，北国大地被银装素裹，东北的雾凇奇景更添了几分童话般的浪漫。漫步在雾凇林中，脚下是松软的积雪，发出细微的沙沙声，仿佛是大自然最轻柔的私语。空气中弥漫着清新的气息，仿佛能净化一切尘埃，让人心旷神怡。",
+      "headline": "美丽的雾凇景色",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_WintersolsticeY25\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 21",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%86%ac%e8%87%b3&form=BGABWCTA7&filters=HpDate:\"20251220_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%86%ac%e8%87%b3&form=BGABWCTA11&filters=HpDate:\"20251220_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251220",
       "fullstartdate": "20251220",
       "enddate": "20251221",

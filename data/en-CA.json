@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251220",
+      "fullstartdate": "20251220",
+      "enddate": "20251221",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarLanterns_EN-CA1404976374_UHD.jpg",
+      "copyrighttext": "© artas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Moravian+star&form=BGALM&filters=HpDate:\"20251220_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Paper Christmas star lanterns, Germany",
+      "description": "As Christmas draws near, star lanterns begin to appear everywhere—twinkling from balconies, shining in shop windows and lighting up market stalls. Their shimmer cuts through the long winter nights, filling streets and homes with joy, colour and a sense of togetherness. But behind these festive decorations lies a story as captivating as their glow.",
+      "headline": "Twinkle, twinkle, paper stars",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251220_StarLanterns\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 20, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Moravian+star&form=BGABWCTA7&filters=HpDate:\"20251220_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Moravian+star&form=BGABWCTA11&filters=HpDate:\"20251220_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251219",
       "fullstartdate": "20251219",
       "enddate": "20251220",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251221",
+      "fullstartdate": "20251221",
+      "enddate": "20251222",
+      "urlbase": "https://www.bing.com/th?id=OHR.WinterCovadonga_ES-ES5041137538_UHD.jpg",
+      "copyrighttext": "© emiliozv/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Solsticio+de+invierno&form=BGALM&filters=HpDate:\"20251220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lago de Covadonga, Asturias, España",
+      "description": "¿Alguna vez has sentido que la noche no iba a terminar? Eso es porque el solsticio de invierno está haciendo su magia. Hoy es un momento muy especial: la noche más larga del año y el día más breve en el hemisferio norte. En Asturias, el día durará casi 9 horas de luz, dejando una noche de poco más de 15 horas.",
+      "headline": "Esperando un nuevo sol",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_WinterCovadonga\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Solsticio+de+invierno&form=BGABWCTA7&filters=HpDate:\"20251220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Solsticio+de+invierno&form=BGABWCTA11&filters=HpDate:\"20251220_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251220",
       "fullstartdate": "20251220",
       "enddate": "20251221",

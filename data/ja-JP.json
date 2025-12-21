@@ -1,6 +1,549 @@
 {
   "images": [
     {
+      "startdate": "20251221",
+      "fullstartdate": "20251221",
+      "enddate": "20251222",
+      "urlbase": "https://www.bing.com/th?id=OHR.WinterSolstice2025_JA-JP2351386518_UHD.jpg",
+      "copyrighttext": "© Jan Vermeer/Minden",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b1%88%e6%96%9c%e8%b7%af%e6%b9%96%e3%81%ae%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%af%e3%83%81%e3%83%a7%e3%82%a6&form=BGALM&filters=HpDate:\"20251220_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "屈斜路湖のオオハクチョウ, 北海道",
+      "description": "今日 12 月 21 日は一年で最も昼が短く、夜が長い冬至です。この日を境に、昼の時間は少しずつ長くなっていきますが、寒さはより一層厳しくなっていきます。かつては、この冬至の日を一年の始まりとする考え方もありました。かぼちゃ食べる風習が一般的ですが、それ以外にも柚子湯に入る、小豆粥を食すなどの風習もあります…",
+      "headline": "今日は冬至",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_WinterSolstice2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.579166,144.527496/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.579166,144.527496;S9;阿寒摩周国立公園, 北海道&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E9%98%BF%E5%AF%92%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92%20%E9%98%BF%E5%AF%92%20%E5%9B%BD%E7%AB%8B%20%E5%85%AC%E5%9C%92&ss=ypid.YN5286x8923764850321046645&cp=43.570305~144.191326&lvl=9.702529&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 21 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b1%88%e6%96%9c%e8%b7%af%e6%b9%96%e3%81%ae%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%af%e3%83%81%e3%83%a7%e3%82%a6&form=BGABWCTA7&filters=HpDate:\"20251220_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 569,
+            "Width": 3833,
+            "Height": 941,
+            "Label": "swan",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                853
+              ],
+              [
+                11,
+                864
+              ],
+              [
+                0,
+                866
+              ],
+              [
+                0,
+                1043
+              ],
+              [
+                69,
+                1049
+              ],
+              [
+                67,
+                1061
+              ],
+              [
+                97,
+                1050
+              ],
+              [
+                115,
+                1073
+              ],
+              [
+                109,
+                1084
+              ],
+              [
+                157,
+                1081
+              ],
+              [
+                155,
+                1094
+              ],
+              [
+                173,
+                1090
+              ],
+              [
+                169,
+                1102
+              ],
+              [
+                202,
+                1111
+              ],
+              [
+                247,
+                1080
+              ],
+              [
+                401,
+                1078
+              ],
+              [
+                394,
+                1067
+              ],
+              [
+                434,
+                1025
+              ],
+              [
+                422,
+                1016
+              ],
+              [
+                458,
+                1011
+              ],
+              [
+                478,
+                1024
+              ],
+              [
+                453,
+                1025
+              ],
+              [
+                454,
+                1044
+              ],
+              [
+                478,
+                1040
+              ],
+              [
+                467,
+                1049
+              ],
+              [
+                476,
+                1062
+              ],
+              [
+                452,
+                1059
+              ],
+              [
+                464,
+                1085
+              ],
+              [
+                423,
+                1085
+              ],
+              [
+                427,
+                1073
+              ],
+              [
+                408,
+                1082
+              ],
+              [
+                441,
+                1119
+              ],
+              [
+                463,
+                1114
+              ],
+              [
+                487,
+                1144
+              ],
+              [
+                550,
+                1150
+              ],
+              [
+                604,
+                1180
+              ],
+              [
+                741,
+                1220
+              ],
+              [
+                815,
+                1182
+              ],
+              [
+                878,
+                1178
+              ],
+              [
+                874,
+                1167
+              ],
+              [
+                960,
+                1115
+              ],
+              [
+                1032,
+                1110
+              ],
+              [
+                1085,
+                1081
+              ],
+              [
+                1220,
+                1145
+              ],
+              [
+                1307,
+                1144
+              ],
+              [
+                1322,
+                1111
+              ],
+              [
+                1366,
+                1109
+              ],
+              [
+                1379,
+                1077
+              ],
+              [
+                1432,
+                1064
+              ],
+              [
+                1444,
+                1042
+              ],
+              [
+                1475,
+                1041
+              ],
+              [
+                1470,
+                1030
+              ],
+              [
+                1494,
+                1017
+              ],
+              [
+                1476,
+                1012
+              ],
+              [
+                1503,
+                991
+              ],
+              [
+                1455,
+                957
+              ],
+              [
+                1463,
+                947
+              ],
+              [
+                1356,
+                950
+              ],
+              [
+                1314,
+                931
+              ],
+              [
+                1176,
+                917
+              ],
+              [
+                1151,
+                904
+              ],
+              [
+                1086,
+                906
+              ],
+              [
+                1013,
+                938
+              ],
+              [
+                995,
+                932
+              ],
+              [
+                998,
+                921
+              ],
+              [
+                951,
+                926
+              ],
+              [
+                956,
+                911
+              ],
+              [
+                831,
+                908
+              ],
+              [
+                800,
+                892
+              ],
+              [
+                815,
+                878
+              ],
+              [
+                769,
+                876
+              ],
+              [
+                778,
+                863
+              ],
+              [
+                759,
+                856
+              ],
+              [
+                755,
+                890
+              ],
+              [
+                795,
+                899
+              ],
+              [
+                712,
+                914
+              ],
+              [
+                713,
+                925
+              ],
+              [
+                636,
+                923
+              ],
+              [
+                645,
+                950
+              ],
+              [
+                621,
+                961
+              ],
+              [
+                616,
+                935
+              ],
+              [
+                629,
+                932
+              ],
+              [
+                617,
+                929
+              ],
+              [
+                617,
+                904
+              ],
+              [
+                671,
+                906
+              ],
+              [
+                640,
+                888
+              ],
+              [
+                620,
+                895
+              ],
+              [
+                612,
+                839
+              ],
+              [
+                593,
+                828
+              ],
+              [
+                595,
+                860
+              ],
+              [
+                573,
+                854
+              ],
+              [
+                549,
+                867
+              ],
+              [
+                509,
+                852
+              ],
+              [
+                507,
+                830
+              ],
+              [
+                463,
+                820
+              ],
+              [
+                437,
+                830
+              ],
+              [
+                445,
+                843
+              ],
+              [
+                422,
+                834
+              ],
+              [
+                429,
+                821
+              ],
+              [
+                396,
+                822
+              ],
+              [
+                368,
+                850
+              ],
+              [
+                352,
+                830
+              ],
+              [
+                331,
+                875
+              ],
+              [
+                359,
+                886
+              ],
+              [
+                377,
+                869
+              ],
+              [
+                412,
+                869
+              ],
+              [
+                413,
+                894
+              ],
+              [
+                321,
+                891
+              ],
+              [
+                328,
+                878
+              ],
+              [
+                276,
+                883
+              ],
+              [
+                251,
+                871
+              ],
+              [
+                187,
+                871
+              ],
+              [
+                157,
+                885
+              ],
+              [
+                101,
+                854
+              ],
+              [
+                96,
+                884
+              ],
+              [
+                22,
+                844
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b1%88%e6%96%9c%e8%b7%af%e6%b9%96%e3%81%ae%e3%82%aa%e3%82%aa%e3%83%8f%e3%82%af%e3%83%81%e3%83%a7%e3%82%a6&form=BGABWCTA11&filters=HpDate:\"20251220_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251220",
       "fullstartdate": "20251220",
       "enddate": "20251221",
