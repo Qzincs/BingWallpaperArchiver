@@ -1,6 +1,293 @@
 {
   "images": [
     {
+      "startdate": "20251222",
+      "fullstartdate": "20251222",
+      "enddate": "20251223",
+      "urlbase": "https://www.bing.com/th?id=OHR.ReindeerFinland_JA-JP2648977140_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%88%e3%83%8a%e3%82%ab%e3%82%a4&form=BGALM&filters=HpDate:\"20251221_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "雪の中を進むトナカイ, フィンランド",
+      "description": "今日の画像は、白く広がる大地を進むトナカイ。主に北極圏に生息する動物で、北米大陸にいる個体は「カリブー」とも呼ばれています。1823 年、クレメント・クラーク・ムーアが書いた詩「クリスマスのまえのばん」で、サンタクロースのそりを引く動物としたことで、クリスマスの象徴として親しまれています…",
+      "headline": "サンタクロースの相棒",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251222_ReindeerFinland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/65,27/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=65,27;S9;フィンランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&satid=id.sid%3Aceea53a9-734c-46c7-a9f7-185e7cf6826e&vdpid=77&mb=70.0923~6.89656~59.472645~44.853715&cardbg=%23F98745&tt=%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&tsts0=%2526ty%253D30%2526q%253D%2525E3%252583%252595%2525E3%252582%2525A3%2525E3%252583%2525B3%2525E3%252583%2525A9%2525E3%252583%2525B3%2525E3%252583%252589%2526satid%253Did.sid%25253Aceea53a9-734c-46c7-a9f7-185e7cf6826e%2526vdpid%253D77%2526mb%253D70.0923~6.89656~59.472645~44.853715%2526cardbg%253D%252523F98745&tstt0=%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89&cp=49.496676~-49.921875&lvl=2&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 22 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%88%e3%83%8a%e3%82%ab%e3%82%a4&form=BGABWCTA7&filters=HpDate:\"20251221_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1111,
+            "Y": 860,
+            "Width": 1609,
+            "Height": 860,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                2715,
+                1244
+              ],
+              [
+                2615,
+                1075
+              ],
+              [
+                2556,
+                1031
+              ],
+              [
+                2346,
+                1031
+              ],
+              [
+                2092,
+                998
+              ],
+              [
+                1942,
+                1044
+              ],
+              [
+                1471,
+                1058
+              ],
+              [
+                1440,
+                1076
+              ],
+              [
+                1422,
+                1111
+              ],
+              [
+                1399,
+                1277
+              ],
+              [
+                1345,
+                1349
+              ],
+              [
+                1281,
+                1388
+              ],
+              [
+                1169,
+                1590
+              ],
+              [
+                1116,
+                1634
+              ],
+              [
+                1114,
+                1691
+              ],
+              [
+                1131,
+                1711
+              ],
+              [
+                1168,
+                1700
+              ],
+              [
+                1240,
+                1556
+              ],
+              [
+                1314,
+                1456
+              ],
+              [
+                1494,
+                1369
+              ],
+              [
+                1502,
+                1383
+              ],
+              [
+                1449,
+                1458
+              ],
+              [
+                1525,
+                1641
+              ],
+              [
+                1567,
+                1703
+              ],
+              [
+                1607,
+                1716
+              ],
+              [
+                1646,
+                1709
+              ],
+              [
+                1570,
+                1615
+              ],
+              [
+                1526,
+                1506
+              ],
+              [
+                1618,
+                1409
+              ],
+              [
+                1714,
+                1348
+              ],
+              [
+                1845,
+                1377
+              ],
+              [
+                2059,
+                1361
+              ],
+              [
+                2088,
+                1590
+              ],
+              [
+                2084,
+                1700
+              ],
+              [
+                2118,
+                1712
+              ],
+              [
+                2152,
+                1704
+              ],
+              [
+                2125,
+                1619
+              ],
+              [
+                2137,
+                1383
+              ],
+              [
+                2181,
+                1384
+              ],
+              [
+                2292,
+                1429
+              ],
+              [
+                2303,
+                1481
+              ],
+              [
+                2245,
+                1598
+              ],
+              [
+                2287,
+                1685
+              ],
+              [
+                2354,
+                1413
+              ],
+              [
+                2332,
+                1380
+              ],
+              [
+                2252,
+                1330
+              ],
+              [
+                2247,
+                1304
+              ],
+              [
+                2285,
+                1282
+              ],
+              [
+                2392,
+                1290
+              ],
+              [
+                2467,
+                1240
+              ],
+              [
+                2645,
+                1284
+              ],
+              [
+                2699,
+                1278
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%88%e3%83%8a%e3%82%ab%e3%82%a4&form=BGABWCTA11&filters=HpDate:\"20251221_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251221",
       "fullstartdate": "20251221",
       "enddate": "20251222",

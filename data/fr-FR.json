@@ -1,6 +1,285 @@
 {
   "images": [
     {
+      "startdate": "20251222",
+      "fullstartdate": "20251222",
+      "enddate": "20251223",
+      "urlbase": "https://www.bing.com/th?id=OBGA.BiogradskoLakeMontenegro_AdobeStock_104526718",
+      "copyrighttext": "© AlexanderNikiforov/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Kola%C5%A1in%2C%20Montenegro&form=BGALM",
+      "title": "Kolašin, Montenegro",
+      "description": "Biogradsko lake landscape, Montenegro, located on the Bjelasica Mountain, within Biogradska Gora national park",
+      "headline": "Kolašin, Montenegro",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Kola%C5%A1in%2C%20Montenegro&satid=id.sid%3A4aca7d47-b095-d1d0-bd1d-e2ca685ac4ac&vdpid=7217557532154265603&mb=42.835538~19.512568~42.812781~19.561531&cardbg=%23F98745&tt=Kola%C5%A1in%2C%20Kola%C5%A1in%20Municipality%2C%20Montenegro&tsts8=%2526ty%253D30%2526q%253DKola%2525C5%2525A1in%25252C%252520Montenegro%2526satid%253Did.sid%25253A4aca7d47-b095-d1d0-bd1d-e2ca685ac4ac%2526vdpid%253D7217557532154265603%2526mb%253D42.835538~19.512568~42.812781~19.561531%2526cardbg%253D%252523F98745&tstt8=Kola%C5%A1in%2C%20Kola%C5%A1in%20Municipality%2C%20Montenegro&cp=42.824162~19.528139&lvl=15.258686&pi=0&ftst=8&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Kola%c5%a1in%2c+Montenegro&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "https://www.bing.com/images/search?view=detailv2&iss=sbi&FORM=BGAVS&q=imgurl:https://www.bing.com/th?id=OBGA.BiogradskoLakeMontenegro_AdobeStock_104526718",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kola%C5%A1in%2C%20Montenegro&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 852,
+            "Y": 1487,
+            "Width": 864,
+            "Height": 349,
+            "Label": "boat",
+            "ContourList": [],
+            "Contours": [
+              [
+                1684,
+                1509
+              ],
+              [
+                1661,
+                1488
+              ],
+              [
+                1627,
+                1490
+              ],
+              [
+                1606,
+                1498
+              ],
+              [
+                1529,
+                1499
+              ],
+              [
+                1523,
+                1518
+              ],
+              [
+                1529,
+                1529
+              ],
+              [
+                1540,
+                1519
+              ],
+              [
+                1533,
+                1508
+              ],
+              [
+                1541,
+                1503
+              ],
+              [
+                1562,
+                1509
+              ],
+              [
+                1607,
+                1501
+              ],
+              [
+                1623,
+                1509
+              ],
+              [
+                1608,
+                1519
+              ],
+              [
+                1608,
+                1527
+              ],
+              [
+                1620,
+                1538
+              ],
+              [
+                1609,
+                1557
+              ],
+              [
+                1619,
+                1566
+              ],
+              [
+                1607,
+                1576
+              ],
+              [
+                1626,
+                1585
+              ],
+              [
+                1412,
+                1626
+              ],
+              [
+                1204,
+                1657
+              ],
+              [
+                1185,
+                1652
+              ],
+              [
+                1182,
+                1633
+              ],
+              [
+                1181,
+                1654
+              ],
+              [
+                1173,
+                1661
+              ],
+              [
+                1059,
+                1677
+              ],
+              [
+                1037,
+                1674
+              ],
+              [
+                1001,
+                1654
+              ],
+              [
+                901,
+                1647
+              ],
+              [
+                893,
+                1685
+              ],
+              [
+                884,
+                1693
+              ],
+              [
+                852,
+                1700
+              ],
+              [
+                863,
+                1748
+              ],
+              [
+                887,
+                1796
+              ],
+              [
+                919,
+                1833
+              ],
+              [
+                936,
+                1836
+              ],
+              [
+                1282,
+                1786
+              ],
+              [
+                1399,
+                1763
+              ],
+              [
+                1542,
+                1726
+              ],
+              [
+                1604,
+                1703
+              ],
+              [
+                1633,
+                1678
+              ],
+              [
+                1638,
+                1626
+              ],
+              [
+                1636,
+                1594
+              ],
+              [
+                1629,
+                1583
+              ],
+              [
+                1640,
+                1557
+              ],
+              [
+                1634,
+                1546
+              ],
+              [
+                1633,
+                1508
+              ],
+              [
+                1646,
+                1504
+              ],
+              [
+                1678,
+                1513
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Kola%C5%A1in%2C%20Montenegro&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251221",
       "fullstartdate": "20251221",
       "enddate": "20251222",

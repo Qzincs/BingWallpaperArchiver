@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251221",
+      "fullstartdate": "20251221",
+      "enddate": "20251222",
+      "urlbase": "https://www.bing.com/th?id=OHR.SwedenSolstice_ROW5093958502_UHD.jpg",
+      "copyrighttext": "© Schon/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sweden&form=BGALM&filters=HpDate:\"20251221_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Dawn light through frosty trees, Sweden",
+      "description": "Ever wondered why some days feel endless while others pass in the blink of an eye? This fascinating rhythm of day and night is closely tied to a remarkable event called the solstice. Occurring twice a year, solstices mark the moments when the Sun reaches its highest or lowest point in the sky at noon, resulting the longest and shortest days of the year. There are two solstices each year: the summer solstice and the winter solstice.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251221_SwedenSolstice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 21, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sweden&form=BGABWCTA7&filters=HpDate:\"20251221_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Sweden&form=BGABWCTA11&filters=HpDate:\"20251221_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251220",
       "fullstartdate": "20251220",
       "enddate": "20251221",
