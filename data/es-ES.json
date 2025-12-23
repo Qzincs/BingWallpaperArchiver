@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251223",
+      "fullstartdate": "20251223",
+      "enddate": "20251224",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_ES-ES4634628234_UHD.jpg",
+      "copyrighttext": "© mauritius images GmbH/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Alpes+b%c3%a1varos&form=BGALM&filters=HpDate:\"20251222_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Capilla nevada con árbol de Navidad en los Alpes bávaros, Alemania",
+      "description": "A medida que se acerca la Navidad, millones de personas adoptan costumbres que nos conectan con nuestras raíces o nos acercan a culturas completamente nuevas. En regiones nevadas, como los Alpes bávaros en Alemania, un paisaje cubierto de escarcha como el que se muestra en la imagen de hoy, las luces festivas brillan contra el frío del invierno.",
+      "headline": "¡Enciende las luces!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251223_ElmauChapel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alpes+b%c3%a1varos&form=BGABWCTA7&filters=HpDate:\"20251222_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Alpes+b%c3%a1varos&form=BGABWCTA11&filters=HpDate:\"20251222_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251222",
       "fullstartdate": "20251222",
       "enddate": "20251223",

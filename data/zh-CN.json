@@ -1,6 +1,293 @@
 {
   "images": [
     {
+      "startdate": "20251223",
+      "fullstartdate": "20251223",
+      "enddate": "20251224",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.ReindeerFinland_ZH-CN6822163943_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%a9%af%e9%b9%bf&form=BGALM&filters=HpDate:\"20251222_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "冬雪中的驯鹿，拉普兰德，芬兰",
+      "description": "很少有动物能像驯鹿那样唤起节日的魔力。驯鹿也被称为北美驯鹿，是不折不扣的“圣诞精神图腾”。自从克莱门特·克拉克·摩尔在1823年的诗作《圣尼古拉来访记》中为它们安排了拉雪橇的角色后，驯鹿便成为圣诞故事中不可缺少的动物明星。而且它们天生适合这份工作。它们的蹄子在冬季会收缩，露出能抓地的边缘，而在温暖的月份则会膨胀，以获得更好的抓地力。这还不足以让你感到惊叹？想想看，驯鹿体内并没有传统意义的“生物钟”。它们通过调节控制睡眠的褪黑激素来适应极地的极昼与极夜，使它们能够在无尽的黑夜中保持清醒，完成“送礼物”般的长途跋涉。驯鹿能托着圣诞老人飞行，在陆地上奔跑如风，在冰冷水域中也能轻松游动，这都得益于它们强健的体魄和优秀的游泳能力。成年雄性体重可达550磅，一对鹿角甚至可延展至55英寸，最多长出44个枝叉，堪称天然王冠。今日图片拍摄于芬兰，在那里，驯鹿的数量甚至多于人类。它们悠然漫步于这片古老土地，如同它们所代表的节日精神一样永恒不朽。",
+      "headline": "当节日的魔法踩着蹄声而来",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251223_ReindeerFinland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 23",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%a9%af%e9%b9%bf&form=BGABWCTA7&filters=HpDate:\"20251222_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1111,
+            "Y": 860,
+            "Width": 1609,
+            "Height": 860,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                2715,
+                1244
+              ],
+              [
+                2615,
+                1075
+              ],
+              [
+                2556,
+                1031
+              ],
+              [
+                2346,
+                1031
+              ],
+              [
+                2092,
+                998
+              ],
+              [
+                1942,
+                1044
+              ],
+              [
+                1471,
+                1058
+              ],
+              [
+                1440,
+                1076
+              ],
+              [
+                1422,
+                1111
+              ],
+              [
+                1399,
+                1277
+              ],
+              [
+                1345,
+                1349
+              ],
+              [
+                1281,
+                1388
+              ],
+              [
+                1169,
+                1590
+              ],
+              [
+                1116,
+                1634
+              ],
+              [
+                1114,
+                1691
+              ],
+              [
+                1131,
+                1711
+              ],
+              [
+                1168,
+                1700
+              ],
+              [
+                1240,
+                1556
+              ],
+              [
+                1314,
+                1456
+              ],
+              [
+                1494,
+                1369
+              ],
+              [
+                1502,
+                1383
+              ],
+              [
+                1449,
+                1458
+              ],
+              [
+                1525,
+                1641
+              ],
+              [
+                1567,
+                1703
+              ],
+              [
+                1607,
+                1716
+              ],
+              [
+                1646,
+                1709
+              ],
+              [
+                1570,
+                1615
+              ],
+              [
+                1526,
+                1506
+              ],
+              [
+                1618,
+                1409
+              ],
+              [
+                1714,
+                1348
+              ],
+              [
+                1845,
+                1377
+              ],
+              [
+                2059,
+                1361
+              ],
+              [
+                2088,
+                1590
+              ],
+              [
+                2084,
+                1700
+              ],
+              [
+                2118,
+                1712
+              ],
+              [
+                2152,
+                1704
+              ],
+              [
+                2125,
+                1619
+              ],
+              [
+                2137,
+                1383
+              ],
+              [
+                2181,
+                1384
+              ],
+              [
+                2292,
+                1429
+              ],
+              [
+                2303,
+                1481
+              ],
+              [
+                2245,
+                1598
+              ],
+              [
+                2287,
+                1685
+              ],
+              [
+                2354,
+                1413
+              ],
+              [
+                2332,
+                1380
+              ],
+              [
+                2252,
+                1330
+              ],
+              [
+                2247,
+                1304
+              ],
+              [
+                2285,
+                1282
+              ],
+              [
+                2392,
+                1290
+              ],
+              [
+                2467,
+                1240
+              ],
+              [
+                2645,
+                1284
+              ],
+              [
+                2699,
+                1278
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%a9%af%e9%b9%bf&form=BGABWCTA11&filters=HpDate:\"20251222_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251222",
       "fullstartdate": "20251222",
       "enddate": "20251223",

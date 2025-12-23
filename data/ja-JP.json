@@ -1,6 +1,417 @@
 {
   "images": [
     {
+      "startdate": "20251223",
+      "fullstartdate": "20251223",
+      "enddate": "20251224",
+      "urlbase": "https://www.bing.com/th?id=OHR.TokyoTower2025_JA-JP2794529209_UHD.jpg",
+      "copyrighttext": "© Najjsiri Nimyizhune/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%9d%b1%e4%ba%ac%e3%82%bf%e3%83%af%e3%83%bc&form=BGALM&filters=HpDate:\"20251222_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ライトアップされた夜の東京タワー, 東京",
+      "description": "1958 年の今日、12 月 23 日に、東京タワーは竣工しました。正式名称は日本電波塔で、その役割の多くは東京スカイツリーに移っているものの、ランドマークとして今も多くの人々に愛されており、東京の夜景の象徴ともいえるライトアップも健在です。夏は涼しげな白色、冬は暖かみのあるオレンジ色、そしてクリスマスシーズンには緑色と赤色に輝き、街に華やかな雰囲気を添えます…",
+      "headline": "今日は東京タワー完工の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251223_TokyoTower2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.658619,139.745422/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.658619,139.745422;S9;東京タワー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E6%97%A5%E6%9C%AC%20%E6%9D%B1%E4%BA%AC%2C%20%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC&ss=ypid.YN5286x4516093798133043461&mb=35.664714~139.739324~35.652528~139.751533&tt=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC&tsts0=%2526ty%253D18%2526q%253D%2525E6%252597%2525A5%2525E6%25259C%2525AC%252520%2525E6%25259D%2525B1%2525E4%2525BA%2525AC%25252C%252520%2525E6%25259D%2525B1%2525E4%2525BA%2525AC%2525E3%252582%2525BF%2525E3%252583%2525AF%2525E3%252583%2525BC%2526ss%253Dypid.YN5286x4516093798133043461%2526mb%253D35.664714~139.739324~35.652528~139.751533%2526cardbg%253D%252523219AB6%2526dt%253D1763456400000&tstt0=%E6%9D%B1%E4%BA%AC%E3%82%BF%E3%83%AF%E3%83%BC&cp=35.658621~139.734957&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e6%9d%b1%e4%ba%ac+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%9d%b1%e4%ba%ac%e3%82%bf%e3%83%af%e3%83%bc&form=BGABWCTA7&filters=HpDate:\"20251222_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 605,
+            "Width": 3833,
+            "Height": 1551,
+            "Label": "skyscraper",
+            "ContourList": [],
+            "Contours": [
+              [
+                3839,
+                99
+              ],
+              [
+                3503,
+                150
+              ],
+              [
+                3379,
+                100
+              ],
+              [
+                3350,
+                166
+              ],
+              [
+                3201,
+                69
+              ],
+              [
+                3157,
+                174
+              ],
+              [
+                3061,
+                125
+              ],
+              [
+                3132,
+                97
+              ],
+              [
+                3081,
+                67
+              ],
+              [
+                2979,
+                142
+              ],
+              [
+                2720,
+                135
+              ],
+              [
+                2664,
+                217
+              ],
+              [
+                1912,
+                135
+              ],
+              [
+                1859,
+                166
+              ],
+              [
+                2065,
+                216
+              ],
+              [
+                1798,
+                232
+              ],
+              [
+                2382,
+                234
+              ],
+              [
+                2397,
+                301
+              ],
+              [
+                2537,
+                303
+              ],
+              [
+                2457,
+                333
+              ],
+              [
+                2564,
+                336
+              ],
+              [
+                2519,
+                401
+              ],
+              [
+                2568,
+                410
+              ],
+              [
+                2401,
+                434
+              ],
+              [
+                2455,
+                503
+              ],
+              [
+                1819,
+                489
+              ],
+              [
+                1568,
+                599
+              ],
+              [
+                1323,
+                563
+              ],
+              [
+                1432,
+                523
+              ],
+              [
+                1240,
+                483
+              ],
+              [
+                0,
+                483
+              ],
+              [
+                22,
+                548
+              ],
+              [
+                165,
+                544
+              ],
+              [
+                0,
+                565
+              ],
+              [
+                0,
+                1245
+              ],
+              [
+                248,
+                1178
+              ],
+              [
+                457,
+                1264
+              ],
+              [
+                466,
+                1101
+              ],
+              [
+                562,
+                1098
+              ],
+              [
+                569,
+                1196
+              ],
+              [
+                705,
+                1278
+              ],
+              [
+                923,
+                1271
+              ],
+              [
+                1026,
+                1072
+              ],
+              [
+                1111,
+                1113
+              ],
+              [
+                1117,
+                1264
+              ],
+              [
+                1239,
+                1132
+              ],
+              [
+                1387,
+                1269
+              ],
+              [
+                1434,
+                1110
+              ],
+              [
+                1542,
+                1117
+              ],
+              [
+                1567,
+                1266
+              ],
+              [
+                1747,
+                1193
+              ],
+              [
+                1794,
+                597
+              ],
+              [
+                1838,
+                1189
+              ],
+              [
+                1960,
+                1128
+              ],
+              [
+                2182,
+                1268
+              ],
+              [
+                2376,
+                1222
+              ],
+              [
+                2467,
+                1292
+              ],
+              [
+                2526,
+                1105
+              ],
+              [
+                2619,
+                1097
+              ],
+              [
+                2680,
+                1294
+              ],
+              [
+                3499,
+                1197
+              ],
+              [
+                3651,
+                1281
+              ],
+              [
+                3772,
+                1218
+              ],
+              [
+                3839,
+                1263
+              ],
+              [
+                3839,
+                522
+              ],
+              [
+                2513,
+                451
+              ],
+              [
+                2580,
+                370
+              ],
+              [
+                2694,
+                412
+              ],
+              [
+                2639,
+                336
+              ],
+              [
+                2921,
+                334
+              ],
+              [
+                2879,
+                305
+              ],
+              [
+                2976,
+                268
+              ],
+              [
+                3102,
+                335
+              ],
+              [
+                3182,
+                236
+              ],
+              [
+                3238,
+                266
+              ],
+              [
+                3177,
+                333
+              ],
+              [
+                3463,
+                334
+              ],
+              [
+                3359,
+                269
+              ],
+              [
+                3828,
+                232
+              ],
+              [
+                3687,
+                204
+              ],
+              [
+                3839,
+                208
+              ],
+              [
+                3746,
+                174
+              ],
+              [
+                3839,
+                174
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%9d%b1%e4%ba%ac%e3%82%bf%e3%83%af%e3%83%bc&form=BGABWCTA11&filters=HpDate:\"20251222_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251222",
       "fullstartdate": "20251222",
       "enddate": "20251223",

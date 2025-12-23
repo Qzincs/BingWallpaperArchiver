@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251222",
+      "fullstartdate": "20251222",
+      "enddate": "20251223",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_506819660",
+      "copyrighttext": "© den-belitsky/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Istria%2C%20Croatia&form=BGALM",
+      "title": "Istria, Croatia",
+      "description": "Aerial view of small island, Kamenjak cape, Adriatic sea, Croatia at sunset in summer",
+      "headline": "Istria, Croatia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Istria%2C%20Croatia&satid=id.sid%3A0ab1de7c-4cb1-cbce-c3eb-ca81244e251f&vdpid=10613481&mb=45.588394~12.484709~44.468918~14.98439&cardbg=%23F98745&tt=Istria%2C%20Croatia&tsts9=%2526ty%253D30%2526q%253DIstria%25252C%252520Croatia%2526satid%253Did.sid%25253A0ab1de7c-4cb1-cbce-c3eb-ca81244e251f%2526vdpid%253D10613481%2526mb%253D45.588394~12.484709~44.468918~14.98439%2526cardbg%253D%252523F98745&tstt9=Istria%2C%20Croatia&cp=45.031829~13.281166&lvl=9.584795&pi=0&ftst=9&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Istria%2c+Croatia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Istria%2C%20Croatia&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Pesquise na Web para saber mais sobre esta imagem"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 736,
+            "Y": 660,
+            "Width": 5890,
+            "Height": 5288,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Istria%2C%20Croatia&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251221",
       "fullstartdate": "20251221",
       "enddate": "20251222",
