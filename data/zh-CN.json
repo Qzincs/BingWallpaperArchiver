@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251224",
+      "fullstartdate": "20251224",
+      "enddate": "20251225",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.ElmauChapel_ZH-CN6919330333_UHD.jpg",
+      "copyrighttext": "© mauritius images GmbH/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b9%b3%e5%ae%89%e5%a4%9c&form=BGALM&filters=HpDate:\"20251223_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "巴伐利亚阿尔卑斯山脉的雪中教堂与圣诞树，德国",
+      "description": "随着平安夜的到来，数以百万计的人们拥抱那些将我们与根源相连的习俗，或者接触全新的文化。如今日图片中所见的那样，在德国巴伐利亚阿尔卑斯山的雪景中，节日灯光在寒冬中闪耀；而在地球的另一端，比如加勒比海、澳大利亚或巴西，耀眼阳光洒在金色海滩上，圣诞节的画面则截然不同",
+      "headline": "流动的传统",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauChapel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 24",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b9%b3%e5%ae%89%e5%a4%9c&form=BGABWCTA7&filters=HpDate:\"20251223_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b9%b3%e5%ae%89%e5%a4%9c&form=BGABWCTA11&filters=HpDate:\"20251223_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251223",
       "fullstartdate": "20251223",
       "enddate": "20251224",

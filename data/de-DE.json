@@ -1,6 +1,217 @@
 {
   "images": [
     {
+      "startdate": "20251224",
+      "fullstartdate": "20251224",
+      "enddate": "20251225",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElmauSnow_DE-DE2680814765_UHD.jpg",
+      "copyrighttext": "© Michael Thaler/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Heiligabend&form=BGALM&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kapelle und Weihnachtsbaum in winterlicher Landschaft, Elmau, Bayern",
+      "description": "Feiner Pulverschnee bedeckt die Landschaft wie ein weiches Tuch und das sanfte Leuchten der Weihnachtsbeleuchtung taucht die Bayerischen Alpen in eine festliche Ruhe. Über der Kapelle im Gut Elmau, das auf unserem heutigen Bild zu sehen ist, liegt eine friedliche Stille, die an die besondere Magie der Weihnachtszeit erinnert. Am 24. Dezember beginnt für viele Menschen das wichtigste Fest des Jahres: Heiligabend – der Höhepunkt der Adventszeit und der Beginn der Weihnachtsfeiertage. Schon Wochen zuvor stimmen traditionelle Lieder wie „Stille Nacht, heilige Nacht“ und festlich geschmückte Straßen auf diese besondere Zeit ein, während Spekulatius und Lebkuchen die Wartezeit versüßen. Wenn am Abend in fast jedem Zuhause der Weihnachtsbaum erstrahlt, kehrt nach einem oft geschäftigen Tag Besinnlichkeit ein. Familien kommen zusammen, tauschen Geschenke aus und genießen gemeinsame Stunden bei Weihnachtsklassikern wie Kartoffelsalat mit Würstchen oder einen knusprigem Gänsebraten.",
+      "headline": "Stille Nacht, heilige Nacht!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauSnow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.64,11.77/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.64,11.77;S9;Elmau, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Bavarian%20Alps&satid=id.sid%3Ac65eff45-af15-75a5-f734-4518c12c51f7&vdpid=7016236341746728961&mb=47.643446~11.76168~47.636564~11.778331&cardbg=%23F98745&dt=1762254000000&tt=Bavarian%20Alps&tsts0=%2526ty%253D30%2526q%253DBavarian%252520Alps%2526satid%253Did.sid%25253Ac65eff45-af15-75a5-f734-4518c12c51f7%2526vdpid%253D7016236341746728961%2526mb%253D47.643446~11.76168~47.636564~11.778331%2526cardbg%253D%252523F98745%2526dt%253D1762254000000&tstt0=Bavarian%20Alps&cp=46.800059~-2.592773&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "24. Dez.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Elmau%2c+Bayern&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Heiligabend&form=BGABWCTA7&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 201,
+            "Y": 305,
+            "Width": 1962,
+            "Height": 1761,
+            "Label": "house",
+            "ContourList": [],
+            "Contours": [
+              [
+                1462,
+                324
+              ],
+              [
+                1400,
+                308
+              ],
+              [
+                1355,
+                328
+              ],
+              [
+                1255,
+                549
+              ],
+              [
+                1133,
+                662
+              ],
+              [
+                1154,
+                766
+              ],
+              [
+                1225,
+                794
+              ],
+              [
+                1254,
+                826
+              ],
+              [
+                1252,
+                944
+              ],
+              [
+                665,
+                969
+              ],
+              [
+                614,
+                998
+              ],
+              [
+                226,
+                1370
+              ],
+              [
+                211,
+                1413
+              ],
+              [
+                238,
+                1503
+              ],
+              [
+                367,
+                1504
+              ],
+              [
+                399,
+                1523
+              ],
+              [
+                395,
+                1970
+              ],
+              [
+                1429,
+                2056
+              ],
+              [
+                1797,
+                2048
+              ],
+              [
+                1929,
+                2027
+              ],
+              [
+                1925,
+                1563
+              ],
+              [
+                2062,
+                1564
+              ],
+              [
+                2099,
+                1548
+              ],
+              [
+                2137,
+                1497
+              ],
+              [
+                2116,
+                1482
+              ],
+              [
+                2116,
+                1404
+              ],
+              [
+                1763,
+                896
+              ],
+              [
+                1691,
+                866
+              ],
+              [
+                1579,
+                875
+              ],
+              [
+                1596,
+                800
+              ],
+              [
+                1672,
+                774
+              ],
+              [
+                1693,
+                671
+              ],
+              [
+                1590,
+                569
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Heiligabend&form=BGABWCTA11&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251223",
       "fullstartdate": "20251223",
       "enddate": "20251224",

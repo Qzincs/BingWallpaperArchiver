@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251224",
+      "fullstartdate": "20251224",
+      "enddate": "20251225",
+      "urlbase": "https://www.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_UHD.jpg",
+      "copyrighttext": "© Daniel OUDIN/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Canto+de+la+Sibila&form=BGALM&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Canto de la Sibila, Catedral-Basílica de Santa María de Mallorca, Islas Baleares, España",
+      "description": "En la mágica Nochebuena de Mallorca, un antiguo ritual ilumina la catedral de Santa María: el Canto de la Sibila. Este drama litúrgico de melodía gregoriana, declarado Patrimonio Inmaterial de la Humanidad por la UNESCO en 2010, se interpreta cada 24 de diciembre durante la Misa de Gallo y las maitines de Navidad.",
+      "headline": "Un canto celestial",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_SibylSongMallorca\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Canto+de+la+Sibila&form=BGABWCTA7&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Canto+de+la+Sibila&form=BGABWCTA11&filters=HpDate:\"20251223_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251223",
       "fullstartdate": "20251223",
       "enddate": "20251224",

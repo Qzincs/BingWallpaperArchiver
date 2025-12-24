@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251223",
+      "fullstartdate": "20251223",
+      "enddate": "20251224",
+      "urlbase": "https://www.bing.com/th?id=OHR.LagoLagazuolo_ROW5340646179_UHD.jpg",
+      "copyrighttext": "© Francesco Bergamaschi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lagazzuolo+Lake+Valmalenco&form=BGALM&filters=HpDate:\"20251223_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lagazzuolo Lake, Valmalenco, Lombardy, Italy",
+      "description": "In the heart of Valmalenco, Lombardy, Italy, at nearly 2,000 metres above sea level, Lake Lagazzuolo reveals itself like a secret hidden within the mountains' folds. The 2.5-kilometre trek leading there weaves through woods and stone, inviting you to slow down with each step. The hike ranges from moderate to challenging, with an elevation gain of around 590 metres, making it perfect for those seeking a fun outdoor experience.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251223_LagoLagazuolo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 23, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lagazzuolo+Lake+Valmalenco&form=BGABWCTA7&filters=HpDate:\"20251223_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lagazzuolo+Lake+Valmalenco&form=BGABWCTA11&filters=HpDate:\"20251223_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251222",
       "fullstartdate": "20251222",
       "enddate": "20251223",
