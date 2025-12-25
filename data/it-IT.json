@@ -1,6 +1,521 @@
 {
   "images": [
     {
+      "startdate": "20251225",
+      "fullstartdate": "20251225",
+      "enddate": "20251226",
+      "urlbase": "https://www.bing.com/th?id=OHR.MilanoNatale_IT-IT0776124040_UHD.jpg",
+      "copyrighttext": "© Xantana/iStock/Getty Images Plus",
+      "copyrightlink": "https://www.bing.com/search?q=Natale&form=BGALM&filters=HpDate:\"20251224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Albero di Natale, Piazza del Duomo, Milano, Lombardia",
+      "description": "Il Natale è un tempo sospeso, in cui le città si vestono di luce e i cuori si riempiono di attesa. È la stagione delle tradizioni che tornano, dei racconti che si tramandano, dei gesti semplici che diventano simboli di meraviglia: un dono scartato, un canto che risuona, il profumo dei dolci che invade le case.",
+      "headline": "Magia in Piazza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_MilanoNatale\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Natale&form=BGABWCTA7&filters=HpDate:\"20251224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 247,
+            "Width": 3833,
+            "Height": 1313,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                729,
+                1497
+              ],
+              [
+                810,
+                1514
+              ],
+              [
+                784,
+                1455
+              ],
+              [
+                850,
+                1413
+              ],
+              [
+                820,
+                1385
+              ],
+              [
+                825,
+                1425
+              ],
+              [
+                786,
+                1423
+              ],
+              [
+                797,
+                1322
+              ],
+              [
+                1019,
+                1339
+              ],
+              [
+                988,
+                1413
+              ],
+              [
+                1059,
+                1429
+              ],
+              [
+                1087,
+                1491
+              ],
+              [
+                1167,
+                1394
+              ],
+              [
+                1206,
+                1453
+              ],
+              [
+                1297,
+                1432
+              ],
+              [
+                1314,
+                1498
+              ],
+              [
+                1492,
+                1511
+              ],
+              [
+                1579,
+                1323
+              ],
+              [
+                1636,
+                1354
+              ],
+              [
+                1591,
+                1359
+              ],
+              [
+                1596,
+                1398
+              ],
+              [
+                1678,
+                1379
+              ],
+              [
+                1650,
+                1395
+              ],
+              [
+                1678,
+                1416
+              ],
+              [
+                1627,
+                1409
+              ],
+              [
+                1585,
+                1455
+              ],
+              [
+                1615,
+                1476
+              ],
+              [
+                1642,
+                1422
+              ],
+              [
+                1675,
+                1486
+              ],
+              [
+                1590,
+                1489
+              ],
+              [
+                1625,
+                1533
+              ],
+              [
+                1691,
+                1522
+              ],
+              [
+                1637,
+                1519
+              ],
+              [
+                1642,
+                1489
+              ],
+              [
+                1989,
+                1517
+              ],
+              [
+                2317,
+                1488
+              ],
+              [
+                2462,
+                1413
+              ],
+              [
+                2421,
+                965
+              ],
+              [
+                2362,
+                947
+              ],
+              [
+                2330,
+                1097
+              ],
+              [
+                2255,
+                1033
+              ],
+              [
+                2227,
+                808
+              ],
+              [
+                2213,
+                946
+              ],
+              [
+                2132,
+                915
+              ],
+              [
+                2092,
+                674
+              ],
+              [
+                2076,
+                753
+              ],
+              [
+                2047,
+                666
+              ],
+              [
+                2004,
+                825
+              ],
+              [
+                1955,
+                759
+              ],
+              [
+                1906,
+                843
+              ],
+              [
+                1852,
+                640
+              ],
+              [
+                1847,
+                754
+              ],
+              [
+                1807,
+                716
+              ],
+              [
+                1800,
+                823
+              ],
+              [
+                1868,
+                831
+              ],
+              [
+                1802,
+                838
+              ],
+              [
+                1828,
+                875
+              ],
+              [
+                1790,
+                863
+              ],
+              [
+                1768,
+                943
+              ],
+              [
+                1715,
+                969
+              ],
+              [
+                1672,
+                793
+              ],
+              [
+                1661,
+                1016
+              ],
+              [
+                1590,
+                1074
+              ],
+              [
+                1706,
+                1136
+              ],
+              [
+                1681,
+                1066
+              ],
+              [
+                1782,
+                1060
+              ],
+              [
+                1784,
+                980
+              ],
+              [
+                1827,
+                1007
+              ],
+              [
+                1789,
+                1101
+              ],
+              [
+                1831,
+                1143
+              ],
+              [
+                1776,
+                1186
+              ],
+              [
+                1745,
+                1105
+              ],
+              [
+                1738,
+                1180
+              ],
+              [
+                1609,
+                1184
+              ],
+              [
+                1812,
+                1202
+              ],
+              [
+                1741,
+                1225
+              ],
+              [
+                1733,
+                1315
+              ],
+              [
+                1698,
+                1312
+              ],
+              [
+                1719,
+                1225
+              ],
+              [
+                1622,
+                1224
+              ],
+              [
+                1680,
+                1243
+              ],
+              [
+                1639,
+                1317
+              ],
+              [
+                1645,
+                1252
+              ],
+              [
+                1576,
+                1266
+              ],
+              [
+                1546,
+                1211
+              ],
+              [
+                1570,
+                1091
+              ],
+              [
+                1537,
+                922
+              ],
+              [
+                1524,
+                977
+              ],
+              [
+                1477,
+                960
+              ],
+              [
+                1459,
+                1110
+              ],
+              [
+                1313,
+                436
+              ],
+              [
+                1332,
+                289
+              ],
+              [
+                1267,
+                255
+              ],
+              [
+                1290,
+                350
+              ],
+              [
+                1104,
+                1143
+              ],
+              [
+                1069,
+                1151
+              ],
+              [
+                1092,
+                1176
+              ],
+              [
+                1052,
+                1246
+              ],
+              [
+                1010,
+                1252
+              ],
+              [
+                1061,
+                1271
+              ],
+              [
+                976,
+                1332
+              ],
+              [
+                943,
+                1256
+              ],
+              [
+                941,
+                1287
+              ],
+              [
+                829,
+                1314
+              ],
+              [
+                817,
+                1244
+              ],
+              [
+                823,
+                1303
+              ],
+              [
+                787,
+                1323
+              ],
+              [
+                763,
+                1215
+              ],
+              [
+                763,
+                1455
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Natale&form=BGABWCTA11&filters=HpDate:\"20251224_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251224",
       "fullstartdate": "20251224",
       "enddate": "20251225",

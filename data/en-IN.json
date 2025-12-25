@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251225",
+      "fullstartdate": "20251225",
+      "enddate": "20251226",
+      "urlbase": "https://www.bing.com/th?id=OHR.SantaGlobe_EN-IN8671777119_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Christmas&form=BGALM&filters=HpDate:\"20251224_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Snow globes at a Christmas market in Heidelberg, Germany",
+      "description": "Beneath Heidelberg's winter sky in Germany, stalls sparkle with snow globes, each capturing the spirit of the season in a miniature world. Today, Christmas—a Christian celebration of faith, light and togetherness—invites us to welcome warmth and joy into the coldest days of the year. Across continents, candles glow on windowsills and garlands twine through homes and streets. Evergreen trees stand adorned, their branches heavy with ornaments and gifts waiting quietly beneath.",
+      "headline": "Miniature worlds, infinite wonder",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_SantaGlobe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.402892,8.679985/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=49.402892,8.679985;S9;Heidelberg, Baden-Württemberg, Germany&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Heidelberg%2C%20Germany&satid=id.sid%3A0ed4c4ac-d0e9-d557-45fe-d5248ba0c523&vdpid=7015010726708248577&mb=49.459599~8.549026~49.35215~8.818228&cardbg=%23F98745&tt=Heidelberg%2C%20Baden-W%C3%BCrttemberg%2C%20Germany&tsts0=%2526ty%253D30%2526q%253DHeidelberg%25252C%252520Germany%2526satid%253Did.sid%25253A0ed4c4ac-d0e9-d557-45fe-d5248ba0c523%2526vdpid%253D7015010726708248577%2526mb%253D49.459599~8.549026~49.35215~8.818228%2526cardbg%253D%252523F98745&tstt0=Heidelberg%2C%20Baden-W%C3%BCrttemberg%2C%20Germany&cp=49.401353~-2.288079&lvl=4.99&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Germany&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Christmas&form=BGABWCTA7&filters=HpDate:\"20251224_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Christmas&form=BGABWCTA11&filters=HpDate:\"20251224_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251224",
       "fullstartdate": "20251224",
       "enddate": "20251225",

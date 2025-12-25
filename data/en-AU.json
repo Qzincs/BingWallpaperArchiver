@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251224",
+      "fullstartdate": "20251224",
+      "enddate": "20251225",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ROW5558323918_UHD.jpg",
+      "copyrighttext": "© Philip Reeve/Photodisc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Starling+murmuration&form=BGALM&filters=HpDate:\"20251224_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Starling murmuration over the ruins of Brighton's West Pier, England",
+      "description": "When a bird is called a starling, you'd expect it to be a bit of a show-off. True to its name, this little creature knows how to steal the spotlight. From shimmering feathers that glint green and purple in the sun, to its ability to mimic sounds, the starling is the headline act. Originally native to Europe and Asia, the common starling has spread across the globe. In the 19th century, a group of them were introduced to New York's Central Park by an enthusiast of birds mentioned in Shakespeare's plays.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_StarlingBrighton2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Starling+murmuration&form=BGABWCTA7&filters=HpDate:\"20251224_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Starling+murmuration&form=BGABWCTA11&filters=HpDate:\"20251224_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251223",
       "fullstartdate": "20251223",
       "enddate": "20251224",

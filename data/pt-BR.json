@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251224",
+      "fullstartdate": "20251224",
+      "enddate": "20251225",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_PT-BR9995437015_UHD.jpg",
+      "copyrighttext": "© mauritius images GmbH/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=V%c3%a9spera+de+Natal%2c+tradi%c3%a7%c3%b5es&form=BGALM&filters=HpDate:\"20251224_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Capela e árvore de Natal nos Alpes da Baviera, Alemanha",
+      "description": "Quando a véspera de Natal chega, milhões de pessoas abraçam costumes que nos conectam às nossas raízes — ou nos apresentam culturas totalmente novas. Em regiões nevadas, como os Alpes da Baviera, na Alemanha — uma paisagem coberta de gelo que vemos na imagem de hoje — luzes festivas brilham contra o frio do inverno. Em algumas regiões, como o Brasil ou o Caribe, o sol brilha intensamente, e o Natal muitas vezes é celebrado à beira de praias douradas, em vez de manhãs geladas.",
+      "headline": "Tradições da véspera",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauChapel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=V%c3%a9spera+de+Natal%2c+tradi%c3%a7%c3%b5es&form=BGABWCTA7&filters=HpDate:\"20251224_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=V%c3%a9spera+de+Natal%2c+tradi%c3%a7%c3%b5es&form=BGABWCTA11&filters=HpDate:\"20251224_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251223",
       "fullstartdate": "20251223",
       "enddate": "20251224",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251224",
+      "fullstartdate": "20251224",
+      "enddate": "20251225",
+      "urlbase": "https://www.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg",
+      "copyrighttext": "© mauritius images GmbH/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Christmas+Eve&form=BGALM&filters=HpDate:\"20251224_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Snowy chapel with Christmas tree in the Bavarian Alps, Germany",
+      "description": "As Christmas Eve arrives, millions embrace customs that connect us to our roots—or introduce us to entirely new cultures. In snowy regions like the Bavarian Alps in Germany—a frost-kissed landscape seen in today's image—festive lights glow against winter's chill. Elsewhere, the sun blazes brightly: think of the Caribbean, Australia, or Brazil, where Christmas often means golden beaches instead of frosty mornings.",
+      "headline": "Traditions that travel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251224_ElmauChapel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.64,11.77/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=47.64,11.77;S9;Bavarian Alps&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Bavarian%20Alps&satid=id.sid%3Ac65eff45-af15-75a5-f734-4518c12c51f7&vdpid=7016236341746728961&mb=47.643446~11.76168~47.636564~11.778331&cardbg=%23F98745&dt=1762254000000&tt=Bavarian%20Alps&tsts0=%2526ty%253D30%2526q%253DBavarian%252520Alps%2526satid%253Did.sid%25253Ac65eff45-af15-75a5-f734-4518c12c51f7%2526vdpid%253D7016236341746728961%2526mb%253D47.643446~11.76168~47.636564~11.778331%2526cardbg%253D%252523F98745%2526dt%253D1762254000000&tstt0=Bavarian%20Alps&cp=46.800059~-2.592773&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 24, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Germany&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Christmas+Eve&form=BGABWCTA7&filters=HpDate:\"20251224_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Christmas+Eve&form=BGABWCTA11&filters=HpDate:\"20251224_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251223",
       "fullstartdate": "20251223",
       "enddate": "20251224",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251225",
+      "fullstartdate": "20251225",
+      "enddate": "20251226",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.SantaGlobe_ZH-CN7032279153_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9c%a3%e8%af%9e%e8%8a%82&form=BGALM&filters=HpDate:\"20251224_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "海德堡圣诞市场上的雪球，德国",
+      "description": "在德国海德堡的冬日天空下，集市摊位间闪烁着一只只雪花水晶球，每个玻璃球都以微缩世界的形式捕捉着节日的氛围。如今的圣诞节一个关于信仰、光明与团聚的基督教庆典，邀请我们在一年中最寒冷的日子里迎来温暖与欢乐。在世界各地，窗台上的烛光温柔摇曳，花环装点着街巷与家门，常青树装饰一新，枝头挂满饰品，树下的礼物静静等待被打开。",
+      "headline": "微缩世界，无尽奇想",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_SantaGlobe\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 25",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9c%a3%e8%af%9e%e8%8a%82&form=BGABWCTA7&filters=HpDate:\"20251224_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9c%a3%e8%af%9e%e8%8a%82&form=BGABWCTA11&filters=HpDate:\"20251224_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251224",
       "fullstartdate": "20251224",
       "enddate": "20251225",
