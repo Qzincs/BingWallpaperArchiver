@@ -1,6 +1,217 @@
 {
   "images": [
     {
+      "startdate": "20251226",
+      "fullstartdate": "20251226",
+      "enddate": "20251227",
+      "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_IT-IT1269440144_UHD.jpg",
+      "copyrighttext": "© Julian Elliott Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Boxing+Day&form=BGALM&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cattedrale di Salisbury, Wiltshire, Inghilterra",
+      "description": "La magia del Boxing Day sta proprio nella sua leggerezza. È una festa insolita, che porta con sé un invito silenzioso: «Una pausa, una tavola imbandita di avanzi, un respiro condiviso.» Celebrato il 26 dicembre nel Regno Unito e in diversi Paesi del Commonwealth, rappresenta una sorta di decompressione collettiva, un momento di calma dopo che il Natale ha già svolto tutto il lavoro più gravoso. Le sue radici affondano nell’epoca vittoriana, quando le famiglie preparavano le cosiddette “Christmas boxes” per lavoratori e commercianti: piccoli segni di gratitudine che potevano essere monete o beni di prima necessità.",
+      "headline": "Tradizioni d'Oltremanica",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251226_WiltshireDawn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.064991,-1.797319/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=51.064991,-1.797319;S9;Cattedrale di Salisbury, Wiltshire, Inghilterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Salisbury%20Cathedral&ss=ypid.YN768605D776AE492D&mb=51.067992~-1.805642~51.061978~-1.78899&description=Salisbury%20SP1%202EJ%C2%B7Religious%20organization&cardbg=%233AABCF&dt=1763127000000&tt=Salisbury%20Cathedral&tsts0=%2526ty%253D18%2526q%253DSalisbury%252520Cathedral%2526ss%253Dypid.YN768605D776AE492D%2526mb%253D51.067992~-1.805642~51.061978~-1.78899%2526description%253DSalisbury%252520SP1%2525202EJ%2525C2%2525B7Religious%252520organization%2526cardbg%253D%2525233AABCF%2526dt%253D1763127000000&tstt0=Salisbury%20Cathedral&cp=50.211369~-2.936223&lvl=7.7789283&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "26 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Wiltshire%2c+Inghilterra&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Boxing+Day&form=BGABWCTA7&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1031,
+            "Y": 208,
+            "Width": 622,
+            "Height": 851,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                1357,
+                224
+              ],
+              [
+                1317,
+                548
+              ],
+              [
+                1289,
+                651
+              ],
+              [
+                1283,
+                852
+              ],
+              [
+                1261,
+                843
+              ],
+              [
+                1252,
+                814
+              ],
+              [
+                1245,
+                834
+              ],
+              [
+                1204,
+                887
+              ],
+              [
+                1140,
+                888
+              ],
+              [
+                1132,
+                883
+              ],
+              [
+                1122,
+                853
+              ],
+              [
+                1117,
+                800
+              ],
+              [
+                1096,
+                868
+              ],
+              [
+                1072,
+                891
+              ],
+              [
+                1064,
+                939
+              ],
+              [
+                1046,
+                974
+              ],
+              [
+                1054,
+                1025
+              ],
+              [
+                1073,
+                1047
+              ],
+              [
+                1103,
+                1052
+              ],
+              [
+                1118,
+                1042
+              ],
+              [
+                1120,
+                1021
+              ],
+              [
+                1265,
+                978
+              ],
+              [
+                1434,
+                987
+              ],
+              [
+                1506,
+                1009
+              ],
+              [
+                1570,
+                1002
+              ],
+              [
+                1597,
+                1006
+              ],
+              [
+                1630,
+                991
+              ],
+              [
+                1612,
+                872
+              ],
+              [
+                1598,
+                888
+              ],
+              [
+                1454,
+                889
+              ],
+              [
+                1416,
+                883
+              ],
+              [
+                1412,
+                661
+              ],
+              [
+                1388,
+                555
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Boxing+Day&form=BGABWCTA11&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251225",
       "fullstartdate": "20251225",
       "enddate": "20251226",

@@ -1,6 +1,373 @@
 {
   "images": [
     {
+      "startdate": "20251225",
+      "fullstartdate": "20251225",
+      "enddate": "20251226",
+      "urlbase": "https://www.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_UHD.jpg",
+      "copyrighttext": "© Jean Surprenant/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Christmas&form=BGALM&filters=HpDate:\"20251225_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Christmas trees in Old Quebec",
+      "description": "Under a crisp Canadian winter sky, it's the glow of Christmas trees—on city squares, on neighbourhood lawns and in living-room windows—that sets the season alight. From Toronto's Cavalcade of Lights to Vancouver's Festival of Lights at VanDusen Garden, communities gather around these lit evergreens, sharing warmth during the year's coldest weeks. Christmas—a celebration of faith, light and togetherness—invites people to bring that brightness indoors. Garlands wind through hallways, candles cast a soft glow across familiar rooms and mistletoe hangs in doorways while wreaths greet guests at the front door.",
+      "headline": "Christmas couture",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_XmasTree\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.81611,-71.22417/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=46.81611,-71.22417;S9;Quebec City, Quebec&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Quebec%20city%2C%20Quebec&satid=id.sid%3A8a8e64f6-510b-8816-6d69-6b5a37c533d8&vdpid=5295328629746565121&mb=47~-71.8228~46.565811~-70.719566&cardbg=%23F98745&tt=Qu%C3%A9bec%2C%20Quebec%2C%20Canada&tsts0=%2526ty%253D30%2526q%253DQuebec%252520city%25252C%252520Quebec%2526satid%253Did.sid%25253A8a8e64f6-510b-8816-6d69-6b5a37c533d8%2526vdpid%253D5295328629746565121%2526mb%253D47~-71.8228~46.565811~-70.719566%2526cardbg%253D%252523F98745&tstt0=Qu%C3%A9bec%2C%20Quebec%2C%20Canada&cp=45.531616~-77.289395&lvl=5.8090596&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 25, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Christmas&form=BGABWCTA7&filters=HpDate:\"20251225_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1891,
+            "Y": 357,
+            "Width": 1943,
+            "Height": 1696,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                1991,
+                740
+              ],
+              [
+                1906,
+                950
+              ],
+              [
+                1929,
+                1033
+              ],
+              [
+                1916,
+                1093
+              ],
+              [
+                1943,
+                1125
+              ],
+              [
+                1921,
+                1159
+              ],
+              [
+                1938,
+                1271
+              ],
+              [
+                1911,
+                1391
+              ],
+              [
+                1938,
+                1472
+              ],
+              [
+                1921,
+                1497
+              ],
+              [
+                1959,
+                1504
+              ],
+              [
+                2018,
+                1635
+              ],
+              [
+                2046,
+                1624
+              ],
+              [
+                2047,
+                1585
+              ],
+              [
+                2093,
+                1582
+              ],
+              [
+                2086,
+                1531
+              ],
+              [
+                2117,
+                1455
+              ],
+              [
+                2103,
+                1421
+              ],
+              [
+                2152,
+                1374
+              ],
+              [
+                2182,
+                1296
+              ],
+              [
+                2264,
+                1393
+              ],
+              [
+                2248,
+                1460
+              ],
+              [
+                2273,
+                1464
+              ],
+              [
+                2276,
+                1582
+              ],
+              [
+                2347,
+                1719
+              ],
+              [
+                2391,
+                1683
+              ],
+              [
+                2367,
+                1632
+              ],
+              [
+                2422,
+                1599
+              ],
+              [
+                2452,
+                1613
+              ],
+              [
+                2465,
+                1552
+              ],
+              [
+                2482,
+                1570
+              ],
+              [
+                2512,
+                1548
+              ],
+              [
+                2538,
+                1676
+              ],
+              [
+                2602,
+                1744
+              ],
+              [
+                2649,
+                1674
+              ],
+              [
+                2677,
+                1664
+              ],
+              [
+                2738,
+                1726
+              ],
+              [
+                2770,
+                1835
+              ],
+              [
+                2825,
+                1925
+              ],
+              [
+                3157,
+                1876
+              ],
+              [
+                3216,
+                1936
+              ],
+              [
+                3186,
+                1973
+              ],
+              [
+                3187,
+                2017
+              ],
+              [
+                3593,
+                2020
+              ],
+              [
+                3601,
+                1961
+              ],
+              [
+                3583,
+                1935
+              ],
+              [
+                3621,
+                1899
+              ],
+              [
+                3652,
+                1901
+              ],
+              [
+                3660,
+                1953
+              ],
+              [
+                3630,
+                1999
+              ],
+              [
+                3689,
+                2022
+              ],
+              [
+                3839,
+                2030
+              ],
+              [
+                3839,
+                763
+              ],
+              [
+                3776,
+                696
+              ],
+              [
+                3716,
+                702
+              ],
+              [
+                3637,
+                645
+              ],
+              [
+                3546,
+                642
+              ],
+              [
+                3337,
+                567
+              ],
+              [
+                3311,
+                447
+              ],
+              [
+                3244,
+                358
+              ],
+              [
+                3232,
+                405
+              ],
+              [
+                3172,
+                385
+              ],
+              [
+                3173,
+                427
+              ],
+              [
+                3151,
+                442
+              ],
+              [
+                3162,
+                543
+              ],
+              [
+                3081,
+                635
+              ],
+              [
+                2658,
+                673
+              ],
+              [
+                2645,
+                611
+              ],
+              [
+                2608,
+                602
+              ],
+              [
+                2599,
+                557
+              ],
+              [
+                2586,
+                602
+              ],
+              [
+                2502,
+                705
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Christmas&form=BGABWCTA11&filters=HpDate:\"20251225_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251224",
       "fullstartdate": "20251224",
       "enddate": "20251225",

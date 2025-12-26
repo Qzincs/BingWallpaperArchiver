@@ -1,6 +1,257 @@
 {
   "images": [
     {
+      "startdate": "20251225",
+      "fullstartdate": "20251225",
+      "enddate": "20251226",
+      "urlbase": "https://www.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_UHD.jpg",
+      "copyrighttext": "© Ruy Barbosa Pinto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=o+Natal&form=BGALM&filters=HpDate:\"20251225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Árvore de Natal na cidade do Rio de Janeiro",
+      "description": "A foto de hoje nos leva à beira da Lagoa Rodrigo de Freitas, no coração da cidade do Rio de Janeiro. A árvore iluminada reflete no espelho d’água enquanto fogos coloridos celebram a chegada do Natal. Essa imagem não é apenas um espetáculo visual — é um convite à reflexão sobre o significado desta data: renovação, solidariedade e compromisso com o futuro.",
+      "headline": "Luz, esperança e união",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251225_XmasRio\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=o+Natal&form=BGABWCTA7&filters=HpDate:\"20251225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 1,
+            "Width": 3833,
+            "Height": 1913,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                1690
+              ],
+              [
+                216,
+                1738
+              ],
+              [
+                337,
+                1690
+              ],
+              [
+                442,
+                1700
+              ],
+              [
+                549,
+                1743
+              ],
+              [
+                577,
+                1837
+              ],
+              [
+                652,
+                1853
+              ],
+              [
+                727,
+                1795
+              ],
+              [
+                719,
+                1827
+              ],
+              [
+                828,
+                1869
+              ],
+              [
+                999,
+                1856
+              ],
+              [
+                1072,
+                1880
+              ],
+              [
+                1087,
+                1808
+              ],
+              [
+                1252,
+                1780
+              ],
+              [
+                1297,
+                1813
+              ],
+              [
+                1323,
+                1786
+              ],
+              [
+                1462,
+                1807
+              ],
+              [
+                1480,
+                1876
+              ],
+              [
+                1504,
+                1825
+              ],
+              [
+                1524,
+                1863
+              ],
+              [
+                1567,
+                1764
+              ],
+              [
+                1619,
+                1765
+              ],
+              [
+                1623,
+                1724
+              ],
+              [
+                1762,
+                1580
+              ],
+              [
+                1927,
+                1643
+              ],
+              [
+                1941,
+                1623
+              ],
+              [
+                1894,
+                1616
+              ],
+              [
+                1948,
+                1607
+              ],
+              [
+                1923,
+                1589
+              ],
+              [
+                1992,
+                1588
+              ],
+              [
+                1974,
+                1598
+              ],
+              [
+                2003,
+                1616
+              ],
+              [
+                2063,
+                1575
+              ],
+              [
+                2186,
+                1700
+              ],
+              [
+                2212,
+                1824
+              ],
+              [
+                2229,
+                1791
+              ],
+              [
+                2377,
+                1773
+              ],
+              [
+                2406,
+                1811
+              ],
+              [
+                2446,
+                1801
+              ],
+              [
+                2452,
+                1857
+              ],
+              [
+                3839,
+                1841
+              ],
+              [
+                3839,
+                8
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=o+Natal&form=BGABWCTA11&filters=HpDate:\"20251225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251224",
       "fullstartdate": "20251224",
       "enddate": "20251225",

@@ -1,6 +1,217 @@
 {
   "images": [
     {
+      "startdate": "20251226",
+      "fullstartdate": "20251226",
+      "enddate": "20251227",
+      "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_ES-ES4611953486_UHD.jpg",
+      "copyrighttext": "© Julian Elliott Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Catedral+de+Salisbury&form=BGALM&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral de Salisbury, Wiltshire, Inglaterra",
+      "description": "Hoy contemplamos la majestuosa Catedral de Salisbury, ubicada en Wiltshire, Inglaterra. Esta obra maestra del gótico inglés se alza con elegancia desde el siglo XIII, destacando por su aguja, la más alta del Reino Unido con 123 metros. Su construcción, realizada en apenas 38 años, es un logro excepcional para la época. Además de su imponente arquitectura, Salisbury guarda uno de los tesoros más valiosos de la historia: una copia original de la Carta Magna de 1215, símbolo de derechos y libertades. Rodeada por el pintoresco Close, la catedral no solo es un lugar de culto, sino también un espacio donde la historia, el arte y la espiritualidad se entrelazan, atrayendo a visitantes de todo el mundo.",
+      "headline": "La joya de Wiltshire",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251226_WiltshireDawn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Catedral+de+Salisbury&form=BGABWCTA7&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1031,
+            "Y": 208,
+            "Width": 622,
+            "Height": 851,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                1357,
+                224
+              ],
+              [
+                1317,
+                548
+              ],
+              [
+                1289,
+                651
+              ],
+              [
+                1283,
+                852
+              ],
+              [
+                1261,
+                843
+              ],
+              [
+                1252,
+                814
+              ],
+              [
+                1245,
+                834
+              ],
+              [
+                1204,
+                887
+              ],
+              [
+                1140,
+                888
+              ],
+              [
+                1132,
+                883
+              ],
+              [
+                1122,
+                853
+              ],
+              [
+                1117,
+                800
+              ],
+              [
+                1096,
+                868
+              ],
+              [
+                1072,
+                891
+              ],
+              [
+                1064,
+                939
+              ],
+              [
+                1046,
+                974
+              ],
+              [
+                1054,
+                1025
+              ],
+              [
+                1073,
+                1047
+              ],
+              [
+                1103,
+                1052
+              ],
+              [
+                1118,
+                1042
+              ],
+              [
+                1120,
+                1021
+              ],
+              [
+                1265,
+                978
+              ],
+              [
+                1434,
+                987
+              ],
+              [
+                1506,
+                1009
+              ],
+              [
+                1570,
+                1002
+              ],
+              [
+                1597,
+                1006
+              ],
+              [
+                1630,
+                991
+              ],
+              [
+                1612,
+                872
+              ],
+              [
+                1598,
+                888
+              ],
+              [
+                1454,
+                889
+              ],
+              [
+                1416,
+                883
+              ],
+              [
+                1412,
+                661
+              ],
+              [
+                1388,
+                555
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Catedral+de+Salisbury&form=BGABWCTA11&filters=HpDate:\"20251225_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251225",
       "fullstartdate": "20251225",
       "enddate": "20251226",
