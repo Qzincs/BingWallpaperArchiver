@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251227",
+      "fullstartdate": "20251227",
+      "enddate": "20251228",
+      "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_EN-IN9103108275_UHD.jpg",
+      "copyrighttext": "© wanderluster/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lake+Superior+Minnesota&form=BGALM&filters=HpDate:\"20251226_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Plate ice along Lake Superior, Grand Marais, Minnesota, United States",
+      "description": "When winter tightens its grip on Lake Superior in Minnesota, United States, the shoreline transforms into a landscape of tilted, glass-like shards known as plate ice. Thin sheets fracture under shifting temperatures, then drift and stack as the wind presses them toward land. The result is a field of translucent blues and silvers, catching the light at sharp angles and making the water's edge appear sculpted rather than frozen.",
+      "headline": "Shards of winter",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.786549,-92.098114/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=46.786549,-92.098114;S9;Lake Superior, Minnesota, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lake%20Superior%2C%20Minnesota&vdpid=4899464787178034496&mb=46.792384~-92.11328~46.780704~-92.082939&cardbg=%23FFFFFF&dt=1763116200000&tt=Lake%20Superior%20Plaza%2C%20Minnesota%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DLake%252520Superior%25252C%252520Minnesota%2526vdpid%253D4899464787178034496%2526mb%253D46.792384~-92.11328~46.780704~-92.082939%2526cardbg%253D%252523FFFFFF%2526dt%253D1763116200000&tstt0=Lake%20Superior%20Plaza%2C%20Minnesota%2C%20United%20States&cp=46.503772~-94.167005&lvl=7.53&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 27, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Grand+Marais%2c+Minnesota%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lake+Superior+Minnesota&form=BGABWCTA7&filters=HpDate:\"20251226_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lake+Superior+Minnesota&form=BGABWCTA11&filters=HpDate:\"20251226_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251226",
       "fullstartdate": "20251226",
       "enddate": "20251227",

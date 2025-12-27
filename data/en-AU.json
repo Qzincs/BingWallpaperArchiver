@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251226",
+      "fullstartdate": "20251226",
+      "enddate": "20251227",
+      "urlbase": "https://www.bing.com/th?id=OHR.WinterCovadonga_ROW0034591599_UHD.jpg",
+      "copyrighttext": "© emiliozv/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=lakes+of+covadonga&form=BGALM&filters=HpDate:\"20251226_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lakes of Covadonga, Asturias, Spain",
+      "description": "If your idea of recharging includes crisp air, mountain views and water, the Lakes of Covadonga in Asturias, Spain are ready to reboot your mood. Set inside Picos de Europa National Park, the glacial duo—Enol and Ercina—prove that nature doesn't need editing software. Enol is the deeper, larger lake, calm enough to mirror the surrounding peaks. Ercina sits slightly higher, shallower and usually accompanied by Asturian cows. Both rest at around 1,000 metres, shaped long ago by slowly retreating glaciers.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251226_WinterCovadonga\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Dec 26, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=lakes+of+covadonga&form=BGABWCTA7&filters=HpDate:\"20251226_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=lakes+of+covadonga&form=BGABWCTA11&filters=HpDate:\"20251226_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251225",
       "fullstartdate": "20251225",
       "enddate": "20251226",

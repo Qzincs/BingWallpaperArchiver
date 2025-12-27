@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251227",
+      "fullstartdate": "20251227",
+      "enddate": "20251228",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.SuperiorIceMN_ZH-CN5339027344_UHD.jpg",
+      "copyrighttext": "© wanderluster/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%98%8e%e5%b0%bc%e8%8b%8f%e8%be%be%e5%b7%9e%e8%8b%8f%e5%bf%85%e5%88%a9%e5%b0%94%e6%b9%96&form=BGALM&filters=HpDate:\"20251226_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国",
+      "description": "在明尼苏达的苏必利尔湖，冬季来临时，湖岸会出现一种名为“板冰”的奇特景象：薄冰在温度变化下破裂，随风漂移并堆叠，最终形成倾斜的冰片，如同玻璃碎片般闪耀。蓝色与银色交织的半透明冰面在阳光下折射出锐利的光影，使湖边看起来更像艺术雕塑，而非冰封。",
+      "headline": "冬之碎片",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 27",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%98%8e%e5%b0%bc%e8%8b%8f%e8%be%be%e5%b7%9e%e8%8b%8f%e5%bf%85%e5%88%a9%e5%b0%94%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20251226_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%98%8e%e5%b0%bc%e8%8b%8f%e8%be%be%e5%b7%9e%e8%8b%8f%e5%bf%85%e5%88%a9%e5%b0%94%e6%b9%96&form=BGABWCTA11&filters=HpDate:\"20251226_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251226",
       "fullstartdate": "20251226",
       "enddate": "20251227",

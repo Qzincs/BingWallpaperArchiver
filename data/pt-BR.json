@@ -1,6 +1,217 @@
 {
   "images": [
     {
+      "startdate": "20251226",
+      "fullstartdate": "20251226",
+      "enddate": "20251227",
+      "urlbase": "https://www.bing.com/th?id=OHR.WiltshireDawn_PT-BR7681463999_UHD.jpg",
+      "copyrighttext": "© Julian Elliott Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=boxing+day%2c+feriado+secular&form=BGALM&filters=HpDate:\"20251226_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral de Salisbury, Wiltshire, Inglaterra",
+      "description": "No Brasil, o dia 26 de dezembro costuma ser apenas o “dia seguinte ao Natal”, marcado por descanso, passeios e, claro, liquidações. Mas em países como Reino Unido, Austrália, África do Sul e outros, essa data tem um nome e uma tradição própria: Boxing Day.",
+      "headline": "Clima festivo sem pressa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251226_WiltshireDawn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=boxing+day%2c+feriado+secular&form=BGABWCTA7&filters=HpDate:\"20251226_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1031,
+            "Y": 208,
+            "Width": 622,
+            "Height": 851,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                1357,
+                224
+              ],
+              [
+                1317,
+                548
+              ],
+              [
+                1289,
+                651
+              ],
+              [
+                1283,
+                852
+              ],
+              [
+                1261,
+                843
+              ],
+              [
+                1252,
+                814
+              ],
+              [
+                1245,
+                834
+              ],
+              [
+                1204,
+                887
+              ],
+              [
+                1140,
+                888
+              ],
+              [
+                1132,
+                883
+              ],
+              [
+                1122,
+                853
+              ],
+              [
+                1117,
+                800
+              ],
+              [
+                1096,
+                868
+              ],
+              [
+                1072,
+                891
+              ],
+              [
+                1064,
+                939
+              ],
+              [
+                1046,
+                974
+              ],
+              [
+                1054,
+                1025
+              ],
+              [
+                1073,
+                1047
+              ],
+              [
+                1103,
+                1052
+              ],
+              [
+                1118,
+                1042
+              ],
+              [
+                1120,
+                1021
+              ],
+              [
+                1265,
+                978
+              ],
+              [
+                1434,
+                987
+              ],
+              [
+                1506,
+                1009
+              ],
+              [
+                1570,
+                1002
+              ],
+              [
+                1597,
+                1006
+              ],
+              [
+                1630,
+                991
+              ],
+              [
+                1612,
+                872
+              ],
+              [
+                1598,
+                888
+              ],
+              [
+                1454,
+                889
+              ],
+              [
+                1416,
+                883
+              ],
+              [
+                1412,
+                661
+              ],
+              [
+                1388,
+                555
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=boxing+day%2c+feriado+secular&form=BGABWCTA11&filters=HpDate:\"20251226_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251225",
       "fullstartdate": "20251225",
       "enddate": "20251226",

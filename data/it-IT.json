@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251227",
+      "fullstartdate": "20251227",
+      "enddate": "20251228",
+      "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_IT-IT1352171889_UHD.jpg",
+      "copyrighttext": "© wanderluster/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+Superiore&form=BGALM&filters=HpDate:\"20251226_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lago Superiore, Grand Marais, Minnesota, USA",
+      "description": "Sul Lago Superiore, in Minnesota, nel Nord America, l’inverno non si limita a congelare: plasma la riva in un paesaggio di frammenti inclinati e traslucidi, simili al vetro, chiamati “plate ice”. Sottili lastre si spezzano sotto le variazioni di temperatura, poi il vento le sospinge verso la costa, dove si accatastano come scaglie luminose. Ne nasce un campo di azzurri e argenti che cattura la luce con angoli taglienti, trasformando il bordo dell’acqua in una scultura effimera.",
+      "headline": "Sinfonia ghiacciata",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.786549,-92.098114/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.786549,-92.098114;S9;Lago Superiore, Grand Marais, Minnesota, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lake%20Superior%2C%20Minnesota&vdpid=4899464787178034496&mb=46.792384~-92.11328~46.780704~-92.082939&cardbg=%23FFFFFF&dt=1763116200000&tt=Lake%20Superior%20Plaza%2C%20Minnesota%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DLake%252520Superior%25252C%252520Minnesota%2526vdpid%253D4899464787178034496%2526mb%253D46.792384~-92.11328~46.780704~-92.082939%2526cardbg%253D%252523FFFFFF%2526dt%253D1763116200000&tstt0=Lake%20Superior%20Plaza%2C%20Minnesota%2C%20United%20States&cp=46.503772~-94.167005&lvl=7.53&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "27 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Grand+Marais%2c+Minnesota%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lago+Superiore&form=BGABWCTA7&filters=HpDate:\"20251226_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lago+Superiore&form=BGABWCTA11&filters=HpDate:\"20251226_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251226",
       "fullstartdate": "20251226",
       "enddate": "20251227",

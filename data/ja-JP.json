@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251227",
+      "fullstartdate": "20251227",
+      "enddate": "20251228",
+      "urlbase": "https://www.bing.com/th?id=OHR.SuperiorIceMN_JA-JP0628295807_UHD.jpg",
+      "copyrighttext": "© wanderluster/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%87%8d%e7%b5%90%e3%81%99%e3%82%8b%e3%82%b9%e3%83%9a%e3%83%aa%e3%82%aa%e3%83%ab%e6%b9%96&form=BGALM&filters=HpDate:\"20251226_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "凍結するスペリオル湖, 米国 ミネソタ州",
+      "description": "北米五大湖の中で最も大きいスペリオル湖。その面積は約 82,200km² に達し、世界最大の淡水湖として知られています。湖の周辺、特にミネソタ州北東部のアイアン・レンジと呼ばれる地域には鉄鉱山が広がり、湖は鉄鉱石運送の重要な水上交通路となっています…",
+      "headline": "湖の岸に押し寄せる割れた氷の山",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251227_SuperiorIceMN\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.786549,-92.098114/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.786549,-92.098114;S9;スペリオル湖, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%82%B9%E3%83%BC%E3%83%9A%E3%83%AA%E3%82%A2%E6%B9%96&satid=id.sid%3A2ccff371-d9b7-40ff-0216-67c17894af7d&vdpid=5284034206844846081&mb=49.016159~-92.362799~46.438362~-84.965585&cardbg=%23F98745&dt=1765249200000&tt=%E3%82%B9%E3%83%BC%E3%83%9A%E3%83%AA%E3%82%A2%E6%B9%96&tsts0=%2526ty%253D30%2526q%253D%2525E3%252582%2525B9%2525E3%252583%2525BC%2525E3%252583%25259A%2525E3%252583%2525AA%2525E3%252582%2525A2%2525E6%2525B9%252596%2526satid%253Did.sid%25253A2ccff371-d9b7-40ff-0216-67c17894af7d%2526vdpid%253D5284034206844846081%2526mb%253D49.016159~-92.362799~46.438362~-84.965585%2526cardbg%253D%252523F98745%2526dt%253D1765249200000&tstt0=%E3%82%B9%E3%83%BC%E3%83%9A%E3%83%AA%E3%82%A2%E6%B9%96&cp=48.247177~-99.890272&lvl=4.396766&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 27 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%83%9f%e3%83%8d%e3%82%bd%e3%82%bf%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%87%8d%e7%b5%90%e3%81%99%e3%82%8b%e3%82%b9%e3%83%9a%e3%83%aa%e3%82%aa%e3%83%ab%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20251226_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%87%8d%e7%b5%90%e3%81%99%e3%82%8b%e3%82%b9%e3%83%9a%e3%83%aa%e3%82%aa%e3%83%ab%e6%b9%96&form=BGABWCTA11&filters=HpDate:\"20251226_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251226",
       "fullstartdate": "20251226",
       "enddate": "20251227",
