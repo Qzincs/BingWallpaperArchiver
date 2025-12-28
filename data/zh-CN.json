@@ -1,6 +1,277 @@
 {
   "images": [
     {
+      "startdate": "20251228",
+      "fullstartdate": "20251228",
+      "enddate": "20251229",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.RuffedLemur_ZH-CN5636795490_UHD.jpg",
+      "copyrighttext": "© Cyrielle Beaubois/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%bb%91%e7%99%bd%e7%8e%af%e5%b0%be%e7%8b%90%e7%8c%b4&form=BGALM&filters=HpDate:\"20251227_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "马达加斯加的黑白环尾狐猴",
+      "description": "《濒危物种法》颁布至今已51年，其宗旨依然明确：保护濒临灭绝的物种，守护它们赖以生存的栖息地。该法案于1973年签署，成为全球最强有力的保护法律之一，影响力远超美国本土。它证明了当科学研究与执法行动协同时，物种复苏便成为可能。尤其对于那些命运系于国际关注的物种，这种影响更为深远。马达加斯加的黑白环尾狐猴就是典型代表。许多人因动画片《马达加斯加》认识狐猴，但现实中的它们却面临严酷的生存困境。这种外形醒目的灵长类动物已被列为极危物种，只能在日益破碎的森林中艰难存活，栖息地丧失始终是它们挥之不去的威胁。",
+      "headline": "仍存野性",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 28",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%bb%91%e7%99%bd%e7%8e%af%e5%b0%be%e7%8b%90%e7%8c%b4&form=BGABWCTA7&filters=HpDate:\"20251227_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1668,
+            "Y": 569,
+            "Width": 1471,
+            "Height": 1587,
+            "Label": "monkey",
+            "ContourList": [],
+            "Contours": [
+              [
+                2038,
+                627
+              ],
+              [
+                1731,
+                864
+              ],
+              [
+                1703,
+                913
+              ],
+              [
+                1713,
+                1086
+              ],
+              [
+                1693,
+                1359
+              ],
+              [
+                1706,
+                1590
+              ],
+              [
+                1732,
+                1664
+              ],
+              [
+                1822,
+                1684
+              ],
+              [
+                1871,
+                1716
+              ],
+              [
+                1840,
+                1752
+              ],
+              [
+                1765,
+                1775
+              ],
+              [
+                1765,
+                1799
+              ],
+              [
+                1789,
+                1812
+              ],
+              [
+                1869,
+                1801
+              ],
+              [
+                1889,
+                1818
+              ],
+              [
+                1875,
+                1854
+              ],
+              [
+                1770,
+                1969
+              ],
+              [
+                1792,
+                2003
+              ],
+              [
+                1856,
+                1975
+              ],
+              [
+                1816,
+                2036
+              ],
+              [
+                1815,
+                2062
+              ],
+              [
+                1843,
+                2071
+              ],
+              [
+                1896,
+                2041
+              ],
+              [
+                1907,
+                2073
+              ],
+              [
+                1942,
+                2069
+              ],
+              [
+                1972,
+                2093
+              ],
+              [
+                2030,
+                2100
+              ],
+              [
+                2207,
+                2015
+              ],
+              [
+                2483,
+                1974
+              ],
+              [
+                2478,
+                2122
+              ],
+              [
+                2502,
+                2147
+              ],
+              [
+                2901,
+                2148
+              ],
+              [
+                2890,
+                2029
+              ],
+              [
+                2899,
+                1970
+              ],
+              [
+                2948,
+                1907
+              ],
+              [
+                3005,
+                1880
+              ],
+              [
+                3076,
+                1766
+              ],
+              [
+                3072,
+                1679
+              ],
+              [
+                3126,
+                1484
+              ],
+              [
+                3088,
+                1225
+              ],
+              [
+                3031,
+                1081
+              ],
+              [
+                2962,
+                965
+              ],
+              [
+                2875,
+                860
+              ],
+              [
+                2723,
+                728
+              ],
+              [
+                2540,
+                612
+              ],
+              [
+                2394,
+                579
+              ],
+              [
+                2268,
+                576
+              ],
+              [
+                2107,
+                599
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%bb%91%e7%99%bd%e7%8e%af%e5%b0%be%e7%8b%90%e7%8c%b4&form=BGABWCTA11&filters=HpDate:\"20251227_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251227",
       "fullstartdate": "20251227",
       "enddate": "20251228",

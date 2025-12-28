@@ -1,6 +1,277 @@
 {
   "images": [
     {
+      "startdate": "20251228",
+      "fullstartdate": "20251228",
+      "enddate": "20251229",
+      "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_FR-FR5360368107_UHD.jpg",
+      "copyrighttext": "© Cyrielle Beaubois/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=L%c3%a9murien+Vari+noir+blanc+Madagascar&form=BGALM&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lémurien Vari noir et blanc de Madagascar",
+      "description": "Sous le soleil ardent de Madagascar, une silhouette agile bondit entre les branches : le lémurien. Endémique de cette île aux parfums d’épices et de vanille, il est le gardien des forêts tropicales. Ses grands yeux dorés s’illuminent à l’aube, quand la canopée s’éveille au chant des oiseaux et aux murmures du vent.",
+      "headline": "L'adorable et menacé cousin du singe",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-20,47/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-20,47;S9;Madagascar&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Madagascar&satid=id.sid%3A0c191888-e860-e654-dadd-811644d3a15d&vdpid=149&mb=-11.732879~35.400586~-25.784031~58.240153&cardbg=%23F98745&tt=Madagascar&tsts0=%2526ty%253D30%2526q%253DMadagascar%2526satid%253Did.sid%25253A0c191888-e860-e654-dadd-811644d3a15d%2526vdpid%253D149%2526mb%253D-11.732879~35.400586~-25.784031~58.240153%2526cardbg%253D%252523F98745&tstt0=Madagascar&cp=-18.898892~41.631488&lvl=6.0737867&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=L%c3%a9murien+Vari+noir+blanc+Madagascar&form=BGABWCTA7&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1668,
+            "Y": 569,
+            "Width": 1471,
+            "Height": 1587,
+            "Label": "monkey",
+            "ContourList": [],
+            "Contours": [
+              [
+                2038,
+                627
+              ],
+              [
+                1731,
+                864
+              ],
+              [
+                1703,
+                913
+              ],
+              [
+                1713,
+                1086
+              ],
+              [
+                1693,
+                1359
+              ],
+              [
+                1706,
+                1590
+              ],
+              [
+                1732,
+                1664
+              ],
+              [
+                1822,
+                1684
+              ],
+              [
+                1871,
+                1716
+              ],
+              [
+                1840,
+                1752
+              ],
+              [
+                1765,
+                1775
+              ],
+              [
+                1765,
+                1799
+              ],
+              [
+                1789,
+                1812
+              ],
+              [
+                1869,
+                1801
+              ],
+              [
+                1889,
+                1818
+              ],
+              [
+                1875,
+                1854
+              ],
+              [
+                1770,
+                1969
+              ],
+              [
+                1792,
+                2003
+              ],
+              [
+                1856,
+                1975
+              ],
+              [
+                1816,
+                2036
+              ],
+              [
+                1815,
+                2062
+              ],
+              [
+                1843,
+                2071
+              ],
+              [
+                1896,
+                2041
+              ],
+              [
+                1907,
+                2073
+              ],
+              [
+                1942,
+                2069
+              ],
+              [
+                1972,
+                2093
+              ],
+              [
+                2030,
+                2100
+              ],
+              [
+                2207,
+                2015
+              ],
+              [
+                2483,
+                1974
+              ],
+              [
+                2478,
+                2122
+              ],
+              [
+                2502,
+                2147
+              ],
+              [
+                2901,
+                2148
+              ],
+              [
+                2890,
+                2029
+              ],
+              [
+                2899,
+                1970
+              ],
+              [
+                2948,
+                1907
+              ],
+              [
+                3005,
+                1880
+              ],
+              [
+                3076,
+                1766
+              ],
+              [
+                3072,
+                1679
+              ],
+              [
+                3126,
+                1484
+              ],
+              [
+                3088,
+                1225
+              ],
+              [
+                3031,
+                1081
+              ],
+              [
+                2962,
+                965
+              ],
+              [
+                2875,
+                860
+              ],
+              [
+                2723,
+                728
+              ],
+              [
+                2540,
+                612
+              ],
+              [
+                2394,
+                579
+              ],
+              [
+                2268,
+                576
+              ],
+              [
+                2107,
+                599
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=L%c3%a9murien+Vari+noir+blanc+Madagascar&form=BGABWCTA11&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251227",
       "fullstartdate": "20251227",
       "enddate": "20251228",

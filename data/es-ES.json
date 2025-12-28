@@ -1,6 +1,277 @@
 {
   "images": [
     {
+      "startdate": "20251228",
+      "fullstartdate": "20251228",
+      "enddate": "20251229",
+      "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_ES-ES4805768745_UHD.jpg",
+      "copyrighttext": "© Cyrielle Beaubois/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=L%c3%a9mures&form=BGALM&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lémur rufo blanco y negro en Madagascar",
+      "description": "En el corazón de los bosques de Madagascar vive un animal extraordinario: el lémur rufo blanco y negro. Sus gritos, audibles a gran distancia, acompañan una labor vital para el ecosistema. Al alimentarse de frutos y néctar, dispersa semillas y contribuye a la regeneración del bosque. Hay incluso plantas que dependen por completo de él.",
+      "headline": "El guardián del bosque",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=L%c3%a9mures&form=BGABWCTA7&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1668,
+            "Y": 569,
+            "Width": 1471,
+            "Height": 1587,
+            "Label": "monkey",
+            "ContourList": [],
+            "Contours": [
+              [
+                2038,
+                627
+              ],
+              [
+                1731,
+                864
+              ],
+              [
+                1703,
+                913
+              ],
+              [
+                1713,
+                1086
+              ],
+              [
+                1693,
+                1359
+              ],
+              [
+                1706,
+                1590
+              ],
+              [
+                1732,
+                1664
+              ],
+              [
+                1822,
+                1684
+              ],
+              [
+                1871,
+                1716
+              ],
+              [
+                1840,
+                1752
+              ],
+              [
+                1765,
+                1775
+              ],
+              [
+                1765,
+                1799
+              ],
+              [
+                1789,
+                1812
+              ],
+              [
+                1869,
+                1801
+              ],
+              [
+                1889,
+                1818
+              ],
+              [
+                1875,
+                1854
+              ],
+              [
+                1770,
+                1969
+              ],
+              [
+                1792,
+                2003
+              ],
+              [
+                1856,
+                1975
+              ],
+              [
+                1816,
+                2036
+              ],
+              [
+                1815,
+                2062
+              ],
+              [
+                1843,
+                2071
+              ],
+              [
+                1896,
+                2041
+              ],
+              [
+                1907,
+                2073
+              ],
+              [
+                1942,
+                2069
+              ],
+              [
+                1972,
+                2093
+              ],
+              [
+                2030,
+                2100
+              ],
+              [
+                2207,
+                2015
+              ],
+              [
+                2483,
+                1974
+              ],
+              [
+                2478,
+                2122
+              ],
+              [
+                2502,
+                2147
+              ],
+              [
+                2901,
+                2148
+              ],
+              [
+                2890,
+                2029
+              ],
+              [
+                2899,
+                1970
+              ],
+              [
+                2948,
+                1907
+              ],
+              [
+                3005,
+                1880
+              ],
+              [
+                3076,
+                1766
+              ],
+              [
+                3072,
+                1679
+              ],
+              [
+                3126,
+                1484
+              ],
+              [
+                3088,
+                1225
+              ],
+              [
+                3031,
+                1081
+              ],
+              [
+                2962,
+                965
+              ],
+              [
+                2875,
+                860
+              ],
+              [
+                2723,
+                728
+              ],
+              [
+                2540,
+                612
+              ],
+              [
+                2394,
+                579
+              ],
+              [
+                2268,
+                576
+              ],
+              [
+                2107,
+                599
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=L%c3%a9mures&form=BGABWCTA11&filters=HpDate:\"20251227_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251227",
       "fullstartdate": "20251227",
       "enddate": "20251228",
