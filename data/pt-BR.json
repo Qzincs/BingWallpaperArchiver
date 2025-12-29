@@ -1,6 +1,277 @@
 {
   "images": [
     {
+      "startdate": "20251228",
+      "fullstartdate": "20251228",
+      "enddate": "20251229",
+      "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_PT-BR6904572079_UHD.jpg",
+      "copyrighttext": "© Cyrielle Beaubois/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Varecia-preto-e-branco&form=BGALM&filters=HpDate:\"20251228_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Varecia-preto-e-branco em Madagascar",
+      "description": "Madagascar é uma ilha no Oceano Índico conhecida por sua biodiversidade extraordinária. Entre seus habitantes mais fascinantes está o varecia-preto-e-branco, que ilustra nossa imagem do dia. Este primata chama atenção pela pelagem marcante e comportamento singular. É um dos maiores lêmures e desempenha um papel essencial como polinizador, ajudando a manter o equilíbrio das florestas tropicais. Um fato curioso: é um dos poucos primatas que constroem ninhos para seus filhotes, utilizando folhas e galhos no alto das árvores.",
+      "headline": "Um eco de vida",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Varecia-preto-e-branco&form=BGABWCTA7&filters=HpDate:\"20251228_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1668,
+            "Y": 569,
+            "Width": 1471,
+            "Height": 1587,
+            "Label": "monkey",
+            "ContourList": [],
+            "Contours": [
+              [
+                2038,
+                627
+              ],
+              [
+                1731,
+                864
+              ],
+              [
+                1703,
+                913
+              ],
+              [
+                1713,
+                1086
+              ],
+              [
+                1693,
+                1359
+              ],
+              [
+                1706,
+                1590
+              ],
+              [
+                1732,
+                1664
+              ],
+              [
+                1822,
+                1684
+              ],
+              [
+                1871,
+                1716
+              ],
+              [
+                1840,
+                1752
+              ],
+              [
+                1765,
+                1775
+              ],
+              [
+                1765,
+                1799
+              ],
+              [
+                1789,
+                1812
+              ],
+              [
+                1869,
+                1801
+              ],
+              [
+                1889,
+                1818
+              ],
+              [
+                1875,
+                1854
+              ],
+              [
+                1770,
+                1969
+              ],
+              [
+                1792,
+                2003
+              ],
+              [
+                1856,
+                1975
+              ],
+              [
+                1816,
+                2036
+              ],
+              [
+                1815,
+                2062
+              ],
+              [
+                1843,
+                2071
+              ],
+              [
+                1896,
+                2041
+              ],
+              [
+                1907,
+                2073
+              ],
+              [
+                1942,
+                2069
+              ],
+              [
+                1972,
+                2093
+              ],
+              [
+                2030,
+                2100
+              ],
+              [
+                2207,
+                2015
+              ],
+              [
+                2483,
+                1974
+              ],
+              [
+                2478,
+                2122
+              ],
+              [
+                2502,
+                2147
+              ],
+              [
+                2901,
+                2148
+              ],
+              [
+                2890,
+                2029
+              ],
+              [
+                2899,
+                1970
+              ],
+              [
+                2948,
+                1907
+              ],
+              [
+                3005,
+                1880
+              ],
+              [
+                3076,
+                1766
+              ],
+              [
+                3072,
+                1679
+              ],
+              [
+                3126,
+                1484
+              ],
+              [
+                3088,
+                1225
+              ],
+              [
+                3031,
+                1081
+              ],
+              [
+                2962,
+                965
+              ],
+              [
+                2875,
+                860
+              ],
+              [
+                2723,
+                728
+              ],
+              [
+                2540,
+                612
+              ],
+              [
+                2394,
+                579
+              ],
+              [
+                2268,
+                576
+              ],
+              [
+                2107,
+                599
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Varecia-preto-e-branco&form=BGABWCTA11&filters=HpDate:\"20251228_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251227",
       "fullstartdate": "20251227",
       "enddate": "20251228",

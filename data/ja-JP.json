@@ -1,6 +1,257 @@
 {
   "images": [
     {
+      "startdate": "20251229",
+      "fullstartdate": "20251229",
+      "enddate": "20251230",
+      "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_JA-JP3058730246_UHD.jpg",
+      "copyrighttext": "© Kenan Talas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%82%ac%e3%83%a0%e3%83%ac%e3%83%b3%e3%83%84%e8%81%96%e3%82%b0%e3%83%aa%e3%82%b4%e3%83%ab%e6%95%99%e4%bc%9a&form=BGALM&filters=HpDate:\"20251228_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "アブガムレンツ聖グリゴル教会, トルコ",
+      "description": "トルコ共和国の北東部、アルメニア共和国との国境近くに位置するアニ遺跡。バグラトゥニ朝アルメニアの首都であり、10 世紀から 11 世紀にかけては文化・経済の中心地として栄えました。地震や侵略、交易路の変化により一時は衰退しましたが、複数の文化が融合した歴史的価値が評価され、2016 年にユネスコの世界遺産に登録されました…",
+      "headline": "栄枯盛衰を感じさせる美しい廃墟",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.3307,42.572102/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=40.3307,42.572102;S9;アニ遺跡, トルコ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E3%82%A2%E3%83%8B%E9%81%BA%E8%B7%A1&satid=id.sid%3A0ba4dca2-6674-7df7-ba80-c336459bea00&vdpid=7253372855792959489&mb=40.51207~43.562948~40.502934~43.582624&cardbg=%23F98745&dt=1765267200000&tt=Ani%2C%20Kars%2C%20T%C3%BCrkiye&tsts0=%2526ty%253D30%2526q%253D%2525E3%252582%2525A2%2525E3%252583%25258B%2525E9%252581%2525BA%2525E8%2525B7%2525A1%2526satid%253Did.sid%25253A0ba4dca2-6674-7df7-ba80-c336459bea00%2526vdpid%253D7253372855792959489%2526mb%253D40.51207~43.562948~40.502934~43.582624%2526cardbg%253D%252523F98745%2526dt%253D1765267200000&tstt0=Ani%2C%20Kars%2C%20T%C3%BCrkiye&cp=40.507502~43.567464&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 29 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%88%e3%83%ab%e3%82%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%82%ac%e3%83%a0%e3%83%ac%e3%83%b3%e3%83%84%e8%81%96%e3%82%b0%e3%83%aa%e3%82%b4%e3%83%ab%e6%95%99%e4%bc%9a&form=BGABWCTA7&filters=HpDate:\"20251228_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2206,
+            "Y": 240,
+            "Width": 960,
+            "Height": 1286,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2603,
+                249
+              ],
+              [
+                2590,
+                256
+              ],
+              [
+                2583,
+                283
+              ],
+              [
+                2362,
+                583
+              ],
+              [
+                2353,
+                624
+              ],
+              [
+                2369,
+                658
+              ],
+              [
+                2371,
+                822
+              ],
+              [
+                2246,
+                898
+              ],
+              [
+                2233,
+                916
+              ],
+              [
+                2232,
+                970
+              ],
+              [
+                2250,
+                1016
+              ],
+              [
+                2250,
+                1059
+              ],
+              [
+                2240,
+                1086
+              ],
+              [
+                2254,
+                1268
+              ],
+              [
+                2253,
+                1447
+              ],
+              [
+                2233,
+                1472
+              ],
+              [
+                2242,
+                1490
+              ],
+              [
+                2260,
+                1485
+              ],
+              [
+                2285,
+                1514
+              ],
+              [
+                2544,
+                1513
+              ],
+              [
+                2829,
+                1491
+              ],
+              [
+                2910,
+                1465
+              ],
+              [
+                2967,
+                1459
+              ],
+              [
+                2985,
+                1446
+              ],
+              [
+                2992,
+                1412
+              ],
+              [
+                3050,
+                1416
+              ],
+              [
+                3080,
+                1436
+              ],
+              [
+                3115,
+                1430
+              ],
+              [
+                3103,
+                1150
+              ],
+              [
+                3113,
+                1134
+              ],
+              [
+                3103,
+                1007
+              ],
+              [
+                3114,
+                976
+              ],
+              [
+                3102,
+                932
+              ],
+              [
+                3069,
+                923
+              ],
+              [
+                3067,
+                882
+              ],
+              [
+                3051,
+                840
+              ],
+              [
+                3038,
+                830
+              ],
+              [
+                2887,
+                787
+              ],
+              [
+                2865,
+                772
+              ],
+              [
+                2862,
+                610
+              ],
+              [
+                2879,
+                559
+              ],
+              [
+                2876,
+                527
+              ],
+              [
+                2671,
+                341
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%82%ac%e3%83%a0%e3%83%ac%e3%83%b3%e3%83%84%e8%81%96%e3%82%b0%e3%83%aa%e3%82%b4%e3%83%ab%e6%95%99%e4%bc%9a&form=BGABWCTA11&filters=HpDate:\"20251228_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251228",
       "fullstartdate": "20251228",
       "enddate": "20251229",

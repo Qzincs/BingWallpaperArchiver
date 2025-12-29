@@ -1,6 +1,257 @@
 {
   "images": [
     {
+      "startdate": "20251229",
+      "fullstartdate": "20251229",
+      "enddate": "20251230",
+      "urlbase": "https://www.bing.com/th?id=OHR.AniTurkey_FR-FR6681755589_UHD.jpg",
+      "copyrighttext": "© Kenan Talas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=ruines+Ani+Turquie&form=BGALM&filters=HpDate:\"20251228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Église Saint-Grégoire à Ani, Kars, Turquie",
+      "description": "Sur un plateau balayé par les vents, à l’est de la Turquie, les ruines d’Ani surgissent comme une silhouette figée dans le temps. Il y a mille ans, cette cité arménienne animait la route de la soie, ses remparts et ses marchés vibrant au rythme des échanges.",
+      "headline": "La ville aux mille et une églises",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/40.3307,42.572102/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=40.3307,42.572102;S9;Ani%20Ruins%2C%20Kars%2C%20T%C3%BCrkiye&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Ani%20Ruins%2C%20Kars%2C%20T%C3%BCrkiye&ss=ypid.YN8184x17435406297047085351&mb=40.337197~42.556937~40.324193~42.587278&description=%C5%9Eehitlik%20Caddesi%20No%3A87%2036000%2FKars%C2%B7Simgesel%20yap%C4%B1%20ve%20tarihi%20bina&cardbg=%233AABCF&dt=1763469000000&tt=Ani%20Ruins&tsts0=%2526ty%253D18%2526q%253DAni%252520Ruins%25252C%252520Kars%25252C%252520T%2525C3%2525BCrkiye%2526ss%253Dypid.YN8184x17435406297047085351%2526mb%253D40.337197~42.556937~40.324193~42.587278%2526description%253D%2525C5%25259Eehitlik%252520Caddesi%252520No%25253A87%25252036000%25252FKars%2525C2%2525B7Simgesel%252520yap%2525C4%2525B1%252520ve%252520tarihi%252520bina%2526cardbg%253D%2525233AABCF%2526dt%253D1763469000000&tstt0=Ani%20Ruins&cp=40.295087~41.503095&lvl=8.183194&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Kars%2c+Turquie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=ruines+Ani+Turquie&form=BGABWCTA7&filters=HpDate:\"20251228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2206,
+            "Y": 240,
+            "Width": 960,
+            "Height": 1286,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2603,
+                249
+              ],
+              [
+                2590,
+                256
+              ],
+              [
+                2583,
+                283
+              ],
+              [
+                2362,
+                583
+              ],
+              [
+                2353,
+                624
+              ],
+              [
+                2369,
+                658
+              ],
+              [
+                2371,
+                822
+              ],
+              [
+                2246,
+                898
+              ],
+              [
+                2233,
+                916
+              ],
+              [
+                2232,
+                970
+              ],
+              [
+                2250,
+                1016
+              ],
+              [
+                2250,
+                1059
+              ],
+              [
+                2240,
+                1086
+              ],
+              [
+                2254,
+                1268
+              ],
+              [
+                2253,
+                1447
+              ],
+              [
+                2233,
+                1472
+              ],
+              [
+                2242,
+                1490
+              ],
+              [
+                2260,
+                1485
+              ],
+              [
+                2285,
+                1514
+              ],
+              [
+                2544,
+                1513
+              ],
+              [
+                2829,
+                1491
+              ],
+              [
+                2910,
+                1465
+              ],
+              [
+                2967,
+                1459
+              ],
+              [
+                2985,
+                1446
+              ],
+              [
+                2992,
+                1412
+              ],
+              [
+                3050,
+                1416
+              ],
+              [
+                3080,
+                1436
+              ],
+              [
+                3115,
+                1430
+              ],
+              [
+                3103,
+                1150
+              ],
+              [
+                3113,
+                1134
+              ],
+              [
+                3103,
+                1007
+              ],
+              [
+                3114,
+                976
+              ],
+              [
+                3102,
+                932
+              ],
+              [
+                3069,
+                923
+              ],
+              [
+                3067,
+                882
+              ],
+              [
+                3051,
+                840
+              ],
+              [
+                3038,
+                830
+              ],
+              [
+                2887,
+                787
+              ],
+              [
+                2865,
+                772
+              ],
+              [
+                2862,
+                610
+              ],
+              [
+                2879,
+                559
+              ],
+              [
+                2876,
+                527
+              ],
+              [
+                2671,
+                341
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=ruines+Ani+Turquie&form=BGABWCTA11&filters=HpDate:\"20251228_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251228",
       "fullstartdate": "20251228",
       "enddate": "20251229",

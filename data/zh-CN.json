@@ -1,6 +1,257 @@
 {
   "images": [
     {
+      "startdate": "20251229",
+      "fullstartdate": "20251229",
+      "enddate": "20251230",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.AniTurkey_ZH-CN5838141955_UHD.jpg",
+      "copyrighttext": "© Kenan Talas/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9c%9f%e8%80%b3%e5%85%b6%e9%98%bf%e5%b0%bc%e9%81%97%e5%9d%80&form=BGALM&filters=HpDate:\"20251228_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其",
+      "description": "在土耳其东部与亚美尼亚接壤的边境地带，一片风吹草低的台地上，阿尼古城遗址在荒野中清晰浮现。千年前，这里是丝绸之路上的繁华都城，城墙巍峨，街市喧闹，商旅往来不息，文化在此交汇。如今，风声取代了人声，但那沧桑的轮廓，仍默默诉说着昔日的辉煌。",
+      "headline": "一座比城市更悠久的教堂",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251229_AniTurkey\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 29",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9c%9f%e8%80%b3%e5%85%b6%e9%98%bf%e5%b0%bc%e9%81%97%e5%9d%80&form=BGABWCTA7&filters=HpDate:\"20251228_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2206,
+            "Y": 240,
+            "Width": 960,
+            "Height": 1286,
+            "Label": "tower",
+            "ContourList": [],
+            "Contours": [
+              [
+                2603,
+                249
+              ],
+              [
+                2590,
+                256
+              ],
+              [
+                2583,
+                283
+              ],
+              [
+                2362,
+                583
+              ],
+              [
+                2353,
+                624
+              ],
+              [
+                2369,
+                658
+              ],
+              [
+                2371,
+                822
+              ],
+              [
+                2246,
+                898
+              ],
+              [
+                2233,
+                916
+              ],
+              [
+                2232,
+                970
+              ],
+              [
+                2250,
+                1016
+              ],
+              [
+                2250,
+                1059
+              ],
+              [
+                2240,
+                1086
+              ],
+              [
+                2254,
+                1268
+              ],
+              [
+                2253,
+                1447
+              ],
+              [
+                2233,
+                1472
+              ],
+              [
+                2242,
+                1490
+              ],
+              [
+                2260,
+                1485
+              ],
+              [
+                2285,
+                1514
+              ],
+              [
+                2544,
+                1513
+              ],
+              [
+                2829,
+                1491
+              ],
+              [
+                2910,
+                1465
+              ],
+              [
+                2967,
+                1459
+              ],
+              [
+                2985,
+                1446
+              ],
+              [
+                2992,
+                1412
+              ],
+              [
+                3050,
+                1416
+              ],
+              [
+                3080,
+                1436
+              ],
+              [
+                3115,
+                1430
+              ],
+              [
+                3103,
+                1150
+              ],
+              [
+                3113,
+                1134
+              ],
+              [
+                3103,
+                1007
+              ],
+              [
+                3114,
+                976
+              ],
+              [
+                3102,
+                932
+              ],
+              [
+                3069,
+                923
+              ],
+              [
+                3067,
+                882
+              ],
+              [
+                3051,
+                840
+              ],
+              [
+                3038,
+                830
+              ],
+              [
+                2887,
+                787
+              ],
+              [
+                2865,
+                772
+              ],
+              [
+                2862,
+                610
+              ],
+              [
+                2879,
+                559
+              ],
+              [
+                2876,
+                527
+              ],
+              [
+                2671,
+                341
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9c%9f%e8%80%b3%e5%85%b6%e9%98%bf%e5%b0%bc%e9%81%97%e5%9d%80&form=BGABWCTA11&filters=HpDate:\"20251228_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251228",
       "fullstartdate": "20251228",
       "enddate": "20251229",

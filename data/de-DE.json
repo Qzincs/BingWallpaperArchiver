@@ -1,6 +1,465 @@
 {
   "images": [
     {
+      "startdate": "20251229",
+      "fullstartdate": "20251229",
+      "enddate": "20251230",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_173631643",
+      "copyrighttext": "© Maridav/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=South%20of%20Iceland&form=BGALM",
+      "title": "South of Iceland",
+      "description": "Iceland waterfall Skogafoss in South Iceland nature landscape",
+      "headline": "South of Iceland",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=South%20of%20Iceland&satid=id.sid%3Ae1ba31bc-7b8e-2e19-cd94-e86fc0852594&vdpid=110&mb=67.425446~-25.013517~63.000501~-12.804606&cardbg=%23F98745&tt=Iceland&tsts0=%2526ty%253D30%2526q%253DSouth%252520of%252520Iceland%2526satid%253Did.sid%25253Ae1ba31bc-7b8e-2e19-cd94-e86fc0852594%2526vdpid%253D110%2526mb%253D67.425446~-25.013517~63.000501~-12.804606%2526cardbg%253D%252523F98745&tstt0=Iceland&cp=65.304685~-21.94476&lvl=6.8448863&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "29. Dez.. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+South+of+Iceland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=South%20of%20Iceland&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1944,
+            "Y": 1200,
+            "Width": 1130,
+            "Height": 2069,
+            "Label": "fountain",
+            "ContourList": [],
+            "Contours": [
+              [
+                2121,
+                1266
+              ],
+              [
+                2208,
+                1362
+              ],
+              [
+                2184,
+                1400
+              ],
+              [
+                2104,
+                2373
+              ],
+              [
+                2056,
+                2474
+              ],
+              [
+                2102,
+                2524
+              ],
+              [
+                2129,
+                2526
+              ],
+              [
+                2056,
+                2563
+              ],
+              [
+                2064,
+                2676
+              ],
+              [
+                2082,
+                2616
+              ],
+              [
+                2130,
+                2664
+              ],
+              [
+                2093,
+                2692
+              ],
+              [
+                2122,
+                2730
+              ],
+              [
+                2085,
+                2756
+              ],
+              [
+                2106,
+                2781
+              ],
+              [
+                2077,
+                2794
+              ],
+              [
+                2112,
+                2833
+              ],
+              [
+                2083,
+                2844
+              ],
+              [
+                2067,
+                2816
+              ],
+              [
+                2032,
+                2820
+              ],
+              [
+                2053,
+                2833
+              ],
+              [
+                2021,
+                2865
+              ],
+              [
+                2072,
+                2986
+              ],
+              [
+                2060,
+                3127
+              ],
+              [
+                2121,
+                3217
+              ],
+              [
+                2146,
+                3229
+              ],
+              [
+                2183,
+                3194
+              ],
+              [
+                2220,
+                3233
+              ],
+              [
+                2211,
+                3216
+              ],
+              [
+                2238,
+                3191
+              ],
+              [
+                2224,
+                3126
+              ],
+              [
+                2234,
+                3076
+              ],
+              [
+                2256,
+                3087
+              ],
+              [
+                2240,
+                3050
+              ],
+              [
+                2256,
+                3029
+              ],
+              [
+                2307,
+                3138
+              ],
+              [
+                2428,
+                3258
+              ],
+              [
+                2660,
+                3260
+              ],
+              [
+                2715,
+                3242
+              ],
+              [
+                2750,
+                3263
+              ],
+              [
+                3049,
+                3255
+              ],
+              [
+                3013,
+                3242
+              ],
+              [
+                3031,
+                3229
+              ],
+              [
+                2983,
+                3246
+              ],
+              [
+                2929,
+                3210
+              ],
+              [
+                2910,
+                3243
+              ],
+              [
+                2857,
+                3207
+              ],
+              [
+                2824,
+                3217
+              ],
+              [
+                2861,
+                3194
+              ],
+              [
+                2835,
+                3176
+              ],
+              [
+                2925,
+                3172
+              ],
+              [
+                2949,
+                3152
+              ],
+              [
+                2890,
+                3109
+              ],
+              [
+                2858,
+                3113
+              ],
+              [
+                2900,
+                3089
+              ],
+              [
+                2909,
+                3053
+              ],
+              [
+                2938,
+                3062
+              ],
+              [
+                2878,
+                3024
+              ],
+              [
+                2897,
+                3011
+              ],
+              [
+                2853,
+                2934
+              ],
+              [
+                2827,
+                3017
+              ],
+              [
+                2827,
+                2986
+              ],
+              [
+                2798,
+                2973
+              ],
+              [
+                2828,
+                2935
+              ],
+              [
+                2781,
+                2910
+              ],
+              [
+                2794,
+                2882
+              ],
+              [
+                2749,
+                2909
+              ],
+              [
+                2758,
+                2871
+              ],
+              [
+                2800,
+                2858
+              ],
+              [
+                2769,
+                2820
+              ],
+              [
+                2791,
+                2812
+              ],
+              [
+                2804,
+                2769
+              ],
+              [
+                2795,
+                2640
+              ],
+              [
+                2850,
+                2628
+              ],
+              [
+                2864,
+                2590
+              ],
+              [
+                2896,
+                2576
+              ],
+              [
+                2865,
+                2539
+              ],
+              [
+                2909,
+                2489
+              ],
+              [
+                2932,
+                2501
+              ],
+              [
+                2928,
+                2382
+              ],
+              [
+                2916,
+                2398
+              ],
+              [
+                2925,
+                2445
+              ],
+              [
+                2909,
+                2473
+              ],
+              [
+                2897,
+                2384
+              ],
+              [
+                2813,
+                2324
+              ],
+              [
+                2758,
+                2244
+              ],
+              [
+                2717,
+                2254
+              ],
+              [
+                2700,
+                2232
+              ],
+              [
+                2704,
+                2036
+              ],
+              [
+                2657,
+                1380
+              ],
+              [
+                2678,
+                1323
+              ],
+              [
+                2610,
+                1299
+              ],
+              [
+                2565,
+                1248
+              ],
+              [
+                2454,
+                1229
+              ],
+              [
+                2339,
+                1228
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=South%20of%20Iceland&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251228",
       "fullstartdate": "20251228",
       "enddate": "20251229",

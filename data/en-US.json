@@ -1,6 +1,277 @@
 {
   "images": [
     {
+      "startdate": "20251228",
+      "fullstartdate": "20251228",
+      "enddate": "20251229",
+      "urlbase": "https://www.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg",
+      "copyrighttext": "© Cyrielle Beaubois/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Endangered+Species+Act+1973&form=BGALM&filters=HpDate:\"20251228_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Black-and-white ruffed lemur in Madagascar",
+      "description": "Fifty-one years after the Endangered Species Act (ESA) became law, its purpose remains clear: to protect species facing extinction and preserve the habitats they depend on. Signed in 1973, the ESA became one of the world's strongest conservation laws, influencing policies well beyond the United States. It demonstrates that recovery is possible when science and enforcement work together. Its influence on conservation is especially clear in species whose futures hinge on international attention. The black-and-white ruffed lemur of Madagascar is one such example. Many people recognize lemurs from the animated movie 'Madagascar,' but the real animal faces a much harsher reality. This striking primate is critically endangered, surviving in increasingly fragmented forests where habitat loss remains a constant threat.",
+      "headline": "What remains wild",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251228_RuffedLemur\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-20,47/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=-20,47;S9;Madagascar&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?cp=-15.986081~21.100333&lvl=3.9796329&pi=0&tstt0=Madagascar&tsts0=%2526ty%253D30%2526q%253DMadagascar%2526satid%253Did.sid%25253A0c191888-e860-e654-dadd-811644d3a15d%2526vdpid%253D149%2526mb%253D-11.732879~33.582675~-25.784031~60.058065%2526cardbg%253D%252523FFFFFF&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 28, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Endangered+Species+Act+1973&form=BGABWCTA7&filters=HpDate:\"20251228_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1668,
+            "Y": 569,
+            "Width": 1471,
+            "Height": 1587,
+            "Label": "monkey",
+            "ContourList": [],
+            "Contours": [
+              [
+                2038,
+                627
+              ],
+              [
+                1731,
+                864
+              ],
+              [
+                1703,
+                913
+              ],
+              [
+                1713,
+                1086
+              ],
+              [
+                1693,
+                1359
+              ],
+              [
+                1706,
+                1590
+              ],
+              [
+                1732,
+                1664
+              ],
+              [
+                1822,
+                1684
+              ],
+              [
+                1871,
+                1716
+              ],
+              [
+                1840,
+                1752
+              ],
+              [
+                1765,
+                1775
+              ],
+              [
+                1765,
+                1799
+              ],
+              [
+                1789,
+                1812
+              ],
+              [
+                1869,
+                1801
+              ],
+              [
+                1889,
+                1818
+              ],
+              [
+                1875,
+                1854
+              ],
+              [
+                1770,
+                1969
+              ],
+              [
+                1792,
+                2003
+              ],
+              [
+                1856,
+                1975
+              ],
+              [
+                1816,
+                2036
+              ],
+              [
+                1815,
+                2062
+              ],
+              [
+                1843,
+                2071
+              ],
+              [
+                1896,
+                2041
+              ],
+              [
+                1907,
+                2073
+              ],
+              [
+                1942,
+                2069
+              ],
+              [
+                1972,
+                2093
+              ],
+              [
+                2030,
+                2100
+              ],
+              [
+                2207,
+                2015
+              ],
+              [
+                2483,
+                1974
+              ],
+              [
+                2478,
+                2122
+              ],
+              [
+                2502,
+                2147
+              ],
+              [
+                2901,
+                2148
+              ],
+              [
+                2890,
+                2029
+              ],
+              [
+                2899,
+                1970
+              ],
+              [
+                2948,
+                1907
+              ],
+              [
+                3005,
+                1880
+              ],
+              [
+                3076,
+                1766
+              ],
+              [
+                3072,
+                1679
+              ],
+              [
+                3126,
+                1484
+              ],
+              [
+                3088,
+                1225
+              ],
+              [
+                3031,
+                1081
+              ],
+              [
+                2962,
+                965
+              ],
+              [
+                2875,
+                860
+              ],
+              [
+                2723,
+                728
+              ],
+              [
+                2540,
+                612
+              ],
+              [
+                2394,
+                579
+              ],
+              [
+                2268,
+                576
+              ],
+              [
+                2107,
+                599
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Endangered+Species+Act+1973&form=BGABWCTA11&filters=HpDate:\"20251228_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251227",
       "fullstartdate": "20251227",
       "enddate": "20251228",
