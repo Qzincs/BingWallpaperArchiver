@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251230",
+      "fullstartdate": "20251230",
+      "enddate": "20251231",
+      "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_FR-FR9912215229_UHD.jpg",
+      "copyrighttext": "© Martin Bailey/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Cygnes+chanteurs&form=BGALM&filters=HpDate:\"20251229_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cygnes chanteurs, Kotoku, Japon",
+      "description": "Quand l’hiver s’installe au Japon, un frisson parcourt les lacs avant même que le vent ne souffle. Puis, un cri clair fend le silence : les cygnes chanteurs sont arrivés. Leur appel puissant glisse sur l’eau, réveillant la saison froide. Ces voyageurs venus de Sibérie et de l’Extrême-Orient russe choisissent les rives japonaises comme refuge pour leurs eaux et leur nourriture.",
+      "headline": "Envol mélodieux vers le Japon",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_JapanSwans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cygnes+chanteurs&form=BGABWCTA7&filters=HpDate:\"20251229_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cygnes+chanteurs&form=BGABWCTA11&filters=HpDate:\"20251229_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251229",
       "fullstartdate": "20251229",
       "enddate": "20251230",

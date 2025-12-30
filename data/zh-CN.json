@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251230",
+      "fullstartdate": "20251230",
+      "enddate": "20251231",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.SwedenSolstice_ZH-CN8975506700_UHD.jpg",
+      "copyrighttext": "© Schon/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8c%97%e5%8d%8a%e7%90%83%e7%9a%84%e5%86%ac%e5%ad%a3&form=BGALM&filters=HpDate:\"20251229_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "晨光透过结霜的树木洒下，瑞典",
+      "description": "冬季也总是有一些令人流连忘返的景色，例如瑞典的这片树林，就像踏入了一个银白的童话世界。高大的树木身披厚厚的霜雪外衣，像是忠诚的卫士，静静地伫立。每阳光透过树枝的缝隙洒下，形成一道道金色的光线，与洁白的雪相互交织，营造出一种如梦似幻的氛围。雪花在阳光的照耀下闪烁着晶莹的光芒，像是无数颗细碎的钻石，镶嵌在这银白的世界里。",
+      "headline": "新太阳的诞生",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_SwedenSolstice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2025 12月 30",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8c%97%e5%8d%8a%e7%90%83%e7%9a%84%e5%86%ac%e5%ad%a3&form=BGABWCTA7&filters=HpDate:\"20251229_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8c%97%e5%8d%8a%e7%90%83%e7%9a%84%e5%86%ac%e5%ad%a3&form=BGABWCTA11&filters=HpDate:\"20251229_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251229",
       "fullstartdate": "20251229",
       "enddate": "20251230",

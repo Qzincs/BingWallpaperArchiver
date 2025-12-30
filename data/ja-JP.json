@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251230",
+      "fullstartdate": "20251230",
+      "enddate": "20251231",
+      "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg",
+      "copyrighttext": "© Martin Bailey/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8f%a4%e5%be%b3%e6%b2%bc&form=BGALM&filters=HpDate:\"20251229_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "古徳沼, 茨城県 那珂市",
+      "description": "夕焼けの空を優雅に渡るオオハクチョウ。夏はユーラシア大陸の北部で繁殖し、冬は日本、中国、韓国など温暖な地域に渡って越冬します。日本では北海道や東北地方の湖沼、河川でよく見られ、冬の風物詩として親しまれています…",
+      "headline": "夕陽に染まる空を舞う冬の使者",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_JapanSwans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.495674,140.441299/14?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.495674,140.441299;S9;古徳沼&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E5%8F%A4%E5%BE%B3%E6%B2%BC&mb=36.50594~140.420378~36.485376~140.462265&cardbg=%23F98745&dt=1764925200000&tt=%E5%8F%A4%E5%BE%B3%2C%20%E9%82%A3%E7%8F%82%E5%B8%82%2C%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%2C%20%E6%97%A5%E6%9C%AC&tsts2=%2526ty%253D18%2526q%253D%2525E5%25258F%2525A4%2525E5%2525BE%2525B3%2525E6%2525B2%2525BC%2526mb%253D36.50594~140.420378~36.485376~140.462265%2526cardbg%253D%252523F98745%2526dt%253D1764925200000&tstt2=%E5%8F%A4%E5%BE%B3%2C%20%E9%82%A3%E7%8F%82%E5%B8%82%2C%20%E8%8C%A8%E5%9F%8E%E7%9C%8C%2C%20%E6%97%A5%E6%9C%AC&cp=36.495659~140.429994&lvl=14.91&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 30 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e8%8c%a8%e5%9f%8e%e7%9c%8c+%e9%82%a3%e7%8f%82%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8f%a4%e5%be%b3%e6%b2%bc&form=BGABWCTA7&filters=HpDate:\"20251229_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8f%a4%e5%be%b3%e6%b2%bc&form=BGABWCTA11&filters=HpDate:\"20251229_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251229",
       "fullstartdate": "20251229",
       "enddate": "20251230",
