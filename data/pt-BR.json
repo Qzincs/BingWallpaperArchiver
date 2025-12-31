@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251230",
+      "fullstartdate": "20251230",
+      "enddate": "20251231",
+      "urlbase": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_UHD.jpg",
+      "copyrighttext": "© Martin Bailey/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Cisne-bravo&form=BGALM&filters=HpDate:\"20251230_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cisnes-bravos, Lago Kotoku, Kantō, Japão",
+      "description": "Na imagem, cisnes-bravos anunciam o inverno japonês com um canto que rompe o silêncio e percorre quilômetros. Vindos da Sibéria e do Extremo Oriente russo, eles escolhem os lagos do Japão como refúgio porque encontram água aberta, alimento e segurança.",
+      "headline": "Migração e beleza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251230_JapanSwans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cisne-bravo&form=BGABWCTA7&filters=HpDate:\"20251230_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cisne-bravo&form=BGABWCTA11&filters=HpDate:\"20251230_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251229",
       "fullstartdate": "20251229",
       "enddate": "20251230",

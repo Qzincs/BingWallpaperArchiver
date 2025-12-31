@@ -1,6 +1,309 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg",
+      "copyrighttext": "© Grandbrothers/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%bc%aa%e7%8e%8b%e5%af%ba%e4%bb%99%e5%8f%b0%e5%b8%82&form=BGALM&filters=HpDate:\"20251230_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "輪王寺の梵鐘, 宮城県 仙台市",
+      "description": "今日 12 月 31 日は大晦日。除夜の鐘を撞き始める時刻は寺院によって異なり、宮城県仙台市青葉区の輪王寺では、例年 23 時 30 分から鐘の音が鳴り響きます。その後、1 月 1 日の 0 時より「元朝祈祷（がんちょうきとう）」が行われ、参拝者の新たな一年が実り多きものであるよう祈りが捧げられます…",
+      "headline": "今日は大晦日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_Omisoka2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.283222,140.858826/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.283222,140.858826;S9;輪王寺, 宮城県 仙台市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E8%BC%AA%E7%8E%8B%E5%AF%BA%2C%20%E5%AE%AE%E5%9F%8E%E7%9C%8C%20%E4%BB%99%E5%8F%B0%E5%B8%82%20%E9%9D%92%E8%91%89%E5%8C%BA%E5%8C%97%E5%B1%B11%E4%B8%81%E7%9B%AE14-1&mb=38.287932~140.848986~38.2785~140.868663&description=%E3%80%92981-0931%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E5%8C%97%E5%B1%B11%E4%B8%81%E7%9B%AE14-1%C2%B7%E4%BB%8F%E6%95%99%E5%AF%BA%E9%99%A2&cardbg=%23219AB6&dt=1764918000000&tt=%E8%BC%AA%E7%8E%8B%E5%AF%BA&cp=38.283216~140.853503&lvl=16&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2025 年 12月 月 31 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e5%ae%ae%e5%9f%8e%e7%9c%8c+%e4%bb%99%e5%8f%b0%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%bc%aa%e7%8e%8b%e5%af%ba%e4%bb%99%e5%8f%b0%e5%b8%82&form=BGABWCTA7&filters=HpDate:\"20251230_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1637,
+            "Y": 1,
+            "Width": 1590,
+            "Height": 1855,
+            "Label": "bell",
+            "ContourList": [],
+            "Contours": [
+              [
+                2012,
+                14
+              ],
+              [
+                1946,
+                96
+              ],
+              [
+                1921,
+                105
+              ],
+              [
+                1929,
+                122
+              ],
+              [
+                1906,
+                139
+              ],
+              [
+                1917,
+                147
+              ],
+              [
+                1892,
+                164
+              ],
+              [
+                1905,
+                174
+              ],
+              [
+                1864,
+                207
+              ],
+              [
+                1866,
+                218
+              ],
+              [
+                1885,
+                210
+              ],
+              [
+                1878,
+                223
+              ],
+              [
+                1893,
+                232
+              ],
+              [
+                1852,
+                227
+              ],
+              [
+                1839,
+                240
+              ],
+              [
+                1851,
+                299
+              ],
+              [
+                1811,
+                341
+              ],
+              [
+                1721,
+                850
+              ],
+              [
+                1693,
+                1147
+              ],
+              [
+                1678,
+                1622
+              ],
+              [
+                1650,
+                1708
+              ],
+              [
+                1657,
+                1759
+              ],
+              [
+                1717,
+                1787
+              ],
+              [
+                1896,
+                1823
+              ],
+              [
+                2367,
+                1849
+              ],
+              [
+                2950,
+                1818
+              ],
+              [
+                3122,
+                1784
+              ],
+              [
+                3205,
+                1750
+              ],
+              [
+                3209,
+                1698
+              ],
+              [
+                3166,
+                1623
+              ],
+              [
+                3128,
+                1402
+              ],
+              [
+                3094,
+                1084
+              ],
+              [
+                3068,
+                1025
+              ],
+              [
+                3022,
+                764
+              ],
+              [
+                2963,
+                543
+              ],
+              [
+                2904,
+                375
+              ],
+              [
+                2884,
+                358
+              ],
+              [
+                2873,
+                291
+              ],
+              [
+                2799,
+                148
+              ],
+              [
+                2757,
+                130
+              ],
+              [
+                2753,
+                71
+              ],
+              [
+                2694,
+                48
+              ],
+              [
+                2699,
+                33
+              ],
+              [
+                2679,
+                27
+              ],
+              [
+                2696,
+                19
+              ],
+              [
+                2647,
+                31
+              ],
+              [
+                2605,
+                0
+              ],
+              [
+                2527,
+                19
+              ],
+              [
+                2516,
+                0
+              ],
+              [
+                2395,
+                0
+              ],
+              [
+                2392,
+                15
+              ],
+              [
+                2376,
+                5
+              ],
+              [
+                2350,
+                17
+              ],
+              [
+                2335,
+                0
+              ],
+              [
+                2276,
+                17
+              ],
+              [
+                2231,
+                0
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%bc%aa%e7%8e%8b%e5%af%ba%e4%bb%99%e5%8f%b0%e5%b8%82&form=BGABWCTA11&filters=HpDate:\"20251230_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",

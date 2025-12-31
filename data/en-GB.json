@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_UHD.jpg",
+      "copyrighttext": "© Serge_Bertasius/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hogmanay&form=BGALM&filters=HpDate:\"20251231_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "National Monument of Scotland, Edinburgh",
+      "description": "Three… two… one… Hold that countdown—Scotland has its own way of ending the year, and it's called Hogmanay. Today, while most places squeeze their celebrations into a single night, Scotland stretches New Year's into a marathon of fire, music and tradition that can last three days. Hogmanay grew from winter rituals and Viking influence, becoming the main year-end festival when Christmas took a quieter back seat.",
+      "headline": "New year, Scottish style",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_Hogmanay2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.95475,-3.1819/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.95475,-3.1819;S9;National Monument of Scotland, Edinburgh&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=National%20Monument%20of%20Scotland%2C%20Edinburgh%2C%20Scotland&ss=ypid.YN14787DBD66CA06CB&mb=55.959075~-3.191893~55.950425~-3.171895&description=Calton%20Hill%2C%20Edinburgh%20EH7%205AA&cardbg=%23219AB6&dt=1764966600000&tt=National%20Monument%20of%20Scotland&tsts0=%2526ty%253D18%2526q%253DNational%252520Monument%252520of%252520Scotland%25252C%252520Edinburgh%25252C%252520Scotland%2526ss%253Dypid.YN14787DBD66CA06CB%2526mb%253D55.959075~-3.191893~55.950425~-3.171895%2526description%253DCalton%252520Hill%25252C%252520Edinburgh%252520EH7%2525205AA%2526cardbg%253D%252523219AB6%2526dt%253D1764966600000&tstt0=National%20Monument%20of%20Scotland&cp=54.534927~-17.815297&lvl=5.009117&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec 31, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Edinburgh&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hogmanay&form=BGABWCTA7&filters=HpDate:\"20251231_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hogmanay&form=BGABWCTA11&filters=HpDate:\"20251231_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",

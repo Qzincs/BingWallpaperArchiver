@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OHR.NewYearES_ES-ES0875645687_UHD.jpg",
+      "copyrighttext": "© Pablo Blazquez Dominguez/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nochevieja&form=BGALM&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Reloj de la Puerta del Sol antes de Nochevieja, Madrid",
+      "description": "Hoy, 31 de diciembre, Madrid se detiene un instante frente a su corazón de bronce y campanas, el Reloj de la Puerta del Sol. Allí, donde las agujas marcan el pulso de la ciudad, se prepara el ritual que une generaciones, familias y desconocidos en un mismo latido. El reloj no es solo un mecanismo, es un guardián del tiempo que nos recuerda que cada segundo cuenta, que cada campanada abre la puerta a un deseo. Bajo su esfera iluminada, la plaza se convierte en un océano de miradas expectantes, de manos que sostienen uvas y de sonrisas que se alistan para recibir el futuro.",
+      "headline": "Empieza la cuenta atrás",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_NewYearES\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 de dic. de 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nochevieja&form=BGABWCTA7&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nochevieja&form=BGABWCTA11&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",

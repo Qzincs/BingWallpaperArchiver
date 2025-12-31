@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_118335280",
+      "copyrighttext": "© efired/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Jiuzhaigou%20National%20Park%2C%20China&form=BGALM",
+      "title": "Jiuzhaigou National Park, China",
+      "description": "Fantastic view of submerged tree trunks in the Five Flower Lake",
+      "headline": "Jiuzhaigou National Park, China",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Jiuzhaigou%20National%20Park%2C%20China&satid=id.sid%3A9b57cc00-a975-6adf-2658-09e7040428a5&vdpid=8475392583474872321&mb=33.207768~103.889294~33.192237~103.910708&cardbg=%23F98745&dt=1737662400000&tt=Jiuzhaigou%2C%20Sichuan%2C%20China&tsts3=%2526ty%253D30%2526q%253DJiuzhaigou%252520National%252520Park%25252C%252520China%2526satid%253Did.sid%25253A9b57cc00-a975-6adf-2658-09e7040428a5%2526vdpid%253D8475392583474872321%2526mb%253D33.207768~103.889294~33.192237~103.910708%2526cardbg%253D%252523F98745%2526dt%253D1737662400000&tstt3=Jiuzhaigou%2C%20Sichuan%2C%20China&cp=33.200003~103.89468&lvl=16&pi=0&ftst=3&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "31 dicembre 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Jiuzhaigou+National+Park%2c+China&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jiuzhaigou%20National%20Park%2C%20China&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 540,
+            "Y": 360,
+            "Width": 4320,
+            "Height": 2880,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jiuzhaigou%20National%20Park%2C%20China&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",

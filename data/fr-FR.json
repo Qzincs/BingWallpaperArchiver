@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg",
+      "copyrighttext": "© Kiran Ridley/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nouvel+An&form=BGALM&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Le nouvel an à Paris, France",
+      "description": "Sous le froid cristallin de décembre, Paris s’illumine comme un joyau. Les Champs-Élysées se transforment en une rivière de lumière, guidant les pas vers l’Arc de Triomphe, majestueusement éclairé. Ses pierres, témoins des siècles et des victoires, se parent d’or et de reflets, comme si l’histoire elle-même célébrait le passage du temps.",
+      "headline": "Bonne année !",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_FireworksParis\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.874098,2.295105/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.874098,2.295105;S9;Arc de Triomphe, Paris, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Arc%20de%20Triomphe%2C%20Place%20Charles%20de%20Gaulle%2C%20Paris%2C%20France&ss=ypid.YN5E93D9444EE15260&mb=48.878821~2.288439~48.868759~2.301614&description=Place%20Charles%20de%20Gaulle%2C%2075008%20Paris&cardbg=%23219AB6&dt=1764925200000&tt=Arc%20de%20Triomphe&tsts0=%2526ty%253D18%2526q%253DArc%252520de%252520Triomphe%25252C%252520Place%252520Charles%252520de%252520Gaulle%25252C%252520Paris%25252C%252520France%2526ss%253Dypid.YN5E93D9444EE15260%2526mb%253D48.878821~2.288439~48.868759~2.301614%2526description%253DPlace%252520Charles%252520de%252520Gaulle%25252C%25252075008%252520Paris%2526cardbg%253D%252523219AB6%2526dt%253D1764925200000&tstt0=Arc%20de%20Triomphe&cp=48.87379~2.284555&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "31 déc. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nouvel+An&form=BGABWCTA7&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nouvel+An&form=BGABWCTA11&filters=HpDate:\"20251230_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",
