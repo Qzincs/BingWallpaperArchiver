@@ -1,6 +1,289 @@
 {
   "images": [
     {
+      "startdate": "20260101",
+      "fullstartdate": "20260101",
+      "enddate": "20260102",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg",
+      "copyrighttext": "© Chansak Joe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%85%83%e6%97%a6&form=BGALM&filters=HpDate:\"20251231_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "正在睡觉的北极狐",
+      "description": "是否感觉需要补足整整一年的休息？今日图片上的这只北极狐懂你，它正窝在冰原岩石间，享受惬意时光。无论新年伴随寒风还是暖阳而来，请给自己五分钟，让身体舒展，再迎接接下来的365天。",
+      "headline": "伸个懒腰，迈向新年！",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_NewYearFox\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 1",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%85%83%e6%97%a6&form=BGABWCTA7&filters=HpDate:\"20251231_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 673,
+            "Y": 754,
+            "Width": 2400,
+            "Height": 1156,
+            "Label": "alpaca",
+            "ContourList": [],
+            "Contours": [
+              [
+                3039,
+                859
+              ],
+              [
+                3001,
+                805
+              ],
+              [
+                2967,
+                790
+              ],
+              [
+                2887,
+                813
+              ],
+              [
+                2827,
+                803
+              ],
+              [
+                2737,
+                814
+              ],
+              [
+                2632,
+                789
+              ],
+              [
+                2514,
+                810
+              ],
+              [
+                2284,
+                805
+              ],
+              [
+                2230,
+                881
+              ],
+              [
+                2197,
+                1005
+              ],
+              [
+                2159,
+                1000
+              ],
+              [
+                2120,
+                960
+              ],
+              [
+                2080,
+                947
+              ],
+              [
+                2032,
+                956
+              ],
+              [
+                2002,
+                942
+              ],
+              [
+                1971,
+                960
+              ],
+              [
+                1943,
+                939
+              ],
+              [
+                1852,
+                957
+              ],
+              [
+                1822,
+                945
+              ],
+              [
+                1778,
+                968
+              ],
+              [
+                1717,
+                969
+              ],
+              [
+                1463,
+                849
+              ],
+              [
+                1319,
+                864
+              ],
+              [
+                1140,
+                971
+              ],
+              [
+                1090,
+                1028
+              ],
+              [
+                1066,
+                1084
+              ],
+              [
+                876,
+                1295
+              ],
+              [
+                810,
+                1415
+              ],
+              [
+                771,
+                1565
+              ],
+              [
+                764,
+                1711
+              ],
+              [
+                832,
+                1894
+              ],
+              [
+                997,
+                1865
+              ],
+              [
+                1174,
+                1803
+              ],
+              [
+                1434,
+                1750
+              ],
+              [
+                1568,
+                1662
+              ],
+              [
+                1695,
+                1657
+              ],
+              [
+                1777,
+                1564
+              ],
+              [
+                1844,
+                1522
+              ],
+              [
+                2140,
+                1405
+              ],
+              [
+                2242,
+                1407
+              ],
+              [
+                2330,
+                1456
+              ],
+              [
+                2376,
+                1446
+              ],
+              [
+                2454,
+                1398
+              ],
+              [
+                2663,
+                1395
+              ],
+              [
+                2840,
+                1442
+              ],
+              [
+                2887,
+                1387
+              ],
+              [
+                2914,
+                1286
+              ],
+              [
+                2980,
+                1209
+              ],
+              [
+                3006,
+                1015
+              ],
+              [
+                3048,
+                915
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%85%83%e6%97%a6&form=BGABWCTA11&filters=HpDate:\"20251231_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251231",
       "fullstartdate": "20251231",
       "enddate": "20260101",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260101",
+      "fullstartdate": "20260101",
+      "enddate": "20260102",
+      "urlbase": "https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg",
+      "copyrighttext": "© Malorny/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Neujahr&form=BGALM&filters=HpDate:\"20251231_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern",
+      "description": "In Deutschland haben wir das vergangene Jahr gebührend mit Musik, guten Wünschen und dem Kult-Sketch „Dinner for One“ verabschiedet. Nun sind die prachtvollen Feuerwerke verklungen und eine stille Ruhe legt sich über die Städte. Heute, am 1. Januar, blicken wir voller Erwartungen in das neue Jahr. Neujahr ist wie ein leeres Buch, dessen Seiten nur darauf warten, von uns beschrieben zu werden. Viele Menschen nehmen sich zum Jahresbeginn gute Vorsätze für die kommenden Monate vor.",
+      "headline": "Neues Jahr, neue Chancen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260101_LoisachWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1. Jan.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Neujahr&form=BGABWCTA7&filters=HpDate:\"20251231_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Neujahr&form=BGABWCTA11&filters=HpDate:\"20251231_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251231",
       "fullstartdate": "20251231",
       "enddate": "20260101",

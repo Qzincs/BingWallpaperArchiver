@@ -1,6 +1,465 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg",
+      "copyrighttext": "© BrasilNut1/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=v%c3%a9spera+de+Ano+Novo&form=BGALM&filters=HpDate:\"20251231_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fogos de artifício na praia de Copacabana, Rio de Janeiro",
+      "description": "A virada do ano é sinônimo de celebração, esperança e boas energias. Mas você já se perguntou de onde vem a palavra “Réveillon”? Ela tem origem francesa, derivada do verbo “réveiller”, que significa “acordar” ou “despertar”. Na França, o termo era usado para designar jantares sofisticados na véspera de grandes festas, como o Ano Novo. Com o tempo, atravessou fronteiras e passou a representar a comemoração da virada em diversos países, inclusive no Brasil.",
+      "headline": "A festa da virada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_AnoNovo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 dez. 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=v%c3%a9spera+de+Ano+Novo&form=BGABWCTA7&filters=HpDate:\"20251231_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2866,
+            "Y": 849,
+            "Width": 776,
+            "Height": 672,
+            "Label": "fountain",
+            "ContourList": [],
+            "Contours": [
+              [
+                3157,
+                877
+              ],
+              [
+                3143,
+                881
+              ],
+              [
+                3136,
+                901
+              ],
+              [
+                3113,
+                919
+              ],
+              [
+                3094,
+                924
+              ],
+              [
+                3078,
+                941
+              ],
+              [
+                3048,
+                947
+              ],
+              [
+                3034,
+                975
+              ],
+              [
+                3007,
+                984
+              ],
+              [
+                2992,
+                1017
+              ],
+              [
+                3002,
+                1047
+              ],
+              [
+                2999,
+                1078
+              ],
+              [
+                3014,
+                1118
+              ],
+              [
+                3006,
+                1145
+              ],
+              [
+                2962,
+                1177
+              ],
+              [
+                2945,
+                1201
+              ],
+              [
+                2944,
+                1214
+              ],
+              [
+                2932,
+                1218
+              ],
+              [
+                2915,
+                1303
+              ],
+              [
+                2946,
+                1352
+              ],
+              [
+                2948,
+                1382
+              ],
+              [
+                2992,
+                1396
+              ],
+              [
+                3009,
+                1378
+              ],
+              [
+                3037,
+                1394
+              ],
+              [
+                3037,
+                1404
+              ],
+              [
+                3079,
+                1424
+              ],
+              [
+                3127,
+                1426
+              ],
+              [
+                3127,
+                1434
+              ],
+              [
+                3097,
+                1430
+              ],
+              [
+                3090,
+                1435
+              ],
+              [
+                3097,
+                1445
+              ],
+              [
+                3117,
+                1446
+              ],
+              [
+                3098,
+                1455
+              ],
+              [
+                3142,
+                1467
+              ],
+              [
+                3158,
+                1486
+              ],
+              [
+                3172,
+                1492
+              ],
+              [
+                3208,
+                1467
+              ],
+              [
+                3217,
+                1453
+              ],
+              [
+                3232,
+                1458
+              ],
+              [
+                3247,
+                1386
+              ],
+              [
+                3292,
+                1390
+              ],
+              [
+                3300,
+                1373
+              ],
+              [
+                3292,
+                1360
+              ],
+              [
+                3331,
+                1358
+              ],
+              [
+                3331,
+                1351
+              ],
+              [
+                3316,
+                1347
+              ],
+              [
+                3306,
+                1334
+              ],
+              [
+                3307,
+                1315
+              ],
+              [
+                3337,
+                1328
+              ],
+              [
+                3354,
+                1328
+              ],
+              [
+                3362,
+                1345
+              ],
+              [
+                3345,
+                1352
+              ],
+              [
+                3348,
+                1357
+              ],
+              [
+                3372,
+                1354
+              ],
+              [
+                3379,
+                1344
+              ],
+              [
+                3407,
+                1342
+              ],
+              [
+                3442,
+                1356
+              ],
+              [
+                3445,
+                1336
+              ],
+              [
+                3440,
+                1327
+              ],
+              [
+                3446,
+                1320
+              ],
+              [
+                3438,
+                1311
+              ],
+              [
+                3435,
+                1286
+              ],
+              [
+                3442,
+                1277
+              ],
+              [
+                3458,
+                1278
+              ],
+              [
+                3474,
+                1253
+              ],
+              [
+                3454,
+                1235
+              ],
+              [
+                3490,
+                1231
+              ],
+              [
+                3483,
+                1202
+              ],
+              [
+                3487,
+                1198
+              ],
+              [
+                3562,
+                1187
+              ],
+              [
+                3562,
+                1177
+              ],
+              [
+                3545,
+                1168
+              ],
+              [
+                3579,
+                1160
+              ],
+              [
+                3514,
+                1109
+              ],
+              [
+                3535,
+                1067
+              ],
+              [
+                3506,
+                1059
+              ],
+              [
+                3487,
+                1034
+              ],
+              [
+                3445,
+                1050
+              ],
+              [
+                3443,
+                1059
+              ],
+              [
+                3415,
+                1050
+              ],
+              [
+                3368,
+                1047
+              ],
+              [
+                3362,
+                1041
+              ],
+              [
+                3375,
+                1017
+              ],
+              [
+                3352,
+                998
+              ],
+              [
+                3312,
+                981
+              ],
+              [
+                3295,
+                959
+              ],
+              [
+                3260,
+                942
+              ],
+              [
+                3265,
+                932
+              ],
+              [
+                3258,
+                923
+              ],
+              [
+                3261,
+                915
+              ],
+              [
+                3247,
+                902
+              ],
+              [
+                3234,
+                942
+              ],
+              [
+                3217,
+                947
+              ],
+              [
+                3186,
+                916
+              ],
+              [
+                3184,
+                881
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=v%c3%a9spera+de+Ano+Novo&form=BGABWCTA11&filters=HpDate:\"20251231_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",

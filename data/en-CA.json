@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20251231",
+      "fullstartdate": "20251231",
+      "enddate": "20260101",
+      "urlbase": "https://www.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_UHD.jpg",
+      "copyrighttext": "© LeoPatrizi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=New+Years+Eve&form=BGALM&filters=HpDate:\"20251231_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "New Year's Eve fireworks in Toronto",
+      "description": "Three… two… one… pause—Toronto never rushes the moment. The city likes a warm-up: the CN Tower testing its colours, the harbour breeze tuning itself, streetcars gliding as if they already know a celebration is on the way. On New Year's Eve, Toronto doesn't wait for midnight; it builds toward it, as crowds drift toward the waterfront for a front-row view of what's about to ignite. At Nathan Phillips Square, skates trace sparkling loops as the clock nears twelve. Down by Harbourfront, fireworks test their reflections on Lake Ontario before bursting into the sky.",
+      "headline": "Stepping into a new year",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20251231_NYEToronto\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.67028,-79.38667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=43.67028,-79.38667;S9;Toronto&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Toronto&satid=id.sid%3Ae9c1d78f-effd-4cbf-af56-ce709763b200&vdpid=5479462125204144130&mb=43.999554~-80.322076~43.306789~-78.44332&cardbg=%23F98745&tt=Toronto%2C%20Ontario%2C%20Canada&tsts0=%2526ty%253D30%2526q%253DToronto%2526satid%253Did.sid%25253Ae9c1d78f-effd-4cbf-af56-ce709763b200%2526vdpid%253D5479462125204144130%2526mb%253D43.999554~-80.322076~43.306789~-78.44332%2526cardbg%253D%252523F98745&tstt0=Toronto%2C%20Ontario%2C%20Canada&cp=41.396294~-80.489469&lvl=7.6119447&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Dec. 31, 2025",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=New+Years+Eve&form=BGABWCTA7&filters=HpDate:\"20251231_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=New+Years+Eve&form=BGABWCTA11&filters=HpDate:\"20251231_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20251230",
       "fullstartdate": "20251230",
       "enddate": "20251231",
