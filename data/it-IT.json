@@ -1,6 +1,357 @@
 {
   "images": [
     {
+      "startdate": "20260102",
+      "fullstartdate": "20260102",
+      "enddate": "20260103",
+      "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg",
+      "copyrighttext": "© Mint Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Impala+antilope&form=BGALM&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Branco di impala, Riserva naturale di Londolozi, Sudafrica",
+      "description": "Prima ancora che gli impala scattino tra i cespugli, vigili e nervosi, la Riserva Naturale di Londolozi, in Sudafrica, li accoglie come un palcoscenico antico. Le femmine e i piccoli si stringono in branchi, mentre i maschi si contendono i territori con ardore. La loro vita segue il ciclo delle stagioni, con sei o sette mesi di gestazione e, all’inizio dell’estate, un nuovo battito di zoccoli che illumina la pianura. Sempre pronti a fuggire, sempre sospesi tra la grazia e la minaccia, sanno che leopardi, leoni e ghepardi li osservano nell’ombra. Non sono solo i predatori a mettere alla prova la loro esistenza, perché la siccità e la pressione sugli spazi naturali li costringono a un’eterna danza di adattamento. È allora che questa riserva diventa rifugio, custode di un equilibrio fragile.",
+      "headline": "Battito della Savana",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_ImpalaRooibok\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-24.796972,31.500053/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-24.796972,31.500053;S9;Riserva naturale di Londolozi, Sudafrica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Londolozi%20Game%20Reserve%20londolozi%20wildlife%20reserve&ss=ypid.YN8202x5806669501735190643&mb=-24.341113~30.794991~-25.25124~32.204162&description=Londolozi%20Sabi%20Sands%20Game%20Reserve%201350%C2%B7Nature%20reserve&dt=1762936200000&tt=Londolozi%20Game%20Reserve&tsts0=%2526ty%253D18%2526q%253DLondolozi%252520Game%252520Reserve%252520londolozi%252520wildlife%252520reserve%2526ss%253Dypid.YN8202x5806669501735190643%2526mb%253D-24.341113~30.794991~-25.25124~32.204162%2526description%253DLondolozi%252520Sabi%252520Sands%252520Game%252520Reserve%2525201350%2525C2%2525B7Nature%252520reserve%2526dt%253D1762936200000&tstt0=Londolozi%20Game%20Reserve&cp=-0.18181~-6.000899&lvl=3.6709688&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Riserva+naturale+di+Londolozi%2c+Sudafrica&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Impala+antilope&form=BGABWCTA7&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 236,
+            "Y": 716,
+            "Width": 3598,
+            "Height": 1440,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                1451,
+                942
+              ],
+              [
+                1434,
+                982
+              ],
+              [
+                1445,
+                1043
+              ],
+              [
+                1387,
+                1049
+              ],
+              [
+                1379,
+                1016
+              ],
+              [
+                1392,
+                1007
+              ],
+              [
+                1372,
+                994
+              ],
+              [
+                1350,
+                1008
+              ],
+              [
+                1349,
+                1042
+              ],
+              [
+                1325,
+                1041
+              ],
+              [
+                1313,
+                1077
+              ],
+              [
+                1266,
+                1070
+              ],
+              [
+                1259,
+                1045
+              ],
+              [
+                1271,
+                1041
+              ],
+              [
+                1250,
+                1042
+              ],
+              [
+                1264,
+                1024
+              ],
+              [
+                1063,
+                1013
+              ],
+              [
+                1045,
+                1059
+              ],
+              [
+                952,
+                1143
+              ],
+              [
+                788,
+                1155
+              ],
+              [
+                581,
+                1143
+              ],
+              [
+                569,
+                1280
+              ],
+              [
+                637,
+                1309
+              ],
+              [
+                667,
+                1294
+              ],
+              [
+                744,
+                1302
+              ],
+              [
+                862,
+                1391
+              ],
+              [
+                886,
+                1531
+              ],
+              [
+                868,
+                1641
+              ],
+              [
+                865,
+                1870
+              ],
+              [
+                843,
+                1914
+              ],
+              [
+                869,
+                2147
+              ],
+              [
+                1943,
+                2149
+              ],
+              [
+                2003,
+                2122
+              ],
+              [
+                2083,
+                2020
+              ],
+              [
+                2063,
+                1818
+              ],
+              [
+                2032,
+                1781
+              ],
+              [
+                1997,
+                1792
+              ],
+              [
+                1987,
+                1597
+              ],
+              [
+                1986,
+                1725
+              ],
+              [
+                1957,
+                1775
+              ],
+              [
+                1979,
+                1793
+              ],
+              [
+                1975,
+                1845
+              ],
+              [
+                1943,
+                1863
+              ],
+              [
+                1903,
+                1708
+              ],
+              [
+                1912,
+                1682
+              ],
+              [
+                1895,
+                1684
+              ],
+              [
+                1888,
+                1793
+              ],
+              [
+                1867,
+                1783
+              ],
+              [
+                1838,
+                1830
+              ],
+              [
+                1807,
+                1667
+              ],
+              [
+                1770,
+                1784
+              ],
+              [
+                1732,
+                1818
+              ],
+              [
+                1713,
+                1714
+              ],
+              [
+                1686,
+                1733
+              ],
+              [
+                1657,
+                1690
+              ],
+              [
+                1642,
+                1729
+              ],
+              [
+                1566,
+                1710
+              ],
+              [
+                1513,
+                1455
+              ],
+              [
+                1461,
+                1389
+              ],
+              [
+                1444,
+                1317
+              ],
+              [
+                1461,
+                1202
+              ],
+              [
+                1525,
+                1118
+              ],
+              [
+                1492,
+                1075
+              ],
+              [
+                1523,
+                1064
+              ],
+              [
+                1536,
+                1099
+              ],
+              [
+                1552,
+                1075
+              ],
+              [
+                1531,
+                1031
+              ],
+              [
+                1474,
+                1025
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Impala+antilope&form=BGABWCTA11&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260101",
       "fullstartdate": "20260101",
       "enddate": "20260102",

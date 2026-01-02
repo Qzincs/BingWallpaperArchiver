@@ -1,6 +1,233 @@
 {
   "images": [
     {
+      "startdate": "20260102",
+      "fullstartdate": "20260102",
+      "enddate": "20260103",
+      "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_FR-FR1991720752_UHD.jpg",
+      "copyrighttext": "© Clement Leonard/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Venise+Italie&form=BGALM&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vue aérienne de Venise, Italie",
+      "description": "Vue du ciel, Venise semble flotter comme un mirage, mais son âme se cache dans ses ruelles et ses canaux. Née au Ve siècle sur des îlots de la lagune, la cité a transformé des marais en empire maritime. Au Moyen Âge, elle devint le carrefour entre Orient et Occident, forgeant une richesse qui fit éclore palais gothiques, chefs-d’œuvre de la Renaissance et joyaux comme la basilique Saint-Marc, le Palais des Doges ou le Pont du Rialto.",
+      "headline": "L'âme de Venise",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.4397,12.3319/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.4397,12.3319;S9;Venise, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Venice%2C%20Italy&satid=id.sid%3A558e4220-5944-57d7-3d5c-ee9c55739f9d&vdpid=9867990&mb=45.444739~12.318892~45.434667~12.344899&cardbg=%23F98745&tt=metropolitan%20city%20of%20venice&tsts1=%2526ty%253D30%2526q%253DVenice%25252C%252520Italy%2526satid%253Did.sid%25253A558e4220-5944-57d7-3d5c-ee9c55739f9d%2526vdpid%253D9867990%2526mb%253D45.444739~12.318892~45.434667~12.344899%2526cardbg%253D%252523F98745&tstt1=metropolitan%20city%20of%20venice&cp=45.429299~7.03125&lvl=6&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2 janv. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Italie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Venise+Italie&form=BGABWCTA7&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 575,
+            "Width": 3833,
+            "Height": 1581,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                3010,
+                662
+              ],
+              [
+                2629,
+                656
+              ],
+              [
+                2614,
+                645
+              ],
+              [
+                2642,
+                609
+              ],
+              [
+                2563,
+                602
+              ],
+              [
+                2318,
+                613
+              ],
+              [
+                2065,
+                597
+              ],
+              [
+                272,
+                609
+              ],
+              [
+                277,
+                670
+              ],
+              [
+                307,
+                668
+              ],
+              [
+                337,
+                625
+              ],
+              [
+                352,
+                664
+              ],
+              [
+                591,
+                678
+              ],
+              [
+                757,
+                663
+              ],
+              [
+                922,
+                676
+              ],
+              [
+                992,
+                661
+              ],
+              [
+                1073,
+                678
+              ],
+              [
+                1145,
+                660
+              ],
+              [
+                1236,
+                672
+              ],
+              [
+                1680,
+                675
+              ],
+              [
+                1729,
+                651
+              ],
+              [
+                1794,
+                651
+              ],
+              [
+                1863,
+                674
+              ],
+              [
+                2034,
+                679
+              ],
+              [
+                2077,
+                664
+              ],
+              [
+                2122,
+                683
+              ],
+              [
+                2137,
+                660
+              ],
+              [
+                2258,
+                677
+              ],
+              [
+                2318,
+                643
+              ],
+              [
+                2403,
+                672
+              ],
+              [
+                2590,
+                676
+              ],
+              [
+                2645,
+                704
+              ],
+              [
+                2805,
+                703
+              ],
+              [
+                2868,
+                682
+              ],
+              [
+                2905,
+                699
+              ],
+              [
+                2943,
+                677
+              ],
+              [
+                2993,
+                681
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Venise+Italie&form=BGABWCTA11&filters=HpDate:\"20260101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260101",
       "fullstartdate": "20260101",
       "enddate": "20260102",
