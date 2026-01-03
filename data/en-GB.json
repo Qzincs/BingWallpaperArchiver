@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260103",
+      "fullstartdate": "20260103",
+      "enddate": "20260104",
+      "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_EN-GB6435045286_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=JRR+Tolkien+Day&form=BGALM&filters=HpDate:\"20260103_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Staubbach Falls at Lauterbrunnen, Canton of Bern, Switzerland",
+      "description": "Our picture of the day takes us to the Swiss village of Lauterbrunnen, where the Staubbach Falls shimmers in the distance beyond a quiet alpine valley. This is the landscape a young traveller, JRR Tolkien, crossed during a hiking trip in 1911, long before he became the storyteller behind 'The Lord of the Rings' and 'The Hobbit.' Its soaring cliffs, silver waterfalls and crisp mountain air left a lasting impression and are believed to have inspired his vision of Rivendell, the elven refuge hidden deep in Middle-earth.",
+      "headline": "The steps before the saga",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260103_LauterbrunnenValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.591803,7.905319/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=46.591803,7.905319;S9;Staubbach Falls, Lauterbrunnen, Switzerland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?&ty=18&q=Staubbach%20Falls%2C%20Lauterbrunnen%2C%20Interlaken-Oberhasli%2C%20Switzerland&ss=ypid.YN9003x1956302839541233450&mb=46.596368~7.893312~46.582743~7.917945&description=Beim%20Staubbach%20411A%20%C2%B7%203825%20Lauterbrunnen&cardbg=%23219AB6&dt=1762963200000&tt=Staubbach%20Falls&tsts0=%2526ty%253D18%2526q%253DStaubbach%252520Falls%25252C%252520Lauterbrunnen%25252C%252520Interlaken-Oberhasli%25252C%252520Switzerland%2526ss%253Dypid.YN9003x1956302839541233450%2526mb%253D46.596368~7.893312~46.582743~7.917945%2526description%253DBeim%252520Staubbach%252520411A%252520%2525C2%2525B7%2525203825%252520Lauterbrunnen%2526cardbg%253D%252523219AB6%2526dt%253D1762963200000&tstt0=Staubbach%20Falls&cp=46.589556~7.895157&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 3, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Canton+of+Bern%2c+Switzerland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=JRR+Tolkien+Day&form=BGABWCTA7&filters=HpDate:\"20260103_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=JRR+Tolkien+Day&form=BGABWCTA11&filters=HpDate:\"20260103_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260102",
       "fullstartdate": "20260102",
       "enddate": "20260103",

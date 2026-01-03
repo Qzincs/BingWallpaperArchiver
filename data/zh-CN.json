@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260103",
+      "fullstartdate": "20260103",
+      "enddate": "20260104",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.LauterbrunnenValley_ZH-CN0118001217_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%96%bd%e9%99%b6%e5%b7%b4%e8%b5%ab%e7%80%91%e5%b8%83&form=BGALM&filters=HpDate:\"20260102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "劳特布隆嫩的施陶巴赫瀑布, 伯尔尼州, 瑞士",
+      "description": "今日图片带我们走进瑞士劳特布隆嫩小镇，静谧山谷间，远处的施陶巴赫瀑布在阳光下闪烁。1911年，年轻的托尔金曾在徒步旅行中穿越这里，那时他还未成为《魔戒》和《霍比特人》的作者。巍峨的峭壁、银白的瀑流和清冽的山风，深深印刻在他的记忆中，被认为启发了他笔下的瑞文戴尔——中土世界中隐秘的精灵圣地。",
+      "headline": "传奇故事前的篇章",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260103_LauterbrunnenValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 3",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%96%bd%e9%99%b6%e5%b7%b4%e8%b5%ab%e7%80%91%e5%b8%83&form=BGABWCTA7&filters=HpDate:\"20260102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%96%bd%e9%99%b6%e5%b7%b4%e8%b5%ab%e7%80%91%e5%b8%83&form=BGABWCTA11&filters=HpDate:\"20260102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260102",
       "fullstartdate": "20260102",
       "enddate": "20260103",

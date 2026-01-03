@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260103",
+      "fullstartdate": "20260103",
+      "enddate": "20260104",
+      "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_JA-JP5166517859_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ab%e3%83%b3%e3%83%8d%e3%83%b3&form=BGALM&filters=HpDate:\"20260102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ラウターブルンネン, スイス",
+      "description": "今日 1 月 3 日は、「指輪物語」や「ホビットの冒険」などの著者であり、ファンタジー文学の父とも称される  J・R・R・トールキンの誕生日です。イギリスを拠点とするトールキン協会が提唱する慣習として、世界中のファンが集まり、現地時間の午後 9 時に「 The Professor （教授に乾杯）」とグラスを掲げ、彼に敬意を捧げます…",
+      "headline": "今日は J・R・R・トールキンの誕生日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260103_LauterbrunnenValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.590345,7.905632/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.590345,7.905632;S9;シュタウプバッハの滝, スイス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Staubbach%20Falls%2C%20Lauterbrunnen%2C%20Interlaken-Oberhasli%2C%20Switzerland&ss=ypid.YN9003x1956302839541233450&mb=46.596368~7.893312~46.582743~7.917945&description=Beim%20Staubbach%20411A%20%C2%B7%203825%20Lauterbrunnen&cardbg=%23219AB6&dt=1762963200000&tt=Staubbach%20Falls&tsts0=%2526ty%253D18%2526q%253DStaubbach%252520Falls%25252C%252520Lauterbrunnen%25252C%252520Interlaken-Oberhasli%25252C%252520Switzerland%2526ss%253Dypid.YN9003x1956302839541233450%2526mb%253D46.596368~7.893312~46.582743~7.917945%2526description%253DBeim%252520Staubbach%252520411A%252520%2525C2%2525B7%2525203825%252520Lauterbrunnen%2526cardbg%253D%252523219AB6%2526dt%253D1762963200000&tstt0=Staubbach%20Falls&cp=46.589556~7.895157&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%82%a4%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ab%e3%83%b3%e3%83%8d%e3%83%b3&form=BGABWCTA7&filters=HpDate:\"20260102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ab%e3%83%b3%e3%83%8d%e3%83%b3&form=BGABWCTA11&filters=HpDate:\"20260102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260102",
       "fullstartdate": "20260102",
       "enddate": "20260103",

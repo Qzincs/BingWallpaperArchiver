@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260103",
+      "fullstartdate": "20260103",
+      "enddate": "20260104",
+      "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_ES-ES2371150020_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+de+J.+R.+R.+Tolkien+Enero&form=BGALM&filters=HpDate:\"20260102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cascadas de Staubbach en Lauterbrunnen, cantón de Berna, Suiza",
+      "description": "Cada 3 de enero se celebra el Día de J. R. R. Tolkien, una ocasión perfecta para recordar la fuerza creativa de un autor que redefinió la fantasía moderna. La imagen del día nos muestra las cascadas de Staubbach, en Lauterbrunnen, en el cantón de Berna (Suiza), un valle que alberga setenta y dos saltos de agua y cuya atmósfera casi irreal cautivó a Tolkien durante sus viajes. No es difícil imaginar cómo aquel paisaje vertical, con hilos acuosos suspendidos en el aire y un silencio roto solo por el murmullo del deshielo, inspiró la serenidad luminosa de ciertos enclaves de la Tierra Media.",
+      "headline": "El origen de la fantasía",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260103_LauterbrunnenValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+de+J.+R.+R.+Tolkien+Enero&form=BGABWCTA7&filters=HpDate:\"20260102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=D%c3%ada+de+J.+R.+R.+Tolkien+Enero&form=BGABWCTA11&filters=HpDate:\"20260102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260102",
       "fullstartdate": "20260102",
       "enddate": "20260103",

@@ -1,6 +1,233 @@
 {
   "images": [
     {
+      "startdate": "20260102",
+      "fullstartdate": "20260102",
+      "enddate": "20260103",
+      "urlbase": "https://www.bing.com/th?id=OHR.VeniceView_PT-BR5561968411_UHD.jpg",
+      "copyrighttext": "© Clement Leonard/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=veneza&form=BGALM&filters=HpDate:\"20260102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vista aérea de Veneza, Itália",
+      "description": "Vista do alto, Veneza parece um labirinto mágico cercado por água — mas seu verdadeiro encanto está nas ruas e canais históricos. Fundada no século V sobre um conjunto de ilhas na Lagoa Veneziana, a cidade nasceu em meio a áreas pantanosas e se transformou em uma potência marítima. Na Idade Média, tornou-se um centro vital de comércio entre a Europa e o Oriente, acumulando riqueza e impulsionando um florescimento cultural sem igual.",
+      "headline": "A alma de Veneza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260102_VeniceView\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=veneza&form=BGABWCTA7&filters=HpDate:\"20260102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 575,
+            "Width": 3833,
+            "Height": 1581,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": [
+              [
+                3010,
+                662
+              ],
+              [
+                2629,
+                656
+              ],
+              [
+                2614,
+                645
+              ],
+              [
+                2642,
+                609
+              ],
+              [
+                2563,
+                602
+              ],
+              [
+                2318,
+                613
+              ],
+              [
+                2065,
+                597
+              ],
+              [
+                272,
+                609
+              ],
+              [
+                277,
+                670
+              ],
+              [
+                307,
+                668
+              ],
+              [
+                337,
+                625
+              ],
+              [
+                352,
+                664
+              ],
+              [
+                591,
+                678
+              ],
+              [
+                757,
+                663
+              ],
+              [
+                922,
+                676
+              ],
+              [
+                992,
+                661
+              ],
+              [
+                1073,
+                678
+              ],
+              [
+                1145,
+                660
+              ],
+              [
+                1236,
+                672
+              ],
+              [
+                1680,
+                675
+              ],
+              [
+                1729,
+                651
+              ],
+              [
+                1794,
+                651
+              ],
+              [
+                1863,
+                674
+              ],
+              [
+                2034,
+                679
+              ],
+              [
+                2077,
+                664
+              ],
+              [
+                2122,
+                683
+              ],
+              [
+                2137,
+                660
+              ],
+              [
+                2258,
+                677
+              ],
+              [
+                2318,
+                643
+              ],
+              [
+                2403,
+                672
+              ],
+              [
+                2590,
+                676
+              ],
+              [
+                2645,
+                704
+              ],
+              [
+                2805,
+                703
+              ],
+              [
+                2868,
+                682
+              ],
+              [
+                2905,
+                699
+              ],
+              [
+                2943,
+                677
+              ],
+              [
+                2993,
+                681
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=veneza&form=BGABWCTA11&filters=HpDate:\"20260102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260101",
       "fullstartdate": "20260101",
       "enddate": "20260102",
