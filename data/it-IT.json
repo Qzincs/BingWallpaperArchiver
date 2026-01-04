@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260104",
+      "fullstartdate": "20260104",
+      "enddate": "20260105",
+      "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_IT-IT1181015259_UHD.jpg",
+      "copyrighttext": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Montagne+Chugach+Alaska&form=BGALM&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kings Mountain, Montagne Chugach, Alaska, USA",
+      "description": "Kings Mountain, nelle Chugach Mountains dell’Alaska, non è soltanto un rilievo all’orizzonte: è una bellezza selvaggia che vi invita a rallentare e a contemplare. Con i suoi circa 1.770 metri di altezza, situata circa 35 chilometri a nord-est di Palmer, questa cima domina il miglio 75 della Glenn Highway, una strada celebre per i suoi scenari drammatici. I suoi pendii portano ancora i segni degli antichi ghiacciai, scolpiti in creste e vallate che sembrano disegnate per l’avventura.",
+      "headline": "Vista Reale",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/61.17,-145.33/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=61.17,-145.33;S9;Kings Mountain, Montagne Chugach, Alaska, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Kings%20Mountain%2C%20Chugach%20Mountains%2C%20Alaska&satid=id.sid%3A70c500d9-17d3-a40c-1c92-6e16d641d68f&vdpid=4734128961582268417&mb=61.974822~-148.362371~60.344034~-142.296681&cardbg=%23F98745&dt=1763110800000&tt=Chugach%20Mountains%2C%20AK&tsts0=%2526ty%253D30%2526q%253DKings%252520Mountain%25252C%252520Chugach%252520Mountains%25252C%252520Alaska%2526satid%253Did.sid%25253A70c500d9-17d3-a40c-1c92-6e16d641d68f%2526vdpid%253D4734128961582268417%2526mb%253D61.974822~-148.362371~60.344034~-142.296681%2526cardbg%253D%252523F98745%2526dt%253D1763110800000&tstt0=Chugach%20Mountains%2C%20AK&cp=61.167529~-147.831624&lvl=7.12&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "4 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Montagne+Chugach%2c+Alaska%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Montagne+Chugach+Alaska&form=BGABWCTA7&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Montagne+Chugach+Alaska&form=BGABWCTA11&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260103",
       "fullstartdate": "20260103",
       "enddate": "20260104",

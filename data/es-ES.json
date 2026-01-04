@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260104",
+      "fullstartdate": "20260104",
+      "enddate": "20260105",
+      "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_ES-ES2537706712_UHD.jpg",
+      "copyrighttext": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Cordillera+Chugach&form=BGALM&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kings Mountain, cordillera Chugach, Alaska, EE. UU.",
+      "description": "Entre las vastas tierras de Alaska se extiende un paisaje que impresiona por su grandeza y pureza natural. Hoy admiramos una vista majestuosa que nos lleva hasta Kings Mountain en la cordillera Chugach (Estados Unidos). Sus picos escarpados se elevan sobre glaciares imponentes y bosques boreales que se funden con ríos cristalinos. El clima es riguroso, con inviernos largos y nevados que confieren al entorno una belleza salvaje y casi intacta. La sensación de inmensidad y aislamiento convierte este lugar en un paraíso para los amantes de la naturaleza y la aventura.",
+      "headline": "Una vista majestuosa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cordillera+Chugach&form=BGABWCTA7&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cordillera+Chugach&form=BGABWCTA11&filters=HpDate:\"20260103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260103",
       "fullstartdate": "20260103",
       "enddate": "20260104",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260103",
+      "fullstartdate": "20260103",
+      "enddate": "20260104",
+      "urlbase": "https://www.bing.com/th?id=OHR.LauterbrunnenValley_PT-BR5257129794_UHD.jpg",
+      "copyrighttext": "© pongnathee kluaythong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Alpes+Berneses+na+Su%c3%ad%c3%a7a&form=BGALM&filters=HpDate:\"20260103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catarata de Staubbach em Lauterbrunnen, Cantão de Berna, Suíça",
+      "description": "Nossa imagem do dia nos leva à vila suíça de Lauterbrunnen, onde a Catarata de Staubbach despenca em meio a um vale alpino tranquilo. Foi por essa paisagem que um jovem viajante britânico chamado J.R.R. Tolkien passou durante uma caminhada em 1911. Muito antes de se tornar um dos maiores escritores da literatura fantástica, Tolkien era um estudante apaixonado por línguas e mitologia. Décadas depois, ele criaria mundos épicos como “O Senhor dos Anéis” e “O Hobbit”, obras que revolucionaram o gênero.",
+      "headline": "Quando a natureza motiva a fantasia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260103_LauterbrunnenValley\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alpes+Berneses+na+Su%c3%ad%c3%a7a&form=BGABWCTA7&filters=HpDate:\"20260103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Alpes+Berneses+na+Su%c3%ad%c3%a7a&form=BGABWCTA11&filters=HpDate:\"20260103_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260102",
       "fullstartdate": "20260102",
       "enddate": "20260103",
