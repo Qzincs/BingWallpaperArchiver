@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260104",
+      "fullstartdate": "20260104",
+      "enddate": "20260105",
+      "urlbase": "https://www.bing.com/th?id=OHR.KingMountain_PT-BR9875785873_UHD.jpg",
+      "copyrighttext": "© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Montes+Chugach%2c+Alasca&form=BGALM&filters=HpDate:\"20260104_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kings Mountain, Montes Chugach, Alasca, EUA",
+      "description": "Kings Mountain, nos Montes Chugach do Alasca, nos Estados Unidos, não é apenas mais uma elevação no horizonte na imagem de hoje — é o tipo de beleza indomável que faz você parar e contemplar. Com mais de 1.700 metros de altitude, suas encostas guardam marcas de antigos glaciares, esculpidas em cristas e vales que parecem feitos para a aventura.",
+      "headline": "Uma vista real",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260104_KingMountain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Montes+Chugach%2c+Alasca&form=BGABWCTA7&filters=HpDate:\"20260104_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Montes+Chugach%2c+Alasca&form=BGABWCTA11&filters=HpDate:\"20260104_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260103",
       "fullstartdate": "20260103",
       "enddate": "20260104",

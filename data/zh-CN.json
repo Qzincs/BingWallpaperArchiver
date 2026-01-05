@@ -1,6 +1,357 @@
 {
   "images": [
     {
+      "startdate": "20260105",
+      "fullstartdate": "20260105",
+      "enddate": "20260106",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.ImpalaRooibok_ZH-CN2307890154_UHD.jpg",
+      "copyrighttext": "© Mint Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%ab%98%e8%a7%92%e7%be%9a&form=BGALM&filters=HpDate:\"20260104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "一群高角羚, 隆多洛齐野生动物保护区, 南非",
+      "description": "隆多洛齐野生动物保护区的独特之处，不仅在于草原上的野生动物，更在于其坚守了近百年的守护。自1926年起，这片58平方英里的土地持续支持着野生动物研究工作，并监测着动物在自然栖息地中的行为。它坐落于萨比桑私人保护区，是非洲五大兽的栖息地，并与克鲁格国家公园相连，构建开放的生态系统，让象群、犀牛、狮子、豹、斑马和众多羚羊物种得以在无围栏阻隔的广袤天地间自由迁徙。",
+      "headline": "高角羚群紧急戒备",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260105_ImpalaRooibok\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 5",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%ab%98%e8%a7%92%e7%be%9a&form=BGABWCTA7&filters=HpDate:\"20260104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 236,
+            "Y": 716,
+            "Width": 3598,
+            "Height": 1440,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                1451,
+                942
+              ],
+              [
+                1434,
+                982
+              ],
+              [
+                1445,
+                1043
+              ],
+              [
+                1387,
+                1049
+              ],
+              [
+                1379,
+                1016
+              ],
+              [
+                1392,
+                1007
+              ],
+              [
+                1372,
+                994
+              ],
+              [
+                1350,
+                1008
+              ],
+              [
+                1349,
+                1042
+              ],
+              [
+                1325,
+                1041
+              ],
+              [
+                1313,
+                1077
+              ],
+              [
+                1266,
+                1070
+              ],
+              [
+                1259,
+                1045
+              ],
+              [
+                1271,
+                1041
+              ],
+              [
+                1250,
+                1042
+              ],
+              [
+                1264,
+                1024
+              ],
+              [
+                1063,
+                1013
+              ],
+              [
+                1045,
+                1059
+              ],
+              [
+                952,
+                1143
+              ],
+              [
+                788,
+                1155
+              ],
+              [
+                581,
+                1143
+              ],
+              [
+                569,
+                1280
+              ],
+              [
+                637,
+                1309
+              ],
+              [
+                667,
+                1294
+              ],
+              [
+                744,
+                1302
+              ],
+              [
+                862,
+                1391
+              ],
+              [
+                886,
+                1531
+              ],
+              [
+                868,
+                1641
+              ],
+              [
+                865,
+                1870
+              ],
+              [
+                843,
+                1914
+              ],
+              [
+                869,
+                2147
+              ],
+              [
+                1943,
+                2149
+              ],
+              [
+                2003,
+                2122
+              ],
+              [
+                2083,
+                2020
+              ],
+              [
+                2063,
+                1818
+              ],
+              [
+                2032,
+                1781
+              ],
+              [
+                1997,
+                1792
+              ],
+              [
+                1987,
+                1597
+              ],
+              [
+                1986,
+                1725
+              ],
+              [
+                1957,
+                1775
+              ],
+              [
+                1979,
+                1793
+              ],
+              [
+                1975,
+                1845
+              ],
+              [
+                1943,
+                1863
+              ],
+              [
+                1903,
+                1708
+              ],
+              [
+                1912,
+                1682
+              ],
+              [
+                1895,
+                1684
+              ],
+              [
+                1888,
+                1793
+              ],
+              [
+                1867,
+                1783
+              ],
+              [
+                1838,
+                1830
+              ],
+              [
+                1807,
+                1667
+              ],
+              [
+                1770,
+                1784
+              ],
+              [
+                1732,
+                1818
+              ],
+              [
+                1713,
+                1714
+              ],
+              [
+                1686,
+                1733
+              ],
+              [
+                1657,
+                1690
+              ],
+              [
+                1642,
+                1729
+              ],
+              [
+                1566,
+                1710
+              ],
+              [
+                1513,
+                1455
+              ],
+              [
+                1461,
+                1389
+              ],
+              [
+                1444,
+                1317
+              ],
+              [
+                1461,
+                1202
+              ],
+              [
+                1525,
+                1118
+              ],
+              [
+                1492,
+                1075
+              ],
+              [
+                1523,
+                1064
+              ],
+              [
+                1536,
+                1099
+              ],
+              [
+                1552,
+                1075
+              ],
+              [
+                1531,
+                1031
+              ],
+              [
+                1474,
+                1025
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%ab%98%e8%a7%92%e7%be%9a&form=BGABWCTA11&filters=HpDate:\"20260104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260104",
       "fullstartdate": "20260104",
       "enddate": "20260105",

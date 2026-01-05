@@ -1,6 +1,357 @@
 {
   "images": [
     {
+      "startdate": "20260105",
+      "fullstartdate": "20260105",
+      "enddate": "20260106",
+      "urlbase": "https://www.bing.com/th?id=OHR.ImpalaRooibok_ES-ES2728272877_UHD.jpg",
+      "copyrighttext": "© Mint Images/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Impala&form=BGALM&filters=HpDate:\"20260104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Manada de impalas, Reserva de Londolozi, Sudáfrica",
+      "description": "Hoy contemplamos una manada de impalas en la Reserva de Londolozi, Sudáfrica. Este lugar es uno de los rincones más emblemáticos del Parque nacional Kruger, famoso por su biodiversidad y paisajes que parecen sacados de un documental. Los impalas, con su porte elegante y movimientos ágiles, son protagonistas habituales en estas llanuras. Su capacidad para realizar saltos espectaculares y cambiar de dirección con rapidez les permite moverse con gracia entre la hierba alta, siempre atentos a lo que ocurre a su alrededor. Observarlos en libertad es un recordatorio de la belleza indomable que define la vida salvaje africana.",
+      "headline": "Vigilante silencioso",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260105_ImpalaRooibok\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Impala&form=BGABWCTA7&filters=HpDate:\"20260104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 236,
+            "Y": 716,
+            "Width": 3598,
+            "Height": 1440,
+            "Label": "deer",
+            "ContourList": [],
+            "Contours": [
+              [
+                1451,
+                942
+              ],
+              [
+                1434,
+                982
+              ],
+              [
+                1445,
+                1043
+              ],
+              [
+                1387,
+                1049
+              ],
+              [
+                1379,
+                1016
+              ],
+              [
+                1392,
+                1007
+              ],
+              [
+                1372,
+                994
+              ],
+              [
+                1350,
+                1008
+              ],
+              [
+                1349,
+                1042
+              ],
+              [
+                1325,
+                1041
+              ],
+              [
+                1313,
+                1077
+              ],
+              [
+                1266,
+                1070
+              ],
+              [
+                1259,
+                1045
+              ],
+              [
+                1271,
+                1041
+              ],
+              [
+                1250,
+                1042
+              ],
+              [
+                1264,
+                1024
+              ],
+              [
+                1063,
+                1013
+              ],
+              [
+                1045,
+                1059
+              ],
+              [
+                952,
+                1143
+              ],
+              [
+                788,
+                1155
+              ],
+              [
+                581,
+                1143
+              ],
+              [
+                569,
+                1280
+              ],
+              [
+                637,
+                1309
+              ],
+              [
+                667,
+                1294
+              ],
+              [
+                744,
+                1302
+              ],
+              [
+                862,
+                1391
+              ],
+              [
+                886,
+                1531
+              ],
+              [
+                868,
+                1641
+              ],
+              [
+                865,
+                1870
+              ],
+              [
+                843,
+                1914
+              ],
+              [
+                869,
+                2147
+              ],
+              [
+                1943,
+                2149
+              ],
+              [
+                2003,
+                2122
+              ],
+              [
+                2083,
+                2020
+              ],
+              [
+                2063,
+                1818
+              ],
+              [
+                2032,
+                1781
+              ],
+              [
+                1997,
+                1792
+              ],
+              [
+                1987,
+                1597
+              ],
+              [
+                1986,
+                1725
+              ],
+              [
+                1957,
+                1775
+              ],
+              [
+                1979,
+                1793
+              ],
+              [
+                1975,
+                1845
+              ],
+              [
+                1943,
+                1863
+              ],
+              [
+                1903,
+                1708
+              ],
+              [
+                1912,
+                1682
+              ],
+              [
+                1895,
+                1684
+              ],
+              [
+                1888,
+                1793
+              ],
+              [
+                1867,
+                1783
+              ],
+              [
+                1838,
+                1830
+              ],
+              [
+                1807,
+                1667
+              ],
+              [
+                1770,
+                1784
+              ],
+              [
+                1732,
+                1818
+              ],
+              [
+                1713,
+                1714
+              ],
+              [
+                1686,
+                1733
+              ],
+              [
+                1657,
+                1690
+              ],
+              [
+                1642,
+                1729
+              ],
+              [
+                1566,
+                1710
+              ],
+              [
+                1513,
+                1455
+              ],
+              [
+                1461,
+                1389
+              ],
+              [
+                1444,
+                1317
+              ],
+              [
+                1461,
+                1202
+              ],
+              [
+                1525,
+                1118
+              ],
+              [
+                1492,
+                1075
+              ],
+              [
+                1523,
+                1064
+              ],
+              [
+                1536,
+                1099
+              ],
+              [
+                1552,
+                1075
+              ],
+              [
+                1531,
+                1031
+              ],
+              [
+                1474,
+                1025
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Impala&form=BGABWCTA11&filters=HpDate:\"20260104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260104",
       "fullstartdate": "20260104",
       "enddate": "20260105",
