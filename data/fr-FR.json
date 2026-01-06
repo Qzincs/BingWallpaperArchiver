@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260106",
+      "fullstartdate": "20260106",
+      "enddate": "20260107",
+      "urlbase": "https://www.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg",
+      "copyrighttext": "© Mistervlad/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=gallette+des+rois&form=BGALM&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Château de Versailles, France",
+      "description": "Face au Château de Versailles, chef-d’œuvre du Roi Soleil, on pense aux fastes et aux couronnes qui ont marqué l’histoire. Pourtant, le 6 janvier, une autre royauté s’invite à nos tables : celle de la galette des rois, dorée comme les salons du palais. Cette tradition, héritière des Saturnales romaines, s’est transformée en fête chrétienne célébrant l’Épiphanie et la visite des Rois mages.",
+      "headline": "Qui aura la fève ?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_EpiphanyDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.804878,2.120357/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=48.804878,2.120357;S9;Château de Versailles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Versailles%20Palace%2C%20Versailles%2C%20France&ss=ypid.YN2000x16350214704485580650&mb=48.80774~2.112926~48.80203~2.127796&description=pl%20Armes%2C%2078000%20Versailles&cardbg=%23219AB6&dt=1764594000000&tt=Ch%C3%A2teau%20de%20Versailles&tsts0=%2526ty%253D18%2526q%253DVersailles%252520Palace%25252C%252520Versailles%25252C%252520France%2526ss%253Dypid.YN2000x16350214704485580650%2526mb%253D48.80774~2.112926~48.80203~2.127796%2526description%253Dpl%252520Armes%25252C%25252078000%252520Versailles%2526cardbg%253D%252523219AB6%2526dt%253D1764594000000&tstt0=Ch%C3%A2teau%20de%20Versailles&cp=48.804885~2.11504&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6 janv. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=gallette+des+rois&form=BGABWCTA7&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=gallette+des+rois&form=BGABWCTA11&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260105",
       "fullstartdate": "20260105",
       "enddate": "20260106",

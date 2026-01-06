@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260106",
+      "fullstartdate": "20260106",
+      "enddate": "20260107",
+      "urlbase": "https://www.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg",
+      "copyrighttext": "© Gambarini Gianandrea/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=La+Befana&form=BGALM&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Città Alta di Bergamo avvolta dalla nebbia, Lombardia",
+      "description": "Bergamo Alta, immersa nella nebbia di gennaio, sembra custodire un segreto antico. Le vie silenziose e i profili delle mura si dissolvono nel bianco, come se la città attendesse l’arrivo di una figura che appartiene al folclore e all’immaginazione: la Befana. Secondo la tradizione, nella notte tra il 5 e il 6 gennaio, la vecchina dal volto rugoso e dal passo incerto vola su una scopa, portando calze colme di dolci ai bambini buoni e carbone a chi non lo è stato. Non è una strega, ma un’anziana benevola, custode di un tempo che chiude il ciclo delle feste natalizie e apre l’anno nuovo con un gesto di dono e di giudizio.",
+      "headline": "Befana in vista",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_BefanaItalia\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Befana&form=BGABWCTA7&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=La+Befana&form=BGABWCTA11&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260105",
       "fullstartdate": "20260105",
       "enddate": "20260106",

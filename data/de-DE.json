@@ -1,6 +1,225 @@
 {
   "images": [
     {
+      "startdate": "20260106",
+      "fullstartdate": "20260106",
+      "enddate": "20260107",
+      "urlbase": "https://www.bing.com/th?id=OHR.NuukGreenland_DE-DE1784214919_UHD.jpg",
+      "copyrighttext": "© nevereverro/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nuuk+Gr%c3%b6nland&form=BGALM&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nuuk, Grönland",
+      "description": "Polarlichter tanzen am Himmel, die Natur zeigt ihre stille Größe – willkommen in Nuuk! Die Hauptstadt Grönlands liegt eingebettet zwischen majestätischen Fjorden und dem Zauber des Nordlichts. Seit ihrer Gründung 1728 durch Hans Egede verbindet die Stadt Inuit-Traditionen mit nordischem Flair. Historische Orte wie das Hans-Egede-Haus und die rote Kathedrale erzählen von vergangenen Zeiten, während das Grönländische Nationalmuseum mit Artefakten und den Mumien von Qilakitsoq beeindruckt.",
+      "headline": "Das Leben im hohen Norden",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_NuukGreenland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.175,-51.73333/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=64.175,-51.73333;S9;Nuuk, Grönland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Nuuk%2C%20Greenland&satid=id.sid%3A974376cf-4fae-f619-51cb-ad2e3a800422&vdpid=5307097739195056129&mb=64.199265~-51.818743~64.161758~-51.649862&cardbg=%23F98745&tt=Nuuk%2C%20Greenland&tsts0=%2526ty%253D30%2526q%253DNuuk%25252C%252520Greenland%2526satid%253Did.sid%25253A974376cf-4fae-f619-51cb-ad2e3a800422%2526vdpid%253D5307097739195056129%2526mb%253D64.199265~-51.818743~64.161758~-51.649862%2526cardbg%253D%252523F98745&tstt0=Nuuk%2C%20Greenland&cp=51.320788~-69.970128&lvl=3.4018452&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6. Jan.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Gr%c3%b6nland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nuuk+Gr%c3%b6nland&form=BGABWCTA7&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1706,
+            "Y": 1269,
+            "Width": 1298,
+            "Height": 846,
+            "Label": "house",
+            "ContourList": [],
+            "Contours": [
+              [
+                2972,
+                1546
+              ],
+              [
+                2946,
+                1510
+              ],
+              [
+                2939,
+                1473
+              ],
+              [
+                2860,
+                1340
+              ],
+              [
+                2845,
+                1332
+              ],
+              [
+                2799,
+                1336
+              ],
+              [
+                2798,
+                1392
+              ],
+              [
+                2782,
+                1404
+              ],
+              [
+                2769,
+                1341
+              ],
+              [
+                2709,
+                1332
+              ],
+              [
+                2678,
+                1286
+              ],
+              [
+                2662,
+                1278
+              ],
+              [
+                1880,
+                1299
+              ],
+              [
+                1852,
+                1336
+              ],
+              [
+                1730,
+                1589
+              ],
+              [
+                1748,
+                1620
+              ],
+              [
+                1763,
+                1945
+              ],
+              [
+                1850,
+                1984
+              ],
+              [
+                1912,
+                1976
+              ],
+              [
+                1941,
+                2032
+              ],
+              [
+                1956,
+                2016
+              ],
+              [
+                2032,
+                2021
+              ],
+              [
+                2037,
+                2096
+              ],
+              [
+                2062,
+                2102
+              ],
+              [
+                2407,
+                2037
+              ],
+              [
+                2467,
+                2011
+              ],
+              [
+                2504,
+                2010
+              ],
+              [
+                2657,
+                1973
+              ],
+              [
+                2844,
+                1917
+              ],
+              [
+                2926,
+                1907
+              ],
+              [
+                2935,
+                1888
+              ],
+              [
+                2932,
+                1741
+              ],
+              [
+                2914,
+                1717
+              ],
+              [
+                2911,
+                1682
+              ],
+              [
+                2973,
+                1565
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nuuk+Gr%c3%b6nland&form=BGABWCTA11&filters=HpDate:\"20260105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260105",
       "fullstartdate": "20260105",
       "enddate": "20260106",

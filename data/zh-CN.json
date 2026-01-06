@@ -1,6 +1,225 @@
 {
   "images": [
     {
+      "startdate": "20260106",
+      "fullstartdate": "20260106",
+      "enddate": "20260107",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.NuukGreenland_ZH-CN2414771686_UHD.jpg",
+      "copyrighttext": "© nevereverro/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8a%aa%e5%85%8b%e6%a0%bc%e9%99%b5%e5%85%b0%e5%b2%9b&form=BGALM&filters=HpDate:\"20260105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "努克, 格陵兰",
+      "description": "想象一下，日常通勤途中，映入眼底的是峡湾风光、漂移的冰块，以及天际舞动的极光——这不是梦，而是努克的日常。作为格陵兰的首都，这座小而灵动的北极城市，将因纽特文化与北欧现代气息交织融合。它的故事始于1728年，由丹麦-挪威传教士汉斯·埃格德创建，最初的名字叫“Godthaab”，寓意“美好希望”。",
+      "headline": "努克的慵懒时光",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260106_NuukGreenland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8a%aa%e5%85%8b%e6%a0%bc%e9%99%b5%e5%85%b0%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20260105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1706,
+            "Y": 1269,
+            "Width": 1298,
+            "Height": 846,
+            "Label": "house",
+            "ContourList": [],
+            "Contours": [
+              [
+                2972,
+                1546
+              ],
+              [
+                2946,
+                1510
+              ],
+              [
+                2939,
+                1473
+              ],
+              [
+                2860,
+                1340
+              ],
+              [
+                2845,
+                1332
+              ],
+              [
+                2799,
+                1336
+              ],
+              [
+                2798,
+                1392
+              ],
+              [
+                2782,
+                1404
+              ],
+              [
+                2769,
+                1341
+              ],
+              [
+                2709,
+                1332
+              ],
+              [
+                2678,
+                1286
+              ],
+              [
+                2662,
+                1278
+              ],
+              [
+                1880,
+                1299
+              ],
+              [
+                1852,
+                1336
+              ],
+              [
+                1730,
+                1589
+              ],
+              [
+                1748,
+                1620
+              ],
+              [
+                1763,
+                1945
+              ],
+              [
+                1850,
+                1984
+              ],
+              [
+                1912,
+                1976
+              ],
+              [
+                1941,
+                2032
+              ],
+              [
+                1956,
+                2016
+              ],
+              [
+                2032,
+                2021
+              ],
+              [
+                2037,
+                2096
+              ],
+              [
+                2062,
+                2102
+              ],
+              [
+                2407,
+                2037
+              ],
+              [
+                2467,
+                2011
+              ],
+              [
+                2504,
+                2010
+              ],
+              [
+                2657,
+                1973
+              ],
+              [
+                2844,
+                1917
+              ],
+              [
+                2926,
+                1907
+              ],
+              [
+                2935,
+                1888
+              ],
+              [
+                2932,
+                1741
+              ],
+              [
+                2914,
+                1717
+              ],
+              [
+                2911,
+                1682
+              ],
+              [
+                2973,
+                1565
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8a%aa%e5%85%8b%e6%a0%bc%e9%99%b5%e5%85%b0%e5%b2%9b&form=BGABWCTA11&filters=HpDate:\"20260105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260105",
       "fullstartdate": "20260105",
       "enddate": "20260106",
