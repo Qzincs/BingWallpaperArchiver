@@ -1,6 +1,321 @@
 {
   "images": [
     {
+      "startdate": "20260107",
+      "fullstartdate": "20260107",
+      "enddate": "20260108",
+      "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_EN-IN2577038067_UHD.jpg",
+      "copyrighttext": "© Jim Patterson/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park+Windows&form=BGALM&filters=HpDate:\"20260106_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Turret Arch framed by North Window in Arches National Park, Utah, United States",
+      "description": "Today is a day that puts time into perspective. Old Rock Day highlights the vast geological processes that have shaped our world since its earliest eras. In Arches National Park, Utah, United States, Turret Arch—seen through North Window—offers a striking reminder: landscapes can take hundreds of millions of years to assemble. The Entrada Sandstone that forms these arches began as shifting dunes and shallow seas long before erosion carved today's shapes. Even so, these formations are relatively young. Most rocks on Earth disappear over time because plate tectonics, erosion and volcanism continually recycle the crust. Only the planet's ancient continental shields preserve truly old material. Canada's Acasta Gneiss, about 4 billion years old, is the oldest known rock still rooted where it formed.",
+      "headline": "Rock legends",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260107_OldRockArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.319587,-109.759965/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=39.319587,-109.759965;S9;Turret Arch, Arches National Park, Utah, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Turret%20Arch%2C%20Moab%2C%20UT%2C%20United%20States&ss=ypid.YNFC28AB40F6C87C7E&mb=38.68762~-109.542017~38.680987~-109.527855&description=Moab%2C%20UT%2084532&cardbg=%23219AB6&dt=1763123400000&tt=Turret%20Arch&tsts0=%2526ty%253D18%2526q%253DTurret%252520Arch%25252C%252520Moab%25252C%252520UT%25252C%252520United%252520States%2526ss%253Dypid.YNFC28AB40F6C87C7E%2526mb%253D38.68762~-109.542017~38.680987~-109.527855%2526description%253DMoab%25252C%252520UT%25252084532%2526cardbg%253D%252523219AB6%2526dt%253D1763123400000&tstt0=Turret%20Arch&cp=38.431156~-117.651931&lvl=5.3719306&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 7, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Utah%2c+United+States&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Arches+National+Park+Windows&form=BGABWCTA7&filters=HpDate:\"20260106_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 566,
+            "Y": 307,
+            "Width": 2872,
+            "Height": 1437,
+            "Label": "window",
+            "ContourList": [],
+            "Contours": [
+              [
+                602,
+                873
+              ],
+              [
+                639,
+                924
+              ],
+              [
+                649,
+                982
+              ],
+              [
+                644,
+                1118
+              ],
+              [
+                623,
+                1177
+              ],
+              [
+                777,
+                1218
+              ],
+              [
+                890,
+                1288
+              ],
+              [
+                940,
+                1353
+              ],
+              [
+                1055,
+                1403
+              ],
+              [
+                1169,
+                1398
+              ],
+              [
+                1192,
+                1378
+              ],
+              [
+                1222,
+                1401
+              ],
+              [
+                1225,
+                1370
+              ],
+              [
+                1312,
+                1354
+              ],
+              [
+                1372,
+                1390
+              ],
+              [
+                1363,
+                1371
+              ],
+              [
+                1567,
+                1340
+              ],
+              [
+                1627,
+                1365
+              ],
+              [
+                1699,
+                1362
+              ],
+              [
+                1685,
+                1224
+              ],
+              [
+                1721,
+                1142
+              ],
+              [
+                1748,
+                1018
+              ],
+              [
+                1807,
+                1001
+              ],
+              [
+                1853,
+                1010
+              ],
+              [
+                1990,
+                1236
+              ],
+              [
+                2230,
+                1204
+              ],
+              [
+                2377,
+                1253
+              ],
+              [
+                2449,
+                1248
+              ],
+              [
+                2484,
+                1281
+              ],
+              [
+                2561,
+                1282
+              ],
+              [
+                2647,
+                1223
+              ],
+              [
+                2722,
+                1215
+              ],
+              [
+                2789,
+                1256
+              ],
+              [
+                2842,
+                1355
+              ],
+              [
+                3115,
+                1352
+              ],
+              [
+                3142,
+                1370
+              ],
+              [
+                3170,
+                1355
+              ],
+              [
+                3406,
+                1348
+              ],
+              [
+                3421,
+                1330
+              ],
+              [
+                3390,
+                1160
+              ],
+              [
+                3341,
+                1100
+              ],
+              [
+                3265,
+                1066
+              ],
+              [
+                3252,
+                1026
+              ],
+              [
+                3156,
+                926
+              ],
+              [
+                3137,
+                848
+              ],
+              [
+                3101,
+                807
+              ],
+              [
+                2991,
+                730
+              ],
+              [
+                2887,
+                707
+              ],
+              [
+                2778,
+                628
+              ],
+              [
+                2680,
+                601
+              ],
+              [
+                2513,
+                466
+              ],
+              [
+                2120,
+                364
+              ],
+              [
+                1757,
+                325
+              ],
+              [
+                1431,
+                375
+              ],
+              [
+                1235,
+                427
+              ],
+              [
+                760,
+                679
+              ],
+              [
+                700,
+                729
+              ],
+              [
+                689,
+                777
+              ],
+              [
+                621,
+                821
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Arches+National+Park+Windows&form=BGABWCTA11&filters=HpDate:\"20260106_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260106",
       "fullstartdate": "20260106",
       "enddate": "20260107",

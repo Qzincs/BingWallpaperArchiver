@@ -1,6 +1,321 @@
 {
   "images": [
     {
+      "startdate": "20260107",
+      "fullstartdate": "20260107",
+      "enddate": "20260108",
+      "urlbase": "https://www.bing.com/th?id=OHR.OldRockArch_ES-ES3608770963_UHD.jpg",
+      "copyrighttext": "© Jim Patterson/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=BGALM&filters=HpDate:\"20260106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Arco Turret enmarcado por la Ventana Norte en el Parque Nacional de los Arcos, Utah, EE. UU.",
+      "description": "En la imagen de hoy se aprecia uno de los paisajes más icónicos del suroeste estadounidense: el Arco Turret enmarcado por la Ventana Norte en el Parque Nacional de los Arcos en Utah (Estados Unidos). Este parque alberga más de 2.000 arcos naturales formados por la erosión del viento y el agua sobre la roca arenisca durante millones de años. El Arco Turret, con su forma estilizada, y la Ventana Norte, que lo enmarca como si fuera un cuadro natural, son dos de las formaciones más fotografiadas del parque. La mayoría de estos arcos son frágiles y continúan cambiando con el tiempo; algunos incluso colapsan, como ocurrió con el famoso Wall Arch en 2008. Además, el parque ofrece cielos nocturnos espectaculares, ideales para la observación de estrellas, ya que se encuentra en una zona con muy poca contaminación lumínica.",
+      "headline": "Leyendas rocosas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260107_OldRockArch\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=BGABWCTA7&filters=HpDate:\"20260106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 566,
+            "Y": 307,
+            "Width": 2872,
+            "Height": 1437,
+            "Label": "window",
+            "ContourList": [],
+            "Contours": [
+              [
+                602,
+                873
+              ],
+              [
+                639,
+                924
+              ],
+              [
+                649,
+                982
+              ],
+              [
+                644,
+                1118
+              ],
+              [
+                623,
+                1177
+              ],
+              [
+                777,
+                1218
+              ],
+              [
+                890,
+                1288
+              ],
+              [
+                940,
+                1353
+              ],
+              [
+                1055,
+                1403
+              ],
+              [
+                1169,
+                1398
+              ],
+              [
+                1192,
+                1378
+              ],
+              [
+                1222,
+                1401
+              ],
+              [
+                1225,
+                1370
+              ],
+              [
+                1312,
+                1354
+              ],
+              [
+                1372,
+                1390
+              ],
+              [
+                1363,
+                1371
+              ],
+              [
+                1567,
+                1340
+              ],
+              [
+                1627,
+                1365
+              ],
+              [
+                1699,
+                1362
+              ],
+              [
+                1685,
+                1224
+              ],
+              [
+                1721,
+                1142
+              ],
+              [
+                1748,
+                1018
+              ],
+              [
+                1807,
+                1001
+              ],
+              [
+                1853,
+                1010
+              ],
+              [
+                1990,
+                1236
+              ],
+              [
+                2230,
+                1204
+              ],
+              [
+                2377,
+                1253
+              ],
+              [
+                2449,
+                1248
+              ],
+              [
+                2484,
+                1281
+              ],
+              [
+                2561,
+                1282
+              ],
+              [
+                2647,
+                1223
+              ],
+              [
+                2722,
+                1215
+              ],
+              [
+                2789,
+                1256
+              ],
+              [
+                2842,
+                1355
+              ],
+              [
+                3115,
+                1352
+              ],
+              [
+                3142,
+                1370
+              ],
+              [
+                3170,
+                1355
+              ],
+              [
+                3406,
+                1348
+              ],
+              [
+                3421,
+                1330
+              ],
+              [
+                3390,
+                1160
+              ],
+              [
+                3341,
+                1100
+              ],
+              [
+                3265,
+                1066
+              ],
+              [
+                3252,
+                1026
+              ],
+              [
+                3156,
+                926
+              ],
+              [
+                3137,
+                848
+              ],
+              [
+                3101,
+                807
+              ],
+              [
+                2991,
+                730
+              ],
+              [
+                2887,
+                707
+              ],
+              [
+                2778,
+                628
+              ],
+              [
+                2680,
+                601
+              ],
+              [
+                2513,
+                466
+              ],
+              [
+                2120,
+                364
+              ],
+              [
+                1757,
+                325
+              ],
+              [
+                1431,
+                375
+              ],
+              [
+                1235,
+                427
+              ],
+              [
+                760,
+                679
+              ],
+              [
+                700,
+                729
+              ],
+              [
+                689,
+                777
+              ],
+              [
+                621,
+                821
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=BGABWCTA11&filters=HpDate:\"20260106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260106",
       "fullstartdate": "20260106",
       "enddate": "20260107",
