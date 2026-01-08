@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260108",
+      "fullstartdate": "20260108",
+      "enddate": "20260109",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_JA-JP6092282753_UHD.jpg",
+      "copyrighttext": "© Philip Reeve/Photodisc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a6%e3%82%a7%e3%82%b9%e3%83%88%e3%83%bb%e3%83%94%e3%82%a2&form=BGALM&filters=HpDate:\"20260107_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ウェスト・ピア, イギリス",
+      "description": "今日の画像はウェスト・ピア。イングランドのブライトンにある廃墟化した桟橋です。1866 年に海辺の娯楽施設として開業し、その後コンサートホールも建設され、人気の観光スポットとなりました。ピーク時の 1918 年から 1919 年には、年間約 200 万人の旅行者が訪れたといわれています…",
+      "headline": "廃墟となった桟橋",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260108_StarlingBrighton2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.455169,0.022618/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.455169,0.022618;S9;ウェスト・ピア, イギリス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=West%20Pier%20Brighton&ss=ypid.YN1029x11401044389788024509&mb=50.826535~-0.160568~50.817602~-0.145118&description=West%20Pier%20Kings%20Road%2C%20West%20Blatchington%20BN1%202FL&cardbg=%23219AB6&dt=1757691000000&tt=West%20Pier&tsts0=%2526ty%253D18%2526q%253DWest%252520Pier%252520Brighton%2526ss%253Dypid.YN1029x11401044389788024509%2526mb%253D50.826535~-0.160568~50.817602~-0.145118%2526description%253DWest%252520Pier%252520Kings%252520Road%25252C%252520West%252520Blatchington%252520BN1%2525202FL%2526cardbg%253D%252523219AB6%2526dt%253D1757691000000&tstt0=West%20Pier&cp=53.102534~-16.017452&lvl=5.3137417&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 8 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%ae%e3%83%aa%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a6%e3%82%a7%e3%82%b9%e3%83%88%e3%83%bb%e3%83%94%e3%82%a2&form=BGABWCTA7&filters=HpDate:\"20260107_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a6%e3%82%a7%e3%82%b9%e3%83%88%e3%83%bb%e3%83%94%e3%82%a2&form=BGABWCTA11&filters=HpDate:\"20260107_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260107",
       "fullstartdate": "20260107",
       "enddate": "20260108",

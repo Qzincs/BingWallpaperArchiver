@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260108",
+      "fullstartdate": "20260108",
+      "enddate": "20260109",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.StarlingBrighton2025_ZH-CN2775446092_UHD.jpg",
+      "copyrighttext": "© Philip Reeve/Photodisc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%a4%8b%e9%b8%9f&form=BGALM&filters=HpDate:\"20260107_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰",
+      "description": "椋鸟是天生的“舞台明星”，它们深谙抢镜之道：羽毛在阳光下闪烁绿紫光泽，叫声里还夹杂着模仿的趣味。椋鸟原产于欧亚大陆，如今已遍布全球。19世纪，一位痴迷莎士比亚作品的鸟类爱好者，将椋鸟引入纽约中央公园，从此开启了它们的美洲传奇。",
+      "headline": "废墟之上，椋鸟群舞",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260108_StarlingBrighton2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 8",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%a4%8b%e9%b8%9f&form=BGABWCTA7&filters=HpDate:\"20260107_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%a4%8b%e9%b8%9f&form=BGABWCTA11&filters=HpDate:\"20260107_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260107",
       "fullstartdate": "20260107",
       "enddate": "20260108",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260108",
+      "fullstartdate": "20260108",
+      "enddate": "20260109",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_ES-ES4605556261_UHD.jpg",
+      "copyrighttext": "© Philip Reeve/Photodisc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Estornino&form=BGALM&filters=HpDate:\"20260107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Estorninos sobre las ruinas del Muelle Oeste de Brighton, Inglaterra",
+      "description": "El horizonte de Brighton, en Inglaterra, guarda una escena que parece suspendida en el tiempo. Entre la bruma y el sonido del oleaje, las ruinas del Muelle Oeste se alzan como un esqueleto de hierro, testigo de épocas pasadas y del poder implacable del mar. Sobre este paisaje, miles de aves trazan figuras en el cielo, creando un espectáculo, tal y como se aprecia en la imagen de hoy, donde la decadencia se transforma en belleza efímera.",
+      "headline": "Danza en el cielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260108_StarlingBrighton2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Estornino&form=BGABWCTA7&filters=HpDate:\"20260107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Estornino&form=BGABWCTA11&filters=HpDate:\"20260107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260107",
       "fullstartdate": "20260107",
       "enddate": "20260108",
