@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260109",
+      "fullstartdate": "20260109",
+      "enddate": "20260110",
+      "urlbase": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_JA-JP8497438583_UHD.jpg",
+      "copyrighttext": "© photo by canderson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9f%e3%83%a5%e3%82%a2%e3%82%a6%e3%83%83%e3%82%ba%e5%9b%bd%e5%ae%9a%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20260108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ミュアウッズ国定公園, 米国 カリフォルニア州",
+      "description": "ここはミュアウッズ国定公園。米国カリフォルニア州に位置し、原生のセコイアの森を保護している地域です。1908 年の今日、1 月 9 日に国定公園として指定されました。セコイアは地球上で最も高い木といわれており、現存する世界最高の個体は約 115m にも達します。また、樹齢は 600 ～ 800 年が一般的ですが、2,000 年以上の個体もあります…",
+      "headline": "今日はミュアウッズ国定公園の指定記念日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_MuirWoodsMonument\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.897026,-122.581123/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.897026,-122.581123;S9;ミュアウッズ国定公園, 米国 カリフォルニア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Muir%20Woods%20National%20Monument%2C%20Marin%20County%2C%20California%2C%20United%20States&ss=ypid.YN31836A49F9DC3B3&mb=37.902685~-122.58884~37.891357~-122.57339&description=Mill%20Valley%2C%20CA%2094941&cardbg=%233DB838&dt=1764082800000&tt=Muir%20Woods%20National%20Monument&tsts0=%2526ty%253D18%2526q%253DMuir%252520Woods%252520National%252520Monument%25252C%252520Marin%252520County%25252C%252520California%25252C%252520United%252520States%2526ss%253Dypid.YN31836A49F9DC3B3%2526mb%253D37.902685~-122.58884~37.891357~-122.57339%2526description%253DMill%252520Valley%25252C%252520CA%25252094941%2526cardbg%253D%2525233DB838%2526dt%253D1764082800000&tstt0=Muir%20Woods%20National%20Monument&cp=37.579413~-126.782227&lvl=6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 9 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9f%e3%83%a5%e3%82%a2%e3%82%a6%e3%83%83%e3%82%ba%e5%9b%bd%e5%ae%9a%e5%85%ac%e5%9c%92&form=BGABWCTA7&filters=HpDate:\"20260108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9f%e3%83%a5%e3%82%a2%e3%82%a6%e3%83%83%e3%82%ba%e5%9b%bd%e5%ae%9a%e5%85%ac%e5%9c%92&form=BGABWCTA11&filters=HpDate:\"20260108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260108",
       "fullstartdate": "20260108",
       "enddate": "20260109",

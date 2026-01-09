@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260109",
+      "fullstartdate": "20260109",
+      "enddate": "20260110",
+      "urlbase": "https://www.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_UHD.jpg",
+      "copyrighttext": "© Wirestock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Corse&form=BGALM&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Coucher de soleil à Bonifacio, Corse, France",
+      "description": "Le 9 janvier, la Corse célèbre son identité avec une fête qui résonne comme un hymne à la liberté et à la beauté sauvage. Imaginez l’île, tel un massif montagneux émergeant de la mer, ses crêtes dentelées surplombant les forêts de châtaigniers et les maquis parfumés de myrte et d’immortelle. Cette journée rend hommage à une terre fière, façonnée par des siècles d’histoire, où les voix des anciens chants polyphoniques se fondent dans le souffle du vent marin.",
+      "headline": "Un détour par l'Île de Beauté",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_CorsicaDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.37812,9.174048/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=41.37812,9.174048;S9;Bonifacio, Corse&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Les%20Bouches%20de%20Bonifacio&ss=ypid.68D759C3610A656E&mb=41.385446~9.157662~41.374868~9.19178&description=6%20Rue%20Doria%2C%2020169%20Bonifacio%C2%B7Attractions%20et%20activit%C3%A9s&cardbg=%23219AB6&dt=1765299600000&tt=Les%20Bouches%20de%20Bonifacio&tsts3=%2526ty%253D18%2526q%253DLes%252520Bouches%252520de%252520Bonifacio%2526ss%253Dypid.68D759C3610A656E%2526mb%253D41.385446~9.157662~41.374868~9.19178%2526description%253D6%252520Rue%252520Doria%25252C%25252020169%252520Bonifacio%2525C2%2525B7Attractions%252520et%252520activit%2525C3%2525A9s%2526cardbg%253D%252523219AB6%2526dt%253D1765299600000&tstt3=Les%20Bouches%20de%20Bonifacio&cp=41.377477~9.174439&lvl=17.709108&pi=0&ftst=3&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "9 janv. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Corse%2c+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Corse&form=BGABWCTA7&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 2256,
+            "Y": 1139,
+            "Width": 622,
+            "Height": 857,
+            "Label": "sailboat",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Corse&form=BGABWCTA11&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260108",
       "fullstartdate": "20260108",
       "enddate": "20260109",

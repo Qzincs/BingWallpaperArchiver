@@ -1,6 +1,341 @@
 {
   "images": [
     {
+      "startdate": "20260108",
+      "fullstartdate": "20260108",
+      "enddate": "20260109",
+      "urlbase": "https://www.bing.com/th?id=OHR.Chevroned_ROW1885349561_UHD.jpg",
+      "copyrighttext": "© Uwe-Bergwitz/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Yellow-chevroned+parakeet&form=BGALM&filters=HpDate:\"20260108_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Yellow-chevroned parakeets in a mango tree, Pantanal, Brazil",
+      "description": "In the Pantanal, Brazil, the diversity of life is extraordinary. Among trees full of fruit, the yellow-chevroned parakeet stands out, as seen in today's image. This bird feeds on seeds and fruits, such as mangoes. Its intense green, marked by yellow stripes on its wings, contrasts with the illuminated canopy, creating a spectacle that reveals the harmony of this unique ecosystem.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260108_Chevroned\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 8, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Yellow-chevroned+parakeet&form=BGABWCTA7&filters=HpDate:\"20260108_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1818,
+            "Y": 102,
+            "Width": 967,
+            "Height": 1581,
+            "Label": "parrot",
+            "ContourList": [],
+            "Contours": [
+              [
+                1950,
+                139
+              ],
+              [
+                1885,
+                189
+              ],
+              [
+                1851,
+                256
+              ],
+              [
+                1854,
+                282
+              ],
+              [
+                1896,
+                336
+              ],
+              [
+                1957,
+                286
+              ],
+              [
+                1993,
+                307
+              ],
+              [
+                1977,
+                383
+              ],
+              [
+                1942,
+                404
+              ],
+              [
+                1939,
+                389
+              ],
+              [
+                1925,
+                388
+              ],
+              [
+                1904,
+                408
+              ],
+              [
+                1927,
+                484
+              ],
+              [
+                1948,
+                495
+              ],
+              [
+                1944,
+                468
+              ],
+              [
+                1957,
+                437
+              ],
+              [
+                1983,
+                468
+              ],
+              [
+                2008,
+                463
+              ],
+              [
+                2008,
+                442
+              ],
+              [
+                2032,
+                426
+              ],
+              [
+                2032,
+                381
+              ],
+              [
+                2076,
+                394
+              ],
+              [
+                2111,
+                450
+              ],
+              [
+                2057,
+                501
+              ],
+              [
+                2018,
+                510
+              ],
+              [
+                2050,
+                610
+              ],
+              [
+                2074,
+                773
+              ],
+              [
+                2048,
+                780
+              ],
+              [
+                2040,
+                802
+              ],
+              [
+                2090,
+                819
+              ],
+              [
+                2122,
+                852
+              ],
+              [
+                2182,
+                851
+              ],
+              [
+                2238,
+                900
+              ],
+              [
+                2276,
+                976
+              ],
+              [
+                2303,
+                1002
+              ],
+              [
+                2308,
+                1041
+              ],
+              [
+                2327,
+                1071
+              ],
+              [
+                2382,
+                1101
+              ],
+              [
+                2531,
+                1277
+              ],
+              [
+                2664,
+                1504
+              ],
+              [
+                2735,
+                1666
+              ],
+              [
+                2752,
+                1669
+              ],
+              [
+                2752,
+                1611
+              ],
+              [
+                2670,
+                1224
+              ],
+              [
+                2675,
+                1185
+              ],
+              [
+                2692,
+                1200
+              ],
+              [
+                2690,
+                1155
+              ],
+              [
+                2701,
+                1144
+              ],
+              [
+                2746,
+                1185
+              ],
+              [
+                2752,
+                1206
+              ],
+              [
+                2767,
+                1211
+              ],
+              [
+                2771,
+                1198
+              ],
+              [
+                2752,
+                1126
+              ],
+              [
+                2700,
+                1052
+              ],
+              [
+                2717,
+                684
+              ],
+              [
+                2696,
+                590
+              ],
+              [
+                2637,
+                491
+              ],
+              [
+                2586,
+                446
+              ],
+              [
+                2490,
+                324
+              ],
+              [
+                2369,
+                235
+              ],
+              [
+                2287,
+                206
+              ],
+              [
+                2180,
+                130
+              ],
+              [
+                2120,
+                112
+              ],
+              [
+                2044,
+                109
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Yellow-chevroned+parakeet&form=BGABWCTA11&filters=HpDate:\"20260108_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260107",
       "fullstartdate": "20260107",
       "enddate": "20260108",

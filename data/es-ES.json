@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260109",
+      "fullstartdate": "20260109",
+      "enddate": "20260110",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_ES-ES4865830331_UHD.jpg",
+      "copyrighttext": "© javarman3/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bas%c3%adlica+de+San+Francisco+de+Paula&form=BGALM&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Basílica de San Francisco de Paula, Nápoles, Italia",
+      "description": "Hoy admiramos la impresionante belleza de la basílica de San Francisco de Paula, uno de los grandes iconos de la ciudad italiana de Nápoles. Situada en la monumental plaza del Plebiscito, destaca por su imponente fachada porticada y su gran cúpula, que supera los 50 metros de altura. Su diseño neoclásico la convierte en un punto de referencia visual dentro de la ciudad.",
+      "headline": "La joya de Nápoles",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_NaplesBasilica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bas%c3%adlica+de+San+Francisco+de+Paula&form=BGABWCTA7&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bas%c3%adlica+de+San+Francisco+de+Paula&form=BGABWCTA11&filters=HpDate:\"20260108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260108",
       "fullstartdate": "20260108",
       "enddate": "20260109",

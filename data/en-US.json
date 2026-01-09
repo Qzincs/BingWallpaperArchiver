@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260108",
+      "fullstartdate": "20260108",
+      "enddate": "20260109",
+      "urlbase": "https://www.bing.com/th?id=OHR.StarlingBrighton2025_EN-US6998438769_UHD.jpg",
+      "copyrighttext": "© Philip Reeve/Photodisc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Starlings&form=BGALM&filters=HpDate:\"20260108_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Starling murmuration over the ruins of Brighton's West Pier, England",
+      "description": "When a bird is called a starling, you'd expect it to be a bit of a show-off. True to its name, this little creature knows how to steal the spotlight. From shimmering feathers that glint green and purple in the sun, to its ability to mimic sounds, the starling is the headline act. Originally native to Europe and Asia, the common starling has spread across the globe. In the 19th century, a group of them were introduced to New York's Central Park by an enthusiast of birds mentioned in Shakespeare's plays.",
+      "headline": "Rust meets rush",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260108_StarlingBrighton2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.822063,-0.152842/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=50.822063,-0.152842;S9;West Pier, Brighton, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=West%20Pier%20Brighton&ss=ypid.YN1029x11401044389788024509&mb=50.826535~-0.160568~50.817602~-0.145118&description=West%20Pier%20Kings%20Road%2C%20West%20Blatchington%20BN1%202FL&cardbg=%23219AB6&dt=1757691000000&tt=West%20Pier&tsts0=%2526ty%253D18%2526q%253DWest%252520Pier%252520Brighton%2526ss%253Dypid.YN1029x11401044389788024509%2526mb%253D50.826535~-0.160568~50.817602~-0.145118%2526description%253DWest%252520Pier%252520Kings%252520Road%25252C%252520West%252520Blatchington%252520BN1%2525202FL%2526cardbg%253D%252523219AB6%2526dt%253D1757691000000&tstt0=West%20Pier&cp=53.102534~-16.017452&lvl=5.3137417&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 8, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Starlings&form=BGABWCTA7&filters=HpDate:\"20260108_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Starlings&form=BGABWCTA11&filters=HpDate:\"20260108_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260107",
       "fullstartdate": "20260107",
       "enddate": "20260108",
