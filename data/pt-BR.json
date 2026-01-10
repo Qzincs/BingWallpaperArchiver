@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260109",
+      "fullstartdate": "20260109",
+      "enddate": "20260110",
+      "urlbase": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_PT-BR7920486787_UHD.jpg",
+      "copyrighttext": "© foto de canderson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monumento+Nacional+de+Muir+Woods+na+Calif%c3%b3rnia&form=BGALM&filters=HpDate:\"20260109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sequoias no Monumento Nacional de Muir Woods, Califórnia, EUA",
+      "description": "Seja bem-vindo ao reino dos gigantes! Nossa imagem de hoje nos leva ao Monumento Nacional de Muir Woods — um majestoso parque de sequoias costeiras ao norte da cidade de São Francisco, nos Estados Unidos. Essas árvores são as mais altas da Terra, podendo chegar a mais de 100 metros de altura. A maioria delas tem entre 600 e 800 anos, e algumas estão de pé há mais de um milênio. Ainda assim, são consideradas \"jovens\" para uma espécie que pode viver até 2 mil anos. Como elas resistem ao tempo? Com sua casca espessa e resistente ao fogo. Suas raízes se espalham por até 30 metros e se entrelaçam com as raízes das árvores vizinhas, oferecendo estabilidade.",
+      "headline": "Reino dos gigantes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_MuirWoodsMonument\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monumento+Nacional+de+Muir+Woods+na+Calif%c3%b3rnia&form=BGABWCTA7&filters=HpDate:\"20260109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Monumento+Nacional+de+Muir+Woods+na+Calif%c3%b3rnia&form=BGABWCTA11&filters=HpDate:\"20260109_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260108",
       "fullstartdate": "20260108",
       "enddate": "20260109",

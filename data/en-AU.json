@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260109",
+      "fullstartdate": "20260109",
+      "enddate": "20260110",
+      "urlbase": "https://www.bing.com/th?id=OHR.MuirWoodsMonument_ROW9621439164_UHD.jpg",
+      "copyrighttext": "© photo by canderson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Muir+Woods+National+Monument&form=BGALM&filters=HpDate:\"20260109_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Giant redwood trees in Muir Woods National Monument, California, United States",
+      "description": "Step into the realm of giants. Try embracing a BFG (Big Friendly Giant) as you wrap your arms around a thousand years of wisdom in a single tree trunk. Welcome to Muir Woods National Monument, a majestic hall of coastal redwoods just north of San Francisco, in California, United States. These towering redwoods are the tallest trees on Earth—one here stretches about 80 metres, roughly the height of 43 people stacked head to toe. Most are 600–800 years old and some have stood for over a millennium, yet they're still considered 'young' for a species that can live for 2,000 years.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260109_MuirWoodsMonument\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 9, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Muir+Woods+National+Monument&form=BGABWCTA7&filters=HpDate:\"20260109_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Muir+Woods+National+Monument&form=BGABWCTA11&filters=HpDate:\"20260109_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260108",
       "fullstartdate": "20260108",
       "enddate": "20260109",

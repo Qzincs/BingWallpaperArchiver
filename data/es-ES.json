@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260110",
+      "fullstartdate": "20260110",
+      "enddate": "20260111",
+      "urlbase": "https://www.bing.com/th?id=OHR.MatterhornSunrise_ES-ES4973515891_UHD.jpg",
+      "copyrighttext": "© Andy Trowbridge/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Cervino&form=BGALM&filters=HpDate:\"20260109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "El monte Cervino reflejado en el lago Stellisee al amanecer, Zermatt, Suiza",
+      "description": "Al amanecer, cuando la luz rosada comienza a deslizarse entre las cumbres, Zermatt despierta con uno de sus paisajes más imponentes. El monte Cervino se refleja en el lago Stellisee, creando una imagen donde la calma del agua multiplica la belleza de su silueta piramidal. Con sus 4.478 metros de altura, el Cervino es una de las montañas más inconfundibles de los Alpes, esculpida durante milenios por la erosión glaciar que definió sus aristas con una precisión casi geométrica. El lago Stellisee, situado a más de 2.500 metros de altura, ofrece un espejo natural especialmente nítido a primera hora de la mañana. Por eso, esta combinación de luz, altura y silencio se ha convertido en una de las estampas más emblemáticas de los Alpes suizos.",
+      "headline": "Pura magia suiza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260110_MatterhornSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cervino&form=BGABWCTA7&filters=HpDate:\"20260109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cervino&form=BGABWCTA11&filters=HpDate:\"20260109_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260109",
       "fullstartdate": "20260109",
       "enddate": "20260110",
