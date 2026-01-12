@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260112",
+      "fullstartdate": "20260112",
+      "enddate": "20260113",
+      "urlbase": "https://www.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_UHD.jpg",
+      "copyrighttext": "© PATMALUPHOTO/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Etna&form=BGALM&filters=HpDate:\"20260111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cratere nel Parco Nazionale dell'Etna, Catania, Sicilia",
+      "description": "L’Etna domina la Sicilia orientale con i suoi 3.403 metri di altezza, innevato d’inverno e maestoso tutto l’anno. È uno stratovulcano, cioè un vulcano nato dall’accumulo di strati di lava e cenere che, eruzione dopo eruzione, hanno costruito la sua mole imponente. Non è solo il più grande vulcano attivo d’Europa, ma anche un simbolo che da millenni incute rispetto e meraviglia, capace di trasformare il paesaggio e di alimentare miti e leggende.",
+      "headline": "La fucina degli dèi",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260112_EtnaSiciliaNeve\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Etna&form=BGABWCTA7&filters=HpDate:\"20260111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Etna&form=BGABWCTA11&filters=HpDate:\"20260111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260111",
       "fullstartdate": "20260111",
       "enddate": "20260112",
