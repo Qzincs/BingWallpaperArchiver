@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260113",
+      "fullstartdate": "20260113",
+      "enddate": "20260114",
+      "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_IT-IT9889506987_UHD.jpg",
+      "copyrighttext": "© Valerie Blencowe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Galles&form=BGALM&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Valle del Clwyd, Galles",
+      "description": "In Galles il tempo sembra avere un passo diverso. Quando altrove i festeggiamenti di Capodanno si spengono già nei primi giorni di gennaio, qui si accende ancora una fiamma: Hen Galan, l’antico Capodanno, che ritorna il 13 gennaio soprattutto nella valle di Gwaun. È un’eredità del calendario giuliano, rimasta viva anche dopo che il resto della Gran Bretagna aveva scelto quello gregoriano. A questa celebrazione si intreccia il Calennig, parola che in gallese significa “dono di Capodanno”.",
+      "headline": "Riti nel Tempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.114487,-3.413844/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=53.114487,-3.413844;S9;Valle der Clwyd, Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Vale%20of%20Clwyd%2C%20Wales&vdpid=-7963929545&mb=53.364553~-4.336734~52.863784~-2.49042&cardbg=%23F98745&dt=1764664200000&tt=Clwyd%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DVale%252520of%252520Clwyd%25252C%252520Wales%2526vdpid%253D-7963929545%2526mb%253D53.364553~-4.336734~52.863784~-2.49042%2526cardbg%253D%252523F98745%2526dt%253D1764664200000&tstt0=Clwyd%2C%20United%20Kingdom&cp=52.701249~-6.012559&lvl=5.8679953&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Galles&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Galles&form=BGABWCTA7&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Galles&form=BGABWCTA11&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260112",
       "fullstartdate": "20260112",
       "enddate": "20260113",

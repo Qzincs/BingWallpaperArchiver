@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260113",
+      "fullstartdate": "20260113",
+      "enddate": "20260114",
+      "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_FR-FR5382261184_UHD.jpg",
+      "copyrighttext": "© Valerie Blencowe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hen+Galan+Pays+de+Galles&form=BGALM&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vallée de Clwyd, Pays de Galles",
+      "description": "Alors que beaucoup remballent leurs bonnes résolutions dès la première semaine de janvier, le Pays de Galles, quant à lui, aime prolonger la magie. Hen Galan, le « Vieux Nouvel An », est célébré le 13 janvier dans certaines vallées, notamment celle de Gwaun. Cette date vient du calendrier julien, conservé longtemps après que le reste de la Grande-Bretagne ait adopté le calendrier grégorien.",
+      "headline": "Pommes, comptines et Calennig",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.114487,-3.413844/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=53.114487,-3.413844;S9;Vallée de Clwyd, Pays de Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Vale%20of%20Clwyd%2C%20Wales&vdpid=-7963929545&mb=53.364553~-4.336734~52.863784~-2.49042&cardbg=%23F98745&dt=1764664200000&tt=Clwyd%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DVale%252520of%252520Clwyd%25252C%252520Wales%2526vdpid%253D-7963929545%2526mb%253D53.364553~-4.336734~52.863784~-2.49042%2526cardbg%253D%252523F98745%2526dt%253D1764664200000&tstt0=Clwyd%2C%20United%20Kingdom&cp=52.701249~-6.012559&lvl=5.8679953&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "13 janv. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Pays+de+Galles&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hen+Galan+Pays+de+Galles&form=BGABWCTA7&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hen+Galan+Pays+de+Galles&form=BGABWCTA11&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260112",
       "fullstartdate": "20260112",
       "enddate": "20260113",

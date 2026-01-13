@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260113",
+      "fullstartdate": "20260113",
+      "enddate": "20260114",
+      "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_ES-ES5513593147_UHD.jpg",
+      "copyrighttext": "© Valerie Blencowe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=A%c3%b1o+nuevo+viejo&form=BGALM&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Valle de Clwyd, Gales, Reino Unido",
+      "description": "El Valle de Clwyd se presenta como uno de los paisajes más fértiles y tranquilos del nordeste de Gales, Reino Unido. Sus campos ordenados, los setos maduros y las suaves colinas crean una estampa que refleja siglos de tradición agrícola. Los pueblos históricos que salpican el valle, con sus iglesias antiguas y calles estrechas, encajan de manera natural en un entorno donde la vida rural mantiene un ritmo pausado y muy característico.",
+      "headline": "Memorias ocultas en el valle",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=A%c3%b1o+nuevo+viejo&form=BGABWCTA7&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=A%c3%b1o+nuevo+viejo&form=BGABWCTA11&filters=HpDate:\"20260112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260112",
       "fullstartdate": "20260112",
       "enddate": "20260113",

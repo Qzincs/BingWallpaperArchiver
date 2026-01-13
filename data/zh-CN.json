@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260113",
+      "fullstartdate": "20260113",
+      "enddate": "20260114",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.WalesWinter_ZH-CN3692879767_UHD.jpg",
+      "copyrighttext": "© Valerie Blencowe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e5%85%8b%e5%8d%a2%e4%bc%8a%e5%be%b7%e8%b0%b7&form=BGALM&filters=HpDate:\"20260112_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "克卢伊德谷, 威尔士",
+      "description": "大多数人会在一月的第一周就完成新年计划。然而威尔士有个迷人的传统，人们总会说：“等等，我们还有一场庆祝活动。”于是便有了“Hen Galan”——“旧新年”的庆祝活动，每年1月13日，在威尔士的几处乡地举行，尤其以格温山谷最为知名。这个日子源自古老的儒略历，虽然英国其他地方早就换成格里高利历了，但这里的人依旧沿用老传统。",
+      "headline": "苹果韵，旧时光",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e5%85%8b%e5%8d%a2%e4%bc%8a%e5%be%b7%e8%b0%b7&form=BGABWCTA7&filters=HpDate:\"20260112_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e5%85%8b%e5%8d%a2%e4%bc%8a%e5%be%b7%e8%b0%b7&form=BGABWCTA11&filters=HpDate:\"20260112_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260112",
       "fullstartdate": "20260112",
       "enddate": "20260113",
