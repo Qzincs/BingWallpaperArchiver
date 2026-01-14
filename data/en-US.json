@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260113",
+      "fullstartdate": "20260113",
+      "enddate": "20260114",
+      "urlbase": "https://www.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg",
+      "copyrighttext": "© Valerie Blencowe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hen+Galan+Wales&form=BGALM&filters=HpDate:\"20260113_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vale of Clwyd, Wales",
+      "description": "Most people wrap up their New Year plans by the first week of January. Wales, however, has a charming habit of saying, 'Hold on—we've got one more celebration left.' Enter Hen Galan, the 'Old New Year,' observed on January 13 in parts of Wales, most famously in the Gwaun Valley. The date survives from the old Julian calendar, kept long after the rest of Britain adopted the Gregorian one.",
+      "headline": "Apple rhymes and old times",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260113_WalesWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.114487,-3.413844/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=53.114487,-3.413844;S9;Vale%20of%20Clwyd%2C%20Wales&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Vale%20of%20Clwyd%2C%20Wales&vdpid=-7963929545&mb=53.364553~-4.336734~52.863784~-2.49042&cardbg=%23F98745&dt=1764664200000&tt=Clwyd%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DVale%252520of%252520Clwyd%25252C%252520Wales%2526vdpid%253D-7963929545%2526mb%253D53.364553~-4.336734~52.863784~-2.49042%2526cardbg%253D%252523F98745%2526dt%253D1764664200000&tstt0=Clwyd%2C%20United%20Kingdom&cp=52.701249~-6.012559&lvl=5.8679953&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 13, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Wales&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hen+Galan+Wales&form=BGABWCTA7&filters=HpDate:\"20260113_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hen+Galan+Wales&form=BGABWCTA11&filters=HpDate:\"20260113_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260112",
       "fullstartdate": "20260112",
       "enddate": "20260113",

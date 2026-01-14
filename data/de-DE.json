@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260114",
+      "fullstartdate": "20260114",
+      "enddate": "20260115",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_DE-DE8463442485_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palamidi+Festung&form=BGALM&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Die Treppe der Festung Palamidi, Nafplio, Griechenland",
+      "description": "Wer den Aufstieg wagt, wird nicht nur mit einer atemberaubenden Aussicht belohnt, sondern erfährt auch ein Stück europäischer Wehrgeschichte. Über der griechischen Hafenstadt Nafplio thront die Festung Palamidi, eine venezianische Anlage aus dem Jahr 1714, die 216 Meter über der Stadt liegt. Ihr System aus acht Bastionen war so entworfen, dass jede Einheit auch dann weiterkämpfen konnte, wenn eine benachbarte Bastion fiel. Dies ist ein Musterbeispiel frühneuzeitlicher Militärarchitektur. 1715 nahmen die Osmanen die Festung ein, doch 1822 eroberte Griechenland sie zurück und benannte einzelne Bastionen nach Helden wie Achilles oder Leonidas. Berühmt ist der Treppenweg, der lange als „999 Stufen“ überliefert war, tatsächlich aber 857 Stufen umfasst. Der Anstieg ist anspruchsvoll, wird aber mit einem weiten Panorama über den Argolischen Golf belohnt. Von oben ist zu sehen, wie klug Mauern, Scharten und Höhenlinien miteinander verzahnt sind.",
+      "headline": "Geschichte Stufe für Stufe",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.562377,22.803872/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=37.562377,22.803872;S9;Festung Palamidi, Nafplio, Griechenland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Palamidi%20fortress&ss=ypid.YN8072x1235116015&mb=37.565331~22.796867~37.558595~22.811029&description=Eikostis%20Pemptis%20Martiou%2021100%20Nafplio&cardbg=%23219AB6&dt=1763461800000&tt=Fortress%20Of%20Palamidi&tsts0=%2526ty%253D18%2526q%253DPalamidi%252520fortress%2526ss%253Dypid.YN8072x1235116015%2526mb%253D37.565331~22.796867~37.558595~22.811029%2526description%253DEikostis%252520Pemptis%252520Martiou%25252021100%252520Nafplio%2526cardbg%253D%252523219AB6%2526dt%253D1763461800000&tstt0=Fortress%20Of%20Palamidi&cp=39.027719~12.041016&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14. Jan.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Nafplio%2c+Griechenland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Palamidi+Festung&form=BGABWCTA7&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Palamidi+Festung&form=BGABWCTA11&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260113",
       "fullstartdate": "20260113",
       "enddate": "20260114",

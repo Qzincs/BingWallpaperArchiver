@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260114",
+      "fullstartdate": "20260114",
+      "enddate": "20260115",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_FR-FR5605647086_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=forteresse+Palam%c3%a8de&form=BGALM&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Les escaliers de la forteresse de Palamède, Nafplio, Grèce",
+      "description": "Surplombant Nafplio à 216 mètres d’altitude, la forteresse de Palamède, située en Grèce, est un chef-d’œuvre vénitien achevé en 1714. Ses huit bastions, conçus pour résister de manière indépendante, racontent une histoire de stratégie et de courage : tombée aux mains des Ottomans un an après sa construction, elle fut reprise par les Grecs en 1822, qui baptisèrent ses bastions du nom de héros antiques comme Achille et Léonidas.",
+      "headline": "Une histoire d'escalier qui remonte le temps…",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.562377,22.803872/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.562377,22.803872;S9;Forteresse de Palamède, Nafplio, Grèce&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Palamidi%20fortress&ss=ypid.YN8072x1235116015&mb=37.565331~22.796867~37.558595~22.811029&description=Eikostis%20Pemptis%20Martiou%2021100%20Nafplio&cardbg=%23219AB6&dt=1763461800000&tt=Fortress%20Of%20Palamidi&tsts0=%2526ty%253D18%2526q%253DPalamidi%252520fortress%2526ss%253Dypid.YN8072x1235116015%2526mb%253D37.565331~22.796867~37.558595~22.811029%2526description%253DEikostis%252520Pemptis%252520Martiou%25252021100%252520Nafplio%2526cardbg%253D%252523219AB6%2526dt%253D1763461800000&tstt0=Fortress%20Of%20Palamidi&cp=39.027719~12.041016&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "14 janv. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Nafplio%2c+Gr%c3%a8ce&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=forteresse+Palam%c3%a8de&form=BGABWCTA7&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=forteresse+Palam%c3%a8de&form=BGABWCTA11&filters=HpDate:\"20260113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260113",
       "fullstartdate": "20260113",
       "enddate": "20260114",
