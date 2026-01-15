@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260114",
+      "fullstartdate": "20260114",
+      "enddate": "20260115",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_PT-BR5746626849_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nafplio+na+Gr%c3%a9cia&form=BGALM&filters=HpDate:\"20260114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Escadaria da Fortaleza de Palamidi, Nafplio, Grécia",
+      "description": "Nossa imagem mostra a impressionante escadaria da Fortaleza de Palamidi, em Nafplio, na Grécia — um verdadeiro desafio para quem gosta de aventura e história. Construída pelos venezianos em 1714, a fortaleza se ergue 216 metros acima da cidade e foi projetada para ser quase impenetrável. Ela possui oito bastiões, grandes estruturas fortificadas usadas para defesa. Cada um deles funcionava de forma independente, garantindo que, mesmo se um fosse conquistado, os outros continuassem protegendo a fortaleza.",
+      "headline": "Degraus que contam histórias",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nafplio+na+Gr%c3%a9cia&form=BGABWCTA7&filters=HpDate:\"20260114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nafplio+na+Gr%c3%a9cia&form=BGABWCTA11&filters=HpDate:\"20260114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260113",
       "fullstartdate": "20260113",
       "enddate": "20260114",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260114",
+      "fullstartdate": "20260114",
+      "enddate": "20260115",
+      "urlbase": "https://www.bing.com/th?id=OHR.PalamidiFortress_ROW0874671580_UHD.jpg",
+      "copyrighttext": "© George Pachantouris/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Palamidi+fortress&form=BGALM&filters=HpDate:\"20260114_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The staircase of the Fortress of Palamidi, Nafplio, Greece",
+      "description": "Perched high above the coastal town of Nafplio in Greece, the Fortress of Palamidi asserts itself before its walls even come into view. The climb is steep and unhurried, cut directly into rock, opening wide views across land and sea with every turn. This ascent was never ornamental. It was designed to slow movement, expose approach and reinforce control long before an enemy reached the gates.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260114_PalamidiFortress\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 14, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Palamidi+fortress&form=BGABWCTA7&filters=HpDate:\"20260114_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Palamidi+fortress&form=BGABWCTA11&filters=HpDate:\"20260114_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260113",
       "fullstartdate": "20260113",
       "enddate": "20260114",

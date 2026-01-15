@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260115",
+      "fullstartdate": "20260115",
+      "enddate": "20260116",
+      "urlbase": "https://www.bing.com/th?id=OHR.ReineSunrise_JA-JP0217422028_UHD.jpg",
+      "copyrighttext": "© Roberto Moiola/Cavan Images/SuperStock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%ac%e3%83%bc%e3%83%8c&form=BGALM&filters=HpDate:\"20260114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "レーヌ, ノルウェー",
+      "description": "今日の画像は、ノルウェーの北極圏内に位置するレーヌ。人口約 300 人の小さな漁村で、険しい山々や静かなフィヨルド、そして海岸線に点在する赤い伝統的漁師小屋「ロルブー」が特徴です。規模は小さいながらも、その美しい景観を求めて毎年数千人もの観光客が訪れます…",
+      "headline": "ノルウェーで最も美しい漁村",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260115_ReineSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/67.932465,13.088768/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=67.932465,13.088768;S9;レーヌ, ノルウェー&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Reine%2C%20Norway&satid=id.sid%3A7ad2234f-8298-59d5-43ec-4f2a351f576f&vdpid=6950687197922066433&mb=67.940353~13.056357~67.926872~13.116165&cardbg=%23F98745&dt=1764577800000&tt=Reine%2C%208390%2C%20Nordland%2C%20Norway&tsts0=%2526ty%253D30%2526q%253DReine%25252C%252520Norway%2526satid%253Did.sid%25253A7ad2234f-8298-59d5-43ec-4f2a351f576f%2526vdpid%253D6950687197922066433%2526mb%253D67.940353~13.056357~67.926872~13.116165%2526cardbg%253D%252523F98745%2526dt%253D1764577800000&tstt0=Reine%2C%208390%2C%20Nordland%2C%20Norway&cp=64.479586~-19.908753&lvl=3.2919304&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 15 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%8e%e3%83%ab%e3%82%a6%e3%82%a7%e3%83%bc+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%ac%e3%83%bc%e3%83%8c&form=BGABWCTA7&filters=HpDate:\"20260114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%ac%e3%83%bc%e3%83%8c&form=BGABWCTA11&filters=HpDate:\"20260114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260114",
       "fullstartdate": "20260114",
       "enddate": "20260115",
