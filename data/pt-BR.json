@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260115",
+      "fullstartdate": "20260115",
+      "enddate": "20260116",
+      "urlbase": "https://www.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_UHD.jpg",
+      "copyrighttext": "© Lazyllama/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Lavagem+do+Bonfim&form=BGALM&filters=HpDate:\"20260115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fitas do Bonfim em Salvador, Bahia",
+      "description": "Imagine uma explosão de cores, música e alegria em pleno verão baiano. Assim é a Lavagem do Bonfim, celebrada na segunda quinta-feira após o Dia de Reis em Salvador. A tradição começou no século XVIII, quando marinheiros portugueses levaram à cidade uma imagem do Senhor do Bonfim para agradecer por uma travessia segura. Desde então, a celebração se transformou em um encontro que mistura fé, cultura e hospitalidade. O ponto alto é a lavagem das escadarias da Igreja do Bonfim, feita por baianas vestidas de branco, com água de cheiro, cantos e danças. Cortejos, comidas típicas e apresentações culturais completam essa celebração que traduz a essência da Bahia.",
+      "headline": "Tradição, cores e história",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260115_Bonfim\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lavagem+do+Bonfim&form=BGABWCTA7&filters=HpDate:\"20260115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lavagem+do+Bonfim&form=BGABWCTA11&filters=HpDate:\"20260115_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260114",
       "fullstartdate": "20260114",
       "enddate": "20260115",
