@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260117",
+      "fullstartdate": "20260117",
+      "enddate": "20260118",
+      "urlbase": "https://www.bing.com/th?id=OHR.Menorca_ES-ES6251409346_UHD.jpg",
+      "copyrighttext": "© Jorge Garcia Argazkiak/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Menorca&form=BGALM&filters=HpDate:\"20260116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Faro de Punta Nati, Ciudadela, Menorca, España",
+      "description": "El Día de Menorca se celebra cada 17 de enero para recordar un momento clave de la historia de la isla: la conquista por Alfonso III de Aragón en 1287, que marcó un antes y un después en su pasado mediterráneo. Esta fecha coincide con la festividad de San Antón, patrón de Menorca, y se ha convertido en una jornada muy especial desde que se institucionalizó en 1982.",
+      "headline": "Tierra de menor tamaño y gran valor",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260117_Menorca\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Menorca&form=BGABWCTA7&filters=HpDate:\"20260116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 86,
+            "Y": 331,
+            "Width": 814,
+            "Height": 333,
+            "Label": "lighthouse",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Menorca&form=BGABWCTA11&filters=HpDate:\"20260116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260116",
       "fullstartdate": "20260116",
       "enddate": "20260117",

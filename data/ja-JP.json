@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260117",
+      "fullstartdate": "20260117",
+      "enddate": "20260118",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_JA-JP0488733664_UHD.jpg",
+      "copyrighttext": "© javarman3/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9%e3%82%b3%e3%83%bb%e3%83%87%e3%82%a3%e3%83%bb%e3%83%91%e3%82%aa%e3%83%a9%e8%81%96%e5%a0%82&form=BGALM&filters=HpDate:\"20260116_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "サン・フランチェスコ・ディ・パオラ聖堂, イタリア",
+      "description": "イタリア南部ナポリにあるサン・フランチェスコ・ディ・パオラ聖堂。ナポリ王宮に面したプレビシート広場の西側に建つカトリック教会です。建築様式は厳格な新古典主義で統一されており、円形の本堂と、ローマのパンテオンを模した巨大なドームが特徴です。内部には円形の回廊に沿って複数の礼拝堂が配置されています…",
+      "headline": "巨大な円形ドームを持つ教会",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260117_NaplesBasilica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.331759,14.157609/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=41.331759,14.157609;S9;サン・フランチェスコ・ディ・パオラ聖堂, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=San%20Francesco%20di%20Paola%20Naples&ss=ypid.YN1354x4187892943449342980&mb=40.841119~14.234118~40.82943~14.264417&description=Plebiscito%20Square%20-%2080132%20Naples%20%28Naples%29%C2%B7Chiesa%2Fcattedrale&cardbg=%2388979C&dt=1764084600000&tt=Church%20of%20San%20Francesco%20Di%20Paola&tsts0=%2526ty%253D18%2526q%253DSan%252520Francesco%252520di%252520Paola%252520Naples%2526ss%253Dypid.YN1354x4187892943449342980%2526mb%253D40.841119~14.234118~40.82943~14.264417%2526description%253DPlebiscito%252520Square%252520-%25252080132%252520Naples%252520%252528Naples%252529%2525C2%2525B7Chiesa%25252Fcattedrale%2526cardbg%253D%25252388979C%2526dt%253D1764084600000&tstt0=Church%20of%20San%20Francesco%20Di%20Paola&cp=40.117745~6.918514&lvl=5.7739224&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9%e3%82%b3%e3%83%bb%e3%83%87%e3%82%a3%e3%83%bb%e3%83%91%e3%82%aa%e3%83%a9%e8%81%96%e5%a0%82&form=BGABWCTA7&filters=HpDate:\"20260116_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%83%81%e3%82%a7%e3%82%b9%e3%82%b3%e3%83%bb%e3%83%87%e3%82%a3%e3%83%bb%e3%83%91%e3%82%aa%e3%83%a9%e8%81%96%e5%a0%82&form=BGABWCTA11&filters=HpDate:\"20260116_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260116",
       "fullstartdate": "20260116",
       "enddate": "20260117",

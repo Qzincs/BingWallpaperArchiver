@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260117",
+      "fullstartdate": "20260117",
+      "enddate": "20260118",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.NaplesBasilica_ZH-CN6888150174_UHD.jpg",
+      "copyrighttext": "© javarman3/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%82%a3%e4%b8%8d%e5%8b%92%e6%96%af%e4%bf%9d%e7%bd%97%e5%9c%a3%e8%8a%b3%e6%b5%8e%e5%9c%a3%e6%ae%bf&form=BGALM&filters=HpDate:\"20260116_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "保罗圣方济圣殿，那不勒斯，意大利",
+      "description": "走进意大利那不勒斯的任意一座大广场，城市的历史便会在眼前次第展开。拱廊、长长的柱廊、带着古典气息的圆顶争相吸引你的目光。街道风格不断变换——紧凑的巴洛克立面与开阔的新古典主义庭院交替出现。继续向前，你会来到一处宽阔的广场，广场上矗立着一座乍看之下仿佛来自古罗马的建筑。这便是位于普雷比希托广场西侧的保罗圣方济圣殿。",
+      "headline": "普雷比希托广场上的穹顶",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260117_NaplesBasilica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 17",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%82%a3%e4%b8%8d%e5%8b%92%e6%96%af%e4%bf%9d%e7%bd%97%e5%9c%a3%e8%8a%b3%e6%b5%8e%e5%9c%a3%e6%ae%bf&form=BGABWCTA7&filters=HpDate:\"20260116_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%82%a3%e4%b8%8d%e5%8b%92%e6%96%af%e4%bf%9d%e7%bd%97%e5%9c%a3%e8%8a%b3%e6%b5%8e%e5%9c%a3%e6%ae%bf&form=BGABWCTA11&filters=HpDate:\"20260116_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260116",
       "fullstartdate": "20260116",
       "enddate": "20260117",
