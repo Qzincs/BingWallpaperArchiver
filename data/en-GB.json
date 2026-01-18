@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260118",
+      "fullstartdate": "20260118",
+      "enddate": "20260119",
+      "urlbase": "https://www.bing.com/th?id=OHR.PoohDay2026_EN-GB2644442653_UHD.jpg",
+      "copyrighttext": "© James Warwick/The Image Bank/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Winnie+the+Pooh+Day&form=BGALM&filters=HpDate:\"20260118_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Scots pine forest, Ashdown Forest, England",
+      "description": "Before motivational quotes went viral, a small bear with a very large appetite for honey quietly mastered the art of living. He forgot things, got stuck in doorways and called snack time a priority—and somehow, he was right. Today is Winnie the Pooh Day, celebrating the accidental philosopher of the Hundred Acre Wood and marking the birthday of the man who dreamed him up.",
+      "headline": "Lost in the Hundred Acres",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260118_PoohDay2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.07233,0.049115/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.07233,0.049115;S9;Scots pine forest, Ashdown Forest, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Ashdown%20Forest%2C%20Wych%20Cross%2C%20England&ss=ypid.YN49BC129547DF0C33&mb=51.077187~0.039117~51.067479~0.059116&description=Wych%20Cross%20RH18%205JP&cardbg=%23219AB6&dt=1765989000000&tt=Ashdown%20Forest&tsts0=%2526ty%253D18%2526q%253DAshdown%252520Forest%25252C%252520Wych%252520Cross%25252C%252520England%2526ss%253Dypid.YN49BC129547DF0C33%2526mb%253D51.077187~0.039117~51.067479~0.059116%2526description%253DWych%252520Cross%252520RH18%2525205JP%2526cardbg%253D%252523219AB6%2526dt%253D1765989000000&tstt0=Ashdown%20Forest&cp=50.761492~-15.565419&lvl=5.070062&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 18, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ashdown+Forest%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Winnie+the+Pooh+Day&form=BGABWCTA7&filters=HpDate:\"20260118_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Winnie+the+Pooh+Day&form=BGABWCTA11&filters=HpDate:\"20260118_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260117",
       "fullstartdate": "20260117",
       "enddate": "20260118",

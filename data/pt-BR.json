@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260117",
+      "fullstartdate": "20260117",
+      "enddate": "20260118",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_PT-BR5152958001_UHD.jpg",
+      "copyrighttext": "© javarman3/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Bas%c3%adlica+de+S%c3%a3o+Francisco+de+Paula%2c+N%c3%a1poles&form=BGALM&filters=HpDate:\"20260117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Basílica de São Francisco de Paula, Nápoles, Itália",
+      "description": "Ao caminhar por qualquer grande praça de Nápoles, na Itália, a história da cidade salta aos olhos. Galerias arqueadas, colunatas imponentes e cúpulas que remetem à arquitetura antiga disputam sua atenção. Cada rua revela um estilo diferente: fachadas barrocas compactas dão lugar a amplos pátios neoclássicos. Ao chegar a uma praça ampla com um edifício que, à primeira vista, parece romano, você está na Basílica de São Francisco de Paula, nossa imagem do dia, localizada no lado oeste da Piazza del Plebiscito.",
+      "headline": "Arquitetura sagrada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260117_NaplesBasilica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bas%c3%adlica+de+S%c3%a3o+Francisco+de+Paula%2c+N%c3%a1poles&form=BGABWCTA7&filters=HpDate:\"20260117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bas%c3%adlica+de+S%c3%a3o+Francisco+de+Paula%2c+N%c3%a1poles&form=BGABWCTA11&filters=HpDate:\"20260117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260116",
       "fullstartdate": "20260116",
       "enddate": "20260117",

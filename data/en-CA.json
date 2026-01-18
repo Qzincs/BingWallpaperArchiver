@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260117",
+      "fullstartdate": "20260117",
+      "enddate": "20260118",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaplesBasilica_EN-CA4228859638_UHD.jpg",
+      "copyrighttext": "© javarman3/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=San+Francesco+di+Paola+Naples&form=BGALM&filters=HpDate:\"20260117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Basilica of San Francesco di Paola, Naples, Italy",
+      "description": "Walk into any large square in Naples, Italy, and the city's history comes into focus. Arched galleries, sweeping colonnades and domes that echo ancient architecture compete for your attention. Every street shifts in style—compact Baroque facades give way to broad Neoclassical courtyards. Continue exploring, and you will arrive at a wide square with a building that appears Roman at first sight. That's the Basilica of San Francesco di Paola, located on the west side of Piazza del Plebiscito.",
+      "headline": "The dome of Piazza del Plebiscito",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260117_NaplesBasilica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.385051,14.241363/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=41.385051,14.241363;S9;Basilica of San Francesco di Paola, Naples, Italy&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=San%20Francesco%20di%20Paola%20Naples&ss=ypid.YN1354x4187892943449342980&mb=40.841119~14.234118~40.82943~14.264417&description=Plebiscito%20Square%20-%2080132%20Naples%20%28Naples%29%C2%B7Chiesa%2Fcattedrale&cardbg=%2388979C&dt=1764084600000&tt=Church%20of%20San%20Francesco%20Di%20Paola&tsts0=%2526ty%253D18%2526q%253DSan%252520Francesco%252520di%252520Paola%252520Naples%2526ss%253Dypid.YN1354x4187892943449342980%2526mb%253D40.841119~14.234118~40.82943~14.264417%2526description%253DPlebiscito%252520Square%252520-%25252080132%252520Naples%252520%252528Naples%252529%2525C2%2525B7Chiesa%25252Fcattedrale%2526cardbg%253D%25252388979C%2526dt%253D1764084600000&tstt0=Church%20of%20San%20Francesco%20Di%20Paola&cp=40.117745~6.918514&lvl=5.7739224&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan. 17, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Naples%2c+Italy&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=San+Francesco+di+Paola+Naples&form=BGABWCTA7&filters=HpDate:\"20260117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=San+Francesco+di+Paola+Naples&form=BGABWCTA11&filters=HpDate:\"20260117_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260116",
       "fullstartdate": "20260116",
       "enddate": "20260117",
