@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260119",
+      "fullstartdate": "20260119",
+      "enddate": "20260120",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.BubblesAbraham_ZH-CN7203734882_UHD.jpg",
+      "copyrighttext": "© Luis F Arevalo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=BGALM&filters=HpDate:\"20260118_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "亚伯拉罕湖冰封景象，艾伯塔省，加拿大",
+      "description": "湖面看似繁忙，却静得出奇。洁白的气泡一层层叠在透明的冰下，仿佛时间在某个化学反应的中途被按下了暂停键。奇特吗？当然。不过那份神秘感，也只存在于你还没走近它之前。这里就是亚伯拉罕湖，加拿大阿尔伯塔省最大的水库，位于加拿大落基山脉前缘的库特尼平原地带。严冬来临时，正是这片水域将上升中的气体半途冻结，造就了这幅冰封气泡的奇景。",
+      "headline": "大自然的波普艺术",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260119_BubblesAbraham\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 19",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20260118_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=BGABWCTA11&filters=HpDate:\"20260118_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260118",
       "fullstartdate": "20260118",
       "enddate": "20260119",

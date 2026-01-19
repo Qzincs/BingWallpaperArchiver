@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260119",
+      "fullstartdate": "20260119",
+      "enddate": "20260120",
+      "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_ES-ES6461966091_UHD.jpg",
+      "copyrighttext": "© Luis F Arevalo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+Abraham+Canad%c3%a1&form=BGALM&filters=HpDate:\"20260118_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lago Abraham congelado, Alberta, Canadá",
+      "description": "La superficie parece llena de vida, pero todo permanece en silencio. Bajo el hielo transparente se acumulan burbujas blancas, como si el tiempo se hubiera detenido a mitad de una reacción. Este paisaje tan singular se encuentra en el lago Abraham, el mayor embalse de Alberta, en Canadá, situado en la zona de Kootenay Plains, al pie de las Montañas Rocosas.",
+      "headline": "La vida bajo el hielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260119_BubblesAbraham\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lago+Abraham+Canad%c3%a1&form=BGABWCTA7&filters=HpDate:\"20260118_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lago+Abraham+Canad%c3%a1&form=BGABWCTA11&filters=HpDate:\"20260118_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260118",
       "fullstartdate": "20260118",
       "enddate": "20260119",

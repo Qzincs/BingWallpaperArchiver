@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260119",
+      "fullstartdate": "20260119",
+      "enddate": "20260120",
+      "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_EN-GB2806407133_UHD.jpg",
+      "copyrighttext": "© Luis F Arevalo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGALM&filters=HpDate:\"20260119_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Frozen Abraham Lake, Alberta, Canada",
+      "description": "The surface looks busy, but everything else is still. White bubbles stack under clear ice as if time stalled halfway through a reaction. Unusual? Yes. Mysterious? Only until you look closer. This is Abraham Lake, the largest reservoir in Alberta, Canada. It is in the Kootenay Plains area of the Canadian Rockies' front range, where winter captures gas in mid-escape.",
+      "headline": "Nature's pop art",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260119_BubblesAbraham\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.22361,-116.4272/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.22361,-116.4272;S9;Abraham Lake, Alberta, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Abraham%20Lake%20Alberta%20Canada&satid=id.sid%3A79873f98-1b5e-c7d4-b001-b94e95c8838a&vdpid=4858490877351297025&mb=52.227353~-116.438942~52.21986~-116.415467&cardbg=%23F98745&dt=1765794600000&tt=Abraham%20Lake%2C%20Alberta&tsts0=%2526ty%253D30%2526q%253DAbraham%252520Lake%252520Alberta%252520Canada%2526satid%253Did.sid%25253A79873f98-1b5e-c7d4-b001-b94e95c8838a%2526vdpid%253D4858490877351297025%2526mb%253D52.227353~-116.438942~52.21986~-116.415467%2526cardbg%253D%252523F98745%2526dt%253D1765794600000&tstt0=Abraham%20Lake%2C%20Alberta&cp=55.479283~-132.405914&lvl=4.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 19, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Alberta%2c+Canada&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGABWCTA7&filters=HpDate:\"20260119_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGABWCTA11&filters=HpDate:\"20260119_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260118",
       "fullstartdate": "20260118",
       "enddate": "20260119",
