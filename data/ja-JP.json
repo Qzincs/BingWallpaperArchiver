@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260120",
+      "fullstartdate": "20260120",
+      "enddate": "20260121",
+      "urlbase": "https://www.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg",
+      "copyrighttext": "© solakoudai/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%98%9f%e5%b3%a0%e3%81%ae%e6%a3%9a%e7%94%b0&form=BGALM&filters=HpDate:\"20260119_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "雪に覆われた星峠の棚田, 新潟県 十日町市",
+      "description": "今日 1 月 20 日は二十四節気の「大寒」。一年のうちで最も寒さが厳しくなる時期とされています。そして、今日の画像は、新潟県十日町市の星峠の棚田。十日町市は、日本有数の豪雪地帯として知られており、この時期は例年、棚田だけでなく町内全域が真っ白な雪に覆われ、冬ならではの静かで厳かな景色を見せています…",
+      "headline": "今日は「大寒」",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260120_Daikan2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.124256,138.529343/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.124256,138.529343;S9;星峠の棚田, 新潟県 十日町市&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=%E6%98%9F%E5%B3%A0%E3%81%AE%E6%A3%9A%E7%94%B0&ss=ypid.YN5286x3887479592765076733&mb=37.12923~138.522727~37.119289~138.535945&cardbg=%23219AB6&dt=1766134800000&tt=%E6%98%9F%E5%B3%A0%E3%81%AE%E6%A3%9A%E7%94%B0&tsts0=%2526ty%253D18%2526q%253D%2525E6%252598%25259F%2525E5%2525B3%2525A0%2525E3%252581%2525AE%2525E6%2525A3%25259A%2525E7%252594%2525B0%2526ss%253Dypid.YN5286x3887479592765076733%2526mb%253D37.12923~138.522727~37.119289~138.535945%2526cardbg%253D%252523219AB6%2526dt%253D1766134800000&tstt0=%E6%98%9F%E5%B3%A0%E3%81%AE%E6%A3%9A%E7%94%B0&cp=37.12426~138.518865&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e6%96%b0%e6%bd%9f%e7%9c%8c+%e5%8d%81%e6%97%a5%e7%94%ba%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%98%9f%e5%b3%a0%e3%81%ae%e6%a3%9a%e7%94%b0&form=BGABWCTA7&filters=HpDate:\"20260119_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%98%9f%e5%b3%a0%e3%81%ae%e6%a3%9a%e7%94%b0&form=BGABWCTA11&filters=HpDate:\"20260119_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260119",
       "fullstartdate": "20260119",
       "enddate": "20260120",

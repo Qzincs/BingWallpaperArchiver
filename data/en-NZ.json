@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260119",
+      "fullstartdate": "20260119",
+      "enddate": "20260120",
+      "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_ROW5591187969_UHD.jpg",
+      "copyrighttext": "© Luis F Arevalo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGALM&filters=HpDate:\"20260119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Frozen Abraham Lake, Alberta, Canada",
+      "description": "The surface looks busy, but everything else is still. White bubbles stack under clear ice as if time stalled halfway through a reaction. Unusual? Yes. Mysterious? Only until you look closer. This is Abraham Lake, the largest reservoir in Alberta, Canada. It is located in the Kootenay Plains area of the Canadian Rockies' front range, where winter captures gas in mid-escape.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260119_BubblesAbraham\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 19, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGABWCTA7&filters=HpDate:\"20260119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGABWCTA11&filters=HpDate:\"20260119_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260118",
       "fullstartdate": "20260118",
       "enddate": "20260119",
