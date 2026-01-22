@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260122",
+      "fullstartdate": "20260122",
+      "enddate": "20260123",
+      "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_IT-IT4150505640_UHD.jpg",
+      "copyrighttext": "© Henryk Sadura/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Karlovy+Vary+Boemia+Repubblica+Ceca&form=BGALM&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Karlovy Vary, Boemia, Repubblica Ceca",
+      "description": "Benvenuti a Karlovy Vary, in Repubblica Ceca, una valle dai colori delicati che ha costruito la propria anima attorno alle sorgenti calde che sgorgano dalle colline circostanti. La leggenda racconta che Carlo IV, re di Boemia nel XIV secolo, scoprì qui una pozza fumante e, da quel momento, questo angolo silenzioso iniziò il suo cammino verso la vita termale. Con il tempo la città si è distesa lungo i fiumi Teplá e Ohře, e il suo carattere si è disegnato tra colonnate eleganti, facciate ornate e alberghi affacciati sull’acqua. Da tutta Europa arrivavano aristocratici e artisti, attratti dalle sorgenti calde e dal ritmo più lento che esse offrivano.",
+      "headline": "Il respiro delle terme",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260122_KarlovyVary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.23056,12.8725/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=50.23056,12.8725;S9;Karlovy Vary, Boemia, Repubblica Ceca&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Karlovy%20Vary%2C%20Bohemia%2C%20Czech%20Republic&satid=id.sid%3Aecad64ee-8762-60e4-1f93-ec0b3ec1fc0e&vdpid=7021273469325148161&mb=50.236014~12.85733~50.225101~12.887671&cardbg=%23FFFFFF&tt=Karlovy%20Vary%2C%20Karlovy%20Vary%20Region%2C%20Czechia&tsts0=%2526ty%253D30%2526q%253DKarlovy%252520Vary%25252C%252520Bohemia%25252C%252520Czech%252520Republic%2526satid%253Did.sid%25253Aecad64ee-8762-60e4-1f93-ec0b3ec1fc0e%2526vdpid%253D7021273469325148161%2526mb%253D50.236014~12.85733~50.225101~12.887671%2526cardbg%253D%252523FFFFFF&tstt0=Karlovy%20Vary%2C%20Karlovy%20Vary%20Region%2C%20Czechia&cp=49.994799~11.382689&lvl=7.835328&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Boemia%2c+Repubblica+Ceca&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Karlovy+Vary+Boemia+Repubblica+Ceca&form=BGABWCTA7&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Karlovy+Vary+Boemia+Repubblica+Ceca&form=BGABWCTA11&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260121",
       "fullstartdate": "20260121",
       "enddate": "20260122",

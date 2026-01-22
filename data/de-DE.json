@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260122",
+      "fullstartdate": "20260122",
+      "enddate": "20260123",
+      "urlbase": "https://www.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_UHD.jpg",
+      "copyrighttext": "© Leonid Andronov/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Deutsch-Franz%c3%b6sischer+Tag&form=BGALM&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Mimram-Fußgängerbrücke über den Rhein zwischen Frankreich und Deutschland",
+      "description": "Wussten Sie, dass eine Brücke mehr sein kann als nur Stahl und Beton? Sie kann ein Symbol für Freundschaft und Frieden sein. Genau das verkörpert die Mimram-Fußgängerbrücke (Passerelle des Deux Rives), die sich elegant über den Rhein spannt und die Städte Kehl und Straßburg verbindet. Heute, am Deutsch-Französischen Tag, feiern wir nicht nur die geografische Nähe, sondern auch eine Partnerschaft, die seit Jahrzehnten Europa prägt.",
+      "headline": "Grenzenlos verbunden",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260122_Mimramfootbridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.56908,7.803603/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.56908,7.803603;S9;Mimram-Fußgängerbrücke, Rhein, Deutschland, Frankreich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Passerelle%20des%20Deux%20Rives%2C%20Passerelle%20des%20Deux%20Rives%2C%20Kehl%2C%20Frankreich&ss=ypid.YN6740x7377136650942115474&mb=48.573931~7.79186~48.564233~7.815335&description=Passerelle%20des%20Deux%20Rives%20%C2%B7%2077694%20Kehl%C2%B7Br%C3%BCcke&cardbg=%23219AB6&dt=1763557200000&tt=Passerelle%20des%20Deux%20Rives&tsts0=%2526ty%253D18%2526q%253DPasserelle%252520des%252520Deux%252520Rives%25252C%252520Passerelle%252520des%252520Deux%252520Rives%25252C%252520Kehl%25252C%252520Frankreich%2526ss%253Dypid.YN6740x7377136650942115474%2526mb%253D48.573931~7.79186~48.564233~7.815335%2526description%253DPasserelle%252520des%252520Deux%252520Rives%252520%2525C2%2525B7%25252077694%252520Kehl%2525C2%2525B7Br%2525C3%2525BCcke%2526cardbg%253D%252523219AB6%2526dt%253D1763557200000&tstt0=Passerelle%20des%20Deux%20Rives&cp=48.569082~7.798276&lvl=16&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "22. Jan.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Deutsch-Franz%c3%b6sischer+Tag&form=BGABWCTA7&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Deutsch-Franz%c3%b6sischer+Tag&form=BGABWCTA11&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260121",
       "fullstartdate": "20260121",
       "enddate": "20260122",

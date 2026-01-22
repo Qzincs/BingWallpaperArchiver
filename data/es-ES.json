@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260122",
+      "fullstartdate": "20260122",
+      "enddate": "20260123",
+      "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_ES-ES6866349820_UHD.jpg",
+      "copyrighttext": "© Henryk Sadura/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Karlovy+Vary+ciudad+Checa&form=BGALM&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Karlovy Vary, Bohemia, República Checa",
+      "description": "En la imagen, el invierno cubre Karlovy Vary, en la República Checa, un valle pintoresco que forjó su identidad alrededor de las aguas termales que surgen entre sus colinas. La ciudad homónima remonta sus orígenes a los relatos de Carlos IV, rey de Bohemia y, más tarde, emperador romano, quien descubrió aquí una piscina de vapor en el siglo XIV. Este hallazgo temprano marcó el inicio del camino de la ciudad hacia su fama como balneario.",
+      "headline": "Una historia de balneario bohemio",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260122_KarlovyVary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Karlovy+Vary+ciudad+Checa&form=BGABWCTA7&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Karlovy+Vary+ciudad+Checa&form=BGABWCTA11&filters=HpDate:\"20260121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260121",
       "fullstartdate": "20260121",
       "enddate": "20260122",

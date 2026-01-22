@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260122",
+      "fullstartdate": "20260122",
+      "enddate": "20260123",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.KarlovyVary_ZH-CN7585938362_UHD.jpg",
+      "copyrighttext": "© Henryk Sadura/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%8d%a1%e7%bd%97%e7%bb%b4%e7%93%a6%e5%88%a9&form=BGALM&filters=HpDate:\"20260121_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "卡罗维瓦利，波西米亚，捷克共和国",
+      "description": "在今天的图片中，冬意已悄悄落在捷克的卡罗维瓦利，这座坐落于浅色山谷中的城市，因山间温泉而闻名。关于这座城市的起源，可追溯到14世纪：据说当时的波希米亚国王、后来成为神圣罗马帝国皇帝的查理四世路经此地，恰好遇见一池冒着白雾的温热泉水。正是这次邂逅，引领波希米亚这片宁静的山谷走上了温泉疗养圣地的道路。",
+      "headline": "波西米亚温泉故事",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260122_KarlovyVary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 22",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%8d%a1%e7%bd%97%e7%bb%b4%e7%93%a6%e5%88%a9&form=BGABWCTA7&filters=HpDate:\"20260121_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%8d%a1%e7%bd%97%e7%bb%b4%e7%93%a6%e5%88%a9&form=BGABWCTA11&filters=HpDate:\"20260121_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260121",
       "fullstartdate": "20260121",
       "enddate": "20260122",
