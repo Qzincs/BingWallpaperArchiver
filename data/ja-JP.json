@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260123",
+      "fullstartdate": "20260123",
+      "enddate": "20260124",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSheep_JA-JP9416029074_UHD.jpg",
+      "copyrighttext": "© Christophe Lehenaff/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%9b%aa%e3%81%ab%e8%a6%86%e3%82%8f%e3%82%8c%e3%81%9f%e5%9c%b0%e3%81%a7%e8%8d%89%e3%82%92%e9%a3%9f%e3%82%80%e7%be%8a%e3%81%9f%e3%81%a1&form=BGALM&filters=HpDate:\"20260122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "雪に覆われた地で草を食む羊たち, アイスランド",
+      "description": "アイスランドでは毎年 1 月中旬から 2 月中旬にかけて、冬の祝宴「ソーラブロート」という伝統行事が行われます。もともとは、北欧神話に登場する冬の擬人化・ソーリに捧げる祭儀に由来すると考えられていますが、時代の変遷とともに一度は廃れました。しかし、19 世紀の独立運動期に民族文化復興の象徴として再び盛んになりました…",
+      "headline": "今日からアイスランドの真冬の祝宴",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260123_IcelandSheep\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/65,-19/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=65,-19;S9;アイスランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Iceland&satid=id.sid%3Ae1ba31bc-7b8e-2e19-cd94-e86fc0852594&vdpid=110&mb=67.353012~-28.172363~63.085907~-9.645761&cardbg=%23F98745&tt=Iceland&tsts0=%2526ty%253D30%2526q%253DIceland%2526satid%253Did.sid%25253Ae1ba31bc-7b8e-2e19-cd94-e86fc0852594%2526vdpid%253D110%2526mb%253D67.353012~-28.172363~63.085907~-9.645761%2526cardbg%253D%252523F98745&tstt0=Iceland&cp=65.258493~-80.015594&lvl=2.51&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%9b%aa%e3%81%ab%e8%a6%86%e3%82%8f%e3%82%8c%e3%81%9f%e5%9c%b0%e3%81%a7%e8%8d%89%e3%82%92%e9%a3%9f%e3%82%80%e7%be%8a%e3%81%9f%e3%81%a1&form=BGABWCTA7&filters=HpDate:\"20260122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%9b%aa%e3%81%ab%e8%a6%86%e3%82%8f%e3%82%8c%e3%81%9f%e5%9c%b0%e3%81%a7%e8%8d%89%e3%82%92%e9%a3%9f%e3%82%80%e7%be%8a%e3%81%9f%e3%81%a1&form=BGABWCTA11&filters=HpDate:\"20260122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260122",
       "fullstartdate": "20260122",
       "enddate": "20260123",

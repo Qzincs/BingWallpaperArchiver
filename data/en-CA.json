@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260122",
+      "fullstartdate": "20260122",
+      "enddate": "20260123",
+      "urlbase": "https://www.bing.com/th?id=OHR.KarlovyVary_EN-CA8625581136_UHD.jpg",
+      "copyrighttext": "© Henryk Sadura/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Karlovy+Vary&form=BGALM&filters=HpDate:\"20260122_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Karlovy Vary, Bohemia, Czechia",
+      "description": "In today's image, winter settles over Karlovy Vary in Czechia, a pastel valley that built its identity around the hot springs rising through its hills. The eponymous city traces its beginnings to accounts of Charles IV, then king of Bohemia (a historic region of Czechia) and later Roman Emperor, encountering a steaming pool here in the 14th century, an early moment that set this quiet part of Bohemia on the path to becoming a spa retreat.",
+      "headline": "A Bohemian spa story",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260122_KarlovyVary\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.23056,12.8725/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=50.23056,12.8725;S9;Karlovy Vary, Bohemia, Czechia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Karlovy%20Vary%2C%20Bohemia%2C%20Czech%20Republic&satid=id.sid%3Aecad64ee-8762-60e4-1f93-ec0b3ec1fc0e&vdpid=7021273469325148161&mb=50.236014~12.85733~50.225101~12.887671&cardbg=%23FFFFFF&tt=Karlovy%20Vary%2C%20Karlovy%20Vary%20Region%2C%20Czechia&tsts0=%2526ty%253D30%2526q%253DKarlovy%252520Vary%25252C%252520Bohemia%25252C%252520Czech%252520Republic%2526satid%253Did.sid%25253Aecad64ee-8762-60e4-1f93-ec0b3ec1fc0e%2526vdpid%253D7021273469325148161%2526mb%253D50.236014~12.85733~50.225101~12.887671%2526cardbg%253D%252523FFFFFF&tstt0=Karlovy%20Vary%2C%20Karlovy%20Vary%20Region%2C%20Czechia&cp=49.994799~11.382689&lvl=7.835328&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan. 22, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Bohemia%2c+Czechia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Karlovy+Vary&form=BGABWCTA7&filters=HpDate:\"20260122_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Karlovy+Vary&form=BGABWCTA11&filters=HpDate:\"20260122_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260121",
       "fullstartdate": "20260121",
       "enddate": "20260122",
