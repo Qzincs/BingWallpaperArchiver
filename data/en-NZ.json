@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260123",
+      "fullstartdate": "20260123",
+      "enddate": "20260124",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSheep_ROW5964366591_UHD.jpg",
+      "copyrighttext": "© Christophe Lehenaff/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Iceland+Midwinter+Festival&form=BGALM&filters=HpDate:\"20260123_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sheep grazing in snow, Iceland",
+      "description": "When January's chill grips Iceland, locals turn to warmth and tradition with Þorrablót—a midwinter festival rooted in Viking heritage. Named after Þorri, a winter figure from Norse mythology, this celebration began as a sacrificial feast to honour the gods and ensure survival through harsh winters. Today, it's a lively cultural event that blends history with hearty camaraderie.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260123_IcelandSheep\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 23, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Iceland+Midwinter+Festival&form=BGABWCTA7&filters=HpDate:\"20260123_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Iceland+Midwinter+Festival&form=BGABWCTA11&filters=HpDate:\"20260123_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260122",
       "fullstartdate": "20260122",
       "enddate": "20260123",

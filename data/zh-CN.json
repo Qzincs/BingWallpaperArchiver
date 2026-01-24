@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260124",
+      "fullstartdate": "20260124",
+      "enddate": "20260125",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.AndermattSwiss_ZH-CN4112824348_UHD.jpg",
+      "copyrighttext": "© Xantana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%91%9e%e5%a3%ab%e5%ae%89%e5%be%b7%e9%a9%ac%e7%89%b9%e5%b0%8f%e9%95%87&form=BGALM&filters=HpDate:\"20260123_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "阿尔卑斯山脉的安德马特小镇，瑞士",
+      "description": "安德马特坐落于海拔约4,715英尺的乌尔塞伦山谷，被壮丽的阿尔卑斯山脉环绕，是瑞士最迷人的小镇之一。自古以来，它便是交通与文化的交汇点，由圣哥达、福尔卡和奥伯阿尔卑三大山口贯通，使这里成为贯穿南北、连结文化的重要门户。",
+      "headline": "瑞士山间的短逃离",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260124_AndermattSwiss\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 24",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%91%9e%e5%a3%ab%e5%ae%89%e5%be%b7%e9%a9%ac%e7%89%b9%e5%b0%8f%e9%95%87&form=BGABWCTA7&filters=HpDate:\"20260123_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%91%9e%e5%a3%ab%e5%ae%89%e5%be%b7%e9%a9%ac%e7%89%b9%e5%b0%8f%e9%95%87&form=BGABWCTA11&filters=HpDate:\"20260123_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260123",
       "fullstartdate": "20260123",
       "enddate": "20260124",

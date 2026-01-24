@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260123",
+      "fullstartdate": "20260123",
+      "enddate": "20260124",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSheep_EN-CA6673215604_UHD.jpg",
+      "copyrighttext": "© Christophe Lehenaff/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Iceland+Midwinter+Festival&form=BGALM&filters=HpDate:\"20260123_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sheep grazing in snow, Iceland",
+      "description": "When January's chill grips Iceland, locals turn to warmth and tradition with Þorrablót—a midwinter festival rooted in Viking heritage. Named after Þorri, a winter figure from Norse mythology, this celebration began as a sacrificial feast to honour the gods and ensure survival through harsh winters. Today, it's a lively cultural event that blends history with hearty camaraderie.",
+      "headline": "Feasting through frost",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260123_IcelandSheep\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/65,-19/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=65,-19;S9;Iceland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Iceland&satid=id.sid%3Ae1ba31bc-7b8e-2e19-cd94-e86fc0852594&vdpid=110&mb=67.353012~-28.172363~63.085907~-9.645761&cardbg=%23F98745&tt=Iceland&tsts0=%2526ty%253D30%2526q%253DIceland%2526satid%253Did.sid%25253Ae1ba31bc-7b8e-2e19-cd94-e86fc0852594%2526vdpid%253D110%2526mb%253D67.353012~-28.172363~63.085907~-9.645761%2526cardbg%253D%252523F98745&tstt0=Iceland&cp=65.258493~-80.015594&lvl=2.51&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan. 23, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Iceland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Iceland+Midwinter+Festival&form=BGABWCTA7&filters=HpDate:\"20260123_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Iceland+Midwinter+Festival&form=BGABWCTA11&filters=HpDate:\"20260123_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260122",
       "fullstartdate": "20260122",
       "enddate": "20260123",

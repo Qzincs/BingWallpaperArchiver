@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260124",
+      "fullstartdate": "20260124",
+      "enddate": "20260125",
+      "urlbase": "https://www.bing.com/th?id=OHR.AndermattSwiss_JA-JP9574225546_UHD.jpg",
+      "copyrighttext": "© Xantana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%87%e3%83%ab%e3%83%9e%e3%83%83%e3%83%88&form=BGALM&filters=HpDate:\"20260123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "アンデルマット, スイス",
+      "description": "スイス中部・ウーリ州の山間に位置するアンデルマット。アルプスの壮麗な風景に抱かれた標高約 1,440m のこの町は、古くからゴッタルド峠、フルカ峠、オーバーアルプ峠の三つの峠が交わる交通の要衝として栄えてきました。現在では、四季を通じて旅人を惹きつける魅力的なリゾート地として知られています…",
+      "headline": "雪に包まれた山村が輝く夜",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260124_AndermattSwiss\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.62049,8.6314/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.62049,8.6314;S9;アンデルマット, スイス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Andermatt%2C%20Uri%2C%20Switzerland&satid=id.sid%3A4039ce24-f8cb-cec8-3286-3916ff2d39e9&vdpid=7016135143777632257&mb=46.676731~8.465829~46.5644~8.762746&cardbg=%23F98745&tt=Andermatt%2C%206490%2C%20Uri%2C%20Switzerland&tsts0=%2526ty%253D30%2526q%253DAndermatt%25252C%252520Uri%25252C%252520Switzerland%2526satid%253Did.sid%25253A4039ce24-f8cb-cec8-3286-3916ff2d39e9%2526vdpid%253D7016135143777632257%2526mb%253D46.676731~8.465829~46.5644~8.762746%2526cardbg%253D%252523F98745&tstt0=Andermatt%2C%206490%2C%20Uri%2C%20Switzerland&cp=46.608512~0.74849&lvl=5.47&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 24 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%82%a4%e3%82%b9+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%87%e3%83%ab%e3%83%9e%e3%83%83%e3%83%88&form=BGABWCTA7&filters=HpDate:\"20260123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%b3%e3%83%87%e3%83%ab%e3%83%9e%e3%83%83%e3%83%88&form=BGABWCTA11&filters=HpDate:\"20260123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260123",
       "fullstartdate": "20260123",
       "enddate": "20260124",
