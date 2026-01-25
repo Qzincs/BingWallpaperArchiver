@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260125",
+      "fullstartdate": "20260125",
+      "enddate": "20260126",
+      "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_EN-IN8501702945_UHD.jpg",
+      "copyrighttext": "© Alister Firth/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=BGALM&filters=HpDate:\"20260124_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Burns National Heritage Park, Ayr, Ayrshire, Scotland",
+      "description": "Each January 25, Scots and friends around the world raise a toast to Robert Burns, Scotland's beloved national poet. A Burns Night supper blends warmth and wit: the centrepiece is haggis, a savoury pudding made from minced meat, oats and spices, served with neeps (mashed turnips) and tatties (mashed potatoes). Add plenty of good cheer, readings of Burns's verse and a dram of whisky and you have a celebration that ends with a rousing chorus of 'Auld Lang Syne.' Even if you're celebrating stateside, these traditions are easy to adopt—set the table, cue the poetry and let the toasts flow.",
+      "headline": "Tradition burns bright",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260125_BurnsPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.427528,-4.634584/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=55.427528,-4.634584;S9;Robert Burns Birthplace Museum, Ayr, Scotland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Robert%20Burns%20Birthplace%20Museum%20%28National%20Trust%20for%20Scotland%29%20burns%20national%20heritage%20park&ss=ypid.YN46FFCCC973A6CD64&mb=58.289627~-11.093597~52.33616~1.835139&description=Murdoch%27s%20Lone%20Alloway%2C%20Ayr%20KA7%204PQ&dt=1765533600000&tt=Robert%20Burns%20Birthplace%20Museum%20%28National%20Trust%20for%20Scotland%29&tsts0=%2526ty%253D18%2526q%253DRobert%252520Burns%252520Birthplace%252520Museum%252520%252528National%252520Trust%252520for%252520Scotland%252529%252520burns%252520national%252520heritage%252520park%2526ss%253Dypid.YN46FFCCC973A6CD64%2526mb%253D58.289627~-11.093597~52.33616~1.835139%2526description%253DMurdoch%252527s%252520Lone%252520Alloway%25252C%252520Ayr%252520KA7%2525204PQ%2526dt%253D1765533600000&tstt0=Robert%20Burns%20Birthplace%20Museum%20%28National%20Trust%20for%20Scotland%29&cp=55.424904~-11.625024&lvl=6.47&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 25, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ayr%2c+Ayrshire%2c+Scotland&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=BGABWCTA7&filters=HpDate:\"20260124_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=BGABWCTA11&filters=HpDate:\"20260124_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260124",
       "fullstartdate": "20260124",
       "enddate": "20260125",

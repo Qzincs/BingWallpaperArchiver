@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260125",
+      "fullstartdate": "20260125",
+      "enddate": "20260126",
+      "urlbase": "https://www.bing.com/th?id=OHR.Northumberland2025_EN-GB5155433831_UHD.jpg",
+      "copyrighttext": "© Design Pics/John Short/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=BGALM&filters=HpDate:\"20260125_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Northumberland, England",
+      "description": "Each January 25, Scots and friends around the world raise a toast to Robert Burns, Scotland's beloved national poet. A Burns Night supper blends warmth and wit: the centrepiece is haggis, a savoury pudding made from minced meat, oats and spices, served with neeps (mashed turnips) and tatties (mashed potatoes). Add plenty of good cheer, readings of Burns's verse and a dram of whisky, and you have a celebration that ends with a rousing chorus of 'Auld Lang Syne.'",
+      "headline": "Tradition burns bright",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260125_Northumberland2025\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.16667,-2/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=55.16667,-2;S9;Northumberland, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Northumberland%2C%20England&satid=id.sid%3A86a3fee3-ba4c-f565-1ce4-449912831e53&vdpid=7395596&mb=55.811676~-3.88563~54.78236~-0.264315&cardbg=%23F98745&dt=1767684600000&tt=Northumberland%2C%20England%2C%20United%20Kingdom&tsts0=%2526ty%253D30%2526q%253DNorthumberland%25252C%252520England%2526satid%253Did.sid%25253A86a3fee3-ba4c-f565-1ce4-449912831e53%2526vdpid%253D7395596%2526mb%253D55.811676~-3.88563~54.78236~-0.264315%2526cardbg%253D%252523F98745%2526dt%253D1767684600000&tstt0=Northumberland%2C%20England%2C%20United%20Kingdom&cp=53.438215~-1.839647&lvl=5.2624516&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 25, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=BGABWCTA7&filters=HpDate:\"20260125_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Burns+night+Robert+Burns&form=BGABWCTA11&filters=HpDate:\"20260125_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260124",
       "fullstartdate": "20260124",
       "enddate": "20260125",

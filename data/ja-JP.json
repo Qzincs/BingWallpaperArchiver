@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260125",
+      "fullstartdate": "20260125",
+      "enddate": "20260126",
+      "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_JA-JP9708968769_UHD.jpg",
+      "copyrighttext": "© Alister Firth/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Burns+National+Heritage+Park&form=BGALM&filters=HpDate:\"20260124_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "バーンズ国立遺産公園, スコットランド",
+      "description": "今日 1 月 25 日は「バーンズ・ナイト」。スコットランドの国民的詩人ロバート・バーンズの誕生日を祝う日です。この日は、ミンチにした羊の内臓、ハーブなどを羊の胃袋に詰めて蒸し上げた伝統的な料理「ハギス」を中心に、カブのマッシュ「ニープス」、ジャガイモのマッシュ「タティーズ」が食卓に並びます。そして彼の詩の朗読やウイスキーでの乾杯が続き、彼が作詞した「蛍の光」を皆で合唱して締めくくる、温かく賑やかな文化行事です…",
+      "headline": "今日はスコットランドの「バーンズ・ナイト」",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260125_BurnsPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/55.427528,-4.634584/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=55.427528,-4.634584;S9;バーンズ国立遺産公園, スコットランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Robert%20Burns%20Birthplace%20Museum%20%28National%20Trust%20for%20Scotland%29%20burns%20national%20heritage%20park&ss=ypid.YN46FFCCC973A6CD64&mb=58.289627~-11.093597~52.33616~1.835139&description=Murdoch%27s%20Lone%20Alloway%2C%20Ayr%20KA7%204PQ&dt=1765533600000&tt=Robert%20Burns%20Birthplace%20Museum%20%28National%20Trust%20for%20Scotland%29&tsts0=%2526ty%253D18%2526q%253DRobert%252520Burns%252520Birthplace%252520Museum%252520%252528National%252520Trust%252520for%252520Scotland%252529%252520burns%252520national%252520heritage%252520park%2526ss%253Dypid.YN46FFCCC973A6CD64%2526mb%253D58.289627~-11.093597~52.33616~1.835139%2526description%253DMurdoch%252527s%252520Lone%252520Alloway%25252C%252520Ayr%252520KA7%2525204PQ%2526dt%253D1765533600000&tstt0=Robert%20Burns%20Birthplace%20Museum%20%28National%20Trust%20for%20Scotland%29&cp=55.424904~-11.625024&lvl=6.47&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 25 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Burns+National+Heritage+Park&form=BGABWCTA7&filters=HpDate:\"20260124_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Burns+National+Heritage+Park&form=BGABWCTA11&filters=HpDate:\"20260124_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260124",
       "fullstartdate": "20260124",
       "enddate": "20260125",

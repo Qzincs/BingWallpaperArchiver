@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260124",
+      "fullstartdate": "20260124",
+      "enddate": "20260125",
+      "urlbase": "https://www.bing.com/th?id=OHR.AndermattSwiss_ROW7938991512_UHD.jpg",
+      "copyrighttext": "© Xantana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Andermatt+Switzerland&form=BGALM&filters=HpDate:\"20260124_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Andermatt village in the Alps, Switzerland",
+      "description": "Nestled in the Urseren Valley at about 1,437 metres, Andermatt is a charming Swiss village embraced by the majestic Alps. Long a vital crossroads, it's linked by three iconic passes—Gotthard, Furka and Oberalp—each enhancing its allure as a gateway between regions and cultures.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260124_AndermattSwiss\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 24, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Andermatt+Switzerland&form=BGABWCTA7&filters=HpDate:\"20260124_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Andermatt+Switzerland&form=BGABWCTA11&filters=HpDate:\"20260124_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260123",
       "fullstartdate": "20260123",
       "enddate": "20260124",

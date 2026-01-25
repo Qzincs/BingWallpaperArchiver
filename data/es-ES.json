@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260125",
+      "fullstartdate": "20260125",
+      "enddate": "20260126",
+      "urlbase": "https://www.bing.com/th?id=OHR.BurnsPark_ES-ES4298228176_UHD.jpg",
+      "copyrighttext": "© Alister Firth/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Ayr+Ayrshire+Escocia&form=BGALM&filters=HpDate:\"20260124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parque Nacional del Patrimonio Burns, Ayr, Ayrshire, Escocia",
+      "description": "Cada 25 de enero, Escocia y amigos de todo el mundo celebran la Burns Night en honor a Robert Burns, poeta nacional del país. La velada combina cercanía y buen humor con una cena tradicional donde el protagonista es el haggis, un pudin salado de carne picada, avena y especias, acompañado de neeps (nabos machacados) y tatties (puré de patatas). La noche se completa con lecturas de sus poemas, brindis con whisky escocés y el canto final de “Auld Lang Syne”. En España, esta canción es conocida por sonar cada Nochevieja, un curioso vínculo cultural entre ambos países.",
+      "headline": "Cena de poesías",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260125_BurnsPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ayr+Ayrshire+Escocia&form=BGABWCTA7&filters=HpDate:\"20260124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ayr+Ayrshire+Escocia&form=BGABWCTA11&filters=HpDate:\"20260124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260124",
       "fullstartdate": "20260124",
       "enddate": "20260125",
