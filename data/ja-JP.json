@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260126",
+      "fullstartdate": "20260126",
+      "enddate": "20260127",
+      "urlbase": "https://www.bing.com/th?id=OHR.BubblesAbraham_JA-JP9895459899_UHD.jpg",
+      "copyrighttext": "© Luis F Arevalo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e3%83%ac%e3%82%a4%e3%82%af&form=BGALM&filters=HpDate:\"20260125_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "アブラハムレイク, カナダ",
+      "description": "ここはアブラハムレイク。カナダ・アルバータ州に造られた人工湖で、面積は約 53.7km² に及ぶ同州最大の貯水池です。ロッキー山脈特有の岩粉によって生まれる美しいターコイズブルーの湖水が広がり、周囲の山々を映し出す絶景スポットとして人気です…",
+      "headline": "色鮮やかな空の下に広がる凍った湖",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_BubblesAbraham\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.22361,-116.4272/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.22361,-116.4272;S9;アブラハムレイク, カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Abraham%20Lake%20Alberta%20Canada&satid=id.sid%3A79873f98-1b5e-c7d4-b001-b94e95c8838a&vdpid=4858490877351297025&mb=52.227353~-116.438942~52.21986~-116.415467&cardbg=%23F98745&dt=1765794600000&tt=Abraham%20Lake%2C%20Alberta&tsts0=%2526ty%253D30%2526q%253DAbraham%252520Lake%252520Alberta%252520Canada%2526satid%253Did.sid%25253A79873f98-1b5e-c7d4-b001-b94e95c8838a%2526vdpid%253D4858490877351297025%2526mb%253D52.227353~-116.438942~52.21986~-116.415467%2526cardbg%253D%252523F98745%2526dt%253D1765794600000&tstt0=Abraham%20Lake%2C%20Alberta&cp=55.479283~-132.405914&lvl=4.2297554&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 26 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e3%83%ac%e3%82%a4%e3%82%af&form=BGABWCTA7&filters=HpDate:\"20260125_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e3%83%ac%e3%82%a4%e3%82%af&form=BGABWCTA11&filters=HpDate:\"20260125_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260125",
       "fullstartdate": "20260125",
       "enddate": "20260126",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260126",
+      "fullstartdate": "20260126",
+      "enddate": "20260127",
+      "urlbase": "https://www.bing.com/th?id=OHR.RepublicDay2026_EN-IN4289196268_UHD.jpg",
+      "copyrighttext": "© T. Narayan/Bloomberg/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Republic+Day&form=BGALM&filters=HpDate:\"20260125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Balloons released during the 2021 Republic Day parade in New Delhi",
+      "description": "Republic Day, observed on 26 January, marks the moment India formally became a republic in 1950. Independence had come three years earlier, but this date signalled a clear shift into a new national phase. It established how the country would govern itself and how public life would be organised in the future. Over time, this day has become a fixed point in India's calendar, balancing historical memory with present-day observance.",
+      "headline": "From history to celebration",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260126_RepublicDay2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 26, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Republic+Day&form=BGABWCTA7&filters=HpDate:\"20260125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Republic+Day&form=BGABWCTA11&filters=HpDate:\"20260125_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260125",
       "fullstartdate": "20260125",
       "enddate": "20260126",

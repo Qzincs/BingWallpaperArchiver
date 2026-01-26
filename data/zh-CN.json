@@ -1,6 +1,281 @@
 {
   "images": [
     {
+      "startdate": "20260126",
+      "fullstartdate": "20260126",
+      "enddate": "20260127",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OBGA.AdobeStock_503964061",
+      "copyrighttext": "© RooM The Agency/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=North%20Eleuthera%2C%20Bahamas&form=BGALM",
+      "title": "North Eleuthera, Bahamas",
+      "description": "Aerial view of Glass Window Bridge, North Eleuthera, Bahamas",
+      "headline": "North Eleuthera, Bahamas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=North%20Eleuthera%2C%20Bahamas&satid=id.sid%3Ade81304b-9d60-7a47-0b0a-3757e14d7ebf&vdpid=5508428691962593281&mb=25.762011~-77.250243~25.096483~-76.145456&cardbg=%23F98745&tt=North%20Eleuthera%2C%20The%20Bahamas&tsts2=%2526ty%253D30%2526q%253DNorth%252520Eleuthera%25252C%252520Bahamas%2526satid%253Did.sid%25253Ade81304b-9d60-7a47-0b0a-3757e14d7ebf%2526vdpid%253D5508428691962593281%2526mb%253D25.762011~-77.250243~25.096483~-76.145456%2526cardbg%253D%252523F98745&tstt2=North%20Eleuthera%2C%20The%20Bahamas&cp=25.429838~-76.998656&lvl=10.177808&pi=0&ftst=2&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 26",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+North+Eleuthera%2c+Bahamas&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=North%20Eleuthera%2C%20Bahamas&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "搜索 Web 以了解有关此图片的详细信息"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 0,
+            "Width": 2621,
+            "Height": 3268,
+            "Label": "swimming pool",
+            "ContourList": [],
+            "Contours": [
+              [
+                2333,
+                56
+              ],
+              [
+                2198,
+                10
+              ],
+              [
+                0,
+                11
+              ],
+              [
+                0,
+                3263
+              ],
+              [
+                1161,
+                3263
+              ],
+              [
+                1510,
+                2798
+              ],
+              [
+                1890,
+                2587
+              ],
+              [
+                2004,
+                2409
+              ],
+              [
+                2025,
+                2423
+              ],
+              [
+                2083,
+                2362
+              ],
+              [
+                2193,
+                1980
+              ],
+              [
+                2214,
+                1635
+              ],
+              [
+                2104,
+                1667
+              ],
+              [
+                2002,
+                1745
+              ],
+              [
+                2000,
+                1821
+              ],
+              [
+                2067,
+                1848
+              ],
+              [
+                2066,
+                1939
+              ],
+              [
+                2001,
+                1950
+              ],
+              [
+                2034,
+                1963
+              ],
+              [
+                1890,
+                2063
+              ],
+              [
+                1868,
+                2039
+              ],
+              [
+                1897,
+                1995
+              ],
+              [
+                1841,
+                1999
+              ],
+              [
+                1833,
+                2032
+              ],
+              [
+                1768,
+                2020
+              ],
+              [
+                1718,
+                1956
+              ],
+              [
+                1689,
+                1990
+              ],
+              [
+                1704,
+                1950
+              ],
+              [
+                1656,
+                1938
+              ],
+              [
+                1693,
+                1924
+              ],
+              [
+                1703,
+                1874
+              ],
+              [
+                1671,
+                1860
+              ],
+              [
+                1712,
+                1824
+              ],
+              [
+                1693,
+                1720
+              ],
+              [
+                1582,
+                1591
+              ],
+              [
+                1649,
+                1515
+              ],
+              [
+                1636,
+                1489
+              ],
+              [
+                1714,
+                1439
+              ],
+              [
+                1659,
+                1286
+              ],
+              [
+                1683,
+                1221
+              ],
+              [
+                1925,
+                1119
+              ],
+              [
+                1887,
+                1081
+              ],
+              [
+                1914,
+                1030
+              ],
+              [
+                1891,
+                1003
+              ],
+              [
+                2043,
+                933
+              ],
+              [
+                2217,
+                908
+              ],
+              [
+                2351,
+                671
+              ],
+              [
+                2525,
+                465
+              ],
+              [
+                2568,
+                324
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=North%20Eleuthera%2C%20Bahamas&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260125",
       "fullstartdate": "20260125",
       "enddate": "20260126",
