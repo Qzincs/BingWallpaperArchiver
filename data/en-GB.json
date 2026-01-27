@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260127",
+      "fullstartdate": "20260127",
+      "enddate": "20260128",
+      "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_EN-GB1535458642_UHD.jpg",
+      "copyrighttext": "© Guy Edwardes/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Dalmatian+pelicans&form=BGALM&filters=HpDate:\"20260127_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Dalmatian pelicans, Lake Kerkini, Greece",
+      "description": "Winter at Lake Kerkini in Greece delivers some of Europe's clearest views of Dalmatian pelicans. Their large silhouettes move in tight, steady groups across the still water, making their scale hard to miss. With wingspans stretching over 3 metres, they rank among the world's largest flying birds. Lake Kerkini's predictable winter conditions offer reliable, close-range views of their size, grace and coordinated movement.",
+      "headline": "Feather forecast: pelicans ahead",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260127_DalmationPelicans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.199512,23.15332/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=41.199512,23.15332;S9;Lake Kerkini, Greece&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Lake%20Kerkini%2C%20Greece&vdpid=7243001578699882497&mb=41.252296~23.015817~41.138088~23.290259&cardbg=%23FFFFFF&dt=1765276200000&tt=Kerkini%20Lake%2C%20Central%20Macedonia%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DLake%252520Kerkini%25252C%252520Greece%2526vdpid%253D7243001578699882497%2526mb%253D41.252296~23.015817~41.138088~23.290259%2526cardbg%253D%252523FFFFFF%2526dt%253D1765276200000&tstt0=Kerkini%20Lake%2C%20Central%20Macedonia%2C%20Greece&cp=40.563995~20.852447&lvl=7.2687154&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 27, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Lake+Kerkini%2c+Greece&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Dalmatian+pelicans&form=BGABWCTA7&filters=HpDate:\"20260127_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Dalmatian+pelicans&form=BGABWCTA11&filters=HpDate:\"20260127_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260126",
       "fullstartdate": "20260126",
       "enddate": "20260127",

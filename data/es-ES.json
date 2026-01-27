@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260127",
+      "fullstartdate": "20260127",
+      "enddate": "20260128",
+      "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_ES-ES2127597270_UHD.jpg",
+      "copyrighttext": "© Guy Edwardes/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Pel%c3%adcano+ce%c3%b1udo&form=BGALM&filters=HpDate:\"20260126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pelícanos ceñudos, Lago Kerkini, Grecia",
+      "description": "El invierno en el lago Kerkini, en el norte de Grecia, regala algunas de las mejores vistas de pelícanos ceñudos de Europa. Sus enormes siluetas se deslizan en grupos compactos sobre las aguas tranquilas, dejando patente su impresionante tamaño. Con más de tres metros de envergadura, figuran entre las aves voladoras más grandes del mundo. Las condiciones invernales del lago permiten observarlos a corta distancia, con nitidez y continuidad.",
+      "headline": "Sociable y ancestral",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260127_DalmationPelicans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pel%c3%adcano+ce%c3%b1udo&form=BGABWCTA7&filters=HpDate:\"20260126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pel%c3%adcano+ce%c3%b1udo&form=BGABWCTA11&filters=HpDate:\"20260126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260126",
       "fullstartdate": "20260126",
       "enddate": "20260127",

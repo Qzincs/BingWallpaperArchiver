@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260126",
+      "fullstartdate": "20260126",
+      "enddate": "20260127",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_528280193",
+      "copyrighttext": "© RooM The Agency/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Sulawesi%20Sea%2C%20Indonesia&form=BGALM",
+      "title": "Sulawesi Sea, Indonesia",
+      "description": "Aerial view of four Dugongs swimming in ocean, Sangihe Island, North Sulawesi Sea, Indonesia",
+      "headline": "Sulawesi Sea, Indonesia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Sulawesi%20Sea%2C%20Indonesia&satid=id.sid%3A7aca7e47-5dd7-008c-1d9e-1e5a8d3769a9&vdpid=6345&mb=6.541605~116.676298~-0.542095~127.317401&cardbg=%23F98745&dt=1737669600000&tt=Sulawesi%20Sea%2C%20Indonesia&tsts3=%2526ty%253D30%2526q%253DSulawesi%252520Sea%25252C%252520Indonesia%2526satid%253Did.sid%25253A7aca7e47-5dd7-008c-1d9e-1e5a8d3769a9%2526vdpid%253D6345%2526mb%253D6.541605~116.676298~-0.542095~127.317401%2526cardbg%253D%252523F98745%2526dt%253D1737669600000&tstt3=Sulawesi%20Sea%2C%20Indonesia&cp=3.005501~119.096856&lvl=6.91&pi=0&ftst=3&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 26, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Sulawesi+Sea%2c+Indonesia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sulawesi%20Sea%2C%20Indonesia&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 400,
+            "Y": 288,
+            "Width": 3200,
+            "Height": 2313,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Sulawesi%20Sea%2C%20Indonesia&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260125",
       "fullstartdate": "20260125",
       "enddate": "20260126",
