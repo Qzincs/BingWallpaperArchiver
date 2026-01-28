@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260128",
+      "fullstartdate": "20260128",
+      "enddate": "20260129",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_IT-IT3958915407_UHD.jpg",
+      "copyrighttext": "© Matthew Micah Wright/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nuova+Zelanda&form=BGALM&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parco Nazionale di Whanganui, Retaruke, Nuova Zelanda",
+      "description": "Nel Whanganui National Park, vi troverete immersi in un paesaggio fluviale così unico da sembrare scolpito dal respiro stesso della Nuova Zelanda. Creato nel 1986, il parco si estende per circa 740 chilometri quadrati nel cuore dell’Isola del Nord, mentre il fiume Whanganui disegna curve lente e silenziose attraverso una foresta che sembra non finire mai.",
+      "headline": "L'acqua e il respiro",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-39.58333,175.0833/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-39.58333,175.0833;S9;Parco Nazionale di Whanganui, Retaruke, Nuova Zelanda&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Whanganui%20National%20Park%2C%20New%20Zealand&satid=id.sid%3A4b6f754e-1784-d904-ac85-6fe2c9fdb7f9&vdpid=8929905404498935809&mb=-38.926037~174.058114~-39.734791~175.948737&cardbg=%23FFFFFF&dt=1765452600000&tt=Whanganui%20National%20Park%2C%20New%20Zealand&tsts0=%2526ty%253D30%2526q%253DWhanganui%252520National%252520Park%25252C%252520New%252520Zealand%2526satid%253Did.sid%25253A4b6f754e-1784-d904-ac85-6fe2c9fdb7f9%2526vdpid%253D8929905404498935809%2526mb%253D-38.926037~174.058114~-39.734791~175.948737%2526cardbg%253D%252523FFFFFF%2526dt%253D1765452600000&tstt0=Whanganui%20National%20Park%2C%20New%20Zealand&cp=-40.019345~172.600477&lvl=7.0217943&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "28 gennaio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Retaruke%2c+Nuova+Zelanda&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nuova+Zelanda&form=BGABWCTA7&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nuova+Zelanda&form=BGABWCTA11&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260127",
       "fullstartdate": "20260127",
       "enddate": "20260128",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260127",
+      "fullstartdate": "20260127",
+      "enddate": "20260128",
+      "urlbase": "https://www.bing.com/th?id=OHR.DalmationPelicans_PT-BR5399288780_UHD.jpg",
+      "copyrighttext": "© Guy Edwardes/naturepl.com",
+      "copyrightlink": "https://www.bing.com/search?q=Pelicanos+crespos&form=BGALM&filters=HpDate:\"20260127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pelicanos-crespos no Lago Kerkini, Grécia",
+      "description": "Hoje visitamos o Lago Kerkini, na Grécia, onde o inverno do hemisfério norte é dominado pelos pelicanos-crespos, que deslizam em grupos sobre águas tranquilas. Eles podem chegar a 3,5 metros de envergadura — ainda maior que o nosso tuiuiú, ou jaburu, que detém o título de maior ave voadora do Brasil com quase 3 metros de envergadura. Os pelicanos-crespos mergulham com precisão para capturar peixes e os guardam em sua bolsa laranja-avermelhada, que tem capacidade para até 13 litros de água e alimento. Cada movimento parece coreografado, refletindo-se nas águas que amplificam a grandiosidade dessas aves majestosas.",
+      "headline": "Asas sobre Kerkini",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260127_DalmationPelicans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pelicanos+crespos&form=BGABWCTA7&filters=HpDate:\"20260127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pelicanos+crespos&form=BGABWCTA11&filters=HpDate:\"20260127_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260126",
       "fullstartdate": "20260126",
       "enddate": "20260127",

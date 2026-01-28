@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260128",
+      "fullstartdate": "20260128",
+      "enddate": "20260129",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_ES-ES1389152194_UHD.jpg",
+      "copyrighttext": "© Matthew Micah Wright/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Whanganui+en+Nueva+Zelanda&form=BGALM&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parque Nacional Whanganui, Manawatu-Whanganui, Nueva Zelanda",
+      "description": "El Parque Nacional de Whanganui ofrece uno de los paisajes fluviales más singulares de Nueva Zelanda. Fundado en 1986, abarca unos 740 kilómetros cuadrados en el centro de la Isla Norte, con el río Whanganui dibujando largas y tranquilas curvas a través de un denso bosque. Aunque el río no está oficialmente dentro del parque, modela casi todo lo que lo rodea, incluido el Whanganui Journey, uno de los Grandes Paseos de Nueva Zelanda.",
+      "headline": "Fluye en la naturaleza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Whanganui+en+Nueva+Zelanda&form=BGABWCTA7&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+Whanganui+en+Nueva+Zelanda&form=BGABWCTA11&filters=HpDate:\"20260127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260127",
       "fullstartdate": "20260127",
       "enddate": "20260128",

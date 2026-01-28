@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260128",
+      "fullstartdate": "20260128",
+      "enddate": "20260129",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.WhanganuiPark_ZH-CN5664518836_UHD.jpg",
+      "copyrighttext": "© Matthew Micah Wright/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%96%b0%e8%a5%bf%e5%85%b0%e6%97%ba%e6%a0%bc%e5%8a%aa%e4%bc%8a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20260127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "旺格努伊国家公园，雷塔鲁克，新西兰",
+      "description": "旺格努伊国家公园呈现了新西兰最具特色的河流景观。自1986年建立起，它便以约286平方英里的面积横跨北岛中部。旺格努伊河在茂密的森林中缓缓弯曲前行，静默而深远。虽然其本身不在公园的正式范围内，但它几乎塑造了周遭的一切，包括“旺格努伊之旅”——新西兰著名的“伟大步道”之一。",
+      "headline": "随河而行",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 28",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%96%b0%e8%a5%bf%e5%85%b0%e6%97%ba%e6%a0%bc%e5%8a%aa%e4%bc%8a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20260127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%96%b0%e8%a5%bf%e5%85%b0%e6%97%ba%e6%a0%bc%e5%8a%aa%e4%bc%8a%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20260127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260127",
       "fullstartdate": "20260127",
       "enddate": "20260128",
