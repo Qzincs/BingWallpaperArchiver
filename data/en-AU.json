@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260128",
+      "fullstartdate": "20260128",
+      "enddate": "20260129",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_ROW0563176528_UHD.jpg",
+      "copyrighttext": "© Matthew Micah Wright/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Whanganui+National+park+New+Zealand&form=BGALM&filters=HpDate:\"20260128_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Whanganui National Park, Retaruke, New Zealand",
+      "description": "Whanganui National Park showcases one of New Zealand's most distinctive river landscapes. Established in 1986, the park covers about 741 square kilometres across the central North Island, with the Whanganui River tracing long, quiet bends through dense forest. Although the river is not officially within the park's boundaries, it shapes nearly everything around it, including the Whanganui Journey—one of New Zealand's designated Great Walks.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 28, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Whanganui+National+park+New+Zealand&form=BGABWCTA7&filters=HpDate:\"20260128_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Whanganui+National+park+New+Zealand&form=BGABWCTA11&filters=HpDate:\"20260128_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260127",
       "fullstartdate": "20260127",
       "enddate": "20260128",

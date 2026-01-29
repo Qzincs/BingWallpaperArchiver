@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260129",
+      "fullstartdate": "20260129",
+      "enddate": "20260130",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OBGA.AdobeStock_414317548",
+      "copyrighttext": "© YOUMING VISION/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%98%a5%e8%8a%82%e8%a3%85%e9%a5%b0&form=BGALM",
+      "title": "春节装饰",
+      "description": "欢度春节",
+      "headline": "春节装饰",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 29",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%98%a5%e8%8a%82%e8%a3%85%e9%a5%b0&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 528,
+            "Y": 352,
+            "Width": 4226,
+            "Height": 2822,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%98%a5%e8%8a%82%e8%a3%85%e9%a5%b0&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260128",
       "fullstartdate": "20260128",
       "enddate": "20260129",

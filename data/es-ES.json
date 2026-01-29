@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260129",
+      "fullstartdate": "20260129",
+      "enddate": "20260130",
+      "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ES-ES2661368914_UHD.jpg",
+      "copyrighttext": "© lavin photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Milwaukee+Wisconsin+en+Estados+Unidos&form=BGALM&filters=HpDate:\"20260128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Atrio abierto de ocho plantas del Ayuntamiento de Milwaukee, Wisconsin, EE. UU.",
+      "description": "Si alguna vez has paseado por el centro de Milwaukee, en Estados Unidos, y has levantado la vista con asombro, lo más probable es que estuvieras admirando el icónico Ayuntamiento de Milwaukee. Terminada en 1895, esta imponente obra del Renacimiento flamenco no solo domina el horizonte, sino que lo define. Durante casi ocho décadas, fue el edificio más alto de la ciudad, título que conservó hasta 1973. Diseñado por el arquitecto Henry C. Koch, combina la arquitectura alemana con influencias históricas locales, rindiendo homenaje a la fuerte herencia alemana de Milwaukee, que también marcó el barrio circundante.",
+      "headline": "Una historia exagerada de Milwaukee",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260129_MilwaukeeHall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Milwaukee+Wisconsin+en+Estados+Unidos&form=BGABWCTA7&filters=HpDate:\"20260128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Milwaukee+Wisconsin+en+Estados+Unidos&form=BGABWCTA11&filters=HpDate:\"20260128_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260128",
       "fullstartdate": "20260128",
       "enddate": "20260129",

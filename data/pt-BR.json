@@ -1,6 +1,162 @@
 {
   "images": [
     {
+      "startdate": "20260129",
+      "fullstartdate": "20260129",
+      "enddate": "20260130",
+      "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_UHD.jpg",
+      "copyrighttext": "© lavin photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Milwaukee+Wisconsin+EUA&form=BGALM&filters=HpDate:\"20260129_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Prefeitura de Milwaukee, Wisconsin, Estados Unidos",
+      "description": "A Prefeitura de Milwaukee, em Wisconsin, Estados Unidos, é uma daquelas construções impossíveis de ignorar. Inaugurado em 1895, esse majestoso edifício em estilo renascentista não apenas domina o horizonte, mas se tornou símbolo da cidade.",
+      "headline": "O ponto alto da memória",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260129_MilwaukeeHall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Milwaukee+Wisconsin+EUA&form=BGABWCTA7&filters=HpDate:\"20260129_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Milwaukee+Wisconsin+EUA&form=BGABWCTA11&filters=HpDate:\"20260129_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20260128",
+      "fullstartdate": "20260128",
+      "enddate": "20260129",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhanganuiPark_PT-BR6611388869_UHD.jpg",
+      "copyrighttext": "© Matthew Micah Wright/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Whanganui+Nova+Zel%c3%a2ndia&form=BGALM&filters=HpDate:\"20260128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parque Nacional Whanganui, Retaruke, Nova Zelândia",
+      "description": "O Parque Nacional Whanganui, na Nova Zelândia, visto na imagem, revela um dos cenários fluviais mais impressionantes do mundo: o rio Whanganui serpenteando por vales profundos e gargantas esculpidas. Embora o leito do rio não esteja oficialmente dentro dos limites do parque, sua presença define a paisagem e convida a uma das aventuras imperdíveis do país: a Whanganui Journey, percurso de canoagem que atravessa cânions, corredeiras e trechos de natureza selvagem.",
+      "headline": "O rio que dança com a floresta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260128_WhanganuiPark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Whanganui+Nova+Zel%c3%a2ndia&form=BGABWCTA7&filters=HpDate:\"20260128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+Whanganui+Nova+Zel%c3%a2ndia&form=BGABWCTA11&filters=HpDate:\"20260128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260127",
       "fullstartdate": "20260127",
       "enddate": "20260128",
