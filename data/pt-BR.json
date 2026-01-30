@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260130",
+      "fullstartdate": "20260130",
+      "enddate": "20260131",
+      "urlbase": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg",
+      "copyrighttext": "© Baxter Bradford/robertharding/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Monte+de+St+Michael+na+Inglaterra&form=BGALM&filters=HpDate:\"20260130_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monte St. Michael em Marazion, Cornualha, Inglaterra",
+      "description": "Há lugares que parecem obedecer mais à maré do que ao tempo — e a ilha que vemos aqui é um deles. No mar da Cornualha, na Inglaterra, o Monte St. Michael só se conecta ao continente por algumas horas do dia, quando o oceano recua e revela um estreito caminho de granito que, por séculos, guiou pescadores, peregrinos e curiosos entre água e terra.",
+      "headline": "Entre o mito e a maré",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260130_StMichaelsCornwall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 jan. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Monte+de+St+Michael+na+Inglaterra&form=BGABWCTA7&filters=HpDate:\"20260130_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Monte+de+St+Michael+na+Inglaterra&form=BGABWCTA11&filters=HpDate:\"20260130_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260129",
       "fullstartdate": "20260129",
       "enddate": "20260130",

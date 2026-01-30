@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260130",
+      "fullstartdate": "20260130",
+      "enddate": "20260131",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.StMichaelsCornwall_ZH-CN5878042411_UHD.jpg",
+      "copyrighttext": "© Baxter Bradford/robertharding/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%9c%a3%e8%bf%88%e5%85%8b%e5%b0%94%e5%b1%b1&form=BGALM&filters=HpDate:\"20260129_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "马拉齐翁的圣迈克尔山, 康沃尔郡, 英格兰",
+      "description": "想象一座从康沃尔海面升起的小岛，潮水退去时才会与陆地短暂相连。每天只有几小时，你可以沿着那条被无数朝圣者和渔民磨出的花岗岩堤道走到岛上。这就是位于马拉齐翁外海的圣迈克尔山，由国家信托基金管理，自17世纪起便是圣奥宾家族的住所，融合了传说、中世纪遗迹与壮阔的海岸景色。",
+      "headline": "海潮退却之处",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260130_StMichaelsCornwall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 1月 30",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%9c%a3%e8%bf%88%e5%85%8b%e5%b0%94%e5%b1%b1&form=BGABWCTA7&filters=HpDate:\"20260129_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%9c%a3%e8%bf%88%e5%85%8b%e5%b0%94%e5%b1%b1&form=BGABWCTA11&filters=HpDate:\"20260129_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260129",
       "fullstartdate": "20260129",
       "enddate": "20260130",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260130",
+      "fullstartdate": "20260130",
+      "enddate": "20260131",
+      "urlbase": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_ES-ES2889178961_UHD.jpg",
+      "copyrighttext": "© Baxter Bradford/robertharding/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=St+Michaels+Mount&form=BGALM&filters=HpDate:\"20260129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monte San Miguel en Marazion, Cornualles, Inglaterra",
+      "description": "El Monte San Miguel, en Marazion, es uno de los paisajes más sugerentes de Cornualles, Inglaterra. Su silueta sobre las aguas de Mounts Bay crea una impresión casi mágica. Se trata de una isla mareal que queda unida a la costa por un antiguo camino de granito visible solo cuando la marea baja. En la cima se alza un castillo que conserva elementos medievales y una larga historia vinculada a antiguas tradiciones religiosas. Fue un punto estratégico durante conflictos costeros y aún hoy se pueden recorrer sus salas y jardines mientras se disfrutan vistas amplias del litoral. La isla mantiene una pequeña comunidad que cuida el entorno y conserva la singular identidad del sitio.",
+      "headline": "Donde el mar se abre paso",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260130_StMichaelsCornwall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 de ene. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=St+Michaels+Mount&form=BGABWCTA7&filters=HpDate:\"20260129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=St+Michaels+Mount&form=BGABWCTA11&filters=HpDate:\"20260129_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260129",
       "fullstartdate": "20260129",
       "enddate": "20260130",

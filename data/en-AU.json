@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260129",
+      "fullstartdate": "20260129",
+      "enddate": "20260130",
+      "urlbase": "https://www.bing.com/th?id=OHR.MilwaukeeHall_ROW0871854348_UHD.jpg",
+      "copyrighttext": "© lavin photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Milwaukee+city&form=BGALM&filters=HpDate:\"20260129_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States",
+      "description": "Milwaukee City Hall, in the state of Wisconsin, United States, is one of the city's most recognisable landmarks. Completed in 1895, this towering Flemish Renaissance Revival masterpiece doesn't just dominate the skyline; it defines it. For nearly eight decades, it stood as the city's tallest building, a title it proudly held until 1973. Designed by architect Henry C. Koch, this hall blends German-inspired architecture with Milwaukee's own historic influences. That connection isn't accidental—its design pays tribute to the city's strong German heritage, which shaped much of the surrounding neighbourhood as well.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260129_MilwaukeeHall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jan 29, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Milwaukee+city&form=BGABWCTA7&filters=HpDate:\"20260129_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Milwaukee+city&form=BGABWCTA11&filters=HpDate:\"20260129_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260128",
       "fullstartdate": "20260128",
       "enddate": "20260129",
