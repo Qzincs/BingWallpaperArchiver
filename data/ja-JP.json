@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260131",
+      "fullstartdate": "20260131",
+      "enddate": "20260201",
+      "urlbase": "https://www.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg",
+      "copyrighttext": "© Hide's photos/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%94%af%e7%ac%8f%e6%b9%96%e6%b0%b7%e6%bf%a4%e3%81%be%e3%81%a4%e3%82%8a&form=BGALM&filters=HpDate:\"20260130_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ライトアップされた氷像, 北海道 千歳市",
+      "description": "今日 1 月 31 日から、北海道千歳市の冬のイベント「千歳・支笏湖氷濤まつり 氷の美術館」が開催されます。支笏湖の湖水をスプリンクラーで吹き付けて凍らせた大小さまざまな支笏湖ブルーに輝く氷像が立ち並びます。夜には色とりどりのライトに照らされて、幻想的な世界が広がります…",
+      "headline": "今日から千歳・支笏湖氷濤まつり",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260131_IceFestival2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/42.757034,141.32457/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=42.757034,141.32457;S9;支笏湖&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E6%94%AF%E7%AC%8F%E6%B9%96&vdpid=7928975578227539969&mb=42.803928~141.201299~42.703861~141.458598&cardbg=%23F98745&dt=1767186000000&tt=%E6%94%AF%E7%AC%8F%E6%B9%96&tsts0=%2526ty%253D30%2526q%253D%2525E6%252594%2525AF%2525E7%2525AC%25258F%2525E6%2525B9%252596%2526vdpid%253D7928975578227539969%2526mb%253D42.803928~141.201299~42.703861~141.458598%2526cardbg%253D%252523F98745%2526dt%253D1767186000000&tstt0=%E6%94%AF%E7%AC%8F%E6%B9%96&cp=42.753863~141.276629&lvl=12.675547&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 1月 月 31 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93+%e5%8d%83%e6%ad%b3%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%94%af%e7%ac%8f%e6%b9%96%e6%b0%b7%e6%bf%a4%e3%81%be%e3%81%a4%e3%82%8a&form=BGABWCTA7&filters=HpDate:\"20260130_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%94%af%e7%ac%8f%e6%b9%96%e6%b0%b7%e6%bf%a4%e3%81%be%e3%81%a4%e3%82%8a&form=BGABWCTA11&filters=HpDate:\"20260130_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260130",
       "fullstartdate": "20260130",
       "enddate": "20260131",

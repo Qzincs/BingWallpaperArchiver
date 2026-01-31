@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260130",
+      "fullstartdate": "20260130",
+      "enddate": "20260131",
+      "urlbase": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg",
+      "copyrighttext": "© Baxter Bradford/robertharding/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=St+Michaels+Mount&form=BGALM&filters=HpDate:\"20260130_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "St. Michael's Mount in Marazion, Cornwall, England",
+      "description": "Picture a small island rising from the Cornish sea, connected to the mainland only when the tide retreats. For a few hours a day, you can wander across a centuries-old granite causeway made smooth by pilgrims and fishermen. This is St. Michael's Mount, just off the coast of Marazion, in Cornwall, England. Managed by the National Trust and home to the St. Aubyn family since the 1600s, the mount blends myth, medieval history, and sweeping coastal views.",
+      "headline": "Where the sea makes way",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260130_StMichaelsCornwall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.794376,-5.751882/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=50.794376,-5.751882;S9;Saint%20Michael%27s%20Mount%2C%20United%20Kingdom&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Saint%20Michael%27s%20Mount%2C%20United%20Kingdom&ss=ypid.YN422614A51FBDC4E3&mb=50.119918~-5.482768~50.113093~-5.473391&description=Harbour%20View%20St%20Michaels%20Mount%2C%20Marazion%20TR17%200HS&cardbg=%23219AB6&dt=1765542600000&tt=St%20Michael%27s%20Mount&tsts0=%2526ty%253D18%2526q%253DSaint%252520Michael%252527s%252520Mount%25252C%252520United%252520Kingdom%2526ss%253Dypid.YN422614A51FBDC4E3%2526mb%253D50.119918~-5.482768~50.113093~-5.473391%2526description%253DHarbour%252520View%252520St%252520Michaels%252520Mount%25252C%252520Marazion%252520TR17%2525200HS%2526cardbg%253D%252523219AB6%2526dt%253D1765542600000&tstt0=St%20Michael%27s%20Mount&cp=50.092393~-16.391602&lvl=5&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Jan 30, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Cornwall%2c+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=St+Michaels+Mount&form=BGABWCTA7&filters=HpDate:\"20260130_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=St+Michaels+Mount&form=BGABWCTA11&filters=HpDate:\"20260130_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260129",
       "fullstartdate": "20260129",
       "enddate": "20260130",
