@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260201",
+      "fullstartdate": "20260201",
+      "enddate": "20260202",
+      "urlbase": "https://www.bing.com/th?id=OHR.IcelandSheep_ES-ES7827276592_UHD.jpg",
+      "copyrighttext": "© Christophe Lehenaff/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%c3%9eorrabl%c3%b3t&form=BGALM&filters=HpDate:\"20260131_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ovejas pastando en la nieve, Islandia",
+      "description": "El Þorrablót es uno de los festivales invernales más emblemáticos de Islandia, una celebración que hunde sus raíces en antiguas tradiciones nórdicas vinculadas al mes de Þorri, cuando el invierno alcanza su punto más duro. Durante estas fechas, los islandeses se reúnen para compartir comidas conservadas típicas del invierno, recordar historias del pasado y reforzar la cohesión comunitaria frente al frío y la oscuridad. Es un momento en el que la cultura islandesa se afirma y se celebra, casi como un ritual colectivo de resistencia y alegría en medio de la estación más extrema.",
+      "headline": "Celebrando sobre hielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260201_IcelandSheep\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "1 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%c3%9eorrabl%c3%b3t&form=BGABWCTA7&filters=HpDate:\"20260131_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%c3%9eorrabl%c3%b3t&form=BGABWCTA11&filters=HpDate:\"20260131_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260131",
       "fullstartdate": "20260131",
       "enddate": "20260201",
