@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260201",
+      "fullstartdate": "20260201",
+      "enddate": "20260202",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2018-B12_BridgeRibadeoES_AdobeStock_139273058",
+      "copyrighttext": "© tichr/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Ribadeo%2C%20Spain&form=BGALM",
+      "title": "Ribadeo, Spain",
+      "description": "Panorama view of the Highway Bridge in Ribadeo, Spain, which connects Galicia and Asturia",
+      "headline": "Ribadeo, Spain",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Ribadeo%2C%20Spain&satid=id.sid%3Aa7ec0fe1-c799-4978-bcbc-8aa8f42e5b58&vdpid=5666419956275740674&mb=43.543358~-7.06804~43.527981~-7.03624&cardbg=%23F98745&tt=Ribadeo%2C%20Galicia%2C%20Spain&tsts5=%2526ty%253D30%2526q%253DRibadeo%25252C%252520Spain%2526satid%253Did.sid%25253Aa7ec0fe1-c799-4978-bcbc-8aa8f42e5b58%2526vdpid%253D5666419956275740674%2526mb%253D43.543358~-7.06804~43.527981~-7.03624%2526cardbg%253D%252523F98745&tstt5=Ribadeo%2C%20Galicia%2C%20Spain&cp=43.53566~-7.060808&lvl=15.296414&pi=0&ftst=5&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Feb 1, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ribadeo%2c+Spain&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ribadeo%2C%20Spain&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 540,
+            "Y": 251,
+            "Width": 4320,
+            "Height": 2016,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ribadeo%2C%20Spain&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260131",
       "fullstartdate": "20260131",
       "enddate": "20260201",
