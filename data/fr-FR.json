@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260203",
+      "fullstartdate": "20260203",
+      "enddate": "20260204",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_FR-FR1712253597_UHD.jpg",
+      "copyrighttext": "© Bill Stevenson/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lac+Tahoe+Californie&form=BGALM&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Emerald Bay et Fanette Island, Lac Tahoe, Californie, États-Unis",
+      "description": "Il y a des lieux qui semblent être tissés de récits, où science et légende vont de la main. Le Lac Tahoe, en Californie, en est un parfait exemple. Né à l’ère glaciaire, il doit ses 500 mètres de profondeur vertigineuse aux failles et aux glaciers qui ont sculpté son bassin. Aujourd’hui, il figure parmi les plus grands lacs d’eau douce des États-Unis et apparaît tel un miroir limpide bordé de forêts et de hauts sommets.",
+      "headline": "Un lac d'une profondeur à couper le souffle",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.95409,-120.1007/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.95409,-120.1007;S9;Fannette Island, Lac Tahoe, Californie, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fanette%20Island%20California&satid=id.sid%3A5592995a-830a-7b12-d468-aef647dc705e&vdpid=5058159166237966337&mb=38.959217~-120.113568~38.948955~-120.087819&cardbg=%23F98745&dt=1765283400000&tt=Fannette%20Island%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DFanette%252520Island%252520California%2526satid%253Did.sid%25253A5592995a-830a-7b12-d468-aef647dc705e%2526vdpid%253D5058159166237966337%2526mb%253D38.959217~-120.113568~38.948955~-120.087819%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Fannette%20Island%2C%20California%2C%20United%20States&cp=36.2778~-126.249626&lvl=5.2905445&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3 févr. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Lac+Tahoe%2c+Californie%2c+%c3%89tats-Unis&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lac+Tahoe+Californie&form=BGABWCTA7&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lac+Tahoe+Californie&form=BGABWCTA11&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260202",
       "fullstartdate": "20260202",
       "enddate": "20260203",

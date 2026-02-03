@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260203",
+      "fullstartdate": "20260203",
+      "enddate": "20260204",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_ES-ES4459822597_UHD.jpg",
+      "copyrighttext": "© Bill Stevenson/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Isla+Fannette&form=BGALM&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bahía Esmeralda e isla Fannette, lago Tahoe, California, EE. UU.",
+      "description": "En la imagen de hoy descubrimos la Bahía Esmeralda y la isla Fannette, en el lago Tahoe, en California (Estados Unidos). Este enclave destaca por el contraste entre el azul profundo del agua y las laderas cubiertas de pinos que descienden hasta la orilla. En lo alto de la pequeña isla se conservan las ruinas de la antigua \"Casa de té\" construida en los años veinte, un pequeño refugio de piedra que ofrecía a sus visitantes una vista privilegiada del entorno. El relieve abrupto y la claridad del agua crean una sensación de calma que invita a imaginar cómo era la vida en este rincón remoto cuando aún se llegaba a la isla en pequeñas embarcaciones a remo o motor. El ambiente alpino y el silencio que envuelve la escena transmiten una belleza que parece suspendida en el tiempo.",
+      "headline": "Donde el tiempo se detiene",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Isla+Fannette&form=BGABWCTA7&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Isla+Fannette&form=BGABWCTA11&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260202",
       "fullstartdate": "20260202",
       "enddate": "20260203",

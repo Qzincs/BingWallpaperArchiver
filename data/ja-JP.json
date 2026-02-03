@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260203",
+      "fullstartdate": "20260203",
+      "enddate": "20260204",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_UHD.jpg",
+      "copyrighttext": "© Bill Stevenson/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%bf%e3%83%9b%e6%b9%96&form=BGALM&filters=HpDate:\"20260202_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "タホ湖, 米国",
+      "description": "米国で最も深い湖の一つ、タホ湖。カリフォルニア州とネバダ州の境界、シエラネバダ山脈の山中に抱かれたこの湖は、氷河期の地殻変動と浸食によって誕生しました。何世代にもわたり、先住民族ワショー族がこの地で暮らし、魚釣りや採集を行っていました。その後、開拓者や鉱山労働者が訪れるようになり、徐々に開発が進み、やがて世界屈指のリゾート地へと発展しました…",
+      "headline": "碧き湖に浮かぶ小島",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.744411,-120.321275/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=39.744411,-120.321275;S9;タホ湖, 米国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fannette%20Island%20California&satid=id.sid%3A5592995a-830a-7b12-d468-aef647dc705e&vdpid=5058159166237966337&mb=38.959217~-120.113568~38.948955~-120.087819&cardbg=%23F98745&dt=1765283400000&tt=Fannette%20Island%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DFanette%252520Island%252520California%2526satid%253Did.sid%25253A5592995a-830a-7b12-d468-aef647dc705e%2526vdpid%253D5058159166237966337%2526mb%253D38.959217~-120.113568~38.948955~-120.087819%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Fannette%20Island%2C%20California%2C%20United%20States&cp=36.2778~-126.249626&lvl=5.2905445&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 2月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%bf%e3%83%9b%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20260202_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%bf%e3%83%9b%e6%b9%96&form=BGABWCTA11&filters=HpDate:\"20260202_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260202",
       "fullstartdate": "20260202",
       "enddate": "20260203",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260203",
+      "fullstartdate": "20260203",
+      "enddate": "20260204",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_DE-DE2043843466_UHD.jpg",
+      "copyrighttext": "© Bill Stevenson/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Fannette+Island+Kalifornien&form=BGALM&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Emerald Bay und Fannette Island, Lake Tahoe, Kalifornien, USA",
+      "description": "Lake Tahoe an der Grenze zwischen Kalifornien und Nevada in den USA erzählt Geschichten aus Jahrtausenden. Das Becken entstand in der Eiszeit, als tektonische Kräfte und Gletscher die Landschaft formten. Jahrtausendelang lebten hier die Washoe, die den See als Lebensraum nutzten, der ihnen je nach Jahreszeit unterschiedliche Ressourcen bot. Später kamen Goldsucher, Dampfschiffe überquerten das Wasser, und Lake Tahoe wandelte sich vom Industriezentrum zu einem beliebten Rückzugsort in den Bergen der Sierra Nevada. Die Emerald Bay, wie auf dem Bild zu sehen, ist eine der meistfotografierten Buchten des Sees. Ihr flacheres Wasser leuchtet besonders hell, und am Grund liegen historische Boote und Lastkähne, die heute zum Emerald Bay State Park gehören.",
+      "headline": "Winterlicht über Fannette Island",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.95409,-120.1007/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.95409,-120.1007;S9;Fannette Island, Lake Tahoe, Kalifornien, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fannette%20Island%20California&satid=id.sid%3A5592995a-830a-7b12-d468-aef647dc705e&vdpid=5058159166237966337&mb=38.959217~-120.113568~38.948955~-120.087819&cardbg=%23F98745&dt=1765283400000&tt=Fannette%20Island%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DFanette%252520Island%252520California%2526satid%253Did.sid%25253A5592995a-830a-7b12-d468-aef647dc705e%2526vdpid%253D5058159166237966337%2526mb%253D38.959217~-120.113568~38.948955~-120.087819%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Fannette%20Island%2C%20California%2C%20United%20States&cp=36.2778~-126.249626&lvl=5.2905445&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3. Feb.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Lake+Tahoe%2c+Kalifornien%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Fannette+Island+Kalifornien&form=BGABWCTA7&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Fannette+Island+Kalifornien&form=BGABWCTA11&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260202",
       "fullstartdate": "20260202",
       "enddate": "20260203",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260203",
+      "fullstartdate": "20260203",
+      "enddate": "20260204",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_IT-IT4609209454_UHD.jpg",
+      "copyrighttext": "© Bill Stevenson/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+Tahoe&form=BGALM&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Emerald Bay e Fannette Island, Lago Tahoe, California, USA",
+      "description": "Sapete che un luogo custodisce storie quando geologi, registi e leggende locali lo rivendicano per ragioni diverse. Il lago Tahoe, disteso tra California e Nevada, negli USA, è uno di quei posti. Nato durante l’era glaciale, il suo bacino profondo fu modellato da faglie e antichi ghiacciai. Per generazioni, il popolo Washoe ha vissuto attorno a queste acque limpide, seguendo il ritmo delle stagioni. Secoli dopo arrivarono i minatori, poi i battelli a vapore, e Tahoe si trasformò da risorsa naturale a rifugio per tutto l’anno.",
+      "headline": "Specchi di silenzio",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.95409,-120.1007/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.95409,-120.1007;S9;Emerald Bay e Fannette Island, Lago Tahoe, California, USA&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Fannette%20Island%20California&satid=id.sid%3A5592995a-830a-7b12-d468-aef647dc705e&vdpid=5058159166237966337&mb=38.959217~-120.113568~38.948955~-120.087819&cardbg=%23F98745&dt=1765283400000&tt=Fannette%20Island%2C%20California%2C%20United%20States&tsts0=%2526ty%253D30%2526q%253DFanette%252520Island%252520California%2526satid%253Did.sid%25253A5592995a-830a-7b12-d468-aef647dc705e%2526vdpid%253D5058159166237966337%2526mb%253D38.959217~-120.113568~38.948955~-120.087819%2526cardbg%253D%252523F98745%2526dt%253D1765283400000&tstt0=Fannette%20Island%2C%20California%2C%20United%20States&cp=36.2778~-126.249626&lvl=5.2905445&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "3 febbraio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Lago+Tahoe%2c+California%2c+USA&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lago+Tahoe&form=BGABWCTA7&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lago+Tahoe&form=BGABWCTA11&filters=HpDate:\"20260202_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260202",
       "fullstartdate": "20260202",
       "enddate": "20260203",

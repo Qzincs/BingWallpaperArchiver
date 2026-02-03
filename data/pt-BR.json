@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260203",
+      "fullstartdate": "20260203",
+      "enddate": "20260204",
+      "urlbase": "https://www.bing.com/th?id=OHR.FanetteIsland_PT-BR0814646829_UHD.jpg",
+      "copyrighttext": "© Bill Stevenson/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lake+Tahoe+na+Calif%c3%b3rnia&form=BGALM&filters=HpDate:\"20260203_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Emerald Bay e Ilha Fanette, Lake Tahoe, Califórnia, Estados Unidos",
+      "description": "Você sabe que um lugar é especial quando sua geologia, sua história e suas lendas disputam pela nossa atenção. Emerald Bay, cantinho icônico de Lake Tahoe, na divisa entre Califórnia e Nevada, hipnotiza com seu azul profundo e tons esmeralda nas áreas rasas. Formada por falhas geológicas e esculpida por geleiras na Era do Gelo, Tahoe é uma das bacias de água doce mais profundas dos Estados Unidos. Sob a superfície, restos de barcos e balsas naufragados permanecem preservados graças às águas frias e ao baixo nível de oxigênio, enquanto Ilha Fannette se ergue como ponto firme de rocha e vegetação no centro da baía.",
+      "headline": "Os segredos de Lake Tahoe",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260203_FanetteIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lake+Tahoe+na+Calif%c3%b3rnia&form=BGABWCTA7&filters=HpDate:\"20260203_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lake+Tahoe+na+Calif%c3%b3rnia&form=BGABWCTA11&filters=HpDate:\"20260203_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260202",
       "fullstartdate": "20260202",
       "enddate": "20260203",
