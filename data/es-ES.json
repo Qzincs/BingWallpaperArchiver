@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260204",
+      "fullstartdate": "20260204",
+      "enddate": "20260205",
+      "urlbase": "https://www.bing.com/th?id=OBGA.Lock2018-B12_SunsetMarthasVineyard_AdobeStock_183553843",
+      "copyrighttext": "© jStock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Cape%20Cod%2C%20Massachusettes%2C%20US&form=BGALM",
+      "title": "Cape Cod, Massachusettes, US",
+      "description": "Sailboat at sunset in Martha's Vineyard",
+      "headline": "Cape Cod, Massachusettes, US",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Cape%20Cod%2C%20Massachusettes%2C%20US&vdpid=5488970225741201409&mb=41.995979~-70.62775~41.403071~-69.437243&cardbg=%23F98745&dt=1737669600000&tt=Cape%20Cod%2C%20Massachusetts%2C%20United%20States&tsts1=%2526ty%253D30%2526q%253DCape%252520Cod%25252C%252520Massachusettes%25252C%252520US%2526vdpid%253D5488970225741201409%2526mb%253D41.995979~-70.62775~41.403071~-69.437243%2526cardbg%253D%252523F98745%2526dt%253D1737669600000&tstt1=Cape%20Cod%2C%20Massachusetts%2C%20United%20States&cp=41.700208~-70.356942&lvl=10.07&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "4 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Cape+Cod%2c+Massachusettes%2c+US&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cape%20Cod%2C%20Massachusettes%2C%20US&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 428,
+            "Y": 284,
+            "Width": 3432,
+            "Height": 2280,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cape%20Cod%2C%20Massachusettes%2C%20US&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260203",
       "fullstartdate": "20260203",
       "enddate": "20260204",
