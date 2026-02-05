@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20260204",
+      "fullstartdate": "20260204",
+      "enddate": "20260205",
+      "urlbase": "https://www.bing.com/th?id=OBGA.shutterstock_1876712719",
+      "copyrighttext": "© Jakub Polomski Images / Offset / Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Aiguille%20du%20Midi%2C%20Chamonix%2C%20France&form=BGALM",
+      "title": "Aiguille du Midi, Chamonix, France",
+      "description": "A walkway through a mountain peak in Chamonix",
+      "headline": "Aiguille du Midi, Chamonix, France",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "https://www.bing.com/maps/search?mepi=58~~Embedded~LargeMapLink&ty=18&vdpid=7015828799463882753&v=2&sV=1&FORM=MIRE&q=Chamonix-Mont-Blanc%2C+Auvergne-Rhône-Alpes%2C+France&ss=id.sid%3A589824a2-e3b1-51e2-7f78-3e215a00553d&ppois=45.92546081542969_6.869812488555908_Chamonix-Mont-Blanc%2C+Auvergne-Rhône-Alpes%2C+France_~&cp=45.925461~6.869812&lvl=11&style=r",
+        "Link": "https://www.bing.com/maps/search?mepi=58~~Embedded~LargeMapLink&ty=18&vdpid=7015828799463882753&v=2&sV=1&FORM=BGAM&q=Chamonix-Mont-Blanc%2C+Auvergne-Rhône-Alpes%2C+France&ss=id.sid%3A589824a2-e3b1-51e2-7f78-3e215a00553d&ppois=45.92546081542969_6.869812488555908_Chamonix-Mont-Blanc%2C+Auvergne-Rhône-Alpes%2C+France_~&cp=45.925461~6.869812&lvl=11&style=r"
+      },
+      "quizId": null,
+      "fullDateString": "Feb 4, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Aiguille+du+Midi%2c+Chamonix%2c+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Aiguille%20du%20Midi%2C%20Chamonix%2C%20France&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260203",
       "fullstartdate": "20260203",
       "enddate": "20260204",
