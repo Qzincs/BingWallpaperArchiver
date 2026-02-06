@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260206",
+      "fullstartdate": "20260206",
+      "enddate": "20260207",
+      "urlbase": "https://www.bing.com/th?id=OHR.GiauPass_DE-DE5864987336_UHD.jpg",
+      "copyrighttext": "© Tomasz Podolski/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Olympische+Winterspiele+2026&form=BGALM&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Gipfel Ra Gusela am Giau-Pass nahe Cortina d’Ampezzo, Italien",
+      "description": "Mit dem Start der Olympischen Winterspiele 2026 richtet sich die Aufmerksamkeit auf ein Panorama, das wie geschaffen scheint für olympische Momente: die Dolomiten in Norditalien. Über dem Giau‑Pass erhebt sich der rund 2.600 Meter hohe Ra Gusela, dessen markante Felsformation die alpine Kulisse der Spiele eindrucksvoll widerspiegelt. Vom 6. bis 22. Februar treten Athletinnen und Athleten aus aller Welt in Italien gegeneinander an. Die Winterspiele werden dabei an zwei Gastgeberorten ausgetragen. Mailand ist Austragungsort der Eissportarten, während die alpinen Wettbewerbe rund um Cortina d’Ampezzo stattfinden. Dort feiert in diesem Jahr auch das Skibergsteigen seine olympische Premiere, eine Disziplin, die in hochalpinen Regionen seit Langem an Bedeutung gewinnt.",
+      "headline": "Die Dolomiten im Olympiafieber",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260206_GiauPass\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.44809,12.01492/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=46.44809,12.01492;S9;Ra Gusela, Colle Santa Lucia, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Ra%20Gusela%2C%20Passo%20Giau%2C%20Colle%20Santa%20Lucia%2C%20Veneto%2C%20Italy&ss=ypid.YN1354x4656544460483378191&mb=46.452975~12.002048~46.443202~12.027798&description=Passo%20Giau%20-%2032020%20Colle%20Santa%20Lucia%C2%B7Punto%20di%20osservazione&cardbg=%23219AB6&dt=1766502000000&tt=Ra%20Gusela&tsts0=%2526ty%253D18%2526q%253DRa%252520Gusela%25252C%252520Passo%252520Giau%25252C%252520Colle%252520Santa%252520Lucia%25252C%252520Veneto%25252C%252520Italy%2526ss%253Dypid.YN1354x4656544460483378191%2526mb%253D46.452975~12.002048~46.443202~12.027798%2526description%253DPasso%252520Giau%252520-%25252032020%252520Colle%252520Santa%252520Lucia%2525C2%2525B7Punto%252520di%252520osservazione%2526cardbg%253D%252523219AB6%2526dt%253D1766502000000&tstt0=Ra%20Gusela&cp=43.165123~8.503418&lvl=6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "6. Feb.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Italien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Olympische+Winterspiele+2026&form=BGABWCTA7&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Olympische+Winterspiele+2026&form=BGABWCTA11&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260205",
       "fullstartdate": "20260205",
       "enddate": "20260206",

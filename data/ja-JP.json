@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260206",
+      "fullstartdate": "20260206",
+      "enddate": "20260207",
+      "urlbase": "https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg",
+      "copyrighttext": "© Tomasz Podolski/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a9%e3%83%bb%e3%82%b0%e3%82%bb%e3%83%a9%e5%b3%b0&form=BGALM&filters=HpDate:\"20260205_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ラ・グセラ峰, イタリア",
+      "description": "今日から、2026 冬季五輪が始まります。2 月 22 日まで開催される今大会は、史上初の複数都市による共同開催で、イタリアのミラノとコルティナダンペッツォの 2 都市で開催されます。イタリアでの開催は、2006 年にトリノで行われた冬季五輪以来、20 年ぶり 3 度目で、ミラノでは氷上競技、コルティナ周辺ではスキーを中心とした山岳競技が実施される予定です…",
+      "headline": "今日から 2026 冬季五輪",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260206_GiauPass\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.44809,12.01492/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.44809,12.01492;S9;ラ・グセラ峰, イタリア&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Ra%20Gusela%2C%20Passo%20Giau%2C%20Colle%20Santa%20Lucia%2C%20Veneto%2C%20Italy&ss=ypid.YN1354x4656544460483378191&mb=46.452975~12.002048~46.443202~12.027798&description=Passo%20Giau%20-%2032020%20Colle%20Santa%20Lucia%C2%B7Punto%20di%20osservazione&cardbg=%23219AB6&dt=1766502000000&tt=Ra%20Gusela&tsts0=%2526ty%253D18%2526q%253DRa%252520Gusela%25252C%252520Passo%252520Giau%25252C%252520Colle%252520Santa%252520Lucia%25252C%252520Veneto%25252C%252520Italy%2526ss%253Dypid.YN1354x4656544460483378191%2526mb%253D46.452975~12.002048~46.443202~12.027798%2526description%253DPasso%252520Giau%252520-%25252032020%252520Colle%252520Santa%252520Lucia%2525C2%2525B7Punto%252520di%252520osservazione%2526cardbg%253D%252523219AB6%2526dt%253D1766502000000&tstt0=Ra%20Gusela&cp=43.165123~8.503418&lvl=6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 2月 月 6 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%a9%e3%83%bb%e3%82%b0%e3%82%bb%e3%83%a9%e5%b3%b0&form=BGABWCTA7&filters=HpDate:\"20260205_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%a9%e3%83%bb%e3%82%b0%e3%82%bb%e3%83%a9%e5%b3%b0&form=BGABWCTA11&filters=HpDate:\"20260205_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260205",
       "fullstartdate": "20260205",
       "enddate": "20260206",

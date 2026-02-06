@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260206",
+      "fullstartdate": "20260206",
+      "enddate": "20260207",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg",
+      "copyrighttext": "© Tomasz Podolski/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=2026%e5%b9%b4%e5%86%ac%e5%ad%a3%e5%a5%a5%e8%bf%90%e4%bc%9a&form=BGALM&filters=HpDate:\"20260205_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利",
+      "description": "2026年冬季奥运会于今日正式拉开帷幕，而多洛米蒂山脉几乎完美诠释了这届赛事的精神。在吉奥山口上方陡然拔起的拉古塞拉峰，海拔达8514英尺，呈现出极具冲击力的高山景观，这正是米兰—科尔蒂纳2026冬季奥运会的标志性气质。这届奥运会由米兰与科尔蒂纳丹佩佐联合主办，将都市活力与深厚的阿尔卑斯山地传统融为一体。",
+      "headline": "拉古塞拉——奥运赛季的巅峰",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260206_GiauPass\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=2026%e5%b9%b4%e5%86%ac%e5%ad%a3%e5%a5%a5%e8%bf%90%e4%bc%9a&form=BGABWCTA7&filters=HpDate:\"20260205_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=2026%e5%b9%b4%e5%86%ac%e5%ad%a3%e5%a5%a5%e8%bf%90%e4%bc%9a&form=BGABWCTA11&filters=HpDate:\"20260205_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260205",
       "fullstartdate": "20260205",
       "enddate": "20260206",

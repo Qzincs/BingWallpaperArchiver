@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260206",
+      "fullstartdate": "20260206",
+      "enddate": "20260207",
+      "urlbase": "https://www.bing.com/th?id=OHR.CortinaOlimpiadi_IT-IT1161240762_UHD.jpg",
+      "copyrighttext": "© Алексей Облов/Moment",
+      "copyrightlink": "https://www.bing.com/search?q=Olimpiadi+invernali&form=BGALM&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cortina d’Ampezzo, Veneto",
+      "description": "Pronti, via. Il silenzio della montagna si spezza, la pista si accende e l’attesa lascia spazio al movimento. Inizia l’avventura delle Olimpiadi Invernali di Milano-Cortina, dove neve, ghiaccio e velocità diventano linguaggi universali. L’immagine della pista racconta il cuore di questi Giochi attraverso linee tracciate sul bianco, corpi in equilibrio e istanti sospesi tra concentrazione e slancio.",
+      "headline": "Vette, neve e medaglie",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260206_CortinaOlimpiadi\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 febbraio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Olimpiadi+invernali&form=BGABWCTA7&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Olimpiadi+invernali&form=BGABWCTA11&filters=HpDate:\"20260205_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260205",
       "fullstartdate": "20260205",
       "enddate": "20260206",
