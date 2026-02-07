@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260207",
+      "fullstartdate": "20260207",
+      "enddate": "20260208",
+      "urlbase": "https://www.bing.com/th?id=OHR.SalarUyuni_IT-IT0441176057_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=salar+de+uyuni+Bolivia&form=BGALM&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Salina del Salar de Uyuni, Bolivia",
+      "description": "Il Salar de Uyuni, in Bolivia, non si lascia scoprire con lentezza: vi appare all’improvviso, come un orizzonte di luce pura. La più grande distesa salina del mondo si apre davanti a voi a quasi 3.600 metri di altitudine, ed è un’immensità bianca che si estende per oltre 10.000 chilometri quadrati. Con l’arrivo delle piogge, la superficie si vela d’acqua, diventando uno specchio perfetto, così limpido da cancellare ogni confine tra cielo e terra.",
+      "headline": "Il silenzio del sale",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-20.33333,-67.7/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=-20.33333,-67.7;S9;Salina del Salar de Uyuni, Bolivia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Salar%20de%20Uyuni%2C%20Bolivia&satid=id.sid%3Af66c5a07-f93b-de2d-62b2-b4e8868509aa&vdpid=6376802154803363841&mb=-19.815142~-68.699852~-20.848634~-66.698921&cardbg=%23219AB6&dt=1767002400000&tt=Salar%20de%20Uyuni%2C%20Bolivia&tsts0=%2526ty%253D30%2526q%253DSalar%252520de%252520Uyuni%25252C%252520Bolivia%2526satid%253Did.sid%25253Af66c5a07-f93b-de2d-62b2-b4e8868509aa%2526vdpid%253D6376802154803363841%2526mb%253D-19.815142~-68.699852~-20.848634~-66.698921%2526cardbg%253D%252523219AB6%2526dt%253D1767002400000&tstt0=Salar%20de%20Uyuni%2C%20Bolivia&cp=-22.283768~-96.334384&lvl=3.72&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7 febbraio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Bolivia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=salar+de+uyuni+Bolivia&form=BGABWCTA7&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=salar+de+uyuni+Bolivia&form=BGABWCTA11&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260206",
       "fullstartdate": "20260206",
       "enddate": "20260207",

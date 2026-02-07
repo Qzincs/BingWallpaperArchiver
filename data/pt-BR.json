@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260207",
+      "fullstartdate": "20260207",
+      "enddate": "20260208",
+      "urlbase": "https://www.bing.com/th?id=OHR.SalarUyuni_PT-BR5319110687_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Salar+de+Uyuni+Bol%c3%advia&form=BGALM&filters=HpDate:\"20260207_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Salar de Uyuni na Bolívia",
+      "description": "Na imagem de hoje, o Salar de Uyuni se estende como um tapete espelhado que não parece ter fim. Localizado na Bolívia, que faz fronteira com o Brasil, este é o maior deserto de sal do mundo. Seus mais de 10 mil km² repousam quase 3.700 metros acima do nível do mar, e a paisagem se transforma com a mudança das estações. Quando chegam as chuvas de verão, uma fina camada de água reveste o salar, multiplicando reflexos e confundindo nossa percepção: é difícil dizer onde termina a terra e começa o céu.",
+      "headline": "O espelho do céu",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Salar+de+Uyuni+Bol%c3%advia&form=BGABWCTA7&filters=HpDate:\"20260207_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Salar+de+Uyuni+Bol%c3%advia&form=BGABWCTA11&filters=HpDate:\"20260207_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260206",
       "fullstartdate": "20260206",
       "enddate": "20260207",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260207",
+      "fullstartdate": "20260207",
+      "enddate": "20260208",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.SalarUyuni_ZH-CN4163237089_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%8e%bb%e5%88%a9%e7%bb%b4%e4%ba%9a%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=BGALM&filters=HpDate:\"20260206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "玻利维亚乌尤尼盐湖",
+      "description": "玻利维亚的乌尤尼盐沼并不会循序渐进地展开视野，它仿佛一道由光线构成的地平线，瞬间闯入眼帘。这里是世界上最大的盐沼，面积约4000平方英里，海拔接近12000英尺。景观会随季节剧烈变化：雨季来临时，地面被薄薄的积水覆盖，化作一面巨大的天然镜子，天空与大地在倒影中融为一片耀眼的光面。",
+      "headline": "在盐沼与天空之间，万物静谧",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 7",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%8e%bb%e5%88%a9%e7%bb%b4%e4%ba%9a%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=BGABWCTA7&filters=HpDate:\"20260206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%8e%bb%e5%88%a9%e7%bb%b4%e4%ba%9a%e4%b9%8c%e5%b0%a4%e5%b0%bc%e7%9b%90%e6%b2%bc&form=BGABWCTA11&filters=HpDate:\"20260206_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260206",
       "fullstartdate": "20260206",
       "enddate": "20260207",

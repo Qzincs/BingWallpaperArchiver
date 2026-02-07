@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260207",
+      "fullstartdate": "20260207",
+      "enddate": "20260208",
+      "urlbase": "https://www.bing.com/th?id=OHR.SalarUyuni_FR-FR3839950538_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Salar+d%27Uyuni+Bolivie&form=BGALM&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Salar d'Uyuni, Bolivie",
+      "description": "Perché sur l’Altiplano bolivien, le Salar d'Uyuni ne prend pas la peine de se présenter : il surgit d’un coup, lumineux comme une frontière entre deux mondes. Plus grand désert de sel au monde, il s’étire sur des milliers de kilomètres carrés, à près de 3 600 mètres d’altitude. Lorsque la saison des pluies arrive, une fine couche d’eau se dépose sur le sol et transforme l’endroit en miroir géant. Le ciel se reflète si parfaitement qu’on perd la notion du haut et du bas, rappelant ces instants suspendus où la mer en Bretagne reflète un ciel chargé de lumière après une averse.",
+      "headline": "Le désert de sel le plus vaste au monde",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-20.33333,-67.7/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=-20.33333,-67.7;S9;Salar d'Uyuni, Bolivie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Salar%20de%20Uyuni%2C%20Bolivia&satid=id.sid%3Af66c5a07-f93b-de2d-62b2-b4e8868509aa&vdpid=6376802154803363841&mb=-19.815142~-68.699852~-20.848634~-66.698921&cardbg=%23219AB6&dt=1767002400000&tt=Salar%20de%20Uyuni%2C%20Bolivia&tsts0=%2526ty%253D30%2526q%253DSalar%252520de%252520Uyuni%25252C%252520Bolivia%2526satid%253Did.sid%25253Af66c5a07-f93b-de2d-62b2-b4e8868509aa%2526vdpid%253D6376802154803363841%2526mb%253D-19.815142~-68.699852~-20.848634~-66.698921%2526cardbg%253D%252523219AB6%2526dt%253D1767002400000&tstt0=Salar%20de%20Uyuni%2C%20Bolivia&cp=-22.283768~-96.334384&lvl=3.72&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "7 févr. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Bolivie&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Salar+d%27Uyuni+Bolivie&form=BGABWCTA7&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Salar+d%27Uyuni+Bolivie&form=BGABWCTA11&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260206",
       "fullstartdate": "20260206",
       "enddate": "20260207",

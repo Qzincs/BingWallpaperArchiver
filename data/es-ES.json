@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260207",
+      "fullstartdate": "20260207",
+      "enddate": "20260208",
+      "urlbase": "https://www.bing.com/th?id=OHR.SalarUyuni_ES-ES7917142389_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Salar+de+Uyuni+Bolivia&form=BGALM&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Salar de Uyuni, Bolivia",
+      "description": "En la imagen de hoy admiramos el Salar de Uyuni, en Bolivia, un enorme desierto de sal con una luz deslumbrante y un horizonte que parece infinito. Es el salar más grande del mundo con un manto blanco que recuerda a un mar sólido y un cielo cercano. Su extensión abarca miles de kilómetros cuadrados y crea una sensación de vacío sereno que invita a contemplar y a fotografiar.",
+      "headline": "Entre la sal y el cielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260207_SalarUyuni\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Salar+de+Uyuni+Bolivia&form=BGABWCTA7&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Salar+de+Uyuni+Bolivia&form=BGABWCTA11&filters=HpDate:\"20260206_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260206",
       "fullstartdate": "20260206",
       "enddate": "20260207",
