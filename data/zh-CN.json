@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260208",
+      "fullstartdate": "20260208",
+      "enddate": "20260209",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.CorfuGreece_ZH-CN4305970968_UHD.jpg",
+      "copyrighttext": "© whitewizzard/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e7%a7%91%e5%ad%9a%e5%b2%9b&form=BGALM&filters=HpDate:\"20260207_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "科孚岛的夜晚, 希腊",
+      "description": "夜幕降临，希腊科孚岛展现出一种安静却耐人寻味的气息。温暖的路灯洒在石质立面上，古老的堡垒在夜色中勾勒出清晰的轮廓，狭窄的街巷层层延展，像一座仍在呼吸的迷宫老城。这里不仅保存着悠久的历史，也承载着真实的生活气息——多元文化在岁月流转中交叠，夜晚的节奏变得缓慢而从容，岛屿的生活气息，也在暗色中悄然浮现。",
+      "headline": "从宁静的夜晚到充满冒险的白天",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260208_CorfuGreece\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 8",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e7%a7%91%e5%ad%9a%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20260207_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 491,
+            "Width": 3833,
+            "Height": 1665,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b8%8c%e8%85%8a%e7%a7%91%e5%ad%9a%e5%b2%9b&form=BGABWCTA11&filters=HpDate:\"20260207_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260207",
       "fullstartdate": "20260207",
       "enddate": "20260208",

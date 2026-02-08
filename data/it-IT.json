@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260208",
+      "fullstartdate": "20260208",
+      "enddate": "20260209",
+      "urlbase": "https://www.bing.com/th?id=OHR.CorfuGreece_IT-IT2512677240_UHD.jpg",
+      "copyrighttext": "© whitewizzard/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Corf%c3%b9+Grecia&form=BGALM&filters=HpDate:\"20260207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Corfù, Grecia",
+      "description": "L’isola di Corfù, in Grecia, vi accoglie di notte con un’intensità silenziosa, tra facciate in pietra che catturano la luce calda dei lampioni, mura di fortezze che si stagliano nette e vicoli stretti che si aprono come un labirinto vissuto. La Città Vecchia non appare soltanto storica, ma si percepisce come un luogo abitato, modellata da secoli di culture intrecciate e dal ritmo lento della vita isolana dopo il tramonto.",
+      "headline": "Silenzi abitati",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260208_CorfuGreece\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/39.6,19.87/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=39.6,19.87;S9;Corfù, Grecia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Corfu%2C%20Corfu%20Regional%20Unit%2C%20Greece&satid=id.sid%3A46ff5c15-be5d-d6fc-dc10-cab5b1e020c3&vdpid=7219064587306401793&mb=39.822247~19.331362~39.360394~20.41942&cardbg=%23F98745&dt=1767625200000&tt=Corfu%2C%20Ioanian%20Islands%2C%20Greece&tsts0=%2526ty%253D30%2526q%253DCorfu%25252C%252520Corfu%252520Regional%252520Unit%25252C%252520Greece%2526satid%253Did.sid%25253A46ff5c15-be5d-d6fc-dc10-cab5b1e020c3%2526vdpid%253D7219064587306401793%2526mb%253D39.822247~19.331362~39.360394~20.41942%2526cardbg%253D%252523F98745%2526dt%253D1767625200000&tstt0=Corfu%2C%20Ioanian%20Islands%2C%20Greece&cp=39.559337~16.152776&lvl=6.6&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "8 febbraio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Grecia&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Corf%c3%b9+Grecia&form=BGABWCTA7&filters=HpDate:\"20260207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 491,
+            "Width": 3833,
+            "Height": 1665,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Corf%c3%b9+Grecia&form=BGABWCTA11&filters=HpDate:\"20260207_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260207",
       "fullstartdate": "20260207",
       "enddate": "20260208",
