@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260208",
+      "fullstartdate": "20260208",
+      "enddate": "20260209",
+      "urlbase": "https://www.bing.com/th?id=OHR.CorfuGreece_ROW8621582269_UHD.jpg",
+      "copyrighttext": "© whitewizzard/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Corfu+Greece&form=BGALM&filters=HpDate:\"20260208_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Corfu, Greece",
+      "description": "The island of Corfu, Greece, meets you at night with a quiet kind of intensity: stone facades catching warm lamplight, fortress walls rising in sharp outline and narrow lanes unfolding like a lived-in labyrinth. The Old Town doesn't just look historic—it feels inhabited, shaped by centuries of shifting cultures and the slow rhythm of island life after dark.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260208_CorfuGreece\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Feb 8, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Corfu+Greece&form=BGABWCTA7&filters=HpDate:\"20260208_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1,
+            "Y": 491,
+            "Width": 3833,
+            "Height": 1665,
+            "Label": "building",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Corfu+Greece&form=BGABWCTA11&filters=HpDate:\"20260208_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260207",
       "fullstartdate": "20260207",
       "enddate": "20260208",
