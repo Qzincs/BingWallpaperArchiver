@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260210",
+      "fullstartdate": "20260210",
+      "enddate": "20260211",
+      "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_FR-FR6531751588_UHD.jpg",
+      "copyrighttext": "© L. Apolli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGALM&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Es Vedrà et Es Vedranell, Ibiza, Espagne",
+      "description": "Au sud-ouest d’Ibiza (Espagne), les îlots inhabités d’Es Vedrà et d’Es Vedranell surgissent de la Méditerranée comme deux géants minéraux. Classés « réserve naturelle », leurs reliefs abrupts — dont les falaises d’Es Vedrà qui s’élèvent à près de 400 mètres — évoquent une silhouette presque montagneuse au cœur de la mer. La silhouette irrégulière d’Es Vedranell, surnommée le « dragon endormi », semble veiller sur son imposant voisin. Le duo évoque ces promontoires rocheux de Corse qui, au crépuscule, semblent animés d’histoires anciennes.",
+      "headline": "Lorsque les sirènes chantent",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260210_IbizaIslets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.867802,1.198694/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.867802,1.198694;S9;Es Vedrà, Ibiza, Espagne&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Es%20Vedra&ss=ypid.6306x4017281747423923045&mb=38.871089~1.194752~38.862802~1.204129&description=07830%2C%20Ibiza%20Town%20%28Islas%20Baleares%29&cardbg=%233DB838&dt=1766745000000&tt=Es%20Vedra&tsts1=%2526ty%253D18%2526q%253DEs%252520Vedra%2526ss%253Dypid.6306x4017281747423923045%2526mb%253D38.871089~1.194752~38.862802~1.204129%2526description%253D07830%25252C%252520Ibiza%252520Town%252520%252528Islas%252520Baleares%252529%2526cardbg%253D%2525233DB838%2526dt%253D1766745000000&tstt1=Es%20Vedra&cp=38.394937~-12.177118&lvl=4.437564&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 févr. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Voyage+vers+Ibiza%2c+Espagne&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGABWCTA7&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGABWCTA11&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260209",
       "fullstartdate": "20260209",
       "enddate": "20260210",

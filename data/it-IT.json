@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260210",
+      "fullstartdate": "20260210",
+      "enddate": "20260211",
+      "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_IT-IT7799437749_UHD.jpg",
+      "copyrighttext": "© L. Apolli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGALM&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Isole di Es Vedrà ed Es Vedranell, Ibiza, Spagna",
+      "description": "A sud-ovest di Ibiza, in Spagna, si trovano gli isolotti disabitati di Es Vedrà ed Es Vedranell. Parte di una riserva naturale protetta, queste imponenti formazioni rocciose affascinano per il loro valore ecologico e per l’impatto visivo. Es Vedrà si innalza per circa 400 metri direttamente dal mare. Poco distante, il profilo frastagliato di Es Vedranell, soprannominato “il drago addormentato”, sembra vegliare sul fratello maggiore. Nonostante l’aspetto severo, gli isolotti ospitano un ecosistema sorprendentemente ricco, con flora autoctona, uccelli marini, specie endemiche come la lucertola di Ibiza e numerosi invertebrati adattati al terreno roccioso. Questa biodiversità fragile è uno dei motivi per cui l’accesso al pubblico è strettamente limitato.",
+      "headline": "Dove cantano le sirene",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260210_IbizaIslets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.867802,1.198694/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=38.867802,1.198694;S9;Isole di Es Vedrà ed Es Vedranell, Ibiza, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Es%20Vedra&ss=ypid.6306x4017281747423923045&mb=38.871089~1.194752~38.862802~1.204129&description=07830%2C%20Ibiza%20Town%20%28Islas%20Baleares%29&cardbg=%233DB838&dt=1766745000000&tt=Es%20Vedra&tsts1=%2526ty%253D18%2526q%253DEs%252520Vedra%2526ss%253Dypid.6306x4017281747423923045%2526mb%253D38.871089~1.194752~38.862802~1.204129%2526description%253D07830%25252C%252520Ibiza%252520Town%252520%252528Islas%252520Baleares%252529%2526cardbg%253D%2525233DB838%2526dt%253D1766745000000&tstt1=Es%20Vedra&cp=38.394937~-12.177118&lvl=4.437564&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10 febbraio 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Viaggio+con+destinazione+Ibiza%2c+Spagna&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGABWCTA7&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGABWCTA11&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260209",
       "fullstartdate": "20260209",
       "enddate": "20260210",

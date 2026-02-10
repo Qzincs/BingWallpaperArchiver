@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260210",
+      "fullstartdate": "20260210",
+      "enddate": "20260211",
+      "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_JA-JP0828320693_UHD.jpg",
+      "copyrighttext": "© L. Apolli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a8%e3%82%b9%e3%83%bb%e3%83%b4%e3%82%a7%e3%83%89%e3%83%a9%e5%b3%b6&form=BGALM&filters=HpDate:\"20260209_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "エス・ヴェドラ島, スペイン",
+      "description": "エス・ヴェドラはスペインのイビサ島南西に位置する無人島です。高さ約 400m の険しい崖のような島には、固有種のイビサカベカナヘビをはじめ、海鳥、岩場に適応した無脊椎動物、希少な植物など、多様な生物が生息しています。その独特な生態系を保全するため、島への上陸は禁じられています…",
+      "headline": "穏やかな海に佇む神秘的な島",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260210_IbizaIslets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.867802,1.198694/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.867802,1.198694;S9;エス・ヴェドラ島, スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Es%20Vedra&ss=ypid.6306x4017281747423923045&mb=38.871089~1.194752~38.862802~1.204129&description=07830%2C%20Ibiza%20Town%20%28Islas%20Baleares%29&cardbg=%233DB838&dt=1766745000000&tt=Es%20Vedra&tsts1=%2526ty%253D18%2526q%253DEs%252520Vedra%2526ss%253Dypid.6306x4017281747423923045%2526mb%253D38.871089~1.194752~38.862802~1.204129%2526description%253D07830%25252C%252520Ibiza%252520Town%252520%252528Islas%252520Baleares%252529%2526cardbg%253D%2525233DB838%2526dt%253D1766745000000&tstt1=Es%20Vedra&cp=38.394937~-12.177118&lvl=4.437564&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 2月 月 10 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a8%e3%82%b9%e3%83%bb%e3%83%b4%e3%82%a7%e3%83%89%e3%83%a9%e5%b3%b6&form=BGABWCTA7&filters=HpDate:\"20260209_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a8%e3%82%b9%e3%83%bb%e3%83%b4%e3%82%a7%e3%83%89%e3%83%a9%e5%b3%b6&form=BGABWCTA11&filters=HpDate:\"20260209_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260209",
       "fullstartdate": "20260209",
       "enddate": "20260210",

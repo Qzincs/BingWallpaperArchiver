@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260210",
+      "fullstartdate": "20260210",
+      "enddate": "20260211",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.IbizaIslets_ZH-CN4580106286_UHD.jpg",
+      "copyrighttext": "© L. Apolli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%bc%8a%e7%bb%b4%e8%90%a8%e5%b2%9b%e5%9f%83%e6%96%af%e7%bb%b4%e5%be%b7%e6%8b%89&form=BGALM&filters=HpDate:\"20260209_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙",
+      "description": "在西班牙伊维萨岛西南海域，矗立着两座无人居住的小岛——埃斯韦德拉和埃斯韦德拉内尔。它们属于受保护的自然保留区，以独特的生态价值和震撼的视觉效果闻名。埃斯韦德拉几乎垂直从海中升起，高约1300英尺，陡峭的石灰岩峭壁宛如一座孤立的山脉。不远处的埃斯韦德拉内尔轮廓锋利，因形似伏卧的巨龙而被称为“沉睡的巨龙”，与主岛的高峻挺拔相互映衬。",
+      "headline": "海妖歌唱之处",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260210_IbizaIslets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%bc%8a%e7%bb%b4%e8%90%a8%e5%b2%9b%e5%9f%83%e6%96%af%e7%bb%b4%e5%be%b7%e6%8b%89&form=BGABWCTA7&filters=HpDate:\"20260209_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%bc%8a%e7%bb%b4%e8%90%a8%e5%b2%9b%e5%9f%83%e6%96%af%e7%bb%b4%e5%be%b7%e6%8b%89&form=BGABWCTA11&filters=HpDate:\"20260209_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260209",
       "fullstartdate": "20260209",
       "enddate": "20260210",

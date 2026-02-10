@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260210",
+      "fullstartdate": "20260210",
+      "enddate": "20260211",
+      "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_DE-DE2745456055_UHD.jpg",
+      "copyrighttext": "© L. Apolli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGALM&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Felsinseln Es Vedrà und Es Vedranell, Ibiza, Spanien",
+      "description": "Vor der Küste der spanischen Baleareninsel Ibiza ragen die Felsinseln Es Vedrà und Es Vedranell wie zwei steinerne Wächter aus dem Meer. Diese unbewohnten Inseln gehören zu einem geschützten Naturreservat und wirken mit ihren über 400 Meter hohen Kalkwänden wie uralte Monumente im westlichen Mittelmeer. Es Vedranell mit seinen zerbrochenen Konturen erinnert an einen „schlafenden Drachen“, der am Rand der spanischen Inselwelt ruht. Zwischen den rauen Felsen entfaltet sich ein überraschend reiches Ökosystem. Seevögel kreisen über dem Wasser, in den Spalten leben wirbellose Tiere und die leuchtenden Ibiza‑Eidechsen gehören zu den auffälligsten endemischen Arten der Balearen.",
+      "headline": "Wo die Sirenen singen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260210_IbizaIslets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.867802,1.198694/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=38.867802,1.198694;S9;Es Vedrà, Ibiza, Spanien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Es%20Vedra&ss=ypid.6306x4017281747423923045&mb=38.871089~1.194752~38.862802~1.204129&description=07830%2C%20Ibiza%20Town%20%28Islas%20Baleares%29&cardbg=%233DB838&dt=1766745000000&tt=Es%20Vedra&tsts1=%2526ty%253D18%2526q%253DEs%252520Vedra%2526ss%253Dypid.6306x4017281747423923045%2526mb%253D38.871089~1.194752~38.862802~1.204129%2526description%253D07830%25252C%252520Ibiza%252520Town%252520%252528Islas%252520Baleares%252529%2526cardbg%253D%2525233DB838%2526dt%253D1766745000000&tstt1=Es%20Vedra&cp=38.394937~-12.177118&lvl=4.437564&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "10. Feb.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Reise+nach+Ibiza%2c+Spanien&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGABWCTA7&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Es+Vedra+Ibiza&form=BGABWCTA11&filters=HpDate:\"20260209_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260209",
       "fullstartdate": "20260209",
       "enddate": "20260210",
