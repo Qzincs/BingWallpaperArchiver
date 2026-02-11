@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260211",
+      "fullstartdate": "20260211",
+      "enddate": "20260212",
+      "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_PT-BR0386889966_UHD.jpg",
+      "copyrighttext": "© Jim Patterson/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Vale+da+Morte&form=BGALM&filters=HpDate:\"20260211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Salinas da Bacia de Badwater, Parque Nacional do Vale da Morte, Califórnia, EUA",
+      "description": "O próprio nome avisa: o Parque Nacional do Vale da Morte, nos Estados Unidos, atualiza as definições de paisagem extrema. São quase 14 mil km² de deserto entre os estados de Califórnia e Nevada, reunindo dunas móveis, salinas brilhantes e campos vulcânicos sombrios. Nada ali é sutil: do alto de picos com mais de 3 mil metros, o terreno despenca até a Bacia de Badwater, mostrada na imagem, o ponto mais baixo da América do Norte, 86 metros abaixo do nível do mar. O sal forma um mosaico hipnótico de rachaduras geométricas, esculpido pelo calor intenso — que ultrapassa 50 graus no verão — e pela evaporação constante.",
+      "headline": "Um deserto vestido de branco",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_BadwaterFlats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Vale+da+Morte&form=BGABWCTA7&filters=HpDate:\"20260211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Vale+da+Morte&form=BGABWCTA11&filters=HpDate:\"20260211_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260210",
       "fullstartdate": "20260210",
       "enddate": "20260211",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260211",
+      "fullstartdate": "20260211",
+      "enddate": "20260212",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.BadwaterFlats_ZH-CN4713617982_UHD.jpg",
+      "copyrighttext": "© Jim Patterson/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%ad%bb%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20260210_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国",
+      "description": "死亡谷国家公园颠覆人们对沙漠的想象，横跨加利福尼亚州与内华达州，总面积约340万英亩，是美国面积最大的国家公园。盐沼、火山丘陵、流动沙丘与覆雪山峰交错分布，构成极端而多变的地貌。从海拔11000英尺的望远镜峰，到低于海平面282英尺的恶水盆地，这里呈现出鲜明且震撼的对比。",
+      "headline": "对比之谷",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_BadwaterFlats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 11",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%ad%bb%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20260210_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%ad%bb%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20260210_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260210",
       "fullstartdate": "20260210",
       "enddate": "20260211",

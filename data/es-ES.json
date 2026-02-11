@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260211",
+      "fullstartdate": "20260211",
+      "enddate": "20260212",
+      "urlbase": "https://www.bing.com/th?id=OHR.ReinaCarnaval_ES-ES2850086580_UHD.jpg",
+      "copyrighttext": "© EP-stock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Gala+de+la+Reina+del+Carnaval+de+Tenerife+2026&form=BGALM&filters=HpDate:\"20260210_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vista del atardecer de San Andrés y Playa de Las Teresitas, Tenerife",
+      "description": "Hoy, 11 de febrero, se celebra la Gala de Elección de la Reina Adulta de Santa Cruz de Tenerife, una cita imprescindible del Carnaval con décadas de historia que cada año deslumbra con trajes de fantasía que pueden superar varias decenas de kilos y exigir meses de trabajo artesanal. Esta gala es símbolo de creatividad, patrimonio vivo y orgullo isleño, además de motor cultural y turístico para la capital tinerfeña. La puesta en escena combina música, coreografías y diseño con un público entregado y una audiencia fiel que sigue el certamen desde todos los rincones, atraída por la espectacularidad de cada fantasía y el carisma de las candidatas.",
+      "headline": "Pura fantasía",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_ReinaCarnaval\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gala+de+la+Reina+del+Carnaval+de+Tenerife+2026&form=BGABWCTA7&filters=HpDate:\"20260210_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Gala+de+la+Reina+del+Carnaval+de+Tenerife+2026&form=BGABWCTA11&filters=HpDate:\"20260210_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260210",
       "fullstartdate": "20260210",
       "enddate": "20260211",
