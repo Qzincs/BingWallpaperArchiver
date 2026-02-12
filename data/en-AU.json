@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260211",
+      "fullstartdate": "20260211",
+      "enddate": "20260212",
+      "urlbase": "https://www.bing.com/th?id=OHR.BadwaterFlats_ROW9539566313_UHD.jpg",
+      "copyrighttext": "© Jim Patterson/TANDEM Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=Death+Valley+National+Park&form=BGALM&filters=HpDate:\"20260211_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Salt flats in Badwater Basin, Death Valley National Park, California, USA",
+      "description": "Death Valley National Park challenges first impressions. Spanning more than 1.34 million hectares across California and Nevada in the United States, it is the largest national park in the contiguous United States. Across this vast expanse, salt flats, volcanic hills, sweeping sand dunes and distant snowcapped peaks create a landscape shaped by time and extremes. From the soaring heights of Telescope Peak, which rises over 3,300 metres above the desert floor, to the depths of Badwater Basin, 86 metres below sea level, the park is a study in contrasts.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260211_BadwaterFlats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Feb 11, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Death+Valley+National+Park&form=BGABWCTA7&filters=HpDate:\"20260211_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Death+Valley+National+Park&form=BGABWCTA11&filters=HpDate:\"20260211_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260210",
       "fullstartdate": "20260210",
       "enddate": "20260211",

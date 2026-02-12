@@ -1,6 +1,209 @@
 {
   "images": [
     {
+      "startdate": "20260212",
+      "fullstartdate": "20260212",
+      "enddate": "20260213",
+      "urlbase": "https://www.bing.com/th?id=OBGA.shutterstock_523097605",
+      "copyrighttext": "© emka74/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Ameland%2C%20Netherlands&form=BGALM",
+      "title": "Ameland, Netherlands",
+      "description": "An outgoing young grey seal pup who seems to play to the camera, Ameland, Netherlands",
+      "headline": "Ameland, Netherlands",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Ameland%2C%20Netherlands&satid=id.sid%3Abbd13109-fe5b-0056-11bc-e43dbad74f94&vdpid=-7989722656&mb=53.517475~5.613698~53.374784~5.972876&cardbg=%23F98745&tt=Ameland%2C%20Frysl%C3%A2n%2C%20Netherlands&tsts1=%2526ty%253D30%2526q%253DAmeland%25252C%252520Netherlands%2526satid%253Did.sid%25253Abbd13109-fe5b-0056-11bc-e43dbad74f94%2526vdpid%253D-7989722656%2526mb%253D53.517475~5.613698~53.374784~5.972876%2526cardbg%253D%252523F98745&tstt1=Ameland%2C%20Frysl%C3%A2n%2C%20Netherlands&cp=53.446268~5.695455&lvl=11.798804&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "12. Feb.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Ameland%2c+Netherlands&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ameland%2C%20Netherlands&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 209,
+            "Y": 515,
+            "Width": 2521,
+            "Height": 1418,
+            "Label": "harbor seal",
+            "ContourList": [],
+            "Contours": [
+              [
+                2715,
+                862
+              ],
+              [
+                2686,
+                769
+              ],
+              [
+                2648,
+                707
+              ],
+              [
+                2517,
+                596
+              ],
+              [
+                2442,
+                561
+              ],
+              [
+                2322,
+                533
+              ],
+              [
+                2203,
+                530
+              ],
+              [
+                1827,
+                746
+              ],
+              [
+                1229,
+                839
+              ],
+              [
+                1018,
+                957
+              ],
+              [
+                900,
+                1054
+              ],
+              [
+                759,
+                1047
+              ],
+              [
+                300,
+                1156
+              ],
+              [
+                241,
+                1144
+              ],
+              [
+                218,
+                1175
+              ],
+              [
+                270,
+                1232
+              ],
+              [
+                512,
+                1366
+              ],
+              [
+                632,
+                1504
+              ],
+              [
+                707,
+                1657
+              ],
+              [
+                829,
+                1753
+              ],
+              [
+                982,
+                1785
+              ],
+              [
+                1128,
+                1874
+              ],
+              [
+                1203,
+                1895
+              ],
+              [
+                1637,
+                1923
+              ],
+              [
+                1949,
+                1919
+              ],
+              [
+                2024,
+                1882
+              ],
+              [
+                2085,
+                1787
+              ],
+              [
+                2188,
+                1683
+              ],
+              [
+                2297,
+                1536
+              ],
+              [
+                2616,
+                1235
+              ],
+              [
+                2704,
+                1061
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ameland%2C%20Netherlands&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260211",
       "fullstartdate": "20260211",
       "enddate": "20260212",
