@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260215",
+      "fullstartdate": "20260215",
+      "enddate": "20260216",
+      "urlbase": "https://www.bing.com/th?id=OHR.IbizaIslets_ES-ES3095870118_UHD.jpg",
+      "copyrighttext": "© L. Apolli/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Es+Vedr%c3%a1+Ibiza&form=BGALM&filters=HpDate:\"20260214_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Islotes de Es Vedrá y Es Vedranell, Ibiza",
+      "description": "En la costa suroeste de Ibiza, frente a Cala d’Hort, se alzan los islotes de Es Vedrá y Es Vedranell. El conjunto forma parte de las Reservas Naturales de Es Vedrá, Es Vedranell y los islotes de Poniente, protegidas desde 2002 e incluidas en la Red Natura 2000 por su valor ecológico. La zona reúne acantilados verticales, fondos marinos con gran diversidad y comunidades de aves marinas y lagartijas endémicas.",
+      "headline": "Donde cantan las sirenas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260215_IbizaIslets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Es+Vedr%c3%a1+Ibiza&form=BGABWCTA7&filters=HpDate:\"20260214_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Es+Vedr%c3%a1+Ibiza&form=BGABWCTA11&filters=HpDate:\"20260214_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260214",
       "fullstartdate": "20260214",
       "enddate": "20260215",

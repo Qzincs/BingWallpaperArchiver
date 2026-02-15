@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260215",
+      "fullstartdate": "20260215",
+      "enddate": "20260216",
+      "urlbase": "https://www.bing.com/th?id=OHR.MahaShivaratri2026_EN-IN9432301075_UHD.jpg",
+      "copyrighttext": "© Amith Nag Photography/Moment/Getty Image",
+      "copyrightlink": "https://www.bing.com/search?q=Maha+Shivaratri&form=BGALM&filters=HpDate:\"20260214_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Statue of Shiva at Murudeshwara Temple, Uttara Kannada, Karnataka",
+      "description": "Shiva isn't a distant deity. He appears as a yogi in deep meditation, a dancer in motion, and a force that clears the way for renewal. Maha Shivaratri, observed today, brings focus to these many sides of Shiva. The festival falls on the 14th night of the waning moon in the Hindu month of Phalguna and is marked by night-long worship, simple offerings and quiet restraint rather than spectacle.",
+      "headline": "Under Shiva's gaze",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260215_MahaShivaratri2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.093726,74.484726/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=14.093726,74.484726;S9;Murudeshwara Temple, Karnataka&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Murdeshwar%20Temple%2C%20Murudeshwar%20Temple%20Main%20Road%2C%20Murdeshwar%20Bhatkal%20Taluk%2C%20Bhatkal%2C%20Karnataka%2C%20India&ss=ypid.YN4070x12443748645111934252&mb=14.100835~74.469645~14.086621~74.499815&description=Murudeshwar%20Temple%20Main%20Road%2C%20Murdeshwar%20Bhatkal%20Taluk%2C%20Murudeshwara%2C%20Karnataka%20581350%C2%B7Temple&cardbg=%23219AB6&dt=1768379400000&tt=Murdeshwar%20Temple&tsts0=%2526ty%253D18%2526q%253DMurdeshwar%252520Temple%25252C%252520Murudeshwar%252520Temple%252520Main%252520Road%25252C%252520Murdeshwar%252520Bhatkal%252520Taluk%25252C%252520Bhatkal%25252C%252520Karnataka%25252C%252520India%2526ss%253Dypid.YN4070x12443748645111934252%2526mb%253D14.100835~74.469645~14.086621~74.499815%2526description%253DMurudeshwar%252520Temple%252520Main%252520Road%25252C%252520Murdeshwar%252520Bhatkal%252520Taluk%25252C%252520Murudeshwara%25252C%252520Karnataka%252520581350%2525C2%2525B7Temple%2526cardbg%253D%252523219AB6%2526dt%253D1768379400000&tstt0=Murdeshwar%20Temple&cp=12.114446~73.318791&lvl=6.343882&pi=0&ftst=0&ftics=False&v=2&sV=&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Feb 15, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Uttara+Kannada%2c+Karnataka&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Maha+Shivaratri&form=BGABWCTA7&filters=HpDate:\"20260214_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Maha+Shivaratri&form=BGABWCTA11&filters=HpDate:\"20260214_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260214",
       "fullstartdate": "20260214",
       "enddate": "20260215",
