@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260216",
+      "fullstartdate": "20260216",
+      "enddate": "20260217",
+      "urlbase": "https://www.bing.com/th?id=OHR.BanffWinter_PT-BR7066922976_UHD.jpg",
+      "copyrighttext": "© Herbert Rong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cidade+de+banff&form=BGALM&filters=HpDate:\"20260216_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lago e montanhas nevadas em Banff, Alberta, Canadá",
+      "description": "Banff, na província de Alberta, Canadá, não surgiu por acaso nem cresceu em silêncio. Nasceu do encontro entre trilhos de trem, montanhas abruptas e uma descoberta improvável: em 1883, operários da ferrovia encontraram águas termais brotando de uma encosta no coração das Montanhas Rochosas. Dois anos depois, a área foi oficialmente protegida. Assim começava o Parque Nacional de Banff, o primeiro do Canadá e terceiro do mundo — um modelo de conservação que chegou ao Brasil mais de 50 anos depois, em 1937, com os Parques Nacionais de Itatiaia e do Iguaçu.",
+      "headline": "No branco de Banff",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_BanffWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cidade+de+banff&form=BGABWCTA7&filters=HpDate:\"20260216_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cidade+de+banff&form=BGABWCTA11&filters=HpDate:\"20260216_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260215",
       "fullstartdate": "20260215",
       "enddate": "20260216",

@@ -1,6 +1,301 @@
 {
   "images": [
     {
+      "startdate": "20260216",
+      "fullstartdate": "20260216",
+      "enddate": "20260217",
+      "urlbase": "https://www.bing.com/th?id=OBGA.shutterstock_1874321257",
+      "copyrighttext": "© Michael Wheatley/All Canada/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Alberta%2C%20Canada&form=BGALM",
+      "title": "Alberta, Canada",
+      "description": "Plains Bison, Waterton Lakes National Park, Alberta, Canada",
+      "headline": "Alberta, Canada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Alberta%2C%20Canada&satid=id.sid%3Aac4b7d59-c4be-889f-9a45-7e7c524794ec&vdpid=1076&mb=60.000378~-129.311699~48.997345~-100.688087&cardbg=%23F98745&tt=Alberta%2C%20Canada&tsts6=%2526ty%253D30%2526q%253DAlberta%25252C%252520Canada%2526satid%253Did.sid%25253Aac4b7d59-c4be-889f-9a45-7e7c524794ec%2526vdpid%253D1076%2526mb%253D60.000378~-129.311699~48.997345~-100.688087%2526cardbg%253D%252523F98745&tstt6=Alberta%2C%20Canada&cp=54.87459~-122.815686&lvl=5.482442&pi=0&ftst=6&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "16. Feb.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Alberta%2c+Canada&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Alberta%2C%20Canada&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 3219,
+            "Y": 1762,
+            "Width": 716,
+            "Height": 655,
+            "Label": "bear",
+            "ContourList": [],
+            "Contours": [
+              [
+                3763,
+                1790
+              ],
+              [
+                3719,
+                1773
+              ],
+              [
+                3666,
+                1764
+              ],
+              [
+                3595,
+                1771
+              ],
+              [
+                3542,
+                1785
+              ],
+              [
+                3507,
+                1817
+              ],
+              [
+                3436,
+                1924
+              ],
+              [
+                3399,
+                1945
+              ],
+              [
+                3306,
+                1978
+              ],
+              [
+                3269,
+                2000
+              ],
+              [
+                3240,
+                2029
+              ],
+              [
+                3224,
+                2053
+              ],
+              [
+                3218,
+                2076
+              ],
+              [
+                3225,
+                2135
+              ],
+              [
+                3243,
+                2171
+              ],
+              [
+                3256,
+                2230
+              ],
+              [
+                3288,
+                2262
+              ],
+              [
+                3308,
+                2310
+              ],
+              [
+                3358,
+                2327
+              ],
+              [
+                3379,
+                2327
+              ],
+              [
+                3404,
+                2367
+              ],
+              [
+                3434,
+                2381
+              ],
+              [
+                3449,
+                2370
+              ],
+              [
+                3487,
+                2292
+              ],
+              [
+                3503,
+                2283
+              ],
+              [
+                3522,
+                2283
+              ],
+              [
+                3527,
+                2303
+              ],
+              [
+                3510,
+                2327
+              ],
+              [
+                3500,
+                2372
+              ],
+              [
+                3504,
+                2394
+              ],
+              [
+                3519,
+                2399
+              ],
+              [
+                3616,
+                2390
+              ],
+              [
+                3624,
+                2361
+              ],
+              [
+                3617,
+                2334
+              ],
+              [
+                3609,
+                2328
+              ],
+              [
+                3612,
+                2323
+              ],
+              [
+                3638,
+                2338
+              ],
+              [
+                3636,
+                2375
+              ],
+              [
+                3666,
+                2398
+              ],
+              [
+                3791,
+                2395
+              ],
+              [
+                3809,
+                2375
+              ],
+              [
+                3829,
+                2327
+              ],
+              [
+                3826,
+                2266
+              ],
+              [
+                3834,
+                2254
+              ],
+              [
+                3866,
+                2234
+              ],
+              [
+                3888,
+                2208
+              ],
+              [
+                3919,
+                2140
+              ],
+              [
+                3929,
+                2094
+              ],
+              [
+                3926,
+                2039
+              ],
+              [
+                3910,
+                1983
+              ],
+              [
+                3881,
+                1936
+              ],
+              [
+                3845,
+                1897
+              ],
+              [
+                3835,
+                1857
+              ],
+              [
+                3806,
+                1823
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Alberta%2C%20Canada&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260215",
       "fullstartdate": "20260215",
       "enddate": "20260216",

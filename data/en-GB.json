@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260216",
+      "fullstartdate": "20260216",
+      "enddate": "20260217",
+      "urlbase": "https://www.bing.com/th?id=OHR.JorvikVikingFestival2026_EN-GB0705464256_UHD.jpg",
+      "copyrighttext": "© CHUNYIP WONG/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Jorvik+Viking+Centre&form=BGALM&filters=HpDate:\"20260216_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "York, England",
+      "description": "If winter had a battle cry, it would sound like a horn blast echoing across cobbles. Each February, the Jorvik Viking Festival in York turns history into a living, shouting, occasionally bearded event. Run by the team behind the Jorvik Viking Centre, the festival celebrates the city's past as Jórvík—from 16 to 22 February this year—a major Viking settlement from the 9th century.",
+      "headline": "York goes Norse (again)",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_JorvikVikingFestival2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.957703,-1.09373/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=53.957703,-1.09373;S9;York, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=York%2C%20York%2C%20England&vdpid=5470684591356379137&ss=filter.local_vdpid%3A%225470684591356379137%22&mb=53.962246~-1.10889~53.953156~-1.078591&cardbg=%23F98745&dt=1768541400000&tt=York%2C%20York%2C%20England&tsts1=%2526ty%253D30%2526q%253DYork%25252C%252520York%25252C%252520England%2526vdpid%253D5470684591356379137%2526ss%253Dfilter.local_vdpid%25253A%2525225470684591356379137%252522%2526mb%253D53.962246~-1.10889~53.953156~-1.078591%2526cardbg%253D%252523F98745%2526dt%253D1768541400000&tstt1=York%2C%20York%2C%20England&cp=54.687319~-4.347607&lvl=5.618121&pi=0&ftst=1&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Feb 16, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+England&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jorvik+Viking+Centre&form=BGABWCTA7&filters=HpDate:\"20260216_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jorvik+Viking+Centre&form=BGABWCTA11&filters=HpDate:\"20260216_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260215",
       "fullstartdate": "20260215",
       "enddate": "20260216",

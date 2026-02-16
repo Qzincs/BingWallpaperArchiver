@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260216",
+      "fullstartdate": "20260216",
+      "enddate": "20260217",
+      "urlbase": "https://www.bing.com/th?id=OHR.BanffWinter_ES-ES3143885243_UHD.jpg",
+      "copyrighttext": "© Herbert Rong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+nacional+Banff&form=BGALM&filters=HpDate:\"20260215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Banff, Alberta, Canadá",
+      "description": "Hoy admiramos una vista panorámica del impresionante paisaje nevado de Banff, en Alberta, Canadá, un escenario que parece tallado en hielo y luz. En el corazón de las Montañas Rocosas se extiende el Parque Nacional Banff, el más antiguo de Canadá y Patrimonio de la Humanidad. En invierno, los picos se cubren de un blanco continuo y los bosques desprenden olor a resina fría. Las aguas termales ofrecen un respiro humeante frente al aire cortante y los miradores regalan amaneceres rosados que se reflejan en láminas de agua inmóviles. La vida salvaje mantiene su pulso silencioso con huellas de alce en la nieve y vuelos de águila sobre valles detenidos.",
+      "headline": "Donde las montañas tocan el cielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_BanffWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+nacional+Banff&form=BGABWCTA7&filters=HpDate:\"20260215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+nacional+Banff&form=BGABWCTA11&filters=HpDate:\"20260215_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260215",
       "fullstartdate": "20260215",
       "enddate": "20260216",
