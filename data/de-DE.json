@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260217",
+      "fullstartdate": "20260217",
+      "enddate": "20260218",
+      "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_DE-DE3336246364_UHD.jpg",
+      "copyrighttext": "© Gins Wang/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Chinesisches+Neujahrsfest&form=BGALM&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rote Laternen zum chinesischen Neujahr",
+      "description": "Wenn die ersten roten Laternen die Nacht erhellen, beginnt das chinesische Neujahrsfest voller Hoffnung und Tradition. Es richtet sich nach dem lunisolaren Kalender, der sich an Mondphasen und Jahreszeiten orientiert. Deshalb gibt es kein festes Datum, sondern das Neujahr fällt jedes Jahr auf einen Neumond zwischen dem 21. Januar und dem 20. Februar. Seit über zwei Jahrtausenden prägt dieses Frühlingsfest das Leben von Millionen Menschen und 2024 wurde es von der UNESCO als immaterielles Kulturerbe der Menschheit anerkannt. Die Feierlichkeiten dauern 15 Tage, vom Neujahrsabend bis zum Laternenfest am ersten Vollmond. Jede Phase bringt eigene Bräuche hervor: Feuerwerk, rote Dekorationen und festliche Speisen symbolisieren Glück, Familie und Neubeginn.",
+      "headline": "Fünfzehn Tage voller Licht",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17. Feb.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chinesisches+Neujahrsfest&form=BGABWCTA7&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chinesisches+Neujahrsfest&form=BGABWCTA11&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260216",
       "fullstartdate": "20260216",
       "enddate": "20260217",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260217",
+      "fullstartdate": "20260217",
+      "enddate": "20260218",
+      "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_JA-JP3079738564_UHD.jpg",
+      "copyrighttext": "© Gins Wang/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%98%a5%e7%af%80&form=BGALM&filters=HpDate:\"20260216_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "春節の赤い提灯, 中国",
+      "description": "今日、2 月 17 日は春節、旧正月です。中国をはじめ、韓国、ベトナム、モンゴルなどアジアの多くの国々で盛大に祝われます。日本でも、横浜や神戸の中華街で「春節祭」が開催され、獅子舞やランタンで華やかに彩られます…",
+      "headline": "今日は中国の旧正月",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.559372,103.753349/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=36.559372,103.753349;S9;中国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=%E4%B8%AD%E5%9B%BD&vdpid=45&mb=56.79209~64.859368~9.192138~142.731227&cardbg=%23F98745&dt=1768201200000&tt=%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD&tsts0=%2526ty%253D30%2526q%253D%2525E4%2525B8%2525AD%2525E5%25259B%2525BD%2526vdpid%253D45%2526mb%253D56.79209~64.859368~9.192138~142.731227%2526cardbg%253D%252523F98745%2526dt%253D1768201200000&tstt0=%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD&cp=36.522176~79.441929&lvl=3.84&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 2月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%98%a5%e7%af%80&form=BGABWCTA7&filters=HpDate:\"20260216_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%98%a5%e7%af%80&form=BGABWCTA11&filters=HpDate:\"20260216_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260216",
       "fullstartdate": "20260216",
       "enddate": "20260217",

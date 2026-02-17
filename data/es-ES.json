@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260217",
+      "fullstartdate": "20260217",
+      "enddate": "20260218",
+      "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_ES-ES3189574771_UHD.jpg",
+      "copyrighttext": "© Gins Wang/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=A%c3%b1o+Nuevo+chino&form=BGALM&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Faroles rojos para celebrar el Año Nuevo chino",
+      "description": "El Año Nuevo chino de 2026 comienza hoy y abre un ciclo festivo que se prolonga durante quince días hasta la primera luna llena del año lunar. En 2024, esta celebración fue inscrita en la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad de la UNESCO, que reconoce su valor como práctica social compartida por millones de personas dentro y fuera de China.",
+      "headline": "Quince días de luz y celebración",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 de feb. de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=A%c3%b1o+Nuevo+chino&form=BGABWCTA7&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=A%c3%b1o+Nuevo+chino&form=BGABWCTA11&filters=HpDate:\"20260216_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260216",
       "fullstartdate": "20260216",
       "enddate": "20260217",

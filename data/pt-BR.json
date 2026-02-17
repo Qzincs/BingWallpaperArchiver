@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260217",
+      "fullstartdate": "20260217",
+      "enddate": "20260218",
+      "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_PT-BR7587558127_UHD.jpg",
+      "copyrighttext": "© Gins Wang/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=ano+novo+chines&form=BGALM&filters=HpDate:\"20260217_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lanternas vermelhas no Ano Novo Chinês, Taiwan",
+      "description": "As lanternas vermelhas vistas na imagem acendem a noite em Taiwan, mas o brilho do Ano Novo Chinês — ou Festival da Primavera — vai mais longe. Celebrado tradicionalmente no Leste e Sudeste Asiático, grandes comunidades de descendentes mantêm viva essa tradição para além das fronteiras. No Brasil, o Bairro da Liberdade, em São Paulo, se transforma desde os anos 1980: ruas tomadas por lanternas, palcos, música e aromas de jiaozi e noodles, reunindo dezenas de milhares de pessoas sob o céu urbano.",
+      "headline": "A luz que cruza oceanos",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=ano+novo+chines&form=BGABWCTA7&filters=HpDate:\"20260217_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=ano+novo+chines&form=BGABWCTA11&filters=HpDate:\"20260217_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260216",
       "fullstartdate": "20260216",
       "enddate": "20260217",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260217",
+      "fullstartdate": "20260217",
+      "enddate": "20260218",
+      "urlbase": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-IN7681988539_UHD.jpg",
+      "copyrighttext": "© Gins Wang/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Chinese+New+Year&form=BGALM&filters=HpDate:\"20260216_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Red lanterns celebrating Chinese New Year",
+      "description": "Chinese New Year, also known as the Spring Festival, marks the beginning of a new year on the traditional Chinese lunisolar calendar. This calendar follows the phases of the moon and the rhythms of the seasons. Red lanterns—like the ones shown in today's image—are widely associated with the celebration. The holiday falls on the new moon between January 21 and February 20 and has been observed for more than 2,000 years. In 2024, UNESCO added the Spring Festival to its Intangible Cultural Heritage of Humanity list, recognising its cultural and historical importance.",
+      "headline": "Fifteen days of light",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260217_NewYearLantern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Feb 17, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chinese+New+Year&form=BGABWCTA7&filters=HpDate:\"20260216_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chinese+New+Year&form=BGABWCTA11&filters=HpDate:\"20260216_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260216",
       "fullstartdate": "20260216",
       "enddate": "20260217",

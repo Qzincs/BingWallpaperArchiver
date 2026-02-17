@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260216",
+      "fullstartdate": "20260216",
+      "enddate": "20260217",
+      "urlbase": "https://www.bing.com/th?id=OHR.BanffWinter_EN-CA0779166638_UHD.jpg",
+      "copyrighttext": "© Herbert Rong/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Banff+town&form=BGALM&filters=HpDate:\"20260216_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Scenic view of lake by snowcapped mountains in Banff, Alberta",
+      "description": "Banff in Alberta didn't grow quietly. It arrived with railways, hot springs and a vision: to protect places of rare beauty. In 1883, railway workers stumbled upon warm mineral water bubbling from Sulphur Mountain—an unlikely surprise in the cold sweep of the Rockies. The discovery drew attention quickly. By 1885, the surrounding land has been set aside as a protected reserve. What did that lead to? The beginnings of Banff National Park, Canada's first, and a blueprint the country would return to again and again.",
+      "headline": "When Banff slows down",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_BanffWinter\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.1781,-115.572/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=51.1781,-115.572;S9;Banff, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=30&q=Alberta%2C%20Canada%2C%20Banff&satid=id.sid%3A415401fa-0d84-910a-ee62-df75319c98bc&vdpid=4858796614547931137&mb=51.182699~-115.587094~51.173511~-115.556924&cardbg=%23F98745&dt=1767925800000&tt=banff%20alberta&tsts0=%2526ty%253D30%2526q%253DAlberta%25252C%252520Canada%25252C%252520Banff%2526satid%253Did.sid%25253A415401fa-0d84-910a-ee62-df75319c98bc%2526vdpid%253D4858796614547931137%2526mb%253D51.182699~-115.587094~51.173511~-115.556924%2526cardbg%253D%252523F98745%2526dt%253D1767925800000&tstt0=banff%20alberta&cp=49.02376~-120.372482&lvl=4.621853&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Feb. 16, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Alberta&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Banff+town&form=BGABWCTA7&filters=HpDate:\"20260216_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Banff+town&form=BGABWCTA11&filters=HpDate:\"20260216_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260215",
       "fullstartdate": "20260215",
       "enddate": "20260216",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260216",
+      "fullstartdate": "20260216",
+      "enddate": "20260217",
+      "urlbase": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg",
+      "copyrighttext": "© Westend61/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Presidents+Day&form=BGALM&filters=HpDate:\"20260216_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lincoln Memorial, Washington, DC",
+      "description": "Presidents' Day is observed on the third Monday of February and is officially recognized at the federal level as Washington's Birthday. The holiday was originally celebrated on February 22, George Washington's birthday, before being rescheduled under the Uniform Monday Holiday Act. Passed in 1968 and implemented in 1971, the Act shifted several federal holidays to Mondays, creating standardized long weekends. Washington's Birthday was among those affected, which moved the observance away from Washington's actual birthday and allowed its meaning to broaden over time.",
+      "headline": "Legacies in view",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260216_PresidentsDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.889286,-77.050179/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=38.889286,-77.050179;S9;Lincoln%20Memorial%2C%20Washington%2C%20DC&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/maps?ty=18&q=Lincoln%20Memorial%2C%20Washington%2C%20District%20of%20Columbia%2C%20United%20States&ss=ypid.YNB07BE067C65046BA&mb=38.895809~-77.060208~38.882748~-77.040167&description=2%20Lincoln%20Memorial%20Cir%20NW%2C%20Washington%2C%20DC%2020037&cardbg=%233AABCF&dt=1766449800000&tt=Lincoln%20Memorial&tsts0=%2526ty%253D18%2526q%253DLincoln%252520Memorial%25252C%252520Washington%25252C%252520District%252520of%252520Columbia%25252C%252520United%252520States%2526ss%253Dypid.YNB07BE067C65046BA%2526mb%253D38.895809~-77.060208~38.882748~-77.040167%2526description%253D2%252520Lincoln%252520Memorial%252520Cir%252520NW%25252C%252520Washington%25252C%252520DC%25252020037%2526cardbg%253D%2525233AABCF%2526dt%253D1766449800000&tstt0=Lincoln%20Memorial&cp=38.690058~-77.995526&lvl=8.167124&pi=0&ftst=0&ftics=False&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Feb 16, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Washington%2c+DC&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Presidents+Day&form=BGABWCTA7&filters=HpDate:\"20260216_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Presidents+Day&form=BGABWCTA11&filters=HpDate:\"20260216_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260215",
       "fullstartdate": "20260215",
       "enddate": "20260216",
