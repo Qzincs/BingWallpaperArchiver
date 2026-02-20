@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260220",
+      "fullstartdate": "20260220",
+      "enddate": "20260221",
+      "urlbase": "https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg",
+      "copyrighttext": "© Jorge Villalba/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9b%e3%83%bc%e3%82%b9%e3%83%86%e3%83%bc%e3%83%ab%e6%bb%9d&form=BGALM&filters=HpDate:\"20260219_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ホーステール滝, 米国 カリフォルニア州",
+      "description": "今日の画像は、ホーステール滝のファイアフォール。ホーステール滝は、米国カリフォルニア州にあるヨセミテ国立公園の名所です。ファイアフォールとは、太陽の光が滝に当たり、水が溶岩のように赤く輝く自然現象で、その名称は、近隣の展望地、グレイシャー・ポイントでかつて行われていた赤熱した石炭を崖から落とす行事に由来しています。2 月中旬から下旬の夕暮れ時に、気象条件が揃うと見ることができる珍しい現象のため、多くの写真家や旅行者を魅了しています。",
+      "headline": "炎の滝が一瞬だけ現れる夕刻",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_AdamsFirefall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.729141,-119.628471/15?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.729141,-119.628471;S9;ホーステール滝, 米国 カリフォルニア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20260220_AdamsFirefall%22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 2月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%ab%e3%83%aa%e3%83%95%e3%82%a9%e3%83%ab%e3%83%8b%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9b%e3%83%bc%e3%82%b9%e3%83%86%e3%83%bc%e3%83%ab%e6%bb%9d&form=BGABWCTA7&filters=HpDate:\"20260219_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9b%e3%83%bc%e3%82%b9%e3%83%86%e3%83%bc%e3%83%ab%e6%bb%9d&form=BGABWCTA11&filters=HpDate:\"20260219_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260219",
       "fullstartdate": "20260219",
       "enddate": "20260220",

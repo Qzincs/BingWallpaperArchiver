@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260220",
+      "fullstartdate": "20260220",
+      "enddate": "20260221",
+      "urlbase": "https://www.bing.com/th?id=OHR.AdamsFirefall_PT-BR4725440029_UHD.jpg",
+      "copyrighttext": "© Jorge Villalba/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cascata+de+fogo+em+Yosemite&form=BGALM&filters=HpDate:\"20260220_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Horsetail Fall no Parque Nacional de Yosemite, Califórnia, EUA",
+      "description": "Fotógrafos não apenas registram paisagens; eles transformam como as vemos. Nos Estados Unidos, cem anos atrás, Ansel Adams eternizou o Parque Nacional de Yosemite, na Califórnia, em preto e branco. Um de seus temas foi El Capitan, monólito de granito que desafia escaladores com seus mais de 900 metros verticais. Décadas depois, Galen Rowell capturou a efêmera Cascata de Fogo, na borda leste de El Capitan. Visto na imagem do dia, o fenômeno luminoso acontece quando, por alguns dias em fevereiro, o pôr do sol sobre a Horsetail Fall parece transformar a água em lava.",
+      "headline": "O mundo depois do clique",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_AdamsFirefall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cascata+de+fogo+em+Yosemite&form=BGABWCTA7&filters=HpDate:\"20260220_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cascata+de+fogo+em+Yosemite&form=BGABWCTA11&filters=HpDate:\"20260220_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260219",
       "fullstartdate": "20260219",
       "enddate": "20260220",

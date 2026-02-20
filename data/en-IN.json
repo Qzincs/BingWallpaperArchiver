@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260220",
+      "fullstartdate": "20260220",
+      "enddate": "20260221",
+      "urlbase": "https://www.bing.com/th?id=OHR.AdamsFirefall_EN-IN8989918969_UHD.jpg",
+      "copyrighttext": "© Jorge Villalba/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Horsetail+Fall+Yosemite+National+Park&form=BGALM&filters=HpDate:\"20260219_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Horsetail Fall in Yosemite National Park, California, United States",
+      "description": "Today we celebrate the birthday of Ansel Adams, an American photographer whose vision helped shape the world's perception of Yosemite National Park situated in California, United States. Yosemite is renowned for its granite walls, dramatic waterfalls and striking light, all of which have inspired generations of artists. One of its most intriguing sights is the Firefall, a term that refers to two distinct events in the park's history. For decades, visitors gathered at Glacier Point to watch an artificial Firefall, in which embers were pushed off the cliff in a glowing stream of fire.",
+      "headline": "Where light falls",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260220_AdamsFirefall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.729841,-119.628648/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=37.729841,-119.628648;S9;Horsetail Fall, Yosemite National Park, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Feb 20, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Horsetail+Fall+Yosemite+National+Park&form=BGABWCTA7&filters=HpDate:\"20260219_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Horsetail+Fall+Yosemite+National+Park&form=BGABWCTA11&filters=HpDate:\"20260219_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260219",
       "fullstartdate": "20260219",
       "enddate": "20260220",
