@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260222",
+      "fullstartdate": "20260222",
+      "enddate": "20260223",
+      "urlbase": "https://www.bing.com/th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg",
+      "copyrighttext": "© john finney photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mam+Tor+hill&form=BGALM&filters=HpDate:\"20260222_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The hill of Mam Tor, Derbyshire, England",
+      "description": "'Shivering Mountain' is a dramatic nickname, but Mam Tor has earned it over hundreds of years. Rising above Castleton in England's Peak District, it lies within the United Kingdom's first national park, which spans 555 square miles. This landmark takes its name from Old English, 'mam' meaning 'mother,' a nod to the smaller hills it appears to cradle. Yet this 'mother mountain' is famously unstable. Its layers of shale and sandstone have caused landslips for centuries, including a collapse that permanently closed the A625 road in 1979.",
+      "headline": "The mother of hills",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260222_MamTorSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.387242,-1.819306/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=53.387242,-1.819306;S9;Mam Tor, Castleton, Derbyshire, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Feb 22, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mam+Tor+hill&form=BGABWCTA7&filters=HpDate:\"20260222_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mam+Tor+hill&form=BGABWCTA11&filters=HpDate:\"20260222_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260221",
       "fullstartdate": "20260221",
       "enddate": "20260222",
