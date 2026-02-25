@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260225",
+      "fullstartdate": "20260225",
+      "enddate": "20260226",
+      "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_PT-BR4400767586_UHD.jpg",
+      "copyrighttext": "© Designpics/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=geleira+de+mendenhall+alasca&form=BGALM&filters=HpDate:\"20260225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Caverna de gelo na geleira Mendenhall, Alasca, Estados Unidos",
+      "description": "Ao entrarmos em uma das raras cavernas da geleira Mendenhall, no Alasca, Estados Unidos, o mundo fica silencioso, iluminado por uma luz que atravessa camadas antigas de neve compactada. Cada túnel funciona como uma câmara natural de filtros; quanto mais denso o gelo, mais ele absorve outras cores e intensifica as tonalidades de azul, do celeste suave ao safira hipnótico.",
+      "headline": "Quando o gelo fala",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260225_MendenhallCave\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 fev. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=geleira+de+mendenhall+alasca&form=BGABWCTA7&filters=HpDate:\"20260225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=geleira+de+mendenhall+alasca&form=BGABWCTA11&filters=HpDate:\"20260225_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260224",
       "fullstartdate": "20260224",
       "enddate": "20260225",

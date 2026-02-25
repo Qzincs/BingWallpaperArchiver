@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260225",
+      "fullstartdate": "20260225",
+      "enddate": "20260226",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.MendenhallCave_ZH-CN1850649760_UHD.jpg",
+      "copyrighttext": "© Designpics/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%97%a8%e7%99%bb%e9%9c%8d%e5%b0%94%e5%86%b0%e5%b7%9d&form=BGALM&filters=HpDate:\"20260224_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "门登霍尔冰川的冰洞，阿拉斯加州，美国",
+      "description": "阿拉斯加朱诺城外，门登霍尔冰川静静隐匿其间，内外皆仿佛幻境。走入罕见的蓝色冰洞，世界骤然安静，光线透过历经数百年压实的冰层，映照四周。冰川自朱诺冰原绵延约十三英里，缓缓流向下方山谷，在年复一年的流动中悄然改变形态。",
+      "headline": "冰，由内而外透出光芒",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260225_MendenhallCave\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 25",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%97%a8%e7%99%bb%e9%9c%8d%e5%b0%94%e5%86%b0%e5%b7%9d&form=BGABWCTA7&filters=HpDate:\"20260224_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%97%a8%e7%99%bb%e9%9c%8d%e5%b0%94%e5%86%b0%e5%b7%9d&form=BGABWCTA11&filters=HpDate:\"20260224_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260224",
       "fullstartdate": "20260224",
       "enddate": "20260225",
