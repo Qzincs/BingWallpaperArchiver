@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260225",
+      "fullstartdate": "20260225",
+      "enddate": "20260226",
+      "urlbase": "https://www.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg",
+      "copyrighttext": "© Designpics/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Mendenhall+Glacier&form=BGALM&filters=HpDate:\"20260225_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ice cave in the Mendenhall Glacier, Alaska",
+      "description": "Hidden just outside Juneau, Alaska, the Mendenhall Glacier feels almost unreal, inside and out. Step into one of its rare blue ice caves, and the world turns quiet and luminous, with light filtering through centuries-old compacted ice. The glacier stretches about 13 miles from the Juneau Icefield, slowly flowing toward the valley below and reshaping itself year by year.",
+      "headline": "Ice, lit from within",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260225_MendenhallCave\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/59.373014,-134.506836/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=59.373014,-134.506836;S9;Mendenhall Glacier, Alaska&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Feb 25, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mendenhall+Glacier&form=BGABWCTA7&filters=HpDate:\"20260225_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mendenhall+Glacier&form=BGABWCTA11&filters=HpDate:\"20260225_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260224",
       "fullstartdate": "20260224",
       "enddate": "20260225",

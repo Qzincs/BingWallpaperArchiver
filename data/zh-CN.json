@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260226",
+      "fullstartdate": "20260226",
+      "enddate": "20260227",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.GrandSunset_ZH-CN1905986519_UHD.jpg",
+      "copyrighttext": "© Matt Anderson Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e5%a4%a7%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20260225_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "大峡谷和科罗拉多河，亚利桑那州，美国",
+      "description": "大峡谷国家公园每天都有新的故事，但2月26日这一天格外特别，纪念的是1919年大峡谷正式成为国家公园的历史时刻。这一里程碑式的决定，守护了美国最具代表性的自然奇观。峡谷深处，科罗拉多河缓缓流淌，穿行于层叠的岩石之间，跨越数百英里，以季节为节拍，静静雕刻着峡谷的生命。",
+      "headline": "一幅壮丽的景象",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260226_GrandSunset\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 2月 26",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e5%a4%a7%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20260225_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 384,
+            "Y": 216,
+            "Width": 3072,
+            "Height": 1728,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%be%8e%e5%9b%bd%e5%a4%a7%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20260225_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260225",
       "fullstartdate": "20260225",
       "enddate": "20260226",
