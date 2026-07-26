@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260726",
+      "fullstartdate": "20260726",
+      "enddate": "20260727",
+      "urlbase": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_UHD.jpg",
+      "copyrighttext": "© Mac Stone/Tandem Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=BGALM&filters=HpDate:\"20260725_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Red mangrove in the Pig Keys, Honduras",
+      "description": "At sunrise in Honduras' Pig Keys—small, low-lying coastal islets tucked within mangrove-rich wetlands—a red mangrove lifts its tangled roots above glassy water. This striking scene captures what 26 July celebrates: the International Day for the Conservation of the Mangrove Ecosystem, created to spotlight these vital coastal forests.",
+      "headline": "Between land and sea, life begins",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260726_RedMangroveSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/14.822356,-86.5979/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=14.822356,-86.5979;S9;Honduras&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 26, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=BGABWCTA7&filters=HpDate:\"20260725_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=International+Day+for+Conservation+of+the+Mangrove+Ecosystem&form=BGABWCTA11&filters=HpDate:\"20260725_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260725",
       "fullstartdate": "20260725",
       "enddate": "20260726",
