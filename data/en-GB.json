@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260728",
+      "fullstartdate": "20260728",
+      "enddate": "20260729",
+      "urlbase": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_UHD.jpg",
+      "copyrighttext": "© Ian Shive/Tandem Stills + Motion",
+      "copyrightlink": "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=BGALM&filters=HpDate:\"20260727_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States",
+      "description": "Off Anacapa Island, California, United States, the ocean grows its own forests. Within Channel Islands National Park—also known as the 'Galápagos of North America'—giant kelp stretches beyond 30 metres in length, forming buoyant ribbons lifted by air-filled bladders and anchored below by rootlike holdfasts.",
+      "headline": "A balance in motion",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260728_ChannelKelp\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.004342,-119.391995/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=34.004342,-119.391995;S9;Anacapa Island, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 28, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=BGABWCTA7&filters=HpDate:\"20260727_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=World+Nature+Conservation+Day&form=BGABWCTA11&filters=HpDate:\"20260727_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260727",
       "fullstartdate": "20260727",
       "enddate": "20260728",
