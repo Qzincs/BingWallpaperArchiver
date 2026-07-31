@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260731",
+      "fullstartdate": "20260731",
+      "enddate": "20260801",
+      "urlbase": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_UHD.jpg",
+      "copyrighttext": "© Eifel Kreutz/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=BGALM&filters=HpDate:\"20260730_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States",
+      "description": "Some railways retire. The Virginia Creeper Trail in the United States simply changed gears. Stretching 34.3 miles through southwest Virginia, this trail follows a former rail line once used to haul lumber and iron ore through the Appalachian Mountains. Its unusual name traces back to the steam locomotives that laboured up steep grades in the early 1900s.",
+      "headline": "Trailing through time",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260731_VirginiaTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.631287,-81.783826/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=36.631287,-81.783826;S9;Virginia Creeper Trail, Damascus, Virginia, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Jul 31, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=BGABWCTA7&filters=HpDate:\"20260730_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Virginia+Creeper+Trail&form=BGABWCTA11&filters=HpDate:\"20260730_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260730",
       "fullstartdate": "20260730",
       "enddate": "20260731",
