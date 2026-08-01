@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260801",
+      "fullstartdate": "20260801",
+      "enddate": "20260802",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_UHD.jpg",
+      "copyrighttext": "© Joel Sharpe/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Brighton+Pride&form=BGALM&filters=HpDate:\"20260731_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rainbow balloons at the pride parade in Brighton, East Sussex, England",
+      "description": "One weekend. Hundreds of thousands of people. One shared message: everyone deserves to be seen, heard and celebrated. That's the spirit of Brighton Pride, where celebration and activism go hand in hand.",
+      "headline": "Bright-on with pride",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260801_BrightonPride2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.822372,-0.137682/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.822372,-0.137682;S9;Brighton, East Sussex, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 1, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Brighton+Pride&form=BGABWCTA7&filters=HpDate:\"20260731_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Brighton+Pride&form=BGABWCTA11&filters=HpDate:\"20260731_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260731",
       "fullstartdate": "20260731",
       "enddate": "20260801",
