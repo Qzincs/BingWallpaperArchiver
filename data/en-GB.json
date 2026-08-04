@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260804",
+      "fullstartdate": "20260804",
+      "enddate": "20260805",
+      "urlbase": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-GB7610468145_UHD.jpg",
+      "copyrighttext": "© mlorenzphotography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Owl+bird&form=BGALM&filters=HpDate:\"20260803_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Florida burrowing owlet, Cape Coral, Florida, United States",
+      "description": "Owls take centre stage on International Owl Awareness Day, an annual observance highlighting their remarkable adaptations and worldwide distribution. Found on every continent except Antarctica, these birds are known for forward-facing eyes, flat facial discs that channel sound and specialised hearing. Many species hunt in near silence thanks to soft-edged feathers. Their eyes remain fixed in their sockets, so they rely on flexible necks to scan their surroundings. From forests to deserts, owls inhabit a wide range of environments and play an important role in maintaining ecosystem balance.",
+      "headline": "Hoot hoot hooray!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260804_AdorableOwlet\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 4, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Owl+bird&form=BGABWCTA7&filters=HpDate:\"20260803_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Owl+bird&form=BGABWCTA11&filters=HpDate:\"20260803_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260803",
       "fullstartdate": "20260803",
       "enddate": "20260804",
