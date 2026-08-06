@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260806",
+      "fullstartdate": "20260806",
+      "enddate": "20260807",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-GB8480696688_UHD.jpg",
+      "copyrighttext": "© Manoj Shah/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Wildebeest&form=BGALM&filters=HpDate:\"20260805_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya",
+      "description": "In the Masai Mara, Kenya, the ground seems to move. A vast surge of wildebeest—hoofed grazers built for endurance—travel s in tightly packed herds, drawn by fresh grass and water replenished by seasonal rains.",
+      "headline": "Where the river tests the brave",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260806_MaraCrossing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 6, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Wildebeest&form=BGABWCTA7&filters=HpDate:\"20260805_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Wildebeest&form=BGABWCTA11&filters=HpDate:\"20260805_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260805",
       "fullstartdate": "20260805",
       "enddate": "20260806",
