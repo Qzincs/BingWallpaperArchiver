@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260809",
+      "fullstartdate": "20260809",
+      "enddate": "20260810",
+      "urlbase": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-GB3964962434_UHD.jpg",
+      "copyrighttext": "© Fabien Astre/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=BGALM&filters=HpDate:\"20260808_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Jean-Marie Tjibaou Cultural Centre, New Caledonia",
+      "description": "Today, the International Day of the World's Indigenous Peoples invites a closer look at communities whose stories stretch far beyond recorded history. Proclaimed by the United Nations in 1994 and first observed in 1995, the date marks a landmark 1982 meeting focused on protecting Indigenous rights worldwide. More than 476 million Indigenous people now live across about 90 countries, sustaining thousands of cultures and the majority of the world's roughly 7,000 languages.",
+      "headline": "Architecture of identity",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260809_JMTjibaou\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-22.256,166.482/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-22.256,166.482;S9;Jean-Marie Tjibaou Cultural Centre, New Caledonia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 9, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=BGABWCTA7&filters=HpDate:\"20260808_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=International+Day+of+the+Worlds+Indigenous+Peoples&form=BGABWCTA11&filters=HpDate:\"20260808_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260808",
       "fullstartdate": "20260808",
       "enddate": "20260809",
