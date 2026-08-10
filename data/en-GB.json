@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260810",
+      "fullstartdate": "20260810",
+      "enddate": "20260811",
+      "urlbase": "https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489_UHD.jpg",
+      "copyrighttext": "© JJ Landscapes/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=BGALM&filters=HpDate:\"20260809_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Joshua Tree National Park, California, United States",
+      "description": "Where two great deserts meet, Joshua Tree National Park reveals a stark, mesmerising landscape shaped by wind, time and extremes. In Southern California, United States, the higher Mojave Desert merges with the hotter, lower Colorado Desert, creating a unique blend of ecosystems and remarkable biodiversity.",
+      "headline": "Where two deserts collide",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260810_SandPath\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.951965,-115.942135/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=33.951965,-115.942135;S9;Joshua Tree National Park, California, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 10, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=BGABWCTA7&filters=HpDate:\"20260809_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Joshua+Tree+National+Park&form=BGABWCTA11&filters=HpDate:\"20260809_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260809",
       "fullstartdate": "20260809",
       "enddate": "20260810",
