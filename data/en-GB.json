@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260813",
+      "fullstartdate": "20260813",
+      "enddate": "20260814",
+      "urlbase": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_UHD.jpg",
+      "copyrighttext": "© Westend61/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Perseids+meteor+shower&form=BGALM&filters=HpDate:\"20260812_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Perseid meteors over Teide Observatory, Tenerife, Spain",
+      "description": "Not every summer tradition happens on the ground. Some take place hundreds of miles overhead, one meteor at a time. The Perseids return every year from mid-July through late August, reaching their peak around 12-13 August. Visible across much of the world, they often produce dozens of meteors per hour under dark skies. Picture yourself looking up. One streak appears after another. How many can you spot before you lose count? Each streak comes from debris shed by Comet Swift-Tuttle as Earth moves through its dust trail. The meteors appear to radiate from the constellation Perseus.",
+      "headline": "Make a wish",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260813_PerseidasTenerife\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/28.291565,-16.629129/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=28.291565,-16.629129;S9;Teide Observatory, Tenerife, Spain&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 13, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Perseids+meteor+shower&form=BGABWCTA7&filters=HpDate:\"20260812_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Perseids+meteor+shower&form=BGABWCTA11&filters=HpDate:\"20260812_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260812",
       "fullstartdate": "20260812",
       "enddate": "20260813",
