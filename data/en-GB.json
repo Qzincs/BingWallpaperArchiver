@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260815",
+      "fullstartdate": "20260815",
+      "enddate": "20260816",
+      "urlbase": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-GB5755022749_UHD.jpg",
+      "copyrighttext": "© Westend61/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=BGALM&filters=HpDate:\"20260814_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Hoodoos in Ah‑Shi‑Sle‑Pah Wilderness in San Juan County, New Mexico, United States",
+      "description": "Nature has a knack for balancing the impossible. In New Mexico's Ah-Shi-Sle-Pah Wilderness in the United States, towering hoodoos perch hefty rock caps on slender stems. Wind, water and ice have spent roughly 75 million years sculpting these remote badlands into an open-air gallery that feels more alien than terrestrial.",
+      "headline": "The great balancing act",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260815_ValleyDreams\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/36.155291,-107.935427/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=36.155291,-107.935427;S9;Ah‑Shi‑Sle‑Pah Wilderness, New Mexico, United States&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 15, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=BGABWCTA7&filters=HpDate:\"20260814_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ah+Shi+Sle+Pah+Wilderness&form=BGABWCTA11&filters=HpDate:\"20260814_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260814",
       "fullstartdate": "20260814",
       "enddate": "20260815",
