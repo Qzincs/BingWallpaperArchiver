@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260816",
+      "fullstartdate": "20260816",
+      "enddate": "20260817",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_436269698",
+      "copyrighttext": "© unai/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Biarritz%2C%20France&form=BGALM",
+      "title": "Biarritz, France",
+      "description": "Coast of Plage du Port Vieux on a summer afternoon. Municipality of Biarritz, department of the Atlantic Pyrenees, France",
+      "headline": "Biarritz, France",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": "https://www.bing.com/maps?&ty=30&q=Biarritz%2C%20France&satid=id.sid%3A2c63f2c7-c7c9-0fa0-cc1c-c51363b33846&vdpid=5668672138526064641&mb=43.494549~-1.606926~43.447605~-1.50485&cardbg=%23F98745&tt=Biarritz%2C%20Nouvelle-Aquitaine%2C%20France&tsts11=%2526ty%253D30%2526q%253DBiarritz%25252C%252520France%2526satid%253Did.sid%25253A2c63f2c7-c7c9-0fa0-cc1c-c51363b33846%2526vdpid%253D5668672138526064641%2526mb%253D43.494549~-1.606926~43.447605~-1.50485%2526cardbg%253D%252523F98745&tstt11=Biarritz%2C%20Nouvelle-Aquitaine%2C%20France&cp=43.471089~-1.574459&lvl=14.198824&pi=0&ftst=11&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "Aug 16, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Biarritz%2c+France&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Biarritz%2C%20France&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 677,
+            "Y": 332,
+            "Width": 5419,
+            "Height": 2659,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Biarritz%2C%20France&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260815",
       "fullstartdate": "20260815",
       "enddate": "20260816",
