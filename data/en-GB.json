@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260819",
+      "fullstartdate": "20260819",
+      "enddate": "20260820",
+      "urlbase": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-GB6122204864_UHD.jpg",
+      "copyrighttext": "© Aolin Chen/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Whytecliff+Park&form=BGALM&filters=HpDate:\"20260818_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Whytecliff Park in West Vancouver, British Columbia, Canada",
+      "description": "The best route here isn't built with concrete. Instead, the tide reveals a rocky path leading from Whytecliff Park to Whyte Islet in West Vancouver, Canada. A few hours later, the sea quietly covers the crossing again, making timing part of the experience. This shoreline has drawn visitors for generations. The tide opens the path; wet rocks keep you humble. The reward is a sweeping view back towards the beach and the hillside homes of Gleneagles.",
+      "headline": "A path between the waves",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260819_WhyteCliffP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/49.375514,-123.288861/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=49.375514,-123.288861;S9;Whytecliff Park, West Vancouver, British Columbia, Canada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 19, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Whytecliff+Park&form=BGABWCTA7&filters=HpDate:\"20260818_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Whytecliff+Park&form=BGABWCTA11&filters=HpDate:\"20260818_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260818",
       "fullstartdate": "20260818",
       "enddate": "20260819",
