@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20260822",
+      "fullstartdate": "20260822",
+      "enddate": "20260823",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_182960377",
+      "copyrighttext": "© Fotokon/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Sandy+beach%2c+Hel+Peninsula&form=BGALM",
+      "title": "Sandy beach, Hel Peninsula",
+      "description": "Sandy beach on Hel Peninsula in Poland, view on Bay of Puck",
+      "headline": "Sandy beach, Hel Peninsula",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 22, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sandy+beach%2c+Hel+Peninsula&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260821",
       "fullstartdate": "20260821",
       "enddate": "20260822",
