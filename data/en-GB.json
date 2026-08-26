@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260826",
+      "fullstartdate": "20260826",
+      "enddate": "20260827",
+      "urlbase": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_UHD.jpg",
+      "copyrighttext": "© Cavan Images/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Aurora+borealis&form=BGALM&filters=HpDate:\"20260825_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Auroras over Kirkjufell, Iceland",
+      "description": "As darker nights return to Iceland, visitors will soon look to the skies for a chance to see the aurora borealis. Better known as the northern lights, this luminous phenomenon occurs when charged particles from the sun collide with oxygen and nitrogen high in Earth's atmosphere, creating shimmering ribbons of green, pink, purple and sometimes red light. From September to April, Iceland's northern location and long winter nights make it one of the world's finest places to witness the display.",
+      "headline": "A sky alive with colour",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260826_AurorasIceland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/64.939949,-23.307478/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=64.939949,-23.307478;S9;Kirkjufell, Iceland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 26, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Aurora+borealis&form=BGABWCTA7&filters=HpDate:\"20260825_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Aurora+borealis&form=BGABWCTA11&filters=HpDate:\"20260825_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260825",
       "fullstartdate": "20260825",
       "enddate": "20260826",
