@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260830",
+      "fullstartdate": "20260830",
+      "enddate": "20260831",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_UHD.jpg",
+      "copyrighttext": "© Pete Oxford/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Whale+shark&form=BGALM&filters=HpDate:\"20260829_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia",
+      "description": "Today, International Whale Shark Day makes room for the world's largest fish. Despite their name, whale sharks are not whales but fish, reaching lengths of up to 18 metres and weighing around 18 tonnes. Found in warm tropical seas, they glide through the water with their mouths open, filtering plankton, fish eggs and other tiny prey. This species' distinctive white-spot patterns are unique to each individual, much like human fingerprints.",
+      "headline": "The fish that outgrew its name",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260830_YellowShark\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Aug 30, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Whale+shark&form=BGABWCTA7&filters=HpDate:\"20260829_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Whale+shark&form=BGABWCTA11&filters=HpDate:\"20260829_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260829",
       "fullstartdate": "20260829",
       "enddate": "20260830",
