@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260901",
+      "fullstartdate": "20260901",
+      "enddate": "20260902",
+      "urlbase": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-GB2103309829_UHD.jpg",
+      "copyrighttext": "© Máté/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=Horsehair+parachute+fungus&form=BGALM&filters=HpDate:\"20260831_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Horsehair parachute fungus, Belarus",
+      "description": "Tiny mushrooms often go unnoticed, but the horsehair parachute fungus deserves a closer look. With a stem as thin as a strand of horsehair and a pleated cap measuring just 0.5 to 1 centimetre across, this miniature mushroom proves that good things really do come in small packages.",
+      "headline": "A world beneath your feet",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260901_HorseHairShroom\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sept 1, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Horsehair+parachute+fungus&form=BGABWCTA7&filters=HpDate:\"20260831_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Horsehair+parachute+fungus&form=BGABWCTA11&filters=HpDate:\"20260831_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260831",
       "fullstartdate": "20260831",
       "enddate": "20260901",
