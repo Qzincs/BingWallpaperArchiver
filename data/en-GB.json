@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260902",
+      "fullstartdate": "20260902",
+      "enddate": "20260903",
+      "urlbase": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-GB2261622731_UHD.jpg",
+      "copyrighttext": "© stevendocwra/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Southwold+Suffolk&form=BGALM&filters=HpDate:\"20260901_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Traditional beach huts, Southwold, Suffolk Heritage Coast, England",
+      "description": "Along England's east coast, the Suffolk Heritage Coast blends windswept heaths, marshes, shingle beaches and expansive North Sea views. One of its best-known towns is Southwold, where water and history are inseparable. Almost encircled by the sea, the River Blyth and surrounding wetlands, the town occupies a slender peninsula shaped by centuries of fishing, trade and life at the edge of the water.",
+      "headline": "Painted along the shore",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260902_SuffolkHuts\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.326221,1.678968/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.326221,1.678968;S9;Southwold, Suffolk, England&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sept 2, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Southwold+Suffolk&form=BGABWCTA7&filters=HpDate:\"20260901_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Southwold+Suffolk&form=BGABWCTA11&filters=HpDate:\"20260901_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260901",
       "fullstartdate": "20260901",
       "enddate": "20260902",
