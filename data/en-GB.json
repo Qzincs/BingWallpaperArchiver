@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260905",
+      "fullstartdate": "20260905",
+      "enddate": "20260906",
+      "urlbase": "https://www.bing.com/th?id=OHR.SardineBait_EN-GB5662354179_UHD.jpg",
+      "copyrighttext": "© Henley Spiers/Nature Picture Library",
+      "copyrightlink": "https://www.bing.com/search?q=California+sea+lion&form=BGALM&filters=HpDate:\"20260904_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean",
+      "description": "A day at the beach is rarely quiet when California sea lions are around. With their booming barks, playful personalities and a knack for stealing the spotlight, these marine mammals know how to put on a show.",
+      "headline": "Masters of the surf and shore",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260905_SardineBait\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sept 5, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=California+sea+lion&form=BGABWCTA7&filters=HpDate:\"20260904_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=California+sea+lion&form=BGABWCTA11&filters=HpDate:\"20260904_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260904",
       "fullstartdate": "20260904",
       "enddate": "20260905",
