@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20260906",
+      "fullstartdate": "20260906",
+      "enddate": "20260907",
+      "urlbase": "https://www.bing.com/th?id=OHR.LakeFyans_EN-GB5800075953_UHD.jpg",
+      "copyrighttext": "© tracielouise/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=BGALM&filters=HpDate:\"20260905_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lake Fyans, Grampians National Park, Victoria, Australia",
+      "description": "At first glance, today's image looks more like a drowned woodland than a lake. Bare tree trunks emerge from the water, their reflections stretching across the surface as the Grampians glow in the distance. This is Lake Fyans, a man-made off-stream reservoir at the foot of the Grampians (Gariwerd) National Park in Victoria, Australia. Part of the regional Wimmera-Mallee water supply system, it also draws anglers with its brown and rainbow trout and trophy-sized redfin.",
+      "headline": "A reservoir of reflections",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20260906_LakeFyans\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/-37.1431,142.6352/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=-37.1431,142.6352;S9;Lake Fyans, Grampians National Park, Victoria, Australia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Sept 6, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=BGABWCTA7&filters=HpDate:\"20260905_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grampians+National+Park+Victoria&form=BGABWCTA11&filters=HpDate:\"20260905_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20260905",
       "fullstartdate": "20260905",
       "enddate": "20260906",
