@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261011",
+      "fullstartdate": "20261011",
+      "enddate": "20261012",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabcockSP_ES-ES4865600988_UHD.jpg",
+      "copyrighttext": "© dszc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=BGALM&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Molino de Glade Creek, Parque Estatal Babcock, Virginia Occidental, EE. UU.",
+      "description": "Rodeado de un mosaico de rojos, naranjas y dorados, el molino de Glade Creek se alza sobre las aguas rocosas del arroyo que le da nombre, en el Parque Estatal Babcock, en Virginia Occidental (Estados Unidos). Parece una reliquia de la época de los pioneros, pero en realidad es un homenaje muy bien construido a la tradición harinera de los Apalaches.",
+      "headline": "Donde el otoño mueve la rueda",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_BabcockSP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.996698,-80.977125/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.996698,-80.977125;S9;Parque Estatal Babcock, Virginia Occidental, EE. UU.&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=BGABWCTA7&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Estatal+Babcock&form=BGABWCTA11&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261010",
       "fullstartdate": "20261010",
       "enddate": "20261011",

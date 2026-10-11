@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261011",
+      "fullstartdate": "20261011",
+      "enddate": "20261012",
+      "urlbase": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg",
+      "copyrighttext": "© dszc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=BGALM&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Moulin de Glade Creek, parc d'État de Babcock, Virginie-Occidentale, États-Unis",
+      "description": "Dans le parc d'État de Babcock, en Virginie-Occidentale, aux États-Unis, le moulin de Glade Creek se dresse au-dessus des eaux vives, encadré d'un patchwork de rouges, d'oranges et d'or. Il a tout d'un vestige pionnier — et pourtant, il a été construit en 1976.",
+      "headline": "La roue des saisons",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_BabcockSP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.996698,-80.977125/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=37.996698,-80.977125;S9;Parc d'État de Babcock, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=BGABWCTA7&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Babcock+%c3%89tats-Unis&form=BGABWCTA11&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261010",
       "fullstartdate": "20261010",
       "enddate": "20261011",

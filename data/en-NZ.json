@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261010",
+      "fullstartdate": "20261010",
+      "enddate": "20261011",
+      "urlbase": "https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg",
+      "copyrighttext": "© Hiroya Minakuchi/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Double+crested+cormorant&form=BGALM&filters=HpDate:\"20261010_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Double-crested cormorants over Monterey Bay, California, United States",
+      "description": "Today's image has a little airborne drama: double-crested cormorants are cruising above the waves of Monterey Bay, California, United States. Widespread across North America, these adaptable seabirds may migrate or remain year-round, depending on the population. Along California's coast, bays, wetlands and estuaries provide important habitat for birds travelling the Pacific Flyway.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261010_CormorantsFlight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 10, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Double+crested+cormorant&form=BGABWCTA7&filters=HpDate:\"20261010_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Double+crested+cormorant&form=BGABWCTA11&filters=HpDate:\"20261010_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261009",
       "fullstartdate": "20261009",
       "enddate": "20261010",

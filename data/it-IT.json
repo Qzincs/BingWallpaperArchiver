@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261011",
+      "fullstartdate": "20261011",
+      "enddate": "20261012",
+      "urlbase": "https://www.bing.com/th?id=OHR.BarcolanaBoats_IT-IT7828341555_UHD.jpg",
+      "copyrighttext": "© Marco Saracco/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=BGALM&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "La regata della Barcolana nel Golfo di Trieste, Friuli-Venezia Giulia, Italia",
+      "description": "Il Golfo di Trieste, in Friuli-Venezia Giulia (Italia), oggi si riempie di vele: alle 10.30 un colpo di cannone dà il via alla Barcolana, la regata velica più partecipata del pianeta, che chiude una settimana di prove ed eventi sulle Rive.",
+      "headline": "Il golfo si riempie di vele",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_BarcolanaBoats\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.708254,13.785912/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=45.708254,13.785912;S9;Trieste, Friuli-Venezia Giulia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 ottobre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=BGABWCTA7&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=La+Barcolana+di+Trieste&form=BGABWCTA11&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261010",
       "fullstartdate": "20261010",
       "enddate": "20261011",

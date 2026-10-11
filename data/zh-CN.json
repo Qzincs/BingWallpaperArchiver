@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261011",
+      "fullstartdate": "20261011",
+      "enddate": "20261012",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg",
+      "copyrighttext": "© dszc/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20261010_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国",
+      "description": "格莱德溪磨坊坐落在西弗吉尼亚州巴布科克州立公园内格莱德溪的岩石水域上方，周围红色、橙色和金色交错。尽管它看起来像是拓荒时代的遗迹，但这座磨坊实际上是为致敬阿巴拉契亚地区的磨坊传统而精心建造的。",
+      "headline": "秋色中转动的水轮",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_BabcockSP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 10月 11",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20261010_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b7%b4%e5%b8%83%e7%a7%91%e5%85%8b%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20261010_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261010",
       "fullstartdate": "20261010",
       "enddate": "20261011",

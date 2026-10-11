@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261011",
+      "fullstartdate": "20261011",
+      "enddate": "20261012",
+      "urlbase": "https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_UHD.jpg",
+      "copyrighttext": "© imageBROKER/David & Micha Sheldon/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Europ%c3%a4isches+Mufflon&form=BGALM&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Europäisches Mufflon (Widder) im Herbstwald, Bayern",
+      "description": "Wenn der Herbst die Wälder Bayerns in warme Braun- und Goldtöne taucht, beginnt für viele Wildtiere eine besonders reizvolle Jahreszeit. Zu ihnen gehört das Europäische Mufflon, eine Unterart der Wildschafe mit einer langen Geschichte in Europa. Auf unserem Bild hat sich ein Widder zwischen Laub und Moos niedergelassen. Seine mächtigen, schneckenförmig geschwungenen Hörner machen ihn unverwechselbar. Ursprünglich waren Mufflons vor allem auf Korsika und Sardinien verbreitet, kommen heute jedoch auch in einigen Regionen Mitteleuropas vor. Die Tiere sind aufmerksam, beweglich und hervorragend an das Leben in abwechslungsreichen Landschaften angepasst.",
+      "headline": "Symbol ursprünglicher Natur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261011_MouflonAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Europ%c3%a4isches+Mufflon&form=BGABWCTA7&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Europ%c3%a4isches+Mufflon&form=BGABWCTA11&filters=HpDate:\"20261010_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261010",
       "fullstartdate": "20261010",
       "enddate": "20261011",
