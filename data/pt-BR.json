@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "https://www.bing.com/th?id=OHR.KidsDay_PT-BR1347488359_UHD.jpg",
+      "copyrighttext": "© Ricardo Lima/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=dia+criancas&form=BGALM&filters=HpDate:\"20261012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Brinquedos tradicionais de miriti expostos durante o Círio de Nazaré em Belém, Pará",
+      "description": "Barcos que não precisam de rio, pássaros que não precisam de céu e aviões que partem de qualquer lugar. Em Belém, brinquedos de miriti transformam a infância numa pequena frota de aventuras. Feitos com a madeira leve do miritizeiro e pintados em cores vibrantes, eles surgem como peixes, bonecos, animais, embarcações e cenas do cotidiano e ganham destaque durante o Círio de Nazaré. Segundo relatos locais, esses brinquedos acompanham a festa desde sua primeira procissão, em 1793, muitos deles carregados por promesseiros como agradecimento por graças alcançadas.",
+      "headline": "Um mundo de miriti",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_KidsDay\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=dia+criancas&form=BGABWCTA7&filters=HpDate:\"20261012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=dia+criancas&form=BGABWCTA11&filters=HpDate:\"20261012_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",

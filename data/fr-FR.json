@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg",
+      "copyrighttext": "© Helen Hotson/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Jet%c3%a9e+de+Mumbles+Pays+de+Galles&form=BGALM&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Jetée de Mumbles, Swansea, Pays de Galles",
+      "description": "En 1807, une locomotive à vapeur tirait des wagons le long de la baie de Swansea, au Pays de Galles — c'était le tout premier service ferroviaire régulier de passagers au monde. Ce chemin de fer légendaire, la Swansea and Mumbles Railway, avait pour terminus occidental la jetée de Mumbles, inaugurée le 10 mai 1898 et qui s'avance encore aujourd'hui sur 255 mètres dans la mer.",
+      "headline": "Entre rails et marées",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_MumblesSwansea2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.5755,-4.001746/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.5755,-4.001746;S9;Mumbles, Swansea, Pays de Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jet%c3%a9e+de+Mumbles+Pays+de+Galles&form=BGABWCTA7&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jet%c3%a9e+de+Mumbles+Pays+de+Galles&form=BGABWCTA11&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",

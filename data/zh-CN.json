@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg",
+      "copyrighttext": "© Helen Hotson/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%9b%bc%e5%b8%83%e5%b0%94%e6%96%af%e7%a0%81%e5%a4%b4&form=BGALM&filters=HpDate:\"20261011_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "曼布尔斯码头，斯旺西，威尔士",
+      "description": "当铁路、救生艇站和海滨一日游在水边相遇，会得到什么？答案是曼布尔斯码头。这座维多利亚时代的地标向斯旺西湾延伸255米，于1898年5月10日开放，自此一直是威尔士海岸的一部分。",
+      "headline": "从铁轨到潮汐",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_MumblesSwansea2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 10月 12",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%9b%bc%e5%b8%83%e5%b0%94%e6%96%af%e7%a0%81%e5%a4%b4&form=BGABWCTA7&filters=HpDate:\"20261011_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a8%81%e5%b0%94%e5%a3%ab%e6%9b%bc%e5%b8%83%e5%b0%94%e6%96%af%e7%a0%81%e5%a4%b4&form=BGABWCTA11&filters=HpDate:\"20261011_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",

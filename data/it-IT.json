@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_IT-IT0315747519_UHD.jpg",
+      "copyrighttext": "© Helen Hotson/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Galles&form=BGALM&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Il pontile di Mumbles, Swansea, Galles",
+      "description": "Il pontile di Mumbles si allunga sul mare a Swansea, in Galles, ed è una di quelle strutture vittoriane in ferro che raccontano un'epoca intera. Inaugurato nel 1898 e lungo circa 255 metri, fu costruito per attirare i turisti al capolinea di una ferrovia che detiene un piccolo record mondiale: la linea Swansea-Mumbles trasportò passeggeri paganti già dal 1807, trainata da cavalli, e chiuse solo nel 1960.",
+      "headline": "Un molo sulla baia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_MumblesSwansea2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.56909,-3.985958/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=51.56909,-3.985958;S9;Mumbles, Swansea, Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 ottobre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Galles&form=BGABWCTA7&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Galles&form=BGABWCTA11&filters=HpDate:\"20261011_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg",
+      "copyrighttext": "© markes51/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%99%e3%83%8b%e3%82%b3%e3%83%b3%e3%82%b4%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b3&form=BGALM&filters=HpDate:\"20261011_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ベニコンゴウインコのペア",
+      "description": "ベニコンゴウインコは、主に南米大陸北部の森林に分布している鳥です。鮮やかな赤い体色に緑や青色の入った美しい翼で知られています。全長は 90 ～ 95cm ほどで、コンゴウインコ類の中でも最大級の大きさを誇ります。また、一夫一婦制の習性があり、ほとんどの場合つがいの関係は一生続くとされています。さらに、鳥類の中でも高い知能をもち、状況によって異なる鳴き声を発するなど、豊かなコミュニケーション能力を備えています。",
+      "headline": "熱帯の森を舞う極彩色の鳥たち",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_RedMacawsFlight\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 12 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%99%e3%83%8b%e3%82%b3%e3%83%b3%e3%82%b4%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b3&form=BGABWCTA7&filters=HpDate:\"20261011_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%99%e3%83%8b%e3%82%b3%e3%83%b3%e3%82%b4%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b3&form=BGABWCTA11&filters=HpDate:\"20261011_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",

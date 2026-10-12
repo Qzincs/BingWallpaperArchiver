@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "https://www.bing.com/th?id=OHR.HeartLakeTG_EN-CA2157233427_UHD.jpg",
+      "copyrighttext": "© SEBASTIEN ST-JEAN/Contributor/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Canadian+Thanksgiving&form=BGALM&filters=HpDate:\"20261012_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Baker Lake near East Bolton, Quebec",
+      "description": "Pull up a chair, pass the pie and make some room for gratitude. Thanksgiving in Canada has a story that goes back much further than the holiday table. This holiday is rooted in harvest traditions, with people gathering to give thanks. Its history is not tied to one single event, although an early celebration is associated with English explorer Martin Frobisher. In 1578, after his expedition made a safe passage across the Atlantic and reached what is now Nunavut, Frobisher held a celebratory feast. Over time, Thanksgiving evolved into a national holiday centred on the harvest and spending time with loved ones.",
+      "headline": "Hearts filled with gratitude",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_HeartLakeTG\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 12, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Canadian+Thanksgiving&form=BGABWCTA7&filters=HpDate:\"20261012_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Canadian+Thanksgiving&form=BGABWCTA11&filters=HpDate:\"20261012_0400\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",
