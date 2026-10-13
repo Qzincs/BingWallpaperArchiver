@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261013",
+      "fullstartdate": "20261013",
+      "enddate": "20261014",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_PT-BR4568960471_UHD.jpg",
+      "copyrighttext": "© Jan Wlodarczyk/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+dos+Lagos+de+Plitvice&form=BGALM&filters=HpDate:\"20261013_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Parque Nacional dos Lagos de Plitvice, Croácia",
+      "description": "Em Plitvice, na Croácia, a água nunca descansa em seu projeto de paisagismo. Dezesseis lagos em diferentes níveis são ligados por cachoeiras, riachos e pequenas quedas-d’água que atravessam cânions cobertos pela floresta. Os tons variam do verde-esmeralda ao azul profundo, influenciados pelos minerais dissolvidos, pela luz e pelos reflexos que mudam o tempo todo.",
+      "headline": "A sinfonia das cachoeiras",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261013_PlitviceAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+dos+Lagos+de+Plitvice&form=BGABWCTA7&filters=HpDate:\"20261013_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+dos+Lagos+de+Plitvice&form=BGABWCTA11&filters=HpDate:\"20261013_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261012",
       "fullstartdate": "20261012",
       "enddate": "20261013",

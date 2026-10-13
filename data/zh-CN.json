@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261013",
+      "fullstartdate": "20261013",
+      "enddate": "20261014",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg",
+      "copyrighttext": "© Jan Wlodarczyk/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96%e7%be%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20261012_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "普利特维采湖群国家公园，克罗地亚",
+      "description": "在克罗地亚的普利特维采湖群国家公园，水似乎无处不在。十六个阶梯状湖泊由瀑布、溪流和层叠而下的水流组成的网络连接起来，蜿蜒穿过森林覆盖的石灰岩峡谷。湖水的颜色不断变化，从翠绿到深蓝不等，这是由矿物质、阳光和不断变化的倒影共同造就的。普利特维采湖群国家公园成立于1949年，是克罗地亚历史最悠久、面积最大的国家公园。这里以石灰华屏障闻名，这种天然石灰岩构造是富含矿物质的水在数百年间沉积碳酸钙形成的。这些屏障仍在继续生长和变化，逐渐改变着公园内的瀑布和湖泊。",
+      "headline": "蓝与绿的交响曲",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261013_PlitviceAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 10月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96%e7%be%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20261012_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%99%ae%e5%88%a9%e7%89%b9%e7%bb%b4%e9%87%87%e6%b9%96%e7%be%a4%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20261012_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261012",
       "fullstartdate": "20261012",
       "enddate": "20261013",

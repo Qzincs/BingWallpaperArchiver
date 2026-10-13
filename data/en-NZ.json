@@ -1,6 +1,162 @@
 {
   "images": [
     {
+      "startdate": "20261013",
+      "fullstartdate": "20261013",
+      "enddate": "20261014",
+      "urlbase": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg",
+      "copyrighttext": "© Jan Wlodarczyk/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=BGALM&filters=HpDate:\"20261013_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Plitvice Lakes National Park, Croatia",
+      "description": "Water seems to be everywhere at Plitvice Lakes National Park in Croatia. Sixteen terraced lakes are linked by a network of waterfalls, streams and cascades that wind through forested limestone canyons. The constantly changing colours of the water, ranging from emerald green to deep blue, are shaped by minerals, sunlight and ever-changing reflections. Established in 1949, Plitvice Lakes is Croatia's oldest and largest national park. The landscape is famous for its tufa barriers, natural limestone formations created as mineral-rich water deposits calcium carbonate over centuries. These barriers continue to grow and change, gradually transforming the park's waterfalls and lakes.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261013_PlitviceAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 13, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=BGABWCTA7&filters=HpDate:\"20261013_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Plitvice+Lakes+National+Park&form=BGABWCTA11&filters=HpDate:\"20261013_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20261012",
+      "fullstartdate": "20261012",
+      "enddate": "20261013",
+      "urlbase": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_ROW0047867144_UHD.jpg",
+      "copyrighttext": "© Helen Hotson/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Mumbles+Pier+Wales&form=BGALM&filters=HpDate:\"20261012_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Mumbles Pier, Swansea, Wales",
+      "description": "What do you get when a railway, a lifeboat station and a seaside day out meet at the water's edge? Mumbles Pier. Stretching 255 metres into Swansea Bay, this Victorian landmark opened on 10 May 1898 and has been part of the Welsh coast ever since.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261012_MumblesSwansea2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 12, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mumbles+Pier+Wales&form=BGABWCTA7&filters=HpDate:\"20261012_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mumbles+Pier+Wales&form=BGABWCTA11&filters=HpDate:\"20261012_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261011",
       "fullstartdate": "20261011",
       "enddate": "20261012",
