@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261014",
+      "fullstartdate": "20261014",
+      "enddate": "20261015",
+      "urlbase": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg",
+      "copyrighttext": "© J Nemchinova/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=le+Jurassique&form=BGALM&filters=HpDate:\"20261013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fossiles d'ammonites du Jurassique",
+      "description": "Comment savoir à quoi ressemblait la Terre bien avant l'apparition des humains ? Les fossiles nous répondent. Ces fragments du passé préservent des instantanés de mondes disparus — des dinosaures aux minuscules organismes marins — et permettent aux scientifiques de reconstituer des environnements vieux de millions d'années.",
+      "headline": "Le temps pris dans la pierre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_AmmoniteFossils\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=le+Jurassique&form=BGABWCTA7&filters=HpDate:\"20261013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=le+Jurassique&form=BGABWCTA11&filters=HpDate:\"20261013_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261013",
       "fullstartdate": "20261013",
       "enddate": "20261014",

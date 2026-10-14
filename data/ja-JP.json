@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261014",
+      "fullstartdate": "20261014",
+      "enddate": "20261015",
+      "urlbase": "https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg",
+      "copyrighttext": "© giggsy25/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e9%89%84%e9%81%93%e3%81%ae%e6%97%a5&form=BGALM&filters=HpDate:\"20261013_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "嵯峨野トロッコ列車, 京都府京都市",
+      "description": "10 月 14 日は「鉄道の日」。1872年の今日、初代新橋駅〜横浜駅（現 桜木町駅）間で日本初の鉄道が正式に開業したことにちなみ、1994 年に運輸省（現 国土交通省）が定めました。そして、今日の画像は京都・嵐山を走るトロッコ列車。秋の嵐山では、色づいた山々の間を嵯峨野トロッコ列車がゆっくりと走り抜けます。渓谷を流れる保津川と紅葉が織りなす風景は、多くの人々を魅了する秋の風物詩となっています。",
+      "headline": "今日は鉄道の日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261014_RailwayDay2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.009881,135.666763/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.009881,135.666763;S9;嵐山&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261014_RailwayDay2026 %22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 14 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e4%ba%ac%e9%83%bd%e5%ba%9c%e4%ba%ac%e9%83%bd%e5%b8%82+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e9%89%84%e9%81%93%e3%81%ae%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20261013_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e9%89%84%e9%81%93%e3%81%ae%e6%97%a5&form=BGABWCTA11&filters=HpDate:\"20261013_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261013",
       "fullstartdate": "20261013",
       "enddate": "20261014",
