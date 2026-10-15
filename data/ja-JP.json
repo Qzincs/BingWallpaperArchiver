@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261015",
+      "fullstartdate": "20261015",
+      "enddate": "20261016",
+      "urlbase": "https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg",
+      "copyrighttext": "© Piotr Mitelski/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%b4%e3%83%ad%e3%83%84%e3%83%af%e3%83%95&form=BGALM&filters=HpDate:\"20261014_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ヴロツワフ, ポーランド",
+      "description": "夕暮れ時になると、ヴロツワフの歴史ある街並みが黄金色の光に包まれます。ポーランド南西部に位置するこの都市は、同国で最も古い都市の一つです。100 以上の橋で結ばれた水の都として知られ、中世の面影と現代の活気が調和しています。中心部には、13 世紀に開かれたリネク広場と旧市庁舎があり、多くの人でにぎわいます。画像は、聖マリア・マグダレーナ教会の「魔女の橋」から望んだ眺めです。旧市街や広場を一望でき、やわらかな灯りに照らされた街の幻想的な美しさを楽しむことができます。",
+      "headline": "黄金色に輝く旧市街",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261015_WroclawPoland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.10977,17.034634/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=51.10977,17.034634;S9;ヴロツワフ, ポーランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261015_WroclawPoland%22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 15 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%9d%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%b4%e3%83%ad%e3%83%84%e3%83%af%e3%83%95&form=BGABWCTA7&filters=HpDate:\"20261014_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%b4%e3%83%ad%e3%83%84%e3%83%af%e3%83%95&form=BGABWCTA11&filters=HpDate:\"20261014_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261014",
       "fullstartdate": "20261014",
       "enddate": "20261015",
