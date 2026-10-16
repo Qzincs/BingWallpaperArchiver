@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261016",
+      "fullstartdate": "20261016",
+      "enddate": "20261017",
+      "urlbase": "https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg",
+      "copyrighttext": "© imageBROKER/Martin Moxter",
+      "copyrightlink": "https://www.bing.com/search?q=Kloster+Andechs&form=BGALM&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kloster Andechs bei Sonnenuntergang, Andechs, Bayern",
+      "description": "Andechs in Oberbayern verbindet weite Ausblicke mit einer langen Geschichte. Hoch auf dem Heiligen Berg thront das Kloster Andechs, ein Wallfahrtsort, zu dem Menschen bereits seit dem 12. Jahrhundert pilgern. Das Benediktinerkloster selbst wurde 1455 gegründet. Seitdem betreuen Benediktiner die Wallfahrt. Die religiösen Wurzeln des Berges sind jedoch noch älter: Der dort verwahrte Reliquienschatz reicht bis ins 10. Jahrhundert zurück.",
+      "headline": "Hoch über Bayern",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_AndechsAbbey\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.974493,11.182802/9?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.974493,11.182802;S9;Kloster Andechs, Bayern&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Kloster+Andechs&form=BGABWCTA7&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Kloster+Andechs&form=BGABWCTA11&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261015",
       "fullstartdate": "20261015",
       "enddate": "20261016",

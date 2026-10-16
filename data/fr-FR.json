@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261016",
+      "fullstartdate": "20261016",
+      "enddate": "20261017",
+      "urlbase": "https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_UHD.jpg",
+      "copyrighttext": "© lightphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=BGALM&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Le mont Sneffels dans les montagnes San Juan, près de Ridgway, Colorado, États-Unis",
+      "description": "Certains sommets se méritent avant de dévoiler leur panorama. Le mont Sneffels, lui, concentre son ultime défi dans les dernières centaines de mètres. Culminant à 4 313 mètres dans les monts San Juan, au Colorado (États-Unis), ce géant domine les paysages de Ridgway, Ouray et Telluride. Il s’élève au cœur des 6 713 hectares de la Mount Sneffels Wilderness, territoire protégé depuis 1980. Plusieurs itinéraires permettent de l’approcher, notamment par Yankee Boy Basin ou depuis le secteur des Blue Lakes.",
+      "headline": "En haut du Colorado",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_SneffelsAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.00354,-107.792695/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=38.00354,-107.792695;S9;Mont Sneffels, Colorado, États-Unis&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=BGABWCTA7&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Mont+Sneffels+Colorado+%c3%89tats-Unis&form=BGABWCTA11&filters=HpDate:\"20261015_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261015",
       "fullstartdate": "20261015",
       "enddate": "20261016",

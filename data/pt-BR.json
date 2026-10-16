@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261016",
+      "fullstartdate": "20261016",
+      "enddate": "20261017",
+      "urlbase": "https://www.bing.com/th?id=OHR.Veadeiros_PT-BR0644976929_UHD.jpg",
+      "copyrighttext": "© Roberto Kenji/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Chapada+dos+Veadeiros&form=BGALM&filters=HpDate:\"20261016_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Chapada dos Veadeiros, Goiás",
+      "description": "Se alguém dissesse que esta imagem mostra uma obra de arte abstrata, seria fácil acreditar. Mas o artista aqui é menos convencional: água corrente, toneladas de rocha e muito, muito tempo. No Parque Nacional da Chapada dos Veadeiros, em Goiás, a natureza passou milhões de anos esculpindo cânions e fendas que parecem desafiar a lógica da pedra. Gota após gota, corrente após corrente, a água desgasta a rocha e redesenha a paisagem, alimentando rios de águas cristalinas e cachoeiras que despencam por antigos paredões.",
+      "headline": "Correntes criativas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261016_Veadeiros\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chapada+dos+Veadeiros&form=BGABWCTA7&filters=HpDate:\"20261016_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chapada+dos+Veadeiros&form=BGABWCTA11&filters=HpDate:\"20261016_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261015",
       "fullstartdate": "20261015",
       "enddate": "20261016",
