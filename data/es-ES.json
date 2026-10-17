@@ -1,6 +1,54 @@
 {
   "images": [
     {
+      "startdate": "20261017",
+      "fullstartdate": "20261017",
+      "enddate": "20261018",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_115654445",
+      "copyrighttext": "© Danita Delimont/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Jasper%20National%20Park%2C%20Alberta%2C%20Canada&form=BGALM&bwtheme=SpecialOccasion",
+      "title": "Jasper National Park, Alberta, Canada",
+      "description": "Rocky Mountain Elk Herd",
+      "headline": "Jasper National Park, Alberta, Canada",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "https://www.bing.com/maps?&ty=18&q=Jasper%20National%20Park%2C%20Alberta%2C%20Canada&ss=ypid.YN1226x15143961807555184171&mb=52.883201~-118.087943~52.871999~-118.076828&description=Box%2010%2C%20Jasper%2C%20AB%2C%20Canada%2C%20Alberta%2C%20Jasper%20Alberta%20T0E%201E0&cardbg=%233DB838&dt=1737666000000&tt=Jasper%20National%20Park&tsts9=%2526ty%253D18%2526q%253DJasper%252520National%252520Park%25252C%252520Alberta%25252C%252520Canada%2526ss%253Dypid.YN1226x15143961807555184171%2526mb%253D52.883201~-118.087943~52.871999~-118.076828%2526description%253DBox%25252010%25252C%252520Jasper%25252C%252520AB%25252C%252520Canada%25252C%252520Alberta%25252C%252520Jasper%252520Alberta%252520T0E%2525201E0%2526cardbg%253D%2525233DB838%2526dt%253D1737666000000&tstt9=Jasper%20National%20Park&cp=52.8776~-118.092856&lvl=16&pi=0&ftst=9&ftics=True&v=2&sV=2&form=BGAM",
+        "Link": "https://www.bing.com/maps?&ty=18&q=Jasper%20National%20Park%2C%20Alberta%2C%20Canada&ss=ypid.YN1226x15143961807555184171&mb=52.883201~-118.087943~52.871999~-118.076828&description=Box%2010%2C%20Jasper%2C%20AB%2C%20Canada%2C%20Alberta%2C%20Jasper%20Alberta%20T0E%201E0&cardbg=%233DB838&dt=1737666000000&tt=Jasper%20National%20Park&tsts9=%2526ty%253D18%2526q%253DJasper%252520National%252520Park%25252C%252520Alberta%25252C%252520Canada%2526ss%253Dypid.YN1226x15143961807555184171%2526mb%253D52.883201~-118.087943~52.871999~-118.076828%2526description%253DBox%25252010%25252C%252520Jasper%25252C%252520AB%25252C%252520Canada%25252C%252520Alberta%25252C%252520Jasper%252520Alberta%252520T0E%2525201E0%2526cardbg%253D%2525233DB838%2526dt%253D1737666000000&tstt9=Jasper%20National%20Park&cp=52.8776~-118.092856&lvl=16&pi=0&ftst=9&ftics=True&v=2&sV=2&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "17 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=Trip+to+Jasper+National+Park%2c+Alberta%2c+Canada&filters=destinationcampaign:true&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jasper%20National%20Park%2C%20Alberta%2C%20Canada&form=BGABWCTA7&bwtheme=SpecialOccasion"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": null,
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261016",
       "fullstartdate": "20261016",
       "enddate": "20261017",
