@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261018",
+      "fullstartdate": "20261018",
+      "enddate": "20261019",
+      "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_PT-BR0887027747_UHD.jpg",
+      "copyrighttext": "© joe daniel price/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=BGALM&filters=HpDate:\"20261018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Castelo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), País de Gales",
+      "description": "Hoje tem parabéns no País de Gales: o Parque Nacional de Eryri completa 75 anos. Eryri é o nome galês oficial; Snowdonia, o antigo nome em inglês. Criado em 1951, o parque não perdeu tempo para impressionar. São mais de 2 mil km² de montanhas, turfeiras, bosques nativos e litoral, reunindo nove cadeias montanhosas e mais de cem quilômetros de costa. No topo da conversa está Yr Wyddfa, com mais de mil metros de altitude. Por perto vêm os maciços de Carneddau e Glyderau; ao sul, Cadair Idris também faz questão de aparecer.",
+      "headline": "Onde o tempo perde altitude",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_DolbadarnWales\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=BGABWCTA7&filters=HpDate:\"20261018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+Eryri+Snowdonia+Pais+de+Gales&form=BGABWCTA11&filters=HpDate:\"20261018_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261017",
       "fullstartdate": "20261017",
       "enddate": "20261018",

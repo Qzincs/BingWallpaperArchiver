@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261018",
+      "fullstartdate": "20261018",
+      "enddate": "20261019",
+      "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_UHD.jpg",
+      "copyrighttext": "© joe daniel price/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=BGALM&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Château de Dolbadarn, Llanberis, Parc national d’Eryri (Snowdonia), Pays de Galles",
+      "description": "Si les parcs tenaient un journal d’anniversaire, celui d’Eryri (Snowdonia) aurait 75 ans d’histoire à raconter. Désigné parc national en 1951, ce territoire gallois s’étend sur environ 2 130 km² : neuf chaînes de montagnes, près de 119 km de côtes, des tourbières, des bois indigènes et de vastes terres d’altitude. À 1 085 mètres d’altitude s’élève Yr Wyddfa, son sommet emblématique, entouré des reliefs des Carneddau et des Glyderau, tandis que Cadair Idris domine le sud. Cette mosaïque d’habitats abrite 17 réserves naturelles nationales et 56 sites d’intérêt scientifique particulier.",
+      "headline": "75 ans et rayonnant",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_DolbadarnWales\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.927253,-4.077652/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.927253,-4.077652;S9;Parc national d’Eryri, Pays de Galles&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=BGABWCTA7&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=parc+Eryri+Pays+de+Galles&form=BGABWCTA11&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261017",
       "fullstartdate": "20261017",
       "enddate": "20261018",

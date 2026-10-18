@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261018",
+      "fullstartdate": "20261018",
+      "enddate": "20261019",
+      "urlbase": "https://www.bing.com/th?id=OHR.DolbadarnWales_ES-ES3329263701_UHD.jpg",
+      "copyrighttext": "© joe daniel price/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=BGALM&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Castillo de Dolbadarn, Llanberis, Parque Nacional de Eryri (Snowdonia), Gales",
+      "description": "El castillo de Dolbadarn vigila el paso de Llanberis, en el Parque Nacional de Eryri (Snowdonia), en Gales, encajado entre los lagos Padarn y Peris. Lo levantó a comienzos del siglo XIII Llywelyn el Grande, príncipe de Gwynedd, y no era una fortaleza cualquiera: controlaba la ruta interior que unía la costa con el corazón del reino galés.",
+      "headline": "La torre de los príncipes",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_DolbadarnWales\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.121674,-4.127404/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=53.121674,-4.127404;S9;Llanberis, Eryri (Snowdonia), Gales&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=BGABWCTA7&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Castillo+de+Dolbadarn&form=BGABWCTA11&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261017",
       "fullstartdate": "20261017",
       "enddate": "20261018",

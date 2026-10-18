@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261018",
+      "fullstartdate": "20261018",
+      "enddate": "20261019",
+      "urlbase": "https://www.bing.com/th?id=OHR.ValdiFunesDolomite_IT-IT2572646672_UHD.jpg",
+      "copyrighttext": "© Achim Thomae/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=La+Val+di+Funes&form=BGALM&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "La Val di Funes, Bolzano, Trentino-Alto Adige, Italia",
+      "description": "La Val di Funes, in provincia di Bolzano (Trentino-Alto Adige, Italia), è una di quelle valli che si nascondono bene: si stacca dalla Valle Isarco attraverso una gola strettissima e si apre solo dopo, per ventiquattro chilometri di prati, boschi e masi appesi ai versanti.",
+      "headline": "Il segreto delle Dolomiti",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261018_ValdiFunesDolomite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.657829,11.92385/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=46.657829,11.92385;S9;Bolzano, Trentino-Alto Adige, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 ottobre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=La+Val+di+Funes&form=BGABWCTA7&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=La+Val+di+Funes&form=BGABWCTA11&filters=HpDate:\"20261017_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261017",
       "fullstartdate": "20261017",
       "enddate": "20261018",
