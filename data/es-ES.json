@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261019",
+      "fullstartdate": "20261019",
+      "enddate": "20261020",
+      "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_ES-ES2930999770_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Venecia&form=BGALM&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Amanecer sobre el Gran Canal, Venecia, Italia",
+      "description": "Al amanecer, el Gran Canal de Venecia (Italia) es otra ciudad. Sin el tráfico del día, la vía principal de la ciudad se queda en silencio y solo la cruzan algunas barcas de reparto y los primeros vaporetti, mientras la luz baja enciende las fachadas de los palacios. Ese canal en forma de «S» recorre unos cuatro kilómetros y funciona desde hace siglos como la gran avenida veneciana. Por eso las familias más poderosas construyeron mirando al agua: sus casas tenían la entrada principal en el muelle, no en la calle, y todavía hoy se distingue el orden de sus puertas y ventanas sobre la superficie.",
+      "headline": "Amanecer sobre el agua",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.43541,12.327873/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=45.43541,12.327873;S9;Venecia, Italia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Venecia&form=BGABWCTA7&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Venecia&form=BGABWCTA11&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261018",
       "fullstartdate": "20261018",
       "enddate": "20261019",

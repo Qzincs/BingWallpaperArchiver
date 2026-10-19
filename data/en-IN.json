@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261019",
+      "fullstartdate": "20261019",
+      "enddate": "20261020",
+      "urlbase": "https://www.bing.com/th?id=OHR.MahaNavami2026_EN-IN6653933239_UHD.jpg",
+      "copyrighttext": "© shouvik mondal/iStock/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Maha+Navami&form=BGALM&filters=HpDate:\"20261018_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Goddess Durga idol in a pandal",
+      "description": "Nine days of devotion, nine forms of Durga and one powerful finale—Maha Navami brings Navratri to its most intense stretch. Observed on the ninth day, it celebrates Goddess Durga's victory over the buffalo demon Mahishasura, earning her the name Mahishasuramardini, or slayer of Mahishasura. The day is also dedicated to Maa Siddhidatri, the ninth form of Navadurga, who is associated with spiritual powers and blessings.",
+      "headline": "When Shakti rises",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_MahaNavami2026\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 19, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Maha+Navami&form=BGABWCTA7&filters=HpDate:\"20261018_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Maha+Navami&form=BGABWCTA11&filters=HpDate:\"20261018_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261018",
       "fullstartdate": "20261018",
       "enddate": "20261019",

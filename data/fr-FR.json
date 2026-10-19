@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261019",
+      "fullstartdate": "20261019",
+      "enddate": "20261020",
+      "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_FR-FR4230208455_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Grand+Canal+Venise&form=BGALM&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Le Grand Canal à Venise, Italie",
+      "description": "Et si l’une des artères les plus animées d’une ville n’avait pas de chaussée ? À Venise, en Italie, la circulation glisse sur le Grand Canal, un ruban d’eau d’environ 3,8 kilomètres qui dessine un immense S. Surnommé « Canalazzo » par les Vénitiens, il accueille vaporetti, taxis nautiques, gondoles et bateaux de police. Son tracé suit celui d’une ancienne rivière qui se jetait autrefois dans la lagune.",
+      "headline": "Des routes qui éclaboussent",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.435337,12.32783/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=45.435337,12.32783;S9;Le Grand Canal à Venise, Italie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grand+Canal+Venise&form=BGABWCTA7&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grand+Canal+Venise&form=BGABWCTA11&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261018",
       "fullstartdate": "20261018",
       "enddate": "20261019",

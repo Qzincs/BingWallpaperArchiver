@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261019",
+      "fullstartdate": "20261019",
+      "enddate": "20261020",
+      "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Canal+Grande&form=BGALM&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Canal Grande in Venedig, Italien",
+      "description": "Mitten durch Venedig zieht sich eine Wasserstraße, auf der das Leben niemals stillsteht. Der rund 3,8 Kilometer lange Canal Grande schlängelt sich in Form eines umgekehrten S durch die Lagunenstadt. Von den Venezianern auch Canalazzo genannt, dient er als wichtigste Verkehrsader. Vaporetti, Wassertaxis, Gondeln, Polizeiboote und viele weitere Boote sind hier täglich unterwegs.",
+      "headline": "Die Straße, die übers Wasser führt",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/45.435337,12.32783/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=45.435337,12.32783;S9;Canal Grande, Venedig, Italien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Canal+Grande&form=BGABWCTA7&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Canal+Grande&form=BGABWCTA11&filters=HpDate:\"20261018_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261018",
       "fullstartdate": "20261018",
       "enddate": "20261019",

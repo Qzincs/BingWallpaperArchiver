@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261019",
+      "fullstartdate": "20261019",
+      "enddate": "20261020",
+      "urlbase": "https://www.bing.com/th?id=OHR.VeniceSunrise_PT-BR8365610239_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=BGALM&filters=HpDate:\"20261019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Grande Canal de Veneza, Itália",
+      "description": "Em Veneza, na Itália, a avenida principal dispensa carros, ônibus e até faixa de pedestres. É o Grande Canal, uma serpente de água com cerca de 4 quilômetros de extensão e profundidade média de 5 metros que atravessa a cidade e concentra boa parte do seu tráfego. Por ele passam táxis e ônibus aquáticos, gôndolas, barcos da polícia e outras embarcações. O canal segue o curso de um antigo rio que desembocava na Lagoa de Veneza.",
+      "headline": "Quando a água vira caminho",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261019_VeniceSunrise\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "19 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=BGABWCTA7&filters=HpDate:\"20261019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grande+Canal+de+Veneza&form=BGABWCTA11&filters=HpDate:\"20261019_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261018",
       "fullstartdate": "20261018",
       "enddate": "20261019",
