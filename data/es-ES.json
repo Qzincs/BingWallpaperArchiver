@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261020",
+      "fullstartdate": "20261020",
+      "enddate": "20261021",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_ES-ES6810824751_UHD.jpg",
+      "copyrighttext": "© Suzi Eszterhas/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Perezoso+de+tres+dedos&form=BGALM&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Perezoso de tres dedos de garganta marrón joven, Puerto Viejo de Talamanca, Costa Rica",
+      "description": "Este perezoso de tres dedos, fotografiado en Puerto Viejo de Talamanca (Costa Rica), no es un animal perezoso: es un animal eficiente. Su dieta se basa en hojas, un alimento pobre en energía y difícil de digerir, así que ha resuelto el problema por el otro extremo, gastando lo mínimo. Se mueve despacio, duerme mucho y digiere durante días.",
+      "headline": "La lentitud como estrategia",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.65531,-82.755699/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=9.65531,-82.755699;S9;Puerto Viejo de Talamanca, Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Perezoso+de+tres+dedos&form=BGABWCTA7&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Perezoso+de+tres+dedos&form=BGABWCTA11&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261019",
       "fullstartdate": "20261019",
       "enddate": "20261020",

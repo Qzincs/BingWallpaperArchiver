@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261020",
+      "fullstartdate": "20261020",
+      "enddate": "20261021",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg",
+      "copyrighttext": "© Suzi Eszterhas/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+paresseux&form=BGALM&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Paresseux à gorge brune, Puerto Viejo de Talamanca, Costa Rica",
+      "description": "Lentement mais sûrement… Le paresseux à gorge brune semble bien avoir renoncé à toute idée de course. À l’occasion de la Journée internationale du paresseux, ce mammifère à trois doigts nous souffle une autre façon d’avancer : économiser son énergie, s’accrocher et savourer le temps.",
+      "headline": "La vie au ralenti",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.65531,-82.755699/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=9.65531,-82.755699;S9;Puerto Viejo de Talamanca, Limón, Costa Rica&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+paresseux&form=BGABWCTA7&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+internationale+du+paresseux&form=BGABWCTA11&filters=HpDate:\"20261019_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261019",
       "fullstartdate": "20261019",
       "enddate": "20261020",

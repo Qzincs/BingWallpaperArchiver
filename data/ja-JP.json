@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261020",
+      "fullstartdate": "20261020",
+      "enddate": "20261021",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg",
+      "copyrighttext": "© Suzi Eszterhas/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%bb%8a%e6%97%a5%e3%81%af%e5%9b%bd%e9%9a%9b%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e%e3%81%ae%e6%97%a5&form=BGALM&filters=HpDate:\"20261019_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "木の枝にぶら下がるナマケモノ, コスタリカ",
+      "description": "今日の画像は、ゆったりとした動作が特徴のナマケモノ。中南米の森林に生息し、生活のほとんどを樹上で過ごします。地上での動きはとても遅いものの、実は泳ぐのが得意という特徴があり、地上よりも数倍速く動くことが可能です。また、毛に藻が生えることがあるものの、その緑色が天敵から身を隠す保護色の役割を果たします。さらに、その毛には「ナマケモノガ」と呼ばれる蛾の仲間など、さまざまな生物も暮らしており、独自の「微小生態系」が形成されています。",
+      "headline": "木の枝にぶら下がるナマケモノ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/9.65531,-82.755699/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=9.65531,-82.755699;S9;プエルトビエホ, リモン, コスタリカ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261020_BrownSloth%22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 20 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%82%b3%e3%82%b9%e3%82%bf%e3%83%aa%e3%82%ab+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%bb%8a%e6%97%a5%e3%81%af%e5%9b%bd%e9%9a%9b%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e%e3%81%ae%e6%97%a5&form=BGABWCTA7&filters=HpDate:\"20261019_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%bb%8a%e6%97%a5%e3%81%af%e5%9b%bd%e9%9a%9b%e3%83%8a%e3%83%9e%e3%82%b1%e3%83%a2%e3%83%8e%e3%81%ae%e6%97%a5&form=BGABWCTA11&filters=HpDate:\"20261019_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261019",
       "fullstartdate": "20261019",
       "enddate": "20261020",
