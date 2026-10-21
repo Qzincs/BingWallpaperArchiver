@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261021",
+      "fullstartdate": "20261021",
+      "enddate": "20261022",
+      "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_IT-IT3479546401_UHD.jpg",
+      "copyrighttext": "© VU PHAM VAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=fiume+dei+Profumi+Hue&form=BGALM&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ponte Nguyễn Hoàng sul fiume dei Profumi, Hue, Vietnam",
+      "description": "Il ponte Nguyễn Hoàng attraversa il fiume dei Profumi a Hue, in Vietnam, ed è un'aggiunta molto recente al paesaggio: è stato aperto al traffico nel marzo del 2025. Misura 380 metri di lunghezza e 43 di larghezza, e il suo progetto è uscito da un concorso internazionale vinto da un architetto finlandese.",
+      "headline": "Un ponte appena nato",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/16.455292,107.55998/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=16.455292,107.55998;S9;Hue, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 ottobre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=fiume+dei+Profumi+Hue&form=BGABWCTA7&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=fiume+dei+Profumi+Hue&form=BGABWCTA11&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261020",
       "fullstartdate": "20261020",
       "enddate": "20261021",

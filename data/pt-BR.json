@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261021",
+      "fullstartdate": "20261021",
+      "enddate": "20261022",
+      "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_PT-BR8870725479_UHD.jpg",
+      "copyrighttext": "© VU PHAM VAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=hue+no+vietna&form=BGALM&filters=HpDate:\"20261021_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ponte Nguyen Hoang sobre o Rio Perfume, Hue, Vietnã",
+      "description": "Em Hue, no Vietnã, esta ponte faz mais do que ligar margens. Ela transforma uma lenda em paisagem. Em 1601, o governante Nguyen Hoang ouviu a história de uma mulher misteriosa que teria aparecido às margens do rio Perfume anunciando que um grande líder construiria ali um templo budista. Ele levou o recado a sério e mandou erguer o Pagode Thien Mu, que ainda hoje domina a paisagem.",
+      "headline": "O voo que virou ponte",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=hue+no+vietna&form=BGABWCTA7&filters=HpDate:\"20261021_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=hue+no+vietna&form=BGABWCTA11&filters=HpDate:\"20261021_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261020",
       "fullstartdate": "20261020",
       "enddate": "20261021",

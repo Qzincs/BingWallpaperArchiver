@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261021",
+      "fullstartdate": "20261021",
+      "enddate": "20261022",
+      "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg",
+      "copyrighttext": "© VU PHAM VAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Hu%c3%a9+Vietnam&form=BGALM&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Le pont Nguyen Hoang sur la rivière des Parfums, Hué, Vietnam",
+      "description": "À Hué, au Vietnam, passé et avenir se rejoignent au-dessus de la rivière des Parfums. Ouvert à la circulation le 26 mars 2025, le pont Nguyen Hoang redessine l’horizon de la ville. Son concept, « La grue tournée vers Thien Mu », s’inspire d’une légende locale et de la célèbre pagode voisine.",
+      "headline": "Vol au-dessus de la rivière",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/16.455292,107.55998/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=16.455292,107.55998;S9;Pont Nguyen Hoang, Hué, Vietnam&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Hu%c3%a9+Vietnam&form=BGABWCTA7&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Hu%c3%a9+Vietnam&form=BGABWCTA11&filters=HpDate:\"20261020_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261020",
       "fullstartdate": "20261020",
       "enddate": "20261021",

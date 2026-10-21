@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261021",
+      "fullstartdate": "20261021",
+      "enddate": "20261022",
+      "urlbase": "https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg",
+      "copyrighttext": "© VU PHAM VAN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b0%e3%82%a8%e3%83%b3%e3%83%bb%e3%83%9b%e3%82%a2%e3%83%b3%e6%a9%8b&form=BGALM&filters=HpDate:\"20261020_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "グエン・ホアン橋, ベトナム",
+      "description": "今日の画像は、ベトナム・フエ市の香水川に架かるグエン・ホアン橋。全長約 380m の近代的なアーチ橋で、フー・スアン区とトゥアン・ホア区を結んでいます。2025 年 3 月 26 日に開通したもので、自動車用の車線と歩道が整備されています。地域の重要な交通インフラであり、フエの文化を取り入れたデザインが特徴です。橋の照明は王宮の天蓋をイメージしてデザインされており、伝統と現代建築が調和した美しい景観を演出しています。",
+      "headline": "ライトアップされたアーチ橋",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261021_VietnamBridge\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/16.455292,107.55998/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=16.455292,107.55998;S9;グエン・ホアン橋, ベトナム&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261021_VietnamBridge%22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 21 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b0%e3%82%a8%e3%83%b3%e3%83%bb%e3%83%9b%e3%82%a2%e3%83%b3%e6%a9%8b&form=BGABWCTA7&filters=HpDate:\"20261020_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b0%e3%82%a8%e3%83%b3%e3%83%bb%e3%83%9b%e3%82%a2%e3%83%b3%e6%a9%8b&form=BGABWCTA11&filters=HpDate:\"20261020_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261020",
       "fullstartdate": "20261020",
       "enddate": "20261021",

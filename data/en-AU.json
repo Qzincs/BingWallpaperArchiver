@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261020",
+      "fullstartdate": "20261020",
+      "enddate": "20261021",
+      "urlbase": "https://www.bing.com/th?id=OHR.BrownSloth_ROW9869731535_UHD.jpg",
+      "copyrighttext": "© Suzi Eszterhas/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Brown+throated+sloth&form=BGALM&filters=HpDate:\"20261020_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica",
+      "description": "Slow and steady wins the race—and the brown-throated sloth seems perfectly happy to skip the race altogether. This three-toed mammal has a different approach to life: conserve energy, hang on and take your time.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261020_BrownSloth\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 20, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Brown+throated+sloth&form=BGABWCTA7&filters=HpDate:\"20261020_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Brown+throated+sloth&form=BGABWCTA11&filters=HpDate:\"20261020_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261019",
       "fullstartdate": "20261019",
       "enddate": "20261020",
