@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261022",
+      "fullstartdate": "20261022",
+      "enddate": "20261023",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaejangsanNP_IT-IT3718795886_UHD.jpg",
+      "copyrighttext": "© Twenty47studio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parco+nazionale+di+Naejangsan&form=BGALM&filters=HpDate:\"20261021_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Autunno nel Parco nazionale di Naejangsan, Corea del Sud",
+      "description": "Pochi luoghi della Corea del Sud raccontano l'autunno come il Parco nazionale di Naejangsan, nel sud-ovest del Paese, dove i versanti si accendono di scarlatto, arancione, giallo e oro. Il merito è degli aceri: il parco ne riunisce tredici varietà e il suo fogliame lo ha reso una delle mete autunnali più amate del Paese.",
+      "headline": "I colori di Naejangsan",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261022_NaejangsanNP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.481191,126.889374/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=35.481191,126.889374;S9;Parco nazionale di Naejangsan, Corea del Sud&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 ottobre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parco+nazionale+di+Naejangsan&form=BGABWCTA7&filters=HpDate:\"20261021_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parco+nazionale+di+Naejangsan&form=BGABWCTA11&filters=HpDate:\"20261021_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261021",
       "fullstartdate": "20261021",
       "enddate": "20261022",

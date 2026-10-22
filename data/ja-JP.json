@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261022",
+      "fullstartdate": "20261022",
+      "enddate": "20261023",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg",
+      "copyrighttext": "© Twenty47studio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%86%85%e8%94%b5%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20261021_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "内蔵山国立公園, 韓国",
+      "description": "ここは韓国南西部に位置する内蔵山（ネジャンサン）国立公園です。内蔵山は「内蔵九峰」と呼ばれる 9 つの峰からなり、その最高峰は標高 763m の神仙峰（シンソンボン）です。公園は韓国を代表する紅葉の名所として知られ、秋には山々が鮮やかに色づきます。「内蔵山」という名前には、「山の中に尽きることのない宝が隠されている」という意味が込められています。画像は、公園を象徴する風景のひとつとして親しまれている東屋、羽化亭（ウファジョン）です。",
+      "headline": "紅葉に彩られた東屋",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261022_NaejangsanNP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.481191,126.889374/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=35.481191,126.889374;S9;内蔵山国立公園, 韓国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261022_NaejangsanNP%22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 22 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e9%9f%93%e5%9b%bd+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%86%85%e8%94%b5%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA7&filters=HpDate:\"20261021_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%86%85%e8%94%b5%e5%b1%b1%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA11&filters=HpDate:\"20261021_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261021",
       "fullstartdate": "20261021",
       "enddate": "20261022",

@@ -1,6 +1,525 @@
 {
   "images": [
     {
+      "startdate": "20261022",
+      "fullstartdate": "20261022",
+      "enddate": "20261023",
+      "urlbase": "https://www.bing.com/th?id=OBGA.AdobeStock_121071103",
+      "copyrighttext": "© rabbitti/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Autumn+sunset+at+High+Point+State+Park%2c+New+Jersey&form=BGALM",
+      "title": "Autumn sunset at High Point State Park, New Jersey",
+      "description": "Blueberry bushes turn a beautiful vivid red in early autumn as the sun sets at the top of High Point State Park, New Jersey",
+      "headline": "Autumn sunset at High Point State Park, New Jersey",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&form=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Autumn+sunset+at+High+Point+State+Park%2c+New+Jersey&form=BGABWCTA7"
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 1358,
+            "Y": 1917,
+            "Width": 4033,
+            "Height": 1677,
+            "Label": "flower",
+            "ContourList": [],
+            "Contours": [
+              [
+                5399,
+                2842
+              ],
+              [
+                5312,
+                2819
+              ],
+              [
+                5376,
+                2805
+              ],
+              [
+                5346,
+                2770
+              ],
+              [
+                5265,
+                2766
+              ],
+              [
+                5306,
+                2734
+              ],
+              [
+                4599,
+                2571
+              ],
+              [
+                4585,
+                2545
+              ],
+              [
+                4662,
+                2523
+              ],
+              [
+                4626,
+                2492
+              ],
+              [
+                4742,
+                2439
+              ],
+              [
+                4758,
+                2354
+              ],
+              [
+                4597,
+                2111
+              ],
+              [
+                4535,
+                2199
+              ],
+              [
+                4576,
+                2200
+              ],
+              [
+                4553,
+                2302
+              ],
+              [
+                4517,
+                2297
+              ],
+              [
+                4571,
+                2340
+              ],
+              [
+                4547,
+                2385
+              ],
+              [
+                4473,
+                2383
+              ],
+              [
+                4469,
+                2467
+              ],
+              [
+                4326,
+                2494
+              ],
+              [
+                4410,
+                2411
+              ],
+              [
+                4413,
+                2298
+              ],
+              [
+                4259,
+                2265
+              ],
+              [
+                4274,
+                2370
+              ],
+              [
+                4140,
+                2410
+              ],
+              [
+                4229,
+                2424
+              ],
+              [
+                4188,
+                2456
+              ],
+              [
+                4050,
+                2403
+              ],
+              [
+                4086,
+                2279
+              ],
+              [
+                3931,
+                2322
+              ],
+              [
+                3952,
+                2485
+              ],
+              [
+                3840,
+                2547
+              ],
+              [
+                3860,
+                2569
+              ],
+              [
+                3750,
+                2579
+              ],
+              [
+                3791,
+                2594
+              ],
+              [
+                3815,
+                2706
+              ],
+              [
+                3781,
+                2763
+              ],
+              [
+                3814,
+                2783
+              ],
+              [
+                3875,
+                2716
+              ],
+              [
+                3870,
+                2813
+              ],
+              [
+                3733,
+                2806
+              ],
+              [
+                3711,
+                2730
+              ],
+              [
+                3654,
+                2752
+              ],
+              [
+                3619,
+                2707
+              ],
+              [
+                3714,
+                2608
+              ],
+              [
+                3721,
+                2396
+              ],
+              [
+                3473,
+                2358
+              ],
+              [
+                3462,
+                2283
+              ],
+              [
+                3519,
+                2267
+              ],
+              [
+                3235,
+                2250
+              ],
+              [
+                3221,
+                2197
+              ],
+              [
+                3206,
+                2251
+              ],
+              [
+                3127,
+                2264
+              ],
+              [
+                3130,
+                2332
+              ],
+              [
+                3179,
+                2340
+              ],
+              [
+                3114,
+                2368
+              ],
+              [
+                3102,
+                2429
+              ],
+              [
+                2940,
+                2412
+              ],
+              [
+                2899,
+                2337
+              ],
+              [
+                2773,
+                2457
+              ],
+              [
+                2498,
+                2376
+              ],
+              [
+                2287,
+                2467
+              ],
+              [
+                2313,
+                2581
+              ],
+              [
+                2204,
+                2658
+              ],
+              [
+                2183,
+                2583
+              ],
+              [
+                2166,
+                2637
+              ],
+              [
+                2112,
+                2625
+              ],
+              [
+                2058,
+                2861
+              ],
+              [
+                1987,
+                2887
+              ],
+              [
+                1863,
+                3053
+              ],
+              [
+                1919,
+                3070
+              ],
+              [
+                1876,
+                3100
+              ],
+              [
+                1939,
+                3198
+              ],
+              [
+                1842,
+                3269
+              ],
+              [
+                1980,
+                3369
+              ],
+              [
+                1857,
+                3453
+              ],
+              [
+                1996,
+                3405
+              ],
+              [
+                2024,
+                3459
+              ],
+              [
+                2094,
+                3460
+              ],
+              [
+                2092,
+                3366
+              ],
+              [
+                2161,
+                3373
+              ],
+              [
+                2154,
+                3541
+              ],
+              [
+                2211,
+                3510
+              ],
+              [
+                2178,
+                3474
+              ],
+              [
+                2259,
+                3461
+              ],
+              [
+                2236,
+                3545
+              ],
+              [
+                2290,
+                3541
+              ],
+              [
+                2308,
+                3475
+              ],
+              [
+                2346,
+                3493
+              ],
+              [
+                2329,
+                3544
+              ],
+              [
+                2502,
+                3492
+              ],
+              [
+                2545,
+                3584
+              ],
+              [
+                2610,
+                3579
+              ],
+              [
+                2623,
+                3462
+              ],
+              [
+                2883,
+                3584
+              ],
+              [
+                5399,
+                3583
+              ],
+              [
+                5346,
+                3550
+              ],
+              [
+                5399,
+                3547
+              ],
+              [
+                5399,
+                3321
+              ],
+              [
+                5313,
+                3269
+              ],
+              [
+                5399,
+                3275
+              ],
+              [
+                5399,
+                3098
+              ],
+              [
+                5319,
+                3073
+              ],
+              [
+                5346,
+                2986
+              ],
+              [
+                5355,
+                3039
+              ],
+              [
+                5399,
+                3021
+              ],
+              [
+                5399,
+                2872
+              ],
+              [
+                5360,
+                2875
+              ]
+            ]
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Autumn+sunset+at+High+Point+State+Park%2c+New+Jersey&form=BGABWCTA11"
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261021",
       "fullstartdate": "20261021",
       "enddate": "20261022",
