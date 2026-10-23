@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261023",
+      "fullstartdate": "20261023",
+      "enddate": "20261024",
+      "urlbase": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg",
+      "copyrighttext": "© John Morrison/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Wolf+Tier&form=BGALM&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Wölfe im Yellowstone-Nationalpark, Wyoming, USA",
+      "description": "Im Yellowstone-Nationalpark im US-Bundesstaat Wyoming gehören Wölfe zu den faszinierendsten Bewohnern der weitläufigen Wildnis. Nachdem sie dort im frühen 20. Jahrhundert verschwunden waren, wurden zwischen 1995 und 1997 insgesamt 41 Tiere aus Kanada und dem Nordwesten Montanas im Park ausgesetzt. Seitdem leben wieder mehrere Rudel in dieser beeindruckenden Landschaft.",
+      "headline": "Partner in freier Wildbahn",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_YellowstoneWolves\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Wolf+Tier&form=BGABWCTA7&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Wolf+Tier&form=BGABWCTA11&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261022",
       "fullstartdate": "20261022",
       "enddate": "20261023",

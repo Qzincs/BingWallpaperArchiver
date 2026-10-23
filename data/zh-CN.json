@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261023",
+      "fullstartdate": "20261023",
+      "enddate": "20261024",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg",
+      "copyrighttext": "© John Morrison/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=BGALM&filters=HpDate:\"20261022_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "两只灰狼，黄石国家公园，怀俄明州，美国",
+      "description": "两只灰狼穿行在怀俄明州黄石国家公园的山艾灌丛中，这里生活着北美洲一些最受密切关注的狼群。厚实的皮毛帮助它们抵御严冬，敏锐的感官则使它们成为技艺高超的猎手和交流者。",
+      "headline": "荒野伙伴",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_YellowstoneWolves\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 10月 23",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=BGABWCTA7&filters=HpDate:\"20261022_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e7%81%b0%e7%8b%bc&form=BGABWCTA11&filters=HpDate:\"20261022_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261022",
       "fullstartdate": "20261022",
       "enddate": "20261023",

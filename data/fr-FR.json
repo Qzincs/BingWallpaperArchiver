@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261023",
+      "fullstartdate": "20261023",
+      "enddate": "20261024",
+      "urlbase": "https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg",
+      "copyrighttext": "© Philippe TURPIN/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+du+champagne&form=BGALM&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vignobles à Verzenay, montagne de Reims, Champagne",
+      "description": "Dans les collines de Champagne, l’automne dore les vignes et fait rougir les feuilles. Sous les rangs de chardonnay, pinot noir et meunier, la craie retient et restitue progressivement l’eau, tandis que, quelques mètres plus bas, les bouteilles prennent leur temps. Dans la fraîcheur des caves, l’effervescence naît doucement, presque en secret. Il faudra de la patience, quelques gestes précis et beaucoup de savoir-faire avant d’entendre enfin ce petit bruit du bouchon qui annonce souvent les bons moments.",
+      "headline": "Là où naissent les bulles",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261023_ReimsChampagne\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+du+champagne&form=BGABWCTA7&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+mondiale+du+champagne&form=BGABWCTA11&filters=HpDate:\"20261022_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261022",
       "fullstartdate": "20261022",
       "enddate": "20261023",

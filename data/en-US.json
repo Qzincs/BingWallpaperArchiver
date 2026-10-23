@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261022",
+      "fullstartdate": "20261022",
+      "enddate": "20261023",
+      "urlbase": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg",
+      "copyrighttext": "© Twenty47studio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Naejangsan+National+Park&form=BGALM&filters=HpDate:\"20261022_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Autumn in Naejangsan National Park, South Korea",
+      "description": "Few places in South Korea capture the magic of autumn quite like Naejangsan National Park, where mountainsides glow in brilliant shades of scarlet, orange, yellow, and gold. Located in the country's southwest, the park is particularly famous for its vivid maple colors, making it one of Korea's premier destinations for fall scenery. Its name, meaning 'many secrets in the mountains,' reflects the varied landscapes found throughout the region.",
+      "headline": "Still waters, vivid colors",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261022_NaejangsanNP\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.481191,126.889374/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.481191,126.889374;S9;Naejangsan National Park, South Korea&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 22, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Naejangsan+National+Park&form=BGABWCTA7&filters=HpDate:\"20261022_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Naejangsan+National+Park&form=BGABWCTA11&filters=HpDate:\"20261022_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261021",
       "fullstartdate": "20261021",
       "enddate": "20261022",
