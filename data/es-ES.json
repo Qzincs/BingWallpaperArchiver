@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261025",
+      "fullstartdate": "20261025",
+      "enddate": "20261026",
+      "urlbase": "https://www.bing.com/th?id=OHR.GernikaPaisVasco_ES-ES5108223011_UHD.jpg",
+      "copyrighttext": "© tichr/ShutterStock",
+      "copyrightlink": "https://www.bing.com/search?q=Iglesia+de+Santa+Mar%c3%ada+Gernika-Lumo&form=BGALM&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Entrada a la Iglesia de Santa María, Gernika-Lumo, Vizcaya, País Vasco, España",
+      "description": "La portada gótica de la imagen pertenece a la iglesia de Santa María, en Gernika-Lumo (Vizcaya, País Vasco, España), el edificio más antiguo de la villa. Se empezó a mediados del siglo XV y las obras se alargaron dos siglos, de ahí su mezcla de estilos: arco ojival en la puerta y un interior renacentista de planta de salón, con las bóvedas cerradas hacia 1660.",
+      "headline": "Las puertas al cielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_GernikaPaisVasco\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.317001,-2.678954/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.317001,-2.678954;S9;Gernika-Lumo, Vizcaya, España&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Iglesia+de+Santa+Mar%c3%ada+Gernika-Lumo&form=BGABWCTA7&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Iglesia+de+Santa+Mar%c3%ada+Gernika-Lumo&form=BGABWCTA11&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261024",
       "fullstartdate": "20261024",
       "enddate": "20261025",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261025",
+      "fullstartdate": "20261025",
+      "enddate": "20261026",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg",
+      "copyrighttext": "© Andrey Popov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Jasper-Nationalpark+Kanada&form=BGALM&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada",
+      "description": "Türkisfarbenes Wasser, schroffe Berggipfel und dichte Wälder prägen das Bild des Maligne Lake im Jasper-Nationalpark. Der von Gletschern gespeiste See erstreckt sich über rund 22 Kilometer durch die kanadischen Rocky Mountains. Sein Wasser bleibt selbst an warmen Sommertagen ausgesprochen kalt. Wanderwege eröffnen unterschiedliche Perspektiven auf die umliegende Bergwelt, während sich vom Kanu aus die lange, weitgehend unberührte Uferlandschaft entdecken lässt.",
+      "headline": "Wo Gipfel auf Stille treffen",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_MaligneFest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/53.634595,-118.149918/2?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=53.634595,-118.149918;S9;Jasper-Nationalpark, Alberta, Kanada&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jasper-Nationalpark+Kanada&form=BGABWCTA7&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jasper-Nationalpark+Kanada&form=BGABWCTA11&filters=HpDate:\"20261024_2200\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261024",
       "fullstartdate": "20261024",
       "enddate": "20261025",
