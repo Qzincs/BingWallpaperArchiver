@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261025",
+      "fullstartdate": "20261025",
+      "enddate": "20261026",
+      "urlbase": "https://www.bing.com/th?id=OHR.MaligneFest_ROW1322674228_UHD.jpg",
+      "copyrighttext": "© Andrey Popov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Jasper+National+Park&form=BGALM&filters=HpDate:\"20261025_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Maligne Lake, Jasper National Park, Alberta, Canada",
+      "description": "When night falls in Jasper National Park, Alberta, Canada, the mountains get a whole new backdrop. Designated a Dark-Sky Preserve in 2011, the park spans more than 11,000 square kilometres, with measures in place to reduce light pollution. Here, the stars, planets and the Milky Way put up a celestial show, giving visitors a reason to look up. Then morning arrives and the focus shifts from the sky above to the landscape below.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261025_MaligneFest\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 25, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Jasper+National+Park&form=BGABWCTA7&filters=HpDate:\"20261025_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Jasper+National+Park&form=BGABWCTA11&filters=HpDate:\"20261025_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261024",
       "fullstartdate": "20261024",
       "enddate": "20261025",

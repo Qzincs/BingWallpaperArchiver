@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261026",
+      "fullstartdate": "20261026",
+      "enddate": "20261027",
+      "urlbase": "https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg",
+      "copyrighttext": "© Nadya85/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=village+de+Sitovo+Bulgarie&form=BGALM&filters=HpDate:\"20261025_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Une cascade en Automne près de Sitovo, Oblast de Plovdiv, Bulgarie",
+      "description": "Dans les Rhodopes occidentales, en Bulgarie, l’automne enveloppe la cascade de Sitovo d’une lumière douce. Près du village de Sitovo, au sud-ouest de Plovdiv, l’eau bondit sous un vieux pont de pierre dont l’arche encadre la cascade comme une scène de conte. Mousses, pins et feuillages mêlent leurs verts aux teintes rousses, tandis que les feuilles mortes s’accumulent sur les berges ou dérivent dans les vasques. Après les pluies et lors de la fonte printanière des neiges, le torrent s’anime et sa rumeur emplit la forêt.",
+      "headline": "Le son de l'automne",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261026_SitovoWaterfall\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/41.926863,24.615841/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=41.926863,24.615841;S9;Sitovo, Bulgarie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=village+de+Sitovo+Bulgarie&form=BGABWCTA7&filters=HpDate:\"20261025_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=village+de+Sitovo+Bulgarie&form=BGABWCTA11&filters=HpDate:\"20261025_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261025",
       "fullstartdate": "20261025",
       "enddate": "20261026",
