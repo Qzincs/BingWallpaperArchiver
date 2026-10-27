@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261027",
+      "fullstartdate": "20261027",
+      "enddate": "20261028",
+      "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg",
+      "copyrighttext": "© Chris Moore/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sumpfzypressen&form=BGALM&filters=HpDate:\"20261026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Teichzypressen in herbstlicher Färbung, Georgia, USA",
+      "description": "Goldenes Licht, stilles Wasser und Zypressen, die sich nahezu perfekt darin spiegeln. Diese Szenerie wirkt wie gemalt. Die Teichzypresse ist im Südosten der USA heimisch und gedeiht vor allem in flachen Teichen, Senken und Feuchtgebieten. Diese Aufnahme entstand im US-Bundesstaat Georgia, wo die Bäume unter anderem im Okefenokee-Sumpf zu finden sind. Anders als die meisten Nadelbäume wirft die Teichzypresse im Herbst ihr nadelartiges Laub ab. Zuvor färbt es sich in warme Gelb-, Kupfer- und Orangebrauntöne. Die Art ist eng mit der weiter verbreiteten Sumpfzypresse verwandt, bleibt jedoch meist kleiner und bevorzugt stehende oder flache Gewässer.",
+      "headline": "Goldener Spiegel der Natur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261027_PondCypress\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sumpfzypressen&form=BGABWCTA7&filters=HpDate:\"20261026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Sumpfzypressen&form=BGABWCTA11&filters=HpDate:\"20261026_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261026",
       "fullstartdate": "20261026",
       "enddate": "20261027",

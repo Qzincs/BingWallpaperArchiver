@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261027",
+      "fullstartdate": "20261027",
+      "enddate": "20261028",
+      "urlbase": "https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg",
+      "copyrighttext": "© Chris Moore/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=BGALM&filters=HpDate:\"20261026_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ポンドサイプレス, 米国 ジョージア州",
+      "description": "今日の画像は、米国ジョージア州で見られるポンドサイプレス。ヒノキ科、ヌマスギ属の樹木で、細い葉が小枝に沿うようにつくのが特徴です。秋から冬にかけて球果が成熟します。水辺では「膝根（しっこん）」と呼ばれる根の突起を形成することがあり、米国南東部の池や沼地などの湿地に分布しています。こうした湿地林は、さまざまな生物の重要な生息地となっています。",
+      "headline": "水面に映る秋の森",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261027_PondCypress\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/32.648285,-83.444374/16?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=32.648285,-83.444374;S9;米国 ジョージア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": "https://www.bing.com/search?q=Bing+%e3%83%88%e3%83%aa%e3%83%93%e3%82%a2%e3%82%af%e3%82%a4%e3%82%ba&setmkt=JA-JP&filters=IsConversation%3a%22True%22+WQOskey:%22HPQuiz_20261027_PondCypress%22+WQId:%221%22&form=BGAM"
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 27 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/search?q=%e7%b1%b3%e5%9b%bd+%e3%82%b8%e3%83%a7%e3%83%bc%e3%82%b8%e3%82%a2%e5%b7%9e+%e3%81%b8%e3%81%ae%e6%97%85%e8%a1%8c&filters=destinationcampaign:\"true\"&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=BGABWCTA7&filters=HpDate:\"20261026_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9d%e3%83%b3%e3%83%89%e3%82%b5%e3%82%a4%e3%83%97%e3%83%ac%e3%82%b9&form=BGABWCTA11&filters=HpDate:\"20261026_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261026",
       "fullstartdate": "20261026",
       "enddate": "20261027",
