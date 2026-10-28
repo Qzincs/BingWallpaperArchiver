@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261028",
+      "fullstartdate": "20261028",
+      "enddate": "20261029",
+      "urlbase": "https://www.bing.com/th?id=OHR.KuneticeCastle_PT-BR8917469200_UHD.jpg",
+      "copyrighttext": "© Marek Saroch/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=BGALM&filters=HpDate:\"20261028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Castelo de Kunětická hora, Boêmia, Chéquia",
+      "description": "No alto de uma colina na Boêmia, na atual Chéquia, o Castelo de Kunětická hora passou por uma história cheia de reviravoltas. Suas origens remontam ao fim do século XIV, quando a posição elevada já oferecia uma vantagem nada desprezível: dali era possível vigiar boa parte da paisagem ao redor. Com o tempo, a fortificação virou também residência de nobres e ganhou novas estruturas.",
+      "headline": "O melhor ponto de vista",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261028_KuneticeCastle\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=BGABWCTA7&filters=HpDate:\"20261028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Castelo+de+Kuneticka+hora+Ch%c3%a9quia&form=BGABWCTA11&filters=HpDate:\"20261028_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261027",
       "fullstartdate": "20261027",
       "enddate": "20261028",
