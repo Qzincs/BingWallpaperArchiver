@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261029",
+      "fullstartdate": "20261029",
+      "enddate": "20261030",
+      "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_UHD.jpg",
+      "copyrighttext": "© George W Johnson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=BGALM&filters=HpDate:\"20261028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pierres dressées à Avebury dans le Wiltshire, Angleterre",
+      "description": "Au petit matin, la brume glisse entre les pierres dressées d’Avebury, dans le Wiltshire, en Angleterre, et le paysage semble suspendu hors du temps. Érigé il y a environ 4 500 ans, cet immense ensemble néolithique comprend l’un des plus vastes cercles de pierres préhistoriques au monde, entouré d’un vaste henge et prolongé par des avenues de mégalithes. Avec Silbury Hill et West Kennet Avenue, il forme un remarquable paysage préhistorique qui, depuis des générations, intrigue visiteurs, chercheurs et archéologues.",
+      "headline": "Des millénaires caressés par la brume",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261029_AveburyStones\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.42898,-1.854909/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=51.42898,-1.854909;S9;Avebury, Wiltshire, Angleterre&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=BGABWCTA7&filters=HpDate:\"20261028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cercle+de+pierres+Avebury+Wiltshire&form=BGABWCTA11&filters=HpDate:\"20261028_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261028",
       "fullstartdate": "20261028",
       "enddate": "20261029",

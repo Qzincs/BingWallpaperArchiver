@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261029",
+      "fullstartdate": "20261029",
+      "enddate": "20261030",
+      "urlbase": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_UHD.jpg",
+      "copyrighttext": "© George W Johnson/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=BGALM&filters=HpDate:\"20261029_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra",
+      "description": "Quem ergueu essas pedras gigantes em Avebury, na Inglaterra, e por quê? Quatro mil e quinhentos anos depois, a pergunta continua sem resposta. Em Wiltshire, enormes blocos de pedra atravessam campos e estradas, formando o maior círculo de pedras pré-histórico do mundo. E há uma diferença importante: aqui, visitantes podem caminhar entre elas, como quem passeia por um monumento que ainda guarda seu segredo a céu aberto.",
+      "headline": "Um mistério milenar",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261029_AveburyStones\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "29 out. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=BGABWCTA7&filters=HpDate:\"20261029_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Avebury+na+Inglaterra&form=BGABWCTA11&filters=HpDate:\"20261029_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261028",
       "fullstartdate": "20261028",
       "enddate": "20261029",
