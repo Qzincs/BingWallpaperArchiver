@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261030",
+      "fullstartdate": "20261030",
+      "enddate": "20261031",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg",
+      "copyrighttext": "© Terry St.Louis/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Grue+du+Canada&form=BGALM&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Grues du Canada, réserve de Bosque del Apache, Nouveau-Mexique, États-Unis",
+      "description": "L'hiver instaure un rythme particulier dans la réserve naturelle nationale de Bosque del Apache, au Nouveau-Mexique. Créé en 1939, ce sanctuaire de 230 km2 offre une halte protégée aux oiseaux aquatiques migrateurs. Ses zones humides, ses champs et ses cours d'eau abritent aussi une faune toute l'année.",
+      "headline": "L'heure de prendre de la hauteur",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261030_AutumnCranes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.384147,-106.900263/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=34.384147,-106.900263;S9;Bosque del Apache National, Nouveau-Mexique&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 oct. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grue+du+Canada&form=BGABWCTA7&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grue+du+Canada&form=BGABWCTA11&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261029",
       "fullstartdate": "20261029",
       "enddate": "20261030",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261030",
+      "fullstartdate": "20261030",
+      "enddate": "20261031",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_UHD.jpg",
+      "copyrighttext": "© Terry St.Louis/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Grullas+Canadienses&form=BGALM&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA",
+      "description": "El invierno trae consigo un ritmo familiar al Refugio Nacional de Vida Silvestre Bosque del Apache, en Nuevo México. Las grullas regresan, los humedales se llenan de aves y la zona se convierte en un punto de encuentro para la fauna estacional. Fundado en 1939, este santuario de 57.331 acres (23,201 hectáreas) se creó para ofrecer una parada protegida a las aves acuáticas migratorias. Hoy, sus humedales, campos y cursos de agua albergan fauna durante todo el año. Las grullas canadienses, protagonistas de la imagen de hoy, están especialmente ligadas al refugio durante el invierno.",
+      "headline": "Hora de levantar el vuelo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261030_AutumnCranes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.384147,-106.900263/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=34.384147,-106.900263;S9;Refugio Nacional de Vida Silvestre Bosque del Apache&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Grullas+Canadienses&form=BGABWCTA7&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Grullas+Canadienses&form=BGABWCTA11&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261029",
       "fullstartdate": "20261029",
       "enddate": "20261030",

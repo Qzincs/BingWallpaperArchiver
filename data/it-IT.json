@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261030",
+      "fullstartdate": "20261030",
+      "enddate": "20261031",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_IT-IT0637151336_UHD.jpg",
+      "copyrighttext": "© Terry St.Louis/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=gru+canadesi&form=BGALM&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA",
+      "description": "Come ogni anno l’inverno trasforma il Bosque del Apache National Wildlife Refuge, nel New Mexico, in un vivace rifugio per la fauna migratoria. Istituita nel 1939, la riserva ospita numerose specie durante tutto l’anno. Protagoniste di questa stagione sono le gru canadesi, che arrivano dalla fine di ottobre e trascorrono la notte nelle acque poco profonde, prima di raggiungere i campi all’alba in cerca di cibo. Oche, anatre, aquile e falchi si uniscono allo spettacolo, insieme a cervi muli, coyote e lepri, mentre i diversi habitat offrono rifugio alle specie a rischio di estinzione.",
+      "headline": "È ora di spiccare il volo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261030_AutumnCranes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.384147,-106.900263/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=34.384147,-106.900263;S9;Bosque del Apache National Wildlife Refuge&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "30 ottobre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=gru+canadesi&form=BGABWCTA7&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=gru+canadesi&form=BGABWCTA11&filters=HpDate:\"20261029_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261029",
       "fullstartdate": "20261029",
       "enddate": "20261030",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261030",
+      "fullstartdate": "20261030",
+      "enddate": "20261031",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg",
+      "copyrighttext": "© Terry St.Louis/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%83%85%e3%83%ab&form=BGALM&filters=HpDate:\"20261029_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "カナダヅル、ボスケ・デル・アパッチ国立野生動物保護区、ニューメキシコ州、アメリカ",
+      "description": "冬を迎えるニューメキシコ州のボスケ・デル・アパッチ国立野生動物保護区には、多くの渡り鳥が飛来します。この保護区は1939年に、渡り鳥の重要な中継地として設立されました。約232平方キロメートルに及ぶこの地域には、湿地や草地、水辺が広がり、一年を通して多様な野生動物が暮らしています。写真のカナダヅルは例年10月下旬ごろから姿を見せ、冬の間、ここで過ごします。夜は浅瀬で休み、日の出ごろになると餌を求めて近くの野原へと飛び立ちます。",
+      "headline": "大空へ羽ばたく",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261030_AutumnCranes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.384147,-106.900263/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=34.384147,-106.900263;S9;ボスケ・デル・アパッチ、ニューメキシコ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 10月 月 30 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%83%85%e3%83%ab&form=BGABWCTA7&filters=HpDate:\"20261029_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%83%85%e3%83%ab&form=BGABWCTA11&filters=HpDate:\"20261029_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261029",
       "fullstartdate": "20261029",
       "enddate": "20261030",
