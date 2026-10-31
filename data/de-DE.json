@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261031",
+      "fullstartdate": "20261031",
+      "enddate": "20261101",
+      "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg",
+      "copyrighttext": "© AlxeyPnferov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Halloween&form=BGALM&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland",
+      "description": "Vergessen Sie die Nebelmaschine. Frankfurt am Main hat etwas weitaus Wirkungsvolleres zu bieten: eine gotische Kathedrale mit einem Turm, wie geschaffen für eine Mitternachts-Séance. Der hier abgebildete Kaiserdom St. Bartholomäus bietet die perfekte mittelalterliche Kulisse für Halloween. Doch die Geschichte dieses Feiertags ist noch gruseliger als das Foto.",
+      "headline": "Der Geist vergangener Kaiserreiche",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261031_FrankfurtHalloween\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.110766,8.68539/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=50.110766,8.68539;S9;Kaiserdom St. Bartholomäus, Frankfurt am Main&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31. Okt.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Halloween&form=BGABWCTA7&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Halloween&form=BGABWCTA11&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261030",
       "fullstartdate": "20261030",
       "enddate": "20261031",

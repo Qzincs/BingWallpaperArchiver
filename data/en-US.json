@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261030",
+      "fullstartdate": "20261030",
+      "enddate": "20261031",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg",
+      "copyrighttext": "© Terry St.Louis/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Sandhill+Cranes&form=BGALM&filters=HpDate:\"20261030_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA",
+      "description": "Winter brings a familiar rhythm to Bosque del Apache National Wildlife Refuge in New Mexico. The cranes arrive, wetlands fill with birds, and this area becomes a hub for seasonal wildlife. Established in 1939, the 57,331-acre sanctuary was created to provide a protected stopover for migrating waterfowl. Its wetlands, fields, and waterways now support wildlife throughout the year. Sandhill cranes, seen in today's image, are especially associated with the refuge during winter.",
+      "headline": "Time to fly high",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261030_AutumnCranes\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/34.384147,-106.900263/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=34.384147,-106.900263;S9;Bosque del Apache National Wildlife Refuge, New Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Oct 30, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Sandhill+Cranes&form=BGABWCTA7&filters=HpDate:\"20261030_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Sandhill+Cranes&form=BGABWCTA11&filters=HpDate:\"20261030_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261029",
       "fullstartdate": "20261029",
       "enddate": "20261030",

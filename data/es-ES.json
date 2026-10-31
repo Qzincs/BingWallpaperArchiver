@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261031",
+      "fullstartdate": "20261031",
+      "enddate": "20261101",
+      "urlbase": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_UHD.jpg",
+      "copyrighttext": "© AlxeyPnferov/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Halloween&form=BGALM&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Catedral de San Bartolomé, Fráncfort, Alemania",
+      "description": "Olvídate de la máquina de humo. Fráncfort, Alemania, tiene algo mucho más efectivo: una catedral gótica con una torre que parece lista para una sesión espiritista a medianoche. La catedral de San Bartolomé, que vemos en la imagen, tiene la silueta medieval que Halloween habría elegido como escenario perfecto. Pero la historia de esta celebración es aún más extraña.",
+      "headline": "Los fantasmas de imperios pasados",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261031_FrankfurtHalloween\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.110766,8.68539/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=50.110766,8.68539;S9;Catedral de San Bartolomé, Fráncfort, Alemania&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "31 de oct de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Halloween&form=BGABWCTA7&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Halloween&form=BGABWCTA11&filters=HpDate:\"20261030_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261030",
       "fullstartdate": "20261030",
       "enddate": "20261031",
