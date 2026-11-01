@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261101",
+      "fullstartdate": "20261101",
+      "enddate": "20261102",
+      "urlbase": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg",
+      "copyrighttext": "© Britus/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%84%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%88+%e3%83%89%e3%82%a4%e3%83%84&form=BGALM&filters=HpDate:\"20261031_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "シュヴァルツヴァルト、バーデン＝ヴュルテンベルク州、ドイツ",
+      "description": "ドイツ南西部には、シュヴァルツヴァルト（黒い森）が広がっています。霧に包まれた森や丘、深い谷、湖、美しい町々が織りなす風景が魅力です。南北約160キロメートルに及び、最高峰のフェルトベルクは標高1,493メートルです。ドナウ川とネッカー川の源流域としても知られています。古くから林業が盛んで、時計作りの伝統も息づいています。なかでも鳩時計（カッコー時計）は、ドイツ国外でも広く知られています。",
+      "headline": "木々を包む霧",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_SchwarzwaldAutumn\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.286722,8.215281/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.286722,8.215281;S9;シュヴァルツヴァルト&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 1 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%84%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%88+%e3%83%89%e3%82%a4%e3%83%84&form=BGABWCTA7&filters=HpDate:\"20261031_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%84%e3%83%b4%e3%82%a1%e3%83%ab%e3%83%88+%e3%83%89%e3%82%a4%e3%83%84&form=BGABWCTA11&filters=HpDate:\"20261031_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261031",
       "fullstartdate": "20261031",
       "enddate": "20261101",
