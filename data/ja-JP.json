@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261102",
+      "fullstartdate": "20261102",
+      "enddate": "20261103",
+      "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=BGALM&filters=HpDate:\"20261101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ホッキョクグマの親子、ハドソン湾、マニトバ州、カナダ",
+      "description": "カナダ・マニトバ州のハドソン湾沿岸では、ホッキョクグマたちが、海氷が張るのを待っています。海氷ができると、再び氷の上でアザラシを狩れるようになります。11月の第1週には「ホッキョクグマ週間」が行われます。泳ぎも狩りも得意な彼らは、地球上でも指折りの厳しい環境に適応して暮らしています。しかし、海氷の減少によって陸上で過ごす時間が長くなり、餌を確保しにくくなるなどの影響が出ています。写真に写っているのは、ハドソン湾近くで暮らす母グマと子グマたちです。この愛らしい親子の姿は、北極の美しい自然と、ホッキョクグマが生きるために欠かせない海氷を守る大切さを伝えています。",
+      "headline": "氷がつなぐ未来",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 2 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=BGABWCTA7&filters=HpDate:\"20261101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e%e9%80%b1%e9%96%93&form=BGABWCTA11&filters=HpDate:\"20261101_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261101",
       "fullstartdate": "20261101",
       "enddate": "20261102",

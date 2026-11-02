@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261102",
+      "fullstartdate": "20261102",
+      "enddate": "20261103",
+      "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Eisb%c3%a4ren&form=BGALM&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eisbär mit Jungen, Hudson Bay, Manitoba, Kanada",
+      "description": "Auch wenn uns der November der Weihnachtszeit einen Schritt näherbringt, haben Eisbären andere Pläne. Sie versammeln sich an den Ufern der Hudson Bay in Manitoba, Kanada, und warten darauf, dass sich Meereis bildet, damit sie wieder auf Robbenjagd gehen können.",
+      "headline": "Eine Zukunft, geprägt vom Eis",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eisb%c3%a4ren&form=BGABWCTA7&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eisb%c3%a4ren&form=BGABWCTA11&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261101",
       "fullstartdate": "20261101",
       "enddate": "20261102",

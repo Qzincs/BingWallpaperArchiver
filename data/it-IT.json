@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261102",
+      "fullstartdate": "20261102",
+      "enddate": "20261103",
+      "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_IT-IT6232079426_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Orso+Polare&form=BGALM&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Un orso polare con i suoi cuccioli, baia di Hudson, Manitoba, Canada",
+      "description": "Con l’arrivo di novembre, gli orsi polari si radunano lungo le coste della baia di Hudson, in Canada, in attesa che si formi il ghiaccio marino per tornare a caccia di foche. Abili nuotatori e formidabili predatori, sono perfettamente adattati a uno degli ambienti più estremi della Terra. La diminuzione delle banchise li costringe a trascorrere sempre più tempo sulla terraferma, dove aumenta la difficoltà nel trovare cibo ed il rischio di incontri con l’uomo. L’immagine ritrae una femmina con i suoi cuccioli nei pressi della baia di Hudson, dove gli orsi si radunano stagionalmente da generazioni.",
+      "headline": "Un futuro scolpito nel ghiaccio",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Orso+Polare&form=BGABWCTA7&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Orso+Polare&form=BGABWCTA11&filters=HpDate:\"20261101_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261101",
       "fullstartdate": "20261101",
       "enddate": "20261102",

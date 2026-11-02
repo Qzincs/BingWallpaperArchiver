@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261101",
+      "fullstartdate": "20261101",
+      "enddate": "20261102",
+      "urlbase": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg",
+      "copyrighttext": "© Patrick Lane/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Native+American+Heritage+Month&form=BGALM&filters=HpDate:\"20261101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Handmade baskets, Santa Fe, New Mexico",
+      "description": "A basket can carry far more than its contents. The Native American basketry seen here in Santa Fe, New Mexico, points to a much bigger story: a rich variety of techniques and designs developed by communities across the country. Their materials, patterns, and styles reflect their places of origin, turning everyday objects into records of local knowledge and identity.",
+      "headline": "Crafting continuity",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261101_NativeBaskets\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/35.662783,-105.974807/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-US&od=2&shading=flat&pp=35.662783,-105.974807;S9;Santa Fe, New Mexico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 1, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Native+American+Heritage+Month&form=BGABWCTA7&filters=HpDate:\"20261101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Native+American+Heritage+Month&form=BGABWCTA11&filters=HpDate:\"20261101_0700\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261031",
       "fullstartdate": "20261031",
       "enddate": "20261101",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261102",
+      "fullstartdate": "20261102",
+      "enddate": "20261103",
+      "urlbase": "https://www.bing.com/th?id=OHR.HudsonBear_PT-BR1375226804_UHD.jpg",
+      "copyrighttext": "© Danita Delimont/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Urso+polar&form=BGALM&filters=HpDate:\"20261102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Urso-polar e filhotes na Baía de Hudson, Manitoba, Canadá",
+      "description": "Novembro nos aproxima das festas de fim de ano, mas os ursos-polares têm outros planos. Eles se reúnem às margens da Baía de Hudson, em Manitoba, no Canadá, esperando que o gelo marinho se forme para voltar a caçar focas. Excelentes nadadores e caçadores habilidosos, os ursos-polares são muito bem adaptados à vida em um dos ambientes mais hostis da Terra. No entanto, a redução do gelo marinho faz com que muitos passem mais tempo em terra firme, dificultando a busca por alimento e aumentando o risco de encontros com pessoas.",
+      "headline": "O futuro sobre o gelo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261102_HudsonBear\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Urso+polar&form=BGABWCTA7&filters=HpDate:\"20261102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Urso+polar&form=BGABWCTA11&filters=HpDate:\"20261102_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261101",
       "fullstartdate": "20261101",
       "enddate": "20261102",
