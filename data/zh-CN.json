@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261103",
+      "fullstartdate": "20261103",
+      "enddate": "20261104",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg",
+      "copyrighttext": "© leonid_tit/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=BGALM&filters=HpDate:\"20261102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利",
+      "description": "布莱埃斯湖坐落在意大利北部南蒂罗尔的多洛米蒂山脉，海拔近1500米。湖泊四周森林环绕，法内斯-塞内斯-布莱埃斯湖自然公园的壮丽群峰耸立其间，以动人的碧绿和湛蓝湖水闻名。一条3.5公里长的步道环绕湖岸，游客也可以乘坐传统木质划艇，从另一种视角欣赏风光。这里还是多条山间徒步路线的起点，包括多洛米蒂山脉著名的多洛米蒂高山步道1号。",
+      "headline": "群峰间的宁静",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_AlpineBraies\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 3",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=BGABWCTA7&filters=HpDate:\"20261102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a4%9a%e6%b4%9b%e7%b1%b3%e8%92%82%e5%b1%b1%e8%84%89&form=BGABWCTA11&filters=HpDate:\"20261102_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261102",
       "fullstartdate": "20261102",
       "enddate": "20261103",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261103",
+      "fullstartdate": "20261103",
+      "enddate": "20261104",
+      "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg",
+      "copyrighttext": "© leonid_tit/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%82%b9%e6%b9%96+%e3%83%89%e3%83%ad%e3%83%9f%e3%83%86&form=BGALM&filters=HpDate:\"20261102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ブライエス湖、ファネス・セネス・ブラーイエス自然公園、ドロミテ、イタリア",
+      "description": "イタリア北部、南チロル地方のドロミテにあるブライエス湖は、標高約1,500メートルに位置しています。ファネス・セネス・ブライエス自然公園の森と雄大な山々に囲まれ、緑と青が織りなす美しい湖面が魅力です。湖畔には約3.5キロメートルの遊歩道があり、伝統的な木造ボートに乗って景色を楽しむこともできます。また、ドロミテの有名なトレイル「アルタ・ヴィア1」をはじめ、さまざまなハイキングコースの出発点にもなっています。",
+      "headline": "山々に抱かれた静けさ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_AlpineBraies\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.693566,12.084606/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=46.693566,12.084606;S9;ブライエス湖&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 3 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%82%b9%e6%b9%96+%e3%83%89%e3%83%ad%e3%83%9f%e3%83%86&form=BGABWCTA7&filters=HpDate:\"20261102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%82%b9%e6%b9%96+%e3%83%89%e3%83%ad%e3%83%9f%e3%83%86&form=BGABWCTA11&filters=HpDate:\"20261102_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261102",
       "fullstartdate": "20261102",
       "enddate": "20261103",

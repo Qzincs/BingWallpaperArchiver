@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261103",
+      "fullstartdate": "20261103",
+      "enddate": "20261104",
+      "urlbase": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg",
+      "copyrighttext": "© leonid_tit/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=BGALM&filters=HpDate:\"20261102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pragser Wildsee, Naturpark Fanes‑Sennes‑Prags, Dolomiten, Italien",
+      "description": "Der Pragser Wildsee liegt auf fast 1.500 Metern Höhe in den Südtiroler Dolomiten. Umgeben von Wäldern und den imposanten Gipfeln des Naturparks Fanes-Sennes-Prags, ist der See für sein auffallend grün-blaues Wasser bekannt. Ein 3,5 Kilometer langer Wanderweg führt um das Ufer herum, aber der Wildsee lässt sich auch mit traditionellen Holzruderbooten erkunden. Der See ist zudem Ausgangspunkt für mehrere Bergwanderungen, darunter der berühmte Alta Via 1 Höhenweg der Dolomiten.",
+      "headline": "Stille Gipfelwelten",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_AlpineBraies\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/46.693566,12.084606/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=46.693566,12.084606;S9;Pragser Wildsee, Dolomiten&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "3. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=BGABWCTA7&filters=HpDate:\"20261102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Pragser+Wildsee+Dolomiten&form=BGABWCTA11&filters=HpDate:\"20261102_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261102",
       "fullstartdate": "20261102",
       "enddate": "20261103",
