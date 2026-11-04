@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261104",
+      "fullstartdate": "20261104",
+      "enddate": "20261105",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_IT-IT6649354105_UHD.jpg",
+      "copyrighttext": "© Jackal Pan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=cipressi+calvi&form=BGALM&filters=HpDate:\"20261103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Una persona che rema tra colorati cipressi calvi, Xuancheng, Anhui, Cina",
+      "description": "A Xuancheng, nella provincia cinese dell’Anhui, è possibile attraversare in kayak un bosco di cipressi calvi che, in autunno, si tingono di tonalità ambrate, ramate e rossastre. Il cipresso calvo è una conifera insolita poiché i suoi morbidi aghi assumono colori intensi prima di cadere. Conosciuta scientificamente come “Taxodium distichum”, questa specie prospera negli ambienti paludosi, con esemplari che possono vivere per oltre 1.000 anni. Quando il “foliage” raggiunge il suo splendore, i colori si riflettono sulle acque tranquille e il bosco si trasforma in un vero e proprio dipinto vivente.",
+      "headline": "In kayak tra i colori d'autunno",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.9525,118.75528/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=30.9525,118.75528;S9;Xuancheng, Anhui, Cina&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "4 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=cipressi+calvi&form=BGABWCTA7&filters=HpDate:\"20261103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=cipressi+calvi&form=BGABWCTA11&filters=HpDate:\"20261103_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261103",
       "fullstartdate": "20261103",
       "enddate": "20261104",

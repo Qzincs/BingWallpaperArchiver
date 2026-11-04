@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261104",
+      "fullstartdate": "20261104",
+      "enddate": "20261105",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_EN-CA6335982294_UHD.jpg",
+      "copyrighttext": "© Jackal Pan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=bald+cypress&form=BGALM&filters=HpDate:\"20261104_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "People rowing among colourful bald cypress, Xuancheng, Anhui, China",
+      "description": "People paddle through flooded woodlands in Xuancheng, Anhui, where fall transforms bald cypress forests into a striking display of amber, copper and rust-coloured foliage. Unlike most conifers, bald cypress sheds its soft needles each fall after they turn reddish-brown. Native to North America, these trees thrive in wetlands, swamps and floodplains, often developing distinctive root \"knees\" that rise above the water. Some specimens have lived for more than 1,000 years. In late fall, the still water reflects the colourful canopy above, creating a remarkable landscape that highlights the bald cypress's natural connection to wetland environments.",
+      "headline": "Paddling a painted forest",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.9525,118.75528/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-CA&od=2&shading=flat&pp=30.9525,118.75528;S9;Xuancheng, Anhui, China&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 4, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=bald+cypress&form=BGABWCTA7&filters=HpDate:\"20261104_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=bald+cypress&form=BGABWCTA11&filters=HpDate:\"20261104_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261103",
       "fullstartdate": "20261103",
       "enddate": "20261104",

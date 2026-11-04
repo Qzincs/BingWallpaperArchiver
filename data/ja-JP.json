@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261104",
+      "fullstartdate": "20261104",
+      "enddate": "20261105",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg",
+      "copyrighttext": "© Jackal Pan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a9%e3%82%af%e3%82%a6%e3%82%b7%e3%83%a7%e3%82%a6&form=BGALM&filters=HpDate:\"20261103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "色鮮やかなラクウショウの森をボートで進む人々、安徽省宣城市、中国",
+      "description": "中国・安徽省宣城市では、秋になると水に浸かったラクウショウの森が、琥珀色や銅色、深いさび色に染まります。ラクウショウは針葉樹でありながら、秋に柔らかな葉が赤褐色に変わって落ちる珍しい木です。北米では湿地に育ち、地面や水面から「膝根」と呼ばれる呼吸根を突き出すことでも知られ、樹齢1,000年を超える木の記録もあります。晩秋には葉が燃えるような色に変わり、ボートでゆったり進むと、水面にその色がきらめいて、まるで生きた絵画のようです。",
+      "headline": "秋色の森を水上散歩",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/30.9525,118.75528/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=30.9525,118.75528;S9;安徽省宣城市、中国&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 4 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%a9%e3%82%af%e3%82%a6%e3%82%b7%e3%83%a7%e3%82%a6&form=BGABWCTA7&filters=HpDate:\"20261103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%a9%e3%82%af%e3%82%a6%e3%82%b7%e3%83%a7%e3%82%a6&form=BGABWCTA11&filters=HpDate:\"20261103_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261103",
       "fullstartdate": "20261103",
       "enddate": "20261104",

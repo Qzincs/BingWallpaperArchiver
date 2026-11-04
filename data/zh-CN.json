@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261104",
+      "fullstartdate": "20261104",
+      "enddate": "20261105",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg",
+      "copyrighttext": "© Jackal Pan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%90%bd%e7%be%bd%e6%9d%89&form=BGALM&filters=HpDate:\"20261103_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "五彩落羽杉间划船的人们，宣城，安徽省，中国",
+      "description": "在安徽省宣城，人们划船穿过色彩斑斓的落羽杉林。秋天将这片被水淹没的林地变成由琥珀色、铜色和深铁锈色交织而成的锦绣景致。落羽杉的学名是“Taxodium distichum”，它在针叶树中颇为特别：每年秋季，柔软如羽毛的针叶会先变成红褐色，然后脱落。在北美洲，落羽杉因能生长在沼泽、河漫滩等湿地环境而闻名，常长出称为“膝状根”的瘤状根部突起，露出周围的泥土和水面。",
+      "headline": "泛舟如画秋林",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 4",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%90%bd%e7%be%bd%e6%9d%89&form=BGABWCTA7&filters=HpDate:\"20261103_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%90%bd%e7%be%bd%e6%9d%89&form=BGABWCTA11&filters=HpDate:\"20261103_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261103",
       "fullstartdate": "20261103",
       "enddate": "20261104",

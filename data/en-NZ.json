@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261103",
+      "fullstartdate": "20261103",
+      "enddate": "20261104",
+      "urlbase": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_UHD.jpg",
+      "copyrighttext": "© MaRabelo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Balne%c3%a1rio+Cambori%c3%ba&form=BGALM&filters=HpDate:\"20261103_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Taquaras Beach, Balneário Camboriú, Brazil",
+      "description": "On Brazil's southern coast, Taquaras Beach offers a quieter escape in Balneário Camboriú, Santa Catarina. Clear blue-green waters meet a broad stretch of golden sand, backed by lush vegetation and rolling green hills. Away from the livelier atmosphere of the city centre, the beach is known for its peaceful surroundings and natural beauty. With its inviting shoreline, rich greenery and unspoilt feel, Taquaras showcases a calmer side of this popular Brazilian coastal destination.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261103_Camburiu\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 3, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Balne%c3%a1rio+Cambori%c3%ba&form=BGABWCTA7&filters=HpDate:\"20261103_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Balne%c3%a1rio+Cambori%c3%ba&form=BGABWCTA11&filters=HpDate:\"20261103_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261102",
       "fullstartdate": "20261102",
       "enddate": "20261103",
