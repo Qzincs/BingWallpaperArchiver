@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261105",
+      "fullstartdate": "20261105",
+      "enddate": "20261106",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg",
+      "copyrighttext": "© Alex Treadway/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=BGALM&filters=HpDate:\"20261104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "石墙边的木制翻越梯，黑岩，湖区，英格兰",
+      "description": "一座简朴的木制翻越梯，将人们引向英格兰最负盛名的风景区之一。被列为联合国教科文组织世界遗产的湖区，湖泊波光粼粼，山丘崎岖起伏，古老的石墙纵横其间；自然力量与世代相传的农耕传统共同塑造了这片景观。",
+      "headline": "向山巅再迈一步",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261105_StileCrossing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 5",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=BGABWCTA7&filters=HpDate:\"20261104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e6%b9%96%e5%8c%ba&form=BGABWCTA11&filters=HpDate:\"20261104_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261104",
       "fullstartdate": "20261104",
       "enddate": "20261105",

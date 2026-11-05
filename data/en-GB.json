@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261105",
+      "fullstartdate": "20261105",
+      "enddate": "20261106",
+      "urlbase": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg",
+      "copyrighttext": "© Michael Lee/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=bonfire+night&form=BGALM&filters=HpDate:\"20261105_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fireworks over Battersea Power Station, London",
+      "description": "Happy Bonfire Night, or Guy Fawkes Night, from London's iconic Battersea Power Station, which has towered over the Thames since the 1930s. Fireworks will be seen and heard across London and the UK tonight and over the weekend, to mark the anniversary of the 1605 Gunpowder Plot. The infamous bid to blow up the Houses of Parliament was foiled when Guy Fawkes was caught in the cellars, trying to light the fuse to hidden barrels of gunpowder. His name has since become synonymous with the plot, and his effigy has traditionally been burned to mark the date.",
+      "headline": "Remember, remember",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261105_FireworksBattersea\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/51.482694,-0.144325/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=51.482694,-0.144325;S9;Battersea Power Station&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 5, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=bonfire+night&form=BGABWCTA7&filters=HpDate:\"20261105_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=bonfire+night&form=BGABWCTA11&filters=HpDate:\"20261105_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261104",
       "fullstartdate": "20261104",
       "enddate": "20261105",

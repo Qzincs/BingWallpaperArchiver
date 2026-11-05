@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261104",
+      "fullstartdate": "20261104",
+      "enddate": "20261105",
+      "urlbase": "https://www.bing.com/th?id=OHR.AutumnChina_ROW6919148725_UHD.jpg",
+      "copyrighttext": "© Jackal Pan/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=bald+cypress&form=BGALM&filters=HpDate:\"20261104_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "People rowing among colourful bald cypress, Xuancheng, Anhui, China",
+      "description": "People paddle through a glowing maze of bald cypress in Xuancheng, Anhui, where autumn transforms flooded woodlands into a tapestry of amber, copper and deep rust. Known scientifically as 'Taxodium distichum', bald cypress is unusual among conifers because it sheds its soft, feathery needles each fall, turning reddish-brown before they drop.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261104_AutumnChina\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 4, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=bald+cypress&form=BGABWCTA7&filters=HpDate:\"20261104_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=bald+cypress&form=BGABWCTA11&filters=HpDate:\"20261104_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261103",
       "fullstartdate": "20261103",
       "enddate": "20261104",

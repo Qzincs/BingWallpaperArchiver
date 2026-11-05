@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261105",
+      "fullstartdate": "20261105",
+      "enddate": "20261106",
+      "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_PT-BR3493884309_UHD.jpg",
+      "copyrighttext": "© Alex Treadway/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=BGALM&filters=HpDate:\"20261105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Escada de madeira sobre um muro de pedra, Black Crag, Lake District, Inglaterra",
+      "description": "Uma simples escada de madeira para transpor um muro dá acesso a uma das paisagens mais famosas da Inglaterra. O Lake District, reconhecido como Patrimônio Mundial pela UNESCO, é um mosaico de lagos cintilantes, elevações de relevo acidentado e muros de pedra centenários, moldado tanto pela natureza quanto pelas tradições agrícolas.",
+      "headline": "Falta muito pro topo?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261105_StileCrossing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.460861,-3.08875/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=54.460861,-3.08875;S9;Lake District&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lake+District+Inglaterra&form=BGABWCTA7&filters=HpDate:\"20261105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lake+District+Inglaterra&form=BGABWCTA11&filters=HpDate:\"20261105_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261104",
       "fullstartdate": "20261104",
       "enddate": "20261105",

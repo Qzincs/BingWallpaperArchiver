@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261105",
+      "fullstartdate": "20261105",
+      "enddate": "20261106",
+      "urlbase": "https://www.bing.com/th?id=OHR.StileCrossing_ES-ES1149628904_UHD.jpg",
+      "copyrighttext": "© Alex Treadway/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lake+District+Inglaterra&form=BGALM&filters=HpDate:\"20261104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Escalera de madera, Black Crag, Distrito de los Lagos, Inglaterra",
+      "description": "Un sencillo paso de madera conduce a uno de los paisajes más emblemáticos de Inglaterra. El Distrito de los Lagos, declarado Patrimonio de la Humanidad por la UNESCO, forma un mosaico de lagos resplandecientes, colinas escarpadas y muros de piedra centenarios, moldeado tanto por la naturaleza como por siglos de tradición agrícola.",
+      "headline": "Un paso más cerca de la cumbre",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261105_StileCrossing\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/54.460861,-3.08875/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=54.460861,-3.08875;S9;Distrito de los Lagos, Inglaterra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "5 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lake+District+Inglaterra&form=BGABWCTA7&filters=HpDate:\"20261104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lake+District+Inglaterra&form=BGABWCTA11&filters=HpDate:\"20261104_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261104",
       "fullstartdate": "20261104",
       "enddate": "20261105",
