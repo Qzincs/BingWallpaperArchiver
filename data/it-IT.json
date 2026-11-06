@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261106",
+      "fullstartdate": "20261106",
+      "enddate": "20261107",
+      "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_IT-IT5147973458_UHD.jpg",
+      "copyrighttext": "© MNStudio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Haleakala+National+Park&form=BGALM&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Foresta di Bambù, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA",
+      "description": "Un vulcano, una rigogliosa foresta pluviale e distese di bambù: l’Haleakalā National Park di Maui racchiude paesaggi straordinariamente diversi. Dalla vetta, a oltre 3.000 metri, fino alla costa, lo scenario cambia con l’altitudine, le piogge e le temperature. Il nome Haleakalā significa “Casa del Sole” e richiama un’antica leggenda hawaiana, secondo cui Māui catturò il sole per allungare le giornate. Nel distretto di Kīpahulu, il Pīpīwai Trail conduce alla celebre foresta di bambù, dove gli alti fusti formano una volta verde sopra il sentiero e, mossi dal vento, si urtano tra loro producendo un caratteristico ticchettio.",
+      "headline": "Un tunnel verde nel cuore di Maui",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261106_PipiwaiTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.760987,-156.155095/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=20.760987,-156.155095;S9;Haleakalā National Park, Maui, Hawaii&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Haleakala+National+Park&form=BGABWCTA7&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Haleakala+National+Park&form=BGABWCTA11&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261105",
       "fullstartdate": "20261105",
       "enddate": "20261106",

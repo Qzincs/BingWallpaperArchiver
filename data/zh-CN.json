@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261106",
+      "fullstartdate": "20261106",
+      "enddate": "20261107",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg",
+      "copyrighttext": "© MNStudio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%93%88%e8%8e%b1%e4%ba%9a%e5%8d%a1%e6%8b%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20261105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国",
+      "description": "火山、雨林和竹林？毛伊岛上的哈莱亚卡拉国家公园三者兼有。公园的范围从毛伊岛上海拔10023英尺的山顶一直延伸到海岸，保护着随海拔、降雨量和气温变化而呈现迥异面貌的景观。它于1916年作为夏威夷国家公园的一部分设立，1961年成为独立的国家公园。哈莱阿卡拉意为“太阳之家”，这一名称呼应了夏威夷口述传说“moʻolelo”中毛伊捉住太阳、延长白昼的故事。",
+      "headline": "穿越毛伊岛的绿色隧道",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261106_PipiwaiTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 6",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%93%88%e8%8e%b1%e4%ba%9a%e5%8d%a1%e6%8b%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20261105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%93%88%e8%8e%b1%e4%ba%9a%e5%8d%a1%e6%8b%89%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20261105_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261105",
       "fullstartdate": "20261105",
       "enddate": "20261106",

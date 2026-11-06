@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261106",
+      "fullstartdate": "20261106",
+      "enddate": "20261107",
+      "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_PT-BR4772010381_UHD.jpg",
+      "copyrighttext": "© MNStudio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+Haleakal%c4%81&form=BGALM&filters=HpDate:\"20261106_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Floresta de bambu, Trilha Pīpīwai, Parque Nacional de Haleakalā, Maui, Havaí, Estados Unidos",
+      "description": "Um vulcão, uma floresta tropical e um bambuzal? O Parque Nacional de Haleakalā, em Maui, tem os três. Do cume, a cerca de 3.055 metros de altitude, até o litoral, o parque protege paisagens que mudam radicalmente conforme a altitude, a quantidade de chuva e a temperatura. Criado em 1916 como parte do Parque Nacional do Havaí, tornou-se um parque nacional independente em 1961. O nome Haleakalā significa “Casa do Sol” e remete ao mo‘olelo, a narrativa tradicional havaiana de Māui, que capturou o sol para prolongar o dia. O parque abriga mais de 850 espécies de plantas, incluindo a silversword de Haleakalā.",
+      "headline": "O portal verde de Maui",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261106_PipiwaiTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.760987,-156.155095/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=20.760987,-156.155095;S9;Parque Nacional de Haleakalā&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+Haleakal%c4%81&form=BGABWCTA7&filters=HpDate:\"20261106_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+Haleakal%c4%81&form=BGABWCTA11&filters=HpDate:\"20261106_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261105",
       "fullstartdate": "20261105",
       "enddate": "20261106",

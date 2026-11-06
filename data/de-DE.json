@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261106",
+      "fullstartdate": "20261106",
+      "enddate": "20261107",
+      "urlbase": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg",
+      "copyrighttext": "© MNStudio/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Haleakala-Nationalpark+Hawaii&form=BGALM&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Bambuswald, Pīpīwai Trail, Haleakalā-Nationalpark, Maui, Hawaii, USA",
+      "description": "Ein Vulkan, ein Regenwald und ein Bambushain? Der Haleakalā-Nationalpark auf Maui bietet all das. Der Park erstreckt sich über die gesamte Insel Maui, vom 3.055 Meter hohen Gipfel bis zur Küste, und schützt Landschaften, die sich je nach Höhe, Niederschlagsmenge und Temperatur dramatisch verändern. Er wurde 1916 als Teil des Hawaii-Nationalparks gegründet und 1961 zu einem eigenständigen Nationalpark erklärt. Der Name Haleakalā bedeutet übersetzt „Haus der Sonne“ und spiegelt die hawaiianische Legende (mo’olelo) wider, wonach Māui die Sonne einfing, um den Tag zu verlängern.",
+      "headline": "Ein grüner Tunnel durch Maui",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261106_PipiwaiTrail\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/20.760987,-156.155095/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=20.760987,-156.155095;S9;Haleakalā-Nationalpark, Maui, Hawaii&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "6. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Haleakala-Nationalpark+Hawaii&form=BGABWCTA7&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Haleakala-Nationalpark+Hawaii&form=BGABWCTA11&filters=HpDate:\"20261105_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261105",
       "fullstartdate": "20261105",
       "enddate": "20261106",
