@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261107",
+      "fullstartdate": "20261107",
+      "enddate": "20261108",
+      "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_ES-ES8128030749_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bisonte+Americano&form=BGALM&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Un bisonte en los pastizales del Parque Nacional Theodore Roosevelt, Dakota del Norte, EE. UU.",
+      "description": "Cuando las cosas se ponen difíciles, el bisonte sigue pastando. Este mamífero norteamericano puede pesar hasta 907 kilogramos y, aun así, correr a velocidades de hasta 56 kilómetros por hora. En 2016 se convirtió en el mamífero nacional de Estados Unidos.",
+      "headline": "El gigante que regresó para quedarse",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=47.275714,-103.463282;S9;Parque Nacional Theodore Roosevelt, Dakota del Norte&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bisonte+Americano&form=BGABWCTA7&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bisonte+Americano&form=BGABWCTA11&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261106",
       "fullstartdate": "20261106",
       "enddate": "20261107",

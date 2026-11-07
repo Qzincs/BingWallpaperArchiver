@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261107",
+      "fullstartdate": "20261107",
+      "enddate": "20261108",
+      "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=BGALM&filters=HpDate:\"20261106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "セオドア・ルーズベルト国立公園の草原にいるバイソン、ノースダコタ州、アメリカ",
+      "description": "北米の草原に暮らすアメリカバイソンは、世界でも最大級の陸上哺乳類です。体重は900キロほどにもなりますが、時速約65キロで走ることができます。「バッファロー」と呼ばれることもありますが、アフリカやアジアにすむ本来のバッファローとは別の動物です。肩の大きなこぶは発達した筋肉で、冬は頭を左右に振って雪をかき分け、その下の草を探します。しっぽを見れば気分もわかり、ゆったり揺れていれば落ち着いているサイン、ピンと立っていたら興奮しているのかもしれません。一時は絶滅寸前まで追い込まれましたが、保護活動によって少しずつ数を取り戻してきました。",
+      "headline": "よみがえった草原の巨人",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=47.275714,-103.463282;S9;セオドア・ルーズベルト国立公園&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 7 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=BGABWCTA7&filters=HpDate:\"20261106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e3%83%90%e3%82%a4%e3%82%bd%e3%83%b3&form=BGABWCTA11&filters=HpDate:\"20261106_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261106",
       "fullstartdate": "20261106",
       "enddate": "20261107",

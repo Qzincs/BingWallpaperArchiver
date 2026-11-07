@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261107",
+      "fullstartdate": "20261107",
+      "enddate": "20261108",
+      "urlbase": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg",
+      "copyrighttext": "© Tandem Stock/Adobe Stock",
+      "copyrightlink": "https://www.bing.com/search?q=Bisons&form=BGALM&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ein Bison in der Grassteppe des Theodore-Roosevelt-Nationalparks, Nord-Dakota, USA",
+      "description": "Obwohl er oft als Büffel bezeichnet wird, gehört der amerikanische Bison nicht zu den echten Büffeln, die in Afrika und Asien beheimatet sind. Sein wissenschaftlicher Name „Bison bison”, lässt wenig Raum für Verwechslungen. Dieses nordamerikanische Säugetier kann bis zu 900 Kilo wiegen und dennoch mit einer Geschwindigkeit von fast 60 km/h sprinten. Sein muskulöser Schulterhöcker hilft ihm den Kopf hin und her zu schwingen, um Schnee beiseite zu schieben und so an das darunter liegende Gras zu gelangen. Sowohl Männchen als auch Weibchen haben Hörner und einen Bart. Schwanzbewegungen geben Aufschluss über ihre Stimmung: Schwanzwedeln signalisiert in der Regel Gelassenheit, während ein gehobener Schwanz auf Unruhe hindeuten kann.",
+      "headline": "Der zurückgekehrte Riese",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261107_DakotaBison\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/47.275714,-103.463282/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=47.275714,-103.463282;S9;Theodore-Roosevelt-Nationalpark, Nord-Dakota&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "7. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bisons&form=BGABWCTA7&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bisons&form=BGABWCTA11&filters=HpDate:\"20261106_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261106",
       "fullstartdate": "20261106",
       "enddate": "20261107",
