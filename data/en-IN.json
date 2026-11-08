@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261108",
+      "fullstartdate": "20261108",
+      "enddate": "20261109",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-IN0900276687_UHD.jpg",
+      "copyrighttext": "© Dinodia Photo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Diwali&form=BGALM&filters=HpDate:\"20261107_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lanterns for Diwali in Mumbai, Maharashtra",
+      "description": "Across India, Diwali brings homes, streets and neighbourhoods to life with the warm glow of lanterns, diyas and colourful decorations. Known as the Festival of Lights, it celebrates themes of hope, new beginnings and the triumph of light over darkness. Traditions vary across the country, but for many families, the festivities include creating rangoli, performing Lakshmi Puja, exchanging sweets and gifts, and spending time with loved ones. Diwali is also associated with Lord Rama's return to Ayodhya after defeating Ravana. More than a festival, it's a time for togetherness, reflection and welcoming the year ahead with optimism.",
+      "headline": "Happy Diwali!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261108_DiwaliLamps\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.969048,72.821182/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=18.969048,72.821182;S9;Mumbai, Maharashtra&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 8, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Diwali&form=BGABWCTA7&filters=HpDate:\"20261107_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Diwali&form=BGABWCTA11&filters=HpDate:\"20261107_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261107",
       "fullstartdate": "20261107",
       "enddate": "20261108",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261108",
+      "fullstartdate": "20261108",
+      "enddate": "20261109",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_PT-BR7355901557_UHD.jpg",
+      "copyrighttext": "© Dinodia Photo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=diwali+festival+das+luzes&form=BGALM&filters=HpDate:\"20261108_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lanternas para o Diwali, Mumbai, Maharashtra, Índia",
+      "description": "O que acontece quando a noite mais escura do ano ganha a celebração mais iluminada? Diwali. O Festival das Luzes é celebrado por milhões de pessoas em todo o mundo, reunindo diyas, lanternas, rangolis, orações, doces e encontros em família.",
+      "headline": "Uma festa que ilumina",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261108_DiwaliLamps\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.969048,72.821182/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=18.969048,72.821182;S9;Mumbai, Maharashtra, Índia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=diwali+festival+das+luzes&form=BGABWCTA7&filters=HpDate:\"20261108_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=diwali+festival+das+luzes&form=BGABWCTA11&filters=HpDate:\"20261108_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261107",
       "fullstartdate": "20261107",
       "enddate": "20261108",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261108",
+      "fullstartdate": "20261108",
+      "enddate": "20261109",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg",
+      "copyrighttext": "© Dinodia Photo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=BGALM&filters=HpDate:\"20261107_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "排灯节灯笼，孟买，马哈拉施特拉邦，印度",
+      "description": "一年中最黑暗的夜晚遇上最明亮的庆典，会是什么景象？答案就是排灯节。世界各地数百万人庆祝这个灯节，点亮油灯和灯笼，绘制兰戈利彩绘，祈祷、品尝甜点，并与家人团聚。",
+      "headline": "光芒四射的节日",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261108_DiwaliLamps\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 8",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=BGABWCTA7&filters=HpDate:\"20261107_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%8e%92%e7%81%af%e8%8a%82&form=BGABWCTA11&filters=HpDate:\"20261107_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261107",
       "fullstartdate": "20261107",
       "enddate": "20261108",

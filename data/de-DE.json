@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261108",
+      "fullstartdate": "20261108",
+      "enddate": "20261109",
+      "urlbase": "https://www.bing.com/th?id=OHR.DiwaliLamps_DE-DE0703233561_UHD.jpg",
+      "copyrighttext": "© Dinodia Photo/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Diwali&form=BGALM&filters=HpDate:\"20261107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Laternen für Diwali, Mumbai, Maharashtra, Indien",
+      "description": "Was ist los, wenn die dunkelste Nacht des Jahres zum strahlendsten Fest wird? Dann ist Diwali! Das Lichterfest wird weltweit von Millionen Menschen gefeiert und steht ganz im Zeichen von Diyas, Laternen, Rangoli, Gebeten, Süßigkeiten und Familientreffen.",
+      "headline": "Ein strahlendes Fest",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261108_DiwaliLamps\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/18.969048,72.821182/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=18.969048,72.821182;S9;Mumbai, Maharashtra, Indien&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "8. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Diwali&form=BGABWCTA7&filters=HpDate:\"20261107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Diwali&form=BGABWCTA11&filters=HpDate:\"20261107_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261107",
       "fullstartdate": "20261107",
       "enddate": "20261108",
