@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261109",
+      "fullstartdate": "20261109",
+      "enddate": "20261110",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg",
+      "copyrighttext": "© Andrzej Rostek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=BGALM&filters=HpDate:\"20261108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "セビリアの歴史地区トリアナ、スペイン",
+      "description": "スペイン南部アンダルシア州の州都セビリアで、グアダルキビール川を渡ると、街の表情が少し変わります。対岸のトリアナは、フラメンコや昔ながらの文化が息づく色彩豊かな地区で、19世紀に架けられたイサベル2世橋（トリアナ橋）で歴史地区とつながっています。古くから陶器作りが盛んで、今も色鮮やかなタイルが建物や工房を彩っています。職人や市場、音楽、細い路地が織りなす独特の雰囲気こそ、トリアナならではの魅力です。",
+      "headline": "芸術がリズムを刻む街",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261109_TrianaSpain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.382904,-6.006341/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.382904,-6.006341;S9;トリアナ、セビリア、スペイン&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 9 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=BGABWCTA7&filters=HpDate:\"20261108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%bb%e3%83%93%e3%83%aa%e3%82%a2+%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3&form=BGABWCTA11&filters=HpDate:\"20261108_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261108",
       "fullstartdate": "20261108",
       "enddate": "20261109",

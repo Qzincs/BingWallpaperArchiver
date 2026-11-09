@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261109",
+      "fullstartdate": "20261109",
+      "enddate": "20261110",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg",
+      "copyrighttext": "© Andrzej Rostek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=BGALM&filters=HpDate:\"20261108_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "特里亚纳历史街区，塞维利亚，西班牙",
+      "description": "在西班牙安达卢西亚地区首府塞维利亚，跨过瓜达尔基维尔河，城市的节奏似乎便悄然改变。河对岸是色彩缤纷的特里亚纳街区，陶艺、弗拉门戈和当地传统融入日常生活。自19世纪以来，伊莎贝尔二世桥——又称特里亚纳桥——一直连接着这里与塞维利亚的历史中心。",
+      "headline": "艺术与韵律交汇之地",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261109_TrianaSpain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 9",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=BGABWCTA7&filters=HpDate:\"20261108_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%a5%bf%e7%8f%ad%e7%89%99%e5%a1%9e%e7%bb%b4%e5%88%a9%e4%ba%9a&form=BGABWCTA11&filters=HpDate:\"20261108_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261108",
       "fullstartdate": "20261108",
       "enddate": "20261109",

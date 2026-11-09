@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261109",
+      "fullstartdate": "20261109",
+      "enddate": "20261110",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrianaSpain_IT-IT6419651277_UHD.jpg",
+      "copyrighttext": "© Andrzej Rostek/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Siviglia+Spagna&form=BGALM&filters=HpDate:\"20261108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Quartiere storico di Triana, Siviglia, Spagna",
+      "description": "Attraversato il Guadalquivir si ha come l’impressione che il ritmo di Siviglia cambi d’improvviso. Triana, situato sull’altra sponda del fiume, è un quartiere variopinto dove ceramiche, flamenco e tradizioni locali fanno parte integrante della vita quotidiana. Dal XIX secolo, il ponte Isabella II collega il centro città a questo storico quartiere. Passeggiando per le sue strade, si incontrano facciate decorate con “azulejos” (tipiche maioliche colorate), botteghe artigiane e vicoli dove si respira la storia del flamenco. Lungo Calle Betis, edifici dai colori vivaci si affacciano dolcemente sul fiume. Tra mercati, cortili piastrellati e terrazze, Triana conserva tutt’oggi un fascino unico.",
+      "headline": "Dove l'arte trova il suo ritmo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261109_TrianaSpain\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.382904,-6.006341/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=37.382904,-6.006341;S9;Triana, Siviglia, Spagna&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "9 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Siviglia+Spagna&form=BGABWCTA7&filters=HpDate:\"20261108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Siviglia+Spagna&form=BGABWCTA11&filters=HpDate:\"20261108_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261108",
       "fullstartdate": "20261108",
       "enddate": "20261109",
