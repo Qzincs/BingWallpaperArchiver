@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261110",
+      "fullstartdate": "20261110",
+      "enddate": "20261111",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=BGALM&filters=HpDate:\"20261109_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "玫瑰岛航拍图，巴哈马",
+      "description": "从空中俯瞰，玫瑰岛就像一抹绿意，周围环绕着深浅不一的蓝色海水。这座狭长的小岛位于巴哈马天堂岛以东仅三英里处，没有繁忙的道路和成片的城市街区，取而代之的是沙滩、浅海和岛内潟湖。宁静的外表之下，它还藏着一段电影故事：1965年的詹姆斯·邦德冒险电影《霹雳弹》曾在玫瑰岛取景，其中包括“飞碟号”被炸毁的场景。",
+      "headline": "惬意放松，尽享海岛时光",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261110_RoseIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 10",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=BGABWCTA7&filters=HpDate:\"20261109_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b7%b4%e5%93%88%e9%a9%ac%e7%8e%ab%e7%91%b0%e5%b2%9b&form=BGABWCTA11&filters=HpDate:\"20261109_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261109",
       "fullstartdate": "20261109",
       "enddate": "20261110",

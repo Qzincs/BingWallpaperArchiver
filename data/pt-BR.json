@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261110",
+      "fullstartdate": "20261110",
+      "enddate": "20261111",
+      "urlbase": "https://www.bing.com/th?id=OHR.RoseIsland_PT-BR8484348763_UHD.jpg",
+      "copyrighttext": "© Abstract Aerial Art/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=BGALM&filters=HpDate:\"20261110_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vista aérea de Rose Island, nas Bahamas",
+      "description": "Vista de cima, Rose Island parece uma pincelada de verde cercada por todos os tons de azul. Situada a apenas cinco quilômetros a leste de Paradise Island, nas Bahamas, essa estreita ilhota troca estradas movimentadas e quarteirões urbanos por praias de areia, águas rasas e uma lagoa interior. Sua aparência tranquila também traz um toque de drama cinematográfico. Rose Island foi usada como locação no filme de James Bond de 1965, 007 Contra a Chantagem Atômica (Thunderball), incluindo a explosiva destruição do Disco Volante.",
+      "headline": "Proibido ter pressa",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261110_RoseIsland\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/25.088243,-77.225304/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=25.088243,-77.225304;S9;Rose Island, nas Bahamas&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "10 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=BGABWCTA7&filters=HpDate:\"20261110_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rose+Island+nas+Bahamas&form=BGABWCTA11&filters=HpDate:\"20261110_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261109",
       "fullstartdate": "20261109",
       "enddate": "20261110",
