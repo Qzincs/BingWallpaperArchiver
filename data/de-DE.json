@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261111",
+      "fullstartdate": "20261111",
+      "enddate": "20261112",
+      "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg",
+      "copyrighttext": "© FG Trade/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Atlantischer+Regenwald+Brasilien&form=BGALM&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Der Atlantische Regenwald, Brasilien",
+      "description": "Der Atlantische Regenwald ist einer der weltweit bedeutendsten Hotspots der Artenvielfalt und erstreckt sich über einen Großteil der brasilianischen Atlantikküste bis nach Argentinien und Paraguay. Seine Landschaft umfasst tropische und subtropische Wälder, Mangroven und küstennahe Lebensräume und bietet rund 20.000 Pflanzenarten sowie einer außergewöhnlichen Vielfalt an Wildtieren, darunter Jaguare und Goldlöwenäffchen, eine Heimat. Ein Großteil des Waldes ist im Laufe der Jahrhunderte verschwunden, doch er spielt weiterhin eine wichtige Rolle bei der Speicherung von Kohlenstoff und der Versorgung von Millionen von Menschen in der gesamten Region mit Süßwasser.",
+      "headline": "Ein Wald voller Wunder",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Atlantischer+Regenwald+Brasilien&form=BGABWCTA7&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Atlantischer+Regenwald+Brasilien&form=BGABWCTA11&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261110",
       "fullstartdate": "20261110",
       "enddate": "20261111",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261111",
+      "fullstartdate": "20261111",
+      "enddate": "20261112",
+      "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg",
+      "copyrighttext": "© FG Trade/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%a7%e8%a5%bf%e6%b4%8b%e5%b2%b8%e6%a3%ae%e6%9e%97+%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab&form=BGALM&filters=HpDate:\"20261110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "大西洋岸森林、ブラジル",
+      "description": "大西洋岸森林は、世界有数の生物多様性を誇る地域の一つです。ブラジルの大西洋沿岸からアルゼンチンやパラグアイにまで広がり、熱帯・亜熱帯の森林やマングローブなど、さまざまな環境が見られます。約2万種の植物が生育し、ジャガーやゴールデンライオンタマリンをはじめ、多彩な野生動物が暮らしています。長い年月の間に森林の多くが失われましたが、現在も炭素を蓄え、地域の多くの人々に淡水をもたらすなど、大切な役割を果たしています。",
+      "headline": "驚きに満ちた森",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 11 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a4%a7%e8%a5%bf%e6%b4%8b%e5%b2%b8%e6%a3%ae%e6%9e%97+%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab&form=BGABWCTA7&filters=HpDate:\"20261110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a4%a7%e8%a5%bf%e6%b4%8b%e5%b2%b8%e6%a3%ae%e6%9e%97+%e3%83%96%e3%83%a9%e3%82%b8%e3%83%ab&form=BGABWCTA11&filters=HpDate:\"20261110_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261110",
       "fullstartdate": "20261110",
       "enddate": "20261111",

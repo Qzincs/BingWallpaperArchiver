@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261111",
+      "fullstartdate": "20261111",
+      "enddate": "20261112",
+      "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_IT-IT7343444003_UHD.jpg",
+      "copyrighttext": "© FG Trade/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Foresta+Atlantica+Brasile&form=BGALM&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Foresta Atlantica, Brasile",
+      "description": "La Foresta Atlantica è uno dei grandi scrigni di biodiversità del pianeta. Si estende lungo gran parte della costa brasiliana e raggiunge alcune aree di Argentina e Paraguay. Tra foreste tropicali e subtropicali, mangrovie e habitat costieri, ospita circa 20.000 specie vegetali e una straordinaria varietà di animali, tra cui giaguari e scimmie leonine. Sebbene gran parte della foresta sia scomparsa nel corso dei secoli, questo prezioso ecosistema continua a svolgere un ruolo fondamentale: immagazzina anidride carbonica e garantisce risorse di acqua dolce a milioni di persone.",
+      "headline": "Una foresta piena di meraviglie",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "11 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Foresta+Atlantica+Brasile&form=BGABWCTA7&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Foresta+Atlantica+Brasile&form=BGABWCTA11&filters=HpDate:\"20261110_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261110",
       "fullstartdate": "20261110",
       "enddate": "20261111",
