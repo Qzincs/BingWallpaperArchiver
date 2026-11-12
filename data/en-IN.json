@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261112",
+      "fullstartdate": "20261112",
+      "enddate": "20261113",
+      "urlbase": "https://www.bing.com/th?id=OHR.NorthWindow_EN-IN3919602543_UHD.jpg",
+      "copyrighttext": "© lightphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Arches+National+Park&form=BGALM&filters=HpDate:\"20261111_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "North Window, Arches National Park, Moab, Utah, USA",
+      "description": "Just north of Moab, Utah, Arches National Park is home to more than 2,000 natural sandstone arches – the densest concentration of arches in the world. Today's image, North Window, is one of the best-known formations in the park's Windows Section, where towering fins, openings and sculpted sandstone create a landscape that looks almost architectural.",
+      "headline": "Architecture without an architect",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.6857117,-109.5328291/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=38.6857117,-109.5328291;S9;North Window, Arches National Park, Moab, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 12, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Arches+National+Park&form=BGABWCTA7&filters=HpDate:\"20261111_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Arches+National+Park&form=BGABWCTA11&filters=HpDate:\"20261111_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261111",
       "fullstartdate": "20261111",
       "enddate": "20261112",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261111",
+      "fullstartdate": "20261111",
+      "enddate": "20261112",
+      "urlbase": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg",
+      "copyrighttext": "© Matt Champlin/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Veterans+Day&form=BGALM&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "American flags in a public park in upstate New York",
+      "description": "As the sun filters through autumn trees in an upstate New York park, rows of flags turn the landscape into a tribute. Veterans Day, observed every November 11, honors all who have served in the US Armed Forces.",
+      "headline": "A salute in red, white, and blue",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_SunsetFlags\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 11, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Veterans+Day&form=BGABWCTA7&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Veterans+Day&form=BGABWCTA11&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261110",
       "fullstartdate": "20261110",
       "enddate": "20261111",

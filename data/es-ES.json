@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261112",
+      "fullstartdate": "20261112",
+      "enddate": "20261113",
+      "urlbase": "https://www.bing.com/th?id=OHR.NorthWindow_ES-ES3025809521_UHD.jpg",
+      "copyrighttext": "© lightphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=BGALM&filters=HpDate:\"20261111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "North Window, Parque Nacional de los Arcos, Moab, Utah, EE. UU.",
+      "description": "El 12 de noviembre, el Parque Nacional de los Arcos conmemora el aniversario de su designación como parque nacional en 1971. Situado justo al norte de Moab, Utah, este parque de desierto elevado alberga más de 2.000 arcos naturales de arenisca, la mayor concentración de arcos del mundo. La imagen de hoy muestra North Window, una de las formaciones más conocidas de la sección Windows del parque, donde imponentes aletas rocosas, aberturas y arenisca esculpida crean un paisaje de aspecto casi arquitectónico.",
+      "headline": "Arquitectura sin arquitecto",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.6857117,-109.5328291/7?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=38.6857117,-109.5328291;S9;North Window, Parque Nacional de los Arcos, Moab, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "12 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=BGABWCTA7&filters=HpDate:\"20261111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+de+los+Arcos&form=BGABWCTA11&filters=HpDate:\"20261111_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261111",
       "fullstartdate": "20261111",
       "enddate": "20261112",

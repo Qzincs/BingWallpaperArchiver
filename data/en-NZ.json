@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261111",
+      "fullstartdate": "20261111",
+      "enddate": "20261112",
+      "urlbase": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg",
+      "copyrighttext": "© FG Trade/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=BGALM&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "The Atlantic Forest, Brazil",
+      "description": "The Atlantic Forest is one of the world's great biodiversity hotspots, stretching along much of Brazil's Atlantic coast and into Argentina and Paraguay. Its landscape includes tropical and subtropical forests, mangroves and coastal habitats, providing a home for around 20,000 plant species and an extraordinary variety of wildlife, including jaguars and golden lion tamarins. Much of the forest has disappeared over the centuries, but it continues to play an important role in storing carbon and providing fresh water for millions of people across the region.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261111_Atlantica\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 11, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=BGABWCTA7&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Atlantic+Forest+Brazil&form=BGABWCTA11&filters=HpDate:\"20261111_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261110",
       "fullstartdate": "20261110",
       "enddate": "20261111",

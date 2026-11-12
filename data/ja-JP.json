@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261112",
+      "fullstartdate": "20261112",
+      "enddate": "20261113",
+      "urlbase": "https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_UHD.jpg",
+      "copyrighttext": "© lightphoto/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20261111_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ノース・ウィンドウ、アーチーズ国立公園、モアブ、ユタ州、アメリカ",
+      "description": "ユタ州モアブの北に広がるアーチーズ国立公園には、2,000を超える天然の砂岩アーチがあり、世界でもっともアーチが集まっている場所として知られています。写真のノース・ウィンドウは、巨大な石の門のような姿で知られる、園内を代表する景観の一つです。しかし、この壮大な造形を手がけたのは建築家ではありません。水や氷、気温の変化、重力が長い年月をかけてやわらかい岩を削り、自然ならではの建築美をつくり上げました。",
+      "headline": "自然が生んだ建築美",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261112_NorthWindow\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/38.6857117,-109.5328291/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=38.6857117,-109.5328291;S9;アーチーズ国立公園、モアブ、ユタ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 12 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA7&filters=HpDate:\"20261111_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%83%bc%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA11&filters=HpDate:\"20261111_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261111",
       "fullstartdate": "20261111",
       "enddate": "20261112",
