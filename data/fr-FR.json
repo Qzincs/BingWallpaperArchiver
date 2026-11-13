@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261113",
+      "fullstartdate": "20261113",
+      "enddate": "20261114",
+      "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg",
+      "copyrighttext": "© Guang Cao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lac+Abraham+Alberta&form=BGALM&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lac Abraham, Alberta, Canada",
+      "description": "Les premières lueurs de l'aube se reflètent sur la surface gelée du lac Abraham, encadré par les sommets des montagnes Rocheuses. En hiver, ce lac pittoresque de l'Alberta au Canada est célèbre pour ses bulles de méthane gelées, piégées sous la glace. Les vents violents empêchent la neige de s'accumuler à la surface, offrant ainsi une image étonnante tout au long de l'hiver. Au printemps, lorsque la glace fond, le gaz s'échappe dans l'atmosphère.",
+      "headline": "Des profondeurs mystérieuses",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=52.1392,-116.4355;S9;Lac Abraham&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lac+Abraham+Alberta&form=BGABWCTA7&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lac+Abraham+Alberta&form=BGABWCTA11&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261112",
       "fullstartdate": "20261112",
       "enddate": "20261113",

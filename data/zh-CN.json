@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261113",
+      "fullstartdate": "20261113",
+      "enddate": "20261114",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg",
+      "copyrighttext": "© Guang Cao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e8%89%be%e4%bc%af%e5%a1%94%e7%9c%81%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=BGALM&filters=HpDate:\"20261112_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "亚伯拉罕湖，艾伯塔省，加拿大",
+      "description": "黎明的第一缕曙光映照在亚伯拉罕湖冰封的湖面上，远处是落基山脉的群峰。冬季，这座位于艾伯塔省的如画湖泊以困在冰层下的甲烷气泡而闻名。强风使湖面不被积雪覆盖，让人们整个冬天都能观赏这一景象。到了春天，冰层融化，气体便逸散到大气中。",
+      "headline": "冰下秘境",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 13",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e8%89%be%e4%bc%af%e5%a1%94%e7%9c%81%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20261112_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e8%89%be%e4%bc%af%e5%a1%94%e7%9c%81%e4%ba%9a%e4%bc%af%e6%8b%89%e7%bd%95%e6%b9%96&form=BGABWCTA11&filters=HpDate:\"20261112_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261112",
       "fullstartdate": "20261112",
       "enddate": "20261113",

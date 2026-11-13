@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261113",
+      "fullstartdate": "20261113",
+      "enddate": "20261114",
+      "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_UHD.jpg",
+      "copyrighttext": "© Guang Cao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e6%b9%96+%e3%82%a2%e3%83%ab%e3%83%90%e3%83%bc%e3%82%bf%e5%b7%9e&form=BGALM&filters=HpDate:\"20261112_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "アブラハム湖、アルバータ州、カナダ",
+      "description": "ロッキー山脈に抱かれたカナダ・アルバータ州のアブラハム湖は、冬になるとメタンガスの気泡が凍って氷の下に閉じ込められる光景で知られています。強風で雪が吹き飛ばされるため、冬の間ずっとその気泡を眺められるのも魅力です。実は1972年のダム建設でできた人造湖で、夏はターコイズブルーの湖面が美しく、一年を通して人気のフォトスポットです。",
+      "headline": "氷の下の神秘",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=52.1392,-116.4355;S9;アブラハム湖、アルバータ州、カナダ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 13 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e6%b9%96+%e3%82%a2%e3%83%ab%e3%83%90%e3%83%bc%e3%82%bf%e5%b7%9e&form=BGABWCTA7&filters=HpDate:\"20261112_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%a2%e3%83%96%e3%83%a9%e3%83%8f%e3%83%a0%e6%b9%96+%e3%82%a2%e3%83%ab%e3%83%90%e3%83%bc%e3%82%bf%e5%b7%9e&form=BGABWCTA11&filters=HpDate:\"20261112_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261112",
       "fullstartdate": "20261112",
       "enddate": "20261113",

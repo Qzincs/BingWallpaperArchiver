@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261113",
+      "fullstartdate": "20261113",
+      "enddate": "20261114",
+      "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-GB1908527515_UHD.jpg",
+      "copyrighttext": "© Guang Cao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGALM&filters=HpDate:\"20261113_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Abraham Lake in Alberta, Canada",
+      "description": "Dawn's first light reflects off the frozen surface of Abraham Lake, framed by the peaks of the Rocky Mountains. In winter, this picturesque lake in Alberta is famous for its frozen methane bubbles, trapped beneath the ice. Strong winds keep the ice largely clear of snow, revealing the bubbles below throughout the winter. As spring arrives and the ice thaws, the trapped gas can escape into the atmosphere.",
+      "headline": "Hidden depths",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=52.1392,-116.4355;S9;Abraham Lake, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 13, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGABWCTA7&filters=HpDate:\"20261113_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=BGABWCTA11&filters=HpDate:\"20261113_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261112",
       "fullstartdate": "20261112",
       "enddate": "20261113",

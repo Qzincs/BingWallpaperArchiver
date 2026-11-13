@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261113",
+      "fullstartdate": "20261113",
+      "enddate": "20261114",
+      "urlbase": "https://www.bing.com/th?id=OHR.AbrahamCanada_IT-IT8830047843_UHD.jpg",
+      "copyrighttext": "© Guang Cao/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+Abraham+Alberta&form=BGALM&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Lago Abraham, Alberta, Canada",
+      "description": "Alle prime luci dell’alba, la superficie ghiacciata del lago Abraham si accende di riflessi, con le maestose vette delle Montagne Rocciose a farne da contorno. Durante l'inverno, è possibile ammirare un incredibile spettacolo: bolle ghiacciate di metano restano intrappolate sotto la superficie del lago, resa visibile dai forti venti che spazzano via la neve. Con il disgelo primaverile, il gas tornerà a liberarsi nell’atmosfera. Nonostante il suo fascino selvaggio, si tratta in realtà di un bacino artificiale, nato nel 1972 con la costruzione della diga di Bighorn sul fiume North Saskatchewan. Ghiacciato d’inverno e turchese d’estate, il lago Abraham offre scenari da fotografare in ogni stagione.",
+      "headline": "Misteri sommersi",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261113_AbrahamCanada\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/52.1392,-116.4355/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=52.1392,-116.4355;S9;Lago Abraham, Alberta&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "13 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lago+Abraham+Alberta&form=BGABWCTA7&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lago+Abraham+Alberta&form=BGABWCTA11&filters=HpDate:\"20261112_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261112",
       "fullstartdate": "20261112",
       "enddate": "20261113",
