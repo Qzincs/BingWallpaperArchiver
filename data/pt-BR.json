@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261114",
+      "fullstartdate": "20261114",
+      "enddate": "20261115",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_PT-BR4557088394_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=BGALM&filters=HpDate:\"20261114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Victoria Harbour, Hong Kong, China",
+      "description": "Bem-vindo a Hong Kong, que abriga a maior concentração de arranha-céus do mundo. Os edifícios vistos aqui se erguem sobre Victoria Harbour, cujas águas profundas permitiram que a ilha se desenvolvesse como um movimentado porto comercial. Desde a década de 1840, navios transportando chá, seda e outras mercadorias passam pela região, mas o crescimento disparou nas décadas após a Segunda Guerra Mundial, impulsionando um boom na construção civil. Com pouco terreno plano disponível entre o porto e as colinas, os incorporadores tiveram de construir verticalmente, criando esse horizonte urbano inconfundível. Em 2026, Hong Kong tem 569 edifícios com mais de 150 metros de altura, mais do que qualquer outra cidade.",
+      "headline": "O céu é o limite",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=22.285,114.165;S9;Victoria Harbour, Hong Kong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=BGABWCTA7&filters=HpDate:\"20261114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Victoria+Harbour+em+Hong+Kong+na+China&form=BGABWCTA11&filters=HpDate:\"20261114_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261113",
       "fullstartdate": "20261113",
       "enddate": "20261114",

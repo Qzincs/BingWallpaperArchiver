@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261114",
+      "fullstartdate": "20261114",
+      "enddate": "20261115",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_IT-IT8939331622_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=BGALM&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Victoria Harbour, Hong Kong, Cina",
+      "description": "Benvenuti a Hong Kong, la città con più grattacieli al mondo. Quelli che svettano sul Victoria Harbour raccontano una storia plasmata anche dai suoi profondi fondali, che favorirono lo sviluppo di un vivace porto commerciale. Navi cariche di tè, seta e merci di ogni tipo, solcano queste acque fin dagli anni Quaranta dell’Ottocento. Dopo la Seconda Guerra Mondiale, la rapida crescita economica diede impulso a un grande boom edilizio. Con poco terreno pianeggiante tra porto e colline, non restava che costruire verso l’alto, dando vita ad un inconfondibile skyline. Nel 2026, Hong Kong conta 569 edifici alti oltre 150 metri, più di qualsiasi altra città.",
+      "headline": "Sempre più in alto",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=22.285,114.165;S9;Victoria Harbour, Hong Kong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=BGABWCTA7&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Victoria+Harbour+Hong+Kong&form=BGABWCTA11&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261113",
       "fullstartdate": "20261113",
       "enddate": "20261114",

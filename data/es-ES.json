@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261114",
+      "fullstartdate": "20261114",
+      "enddate": "20261115",
+      "urlbase": "https://www.bing.com/th?id=OHR.BlueHK_ES-ES3038554146_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=BGALM&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Puerto Victoria, Hong Kong, China",
+      "description": "Bienvenidos a Hong Kong, la ciudad con la mayor concentración de rascacielos del mundo. Los edificios de la imagen se elevan sobre el puerto Victoria, cuyas aguas profundas permitieron que la isla se desarrollara como un importante puerto comercial. Desde la década de 1840 han pasado por aquí barcos cargados de té, seda y otras mercancías; tras la Segunda Guerra Mundial, su rápido crecimiento impulsó un auge de la construcción.",
+      "headline": "Una ciudad que mira al cielo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/22.285,114.165/10?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=22.285,114.165;S9;Puerto Victoria, Hong Kong&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "14 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=BGABWCTA7&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Puerto+Victoria+Hong+Kong&form=BGABWCTA11&filters=HpDate:\"20261113_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261113",
       "fullstartdate": "20261113",
       "enddate": "20261114",

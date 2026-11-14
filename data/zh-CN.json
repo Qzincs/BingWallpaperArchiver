@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261114",
+      "fullstartdate": "20261114",
+      "enddate": "20261115",
+      "urlbase": "http://ts1.tc.mm.bing.net/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg",
+      "copyrighttext": "© Juan Romero/Cavan Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=BGALM&filters=HpDate:\"20261113_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "中国香港维多利亚港",
+      "description": "欢迎来到香港，这里拥有全球最多的摩天大楼。图中的高楼耸立在维多利亚港上方，港口水深，使香港得以发展成为繁忙的贸易港。自19世纪40年代起，载着茶叶、丝绸和其他货物的船只便在这里往来；第二次世界大战后的几十年间，经济增长急剧加速，带动了建筑业的繁荣。港口与山丘之间可用的平地有限，开发商只得向上建造，塑造了这片独具特色的天际线。2026年，香港有569栋高度超过492英尺的建筑，比任何其他城市都多。",
+      "headline": "唯有向上发展",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261114_BlueHK\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 14",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=BGABWCTA7&filters=HpDate:\"20261113_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e4%b8%ad%e5%9b%bd%e9%a6%99%e6%b8%af%e7%bb%b4%e5%a4%9a%e5%88%a9%e4%ba%9a%e6%b8%af&form=BGABWCTA11&filters=HpDate:\"20261113_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261113",
       "fullstartdate": "20261113",
       "enddate": "20261114",
