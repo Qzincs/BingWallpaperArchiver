@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261115",
+      "fullstartdate": "20261115",
+      "enddate": "20261116",
+      "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_ES-ES3306321438_UHD.jpg",
+      "copyrighttext": "© avoferten/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=azaleas&form=BGALM&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Escarcha sobre hojas de azalea",
+      "description": "A medida que las primeras heladas del otoño avanzan por el sur, se forman cristales de hielo sobre las hojas de arbustos perennes, como esta azalea. Atrás quedan los tonos rosas, naranjas y amarillos de la floración primaveral, pero comienza un nuevo espectáculo de color: las hojas verdes adquieren tonalidades rojas y moradas.",
+      "headline": "Follaje escarchado",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=azaleas&form=BGABWCTA7&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=azaleas&form=BGABWCTA11&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261114",
       "fullstartdate": "20261114",
       "enddate": "20261115",

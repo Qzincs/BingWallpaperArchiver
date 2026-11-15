@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261115",
+      "fullstartdate": "20261115",
+      "enddate": "20261116",
+      "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_EN-IN2174706343_UHD.jpg",
+      "copyrighttext": "© avoferten/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=azaleas&form=BGALM&filters=HpDate:\"20261114_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Frozen azalea with red leaves",
+      "description": "As autumn's first frost sets in, ice crystals form on the leaves of evergreen shrubs, like this azalea. Long gone are the pinks, oranges and yellows of their spring blooms, but a new colourful display awaits, as their green leaves turn shades of red and purple. For the plants, the new pigments protect their leaves as temperatures drop, but for gardeners, they create a vibrant autumnal display, framed in white frost. When spring arrives, new growth will restore the shrub's green leaves and the colourful cycle begins anew.",
+      "headline": "Frosty foliage",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 15, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=azaleas&form=BGABWCTA7&filters=HpDate:\"20261114_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=azaleas&form=BGABWCTA11&filters=HpDate:\"20261114_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261114",
       "fullstartdate": "20261114",
       "enddate": "20261115",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261115",
+      "fullstartdate": "20261115",
+      "enddate": "20261116",
+      "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_DE-DE6574553682_UHD.jpg",
+      "copyrighttext": "© avoferten/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=Azaleen&form=BGALM&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Gefrorene Azalee mit roten Blättern",
+      "description": "Während der erste Herbstfrost über das Land zieht, bilden sich Eiskristalle auf den Blättern immergrüner Sträucher wie dieser Azalee. Die Rosa-, Orange- und Gelbtöne ihrer Frühlingsblüte sind längst verschwunden und nun erwartet uns ein neues farbenfrohes Schauspiel, bei dem sich die grünen Blätter in Rot- und Violetttöne verwandeln. Diese neuen Pigmente schützen die Blätter der Pflanzen vor den sinkenden Temperaturen, während sie Gärtnern prächtige Herbstfarben liefern, eingerahmt von weißem Raureif. Im Frühling wachsen neue grüne Triebe und dann beginnt der bunte Kreislauf von Neuem.",
+      "headline": "Frostige Blätter",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "15. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Azaleen&form=BGABWCTA7&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Azaleen&form=BGABWCTA11&filters=HpDate:\"20261114_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261114",
       "fullstartdate": "20261114",
       "enddate": "20261115",

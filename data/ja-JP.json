@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261115",
+      "fullstartdate": "20261115",
+      "enddate": "20261116",
+      "urlbase": "https://www.bing.com/th?id=OHR.FirstFrost_JA-JP1519167944_UHD.jpg",
+      "copyrighttext": "© avoferten/Shutterstock",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%84%e3%83%84%e3%82%b8&form=BGALM&filters=HpDate:\"20261114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "赤い葉に霜が降りたツツジ",
+      "description": "初霜が降りると、常緑低木のツツジの葉に氷の結晶ができます。気温が下がると、緑の葉は赤や紫に色づきます。このときつくられる新しい色素が、葉を寒さから守っているのです。白い霜をまとった赤い葉は、秋の庭をひときわ鮮やかに彩ります。春になれば新しい葉が出て、また緑に包まれます。",
+      "headline": "霜化粧の葉",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261115_FirstFrost\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 15 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%84%e3%83%84%e3%82%b8&form=BGABWCTA7&filters=HpDate:\"20261114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%84%e3%83%84%e3%82%b8&form=BGABWCTA11&filters=HpDate:\"20261114_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261114",
       "fullstartdate": "20261114",
       "enddate": "20261115",
