@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261116",
+      "fullstartdate": "20261116",
+      "enddate": "20261117",
+      "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_IT-IT4703679044_UHD.jpg",
+      "copyrighttext": "© Chiara Salvadori/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=BGALM&filters=HpDate:\"20261115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Gila Cliff Dwellings National Monument, Nuovo Messico, USA",
+      "description": "Panorami mozzafiato e fondamenta di pietra sono parte del fascino di queste antiche dimore, incastonate nelle pareti rocciose del Nuovo Messico. Le grotte naturali, usate un tempo come rifugio dalle popolazioni nomadi, divennero poi la casa dei Mogollon, Nativi Americani che, tra il 1270 e il 1290 circa, realizzarono decine di stanze in cinque cavità, dove potevano vivere fino a 15 famiglie. Intorno al 1300, i Mogollon abbandonarono il sito per ragioni sconosciute. Nel 1907, il presidente degli Stati Uniti Theodore Roosevelt istituì il Gila Cliff Dwellings National Monument, per preservare questo straordinario luogo per le generazioni future.",
+      "headline": "Case scolpite per durare",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.254028,-108.272634/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=33.254028,-108.272634;S9;Gila Cliff Dwellings National Monument, Nuovo Messico&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=BGABWCTA7&filters=HpDate:\"20261115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=BGABWCTA11&filters=HpDate:\"20261115_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261115",
       "fullstartdate": "20261115",
       "enddate": "20261116",

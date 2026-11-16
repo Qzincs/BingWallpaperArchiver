@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261116",
+      "fullstartdate": "20261116",
+      "enddate": "20261117",
+      "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_PT-BR7125417411_UHD.jpg",
+      "copyrighttext": "© Chiara Salvadori/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=o+monumento+nacional+gila+cliff+dwellings&form=BGALM&filters=HpDate:\"20261116_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Monumento Nacional Gila Cliff Dwellings, Novo México, EUA",
+      "description": "Vistas impressionantes e estruturas firmemente assentadas na rocha fazem parte do charme dessas antigas habitações, construídas na encosta de um penhasco no Novo México. Povos nômades já usavam havia muito tempo as cavernas naturais acima de Cliff Dweller Creek como abrigo temporário, mas foram os Mogollon, povo indígena da região, que fizeram delas seu lar. Arqueólogos acreditam que, nas décadas de 1270 e 1280, eles construíram dezenas de cômodos dentro de cinco reentrâncias naturais na rocha. Até 15 famílias viviam ali ao mesmo tempo, criando os filhos, produzindo cerâmica e contemplando o fértil vale do rio Gila, onde cultivavam plantações e caçavam animais selvagens.",
+      "headline": "O passado segue de pé",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.254028,-108.272634/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=33.254028,-108.272634;S9;Gila Cliff Dwellings&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "16 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=o+monumento+nacional+gila+cliff+dwellings&form=BGABWCTA7&filters=HpDate:\"20261116_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=o+monumento+nacional+gila+cliff+dwellings&form=BGABWCTA11&filters=HpDate:\"20261116_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261115",
       "fullstartdate": "20261115",
       "enddate": "20261116",

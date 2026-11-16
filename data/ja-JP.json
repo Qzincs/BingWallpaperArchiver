@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261116",
+      "fullstartdate": "20261116",
+      "enddate": "20261117",
+      "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg",
+      "copyrighttext": "© Chiara Salvadori/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%92%e3%83%a9%e3%83%bb%e3%82%af%e3%83%aa%e3%83%95%e3%83%bb%e3%83%89%e3%82%a6%e3%82%a7%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=BGALM&filters=HpDate:\"20261115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ヒラ・クリフ・ドウェリングス国定記念物、ニューメキシコ州、アメリカ",
+      "description": "ニューメキシコ州の断崖の洞窟には、先住民モゴヨン族が住んでいた跡が残っています。13世紀後半、洞窟に部屋をつくった人々は、土器を焼き、眼下に広がる谷で作物を育てたり狩りをしたりしていたと考えられています。ところが1300年ごろ、モゴヨン族は理由もわからないままこの地を去りました。今ではアメリカ南西部でも特に重要な遺跡の一つとして知られています。",
+      "headline": "時を超える崖の住まい",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/33.254028,-108.272634/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=33.254028,-108.272634;S9;ヒラ・クリフ・ドウェリングス国定記念物&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 16 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%92%e3%83%a9%e3%83%bb%e3%82%af%e3%83%aa%e3%83%95%e3%83%bb%e3%83%89%e3%82%a6%e3%82%a7%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=BGABWCTA7&filters=HpDate:\"20261115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%92%e3%83%a9%e3%83%bb%e3%82%af%e3%83%aa%e3%83%95%e3%83%bb%e3%83%89%e3%82%a6%e3%82%a7%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%b9%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=BGABWCTA11&filters=HpDate:\"20261115_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261115",
       "fullstartdate": "20261115",
       "enddate": "20261116",

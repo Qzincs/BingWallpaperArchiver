@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261116",
+      "fullstartdate": "20261116",
+      "enddate": "20261117",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg",
+      "copyrighttext": "© Chiara Salvadori/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%90%89%e6%8b%89%e6%82%ac%e5%b4%96%e6%b0%91%e5%b1%85%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%9c%b0&form=BGALM&filters=HpDate:\"20261115_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "美国新墨西哥州吉拉悬崖民居国家纪念地",
+      "description": "壮丽的景色和坚实的岩石地基，是这些嵌在新墨西哥州悬崖上的古老民居的魅力所在。游牧者早已将崖居溪上方的天然洞穴用作临时栖身之所，但真正将这里当作家园的，是美洲原住民莫戈隆文化的族人。考古学家认为，他们在13世纪70至80年代，于五处岩穴中建造了数十个房间。这里一度同时住着多达15个家庭；他们在此抚养子女、制作陶器，俯瞰肥沃的吉拉河谷，并在那里种植作物、狩猎野生动物。大约在1300年，莫戈隆人出于未知原因离开，留下了美国西南部最重要的考古遗址之一。1907年11月16日，西奥多·罗斯福总统将此地指定为吉拉悬崖民居国家纪念地，帮助确保它得到保护，留存给后代。",
+      "headline": "历经岁月，屹立不倒",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 16",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%90%89%e6%8b%89%e6%82%ac%e5%b4%96%e6%b0%91%e5%b1%85%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%9c%b0&form=BGABWCTA7&filters=HpDate:\"20261115_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%90%89%e6%8b%89%e6%82%ac%e5%b4%96%e6%b0%91%e5%b1%85%e5%9b%bd%e5%ae%b6%e7%ba%aa%e5%bf%b5%e5%9c%b0&form=BGABWCTA11&filters=HpDate:\"20261115_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261115",
       "fullstartdate": "20261115",
       "enddate": "20261116",
