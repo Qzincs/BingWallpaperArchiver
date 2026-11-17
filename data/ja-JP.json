@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261117",
+      "fullstartdate": "20261117",
+      "enddate": "20261118",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg",
+      "copyrighttext": "© DBushue Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b0%e3%83%ac%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%bc%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGALM&filters=HpDate:\"20261116_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "トレイル・オブ・ザ・シーダーズ、グレイシャー国立公園、モンタナ州、アメリカ",
+      "description": "モンタナ州のグレイシャー国立公園にある「トレイル・オブ・ザ・シーダーズ」は、約1.4kmの周回コースです。ベイスギやベイツガの原生林の中を木道が通り、樹齢500年を超える巨木も見られます。コースの中ほどにある橋からは、アバランチ・クリークが削った渓谷を見下ろせます。短くて歩きやすく、車いすでも楽しめるので、気軽に森の空気を味わいたいときにぴったりです。",
+      "headline": "さあ、大自然の中へ",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.706957,-113.817235/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=48.706957,-113.817235;S9;グレイシャー国立公園、モンタナ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 17 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b0%e3%83%ac%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%bc%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA7&filters=HpDate:\"20261116_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b0%e3%83%ac%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%bc%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=BGABWCTA11&filters=HpDate:\"20261116_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261116",
       "fullstartdate": "20261116",
       "enddate": "20261117",

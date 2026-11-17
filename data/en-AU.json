@@ -1,6 +1,162 @@
 {
   "images": [
     {
+      "startdate": "20261117",
+      "fullstartdate": "20261117",
+      "enddate": "20261118",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_ROW6107816047_UHD.jpg",
+      "copyrighttext": "© DBushue Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Trail+of+the+Cedars&form=BGALM&filters=HpDate:\"20261117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Trail of the Cedars, Glacier National Park, Montana, USA",
+      "description": "Sometimes, the best way to clear your head is to step outside. Today's image features the Trail of the Cedars, part of more than 1,100 kilometres of hiking trails in Glacier National Park, Montana, in the northwestern USA. Its 1.4-kilometre loop includes a raised boardwalk that cuts a path through western red cedar and hemlock trees. The park boasts routes for all abilities, taking in alpine lakes, wildflower meadows, mountain passes and wilderness stretching to the Canadian border.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 17, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Trail+of+the+Cedars&form=BGABWCTA7&filters=HpDate:\"20261117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Trail+of+the+Cedars&form=BGABWCTA11&filters=HpDate:\"20261117_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
+      "startdate": "20261116",
+      "fullstartdate": "20261116",
+      "enddate": "20261117",
+      "urlbase": "https://www.bing.com/th?id=OHR.GilaCliff_ROW5960011422_UHD.jpg",
+      "copyrighttext": "© Chiara Salvadori/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=BGALM&filters=HpDate:\"20261116_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Gila Cliff Dwellings National Monument, New Mexico, USA",
+      "description": "Incredible views and rock-solid foundations are part of the charm of these ancient dwellings, set into the cliffside in New Mexico, USA. Nomads had long used the natural caves above Cliff Dweller Creek as temporary shelter, but it was the Native American Mogollon people who made them their home. Archaeologists believe they created dozens of rooms inside five alcoves in the 1270s and 1280s. Up to 15 families lived here at any one time, raising children, making pottery and overlooking the fertile Gila River valley where they grew crops and hunted wildlife. For reasons unknown, the Mogollon people moved on around 1300, leaving behind one of the American Southwest's most important archaeological sites.",
+      "headline": "Info",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261116_GilaCliff\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 16, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=BGABWCTA7&filters=HpDate:\"20261116_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=BGABWCTA11&filters=HpDate:\"20261116_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261115",
       "fullstartdate": "20261115",
       "enddate": "20261116",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261117",
+      "fullstartdate": "20261117",
+      "enddate": "20261118",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg",
+      "copyrighttext": "© DBushue Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Glacier-Nationalpark%2c+Montana%2c+USA&form=BGALM&filters=HpDate:\"20261116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Trail of the Cedars, Glacier-Nationalpark, Montana, USA",
+      "description": "Zeit, die frische Herbstluft einzuatmen und die Schönheit der Natur zu genießen! Das heutige Bild zeigt den „Trail of the Cedars“, einen der insgesamt 1.120 Kilometer langen Wanderwege im Glacier-Nationalpark in Montana. Der 1,4 Kilometer lange Rundweg führt über einen Holzsteg durch einen Wald aus Rotzedern und Hemlocktannen. Der Park bietet Wanderwege für jedes Niveau, entlang alpiner Seen, Wildblumenwiesen, über Bergpässe und durch wilde Landschaften, die sich bis zur kanadischen Grenze erstrecken. Aber auch ohne spektakuläre Landschaften vor der Haustür kann man den Herbst bei einem Spaziergang genießen, während die Tage immer kürzer werden.",
+      "headline": "Raus in die Natur!",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.706957,-113.817235/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=48.706957,-113.817235;S9;Glacier-Nationalpark, Montana&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Glacier-Nationalpark%2c+Montana%2c+USA&form=BGABWCTA7&filters=HpDate:\"20261116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Glacier-Nationalpark%2c+Montana%2c+USA&form=BGABWCTA11&filters=HpDate:\"20261116_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261116",
       "fullstartdate": "20261116",
       "enddate": "20261117",

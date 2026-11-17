@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261117",
+      "fullstartdate": "20261117",
+      "enddate": "20261118",
+      "urlbase": "https://www.bing.com/th?id=OHR.TrailCedars_PT-BR3104230051_UHD.jpg",
+      "copyrighttext": "© DBushue Photography/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Parque+Nacional+Glacier+Montana&form=BGALM&filters=HpDate:\"20261117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Trilha dos Cedros, Parque Nacional Glacier, Montana, EUA",
+      "description": "É hora de aproveitar a natureza. A imagem de hoje mostra a Trilha dos Cedros, uma das muitas trilhas do Parque Nacional Glacier, em Montana, que juntas somam mais de 1.100 quilômetros. O percurso circular, de cerca de 1,4 quilômetros, inclui uma passarela elevada que atravessa uma floresta de cedros-vermelhos-do-oeste e tsugas. O parque oferece opções para todos os níveis de preparo, com trilhas que passam por lagos alpinos, campos de flores silvestres, passagens entre montanhas e extensas áreas de natureza preservada que chegam até a fronteira com o Canadá.",
+      "headline": "A trilha chama, bora?",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261117_TrailCedars\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/48.706957,-113.817235/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=48.706957,-113.817235;S9;Parque Nacional Glacier&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "17 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Parque+Nacional+Glacier+Montana&form=BGABWCTA7&filters=HpDate:\"20261117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Parque+Nacional+Glacier+Montana&form=BGABWCTA11&filters=HpDate:\"20261117_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261116",
       "fullstartdate": "20261116",
       "enddate": "20261117",
