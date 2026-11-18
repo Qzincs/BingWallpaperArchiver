@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261118",
+      "fullstartdate": "20261118",
+      "enddate": "20261119",
+      "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg",
+      "copyrighttext": "© Zahoor Salmi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=chouette+effraie&form=BGALM&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Couple de chouettes effraies",
+      "description": "Ces chouettes effraies, baignées dans la lumière du soir, attendent que la chasse commence. À la tombée de la nuit, ces rapaces passent à l’action, à l’affût du moindre mouvement dans l’herbe ou dans les feuilles, provoqué par des souris ou des campagnols. Leur visage en forme de cœur canalise les sons vers leurs oreilles qui sont parmi les plus fines du règne animal. Cela leur permet de localiser leurs proies avec une précision extrême dans l’obscurité avant de fondre sur elles en silence, leurs plumes douces étouffant leur approche.",
+      "headline": "Chasser du crépuscule à l'aube",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=chouette+effraie&form=BGABWCTA7&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=chouette+effraie&form=BGABWCTA11&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261117",
       "fullstartdate": "20261117",
       "enddate": "20261118",

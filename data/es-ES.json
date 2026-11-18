@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261118",
+      "fullstartdate": "20261118",
+      "enddate": "20261119",
+      "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_ES-ES4442138471_UHD.jpg",
+      "copyrighttext": "© Zahoor Salmi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Lechuzas&form=BGALM&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Una pareja de lechuzas al anochecer",
+      "description": "Estas lechuzas, bañadas por la luz del atardecer, esperan a que comience la caza. Al caer la noche, entran en acción y escuchan los pequeños movimientos que ratones y topillos producen entre la hierba y las hojas. Su rostro en forma de corazón canaliza el sonido hacia uno de los sistemas auditivos más agudos del reino animal.",
+      "headline": "De caza desde el anochecer",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lechuzas&form=BGABWCTA7&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lechuzas&form=BGABWCTA11&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261117",
       "fullstartdate": "20261117",
       "enddate": "20261118",

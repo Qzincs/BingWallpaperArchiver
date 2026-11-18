@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261118",
+      "fullstartdate": "20261118",
+      "enddate": "20261119",
+      "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-IN2617869555_UHD.jpg",
+      "copyrighttext": "© Zahoor Salmi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Barn+owl&form=BGALM&filters=HpDate:\"20261117_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pair of barn owls",
+      "description": "These barn owls, bathed in evening light, are waiting for the hunt to begin. As night falls, these birds of prey swoop into action, listening for tiny movements in grasses or leaves made by mice and voles. Their heart-shaped faces help funnel sound into some of the sharpest ears in the animal kingdom. This allows them to locate their prey with pinpoint precision in the dark before swooping silently, their soft feathers muffling their approach. In autumn, young barn owls strike out to find their own territories. As the nights grow longer, you might spot them earlier in the evening, gliding over fields in search of supper.",
+      "headline": "Hunting from dusk till dawn",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 18, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Barn+owl&form=BGABWCTA7&filters=HpDate:\"20261117_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Barn+owl&form=BGABWCTA11&filters=HpDate:\"20261117_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261117",
       "fullstartdate": "20261117",
       "enddate": "20261118",

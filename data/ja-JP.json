@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261118",
+      "fullstartdate": "20261118",
+      "enddate": "20261119",
+      "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg",
+      "copyrighttext": "© Zahoor Salmi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%a1%e3%83%b3%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6&form=BGALM&filters=HpDate:\"20261117_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "メンフクロウのつがい",
+      "description": "夕暮れの光に包まれたメンフクロウが、狩りの始まりをじっと待っています。夜になると、草や落ち葉の中でネズミが動くわずかな音も聞き逃しません。ハート形の顔が音を集めるアンテナの役目を果たし、真っ暗闇でも獲物の位置をぴたりと突き止められるのです。しかも羽音を立てずに飛ぶので、獲物は気づく間もありません。秋は若いメンフクロウが巣立つ季節です。夜が長くなるこの時期は、夕方の早い時間から野原の上をすべるように飛ぶ姿が見られるかもしれません。",
+      "headline": "夕暮れから始まる狩り",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 18 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%a1%e3%83%b3%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6&form=BGABWCTA7&filters=HpDate:\"20261117_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%a1%e3%83%b3%e3%83%95%e3%82%af%e3%83%ad%e3%82%a6&form=BGABWCTA11&filters=HpDate:\"20261117_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261117",
       "fullstartdate": "20261117",
       "enddate": "20261118",

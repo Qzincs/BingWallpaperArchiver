@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261118",
+      "fullstartdate": "20261118",
+      "enddate": "20261119",
+      "urlbase": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg",
+      "copyrighttext": "© Zahoor Salmi/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Schleiereule&form=BGALM&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ein Schleiereulenpaar",
+      "description": "Diese in Abendlicht getauchten Schleiereulen warten darauf, dass die Jagd beginnt. Bei Einbruch der Dunkelheit werden diese Raubvögel aktiv und lauschen auf Geräusche kleiner Nager und Wühlmäuse im Gras oder Laub. Ihre herzförmigen Gesichter leiten den Schall zu ihren Ohren, die zu den schärfsten im Tierreich zählen. So können sie ihre Beute im Dunkeln punktgenau orten, bevor sie sich lautlos herabstürzen, gedämpft durch ihr weiches Gefieder. Im Herbst machen sich junge Schleiereulen auf den Weg, um ihr eigenes Revier zu finden. Wenn die Nächte länger werden, kann man sie schon früh am Abend dabei beobachten, wie sie auf der Suche nach ihrem Abendessen lautlos über die Felder gleiten.",
+      "headline": "Jäger der Nacht",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261118_BarnOwlsUnite\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "18. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Schleiereule&form=BGABWCTA7&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Schleiereule&form=BGABWCTA11&filters=HpDate:\"20261117_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261117",
       "fullstartdate": "20261117",
       "enddate": "20261118",
