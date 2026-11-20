@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261120",
+      "fullstartdate": "20261120",
+      "enddate": "20261121",
+      "urlbase": "https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg",
+      "copyrighttext": "© Espen Bergersen/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=baleine+%c3%a0+bosse&form=BGALM&filters=HpDate:\"20261119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Baleine à bosse plongeant, Kvaløya, Troms, Norvège",
+      "description": "Au large de Kvaløya, dans la région de Troms, au nord de la Norvège, des baleines à bosse parcourent les eaux arctiques glacées en quête de nourriture. Elles fréquentent cette zone durant les mois d’hiver, suivant les bancs de harengs qui migrent vers les fjords. Les baleines à bosse sont réputées pour leur technique de chasse au « filet de bulles ». Elles créent des cercles de bulles pour encercler les poissons, avant de remonter en surface, la gueule grande ouverte, pour capturer leurs proies.",
+      "headline": "Festin dans les fjords",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261120_Megaptera\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/69.62389,18.53103/3?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=69.62389,18.53103;S9;Kvaløya, Troms&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "20 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=baleine+%c3%a0+bosse&form=BGABWCTA7&filters=HpDate:\"20261119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=baleine+%c3%a0+bosse&form=BGABWCTA11&filters=HpDate:\"20261119_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261119",
       "fullstartdate": "20261119",
       "enddate": "20261120",
