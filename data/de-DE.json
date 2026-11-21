@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261121",
+      "fullstartdate": "20261121",
+      "enddate": "20261122",
+      "urlbase": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg",
+      "copyrighttext": "© Siripong Kaewla-iad/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nizza+Frankreich&form=BGALM&filters=HpDate:\"20261120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nizza, Provence-Alpes-Côte d'Azur, Frankreich",
+      "description": "In sanftes Sonnenlicht getaucht, präsentiert sich die Altstadt von Nizza auf dem heutigen Bild als ein Mosaik aus mediterranen Terrakotta-Dächern, alten Kirchtürmen und Häuserfassaden in Pastelltönen entlang der französischen Riviera. Von den alten Griechen gegründet und lange Zeit mit dem italienischen Königshaus Savoyen verbunden, wurde Nizza 1860 offiziell Teil Frankreichs. Bis heute ist diese facettenreiche Vergangenheit in der südfranzösischen Küstenstadt sichtbar, wo Architektur der alten Welt auf das Blau des Mittelmeers und die sonnigen Hügel der Côte d’Azur trifft.",
+      "headline": "Ein Traum aus Terrakotta",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.70094,7.26839/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=43.70094,7.26839;S9;Nizza, Frankreich&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "21. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nizza+Frankreich&form=BGABWCTA7&filters=HpDate:\"20261120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nizza+Frankreich&form=BGABWCTA11&filters=HpDate:\"20261120_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261120",
       "fullstartdate": "20261120",
       "enddate": "20261121",

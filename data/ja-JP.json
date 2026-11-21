@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261121",
+      "fullstartdate": "20261121",
+      "enddate": "20261122",
+      "urlbase": "https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg",
+      "copyrighttext": "© Siripong Kaewla-iad/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%8b%e3%83%bc%e3%82%b9+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=BGALM&filters=HpDate:\"20261120_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "ニース、プロヴァンス＝アルプ＝コート・ダジュール地域圏、フランス",
+      "description": "やわらかな陽光に包まれたニースは、テラコッタ色の屋根や歴史ある教会、パステルカラーの建物が寄り集まった、まるでパッチワークのような街です。古代ギリシャ人によって築かれたこの街は、長くサヴォイア家と深い関わりを持ち、正式にフランス領となったのは1860年でした。今も旧市街にはイタリアの面影が残り、古い街並みが紺碧の地中海と陽光あふれるコート・ダジュールの丘に溶け込んでいます。",
+      "headline": "テラコッタ色に染まる街",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.70094,7.26839/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.70094,7.26839;S9;ニース、フランス&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 21 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%8b%e3%83%bc%e3%82%b9+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=BGABWCTA7&filters=HpDate:\"20261120_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%8b%e3%83%bc%e3%82%b9+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=BGABWCTA11&filters=HpDate:\"20261120_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261120",
       "fullstartdate": "20261120",
       "enddate": "20261121",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261121",
+      "fullstartdate": "20261121",
+      "enddate": "20261122",
+      "urlbase": "https://www.bing.com/th?id=OHR.RedNice_EN-GB3371662260_UHD.jpg",
+      "copyrighttext": "© Siripong Kaewla-iad/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Nice+France&form=BGALM&filters=HpDate:\"20261121_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Nice, Provence-Alpes-Côte d'Azur, France",
+      "description": "Bathed in a sun-kissed glow, Nice is a patchwork of terracotta rooftops, historic churches and pastel façades along the French Riviera, as seen in today's image. Founded by the ancient Greeks and long associated with the Italian House of Savoy, Nice officially became part of France in 1860. Today, its layered past remains visible throughout this coastal city in the south of France, where historic architecture meets the blue waters of the Mediterranean and the sunlit hills of the Côte d'Azur.",
+      "headline": "Terracotta dreams",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.70094,7.26839/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=43.70094,7.26839;S9;Nice, France&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 21, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Nice+France&form=BGABWCTA7&filters=HpDate:\"20261121_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Nice+France&form=BGABWCTA11&filters=HpDate:\"20261121_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261120",
       "fullstartdate": "20261120",
       "enddate": "20261121",

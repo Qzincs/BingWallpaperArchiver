@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261121",
+      "fullstartdate": "20261121",
+      "enddate": "20261122",
+      "urlbase": "http://ts3.tc.mm.bing.net/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg",
+      "copyrighttext": "© Siripong Kaewla-iad/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e5%b0%bc%e6%96%af&form=BGALM&filters=HpDate:\"20261120_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯",
+      "description": "在今天的图片中，尼斯沐浴在温暖的阳光下：赤陶色屋顶、历史悠久的教堂和柔和色调的建筑外墙，拼成法国蔚蓝海岸的一幅斑斓图景。尼斯由古希腊人建立，长期与意大利王室萨伏依王朝有着渊源，并于1860年正式成为法国的一部分。如今，在这座位于法国南部的海滨城市，那段层层叠叠的历史依然随处可见：古老的建筑与蔚蓝的地中海海水、蔚蓝海岸阳光照耀的山丘交相辉映。",
+      "headline": "陶瓦屋顶下的梦",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261121_RedNice\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 21",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e5%b0%bc%e6%96%af&form=BGABWCTA7&filters=HpDate:\"20261120_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e6%b3%95%e5%9b%bd%e5%b0%bc%e6%96%af&form=BGABWCTA11&filters=HpDate:\"20261120_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261120",
       "fullstartdate": "20261120",
       "enddate": "20261121",
