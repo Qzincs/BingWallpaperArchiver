@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261122",
+      "fullstartdate": "20261122",
+      "enddate": "20261123",
+      "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_ES-ES5920553602_UHD.jpg",
+      "copyrighttext": "© Tramont_ana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=BGALM&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Capilla y ermita de Santa Justa, Cantabria",
+      "description": "Enclavada en los acantilados de la escarpada costa del norte de España y construida en el siglo XVI, la ermita de Santa Justa domina las olas del mar Cantábrico. Construida parcialmente en la roca y asociada a reliquias de las santas Justa y Rufina, la pequeña capilla acabó convirtiéndose en lugar de peregrinación.",
+      "headline": "Un refugio entre las olas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=43.42595,-4.09762;S9;Santa Justa, Cantabria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=BGABWCTA7&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Capilla+y+Ermita+de+Santa+Justa&form=BGABWCTA11&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261121",
       "fullstartdate": "20261121",
       "enddate": "20261122",

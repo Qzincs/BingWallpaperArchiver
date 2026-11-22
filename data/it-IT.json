@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261122",
+      "fullstartdate": "20261122",
+      "enddate": "20261123",
+      "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_IT-IT2553496386_UHD.jpg",
+      "copyrighttext": "© Tramont_ana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=BGALM&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cappella e Eremo di Santa Justa, Cantabria, Spagna",
+      "description": "Incastonato nelle scogliere della frastagliata costa settentrionale della Spagna, l’Eremo di Santa Justa, risalente al XVI secolo, domina le onde impetuose del Mar Cantabrico. Parzialmente scavata nella roccia e tradizionalmente associata alle reliquie delle sante Giusta e Rufina, la piccola cappella divenne nel tempo meta di pellegrinaggi. Le sue pareti in pietra, protette dalla roccia, creano un suggestivo contrasto con la forza del mare e le scogliere che la circondano.",
+      "headline": "Un rifugio tra le onde",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=43.42595,-4.09762;S9;Santa Justa, Cantabria&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=BGABWCTA7&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Cappella+Ermita+Santa+Justa&form=BGABWCTA11&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261121",
       "fullstartdate": "20261121",
       "enddate": "20261122",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261122",
+      "fullstartdate": "20261122",
+      "enddate": "20261123",
+      "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg",
+      "copyrighttext": "© Tramont_ana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=BGALM&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Ermitage de Santa Justa, Cantabrie, Espagne",
+      "description": "Niché dans les falaises du littoral nord de l'Espagne, l'ermitage de Santa Justa, datant du XVIe siècle surplombe les vagues déferlantes de la mer Cantabrique. Construite en partie à flanc de rocher et associée aux reliques des saintes Justa et Rufina, cette petite chapelle est finalement devenue un lieu de pèlerinage, ses murs de pierre abrités créant un contraste remarquable avec les vagues puissantes et les falaises rocheuses qui l'entourent.",
+      "headline": "Refuge au milieu des vagues",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=43.42595,-4.09762;S9;Ermitage de Santa Justa, Cantabrie&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "22 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=BGABWCTA7&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Ermitage+de+Santa+Justa&form=BGABWCTA11&filters=HpDate:\"20261121_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261121",
       "fullstartdate": "20261121",
       "enddate": "20261122",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261122",
+      "fullstartdate": "20261122",
+      "enddate": "20261123",
+      "urlbase": "https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg",
+      "copyrighttext": "© Tramont_ana/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%95%e3%82%b9%e3%82%bf%e7%a4%bc%e6%8b%9d%e5%a0%82&form=BGALM&filters=HpDate:\"20261121_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "サンタ・フスタ礼拝堂、カンタブリア州、スペイン",
+      "description": "スペイン北部の荒々しい海岸線には、断崖に寄り添うように建つ小さな礼拝堂があります。16世紀に造られたサンタ・フスタ礼拝堂で、建物の一部は岩をくり抜いてつくられています。聖フスタと聖ルフィナの聖遺物を祀ったことから、やがてカンタブリア海沿岸でも早くから知られる巡礼地となりました。打ち寄せる波とごつごつした岩に囲まれながらも、石壁に守られた礼拝堂の姿は、まわりの力強い自然と見事なコントラストを描いています。",
+      "headline": "波間にたたずむ隠れ家",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261122_JustaHermitage\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/43.42595,-4.09762/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=43.42595,-4.09762;S9;サンタ・フスタ、カンタブリア州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 22 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%95%e3%82%b9%e3%82%bf%e7%a4%bc%e6%8b%9d%e5%a0%82&form=BGABWCTA7&filters=HpDate:\"20261121_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%bb%e3%83%95%e3%82%b9%e3%82%bf%e7%a4%bc%e6%8b%9d%e5%a0%82&form=BGABWCTA11&filters=HpDate:\"20261121_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261121",
       "fullstartdate": "20261121",
       "enddate": "20261122",
