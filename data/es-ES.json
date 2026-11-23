@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261123",
+      "fullstartdate": "20261123",
+      "enddate": "20261124",
+      "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_ES-ES6597098315_UHD.jpg",
+      "copyrighttext": "© Reza Saputra/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=D%c3%ada+de+Fibonacci&form=BGALM&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Brote de helecho",
+      "description": "La imagen muestra el enrollamiento gradual del extremo de un brote de helecho, que recuerda los patrones geométricos presentes en la naturaleza. En matemáticas, la sucesión de Fibonacci sigue una progresión similar: cada número se obtiene sumando los dos anteriores: 0, 1, 1, 2, 3, 5, 8 y así sucesivamente.",
+      "headline": "Geometría en la naturaleza",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=D%c3%ada+de+Fibonacci&form=BGABWCTA7&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=D%c3%ada+de+Fibonacci&form=BGABWCTA11&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261122",
       "fullstartdate": "20261122",
       "enddate": "20261123",

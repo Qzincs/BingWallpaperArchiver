@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261123",
+      "fullstartdate": "20261123",
+      "enddate": "20261124",
+      "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_EN-CA6531851443_UHD.jpg",
+      "copyrighttext": "© Reza Saputra/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=fibonacci+day&form=BGALM&filters=HpDate:\"20261123_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Fiddlehead fern",
+      "description": "Today's image shows the gradual coiling of a young fiddlehead's tip, echoing the geometric patterns seen throughout nature. In math, the Fibonacci sequence follows a similar progression, each number formed by adding the two before it: 0, 1, 1, 2, 3, 5, 8 and so on. Today is Fibonacci Day, celebrated on November 23 because the date's numbers (11, 23) reflect the sequence. Eventually the young fern frond shown here will unfurl as it grows, but elsewhere in the plant world, the sequence will continue to appear in the spiralling arrangements of sunflower heads, pinecones, succulents and pineapples.",
+      "headline": "Geometry in nature",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 23, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=fibonacci+day&form=BGABWCTA7&filters=HpDate:\"20261123_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=fibonacci+day&form=BGABWCTA11&filters=HpDate:\"20261123_0500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261122",
       "fullstartdate": "20261122",
       "enddate": "20261123",

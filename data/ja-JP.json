@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261123",
+      "fullstartdate": "20261123",
+      "enddate": "20261124",
+      "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg",
+      "copyrighttext": "© Reza Saputra/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=BGALM&filters=HpDate:\"20261122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "シダの若芽",
+      "description": "写真は、シダの若芽の先がくるくると渦を巻いている様子です。こうした渦巻き模様は、自然界のあちこちで見ることができます。数学の「フィボナッチ数列」も、前の2つの数を足して次の数をつくる「0、1、1、2、3、5、8……」という並びで、少しずつ大きくなっていく様子がよく似ています。この若芽はやがて伸びて葉を広げますが、ヒマワリの種の並びや松ぼっくり、多肉植物、パイナップルのらせん模様には、この数列がこれからも現れ続けます。",
+      "headline": "自然が描く幾何学模様",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 23 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=BGABWCTA7&filters=HpDate:\"20261122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%95%e3%82%a3%e3%83%9c%e3%83%8a%e3%83%83%e3%83%81%e6%95%b0%e5%88%97&form=BGABWCTA11&filters=HpDate:\"20261122_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261122",
       "fullstartdate": "20261122",
       "enddate": "20261123",

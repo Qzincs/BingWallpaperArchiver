@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261123",
+      "fullstartdate": "20261123",
+      "enddate": "20261124",
+      "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg",
+      "copyrighttext": "© Reza Saputra/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=BGALM&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Pousse de fougère",
+      "description": "Aujourd'hui, c'est la Journée Fibonacci, une date choisie en référence aux chiffres qui la composent, 23/11 ou 11/23 écrit en anglais américain, pour rendre hommage à la suite établie par ce mathématicien italien. En mathématiques, la suite de Fibonacci suit une progression similaire, où chaque nombre est obtenu en additionnant les deux qui le précèdent : 0, 1, 1, 2, 3, 5, 8, et ainsi de suite.",
+      "headline": "Géométrie au naturel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=BGABWCTA7&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Journ%c3%a9e+de+Fibonacci&form=BGABWCTA11&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261122",
       "fullstartdate": "20261122",
       "enddate": "20261123",

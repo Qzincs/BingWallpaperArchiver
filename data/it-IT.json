@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261123",
+      "fullstartdate": "20261123",
+      "enddate": "20261124",
+      "urlbase": "https://www.bing.com/th?id=OHR.FibonacciFern_IT-IT3074319544_UHD.jpg",
+      "copyrighttext": "© Reza Saputra/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=fibonacci+day&form=BGALM&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Germoglio di felce",
+      "description": "L’immagine mostra la punta arrotolata di un germoglio di felce, la cui forma richiama motivi geometrici ricorrenti in natura. In matematica, la successione di Fibonacci segue una progressione simile, dove ogni numero è la somma dei due precedenti, come nella sequenza 0, 1, 1, 2, 3, 5, 8 e così via. E proprio oggi si celebra il Fibonacci Day, ricorrenza scelta per la data 11/23 (23 novembre nel formato americano) che richiama i primi numeri della successione. Crescendo, la felce si dispiegherà, ma forme simili continueranno a comparire nelle spirali di girasoli, pigne, piante succulente e ananas.",
+      "headline": "Geometria in natura",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261123_FibonacciFern\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "23 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=fibonacci+day&form=BGABWCTA7&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=fibonacci+day&form=BGABWCTA11&filters=HpDate:\"20261122_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261122",
       "fullstartdate": "20261122",
       "enddate": "20261123",
