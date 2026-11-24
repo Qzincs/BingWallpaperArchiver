@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261124",
+      "fullstartdate": "20261124",
+      "enddate": "20261125",
+      "urlbase": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg",
+      "copyrighttext": "© Scotland: The Big Picture/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGALM&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Eichhörnchen (Sciurus vulgaris) im Cairngorms-Nationalpark, Highlands, Schottland",
+      "description": "Als einzige einheimische Eichhörnchenart Großbritanniens fühlen sich die eurasischen Eichhörnchen im schottischen Cairngorms-Nationalpark besonders wohl. Der Park ist ein wichtiger Rückzugsort und bietet sowohl uralte kaledonische Kiefernwälder als auch jüngere Nadelwälder, die den Eichhörnchen das ganze Jahr über reichlich Lebensraum und Nahrung bieten, darunter Pinienkerne, Nüsse und andere Leckerbissen. Das heutige Bild zeigt ein Eichhörnchen umgeben von buntem Herbstlaub, das sich in den schottischen Highlands ganz wie zu Hause fühlt, während es seine nächsten Sprünge plant.",
+      "headline": "Herbstliche Tarnung",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=57.0833,-3.6667;S9;Cairngorms-Nationalpark, Schottland&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGABWCTA7&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Eurasisches+Eichh%c3%b6rnchen&form=BGABWCTA11&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261123",
       "fullstartdate": "20261123",
       "enddate": "20261124",

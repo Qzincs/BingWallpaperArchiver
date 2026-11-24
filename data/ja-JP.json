@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261124",
+      "fullstartdate": "20261124",
+      "enddate": "20261125",
+      "urlbase": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg",
+      "copyrighttext": "© Scotland: The Big Picture/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=BGALM&filters=HpDate:\"20261123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "キタリス、ケアンゴームズ国立公園、ハイランド地方、スコットランド",
+      "description": "イギリスにもともとすむ唯一のリスであるキタリスは、スコットランドのケアンゴームズ国立公園で元気に暮らしています。公園には古くから残るカレドニアの松林や新しい針葉樹の森が広がり、ヨーロッパアカマツの種や木の実などの食べものが一年中豊富なため、リスたちにとって大切なすみかになっています。写真のキタリスは、オレンジや黄色に色づいた葉の中にちょこんと座り、次は何をしようかと考えているようです。",
+      "headline": "紅葉にまぎれて",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=57.0833,-3.6667;S9;ケアンゴームズ国立公園、スコットランド&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 24 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=BGABWCTA7&filters=HpDate:\"20261123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%82%ad%e3%82%bf%e3%83%aa%e3%82%b9&form=BGABWCTA11&filters=HpDate:\"20261123_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261123",
       "fullstartdate": "20261123",
       "enddate": "20261124",

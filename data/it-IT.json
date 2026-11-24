@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261124",
+      "fullstartdate": "20261124",
+      "enddate": "20261125",
+      "urlbase": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_IT-IT3679426218_UHD.jpg",
+      "copyrighttext": "© Scotland: The Big Picture/Minden Pictures",
+      "copyrightlink": "https://www.bing.com/search?q=scoiattolo+rosso+Eurasiatico&form=BGALM&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Scoiattolo rosso (Sciurus vulgaris), Parco Nazionale Cairngorms, Highlands, Scozia",
+      "description": "Lo scoiattolo rosso, l’unica specie di scoiattolo autoctona della Gran Bretagna, prospera in condizioni ottimali nel Parco Nazionale dei Cairngorms, in Scozia. Tra antiche pinete caledoniane e boschi di conifere, trova habitat ideali e cibo in abbondanza, dai semi di pino silvestre alle noci. Nell’immagine di oggi, uno scoiattolo rosso fa capolino tra le calde sfumature gialle e arancioni delle foglie. Perfettamente a suo agio nel paesaggio autunnale delle Highlands scozzesi, questo simpatico roditore sembra riflettere sulla sua prossima mossa.",
+      "headline": "Mimetismo d'autunno",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261124_CairngormsSquirrel\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/57.0833,-3.6667/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=it-IT&od=2&shading=flat&pp=57.0833,-3.6667;S9;Parco Nazionale Cairngorms, Highlands, Scozia&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "24 novembre 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=scoiattolo+rosso+Eurasiatico&form=BGABWCTA7&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Cerca nel Web per altre informazioni su questa immagine"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Cerca nel Web per altre informazioni su questa immagine",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=scoiattolo+rosso+Eurasiatico&form=BGABWCTA11&filters=HpDate:\"20261123_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Cerca nel Web per altre informazioni su questa immagine"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261123",
       "fullstartdate": "20261123",
       "enddate": "20261124",
