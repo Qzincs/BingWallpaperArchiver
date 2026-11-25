@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261125",
+      "fullstartdate": "20261125",
+      "enddate": "20261126",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg",
+      "copyrighttext": "© Colin D. Young/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGALM&filters=HpDate:\"20261124_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "日落观景点，布莱斯峡谷国家公园，犹他州",
+      "description": "白雪让布莱斯峡谷国家公园焕然一新：大地披上银装，鲜艳的橙红色石林在雪地上拔地而起。从公园最著名的观景点之一——日落观景点望去，这些奇特的岩石造型属于克拉伦组。构成它们的石灰岩约在5000万年前沉积，后来又经风化和侵蚀塑造成形。由于公园大部分地区海拔超过8000英尺，早在10月就可能降雪。今天的照片中，积雪覆着峡谷的山脊和石柱，薄雾从崖壁间飘过，呈现出美国西南部标志性的冬日景象。",
+      "headline": "美国西南部的一场雪",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261125_SunsetPoint\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 25",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA7&filters=HpDate:\"20261124_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b8%83%e8%8e%b1%e6%96%af%e5%b3%a1%e8%b0%b7%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=BGABWCTA11&filters=HpDate:\"20261124_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261124",
       "fullstartdate": "20261124",
       "enddate": "20261125",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261125",
+      "fullstartdate": "20261125",
+      "enddate": "20261126",
+      "urlbase": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_UHD.jpg",
+      "copyrighttext": "© Colin D. Young/Alamy",
+      "copyrightlink": "https://www.bing.com/search?q=Bryce-Canyon-Nationalpark&form=BGALM&filters=HpDate:\"20261124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Sunset Point, Bryce-Canyon-Nationalpark, Utah",
+      "description": "Schnee verwandelt den Bryce-Canyon-Nationalpark und hüllt die Landschaft in Weiß, während sich die feurig orange-roten Hoodoos über das verschneite Gelände erheben. Vom Sunset Point aus, einem der berühmtesten Aussichtspunkte des Parks, betrachtet, sind diese fantasievollen Formen Teil der Claron-Formation, deren Kalkstein vor etwa 50 Millionen Jahren abgelagert und später durch Verwitterung und Erosion geformt wurde. Da ein Großteil des Parks über 2.400 Meter hoch liegt, kann es bereits im Oktober schneien. Auf dem heutigen Bild liegt Schnee auf den Graten und Felsspitzen des Canyons, während Nebel über die Klippen zieht und so eine einzigartige Winterlandschaft im Südwesten der USA schafft.",
+      "headline": "Schneefall im Südwesten",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261125_SunsetPoint\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.623535,-112.167279/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=37.623535,-112.167279;S9;Sunset Point, Bryce-Canyon-Nationalpark, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "25. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Bryce-Canyon-Nationalpark&form=BGABWCTA7&filters=HpDate:\"20261124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Bryce-Canyon-Nationalpark&form=BGABWCTA11&filters=HpDate:\"20261124_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261124",
       "fullstartdate": "20261124",
       "enddate": "20261125",
