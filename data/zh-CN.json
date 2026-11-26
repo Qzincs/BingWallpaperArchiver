@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261126",
+      "fullstartdate": "20261126",
+      "enddate": "20261127",
+      "urlbase": "http://ts4.tc.mm.bing.net/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg",
+      "copyrighttext": "© Peter Unger/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e5%b7%9e%e6%80%80%e5%8d%a2%e5%ba%93%e6%b2%b3%e7%9a%84%e5%bd%a9%e8%99%b9%e7%80%91%e5%b8%83&form=BGALM&filters=HpDate:\"20261125_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国",
+      "description": "在夏威夷大岛的希洛，水流、阳光与葱郁绿意交汇于彩虹瀑布。威陆库河的河水从80英尺高的熔岩岩壁上奔流而下，落入下方的水潭时激起水雾。晴朗的早晨，阳光照进水雾，便可能映出为瀑布赋名的绚丽彩虹。这座壮观的瀑布在夏威夷语中称为瓦伊阿努埃努埃（Waiānuenue），意为“彩虹之水”；它四周环绕着热带植被，在夏威夷传说中也占有特殊地位。",
+      "headline": "彩虹落下的地方",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_RFHilo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 26",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e5%b7%9e%e6%80%80%e5%8d%a2%e5%ba%93%e6%b2%b3%e7%9a%84%e5%bd%a9%e8%99%b9%e7%80%91%e5%b8%83&form=BGABWCTA7&filters=HpDate:\"20261125_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%a4%8f%e5%a8%81%e5%a4%b7%e5%b7%9e%e6%80%80%e5%8d%a2%e5%ba%93%e6%b2%b3%e7%9a%84%e5%bd%a9%e8%99%b9%e7%80%91%e5%b8%83&form=BGABWCTA11&filters=HpDate:\"20261125_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261125",
       "fullstartdate": "20261125",
       "enddate": "20261126",

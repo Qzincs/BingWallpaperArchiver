@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261126",
+      "fullstartdate": "20261126",
+      "enddate": "20261127",
+      "urlbase": "https://www.bing.com/th?id=OHR.RFHilo_ES-ES7516757686_UHD.jpg",
+      "copyrighttext": "© Peter Unger/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Rainbow+Falls+R%c3%ado+Wailuku+Haw%c3%a1i&form=BGALM&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Rainbow Falls, río Wailuku, Hilo, Hawái, Estados Unidos",
+      "description": "Rainbow Falls cae unos 24 metros sobre una antigua gruta de lava en el río Wailuku, cerca de Hilo, en la isla de Hawái. Su nombre se debe a los arcoíris que suelen formarse en la bruma cuando la luz del sol alcanza la cascada durante la mañana.",
+      "headline": "Un arcoíris entre la selva",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_RFHilo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.718779,-155.108611/8?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=19.718779,-155.108611;S9;Rainbow Falls, Hilo, Hawái&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Rainbow+Falls+R%c3%ado+Wailuku+Haw%c3%a1i&form=BGABWCTA7&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Rainbow+Falls+R%c3%ado+Wailuku+Haw%c3%a1i&form=BGABWCTA11&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261125",
       "fullstartdate": "20261125",
       "enddate": "20261126",

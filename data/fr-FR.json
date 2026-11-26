@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261126",
+      "fullstartdate": "20261126",
+      "enddate": "20261127",
+      "urlbase": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg",
+      "copyrighttext": "© Peter Unger/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Chutes+Rainbow+Wailuku+Hawa%c3%af&form=BGALM&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cascades Rainbow sur la rivière Wailuku, Hilo, Hawaï, États-Unis",
+      "description": "L'eau, la lumière et la végétation luxuriante se mêlent harmonieusement pour mettre en valeur les chutes Rainbow de Hilo, sur la Grande Île d'Hawaï. Ici, la rivière Wailuku dévale une paroi de lave de 24 mètres, projetant un voile de brume dans les airs lorsqu'elle atteint le bassin en contrebas. Les matins ensoleillés, cette brume capte la lumière et forme des arcs-en-ciel saisissants qui ont donné leur nom à cette cascade.",
+      "headline": "Là où tombent les arcs-en-ciel",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_RFHilo\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/19.718779,-155.108611/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=19.718779,-155.108611;S9;Chutes Rainbow, rivière Wailuku&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "26 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Chutes+Rainbow+Wailuku+Hawa%c3%af&form=BGABWCTA7&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Chutes+Rainbow+Wailuku+Hawa%c3%af&form=BGABWCTA11&filters=HpDate:\"20261125_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261125",
       "fullstartdate": "20261125",
       "enddate": "20261126",

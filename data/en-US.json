@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261126",
+      "fullstartdate": "20261126",
+      "enddate": "20261127",
+      "urlbase": "https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg",
+      "copyrighttext": "© davidsdodd/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Thanksgiving&form=BGALM&filters=HpDate:\"20261126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Two wild tom turkeys",
+      "description": "With their colorful plumage and distinctive gobble, adult male turkeys, known as toms or gobblers, are a familiar sight of the season. Toms, like those pictured here, fan their tail feathers and show off their rich coloring to attract hens. These native birds can be found in the wild across much of North America, often in forest and woodland habitats. Turkeys have also become closely tied to Thanksgiving traditions, serving as a familiar centerpiece of a holiday feast that, for many, is less about what's on the table and more about gathering with family and friends. In today's image, two toms take a Thanksgiving stroll and put their finest feathers forward in the warm glow of autumn.",
+      "headline": "Turkey twins",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261126_WildTom\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 26, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Thanksgiving&form=BGABWCTA7&filters=HpDate:\"20261126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Thanksgiving&form=BGABWCTA11&filters=HpDate:\"20261126_0800\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261125",
       "fullstartdate": "20261125",
       "enddate": "20261126",
