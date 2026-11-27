@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261127",
+      "fullstartdate": "20261127",
+      "enddate": "20261128",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg",
+      "copyrighttext": "© Jeff Foott/Minden",
+      "copyrightlink": "https://www.bing.com/search?q=Lake+Powell+Stausee&form=BGALM&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Butte bei Sonnenuntergang, Face Canyon, Lake Powell, Utah, USA",
+      "description": "Versteckt in einer uralten Sandsteinlandschaft ist der Face Canyon einer von 96 Canyons, die sich vom Lake Powell im Süden Utahs aus erstrecken. Viele liegen weit abseits von Straßen und wären schwer zu erreichen, wären sie nicht vom See überflutet worden, der 1963 während des Baus des Glen-Canyon-Staudamms entstand. Der See erstreckt sich etwa 300 Kilometer entlang von Flussläufen und Canyons, die man mit dem Boot, Kajak oder anderen Wassersportgeräten erkunden kann.",
+      "headline": "Streifen in Grau und Gold",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261127_FaceCanyon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.002262,-111.24176/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=de-DE&od=2&shading=flat&pp=37.002262,-111.24176;S9;Face Canyon, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27. Nov.. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lake+Powell+Stausee&form=BGABWCTA7&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Im Web suchen, um mehr über dieses Bild zu erfahren"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Im Web suchen, um mehr über dieses Bild zu erfahren",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lake+Powell+Stausee&form=BGABWCTA11&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Im Web suchen, um mehr über dieses Bild zu erfahren"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261126",
       "fullstartdate": "20261126",
       "enddate": "20261127",

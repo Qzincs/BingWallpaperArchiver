@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261127",
+      "fullstartdate": "20261127",
+      "enddate": "20261128",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg",
+      "copyrighttext": "© Jeff Foott/Minden",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab%e6%b9%96&form=BGALM&filters=HpDate:\"20261126_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "夕暮れの岩山、フェイス・キャニオン、パウエル湖、ユタ州、アメリカ",
+      "description": "ユタ州南部のパウエル湖には、砂岩に囲まれた数多くの峡谷が広がっています。その一つ、フェイス・キャニオンは、切り立った岩壁と静かな湖面が美しい場所です。パウエル湖はダムの建設によって生まれた人工湖で、ボートやカヤックで峡谷を巡ることができます。夕暮れには岩肌が黄金色に染まり、幻想的な景色が広がります。高い岩壁が強い日差しを遮ってくれるため、暑い日でも日陰でひと息つけます。",
+      "headline": "灰色と黄金色が織りなす風景",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261127_FaceCanyon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.002262,-111.24176/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=37.002262,-111.24176;S9;フェイス・キャニオン、ユタ州&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 27 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab%e6%b9%96&form=BGABWCTA7&filters=HpDate:\"20261126_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab%e6%b9%96&form=BGABWCTA11&filters=HpDate:\"20261126_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261126",
       "fullstartdate": "20261126",
       "enddate": "20261127",

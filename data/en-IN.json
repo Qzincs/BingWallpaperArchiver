@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261127",
+      "fullstartdate": "20261127",
+      "enddate": "20261128",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-IN7727815834_UHD.jpg",
+      "copyrighttext": "© Jeff Foott/Minden",
+      "copyrightlink": "https://www.bing.com/search?q=Lake+Powell&form=BGALM&filters=HpDate:\"20261126_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA",
+      "description": "Hidden within an ancient sandstone landscape, Face Canyon is one of 96 canyons stretching out from Lake Powell in southern Utah. Many are far from roads and would be hard to reach if they hadn't been flooded by the lake, created in 1963 during the construction of the Glen Canyon Dam. The lake's waters back up about 300 kilometres, along creeks and canyons which you can explore by boat, kayak or personal watercraft.",
+      "headline": "Ribbons of grey and gold",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261127_FaceCanyon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.002262,-111.24176/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-IN&od=2&shading=flat&pp=37.002262,-111.24176;S9;Face Canyon, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 27, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lake+Powell&form=BGABWCTA7&filters=HpDate:\"20261126_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lake+Powell&form=BGABWCTA11&filters=HpDate:\"20261126_1830\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261126",
       "fullstartdate": "20261126",
       "enddate": "20261127",

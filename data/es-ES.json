@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261127",
+      "fullstartdate": "20261127",
+      "enddate": "20261128",
+      "urlbase": "https://www.bing.com/th?id=OHR.FaceCanyon_ES-ES7167229862_UHD.jpg",
+      "copyrighttext": "© Jeff Foott/Minden",
+      "copyrightlink": "https://www.bing.com/search?q=Lago+Powell&form=BGALM&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Colina aislada al atardecer, Face Canyon, Lago Powell, Utah, EE. UU.",
+      "description": "Oculto en un antiguo paisaje de arenisca, Face Canyon es uno de los 96 cañones que se extienden desde el Lago Powell, en el sur de Utah. Muchos están lejos de las carreteras y serían difíciles de alcanzar si no los hubiera inundado el lago, creado en 1963 durante la construcción de la presa de Glen Canyon. Las aguas del lago remontan unos 300 km por arroyos y cañones que se pueden explorar en barco, en kayak o en moto acuática.",
+      "headline": "Cintas grises y doradas",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261127_FaceCanyon\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/37.002262,-111.24176/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=37.002262,-111.24176;S9;Face Canyon, Utah&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "27 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Lago+Powell&form=BGABWCTA7&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Lago+Powell&form=BGABWCTA11&filters=HpDate:\"20261126_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261126",
       "fullstartdate": "20261126",
       "enddate": "20261127",
