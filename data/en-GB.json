@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261128",
+      "fullstartdate": "20261128",
+      "enddate": "20261129",
+      "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_EN-GB9335121200_UHD.jpg",
+      "copyrighttext": "© Lara_Uhryn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Prague+bridges&form=BGALM&filters=HpDate:\"20261128_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Old town and Vltava River, Prague, Czechia",
+      "description": "This autumn view from Letná Park looks out over Prague, which was built along the banks of the Vltava River in Czechia. In today's image, the river winds its way through the historic Old Town and Malá Strana districts, beneath Mánes Bridge in the foreground. Many beautiful bridges now span the Vltava, but for centuries there was only one: Charles Bridge, pictured second from the bottom. Its first stones were laid in 1357 during the reign of Charles IV and, until 1841, it was the only way to cross the river on foot. Today, its stone arches, Gothic towers and statues lining the bridge draw large crowds, so visitors are advised to arrive by dawn for the best photographs. Alternatively, they could walk on to the next crossing, Legion Bridge, which is less crowded and offers beautiful views of the National Theatre, Prague Castle and its busier neighbour.",
+      "headline": "Bridges through time",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/5?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=en-GB&od=2&shading=flat&pp=50.089959,14.412867;S9;Mánes Bridge, Prague&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "Nov 28, 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Prague+bridges&form=BGABWCTA7&filters=HpDate:\"20261128_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Search the web to learn more about this picture",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Prague+bridges&form=BGABWCTA11&filters=HpDate:\"20261128_0000\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Search the web to learn more about this picture"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261127",
       "fullstartdate": "20261127",
       "enddate": "20261128",

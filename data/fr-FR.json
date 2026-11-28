@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261128",
+      "fullstartdate": "20261128",
+      "enddate": "20261129",
+      "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg",
+      "copyrighttext": "© Lara_Uhryn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Prague+ponts&form=BGALM&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Vieille ville et rivière Vltava, Prague, Tchéquie",
+      "description": "Vue depuis le parc Letná, la rivière Vltava traverse Prague, la capitale de la Tchéquie, sous un ciel automnal. Sur cette image, le cours d’eau serpente à travers les quartiers historiques de la Vieille Ville et de Malá Strana. Le pont Mánes au premier plan jouxte le fameux pont Charles qui est resté pendant des siècles l’unique structure de la ville traversant la Vltava. Ses premières pierres furent posées en 1357, sous le règne de Charles IV.",
+      "headline": "De pont en pont",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/11?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=fr-FR&od=2&shading=flat&pp=50.089959,14.412867;S9;Pont Mánes&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Prague+ponts&form=BGABWCTA7&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Rechercher sur le web pour en savoir plus sur cette image"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Rechercher sur le web pour en savoir plus sur cette image",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Prague+ponts&form=BGABWCTA11&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Rechercher sur le web pour en savoir plus sur cette image"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261127",
       "fullstartdate": "20261127",
       "enddate": "20261128",

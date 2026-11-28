@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261128",
+      "fullstartdate": "20261128",
+      "enddate": "20261129",
+      "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_ES-ES8901377082_UHD.jpg",
+      "copyrighttext": "© Lara_Uhryn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Puentes+de+Praga&form=BGALM&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Casco antiguo y río Moldava, Praga, Chequia",
+      "description": "Esta vista otoñal desde el parque de Letná contempla Praga, que creció a orillas del río Moldava, en Chequia. En la imagen de hoy, el río serpentea por el histórico casco antiguo y los distritos de Malá Strana, bajo el puente Mánes, en primer plano. Son muchos los hermosos puentes que cruzan ahora el Moldava, pero durante siglos solo hubo uno: el puente de Carlos, que aparece en segundo lugar empezando por abajo. Sus primeras piedras se colocaron en 1357, durante el reinado de Carlos IV, y hasta 1841 fue la única manera de cruzar el río a pie. Hoy sus arcos de piedra, sus torres góticas y las estatuas que bordean el puente atraen a multitudes, por lo que se aconseja a los turistas llegar al amanecer para hacer las mejores fotografías. O bien pueden seguir hasta el siguiente cruce, el puente de la Legión, menos concurrido y con hermosas vistas del Teatro Nacional, del Castillo de Praga y de su vecino más transitado.",
+      "headline": "Puentes a través del tiempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/12?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=es-ES&od=2&shading=flat&pp=50.089959,14.412867;S9;Puente Mánes, Praga&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 de nov de 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Puentes+de+Praga&form=BGABWCTA7&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Buscar en la web para obtener más información sobre esta imagen"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Buscar en la web para obtener más información sobre esta imagen",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Puentes+de+Praga&form=BGABWCTA11&filters=HpDate:\"20261127_2300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Buscar en la web para obtener más información sobre esta imagen"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261127",
       "fullstartdate": "20261127",
       "enddate": "20261128",

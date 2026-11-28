@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261128",
+      "fullstartdate": "20261128",
+      "enddate": "20261129",
+      "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg",
+      "copyrighttext": "© Lara_Uhryn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e3%83%97%e3%83%a9%e3%83%8f+%e6%a9%8b&form=BGALM&filters=HpDate:\"20261127_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "旧市街とヴルタヴァ川、プラハ、チェコ",
+      "description": "チェコの首都プラハを流れるヴルタヴァ川には、歴史ある美しい橋がいくつも架かっています。なかでも有名なのが、1357年に建設が始まったカレル橋です。1841年までは、歩いて川を渡れる唯一の橋として人々の暮らしを支えてきました。今では橋に並ぶ彫像やゴシック様式の塔が見どころとなり、多くの観光客でにぎわっています。ゆっくり景色を楽しみたいなら、少し離れたレギー橋から眺めるのもおすすめです。",
+      "headline": "歴史をつなぐ橋",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/6?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=ja-JP&od=2&shading=flat&pp=50.089959,14.412867;S9;マーネス橋、プラハ&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 年 11月 月 28 日",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e3%83%97%e3%83%a9%e3%83%8f+%e6%a9%8b&form=BGABWCTA7&filters=HpDate:\"20261127_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "この画像について詳しく知るには、Web を検索してください"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "この画像について詳しく知るには、Web を検索してください",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e3%83%97%e3%83%a9%e3%83%8f+%e6%a9%8b&form=BGABWCTA11&filters=HpDate:\"20261127_1500\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "この画像について詳しく知るには、Web を検索してください"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261127",
       "fullstartdate": "20261127",
       "enddate": "20261128",

@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261128",
+      "fullstartdate": "20261128",
+      "enddate": "20261129",
+      "urlbase": "https://www.bing.com/th?id=OHR.VltavaPrague_PT-BR9631249556_UHD.jpg",
+      "copyrighttext": "© Lara_Uhryn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=Praga+Pontes&form=BGALM&filters=HpDate:\"20261128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "Cidade Antiga e rio Vltava, Praga, República Tcheca",
+      "description": "Esta vista de outono a partir do Parque Letná mostra Praga às margens do rio Vltava, na Tchéquia.  Na imagem de hoje, o rio serpenteia pelos bairros históricos da Cidade Velha e de Malá Strana, passando sob a Ponte Mánes, em primeiro plano. Hoje, muitas belas pontes atravessam o Vltava, mas durante séculos houve apenas uma: a Ponte Carlos, a segunda de baixo para cima na imagem. Suas primeiras pedras foram assentadas em 1357, durante o reinado de Carlos IV, e, até 1841, ela era a única forma de atravessar o rio a pé.",
+      "headline": "Praga atravessa o tempo",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "https://platform.bing.com/geo/REST/v1/Imagery/Map/RoadVibrant/50.089959,14.412867/4?key=AsSOKo7OOz5VAtfAj0rjgaXlhCrCZI6PGbLj7GCH8IW2HUalyg4BVhqA0z77PRCj&c=pt-BR&od=2&shading=flat&pp=50.089959,14.412867;S9;Ponte Mánes, Praga&st=pp|v:false;lv:false_trs|v:false;lv:false&ml=Basemap,Landmarks&logo=no&mapSize=386,434&da=ro",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "28 nov. 2026",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=Praga+Pontes&form=BGABWCTA7&filters=HpDate:\"20261128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "Pesquise na Web para saber mais sobre esta imagem",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=Praga+Pontes&form=BGABWCTA11&filters=HpDate:\"20261128_0300\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "Pesquise na Web para saber mais sobre esta imagem"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261127",
       "fullstartdate": "20261127",
       "enddate": "20261128",

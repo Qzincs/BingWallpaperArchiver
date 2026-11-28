@@ -1,6 +1,84 @@
 {
   "images": [
     {
+      "startdate": "20261128",
+      "fullstartdate": "20261128",
+      "enddate": "20261129",
+      "urlbase": "http://ts2.tc.mm.bing.net/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg",
+      "copyrighttext": "© Lara_Uhryn/Getty Images",
+      "copyrightlink": "https://www.bing.com/search?q=%e5%b8%83%e6%8b%89%e6%a0%bc%e7%9a%84%e6%a1%a5%e6%a2%81&form=BGALM&filters=HpDate:\"20261127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\"",
+      "title": "捷克布拉格老城区与伏尔塔瓦河",
+      "description": "从莱特纳公园望去，秋色中的布拉格沿捷克伏尔塔瓦河两岸铺展。照片中，河水穿过历史悠久的老城区和小城区，从前景的马内斯桥下流过。如今，伏尔塔瓦河上横跨着许多美丽的桥梁，但数百年间只有一座查理大桥，即照片中从下往上数第二座桥。1357年，查理四世在位期间，这座桥奠下第一块基石；直到1841年，它都是步行过河的唯一通道。如今，石拱、哥特式桥塔和桥上的雕像吸引大批游客，想拍到好照片，最好黎明时就来。也可以继续走到下一座军团桥，那里人少一些，还能欣赏布拉格国家剧院、布拉格城堡和热闹的查理大桥。",
+      "headline": "跨越时光的桥梁",
+      "quiz": "https://www.bing.com/search?q=Bing+homepage+quiz&filters=WQOskey:\"HPQuiz_20261128_VltavaPrague\"&FORM=BGAQ",
+      "mapLink": {
+        "Url": "",
+        "Link": ""
+      },
+      "quizId": null,
+      "fullDateString": "2026 11月 28",
+      "theme": [
+        "bing"
+      ],
+      "travelUrl": "https://www.bing.com/travel?&form=BGATL",
+      "visualSearchUrl": "",
+      "sourceType": "BingImageOfTheDay",
+      "showVisualSearch": false,
+      "CTAData": null,
+      "detectedRegion": "us",
+      "enableBingImageCreator": false,
+      "topRightCTAData": {
+        "FullDateString": "",
+        "SearchQueries": [],
+        "TooltipText": "",
+        "ButtonText": "Search the web to learn more about this picture",
+        "OverrideMarket": "",
+        "SearchUrls": [
+          "https://www.bing.com/search?q=%e5%b8%83%e6%8b%89%e6%a0%bc%e7%9a%84%e6%a1%a5%e6%a2%81&form=BGABWCTA7&filters=HpDate:\"20261127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+        ],
+        "CTAType": 5,
+        "CTALocation": 0,
+        "FormCode": "",
+        "BrowserName": 0,
+        "DefaultsSet": 0,
+        "ButtonTextList": [
+          "Search the web to learn more about this picture"
+        ]
+      },
+      "imageHotspots": [
+        {
+          "boundingBox": {
+            "X": 0,
+            "Y": 0,
+            "Width": 3840,
+            "Height": 2160,
+            "Label": "",
+            "ContourList": [],
+            "Contours": []
+          },
+          "ctaData": {
+            "FullDateString": "",
+            "SearchQueries": [],
+            "TooltipText": "",
+            "ButtonText": "搜索 Web 以了解有关此图片的详细信息",
+            "OverrideMarket": "",
+            "SearchUrls": [
+              "https://www.bing.com/search?q=%e5%b8%83%e6%8b%89%e6%a0%bc%e7%9a%84%e6%a1%a5%e6%a2%81&form=BGABWCTA11&filters=HpDate:\"20261127_1600\"+mgzv3configlist:\"BingQA_Encyclopedia_Layout\""
+            ],
+            "CTAType": 5,
+            "CTALocation": 2,
+            "FormCode": "",
+            "BrowserName": 0,
+            "DefaultsSet": 0,
+            "ButtonTextList": [
+              "搜索 Web 以了解有关此图片的详细信息"
+            ]
+          }
+        }
+      ],
+      "AnimatedWP": null
+    },
+    {
       "startdate": "20261127",
       "fullstartdate": "20261127",
       "enddate": "20261128",
